@@ -1,1 +1,120 @@
-IiIiYmFja2VuZC5hZ2VudF9zZXJ2aWNlIOKAlCDmmbrog73kvZMgQ1JVRCArIOWPkeW4g+eKtuaAgeacuu+8iEIz77yM5qGG5p625peg5YWz5qC45b+D77yJ44CCCgrmoaXmjqXkuKTlpZflrZfmrrXvvJoKICAtIFJCQUMg5a2X5q6177yIcGVybWlzc2lvbnMuQWdlbnTvvInvvJpvd25lcl9pZCAvIHZpc2liaWxpdHkgLyBzdGF0dXMgLyBkZXB0X2lkIOKAlOKAlCDlhrPlrprosIHog73liJvlu7ov6KeBL+aJueOAggogIC0g5Lia5Yqh5a2X5q6177yabmFtZSAvIGRvbWFpbiAvIHNjb3BlIC8gdGllciAvIGRlc2NyaXB0aW9uIC4uLiDigJTigJQg5Yaz5a6a5oCO5LmI55So44CCCgrmiYDmnInmnYPpmZDliKTlrpoqKuWFqOmDqOWnlOaJmCBwZXJtaXNzaW9ucy5weSoq77yIY3JlYXRlX2FnZW50L3N1Ym1pdC9hcHByb3ZlL3JlamVjdC9jYW5fdXNlX2FnZW5077yJ77yMCuacrOacjeWKoeWPqui0n+i0o+WtmOWCqOS4juWtl+auteahpeaOpeOAgue6ryBzdGRsaWLvvIzlj6/nprvnur/mtYvjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBzZWNyZXRzCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsCgpmcm9tIHNlY3VyZWd1YXJkLnBlcm1pc3Npb25zIGltcG9ydCAoCiAgICBVc2VyLCBBZ2VudCBhcyBSQkFDQWdlbnQsIFZpc2liaWxpdHksIEFnZW50U3RhdHVzLCBSb2xlLAogICAgY3JlYXRlX2FnZW50LCBzdWJtaXRfZm9yX3JldmlldywgYXBwcm92ZSwgcmVqZWN0LCBjYW5fdXNlX2FnZW50LAopCgojIOWMv+WQjeeUqOaIt++8iOacqueZu+W9le+8ieinhuWbvu+8mueUqOS6jiBsaXN0X2ZvciDml7blj6rmlL7ooYwi5bey5Y+R5biD55qE5YWs5YWxIuaZuuiDveS9k+OAggpfQU5PTiA9IFVzZXIoaWQ9Il9fYW5vbl9fIiwgcm9sZT1Sb2xlLlVTRVIsIGRlcHRfaWQ9Tm9uZSkKCgpkZWYgX2Jpel9kZWZhdWx0cygpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgcmV0dXJuIHsiZGVzY3JpcHRpb24iOiAiIiwgImRvbWFpbiI6ICJnZW5lcmFsIiwgInNjb3BlIjogIm9wZW4iLCAidGllciI6ICJ0aWVyMSIsCiAgICAgICAgICAgICJpY29uIjogIvCfpJYiLCAidG9vbHNfY291bnQiOiAwLCAic2tpbGxzX2NvdW50IjogMCwgImtiX2NvdW50IjogMCwKICAgICAgICAgICAgImZyZWVfcXVvdGFfdG9rZW5zIjogMTAwMDB9CgoKY2xhc3MgQWdlbnRTZXJ2aWNlOgogICAgIiIi5pm66IO95L2T5a2Y5YKoICsg55Sf5ZG95ZGo5pyf44CC55Sf5Lqn5oqKIF9hZ2VudHMg5o2iIFBvc3RncmVz77yIQjfvvInvvIzmjqXlj6PkuI3lj5jjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgc2VlZDogYm9vbCA9IFRydWUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fYWdlbnRzOiBEaWN0W3N0ciwgRGljdFtzdHIsIEFueV1dID0ge30KICAgICAgICBpZiBzZWVkOgogICAgICAgICAgICBzZWxmLl9zZWVkKCkKCiAgICAjIC0tLS0tLS0tLS0gUkJBQyDop4blm77moaXmjqUgLS0tLS0tLS0tLQogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9yYmFjKHJlYzogRGljdFtzdHIsIEFueV0pIC0+IFJCQUNBZ2VudDoKICAgICAgICByZXR1cm4gUkJBQ0FnZW50KAogICAgICAgICAgICBpZD1yZWNbImlkIl0sIG93bmVyX2lkPXJlY1sib3duZXJfaWQiXSwKICAgICAgICAgICAgdmlzaWJpbGl0eT1WaXNpYmlsaXR5KHJlY1sidmlzaWJpbGl0eSJdKSwKICAgICAgICAgICAgc3RhdHVzPUFnZW50U3RhdHVzKHJlY1sic3RhdHVzIl0pLCBkZXB0X2lkPXJlYy5nZXQoImRlcHRfaWQiKSwKICAgICAgICApCgogICAgIyAtLS0tLS0tLS0tIOWIm+W7uiAtLS0tLS0tLS0tCiAgICBkZWYgY3JlYXRlKHNlbGYsIGNhbGxlcjogVXNlciwgcGF5bG9hZDogRGljdFtzdHIsIEFueV0pIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIuWIm+W7uuaZuuiDveS9k+OAguengeacieebtOWPkSBwdWJsaXNoZWTvvJvlpJrkurrlj6/op4Hov5sgZHJhZnTjgILotormnYPmipsgUGVybWlzc2lvbkRlbmllZOOAgiIiIgogICAgICAgIHZpcyA9IFZpc2liaWxpdHkocGF5bG9hZC5nZXQoInZpc2liaWxpdHkiLCAicHJpdmF0ZSIpKQogICAgICAgIGFnZW50X2lkID0gcGF5bG9hZC5nZXQoImlkIikgb3IgKCJhZ18iICsgc2VjcmV0cy50b2tlbl9oZXgoNCkpCiAgICAgICAgIyDmnYPpmZAgKyDnirbmgIHlhajnlLEgcGVybWlzc2lvbnMuY3JlYXRlX2FnZW50IOWGs+Wumu+8iOWQqyLmma7pgJogdXNlciDkuI3og73lu7rlpJrkurrlj6/op4Ei77yJCiAgICAgICAgcmJhYyA9IGNyZWF0ZV9hZ2VudChjYWxsZXIsIGFnZW50X2lkLCB2aXMsIHBheWxvYWQuZ2V0KCJkZXB0X2lkIikpCiAgICAgICAgcmVjID0gewogICAgICAgICAgICAqKl9iaXpfZGVmYXVsdHMoKSwKICAgICAgICAgICAgImlkIjogcmJhYy5pZCwgIm93bmVyX2lkIjogcmJhYy5vd25lcl9pZCwKICAgICAgICAgICAgInZpc2liaWxpdHkiOiByYmFjLnZpc2liaWxpdHkudmFsdWUsICJzdGF0dXMiOiByYmFjLnN0YXR1cy52YWx1ZSwKICAgICAgICAgICAgImRlcHRfaWQiOiByYmFjLmRlcHRfaWQsCiAgICAgICAgICAgICJuYW1lIjogcGF5bG9hZC5nZXQoIm5hbWUiLCAi5pyq5ZG95ZCN5pm66IO95L2TIiksCiAgICAgICAgfQogICAgICAgIGZvciBrIGluICgiZGVzY3JpcHRpb24iLCAiZG9tYWluIiwgInNjb3BlIiwgInRpZXIiLCAiaWNvbiIsCiAgICAgICAgICAgICAgICAgICJ0b29sc19jb3VudCIsICJza2lsbHNfY291bnQiLCAia2JfY291bnQiLCAiZnJlZV9xdW90YV90b2tlbnMiKToKICAgICAgICAgICAgaWYgayBpbiBwYXlsb2FkOgogICAgICAgICAgICAgICAgcmVjW2tdID0gcGF5bG9hZFtrXQogICAgICAgIHNlbGYuX2FnZW50c1tyZWNbImlkIl1dID0gcmVjCiAgICAgICAgcmV0dXJuIHJlYwoKICAgICMgLS0tLS0tLS0tLSDlj5HluIPnirbmgIHmnLrvvIjlp5TmiZggcGVybWlzc2lvbnPvvIkgLS0tLS0tLS0tLQogICAgZGVmIF90cmFuc2l0aW9uKHNlbGYsIGNhbGxlcjogVXNlciwgYWdlbnRfaWQ6IHN0ciwgZm4pIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHJlYyA9IHNlbGYuX3JlcXVpcmUoYWdlbnRfaWQpCiAgICAgICAgYSA9IHNlbGYuX3JiYWMocmVjKQogICAgICAgIGZuKGNhbGxlciwgYSkgICAgICAgICAgICAgICAgICMg6LaK5p2DL+eKtuaAgemdnuazleaXtuaKmyBQZXJtaXNzaW9uRGVuaWVkCiAgICAgICAgcmVjWyJzdGF0dXMiXSA9IGEuc3RhdHVzLnZhbHVlCiAgICAgICAgcmV0dXJuIHJlYwoKICAgIGRlZiBzdWJtaXQoc2VsZiwgY2FsbGVyOiBVc2VyLCBhZ2VudF9pZDogc3RyKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4gc2VsZi5fdHJhbnNpdGlvbihjYWxsZXIsIGFnZW50X2lkLCBzdWJtaXRfZm9yX3JldmlldykKCiAgICBkZWYgYXBwcm92ZShzZWxmLCBjYWxsZXI6IFVzZXIsIGFnZW50X2lkOiBzdHIpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHJldHVybiBzZWxmLl90cmFuc2l0aW9uKGNhbGxlciwgYWdlbnRfaWQsIGFwcHJvdmUpCgogICAgZGVmIHJlamVjdChzZWxmLCBjYWxsZXI6IFVzZXIsIGFnZW50X2lkOiBzdHIpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHJldHVybiBzZWxmLl90cmFuc2l0aW9uKGNhbGxlciwgYWdlbnRfaWQsIHJlamVjdCkKCiAgICAjIC0tLS0tLS0tLS0g5p+l6K+iIC0tLS0tLS0tLS0KICAgIGRlZiBnZXQoc2VsZiwgYWdlbnRfaWQ6IE9wdGlvbmFsW3N0cl0pIC0+IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXToKICAgICAgICByZXR1cm4gc2VsZi5fYWdlbnRzLmdldChhZ2VudF9pZCBvciAiIikKCiAgICBkZWYgX3JlcXVpcmUoc2VsZiwgYWdlbnRfaWQ6IHN0cikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgcmVjID0gc2VsZi5fYWdlbnRzLmdldChhZ2VudF9pZCkKICAgICAgICBpZiBub3QgcmVjOgogICAgICAgICAgICByYWlzZSBLZXlFcnJvcihmIuaZuuiDveS9k+S4jeWtmOWcqDoge2FnZW50X2lkfSIpCiAgICAgICAgcmV0dXJuIHJlYwoKICAgIGRlZiBsaXN0X2ZvcihzZWxmLCBjYWxsZXI6IE9wdGlvbmFsW1VzZXJdKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICAiIiLmjIkgcGVybWlzc2lvbnMuY2FuX3VzZV9hZ2VudCDov4fmu6TjgILljL/lkI3lj6rop4Hlt7Llj5HluIPlhazlhbHjgIIiIiIKICAgICAgICB1c2VyID0gY2FsbGVyIG9yIF9BTk9OCiAgICAgICAgcmV0dXJuIFtyIGZvciByIGluIHNlbGYuX2FnZW50cy52YWx1ZXMoKSBpZiBjYW5fdXNlX2FnZW50KHVzZXIsIHNlbGYuX3JiYWMocikpWzBdXQoKICAgICMgLS0tLS0tLS0tLSDnp43lrZDvvIjlhoXnva7kuInkuKrlhazlhbHmmbrog73kvZPvvIzlt7Llj5HluIPvvIkgLS0tLS0tLS0tLQogICAgZGVmIF9zZWVkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgYmFzZSA9IFsKICAgICAgICAgICAgeyJpZCI6ICJnZW5lcmFsIiwgIm5hbWUiOiAi6YCa55So5Yqp5omLIiwgImljb24iOiAi8J+kliIsICJkb21haW4iOiAiZ2VuZXJhbCIsCiAgICAgICAgICAgICAic2NvcGUiOiAib3BlbiIsICJkZXNjcmlwdGlvbiI6ICLml6XluLjpl67nrZTkuI7lhpnkvZzvvIzlj6/ogZTnvZHvvIzpgILlkIjpnZ7mlY/mhJ/lvIDmlL7ku7vliqHjgIIiLAogICAgICAgICAgICAgInRvb2xzX2NvdW50IjogMywgInNraWxsc19jb3VudCI6IDEsICJrYl9jb3VudCI6IDEsICJmcmVlX3F1b3RhX3Rva2VucyI6IDIwMDAwfSwKICAgICAgICAgICAgeyJpZCI6ICJlbGVjdHJvbWVjaGFuaWNhbCIsICJuYW1lIjogIuacuueUteWuieijheWKqeaJiyIsICJpY29uIjogIvCfj5fvuI8iLAogICAgICAgICAgICAgImRvbWFpbiI6ICJlbGVjdHJvbWVjaGFuaWNhbCIsICJzY29wZSI6ICJkb21haW5fb25seSIsCiAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi5bu6562R5py655S15a6J6KOF5LiT5Lia5Yqp5omL77yM5Zue562U6ZSa5a6aIEdCNTAyNDMg562J5qCH5YeG77yM6Ieq5bim5byV55So5ZCI6KeE5qCh6aqM44CCIiwKICAgICAgICAgICAgICJ0b29sc19jb3VudCI6IDMsICJza2lsbHNfY291bnQiOiAzLCAia2JfY291bnQiOiAyLCAiZnJlZV9xdW90YV90b2tlbnMiOiAxMDAwMH0sCiAgICAgICAgICAgIHsiaWQiOiAiY29kZSIsICJuYW1lIjogIuS7o+eggeWKqeaJiyIsICJpY29uIjogIvCfkrsiLCAiZG9tYWluIjogInNvZnR3YXJlIiwKICAgICAgICAgICAgICJzY29wZSI6ICJkb21haW5fb25seSIsCiAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi5Luj56CB55Sf5oiQ5LiO5a6h5p+l77yM5by66LCD54q25oCB5Y+Y5pu05LiJ5Lu25aWX5LiO5Y+v6YCG5oCn77yM5pWP5oSf5Lu75Yqh5by65Yi25pys5Zyw566X5Yqb44CCIiwKICAgICAgICAgICAgICJ0b29sc19jb3VudCI6IDQsICJza2lsbHNfY291bnQiOiAyLCAia2JfY291bnQiOiAxLCAiZnJlZV9xdW90YV90b2tlbnMiOiAxNTAwMH0sCiAgICAgICAgXQogICAgICAgIGZvciBiIGluIGJhc2U6CiAgICAgICAgICAgIHNlbGYuX2FnZW50c1tiWyJpZCJdXSA9IHsKICAgICAgICAgICAgICAgICoqX2Jpel9kZWZhdWx0cygpLCAqKmIsCiAgICAgICAgICAgICAgICAib3duZXJfaWQiOiAidV9hZG1pbiIsICJ2aXNpYmlsaXR5IjogInB1YmxpYyIsCiAgICAgICAgICAgICAgICAic3RhdHVzIjogInB1Ymxpc2hlZCIsICJkZXB0X2lkIjogTm9uZSwKICAgICAgICAgICAgfQo=
+"""backend.agent_service — 智能体 CRUD + 发布状态机（B3，框架无关核心）。
+
+桥接两套字段：
+  - RBAC 字段（permissions.Agent）：owner_id / visibility / status / dept_id —— 决定谁能创建/见/批。
+  - 业务字段：name / domain / scope / tier / description ... —— 决定怎么用。
+
+所有权限判定**全部委托 permissions.py**（create_agent/submit/approve/reject/can_use_agent），
+本服务只负责存储与字段桥接。纯 stdlib，可离线测。
+"""
+from __future__ import annotations
+
+import secrets
+from typing import Any, Dict, List, Optional
+
+from secureguard.permissions import (
+    User, Agent as RBACAgent, Visibility, AgentStatus, Role,
+    create_agent, submit_for_review, approve, reject, can_use_agent,
+)
+
+# 匿名用户（未登录）视图：用于 list_for 时只放行"已发布的公共"智能体。
+_ANON = User(id="__anon__", role=Role.USER, dept_id=None)
+
+
+def _biz_defaults() -> Dict[str, Any]:
+    return {"description": "", "domain": "general", "scope": "open", "tier": "tier1",
+            "icon": "🤖", "tools_count": 0, "skills_count": 0, "kb_count": 0,
+            "free_quota_tokens": 10000}
+
+
+class AgentService:
+    """智能体存储 + 生命周期。生产把 _agents 换 Postgres（B7），接口不变。"""
+
+    def __init__(self, seed: bool = True) -> None:
+        self._agents: Dict[str, Dict[str, Any]] = {}
+        if seed:
+            self._seed()
+
+    # ---------- RBAC 视图桥接 ----------
+    @staticmethod
+    def _rbac(rec: Dict[str, Any]) -> RBACAgent:
+        return RBACAgent(
+            id=rec["id"], owner_id=rec["owner_id"],
+            visibility=Visibility(rec["visibility"]),
+            status=AgentStatus(rec["status"]), dept_id=rec.get("dept_id"),
+        )
+
+    # ---------- 创建 ----------
+    def create(self, caller: User, payload: Dict[str, Any]) -> Dict[str, Any]:
+        """创建智能体。私有直发 published；多人可见进 draft。越权抛 PermissionDenied。"""
+        vis = Visibility(payload.get("visibility", "private"))
+        agent_id = payload.get("id") or ("ag_" + secrets.token_hex(4))
+        # 权限 + 状态全由 permissions.create_agent 决定（含"普通 user 不能建多人可见"）
+        rbac = create_agent(caller, agent_id, vis, payload.get("dept_id"))
+        rec = {
+            **_biz_defaults(),
+            "id": rbac.id, "owner_id": rbac.owner_id,
+            "visibility": rbac.visibility.value, "status": rbac.status.value,
+            "dept_id": rbac.dept_id,
+            "name": payload.get("name", "未命名智能体"),
+        }
+        for k in ("description", "domain", "scope", "tier", "icon",
+                  "tools_count", "skills_count", "kb_count", "free_quota_tokens"):
+            if k in payload:
+                rec[k] = payload[k]
+        self._agents[rec["id"]] = rec
+        return rec
+
+    # ---------- 发布状态机（委托 permissions） ----------
+    def _transition(self, caller: User, agent_id: str, fn) -> Dict[str, Any]:
+        rec = self._require(agent_id)
+        a = self._rbac(rec)
+        fn(caller, a)                 # 越权/状态非法时抛 PermissionDenied
+        rec["status"] = a.status.value
+        return rec
+
+    def submit(self, caller: User, agent_id: str) -> Dict[str, Any]:
+        return self._transition(caller, agent_id, submit_for_review)
+
+    def approve(self, caller: User, agent_id: str) -> Dict[str, Any]:
+        return self._transition(caller, agent_id, approve)
+
+    def reject(self, caller: User, agent_id: str) -> Dict[str, Any]:
+        return self._transition(caller, agent_id, reject)
+
+    # ---------- 查询 ----------
+    def get(self, agent_id: Optional[str]) -> Optional[Dict[str, Any]]:
+        return self._agents.get(agent_id or "")
+
+    def _require(self, agent_id: str) -> Dict[str, Any]:
+        rec = self._agents.get(agent_id)
+        if not rec:
+            raise KeyError(f"智能体不存在: {agent_id}")
+        return rec
+
+    def list_for(self, caller: Optional[User]) -> List[Dict[str, Any]]:
+        """按 permissions.can_use_agent 过滤。匿名只见已发布公共。"""
+        user = caller or _ANON
+        return [r for r in self._agents.values() if can_use_agent(user, self._rbac(r))[0]]
+
+    # ---------- 种子（内置三个公共智能体，已发布） ----------
+    def _seed(self) -> None:
+        base = [
+            {"id": "general", "name": "通用助手", "icon": "🤖", "domain": "general",
+             "scope": "open", "description": "日常问答与写作，可联网，适合非敏感开放任务。",
+             "tools_count": 3, "skills_count": 1, "kb_count": 1, "free_quota_tokens": 20000},
+            {"id": "electromechanical", "name": "机电安装助手", "icon": "🏗️",
+             "domain": "electromechanical", "scope": "domain_only",
+             "description": "建筑机电安装专业助手，回答锚定 GB50243 等标准，自带引用合规校验。",
+             "tools_count": 3, "skills_count": 3, "kb_count": 2, "free_quota_tokens": 10000},
+            {"id": "code", "name": "代码助手", "icon": "💻", "domain": "software",
+             "scope": "domain_only",
+             "description": "代码生成与审查，强调状态变更三件套与可逆性，敏感任务强制本地算力。",
+             "tools_count": 4, "skills_count": 2, "kb_count": 1, "free_quota_tokens": 15000},
+        ]
+        for b in base:
+            self._agents[b["id"]] = {
+                **_biz_defaults(), **b,
+                "owner_id": "u_admin", "visibility": "public",
+                "status": "published", "dept_id": None,
+            }

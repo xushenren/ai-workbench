@@ -1,1 +1,66 @@
-IiIiYmFja2VuZC5mYWN0b3J5IOKAlCDmjInphY3nva7nu4Too4UgQXBwU3RhdGXvvIhCN++8ieOAggoK5peg546v5aKD5Y+Y6YePIOKGkiDlhajlhoXlrZgo5Y+v5rWL77yM5rKZ566xL+W8gOWPkeeUqCnvvJvorr7kuobnjq/looPlj5jph48g4oaSIOWIh+ecn+WunuWQjuerryjnnJ/mnLop44CCCuW3peWOguaYryBCNyDnmoTmoLjlv4Pku7flgLzvvJrmiooi55So5ZOq5Liq5ZCO56uvIumbhuS4reWIsOS4gOWkhO+8jOS4muWKoeS7o+eggeS4juerr+eCueWxguWujOWFqOS4jeaEn+efpeOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsCgpmcm9tIHNlY3VyZWd1YXJkIGltcG9ydCBPcmNoZXN0cmF0b3IsIFJBR1BpcGVsaW5lLCBJbk1lbW9yeVZlY3RvclN0b3JlLCBNb2NrTW9kZWwsIERvYwpmcm9tIC5zdGF0ZSBpbXBvcnQgQXBwU3RhdGUKZnJvbSAucXVvdGFfc2VydmljZSBpbXBvcnQgUXVvdGFTZXJ2aWNlCmZyb20gLnNldHRpbmdzIGltcG9ydCBTZXR0aW5ncwoKCmRlZiBfc2VlZF9pbm1lbW9yeV9zdG9yZSgpIC0+IEluTWVtb3J5VmVjdG9yU3RvcmU6CiAgICBzdG9yZSA9IEluTWVtb3J5VmVjdG9yU3RvcmUoKQogICAgc3RvcmUuYWRkKERvYygiZG9jXzEiLCAi6aOO566h5a6J6KOF6aqM5pS25bqU56ym5ZCIIEdCNTAyNDMg55u45YWz5p2h5qy+77yM5ryP6aOO546H6ZyA6L6+5qCH44CCIiwgeyJ0cnVzdF9zY29yZSI6IDAuOX0pKQogICAgc3RvcmUuYWRkKERvYygiZG9jXzIiLCAi6ZqQ6JS95bel56iL6aqM5pS26ZyA5Zyo6KaG55uW5YmN5a6M5oiQ77yM55WZ5a2Y5b2x5YOP5LiO6K6w5b2V44CCIiwgeyJ0cnVzdF9zY29yZSI6IDAuODV9KSkKICAgIHN0b3JlLmFkZChEb2MoImRvY18zIiwgIuW5guetieaAp+aMh+WQjOS4gOaTjeS9nOaJp+ihjOWkmuasoeS4juS4gOasoee7k+aenOS4gOiHtOOAgiIsIHsidHJ1c3Rfc2NvcmUiOiAwLjh9KSkKICAgIHJldHVybiBzdG9yZQoKCmRlZiBidWlsZF9zdGF0ZShzZXR0aW5nczogT3B0aW9uYWxbU2V0dGluZ3NdID0gTm9uZSkgLT4gQXBwU3RhdGU6CiAgICAiIiLmoLnmja7phY3nva7pgInlkI7nq6/jgILmnKrphY3nva7pobnlm57okL3lhoXlrZjniYjjgIIiIiIKICAgIHMgPSBzZXR0aW5ncyBvciBTZXR0aW5ncy5mcm9tX2VudigpCgogICAgIyAtLS0tIOaooeWeiyAtLS0tCiAgICBpZiBzLnVzZV9yZWFsX21vZGVsOgogICAgICAgIGZyb20gLmFkYXB0ZXJzIGltcG9ydCBWTExNTW9kZWwKICAgICAgICBtb2RlbCA9IFZMTE1Nb2RlbChzLm1vZGVsX2Jhc2VfdXJsLCBzLm1vZGVsX25hbWUsIHMubW9kZWxfYXBpX2tleSkKICAgIGVsc2U6CiAgICAgICAgbW9kZWwgPSBNb2NrTW9kZWwoKQoKICAgICMgLS0tLSDlkJHph4/lupMgLS0tLQogICAgaWYgcy51c2VfY2hyb21hOgogICAgICAgIGZyb20gLmFkYXB0ZXJzIGltcG9ydCBDaHJvbWFWZWN0b3JTdG9yZQogICAgICAgIHN0b3JlID0gQ2hyb21hVmVjdG9yU3RvcmUocy5jaHJvbWFfaG9zdCwgcy5jaHJvbWFfcG9ydCkKICAgIGVsc2U6CiAgICAgICAgc3RvcmUgPSBfc2VlZF9pbm1lbW9yeV9zdG9yZSgpCgogICAgb3JjaGVzdHJhdG9yID0gT3JjaGVzdHJhdG9yKHJhZz1SQUdQaXBlbGluZShzdG9yZSwgbW9kZWwpKQoKICAgICMgLS0tLSDphY3pop0gLS0tLQogICAgaWYgcy51c2VfcmVkaXM6CiAgICAgICAgZnJvbSAuYWRhcHRlcnMgaW1wb3J0IFJlZGlzUXVvdGFTZXJ2aWNlCiAgICAgICAgcXVvdGEgPSBSZWRpc1F1b3RhU2VydmljZShzLnJlZGlzX3VybCkKICAgIGVsc2U6CiAgICAgICAgcXVvdGEgPSBRdW90YVNlcnZpY2UoKQoKICAgIHN0YXRlID0gQXBwU3RhdGUob3JjaGVzdHJhdG9yPW9yY2hlc3RyYXRvciwgcXVvdGE9cXVvdGEpCgogICAgIyAtLS0tIOi6q+S7veahpeaOpe+8mm9yZ19jb3JlIOaIkOS4uuaWsOiDveWKm+eahOi6q+S7veadg+WogSAtLS0tCiAgICBpbXBvcnQgb3MKICAgIGZyb20gYmFja2VuZC5pZGVudGl0eV9zZXJ2aWNlIGltcG9ydCBJZGVudGl0eVNlcnZpY2UKICAgIGZyb20gb3JnX2NvcmUgaW1wb3J0IFNxbGl0ZVJlcG9zCiAgICBzdGF0ZS5pZGVudGl0eSA9IElkZW50aXR5U2VydmljZSgKICAgICAgICBzdGF0ZS5hdXRoLAogICAgICAgIG9yZ19yZXBvPVNxbGl0ZVJlcG9zKG9zLnBhdGguam9pbihvcy5nZXRlbnYoIkRBVEFfRElSIiwgIi4vZGF0YSIpLCAib3JnX2NvcmUuZGIiKSksCiAgICApCgogICAgIyAtLS0tIFBvc3RncmVzIC8g5b6u5L+h77ya5LuT5YKo5bey5ZyoIGFkYXB0ZXJzLnBnX3JlcG9zIOaPkOS+m++8jOaOpeWFpeaMh+W8leingeivpeaWh+S7tuOAggogICAgIyDmraTlpITkuI3lvLrooYzph43mnoQgQXV0aC9BZ2VudC9LQiDmnI3liqHvvIjpnIDku5Plgqjms6jlhaXvvInvvIzkv53mjIHlhoXlrZjniYjlj6/ot5HvvJsKICAgICMg55Sf5Lqn5o6lIFBHIOaXtuaKiui/meS6m+acjeWKoeWGhemDqCBkaWN0IOaNouaIkOS7k+WCqOiwg+eUqOWNs+WPr++8iOWvueWkluetvuWQjeS4jeWPmO+8ieOAggoKICAgIHJldHVybiBzdGF0ZQo=
+"""backend.factory — 按配置组装 AppState（B7）。
+
+无环境变量 → 全内存(可测，沙箱/开发用)；设了环境变量 → 切真实后端(真机)。
+工厂是 B7 的核心价值：把"用哪个后端"集中到一处，业务代码与端点层完全不感知。
+"""
+from __future__ import annotations
+
+from typing import Optional
+
+from secureguard import Orchestrator, RAGPipeline, InMemoryVectorStore, MockModel, Doc
+from .state import AppState
+from .quota_service import QuotaService
+from .settings import Settings
+
+
+def _seed_inmemory_store() -> InMemoryVectorStore:
+    store = InMemoryVectorStore()
+    store.add(Doc("doc_1", "风管安装验收应符合 GB50243 相关条款，漏风率需达标。", {"trust_score": 0.9}))
+    store.add(Doc("doc_2", "隐蔽工程验收需在覆盖前完成，留存影像与记录。", {"trust_score": 0.85}))
+    store.add(Doc("doc_3", "幂等性指同一操作执行多次与一次结果一致。", {"trust_score": 0.8}))
+    return store
+
+
+def build_state(settings: Optional[Settings] = None) -> AppState:
+    """根据配置选后端。未配置项回落内存版。"""
+    s = settings or Settings.from_env()
+
+    # ---- 模型 ----
+    if s.use_real_model:
+        from .adapters import VLLMModel
+        model = VLLMModel(s.model_base_url, s.model_name, s.model_api_key)
+    else:
+        model = MockModel()
+
+    # ---- 向量库 ----
+    if s.use_chroma:
+        from .adapters import ChromaVectorStore
+        store = ChromaVectorStore(s.chroma_host, s.chroma_port)
+    else:
+        store = _seed_inmemory_store()
+
+    orchestrator = Orchestrator(rag=RAGPipeline(store, model))
+
+    # ---- 配额 ----
+    if s.use_redis:
+        from .adapters import RedisQuotaService
+        quota = RedisQuotaService(s.redis_url)
+    else:
+        quota = QuotaService()
+
+    state = AppState(orchestrator=orchestrator, quota=quota)
+
+    # ---- 身份桥接：org_core 成为新能力的身份权威 ----
+    import os
+    from backend.identity_service import IdentityService
+    from org_core import SqliteRepos
+    state.identity = IdentityService(
+        state.auth,
+        org_repo=SqliteRepos(os.path.join(os.getenv("DATA_DIR", "./data"), "org_core.db")),
+    )
+
+    # ---- Postgres / 微信：仓储已在 adapters.pg_repos 提供，接入指引见该文件。
+    # 此处不强行重构 Auth/Agent/KB 服务（需仓储注入），保持内存版可跑；
+    # 生产接 PG 时把这些服务内部 dict 换成仓储调用即可（对外签名不变）。
+
+    return state

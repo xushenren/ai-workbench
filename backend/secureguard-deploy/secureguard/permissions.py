@@ -1,1 +1,267 @@
-IiIic2VjdXJlZ3VhcmQucGVybWlzc2lvbnMg4oCUIFJCQUMg5p2D6ZmQ5byV5pOO77yIUTEg57uI56i/77yJ44CCCgrplIHlrprnmoTop5LoibLovrnnlYzvvJoKICAtIGFkbWluICAgICAgICAgICAg5YWo5bGA77ya5a6h5om55pm66IO95L2T5LiK57q/44CB566h55CG5YWo6YOo44CB566h55CG5Lu75oSP6YWN6aKd44CCCiAgLSBkZXBhcnRtZW50X2FkbWluIOmDqOmXqO+8mueuoeacrOmDqOmXqOefpeivhuW6k+S4juacrOmDqOmXqOeUqOaIt+mFjemine+8myoq55yL5LiN5Yiw5oiQ5ZGY56eB5Lq65bqT5Y6f5paHKirjgIIKICAtIGRldmVsb3BlciAgICAgICAg5Y+v5bu65pm66IO95L2T77yb5bu6Kirnp4HmnIkqKuS4jemcgOWuoeaJue+8m+imgSoq5aSa5Lq65Y+v6KeBKOmDqOmXqC/lhazlhbEpKirpobsgYWRtaW4g5a6h5om55LiK57q/44CCCiAgLSB1c2VyICAgICAgICAgICAgIOWPr+W7uioq56eB5Lq65pm66IO95L2TKioodmlzaWJpbGl0eT1wcml2YXRl77yM5LuF6Ieq5bex44CB5LiN6L+b5biC5Zy644CB5LiN6ZyA5a6h5om5KeOAggoK5pm66IO95L2T5Y+R5biD54q25oCB5py677yI5LuF5b2T55uu5qCH5Y+v6KeB5oCn5Li6IOWkmuS6uiDml7bmiY3pnIDopoHvvInvvJoKICAgIGRyYWZ0IOKGkiBwZW5kaW5nX3JldmlldyDihpIgcHVibGlzaGVkICAgICAgICDvvIhhZG1pbiDlrqHmibnpgJrov4fvvIkKICAgICAgICAgICAgICDihpggcmVqZWN0ZWQg4oaSIGRyYWZ0ICAgICAgICAgICAgICAg77yI5omT5Zue77yJCiAg56eB5pyJ5pm66IO95L2T55u05o6lIHB1Ymxpc2hlZO+8iG93bmVyLW9ubHnvvInvvIzkuI3ov5vmraTnirbmgIHmnLrjgIIKCuacrOW8leaTjuaYryBSLTEzKOi3qOenn+aItykvUi0xNyjmibnph4/lr7zlh7opL1ItMTgo5pS55Yig5LuW5Lq6KSDnmoTmiafooYzokL3ngrnvvJrmo4Dmn6Xlh73mlbDov5Tlm54KKGFsbG93ZWQsIHJlYXNvbinvvIznirbmgIHov4Hnp7vlnKjotormnYPml7bmipsgUGVybWlzc2lvbkRlbmllZO+8iOiuqeivr+eUqOaYvuW8j+Wksei0pe+8ieOAgue6r+agh+WHhuW6k+OAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIGVudW0gaW1wb3J0IEVudW0KZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsLCBUdXBsZQoKCmNsYXNzIFJvbGUoc3RyLCBFbnVtKToKICAgIEFETUlOID0gImFkbWluIgogICAgUkVTVFJJQ1RFRF9BRE1JTiA9ICJyZXN0cmljdGVkX2FkbWluIiAgIyDlj5fpmZDnrqHnkIblkZjvvJphZG1pbiDlrZDpm4bvvIzkuI3og73norAgYWRtaW4v6YCgIGFkbWluL+S7u+WRveWuoeiuoeWRmC/nnIvnp4HmnIkKICAgIERFUEFSVE1FTlRfQURNSU4gPSAiZGVwYXJ0bWVudF9hZG1pbiIKICAgIERFVkVMT1BFUiA9ICJkZXZlbG9wZXIiCiAgICBVU0VSID0gInVzZXIiCiAgICBBVURJVE9SID0gImF1ZGl0b3IiICAjIOWPl+aOp+WuoeiuoeWRmO+8muS7heaciSLlrqHorqHor7vlj5Yi54m55p2D77yM5LiN6IO9566h57O757ufL+aUuemFjee9rgoKCmNsYXNzIFZpc2liaWxpdHkoc3RyLCBFbnVtKToKICAgIFBSSVZBVEUgPSAicHJpdmF0ZSIKICAgIERFUEFSVE1FTlQgPSAiZGVwYXJ0bWVudCIKICAgIFBVQkxJQyA9ICJwdWJsaWMiCgoKY2xhc3MgQWdlbnRTdGF0dXMoc3RyLCBFbnVtKToKICAgIERSQUZUID0gImRyYWZ0IgogICAgUEVORElOR19SRVZJRVcgPSAicGVuZGluZ19yZXZpZXciCiAgICBQVUJMSVNIRUQgPSAicHVibGlzaGVkIgogICAgUkVKRUNURUQgPSAicmVqZWN0ZWQiCgoKY2xhc3MgUGVybWlzc2lvbkRlbmllZChFeGNlcHRpb24pOgogICAgIiIi6LaK5p2D5pON5L2c44CC5pC65bim5Y6f5Zug77yM5L6/5LqO5a6h6K6h5LiO5YmN56uv5o+Q56S644CCIiIiCgoKQGRhdGFjbGFzcwpjbGFzcyBVc2VyOgogICAgaWQ6IHN0cgogICAgcm9sZTogUm9sZQogICAgZGVwdF9pZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUKCgpAZGF0YWNsYXNzCmNsYXNzIEFnZW50OgogICAgaWQ6IHN0cgogICAgb3duZXJfaWQ6IHN0cgogICAgdmlzaWJpbGl0eTogVmlzaWJpbGl0eQogICAgc3RhdHVzOiBBZ2VudFN0YXR1cwogICAgZGVwdF9pZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUKCgpAZGF0YWNsYXNzCmNsYXNzIEtub3dsZWRnZUJhc2U6CiAgICBpZDogc3RyCiAgICB2aXNpYmlsaXR5OiBWaXNpYmlsaXR5ICAgICAgICAgICMgcHVibGljIC8gZGVwYXJ0bWVudCAvIHByaXZhdGUKICAgIG93bmVyX2lkOiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgZGVwdF9pZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUKCgpEZWNpc2lvbiA9IFR1cGxlW2Jvb2wsIHN0cl0KTVVMVElfVVNFUiA9IHtWaXNpYmlsaXR5LkRFUEFSVE1FTlQsIFZpc2liaWxpdHkuUFVCTElDfQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCiMg5pm66IO95L2T77ya5Yib5bu6IC8g5Y+R5biD54q25oCB5py6CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCmRlZiBjYW5fY3JlYXRlX2FnZW50KHVzZXI6IFVzZXIsIHZpc2liaWxpdHk6IFZpc2liaWxpdHkpIC0+IERlY2lzaW9uOgogICAgIiIi6LCB6IO95Yib5bu65L2V56eN5Y+v6KeB5oCn55qE5pm66IO95L2T44CCIiIiCiAgICBpZiB2aXNpYmlsaXR5ID09IFZpc2liaWxpdHkuUFJJVkFURToKICAgICAgICByZXR1cm4gVHJ1ZSwgIuengeacieaZuuiDveS9k++8muS7u+S9leinkuiJsuWPr+W7uu+8jOS7heiHquW3seWPr+inge+8jOS4jemcgOWuoeaJuSIKICAgICMg5aSa5Lq65Y+v6KeB55qE5pm66IO95L2T77ya5pmu6YCaIHVzZXIg5LiN6IO95Yib5bu6CiAgICBpZiB1c2VyLnJvbGUgPT0gUm9sZS5VU0VSOgogICAgICAgIHJldHVybiBGYWxzZSwgIuaZrumAmueUqOaIt+WPquiDveWIm+W7uuengeacieaZuuiDveS9kyIKICAgIHJldHVybiBUcnVlLCBmInt1c2VyLnJvbGUudmFsdWV9IOWPr+WIm+W7uiB7dmlzaWJpbGl0eS52YWx1ZX0g5pm66IO95L2T77yI6aG75a6h5om55LiK57q/77yJIgoKCmRlZiBjcmVhdGVfYWdlbnQodXNlcjogVXNlciwgYWdlbnRfaWQ6IHN0ciwgdmlzaWJpbGl0eTogVmlzaWJpbGl0eSwKICAgICAgICAgICAgICAgICBkZXB0X2lkOiBPcHRpb25hbFtzdHJdID0gTm9uZSkgLT4gQWdlbnQ6CiAgICAiIiLliJvlu7rmmbrog73kvZPjgILnp4HmnInnm7TmjqUgcHVibGlzaGVk77yb5aSa5Lq65Y+v6KeB6L+bIGRyYWZ0IOetieWuoeaJueOAgiIiIgogICAgb2ssIHJlYXNvbiA9IGNhbl9jcmVhdGVfYWdlbnQodXNlciwgdmlzaWJpbGl0eSkKICAgIGlmIG5vdCBvazoKICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKHJlYXNvbikKICAgIGlmIHZpc2liaWxpdHkgPT0gVmlzaWJpbGl0eS5QUklWQVRFOgogICAgICAgIHJldHVybiBBZ2VudChhZ2VudF9pZCwgdXNlci5pZCwgdmlzaWJpbGl0eSwgQWdlbnRTdGF0dXMuUFVCTElTSEVELCBkZXB0X2lkIG9yIHVzZXIuZGVwdF9pZCkKICAgICMg6YOo6Zeo5Y+v6KeB55qE5pm66IO95L2T77yMZGVwdF9pZCDpu5jorqTlvZLliJvlu7rogIXpg6jpl6gKICAgIGlmIHZpc2liaWxpdHkgPT0gVmlzaWJpbGl0eS5ERVBBUlRNRU5UOgogICAgICAgIGRlcHRfaWQgPSBkZXB0X2lkIG9yIHVzZXIuZGVwdF9pZAogICAgcmV0dXJuIEFnZW50KGFnZW50X2lkLCB1c2VyLmlkLCB2aXNpYmlsaXR5LCBBZ2VudFN0YXR1cy5EUkFGVCwgZGVwdF9pZCkKCgpkZWYgc3VibWl0X2Zvcl9yZXZpZXcodXNlcjogVXNlciwgYWdlbnQ6IEFnZW50KSAtPiBBZ2VudDoKICAgICIiIuaPkOS6pOWuoeaguO+8muS7hSBvd25lcu+8jOS4lOW/hemhu+aYr+WkmuS6uuWPr+ingeeahCBkcmFmdC9yZWplY3RlZOOAgiIiIgogICAgaWYgYWdlbnQudmlzaWJpbGl0eSA9PSBWaXNpYmlsaXR5LlBSSVZBVEU6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgi56eB5pyJ5pm66IO95L2T5peg6ZyA5a6h5qC4IikKICAgIGlmIHVzZXIuaWQgIT0gYWdlbnQub3duZXJfaWQ6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgi5LuF5Yib5bu66ICF5Y+v5o+Q5Lqk5a6h5qC4IikKICAgIGlmIGFnZW50LnN0YXR1cyBub3QgaW4gKEFnZW50U3RhdHVzLkRSQUZULCBBZ2VudFN0YXR1cy5SRUpFQ1RFRCk6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZChmIueKtuaAgSB7YWdlbnQuc3RhdHVzLnZhbHVlfSDkuI3lj6/mj5DkuqQiKQogICAgYWdlbnQuc3RhdHVzID0gQWdlbnRTdGF0dXMuUEVORElOR19SRVZJRVcKICAgIHJldHVybiBhZ2VudAoKCmRlZiBjYW5fYXBwcm92ZSh1c2VyOiBVc2VyLCBhZ2VudDogQWdlbnQpIC0+IERlY2lzaW9uOgogICAgIiIi5a6h5om55p2D77yaYWRtaW4g5Y+v5om55omA5pyJ5aSa5Lq65Y+v6KeB5pm66IO95L2T44CCCgogICAg6buY6K6k6YG15b6qIFExIOe7iOeovyLlpJrkurrlj6/op4HpobsgYWRtaW4g5a6h5om5IuOAguWmgumcgOaKiuOAkOmDqOmXqOWPr+ingeOAkeeahOWuoeaJueadg+S4i+aUvue7mQogICAg5a+55bqUIGRlcGFydG1lbnRfYWRtaW7vvIzmiorkuIvpnaLnmoTlvIDlhbPmiZPlvIDljbPlj6/vvIjpu5jorqTlhbPvvIzku6XkuKXmoLzlr7npvZDkvaDnmoTlhrPnrZbvvInjgIIKICAgICIiIgogICAgREVMRUdBVEVfREVQVF9BUFBST1ZBTF9UT19ERVBUX0FETUlOID0gRmFsc2UKICAgIGlmIHVzZXIucm9sZSBpbiBfQURNSU5fVElFUjoKICAgICAgICByZXR1cm4gVHJ1ZSwgIueuoeeQhuWRmOWuoeaJuSIKICAgIGlmIChERUxFR0FURV9ERVBUX0FQUFJPVkFMX1RPX0RFUFRfQURNSU4KICAgICAgICAgICAgYW5kIHVzZXIucm9sZSA9PSBSb2xlLkRFUEFSVE1FTlRfQURNSU4KICAgICAgICAgICAgYW5kIGFnZW50LnZpc2liaWxpdHkgPT0gVmlzaWJpbGl0eS5ERVBBUlRNRU5UCiAgICAgICAgICAgIGFuZCB1c2VyLmRlcHRfaWQgPT0gYWdlbnQuZGVwdF9pZCk6CiAgICAgICAgcmV0dXJuIFRydWUsICLpg6jpl6jnrqHnkIblkZjlrqHmibnmnKzpg6jpl6jmmbrog73kvZMiCiAgICByZXR1cm4gRmFsc2UsICLku4UgYWRtaW4g5Y+v5a6h5om55pm66IO95L2T5LiK57q/IgoKCmRlZiBhcHByb3ZlKHVzZXI6IFVzZXIsIGFnZW50OiBBZ2VudCkgLT4gQWdlbnQ6CiAgICBvaywgcmVhc29uID0gY2FuX2FwcHJvdmUodXNlciwgYWdlbnQpCiAgICBpZiBub3Qgb2s6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZChyZWFzb24pCiAgICBpZiBhZ2VudC5zdGF0dXMgIT0gQWdlbnRTdGF0dXMuUEVORElOR19SRVZJRVc6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZChmIueKtuaAgSB7YWdlbnQuc3RhdHVzLnZhbHVlfSDkuI3lj6/lrqHmibkiKQogICAgYWdlbnQuc3RhdHVzID0gQWdlbnRTdGF0dXMuUFVCTElTSEVECiAgICByZXR1cm4gYWdlbnQKCgpkZWYgcmVqZWN0KHVzZXI6IFVzZXIsIGFnZW50OiBBZ2VudCkgLT4gQWdlbnQ6CiAgICBvaywgcmVhc29uID0gY2FuX2FwcHJvdmUodXNlciwgYWdlbnQpCiAgICBpZiBub3Qgb2s6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZChyZWFzb24pCiAgICBhZ2VudC5zdGF0dXMgPSBBZ2VudFN0YXR1cy5SRUpFQ1RFRAogICAgcmV0dXJuIGFnZW50CgoKZGVmIGNhbl91c2VfYWdlbnQodXNlcjogVXNlciwgYWdlbnQ6IEFnZW50KSAtPiBEZWNpc2lvbjoKICAgICIiIuiwgeiDveWcqOiBiuWkqemHjOS9v+eUqC/nnIvliLDmn5Dmmbrog73kvZPjgILmnKrlj5HluIPnmoTlpJrkurrmmbrog73kvZPku4XliJvlu7rogIUoK+WuoeaJueS6uinlj6/op4HjgIIiIiIKICAgIGlmIGFnZW50LnN0YXR1cyBpbiAoQWdlbnRTdGF0dXMuRFJBRlQsIEFnZW50U3RhdHVzLlBFTkRJTkdfUkVWSUVXLCBBZ2VudFN0YXR1cy5SRUpFQ1RFRCk6CiAgICAgICAgaWYgdXNlci5pZCA9PSBhZ2VudC5vd25lcl9pZDoKICAgICAgICAgICAgcmV0dXJuIFRydWUsICLliJvlu7rogIXlj6/op4Hoh6rlt7HmnKrlj5HluIPnmoTmmbrog73kvZMiCiAgICAgICAgaWYgYWdlbnQuc3RhdHVzID09IEFnZW50U3RhdHVzLlBFTkRJTkdfUkVWSUVXIGFuZCBjYW5fYXBwcm92ZSh1c2VyLCBhZ2VudClbMF06CiAgICAgICAgICAgIHJldHVybiBUcnVlLCAi5a6h5om55Lq65Y+v6aKE6KeI5b6F5a6h5pm66IO95L2TIgogICAgICAgIHJldHVybiBGYWxzZSwgIuacquWPkeW4g++8jOS7heWIm+W7uuiAhS/lrqHmibnkurrlj6/op4EiCiAgICAjIOW3suWPkeW4gwogICAgaWYgYWdlbnQudmlzaWJpbGl0eSA9PSBWaXNpYmlsaXR5LlBSSVZBVEU6CiAgICAgICAgcmV0dXJuICh1c2VyLmlkID09IGFnZW50Lm93bmVyX2lkKSwgIuengeacieaZuuiDveS9k+S7heWIm+W7uuiAhSIKICAgIGlmIGFnZW50LnZpc2liaWxpdHkgPT0gVmlzaWJpbGl0eS5ERVBBUlRNRU5UOgogICAgICAgIHJldHVybiAodXNlci5kZXB0X2lkID09IGFnZW50LmRlcHRfaWQpLCAi6YOo6Zeo5pm66IO95L2T6ZmQ5pys6YOo6ZeoIgogICAgcmV0dXJuIFRydWUsICLlhazlhbHmmbrog73kvZPlhajlkZjlj6/nlKgiCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICMKIyDnn6Xor4blupPpmpTnprvvvIhEN++8ie+8muiuv+mXriAvIOivu+WOn+aWhyAvIOeuoeeQhgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwpkZWYgY2FuX2FjY2Vzc19rYih1c2VyOiBVc2VyLCBrYjogS25vd2xlZGdlQmFzZSkgLT4gRGVjaXNpb246CiAgICAiIiLmo4DntKLlj6/ovr7mgKfvvJrlhazlhbEgKyDmnKzpg6jpl6ggKyDoh6rlt7Hnp4HmnInjgILnu53kuI3lj6/ovr7ku5bkurrnp4HmnInjgIIiIiIKICAgIGlmIGtiLnZpc2liaWxpdHkgPT0gVmlzaWJpbGl0eS5QVUJMSUM6CiAgICAgICAgcmV0dXJuIFRydWUsICLlhazlhbHlupPlhajlkZjlj6/mo4DntKIiCiAgICBpZiBrYi52aXNpYmlsaXR5ID09IFZpc2liaWxpdHkuREVQQVJUTUVOVDoKICAgICAgICByZXR1cm4gKHVzZXIuZGVwdF9pZCA9PSBrYi5kZXB0X2lkKSwgIumDqOmXqOW6k+mZkOacrOmDqOmXqCIKICAgIHJldHVybiAodXNlci5pZCA9PSBrYi5vd25lcl9pZCksICLnp4HmnInlupPku4XmnKzkuroiCgoKZGVmIGNhbl9yZWFkX2tiX2NvbnRlbnQodXNlcjogVXNlciwga2I6IEtub3dsZWRnZUJhc2UpIC0+IERlY2lzaW9uOgogICAgIiIi6K+75Y+W5Y6f5paH44CC56eB5pyJ5bqTKirku4Ugb3duZXIqKuKAlOKAlGFkbWluL+mDqOmXqOeuoeeQhuWRmOmDveS4jeiDveeci+WOn+aWh++8iEQ377yJ44CCCgogICAg5LiOIGNhbl9hY2Nlc3Nfa2Ig55qE5Yy65Yir77ya566h55CG5ZGY5Li65ZCI6KeE5Y+vIueuoeeQhiLnp4HmnInlupPvvIjop4EgY2FuX21hbmFnZV9rYu+8ie+8jAogICAg5L2GKiror7vljp/mlocqKui/meadoee6v+WvueengeacieW6k+WPquiupCBvd25lcu+8jOi/niBhZG1pbiDkuZ/kuI3ooYzjgIIKICAgICIiIgogICAgaWYga2IudmlzaWJpbGl0eSA9PSBWaXNpYmlsaXR5LlBSSVZBVEU6CiAgICAgICAgcmV0dXJuICh1c2VyLmlkID09IGtiLm93bmVyX2lkKSwgIuengeacieW6k+WOn+aWh+S7heacrOS6uuWPr+ivu++8jGFkbWluIOS6puS4jeWPryIKICAgIHJldHVybiBjYW5fYWNjZXNzX2tiKHVzZXIsIGtiKQoKCmRlZiBjYW5fbWFuYWdlX2tiKHVzZXI6IFVzZXIsIGtiOiBLbm93bGVkZ2VCYXNlKSAtPiBEZWNpc2lvbjoKICAgICIiIueUn+WRveWRqOacn+euoeeQhu+8iOWIoOmZpC/pmpTnprsv5ZCI6KeE5aSE572u77yJ77yM5LiN5ZCr6K+75Y6f5paH44CCIiIiCiAgICBpZiB1c2VyLnJvbGUgaW4gX0FETUlOX1RJRVI6CiAgICAgICAgcmV0dXJuIFRydWUsICLnrqHnkIblkZjlj6/nrqHnkIbku7vmhI/lupPvvIjkvYbnp4HmnInlupPkuI3lj6/or7vljp/mlofvvIkiCiAgICBpZiB1c2VyLnJvbGUgPT0gUm9sZS5ERVBBUlRNRU5UX0FETUlOIGFuZCBrYi52aXNpYmlsaXR5ID09IFZpc2liaWxpdHkuREVQQVJUTUVOVCBcCiAgICAgICAgICAgIGFuZCB1c2VyLmRlcHRfaWQgPT0ga2IuZGVwdF9pZDoKICAgICAgICByZXR1cm4gVHJ1ZSwgIumDqOmXqOeuoeeQhuWRmOeuoeeQhuacrOmDqOmXqOW6kyIKICAgIGlmIGtiLnZpc2liaWxpdHkgPT0gVmlzaWJpbGl0eS5QUklWQVRFIGFuZCB1c2VyLmlkID09IGtiLm93bmVyX2lkOgogICAgICAgIHJldHVybiBUcnVlLCAib3duZXIg566h55CG6Ieq5bex56eB5pyJ5bqTIgogICAgcmV0dXJuIEZhbHNlLCAi5peg566h55CG5p2DIgoKCmRlZiBjYW5fYXVkaXRfcmVhZF9rYih1c2VyOiBVc2VyLCBrYjogS25vd2xlZGdlQmFzZSkgLT4gRGVjaXNpb246CiAgICAiIiIqKuWPl+aOp+Wuoeiuoeivu+WPlioq77ya5LuFIGF1ZGl0b3Ig6KeS6Imy5Y+v6K+75Y+W5Lu75oSP5bqT5Y6f5paH77yI5ZCr5LuW5Lq656eB5pyJ5bqT77yJ44CCCgogICAg5LiOIGNhbl9yZWFkX2tiX2NvbnRlbnQg5Lil5qC85YiG56a74oCU4oCU5pel5bi46Lev5b6E5LiL56eB5pyJ5bqT5LuN5LuFIG93bmVyIOWPr+ivu++8jGFkbWluIOS5n+S4jeihjOOAggogICAg5pys54m55p2D55qEIuWPl+aOpyLkvZPnjrDlnKjnq6/ngrnlsYLvvJrlv4XpobvluKYgcmVhc29u77yM5LiU5q+P5qyh6K6/6Zeu5YaZ5YWl5ZOI5biM6ZO+5a6h6K6h77yI5Y+v6Zeu6LSj44CB5LiN5Y+v56+h5pS577yJ44CCCiAgICBhZG1pbiDmsqHmnInmraTmnYPvvIjogYzotKPliIbnprvvvJrnrqHns7vnu5/nmoTiiaDog73nnIvnp4HmnInlhoXlrrnnmoTvvInjgIIKICAgICIiIgogICAgaWYgdXNlci5yb2xlID09IFJvbGUuQVVESVRPUjoKICAgICAgICByZXR1cm4gVHJ1ZSwgIuWuoeiuoeWRmOWPl+aOp+ivu+WPlu+8iOmhu+eVmeeXle+8iSIKICAgIHJldHVybiBGYWxzZSwgIuaXoOWuoeiuoeivu+WPluadg++8iOS7hSBhdWRpdG9yIOinkuiJsu+8iSIKCgpfQURNSU5fVElFUiA9IHtSb2xlLkFETUlOLCBSb2xlLlJFU1RSSUNURURfQURNSU59Cl9QUklWSUxFR0VEID0ge1JvbGUuQURNSU4sIFJvbGUuUkVTVFJJQ1RFRF9BRE1JTiwgUm9sZS5BVURJVE9SfSAgIyDlj6rmnIkgYWRtaW4g6IO95o6I5LqIL+aSpOmUgOi/meS6mwoKCmRlZiBjYW5fbWFuYWdlX3VzZXJzKGFjdG9yOiBVc2VyKSAtPiBEZWNpc2lvbjoKICAgICIiIuWIl+WHui/liIbphY3pg6jpl6gv5a6h5om56YOo6Zeo55Sz6K+377yaYWRtaW4g5oiW5Y+X6ZmQ566h55CG5ZGY44CCIiIiCiAgICBpZiBhY3Rvci5yb2xlIGluIF9BRE1JTl9USUVSOgogICAgICAgIHJldHVybiBUcnVlLCAi566h55CG5ZGY5Y+v566h55CG55So5oi3IgogICAgcmV0dXJuIEZhbHNlLCAi5LuF566h55CG5ZGY5Y+v566h55CG55So5oi3IgoKCmRlZiBjYW5fbWFuYWdlX2FkbWlucyhhY3RvcjogVXNlcikgLT4gRGVjaXNpb246CiAgICAiIiLmjojkuogv5pKk6ZSA5Y+X6ZmQ566h55CG5ZGY44CB5Yig6Zmk5Y+X6ZmQ566h55CG5ZGY44CB5Lu75ZG95a6h6K6h5ZGY77yaKirku4UgYWRtaW4qKuOAgiIiIgogICAgaWYgYWN0b3Iucm9sZSA9PSBSb2xlLkFETUlOOgogICAgICAgIHJldHVybiBUcnVlLCAi5LuFIGFkbWluIOWPr+euoeeQhueuoeeQhuWRmC/lrqHorqHlkZjku7vlkb0iCiAgICByZXR1cm4gRmFsc2UsICLku4UgYWRtaW4g5Y+v5o6I5LqIL+aSpOmUgOWPl+mZkOeuoeeQhuWRmOS4juWuoeiuoeWRmCIKCgpkZWYgY2FuX3NldF9yb2xlKGFjdG9yOiBVc2VyLCB0YXJnZXQ6IFVzZXIsIG5ld19yb2xlOiBSb2xlKSAtPiBEZWNpc2lvbjoKICAgICIiIuaUueafkOS6uuinkuiJsueahOaKpOagj++8iOmYsuiHquaIkeaPkOadgyAvIOmYsuWPl+mZkOeuoeeQhuWRmOmAoCBhZG1pbiAvIOmYsue7lei/h+WuoeiuoeWRmOS7u+WRve+8ieOAgiIiIgogICAgaWYgYWN0b3Iucm9sZSBub3QgaW4gX0FETUlOX1RJRVI6CiAgICAgICAgcmV0dXJuIEZhbHNlLCAi5peg55So5oi3566h55CG5p2DIgogICAgIyDosIHpg73kuI3og73mlLkgYWRtaW4g55qE6KeS6Imy77yM6Zmk5LqGIGFkbWluIOiHquW3sei/meS4gOWxgumHjOKAlOKAlOWPl+mZkOeuoeeQhuWRmOe7neS4jeiDveeisCBhZG1pbgogICAgaWYgdGFyZ2V0LnJvbGUgPT0gUm9sZS5BRE1JTiBhbmQgYWN0b3Iucm9sZSAhPSBSb2xlLkFETUlOOgogICAgICAgIHJldHVybiBGYWxzZSwgIuWPl+mZkOeuoeeQhuWRmOS4jeiDveS/ruaUuSBhZG1pbiIKICAgICMg5o6I5LqI54m55p2D6KeS6ImyKGFkbWluL+WPl+mZkOeuoeeQhuWRmC/lrqHorqHlkZgp5Y+q6IO955SxIGFkbWluIOadpQogICAgaWYgbmV3X3JvbGUgaW4gX1BSSVZJTEVHRUQgYW5kIGFjdG9yLnJvbGUgIT0gUm9sZS5BRE1JTjoKICAgICAgICByZXR1cm4gRmFsc2UsIGYi5LuFIGFkbWluIOWPr+aOiOS6iCB7bmV3X3JvbGUudmFsdWV977yI6Ziy6Ieq5oiR5o+Q5p2DL+e7lei/h+WuoeiuoeS7u+WRve+8iSIKICAgIHJldHVybiBUcnVlLCAi5Y+v5pS56KeS6ImyIgoKCmRlZiBjYW5fZGVsZXRlX3VzZXIoYWN0b3I6IFVzZXIsIHRhcmdldDogVXNlcikgLT4gRGVjaXNpb246CiAgICAiIiLliKDpmaTnlKjmiLfnmoTmiqTmoI/jgILlj5fpmZDnrqHnkIblkZjkuI3og73liKAgYWRtaW4v5Y+X6ZmQ566h55CG5ZGYL+WuoeiuoeWRmO+8iOmYsuenu+mZpOebkeedo++8ieOAgiIiIgogICAgaWYgYWN0b3Iucm9sZSBub3QgaW4gX0FETUlOX1RJRVI6CiAgICAgICAgcmV0dXJuIEZhbHNlLCAi5peg55So5oi3566h55CG5p2DIgogICAgaWYgYWN0b3Iucm9sZSA9PSBSb2xlLkFETUlOOgogICAgICAgIHJldHVybiAodGFyZ2V0LnJvbGUgIT0gUm9sZS5BRE1JTiksICgi5LiN6IO95Yig6ZmkIGFkbWluIiBpZiB0YXJnZXQucm9sZSA9PSBSb2xlLkFETUlOIGVsc2UgImFkbWluIOWPr+WIoOmZpOmdniBhZG1pbiIpCiAgICAjIOWPl+mZkOeuoeeQhuWRmO+8muWPquiDveWIoOaZrumAmuWxgue6p++8jOeisOS4jeW+l+eJueadg+inkuiJsgogICAgaWYgdGFyZ2V0LnJvbGUgaW4gX1BSSVZJTEVHRUQ6CiAgICAgICAgcmV0dXJuIEZhbHNlLCAi5Y+X6ZmQ566h55CG5ZGY5LiN6IO95Yig6ZmkIGFkbWluL+WPl+mZkOeuoeeQhuWRmC/lrqHorqHlkZgiCiAgICByZXR1cm4gVHJ1ZSwgIuWPl+mZkOeuoeeQhuWRmOWPr+WIoOmZpOaZrumAmueUqOaItyIKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwojIOmFjemineeuoeeQhgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwpkZWYgY2FuX21hbmFnZV9xdW90YShhY3RvcjogVXNlciwgdGFyZ2V0OiBVc2VyKSAtPiBEZWNpc2lvbjoKICAgICIiIuiwgeiDveiwg+aVtOafkOeUqOaIt+eahOmFjemineOAgmFkbWluL+WPl+mZkOeuoeeQhuWRmCDlhajlsYDvvJvpg6jpl6jnrqHnkIblkZjpmZDmnKzpg6jpl6jvvJt1c2VyIOaXoOOAgiIiIgogICAgaWYgYWN0b3Iucm9sZSBpbiBfQURNSU5fVElFUjoKICAgICAgICByZXR1cm4gVHJ1ZSwgIueuoeeQhuWRmOeuoeeQhuWFqOWxgOmFjeminSIKICAgIGlmIGFjdG9yLnJvbGUgPT0gUm9sZS5ERVBBUlRNRU5UX0FETUlOIGFuZCBhY3Rvci5kZXB0X2lkID09IHRhcmdldC5kZXB0X2lkOgogICAgICAgIHJldHVybiBUcnVlLCAi6YOo6Zeo566h55CG5ZGY566h55CG5pys6YOo6Zeo55So5oi36YWN6aKdIgogICAgcmV0dXJuIEZhbHNlLCAi5peg6YWN6aKd566h55CG5p2DIgo=
+"""secureguard.permissions — RBAC 权限引擎（Q1 终稿）。
+
+锁定的角色边界：
+  - admin            全局：审批智能体上线、管理全部、管理任意配额。
+  - department_admin 部门：管本部门知识库与本部门用户配额；**看不到成员私人库原文**。
+  - developer        可建智能体；建**私有**不需审批；要**多人可见(部门/公共)**须 admin 审批上线。
+  - user             可建**私人智能体**(visibility=private，仅自己、不进市场、不需审批)。
+
+智能体发布状态机（仅当目标可见性为 多人 时才需要）：
+    draft → pending_review → published        （admin 审批通过）
+              ↘ rejected → draft               （打回）
+  私有智能体直接 published（owner-only），不进此状态机。
+
+本引擎是 R-13(跨租户)/R-17(批量导出)/R-18(改删他人) 的执行落点：检查函数返回
+(allowed, reason)，状态迁移在越权时抛 PermissionDenied（让误用显式失败）。纯标准库。
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from enum import Enum
+from typing import Optional, Tuple
+
+
+class Role(str, Enum):
+    ADMIN = "admin"
+    RESTRICTED_ADMIN = "restricted_admin"  # 受限管理员：admin 子集，不能碰 admin/造 admin/任命审计员/看私有
+    DEPARTMENT_ADMIN = "department_admin"
+    DEVELOPER = "developer"
+    USER = "user"
+    AUDITOR = "auditor"  # 受控审计员：仅有"审计读取"特权，不能管系统/改配置
+
+
+class Visibility(str, Enum):
+    PRIVATE = "private"
+    DEPARTMENT = "department"
+    PUBLIC = "public"
+
+
+class AgentStatus(str, Enum):
+    DRAFT = "draft"
+    PENDING_REVIEW = "pending_review"
+    PUBLISHED = "published"
+    REJECTED = "rejected"
+
+
+class PermissionDenied(Exception):
+    """越权操作。携带原因，便于审计与前端提示。"""
+
+
+@dataclass
+class User:
+    id: str
+    role: Role
+    dept_id: Optional[str] = None
+
+
+@dataclass
+class Agent:
+    id: str
+    owner_id: str
+    visibility: Visibility
+    status: AgentStatus
+    dept_id: Optional[str] = None
+
+
+@dataclass
+class KnowledgeBase:
+    id: str
+    visibility: Visibility          # public / department / private
+    owner_id: Optional[str] = None
+    dept_id: Optional[str] = None
+
+
+Decision = Tuple[bool, str]
+MULTI_USER = {Visibility.DEPARTMENT, Visibility.PUBLIC}
+
+
+# ====================================================================== #
+# 智能体：创建 / 发布状态机
+# ====================================================================== #
+def can_create_agent(user: User, visibility: Visibility) -> Decision:
+    """谁能创建何种可见性的智能体。"""
+    if visibility == Visibility.PRIVATE:
+        return True, "私有智能体：任何角色可建，仅自己可见，不需审批"
+    # 多人可见的智能体：普通 user 不能创建
+    if user.role == Role.USER:
+        return False, "普通用户只能创建私有智能体"
+    return True, f"{user.role.value} 可创建 {visibility.value} 智能体（须审批上线）"
+
+
+def create_agent(user: User, agent_id: str, visibility: Visibility,
+                 dept_id: Optional[str] = None) -> Agent:
+    """创建智能体。私有直接 published；多人可见进 draft 等审批。"""
+    ok, reason = can_create_agent(user, visibility)
+    if not ok:
+        raise PermissionDenied(reason)
+    if visibility == Visibility.PRIVATE:
+        return Agent(agent_id, user.id, visibility, AgentStatus.PUBLISHED, dept_id or user.dept_id)
+    # 部门可见的智能体，dept_id 默认归创建者部门
+    if visibility == Visibility.DEPARTMENT:
+        dept_id = dept_id or user.dept_id
+    return Agent(agent_id, user.id, visibility, AgentStatus.DRAFT, dept_id)
+
+
+def submit_for_review(user: User, agent: Agent) -> Agent:
+    """提交审核：仅 owner，且必须是多人可见的 draft/rejected。"""
+    if agent.visibility == Visibility.PRIVATE:
+        raise PermissionDenied("私有智能体无需审核")
+    if user.id != agent.owner_id:
+        raise PermissionDenied("仅创建者可提交审核")
+    if agent.status not in (AgentStatus.DRAFT, AgentStatus.REJECTED):
+        raise PermissionDenied(f"状态 {agent.status.value} 不可提交")
+    agent.status = AgentStatus.PENDING_REVIEW
+    return agent
+
+
+def can_approve(user: User, agent: Agent) -> Decision:
+    """审批权：admin 可批所有多人可见智能体。
+
+    默认遵循 Q1 终稿"多人可见须 admin 审批"。如需把【部门可见】的审批权下放给
+    对应 department_admin，把下面的开关打开即可（默认关，以严格对齐你的决策）。
+    """
+    DELEGATE_DEPT_APPROVAL_TO_DEPT_ADMIN = False
+    if user.role in _ADMIN_TIER:
+        return True, "管理员审批"
+    if (DELEGATE_DEPT_APPROVAL_TO_DEPT_ADMIN
+            and user.role == Role.DEPARTMENT_ADMIN
+            and agent.visibility == Visibility.DEPARTMENT
+            and user.dept_id == agent.dept_id):
+        return True, "部门管理员审批本部门智能体"
+    return False, "仅 admin 可审批智能体上线"
+
+
+def approve(user: User, agent: Agent) -> Agent:
+    ok, reason = can_approve(user, agent)
+    if not ok:
+        raise PermissionDenied(reason)
+    if agent.status != AgentStatus.PENDING_REVIEW:
+        raise PermissionDenied(f"状态 {agent.status.value} 不可审批")
+    agent.status = AgentStatus.PUBLISHED
+    return agent
+
+
+def reject(user: User, agent: Agent) -> Agent:
+    ok, reason = can_approve(user, agent)
+    if not ok:
+        raise PermissionDenied(reason)
+    agent.status = AgentStatus.REJECTED
+    return agent
+
+
+def can_use_agent(user: User, agent: Agent) -> Decision:
+    """谁能在聊天里使用/看到某智能体。未发布的多人智能体仅创建者(+审批人)可见。"""
+    if agent.status in (AgentStatus.DRAFT, AgentStatus.PENDING_REVIEW, AgentStatus.REJECTED):
+        if user.id == agent.owner_id:
+            return True, "创建者可见自己未发布的智能体"
+        if agent.status == AgentStatus.PENDING_REVIEW and can_approve(user, agent)[0]:
+            return True, "审批人可预览待审智能体"
+        return False, "未发布，仅创建者/审批人可见"
+    # 已发布
+    if agent.visibility == Visibility.PRIVATE:
+        return (user.id == agent.owner_id), "私有智能体仅创建者"
+    if agent.visibility == Visibility.DEPARTMENT:
+        return (user.dept_id == agent.dept_id), "部门智能体限本部门"
+    return True, "公共智能体全员可用"
+
+
+# ====================================================================== #
+# 知识库隔离（D7）：访问 / 读原文 / 管理
+# ====================================================================== #
+def can_access_kb(user: User, kb: KnowledgeBase) -> Decision:
+    """检索可达性：公共 + 本部门 + 自己私有。绝不可达他人私有。"""
+    if kb.visibility == Visibility.PUBLIC:
+        return True, "公共库全员可检索"
+    if kb.visibility == Visibility.DEPARTMENT:
+        return (user.dept_id == kb.dept_id), "部门库限本部门"
+    return (user.id == kb.owner_id), "私有库仅本人"
+
+
+def can_read_kb_content(user: User, kb: KnowledgeBase) -> Decision:
+    """读取原文。私有库**仅 owner**——admin/部门管理员都不能看原文（D7）。
+
+    与 can_access_kb 的区别：管理员为合规可"管理"私有库（见 can_manage_kb），
+    但**读原文**这条线对私有库只认 owner，连 admin 也不行。
+    """
+    if kb.visibility == Visibility.PRIVATE:
+        return (user.id == kb.owner_id), "私有库原文仅本人可读，admin 亦不可"
+    return can_access_kb(user, kb)
+
+
+def can_manage_kb(user: User, kb: KnowledgeBase) -> Decision:
+    """生命周期管理（删除/隔离/合规处置），不含读原文。"""
+    if user.role in _ADMIN_TIER:
+        return True, "管理员可管理任意库（但私有库不可读原文）"
+    if user.role == Role.DEPARTMENT_ADMIN and kb.visibility == Visibility.DEPARTMENT \
+            and user.dept_id == kb.dept_id:
+        return True, "部门管理员管理本部门库"
+    if kb.visibility == Visibility.PRIVATE and user.id == kb.owner_id:
+        return True, "owner 管理自己私有库"
+    return False, "无管理权"
+
+
+def can_audit_read_kb(user: User, kb: KnowledgeBase) -> Decision:
+    """**受控审计读取**：仅 auditor 角色可读取任意库原文（含他人私有库）。
+
+    与 can_read_kb_content 严格分离——日常路径下私有库仍仅 owner 可读，admin 也不行。
+    本特权的"受控"体现在端点层：必须带 reason，且每次访问写入哈希链审计（可问责、不可篡改）。
+    admin 没有此权（职责分离：管系统的≠能看私有内容的）。
+    """
+    if user.role == Role.AUDITOR:
+        return True, "审计员受控读取（须留痕）"
+    return False, "无审计读取权（仅 auditor 角色）"
+
+
+_ADMIN_TIER = {Role.ADMIN, Role.RESTRICTED_ADMIN}
+_PRIVILEGED = {Role.ADMIN, Role.RESTRICTED_ADMIN, Role.AUDITOR}  # 只有 admin 能授予/撤销这些
+
+
+def can_manage_users(actor: User) -> Decision:
+    """列出/分配部门/审批部门申请：admin 或受限管理员。"""
+    if actor.role in _ADMIN_TIER:
+        return True, "管理员可管理用户"
+    return False, "仅管理员可管理用户"
+
+
+def can_manage_admins(actor: User) -> Decision:
+    """授予/撤销受限管理员、删除受限管理员、任命审计员：**仅 admin**。"""
+    if actor.role == Role.ADMIN:
+        return True, "仅 admin 可管理管理员/审计员任命"
+    return False, "仅 admin 可授予/撤销受限管理员与审计员"
+
+
+def can_set_role(actor: User, target: User, new_role: Role) -> Decision:
+    """改某人角色的护栏（防自我提权 / 防受限管理员造 admin / 防绕过审计员任命）。"""
+    if actor.role not in _ADMIN_TIER:
+        return False, "无用户管理权"
+    # 谁都不能改 admin 的角色，除了 admin 自己这一层里——受限管理员绝不能碰 admin
+    if target.role == Role.ADMIN and actor.role != Role.ADMIN:
+        return False, "受限管理员不能修改 admin"
+    # 授予特权角色(admin/受限管理员/审计员)只能由 admin 来
+    if new_role in _PRIVILEGED and actor.role != Role.ADMIN:
+        return False, f"仅 admin 可授予 {new_role.value}（防自我提权/绕过审计任命）"
+    return True, "可改角色"
+
+
+def can_delete_user(actor: User, target: User) -> Decision:
+    """删除用户的护栏。受限管理员不能删 admin/受限管理员/审计员（防移除监督）。"""
+    if actor.role not in _ADMIN_TIER:
+        return False, "无用户管理权"
+    if actor.role == Role.ADMIN:
+        return (target.role != Role.ADMIN), ("不能删除 admin" if target.role == Role.ADMIN else "admin 可删除非 admin")
+    # 受限管理员：只能删普通层级，碰不得特权角色
+    if target.role in _PRIVILEGED:
+        return False, "受限管理员不能删除 admin/受限管理员/审计员"
+    return True, "受限管理员可删除普通用户"
+
+
+# ====================================================================== #
+# 配额管理
+# ====================================================================== #
+def can_manage_quota(actor: User, target: User) -> Decision:
+    """谁能调整某用户的配额。admin/受限管理员 全局；部门管理员限本部门；user 无。"""
+    if actor.role in _ADMIN_TIER:
+        return True, "管理员管理全局配额"
+    if actor.role == Role.DEPARTMENT_ADMIN and actor.dept_id == target.dept_id:
+        return True, "部门管理员管理本部门用户配额"
+    return False, "无配额管理权"

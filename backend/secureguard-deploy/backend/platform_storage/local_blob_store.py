@@ -1,1 +1,46 @@
-IiIicGxhdGZvcm1fc3RvcmFnZS5sb2NhbF9ibG9iX3N0b3JlIOKAlCDmnKzlnLDno4Hnm5jlr7nosaHlrZjlgqgo5o6l5Y+j5ZCMIFMzL01pbklPIOeJiCnjgIIiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgb3MsIHJlCmZyb20gdHlwaW5nIGltcG9ydCBMaXN0CgpfU0FGRSA9IHJlLmNvbXBpbGUociJbXkEtWmEtejAtOV8uXC0vXSIpCgpjbGFzcyBMb2NhbEJsb2JTdG9yZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCByb290OiBzdHIpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5yb290ID0gcm9vdAogICAgICAgIG9zLm1ha2VkaXJzKHJvb3QsIGV4aXN0X29rPVRydWUpCgogICAgZGVmIF9wYXRoKHNlbGYsIHRlbmFudF9pZDogc3RyLCBrZXk6IHN0cikgLT4gc3RyOgogICAgICAgIHQgPSBfU0FGRS5zdWIoIl8iLCB0ZW5hbnRfaWQgb3IgImRlZmF1bHQiKQogICAgICAgIGsgPSBfU0FGRS5zdWIoIl8iLCBrZXkpLmxzdHJpcCgiLyIpCiAgICAgICAgcCA9IG9zLnBhdGgubm9ybXBhdGgob3MucGF0aC5qb2luKHNlbGYucm9vdCwgdCwgaykpCiAgICAgICAgaWYgbm90IHAuc3RhcnRzd2l0aChvcy5wYXRoLm5vcm1wYXRoKG9zLnBhdGguam9pbihzZWxmLnJvb3QsIHQpKSk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIumdnuazlSBrZXko6Lev5b6E56m/6LaKKSIpCiAgICAgICAgcmV0dXJuIHAKCiAgICBkZWYgcHV0KHNlbGYsIHRlbmFudF9pZDogc3RyLCBrZXk6IHN0ciwgZGF0YTogYnl0ZXMpIC0+IHN0cjoKICAgICAgICBwID0gc2VsZi5fcGF0aCh0ZW5hbnRfaWQsIGtleSkKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUocCksIGV4aXN0X29rPVRydWUpCiAgICAgICAgd2l0aCBvcGVuKHAsICJ3YiIpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUoZGF0YSkKICAgICAgICByZXR1cm4gZiJsb2NhbDovL3t0ZW5hbnRfaWR9L3trZXl9IgoKICAgIGRlZiBnZXQoc2VsZiwgdGVuYW50X2lkOiBzdHIsIGtleTogc3RyKSAtPiBieXRlczoKICAgICAgICB3aXRoIG9wZW4oc2VsZi5fcGF0aCh0ZW5hbnRfaWQsIGtleSksICJyYiIpIGFzIGY6CiAgICAgICAgICAgIHJldHVybiBmLnJlYWQoKQoKICAgIGRlZiBkZWxldGUoc2VsZiwgdGVuYW50X2lkOiBzdHIsIGtleTogc3RyKSAtPiBib29sOgogICAgICAgIHAgPSBzZWxmLl9wYXRoKHRlbmFudF9pZCwga2V5KQogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgICAgICBvcy5yZW1vdmUocCk7IHJldHVybiBUcnVlCiAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgZGVmIGxpc3Qoc2VsZiwgdGVuYW50X2lkOiBzdHIsIHByZWZpeDogc3RyID0gIiIpIC0+IExpc3Rbc3RyXToKICAgICAgICBiYXNlID0gb3MucGF0aC5qb2luKHNlbGYucm9vdCwgX1NBRkUuc3ViKCJfIiwgdGVuYW50X2lkIG9yICJkZWZhdWx0IikpCiAgICAgICAgb3V0ID0gW10KICAgICAgICBmb3Igcm9vdCwgXywgZmlsZXMgaW4gb3Mud2FsayhiYXNlKToKICAgICAgICAgICAgZm9yIGYgaW4gZmlsZXM6CiAgICAgICAgICAgICAgICByZWwgPSBvcy5wYXRoLnJlbHBhdGgob3MucGF0aC5qb2luKHJvb3QsIGYpLCBiYXNlKQogICAgICAgICAgICAgICAgaWYgcmVsLnN0YXJ0c3dpdGgocHJlZml4KToKICAgICAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHJlbCkKICAgICAgICByZXR1cm4gc29ydGVkKG91dCkK
+"""platform_storage.local_blob_store — 本地磁盘对象存储(接口同 S3/MinIO 版)。"""
+from __future__ import annotations
+import os, re
+from typing import List
+
+_SAFE = re.compile(r"[^A-Za-z0-9_.\-/]")
+
+class LocalBlobStore:
+    def __init__(self, root: str) -> None:
+        self.root = root
+        os.makedirs(root, exist_ok=True)
+
+    def _path(self, tenant_id: str, key: str) -> str:
+        t = _SAFE.sub("_", tenant_id or "default")
+        k = _SAFE.sub("_", key).lstrip("/")
+        p = os.path.normpath(os.path.join(self.root, t, k))
+        if not p.startswith(os.path.normpath(os.path.join(self.root, t))):
+            raise ValueError("非法 key(路径穿越)")
+        return p
+
+    def put(self, tenant_id: str, key: str, data: bytes) -> str:
+        p = self._path(tenant_id, key)
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        with open(p, "wb") as f:
+            f.write(data)
+        return f"local://{tenant_id}/{key}"
+
+    def get(self, tenant_id: str, key: str) -> bytes:
+        with open(self._path(tenant_id, key), "rb") as f:
+            return f.read()
+
+    def delete(self, tenant_id: str, key: str) -> bool:
+        p = self._path(tenant_id, key)
+        if os.path.exists(p):
+            os.remove(p); return True
+        return False
+
+    def list(self, tenant_id: str, prefix: str = "") -> List[str]:
+        base = os.path.join(self.root, _SAFE.sub("_", tenant_id or "default"))
+        out = []
+        for root, _, files in os.walk(base):
+            for f in files:
+                rel = os.path.relpath(os.path.join(root, f), base)
+                if rel.startswith(prefix):
+                    out.append(rel)
+        return sorted(out)

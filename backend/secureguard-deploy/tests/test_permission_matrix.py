@@ -1,1 +1,69 @@
-IiIidGVzdHMvdGVzdF9wZXJtaXNzaW9uX21hdHJpeC5weSDigJQg6ZuG5Lit5p2D6ZmQ55+p6Zi144CCIiIiCmltcG9ydCBzeXMsIG9zCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKZnJvbSBzZWN1cmVndWFyZC5wZXJtaXNzaW9ucyBpbXBvcnQgUm9sZQpmcm9tIGJhY2tlbmQucGVybWlzc2lvbl9tYXRyaXggaW1wb3J0ICgKICAgIGNhbiwgY2FwYWJpbGl0aWVzX29mLCBidWlsZF9oYW5kYm9vaywKICAgIENBUF9NQU5BR0VfQURNSU5TLCBDQVBfQ09ORklHX01PREVMLCBDQVBfSVNTVUVfU0ssIENBUF9DUkVBVEVfQUdFTlQsCiAgICBDQVBfU0hBUkVfR0xPQkFMLCBDQVBfQVVESVRfUkVBRCwgQ0FQX1VTRV9QTEFURk9STSwgQ0FQX01BTkFHRV9VU0VSUywKKQoKCmRlZiB0ZXN0X29ubHlfYWRtaW5fbWFuYWdlc19hZG1pbnMoKToKICAgIGFzc2VydCBjYW4oUm9sZS5BRE1JTiwgQ0FQX01BTkFHRV9BRE1JTlMpCiAgICBmb3IgciBpbiAoUm9sZS5SRVNUUklDVEVEX0FETUlOLCBSb2xlLkRFVkVMT1BFUiwgUm9sZS5VU0VSLCBSb2xlLkFVRElUT1IsIFJvbGUuREVQQVJUTUVOVF9BRE1JTik6CiAgICAgICAgYXNzZXJ0IG5vdCBjYW4ociwgQ0FQX01BTkFHRV9BRE1JTlMpCgoKZGVmIHRlc3Rfb25seV9hZG1pbl9jb25maWdzX21vZGVsKCk6CiAgICBhc3NlcnQgY2FuKFJvbGUuQURNSU4sIENBUF9DT05GSUdfTU9ERUwpCiAgICBmb3IgciBpbiAoUm9sZS5SRVNUUklDVEVEX0FETUlOLCBSb2xlLkRFVkVMT1BFUiwgUm9sZS5VU0VSLCBSb2xlLkFVRElUT1IpOgogICAgICAgIGFzc2VydCBub3QgY2FuKHIsIENBUF9DT05GSUdfTU9ERUwpCgoKZGVmIHRlc3Rfb25seV9hZG1pbl9pc3N1ZXNfc2soKToKICAgIGFzc2VydCBjYW4oUm9sZS5BRE1JTiwgQ0FQX0lTU1VFX1NLKQogICAgZm9yIHIgaW4gKFJvbGUuREVWRUxPUEVSLCBSb2xlLlVTRVIsIFJvbGUuUkVTVFJJQ1RFRF9BRE1JTiwgUm9sZS5BVURJVE9SKToKICAgICAgICBhc3NlcnQgbm90IGNhbihyLCBDQVBfSVNTVUVfU0spCgoKZGVmIHRlc3RfZGV2ZWxvcGVyX2FuZF9hZG1pbl9jcmVhdGVfYWdlbnQoKToKICAgIGFzc2VydCBjYW4oUm9sZS5BRE1JTiwgQ0FQX0NSRUFURV9BR0VOVCkgYW5kIGNhbihSb2xlLkRFVkVMT1BFUiwgQ0FQX0NSRUFURV9BR0VOVCkKICAgIGFzc2VydCBub3QgY2FuKFJvbGUuVVNFUiwgQ0FQX0NSRUFURV9BR0VOVCkgICAgICAgICMgdXNlciDlj6rog73np4HmnIkKICAgIGFzc2VydCBub3QgY2FuKFJvbGUuUkVTVFJJQ1RFRF9BRE1JTiwgQ0FQX0NSRUFURV9BR0VOVCkgICMg5Y+X6ZmQ566h55CG5ZGY5LiN566h5LqLCgoKZGVmIHRlc3RfcmVzdHJpY3RlZF9hZG1pbl9tYW5hZ2VzX3VzZXJzX25vdF9hZG1pbnMoKToKICAgIGFzc2VydCBjYW4oUm9sZS5SRVNUUklDVEVEX0FETUlOLCBDQVBfTUFOQUdFX1VTRVJTKQogICAgYXNzZXJ0IG5vdCBjYW4oUm9sZS5SRVNUUklDVEVEX0FETUlOLCBDQVBfTUFOQUdFX0FETUlOUykKCgpkZWYgdGVzdF9zaGFyZV9nbG9iYWxfZGV2X2FuZF9hZG1pbl9vbmx5KCk6CiAgICBhc3NlcnQgY2FuKFJvbGUuQURNSU4sIENBUF9TSEFSRV9HTE9CQUwpIGFuZCBjYW4oUm9sZS5ERVZFTE9QRVIsIENBUF9TSEFSRV9HTE9CQUwpCiAgICBhc3NlcnQgbm90IGNhbihSb2xlLlVTRVIsIENBUF9TSEFSRV9HTE9CQUwpCgoKZGVmIHRlc3RfYXVkaXRfcmVhZF9hZG1pbl9hbmRfYXVkaXRvcigpOgogICAgYXNzZXJ0IGNhbihSb2xlLkFVRElUT1IsIENBUF9BVURJVF9SRUFEKSBhbmQgY2FuKFJvbGUuQURNSU4sIENBUF9BVURJVF9SRUFEKQogICAgYXNzZXJ0IG5vdCBjYW4oUm9sZS5VU0VSLCBDQVBfQVVESVRfUkVBRCkKCgpkZWYgdGVzdF9ldmVyeW9uZV91c2VzX3BsYXRmb3JtKCk6CiAgICBmb3IgciBpbiBSb2xlOgogICAgICAgIGFzc2VydCBjYW4ociwgQ0FQX1VTRV9QTEFURk9STSkKCgpkZWYgdGVzdF9jYXBhYmlsaXRpZXNfb2ZfdXNlcl9pc19taW5pbWFsKCk6CiAgICBjYXBzID0gY2FwYWJpbGl0aWVzX29mKFJvbGUuVVNFUikKICAgIGFzc2VydCBDQVBfVVNFX1BMQVRGT1JNIGluIGNhcHMKICAgIGFzc2VydCBDQVBfQ09ORklHX01PREVMIG5vdCBpbiBjYXBzIGFuZCBDQVBfSVNTVUVfU0sgbm90IGluIGNhcHMKCgpkZWYgdGVzdF9oYW5kYm9va19tYXRjaGVzX21hdHJpeCgpOgogICAgIiIi6K+05piO5Lmm5LiO55+p6Zi15ZCM5rqQ77ya6ZqP5py65oq95p+l5Yeg5qC85LiA6Ie044CCIiIiCiAgICBoYiA9IGJ1aWxkX2hhbmRib29rKCkKICAgIGFzc2VydCBsZW4oaGJbInJvbGVzIl0pID09IDYKICAgIGNmZyA9IG5leHQoYyBmb3IgYyBpbiBoYlsiY2FwYWJpbGl0aWVzIl0gaWYgY1siaWQiXSA9PSBDQVBfQ09ORklHX01PREVMKQogICAgYXNzZXJ0IGNmZ1sicm9sZXMiXVsiYWRtaW4iXSBpcyBUcnVlIGFuZCBjZmdbInJvbGVzIl1bImRldmVsb3BlciJdIGlzIEZhbHNlCiAgICBzayA9IG5leHQoYyBmb3IgYyBpbiBoYlsiY2FwYWJpbGl0aWVzIl0gaWYgY1siaWQiXSA9PSBDQVBfSVNTVUVfU0spCiAgICBhc3NlcnQgc2tbInJvbGVzIl1bImFkbWluIl0gaXMgVHJ1ZSBhbmQgc2tbInJvbGVzIl1bInVzZXIiXSBpcyBGYWxzZQo=
+"""tests/test_permission_matrix.py — 集中权限矩阵。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from secureguard.permissions import Role
+from backend.permission_matrix import (
+    can, capabilities_of, build_handbook,
+    CAP_MANAGE_ADMINS, CAP_CONFIG_MODEL, CAP_ISSUE_SK, CAP_CREATE_AGENT,
+    CAP_SHARE_GLOBAL, CAP_AUDIT_READ, CAP_USE_PLATFORM, CAP_MANAGE_USERS,
+)
+
+
+def test_only_admin_manages_admins():
+    assert can(Role.ADMIN, CAP_MANAGE_ADMINS)
+    for r in (Role.RESTRICTED_ADMIN, Role.DEVELOPER, Role.USER, Role.AUDITOR, Role.DEPARTMENT_ADMIN):
+        assert not can(r, CAP_MANAGE_ADMINS)
+
+
+def test_only_admin_configs_model():
+    assert can(Role.ADMIN, CAP_CONFIG_MODEL)
+    for r in (Role.RESTRICTED_ADMIN, Role.DEVELOPER, Role.USER, Role.AUDITOR):
+        assert not can(r, CAP_CONFIG_MODEL)
+
+
+def test_only_admin_issues_sk():
+    assert can(Role.ADMIN, CAP_ISSUE_SK)
+    for r in (Role.DEVELOPER, Role.USER, Role.RESTRICTED_ADMIN, Role.AUDITOR):
+        assert not can(r, CAP_ISSUE_SK)
+
+
+def test_developer_and_admin_create_agent():
+    assert can(Role.ADMIN, CAP_CREATE_AGENT) and can(Role.DEVELOPER, CAP_CREATE_AGENT)
+    assert not can(Role.USER, CAP_CREATE_AGENT)        # user 只能私有
+    assert not can(Role.RESTRICTED_ADMIN, CAP_CREATE_AGENT)  # 受限管理员不管事
+
+
+def test_restricted_admin_manages_users_not_admins():
+    assert can(Role.RESTRICTED_ADMIN, CAP_MANAGE_USERS)
+    assert not can(Role.RESTRICTED_ADMIN, CAP_MANAGE_ADMINS)
+
+
+def test_share_global_dev_and_admin_only():
+    assert can(Role.ADMIN, CAP_SHARE_GLOBAL) and can(Role.DEVELOPER, CAP_SHARE_GLOBAL)
+    assert not can(Role.USER, CAP_SHARE_GLOBAL)
+
+
+def test_audit_read_admin_and_auditor():
+    assert can(Role.AUDITOR, CAP_AUDIT_READ) and can(Role.ADMIN, CAP_AUDIT_READ)
+    assert not can(Role.USER, CAP_AUDIT_READ)
+
+
+def test_everyone_uses_platform():
+    for r in Role:
+        assert can(r, CAP_USE_PLATFORM)
+
+
+def test_capabilities_of_user_is_minimal():
+    caps = capabilities_of(Role.USER)
+    assert CAP_USE_PLATFORM in caps
+    assert CAP_CONFIG_MODEL not in caps and CAP_ISSUE_SK not in caps
+
+
+def test_handbook_matches_matrix():
+    """说明书与矩阵同源：随机抽查几格一致。"""
+    hb = build_handbook()
+    assert len(hb["roles"]) == 6
+    cfg = next(c for c in hb["capabilities"] if c["id"] == CAP_CONFIG_MODEL)
+    assert cfg["roles"]["admin"] is True and cfg["roles"]["developer"] is False
+    sk = next(c for c in hb["capabilities"] if c["id"] == CAP_ISSUE_SK)
+    assert sk["roles"]["admin"] is True and sk["roles"]["user"] is False

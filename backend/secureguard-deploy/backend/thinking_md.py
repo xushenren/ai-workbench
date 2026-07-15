@@ -1,1 +1,113 @@
-IiIiYmFja2VuZC50aGlua2luZ19tZCDigJQgTUQg6amx5Yqo55qE5oCd6ICD5pa55byP77yI5Li7IE1EICsg6aKG5Z+f5qyhIE1E77yM54Ot5Yqg6L2977yJ44CCCgrljp/nkIbvvJrmiooi5oCO5LmI5oCd6ICDIuS7juaooeWei+adg+mHjeaKveWHuuadpe+8jOWGmei/m+WPr+e8lui+keeahCBNROOAguaooeWei+aYr+ino+mHiuWZqO+8jE1EIOaYr+eoi+W6j+OAggogIC0g5q+P5LiqIE1EIOeahCBmcm9udG1hdHRlciDlo7DmmI4gYHN0ZXBzYO+8iOWPs+S+p+aAneiAg+mdouadv+WPr+ingeeahOWIhuatpe+8ieOAggogIC0g5q2j5paH5piv5rOo5YWl5qih5Z6L55qE5o+Q56S66K+N6ISa5omL5p6244CCCiAgLSDpoobln5/mrKEgTUQg55SoIGBleHRlbmRzYCArIGBzdGVwc19pbnNlcnRfYmVmb3JlYCDlj6DliqDlnKjkuLsgTUQg5LiK44CCCuaNoiBNRCDihpIg5q2l6aqk5LiO6ISa5omL5p626YO95Y+YIOKGkiDmgJ3ogIPmlrnlvI/lj5jvvIzkuJQqKuaXoOmcgOaUueS7o+eggS/ph43mlrDpg6jnvbIqKu+8iOavj+asoeivt+axgumHjeivu+aWh+S7tu+8ieOAggoK57qvIHN0ZGxpYiArIFB5WUFNTO+8jOWPr+emu+e6v+a1i+OAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG9zCmltcG9ydCByZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsCgp0cnk6CiAgICBpbXBvcnQgeWFtbCAgIyBQeVlBTUwg5Y+v55SoCmV4Y2VwdCBFeGNlcHRpb246ICAjIHByYWdtYTogbm8gY292ZXIKICAgIHlhbWwgPSBOb25lCgpUSElOS0lOR19ESVIgPSBvcy5lbnZpcm9uLmdldCgKICAgICJUSElOS0lOR19NRF9ESVIiLAogICAgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIsICJjb25maWciLCAidGhpbmtpbmciKSwKKQoKX0ZST05UTUFUVEVSID0gcmUuY29tcGlsZShyIl4tLS1ccypcbiguKj8pXG4tLS1ccypcbiguKikkIiwgcmUuRE9UQUxMKQoKCkBkYXRhY2xhc3MKY2xhc3MgU3RlcDoKICAgIGtleTogc3RyCiAgICBsYWJlbDogc3RyCiAgICBoaW50OiBzdHIgPSAiIgoKICAgIGRlZiB0b19kaWN0KHNlbGYpIC0+IERpY3Rbc3RyLCBzdHJdOgogICAgICAgIHJldHVybiB7ImtleSI6IHNlbGYua2V5LCAibGFiZWwiOiBzZWxmLmxhYmVsLCAiaGludCI6IHNlbGYuaGludH0KCgpAZGF0YWNsYXNzCmNsYXNzIFRoaW5raW5nUHJvZmlsZToKICAgICIiIue7hOWQiOWQjueahOaAneiAg+eUu+WDj++8muWPr+ingeatpemqpCArIOazqOWFpeaPkOekuuivjeOAgiIiIgogICAgaWQ6IHN0cgogICAgc3RlcHM6IExpc3RbU3RlcF0KICAgIHByb21wdF9ib2R5OiBzdHIKICAgIHNvdXJjZXM6IExpc3Rbc3RyXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KSAgIyDlj4LkuI7nu4TlkIjnmoQgTUQgaWTvvIzkvr/kuo7mjpLmn6UKCiAgICBkZWYgc3RlcHNfZGljdChzZWxmKSAtPiBMaXN0W0RpY3Rbc3RyLCBzdHJdXToKICAgICAgICByZXR1cm4gW3MudG9fZGljdCgpIGZvciBzIGluIHNlbGYuc3RlcHNdCgogICAgZGVmIGNvbXBvc2VfcHJvbXB0KHNlbGYsIHF1ZXN0aW9uOiBzdHIsIGNvbnRleHQ6IHN0ciA9ICIiKSAtPiBzdHI6CiAgICAgICAgY3R4ID0gZiJcblxuPT09IOWPr+S/oeaWh+ahoyA9PT1cbntjb250ZXh0fVxuIiBpZiBjb250ZXh0IGVsc2UgIiIKICAgICAgICByZXR1cm4gZiJ7c2VsZi5wcm9tcHRfYm9keX17Y3R4fVxuXG49PT0g55So5oi36Zeu6aKYID09PVxue3F1ZXN0aW9ufVxuIgoKCmRlZiBfcGFyc2VfbWQocGF0aDogc3RyKSAtPiBEaWN0W3N0ciwgQW55XToKICAgIHdpdGggb3BlbihwYXRoLCAiciIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgcmF3ID0gZi5yZWFkKCkKICAgIG0gPSBfRlJPTlRNQVRURVIubWF0Y2gocmF3KQogICAgaWYgbm90IG06CiAgICAgICAgcmV0dXJuIHsibWV0YSI6IHt9LCAiYm9keSI6IHJhdy5zdHJpcCgpfQogICAgbWV0YV90ZXh0LCBib2R5ID0gbS5ncm91cCgxKSwgbS5ncm91cCgyKQogICAgbWV0YSA9ICh5YW1sLnNhZmVfbG9hZChtZXRhX3RleHQpIGlmIHlhbWwgZWxzZSB7fSkgb3Ige30KICAgIHJldHVybiB7Im1ldGEiOiBtZXRhLCAiYm9keSI6IGJvZHkuc3RyaXAoKX0KCgpkZWYgX3N0ZXBzX2Zyb20obWV0YTogRGljdFtzdHIsIEFueV0pIC0+IExpc3RbU3RlcF06CiAgICBvdXQ6IExpc3RbU3RlcF0gPSBbXQogICAgZm9yIHMgaW4gbWV0YS5nZXQoInN0ZXBzIiwgW10pIG9yIFtdOgogICAgICAgIGlmIGlzaW5zdGFuY2UocywgZGljdCkgYW5kIHMuZ2V0KCJrZXkiKToKICAgICAgICAgICAgb3V0LmFwcGVuZChTdGVwKHNbImtleSJdLCBzLmdldCgibGFiZWwiLCBzWyJrZXkiXSksIHMuZ2V0KCJoaW50IiwgIiIpKSkKICAgIHJldHVybiBvdXQKCgpkZWYgbG9hZF9wcm9maWxlKGRvbWFpbjogT3B0aW9uYWxbc3RyXSA9IE5vbmUsIGJhc2VfZGlyOiBzdHIgPSBUSElOS0lOR19ESVIpIC0+IFRoaW5raW5nUHJvZmlsZToKICAgICIiIuWKoOi9veS4uyBNRO+8jOiLpee7meWumiBkb21haW4g5YiZ5Y+g5YqgIGRvbWFpbi08ZG9tYWluPi5tZOOAguavj+asoemDvemHjeivu+aWh+S7tiDihpIg54Ot5Yqg6L2944CCIiIiCiAgICBiYXNlX2RpciA9IG9zLnBhdGguYWJzcGF0aChiYXNlX2RpcikKICAgIG1haW4gPSBfcGFyc2VfbWQob3MucGF0aC5qb2luKGJhc2VfZGlyLCAibWFpbi5tZCIpKQogICAgc3RlcHMgPSBfc3RlcHNfZnJvbShtYWluWyJtZXRhIl0pCiAgICBib2R5ID0gbWFpblsiYm9keSJdCiAgICBzb3VyY2VzID0gW21haW5bIm1ldGEiXS5nZXQoImlkIiwgIm1haW4iKV0KCiAgICBpZiBkb21haW46CiAgICAgICAgZHBhdGggPSBvcy5wYXRoLmpvaW4oYmFzZV9kaXIsIGYiZG9tYWluLXtkb21haW59Lm1kIikKICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhkcGF0aCk6CiAgICAgICAgICAgIGRvbSA9IF9wYXJzZV9tZChkcGF0aCkKICAgICAgICAgICAgc291cmNlcy5hcHBlbmQoZG9tWyJtZXRhIl0uZ2V0KCJpZCIsIGYiZG9tYWluLXtkb21haW59IikpCiAgICAgICAgICAgICMg5Y+g5Yqg5q2j5paHCiAgICAgICAgICAgIGJvZHkgPSBmIntib2R5fVxuXG57ZG9tWydib2R5J119IgogICAgICAgICAgICAjIOWPoOWKoOatpemqpO+8muaPkuWIsOaMh+WumiBrZXkg5LmL5YmN77yI6buY6K6kIGFuc3dlciDliY3vvIkKICAgICAgICAgICAgaW5zZXJ0X2JlZm9yZSA9IGRvbVsibWV0YSJdLmdldCgic3RlcHNfaW5zZXJ0X2JlZm9yZSIsICJhbnN3ZXIiKQogICAgICAgICAgICBleHRyYSA9IF9zdGVwc19mcm9tKGRvbVsibWV0YSJdKQogICAgICAgICAgICBpZiBleHRyYToKICAgICAgICAgICAgICAgIGlkeCA9IG5leHQoKGkgZm9yIGksIHMgaW4gZW51bWVyYXRlKHN0ZXBzKSBpZiBzLmtleSA9PSBpbnNlcnRfYmVmb3JlKSwgbGVuKHN0ZXBzKSkKICAgICAgICAgICAgICAgIHN0ZXBzID0gc3RlcHNbOmlkeF0gKyBleHRyYSArIHN0ZXBzW2lkeDpdCgogICAgcmV0dXJuIFRoaW5raW5nUHJvZmlsZShpZD0iKyIuam9pbihzb3VyY2VzKSwgc3RlcHM9c3RlcHMsIHByb21wdF9ib2R5PWJvZHksIHNvdXJjZXM9c291cmNlcykKCgojIC0tLS0tLS0tLS0g5oqK5qih5Z6L55qE57uT5p6E5YyW6L6T5Ye65oyJIHN0ZXAg5YiH54mH77yM5L6b5oCd6ICD6Z2i5p2/6YCQ5q2l5bGV56S6IC0tLS0tLS0tLS0KZGVmIHNwbGl0X3NlY3Rpb25zKHRleHQ6IHN0ciwgc3RlcHM6IExpc3RbU3RlcF0pIC0+IERpY3Rbc3RyLCBzdHJdOgogICAgIiIi5LuO5qih5Z6L6L6T5Ye66YeM5oq95Y+W5q+P5LiqIHN0ZXAg5a+55bqU55qE5qCH562+5q616JC944CCCgogICAg57qm5a6a77yac3RlcC5rZXkgJ2Fzc2VzcyfihpI8QVNTRVNTPu+8jCdnYXRoZXIn4oaSPEdBVEhFUj7igKYg5qCH562+5Li6IGtleSDlpKflhpnjgIIKICAgIOaKveS4jeWIsOeahOauteiQvei/lOWbnuepuuS4su+8iOS4iuWxguaNruatpOmZjee6p+ivpeatpeaYvuekuu+8ieOAggogICAgIiIiCiAgICByZXN1bHQ6IERpY3Rbc3RyLCBzdHJdID0ge30KICAgIGZvciBzIGluIHN0ZXBzOgogICAgICAgIHRhZyA9IHMua2V5LnVwcGVyKCkKICAgICAgICBtID0gcmUuc2VhcmNoKHJmIjx7dGFnfT4oLio/KTwve3RhZ30+IiwgdGV4dCwgcmUuRE9UQUxMIHwgcmUuSUdOT1JFQ0FTRSkKICAgICAgICByZXN1bHRbcy5rZXldID0gbS5ncm91cCgxKS5zdHJpcCgpIGlmIG0gZWxzZSAiIgogICAgcmV0dXJuIHJlc3VsdAo=
+"""backend.thinking_md — MD 驱动的思考方式（主 MD + 领域次 MD，热加载）。
+
+原理：把"怎么思考"从模型权重抽出来，写进可编辑的 MD。模型是解释器，MD 是程序。
+  - 每个 MD 的 frontmatter 声明 `steps`（右侧思考面板可见的分步）。
+  - 正文是注入模型的提示词脚手架。
+  - 领域次 MD 用 `extends` + `steps_insert_before` 叠加在主 MD 上。
+换 MD → 步骤与脚手架都变 → 思考方式变，且**无需改代码/重新部署**（每次请求重读文件）。
+
+纯 stdlib + PyYAML，可离线测。
+"""
+from __future__ import annotations
+
+import os
+import re
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional
+
+try:
+    import yaml  # PyYAML 可用
+except Exception:  # pragma: no cover
+    yaml = None
+
+THINKING_DIR = os.environ.get(
+    "THINKING_MD_DIR",
+    os.path.join(os.path.dirname(__file__), "..", "config", "thinking"),
+)
+
+_FRONTMATTER = re.compile(r"^---\s*\n(.*?)\n---\s*\n(.*)$", re.DOTALL)
+
+
+@dataclass
+class Step:
+    key: str
+    label: str
+    hint: str = ""
+
+    def to_dict(self) -> Dict[str, str]:
+        return {"key": self.key, "label": self.label, "hint": self.hint}
+
+
+@dataclass
+class ThinkingProfile:
+    """组合后的思考画像：可见步骤 + 注入提示词。"""
+    id: str
+    steps: List[Step]
+    prompt_body: str
+    sources: List[str] = field(default_factory=list)  # 参与组合的 MD id，便于排查
+
+    def steps_dict(self) -> List[Dict[str, str]]:
+        return [s.to_dict() for s in self.steps]
+
+    def compose_prompt(self, question: str, context: str = "") -> str:
+        ctx = f"\n\n=== 可信文档 ===\n{context}\n" if context else ""
+        return f"{self.prompt_body}{ctx}\n\n=== 用户问题 ===\n{question}\n"
+
+
+def _parse_md(path: str) -> Dict[str, Any]:
+    with open(path, "r", encoding="utf-8") as f:
+        raw = f.read()
+    m = _FRONTMATTER.match(raw)
+    if not m:
+        return {"meta": {}, "body": raw.strip()}
+    meta_text, body = m.group(1), m.group(2)
+    meta = (yaml.safe_load(meta_text) if yaml else {}) or {}
+    return {"meta": meta, "body": body.strip()}
+
+
+def _steps_from(meta: Dict[str, Any]) -> List[Step]:
+    out: List[Step] = []
+    for s in meta.get("steps", []) or []:
+        if isinstance(s, dict) and s.get("key"):
+            out.append(Step(s["key"], s.get("label", s["key"]), s.get("hint", "")))
+    return out
+
+
+def load_profile(domain: Optional[str] = None, base_dir: str = THINKING_DIR) -> ThinkingProfile:
+    """加载主 MD，若给定 domain 则叠加 domain-<domain>.md。每次都重读文件 → 热加载。"""
+    base_dir = os.path.abspath(base_dir)
+    main = _parse_md(os.path.join(base_dir, "main.md"))
+    steps = _steps_from(main["meta"])
+    body = main["body"]
+    sources = [main["meta"].get("id", "main")]
+
+    if domain:
+        dpath = os.path.join(base_dir, f"domain-{domain}.md")
+        if os.path.exists(dpath):
+            dom = _parse_md(dpath)
+            sources.append(dom["meta"].get("id", f"domain-{domain}"))
+            # 叠加正文
+            body = f"{body}\n\n{dom['body']}"
+            # 叠加步骤：插到指定 key 之前（默认 answer 前）
+            insert_before = dom["meta"].get("steps_insert_before", "answer")
+            extra = _steps_from(dom["meta"])
+            if extra:
+                idx = next((i for i, s in enumerate(steps) if s.key == insert_before), len(steps))
+                steps = steps[:idx] + extra + steps[idx:]
+
+    return ThinkingProfile(id="+".join(sources), steps=steps, prompt_body=body, sources=sources)
+
+
+# ---------- 把模型的结构化输出按 step 切片，供思考面板逐步展示 ----------
+def split_sections(text: str, steps: List[Step]) -> Dict[str, str]:
+    """从模型输出里抽取每个 step 对应的标签段落。
+
+    约定：step.key 'assess'→<ASSESS>，'gather'→<GATHER>… 标签为 key 大写。
+    抽不到的段落返回空串（上层据此降级该步显示）。
+    """
+    result: Dict[str, str] = {}
+    for s in steps:
+        tag = s.key.upper()
+        m = re.search(rf"<{tag}>(.*?)</{tag}>", text, re.DOTALL | re.IGNORECASE)
+        result[s.key] = m.group(1).strip() if m else ""
+    return result

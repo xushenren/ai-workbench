@@ -1,1 +1,58 @@
-IiIidGVzdHMvdGVzdF90cmFjZS5weSDigJQgRDMg5oCd6ICD6Z2i5p2/5Y+M6L2o5Y2V5rWL44CCIiIiCmltcG9ydCBzeXMsIG9zCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKCmZyb20gc2VjdXJlZ3VhcmQudHJhY2UgaW1wb3J0IFRyYWNlRnJhbWUsIGJ1aWxkX3B1YmxpY190cmFjZSwgYnVpbGRfYXVkaXRfdHJhY2UsIHNwbGl0X2ZyYW1lCgoKZGVmIHRlc3RfZ2F0ZV9mcmFtZV9oaWRlc19ydWxlX2lkX2Zyb21fcHVibGljKCk6CiAgICBmID0gVHJhY2VGcmFtZShzdGFnZT0iaGFybmVzcyIsIHR5cGU9ImdhdGUiLCBnYXRlX3Jlc3VsdD0iQkxPQ0siLCBydWxlX2lkPSJSLTA3IiwgdGllcj0idGllcjEiKQogICAgcHViID0gYnVpbGRfcHVibGljX3RyYWNlKGYpCiAgICBhdWQgPSBidWlsZF9hdWRpdF90cmFjZShmKQogICAgYXNzZXJ0ICJSLTA3IiBub3QgaW4gc3RyKHB1YikgICAgICAgICAgIyDnlKjmiLfnnIvkuI3liLDlhbfkvZPnuqLnur8KICAgIGFzc2VydCBwdWJbInN0YXR1cyJdID09ICJCTE9DSyIgYW5kICLmi6bmiKoiIGluIHB1YlsiZGlzcGxheSJdCiAgICBhc3NlcnQgYXVkWyJydWxlX2lkIl0gPT0gIlItMDciICAgICAgICAjIOWuoeiuoeS/neeVmQoKCmRlZiB0ZXN0X3Rvb2xfcmVzdWx0X3dpdGhfcGlpX2lzX3JlZGFjdGVkX2luX3B1YmxpYygpOgogICAgZiA9IFRyYWNlRnJhbWUoc3RhZ2U9InRvb2wiLCB0eXBlPSJ0b29sX2NhbGwiLCB0b29sX25hbWU9InNlYXJjaF9rYiIsCiAgICAgICAgICAgICAgICAgICByZXN1bHQ9IuWRmOW3peWvhumSpSBzay1BQkNERUZHSElKS0xNTk9QMTIzNDU2Nzg5MCDlkozmm7TlpJrlhoXlrrkiLCByZXN1bHRfY291bnQ9MykKICAgIHB1YiA9IGJ1aWxkX3B1YmxpY190cmFjZShmKQogICAgYXNzZXJ0ICJzay1BQkNERUZHSElKS0xNTk9QMTIzNDU2Nzg5MCIgbm90IGluIHN0cihwdWIpICAjIOW3suiEseaVjwogICAgYXNzZXJ0IHB1YlsicGFyYW1zX3JlZGFjdGVkIl0gaXMgRmFsc2UKCgpkZWYgdGVzdF9mdWxseV9yZWRhY3RlZF9yZXN1bHRfc2hvd3NfZ3JhY2VmdWxfbWVzc2FnZSgpOgogICAgIyDov5Tlm57lgLzlhajmmK/mlY/mhJ8g4oaSIOmdouadv+S4jeepuueZve+8jOaYvuekuiLosIPnlKjmiJDlip8r6K6h5pWwK+makOiXj+WOn+WboCIKICAgIGYgPSBUcmFjZUZyYW1lKHN0YWdlPSJ0b29sIiwgdHlwZT0idG9vbF9jYWxsIiwgdG9vbF9uYW1lPSJnZXRfcHJvZmlsZSIsCiAgICAgICAgICAgICAgICAgICByZXN1bHQ9InNrLUFCQ0RFRkdISUpLTE1OT1AxMjM0NTY3ODkwIiwgcmVzdWx0X2NvdW50PTEpCiAgICBwdWIgPSBidWlsZF9wdWJsaWNfdHJhY2UoZikKICAgIGFzc2VydCBwdWJbInJlc3VsdF9oaWRkZW4iXSBpcyBUcnVlCiAgICBhc3NlcnQgIuiwg+eUqOWujOaIkCIgaW4gcHViWyJkaXNwbGF5Il0gYW5kICLpmpDol48iIGluIHB1YlsiZGlzcGxheSJdCiAgICBhc3NlcnQgcHViWyJkaXNwbGF5Il0uc3RyaXAoKSAhPSAiIiAgICAjIOawuOS4jeepuueZvQoKCmRlZiB0ZXN0X2F1ZGl0X3RyYWNlX3N0b3Jlc19oYXNoX25vdF9wbGFpbnRleHQoKToKICAgIHNlY3JldCA9ICLlkZjlt6Xouqvku73or4EgMTEwMTAxMTk5MDAzMDc4ODg4IgogICAgZiA9IFRyYWNlRnJhbWUoc3RhZ2U9InRvb2wiLCB0eXBlPSJ0b29sX2NhbGwiLCB0b29sX25hbWU9IngiLCByZXN1bHQ9c2VjcmV0KQogICAgYXVkID0gYnVpbGRfYXVkaXRfdHJhY2UoZikKICAgIGFzc2VydCBzZWNyZXQgbm90IGluIHN0cihhdWQpIGFuZCBsZW4oYXVkWyJyZXN1bHRfaGFzaCJdKSA9PSA2NAoKCmRlZiB0ZXN0X25vcm1hbF90b29sX3Jlc3VsdF9wYXNzZXNfdGhyb3VnaCgpOgogICAgZiA9IFRyYWNlRnJhbWUoc3RhZ2U9InRvb2wiLCB0eXBlPSJ0b29sX2NhbGwiLCB0b29sX25hbWU9ImNhbGMiLCByZXN1bHQ9Iue7k+aenOaYryA0MiIpCiAgICBwdWIgPSBidWlsZF9wdWJsaWNfdHJhY2UoZikKICAgIGFzc2VydCBwdWJbInJlc3VsdF9oaWRkZW4iXSBpcyBGYWxzZSBhbmQgIjQyIiBpbiBwdWJbInJlc3VsdCJdCgoKZGVmIHRlc3Rfc3BsaXRfZnJhbWVfcmV0dXJuc19ib3RoX3RyYWNrcygpOgogICAgZiA9IFRyYWNlRnJhbWUoc3RhZ2U9IkM0IiwgdHlwZT0icm91dGUiLCBzdW1tYXJ5PSLot6/nlLHliLAg5py655S15a6J6KOFL+aalumAmiIpCiAgICBib3RoID0gc3BsaXRfZnJhbWUoZiwgc2Vzc2lvbl9pZD0iczEiKQogICAgYXNzZXJ0ICJwdWJsaWMiIGluIGJvdGggYW5kICJhdWRpdCIgaW4gYm90aAogICAgYXNzZXJ0IGJvdGhbImF1ZGl0Il1bInNlc3Npb25faWQiXSA9PSAiczEiCgoKZGVmIHRlc3RfcHVibGljX2Rpc3BsYXlfbmV2ZXJfZW1wdHkoKToKICAgIGYgPSBUcmFjZUZyYW1lKHN0YWdlPSJDMSIsIHR5cGU9ImNvbnRleHRfbG9hZCIsIHN1bW1hcnk9IiIpCiAgICBwdWIgPSBidWlsZF9wdWJsaWNfdHJhY2UoZikKICAgIGFzc2VydCBwdWJbImRpc3BsYXkiXS5zdHJpcCgpICE9ICIiCg==
+"""tests/test_trace.py — D3 思考面板双轨单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.trace import TraceFrame, build_public_trace, build_audit_trace, split_frame
+
+
+def test_gate_frame_hides_rule_id_from_public():
+    f = TraceFrame(stage="harness", type="gate", gate_result="BLOCK", rule_id="R-07", tier="tier1")
+    pub = build_public_trace(f)
+    aud = build_audit_trace(f)
+    assert "R-07" not in str(pub)          # 用户看不到具体红线
+    assert pub["status"] == "BLOCK" and "拦截" in pub["display"]
+    assert aud["rule_id"] == "R-07"        # 审计保留
+
+
+def test_tool_result_with_pii_is_redacted_in_public():
+    f = TraceFrame(stage="tool", type="tool_call", tool_name="search_kb",
+                   result="员工密钥 sk-ABCDEFGHIJKLMNOP1234567890 和更多内容", result_count=3)
+    pub = build_public_trace(f)
+    assert "sk-ABCDEFGHIJKLMNOP1234567890" not in str(pub)  # 已脱敏
+    assert pub["params_redacted"] is False
+
+
+def test_fully_redacted_result_shows_graceful_message():
+    # 返回值全是敏感 → 面板不空白，显示"调用成功+计数+隐藏原因"
+    f = TraceFrame(stage="tool", type="tool_call", tool_name="get_profile",
+                   result="sk-ABCDEFGHIJKLMNOP1234567890", result_count=1)
+    pub = build_public_trace(f)
+    assert pub["result_hidden"] is True
+    assert "调用完成" in pub["display"] and "隐藏" in pub["display"]
+    assert pub["display"].strip() != ""    # 永不空白
+
+
+def test_audit_trace_stores_hash_not_plaintext():
+    secret = "员工身份证 110101199003078888"
+    f = TraceFrame(stage="tool", type="tool_call", tool_name="x", result=secret)
+    aud = build_audit_trace(f)
+    assert secret not in str(aud) and len(aud["result_hash"]) == 64
+
+
+def test_normal_tool_result_passes_through():
+    f = TraceFrame(stage="tool", type="tool_call", tool_name="calc", result="结果是 42")
+    pub = build_public_trace(f)
+    assert pub["result_hidden"] is False and "42" in pub["result"]
+
+
+def test_split_frame_returns_both_tracks():
+    f = TraceFrame(stage="C4", type="route", summary="路由到 机电安装/暖通")
+    both = split_frame(f, session_id="s1")
+    assert "public" in both and "audit" in both
+    assert both["audit"]["session_id"] == "s1"
+
+
+def test_public_display_never_empty():
+    f = TraceFrame(stage="C1", type="context_load", summary="")
+    pub = build_public_trace(f)
+    assert pub["display"].strip() != ""

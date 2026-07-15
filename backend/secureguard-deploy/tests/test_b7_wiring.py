@@ -1,1 +1,89 @@
-IiIidGVzdHMvdGVzdF9iN193aXJpbmcucHkg4oCUIEI3IOaOpee6v+WNlea1i++8iOaymeeuseWPr+a1i+eahOmDqOWIhu+8ieOAggoK5rKZ566x5pegIEdQVS9SZWRpcy9DaHJvbWEvUEfvvIwqKuecn+WunuWQjuerr+eahOWunumZheiwg+eUqOa1i+S4jeS6hioq44CC5pys5rWL6K+V5Y+q6aqM77yaCiAgMS4g5bel5Y6C5Zyo5peg546v5aKD5Y+Y6YeP5pe25q2j56Gu5Zue6JC95YaF5a2Y54mI77ybCiAgMi4g55yf5a6e6YCC6YWN5Zmo5LiO5YaF5a2Y54mIKirmjqXlj6PlvaLnirbkuIDoh7QqKu+8iOS/neivgSBzd2FwIOaYr+mFjee9rue6p+OAgeS4jeaUuemAu+i+ke+8ie+8mwogIDMuIOmAgumFjeWZqOaooeWdl+WPr+iiq+WvvOWFpe+8iGltcG9ydC1ndWFyZCDnlJ/mlYjvvInjgIFEREwg562J6Z2Z5oCB6LWE5Lqn5a2Y5Zyo44CCCiIiIgppbXBvcnQgc3lzLCBvcywgaW5zcGVjdApzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCgpmcm9tIGJhY2tlbmQuc2V0dGluZ3MgaW1wb3J0IFNldHRpbmdzCmZyb20gYmFja2VuZC5mYWN0b3J5IGltcG9ydCBidWlsZF9zdGF0ZQpmcm9tIGJhY2tlbmQuc3RhdGUgaW1wb3J0IEFwcFN0YXRlCmZyb20gYmFja2VuZC5xdW90YV9zZXJ2aWNlIGltcG9ydCBRdW90YVNlcnZpY2UKZnJvbSBzZWN1cmVndWFyZCBpbXBvcnQgTW9ja01vZGVsLCBJbk1lbW9yeVZlY3RvclN0b3JlCgoKIyAtLS0tLS0tLS0tIOW3peWOguWbnuiQvSAtLS0tLS0tLS0tCmRlZiB0ZXN0X2ZhY3RvcnlfZGVmYXVsdHNfdG9faW5tZW1vcnkoKToKICAgIHN0ID0gYnVpbGRfc3RhdGUoU2V0dGluZ3MoKSkgICMg56m66YWN572uCiAgICBhc3NlcnQgaXNpbnN0YW5jZShzdCwgQXBwU3RhdGUpCiAgICBhc3NlcnQgaXNpbnN0YW5jZShzdC5xdW90YSwgUXVvdGFTZXJ2aWNlKSAgICAgICAgICAgICAgICMg6Z2eIFJlZGlzCiAgICBhc3NlcnQgaXNpbnN0YW5jZShzdC5vcmNoZXN0cmF0b3IucmFnLm1vZGVsLCBNb2NrTW9kZWwpICAjIOmdniB2TExNCgoKZGVmIHRlc3Rfc2V0dGluZ3NfZmxhZ3Nfb2ZmX2J5X2RlZmF1bHQoKToKICAgIHMgPSBTZXR0aW5ncygpCiAgICBhc3NlcnQgbm90IChzLnVzZV9yZWFsX21vZGVsIG9yIHMudXNlX2Nocm9tYSBvciBzLnVzZV9yZWRpcyBvciBzLnVzZV9wb3N0Z3JlcyBvciBzLnVzZV93ZWNoYXQpCgoKZGVmIHRlc3Rfc2V0dGluZ3NfZmxhZ3Nfb25fd2hlbl9zZXQoKToKICAgIHMgPSBTZXR0aW5ncyhtb2RlbF9iYXNlX3VybD0iaHR0cDovL20iLCBjaHJvbWFfaG9zdD0iaCIsIHJlZGlzX3VybD0icmVkaXM6Ly9yIiwKICAgICAgICAgICAgICAgICBkYXRhYmFzZV91cmw9InBnOi8vZCIsIHdlY2hhdF9hcHBpZD0iYSIsIHdlY2hhdF9zZWNyZXQ9InMiKQogICAgYXNzZXJ0IHMudXNlX3JlYWxfbW9kZWwgYW5kIHMudXNlX2Nocm9tYSBhbmQgcy51c2VfcmVkaXMgYW5kIHMudXNlX3Bvc3RncmVzIGFuZCBzLnVzZV93ZWNoYXQKCgojIC0tLS0tLS0tLS0g5o6l5Y+j5b2i54q25LiA6Ie077yI5YWz6ZSu77ya5L+d6K+BIHN3YXAg5LiN5pS56YC76L6R77yJIC0tLS0tLS0tLS0KZGVmIF9tZXRob2RfbmFtZXMoY2xzLCBuYW1lcyk6CiAgICByZXR1cm4gYWxsKGNhbGxhYmxlKGdldGF0dHIoY2xzLCBuLCBOb25lKSkgZm9yIG4gaW4gbmFtZXMpCgoKZGVmIHRlc3RfdmxsbV9tb2RlbF9tYXRjaGVzX21vZGVsYmFja2VuZF9pbnRlcmZhY2UoKToKICAgIGZyb20gYmFja2VuZC5hZGFwdGVycy52bGxtX21vZGVsIGltcG9ydCBWTExNTW9kZWwKICAgIGFzc2VydCBfbWV0aG9kX25hbWVzKFZMTE1Nb2RlbCwgWyJnZW5lcmF0ZSIsICJnZW5lcmF0ZV9zdHJlYW0iXSkKICAgICMgZ2VuZXJhdGUg562+5ZCN5LiOIE1vY2tNb2RlbCDlhbzlrrnvvIhwcm9tcHQg5Li66aaW5Y+C77yJCiAgICBzaWcgPSBpbnNwZWN0LnNpZ25hdHVyZShWTExNTW9kZWwuZ2VuZXJhdGUpCiAgICBhc3NlcnQgInByb21wdCIgaW4gc2lnLnBhcmFtZXRlcnMKCgpkZWYgdGVzdF9jaHJvbWFfc3RvcmVfbWF0Y2hlc192ZWN0b3JzdG9yZV9pbnRlcmZhY2UoKToKICAgIGZyb20gYmFja2VuZC5hZGFwdGVycy5jaHJvbWFfc3RvcmUgaW1wb3J0IENocm9tYVZlY3RvclN0b3JlCiAgICBhc3NlcnQgX21ldGhvZF9uYW1lcyhDaHJvbWFWZWN0b3JTdG9yZSwgWyJhZGQiLCAic2VhcmNoIl0pCiAgICAjIOS4jiBJbk1lbW9yeVZlY3RvclN0b3JlIOWQjOWQjeaWueazlQogICAgYXNzZXJ0IF9tZXRob2RfbmFtZXMoSW5NZW1vcnlWZWN0b3JTdG9yZSwgWyJhZGQiLCAic2VhcmNoIl0pCgoKZGVmIHRlc3RfcmVkaXNfcXVvdGFfbWF0Y2hlc19xdW90YXNlcnZpY2VfaW50ZXJmYWNlKCk6CiAgICBmcm9tIGJhY2tlbmQuYWRhcHRlcnMucmVkaXNfcXVvdGEgaW1wb3J0IFJlZGlzUXVvdGFTZXJ2aWNlCiAgICByZXF1aXJlZCA9IFsiY29uc3VtZSIsICJzdGF0dXMiLCAicmVjaGFyZ2UiLCAic2V0X2xpbWl0Il0KICAgIGFzc2VydCBfbWV0aG9kX25hbWVzKFJlZGlzUXVvdGFTZXJ2aWNlLCByZXF1aXJlZCkKICAgIGFzc2VydCBfbWV0aG9kX25hbWVzKFF1b3RhU2VydmljZSwgcmVxdWlyZWQpCiAgICAjIGNvbnN1bWUg562+5ZCN5LiA6Ie077yIa2V5LCB0b2tlbnMsIGxpbWl0LCBmcmVlemVfcGVyaW9k77yJCiAgICBhID0gc2V0KGluc3BlY3Quc2lnbmF0dXJlKFJlZGlzUXVvdGFTZXJ2aWNlLmNvbnN1bWUpLnBhcmFtZXRlcnMpCiAgICBiID0gc2V0KGluc3BlY3Quc2lnbmF0dXJlKFF1b3RhU2VydmljZS5jb25zdW1lKS5wYXJhbWV0ZXJzKQogICAgYXNzZXJ0IHsia2V5IiwgInRva2VucyIsICJsaW1pdCIsICJmcmVlemVfcGVyaW9kIn0gPD0gKGEgJiBiKQoKCmRlZiB0ZXN0X2FkYXB0ZXJzX2ltcG9ydF93aXRob3V0X3RoZWlyX2xpYnMoKToKICAgICMgaW1wb3J0LWd1YXJk77ya5pegIGh0dHB4L2Nocm9tYWRiL3JlZGlzIOaXtuexu+S7jeWPr+WvvOWFpe+8iOWunuS+i+WMluaJjeaKpemUme+8iQogICAgaW1wb3J0IGJhY2tlbmQuYWRhcHRlcnMgYXMgYWQKICAgIGFzc2VydCBhZC5WTExNTW9kZWwgYW5kIGFkLkNocm9tYVZlY3RvclN0b3JlIGFuZCBhZC5SZWRpc1F1b3RhU2VydmljZQoKCmRlZiB0ZXN0X3BnX2RkbF9hbmRfcmVwb3NfcHJlc2VudCgpOgogICAgZnJvbSBiYWNrZW5kLmFkYXB0ZXJzIGltcG9ydCBwZ19yZXBvcwogICAgZm9yIHRibCBpbiAoInVzZXJzIiwgImFnZW50cyIsICJxdW90YXMiLCAiYXVkaXQiLCAia25vd2xlZGdlX2Jhc2VzIik6CiAgICAgICAgYXNzZXJ0IGYiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMge3RibH0iIGluIHBnX3JlcG9zLkRETAogICAgYXNzZXJ0IGhhc2F0dHIocGdfcmVwb3MsICJBdWRpdFJlcG8iKSBhbmQgaGFzYXR0cihwZ19yZXBvcywgIlF1b3RhUmVwbyIpCiAgICBhc3NlcnQgaGFzYXR0cihwZ19yZXBvcywgIndlY2hhdF9leGNoYW5nZSIpCgoKZGVmIHRlc3RfaW5zdGFudGlhdGluZ19yZWFsX2FkYXB0ZXJfd2l0aG91dF9saWJfcmFpc2VzX2NsZWFyX2Vycm9yKCk6CiAgICBmcm9tIGJhY2tlbmQuYWRhcHRlcnMucmVkaXNfcXVvdGEgaW1wb3J0IFJlZGlzUXVvdGFTZXJ2aWNlCiAgICB0cnk6CiAgICAgICAgUmVkaXNRdW90YVNlcnZpY2UoInJlZGlzOi8vbG9jYWxob3N0IikgICMg5pegIHJlZGlzIOW6kwogICAgZXhjZXB0IFJ1bnRpbWVFcnJvciBhcyBlOgogICAgICAgIGFzc2VydCAicmVkaXMiIGluIHN0cihlKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzICAjIOiLpeaBsOWlveijheS6hiByZWRpc++8jOi/nuaOpemUmeivr+S5n+WPr+aOpeWPl++8iOaymeeuseS4gOiIrOayoeacie+8iQo=
+"""tests/test_b7_wiring.py — B7 接线单测（沙箱可测的部分）。
+
+沙箱无 GPU/Redis/Chroma/PG，**真实后端的实际调用测不了**。本测试只验：
+  1. 工厂在无环境变量时正确回落内存版；
+  2. 真实适配器与内存版**接口形状一致**（保证 swap 是配置级、不改逻辑）；
+  3. 适配器模块可被导入（import-guard 生效）、DDL 等静态资产存在。
+"""
+import sys, os, inspect
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.settings import Settings
+from backend.factory import build_state
+from backend.state import AppState
+from backend.quota_service import QuotaService
+from secureguard import MockModel, InMemoryVectorStore
+
+
+# ---------- 工厂回落 ----------
+def test_factory_defaults_to_inmemory():
+    st = build_state(Settings())  # 空配置
+    assert isinstance(st, AppState)
+    assert isinstance(st.quota, QuotaService)               # 非 Redis
+    assert isinstance(st.orchestrator.rag.model, MockModel)  # 非 vLLM
+
+
+def test_settings_flags_off_by_default():
+    s = Settings()
+    assert not (s.use_real_model or s.use_chroma or s.use_redis or s.use_postgres or s.use_wechat)
+
+
+def test_settings_flags_on_when_set():
+    s = Settings(model_base_url="http://m", chroma_host="h", redis_url="redis://r",
+                 database_url="pg://d", wechat_appid="a", wechat_secret="s")
+    assert s.use_real_model and s.use_chroma and s.use_redis and s.use_postgres and s.use_wechat
+
+
+# ---------- 接口形状一致（关键：保证 swap 不改逻辑） ----------
+def _method_names(cls, names):
+    return all(callable(getattr(cls, n, None)) for n in names)
+
+
+def test_vllm_model_matches_modelbackend_interface():
+    from backend.adapters.vllm_model import VLLMModel
+    assert _method_names(VLLMModel, ["generate", "generate_stream"])
+    # generate 签名与 MockModel 兼容（prompt 为首参）
+    sig = inspect.signature(VLLMModel.generate)
+    assert "prompt" in sig.parameters
+
+
+def test_chroma_store_matches_vectorstore_interface():
+    from backend.adapters.chroma_store import ChromaVectorStore
+    assert _method_names(ChromaVectorStore, ["add", "search"])
+    # 与 InMemoryVectorStore 同名方法
+    assert _method_names(InMemoryVectorStore, ["add", "search"])
+
+
+def test_redis_quota_matches_quotaservice_interface():
+    from backend.adapters.redis_quota import RedisQuotaService
+    required = ["consume", "status", "recharge", "set_limit"]
+    assert _method_names(RedisQuotaService, required)
+    assert _method_names(QuotaService, required)
+    # consume 签名一致（key, tokens, limit, freeze_period）
+    a = set(inspect.signature(RedisQuotaService.consume).parameters)
+    b = set(inspect.signature(QuotaService.consume).parameters)
+    assert {"key", "tokens", "limit", "freeze_period"} <= (a & b)
+
+
+def test_adapters_import_without_their_libs():
+    # import-guard：无 httpx/chromadb/redis 时类仍可导入（实例化才报错）
+    import backend.adapters as ad
+    assert ad.VLLMModel and ad.ChromaVectorStore and ad.RedisQuotaService
+
+
+def test_pg_ddl_and_repos_present():
+    from backend.adapters import pg_repos
+    for tbl in ("users", "agents", "quotas", "audit", "knowledge_bases"):
+        assert f"CREATE TABLE IF NOT EXISTS {tbl}" in pg_repos.DDL
+    assert hasattr(pg_repos, "AuditRepo") and hasattr(pg_repos, "QuotaRepo")
+    assert hasattr(pg_repos, "wechat_exchange")
+
+
+def test_instantiating_real_adapter_without_lib_raises_clear_error():
+    from backend.adapters.redis_quota import RedisQuotaService
+    try:
+        RedisQuotaService("redis://localhost")  # 无 redis 库
+    except RuntimeError as e:
+        assert "redis" in str(e)
+    except Exception:
+        pass  # 若恰好装了 redis，连接错误也可接受（沙箱一般没有）

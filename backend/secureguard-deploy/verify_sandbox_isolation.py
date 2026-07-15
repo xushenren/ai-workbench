@@ -1,1 +1,100 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLmspnnrrHpmpTnprvlrp7mtYsg4oCU4oCUIOW/hemhu+WcqOS9oOeahOacjeWKoeWZqOS4iui3ke+8iOmcgCBEb2NrZXLvvInjgIIKCuebrueahO+8muivgeaYjiBEb2NrZXIg5rKZ566xKirnnJ/nmoTpmpTnprvkvY/kuoYqKu+8jOiAjOS4jeWPquaYryLku6PnoIHlhpnkuobpmpTnprvlj4LmlbAi44CCCuacrOiEmuacrOWWgue7meaymeeusSA1IOauteaBtuaEj+S7o+egge+8jOmihOacn+Wug+S7rOWFqOmDqOiiq+aMoeOAguaKiuWujOaVtOi+k+WHuui0tOWbnue7mSBDbGF1ZGUg5a6h44CCCgrnlKjms5XvvIjlnKggc2VjdXJlZ3VhcmQg55uu5b2V44CB5pyN5Yqh5Zmo5LiK77yJ77yaCiAgICAjIDEpIOWFiOehruS/nemVnOWDj+WcqAogICAgZG9ja2VyIHB1bGwgcHl0aG9uOjMuMTItc2xpbQogICAgIyAyKSDnlKggZG9ja2VyIOWQjuerr+i3keacrOiEmuacrAogICAgU0FOREJPWF9CQUNLRU5EPWRvY2tlciBTQU5EQk9YX0lNQUdFPXB5dGhvbjozLjEyLXNsaW0gcHl0aG9uMyB2ZXJpZnlfc2FuZGJveF9pc29sYXRpb24ucHkKCuWIpOWumuagh+WHhu+8iOavj+mhueW/hemhu+i+vuagh++8jOWQpuWImemalOemu+S4jeWQiOagvOOAgeWLv+WvueS4jeWPr+S/oeS7o+eggeW8gOaUvu+8ie+8mgogIFsxXSDnpoHnvZHvvJp1cmxvcGVuIOW/hemhu+Wksei0pe+8iC0tbmV0d29yaz1ub25lIOeUn+aViO+8iQogIFsyXSDor7vmlY/mhJ/mlofku7bvvJror7sgL2V0Yy9zaGFkb3cg5b+F6aG75aSx6LSl5oiW5Li656m677yI5Y+q6K+7K+mdnnJvb3TvvIkKICBbM10gZm9yayDngrjlvLnvvJrlv4XpobvooqsgcGlkcy1saW1pdCDmjKHkvY/vvIzkuI3og73mi5blnq7kuLvmnLoKICBbNF0g5YaZ5qC55paH5Lu257O757uf77ya5b+F6aG75aSx6LSl77yILS1yZWFkLW9ubHkg55Sf5pWI77yJCiAgWzVdIOWQjuerr+ehruiupO+8mui/lOWbniBiYWNrZW5kPT0nZG9ja2VyJ++8iOS4jeaYr+mdmem7mOmAgOWbniBzdWJwcm9jZXNz77yJCiIiIgppbXBvcnQgb3MKaW1wb3J0IHN5cwoKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKCmZyb20gYmFja2VuZC5zYW5kYm94X2V4ZWN1dG9yIGltcG9ydCBidWlsZF9leGVjdXRvcgoKIyDlvLrliLbopoHmsYIgZG9ja2VyIOWQjuerr++8jOmBv+WFjeivr+eUqOWtkOi/m+eoi+eJiOiHquasugppZiBvcy5lbnZpcm9uLmdldCgiU0FOREJPWF9CQUNLRU5EIikgIT0gImRvY2tlciI6CiAgICBwcmludCgi4pqg77iPICDor7fnlKggU0FOREJPWF9CQUNLRU5EPWRvY2tlciDov5DooYzvvIzlkKbliJnmtYvnmoTkuI3mmK/nnJ/pmpTnprvjgIIiKQogICAgcHJpbnQoIiAgIFNBTkRCT1hfQkFDS0VORD1kb2NrZXIgU0FOREJPWF9JTUFHRT1weXRob246My4xMi1zbGltIHB5dGhvbjMgdmVyaWZ5X3NhbmRib3hfaXNvbGF0aW9uLnB5IikKICAgIHN5cy5leGl0KDEpCgpleCA9IGJ1aWxkX2V4ZWN1dG9yKCkKClRFU1RTID0gWwogICAgKCIxKSDnpoHnvZHmtYvor5XvvIjlupTlpLHotKXvvIkiLCAiIiIKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CnRyeToKICAgIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4oImh0dHA6Ly9leGFtcGxlLmNvbSIsIHRpbWVvdXQ9NSkKICAgIHByaW50KCJORVRXT1JLX1JFQUNIQUJMRSIpICAgICAgIyDlh7rnjrDov5nkuKogPSDpmpTnprvlpLHotKUKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcHJpbnQoIk5FVFdPUktfQkxPQ0tFRDoiLCB0eXBlKGUpLl9fbmFtZV9fKQoiIiIpLAogICAgKCIyKSDor7sgL2V0Yy9zaGFkb3fvvIjlupTlpLHotKUv5Li656m677yJIiwgIiIiCnRyeToKICAgIHdpdGggb3BlbigiL2V0Yy9zaGFkb3ciKSBhcyBmOgogICAgICAgIGRhdGEgPSBmLnJlYWQoKQogICAgcHJpbnQoIlNIQURPV19SRUFEX0xFTjoiLCBsZW4oZGF0YSkpICAgIyDpnZ4wID0g6K+75Yiw5LqG77yM6ZqU56a75aSx6LSlCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIHByaW50KCJTSEFET1dfQkxPQ0tFRDoiLCB0eXBlKGUpLl9fbmFtZV9fKQoiIiIpLAogICAgKCIzKSBmb3JrIOeCuOW8ue+8iOW6lOiiqyBwaWRzLWxpbWl0IOaMoe+8iSIsICIiIgppbXBvcnQgb3MKY291bnQgPSAwCnRyeToKICAgIGZvciBfIGluIHJhbmdlKDEwMDAwKToKICAgICAgICBvcy5mb3JrKCkKICAgICAgICBjb3VudCArPSAxCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIHByaW50KCJGT1JLX0JMT0NLRURfQUZURVI6IiwgY291bnQsIHR5cGUoZSkuX19uYW1lX18pCiIiIiksCiAgICAoIjQpIOWGmeagueaWh+S7tuezu+e7n++8iOW6lOWksei0pe+8iSIsICIiIgp0cnk6CiAgICB3aXRoIG9wZW4oIi9ldmlsLnR4dCIsICJ3IikgYXMgZjoKICAgICAgICBmLndyaXRlKCJwd25lZCIpCiAgICBwcmludCgiUk9PVF9XUklURV9PSyIpICAgICAgICAgICMg5Ye6546wID0g5Y+q6K+75rKh55Sf5pWI77yM6ZqU56a75aSx6LSlCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIHByaW50KCJST09UX1dSSVRFX0JMT0NLRUQ6IiwgdHlwZShlKS5fX25hbWVfXykKIiIiKSwKICAgICgiNSkg5q2j5bi45Luj56CB77yI5bqU5oiQ5Yqf77yM56Gu6K6k5rKZ566x5Y+v55So77yJIiwgIiIiCnByaW50KCJIRUxMT19GUk9NX1NBTkRCT1giLCAyICsgMikKIiIiKSwKXQoKcHJpbnQoIj0iICogNjApCnByaW50KCLmspnnrrHpmpTnprvlrp7mtYsg4oCU4oCUIOaKiuS7peS4i+WujOaVtOi+k+WHuui0tOWbnue7mSBDbGF1ZGUiKQpwcmludCgiPSIgKiA2MCkKCmJhY2tlbmRfc2VlbiA9IE5vbmUKZm9yIHRpdGxlLCBjb2RlIGluIFRFU1RTOgogICAgcHJpbnQoIlxuIiArIHRpdGxlKQogICAgciA9IGV4LmV4ZWN1dGUoY29kZSkKICAgIGJhY2tlbmRfc2VlbiA9IHIuZ2V0KCJiYWNrZW5kIikKICAgIHByaW50KCIgIGJhY2tlbmQgOiIsIHIuZ2V0KCJiYWNrZW5kIikpCiAgICBwcmludCgiICBleGl0ICAgIDoiLCByLmdldCgiZXhpdF9jb2RlIikpCiAgICBwcmludCgiICB0aW1lZF9vdXQ6Iiwgci5nZXQoInRpbWVkX291dCIpKQogICAgcHJpbnQoIiAgc3Rkb3V0ICA6IiwgcmVwcigoci5nZXQoInN0ZG91dCIpIG9yICIiKS5zdHJpcCgpWzozMDBdKSkKICAgIHByaW50KCIgIHN0ZGVyciAgOiIsIHJlcHIoKHIuZ2V0KCJzdGRlcnIiKSBvciAiIikuc3RyaXAoKVs6MjAwXSkpCiAgICBwcmludCgiICBlcnJvciAgIDoiLCByLmdldCgiZXJyb3IiKSkKCnByaW50KCJcbiIgKyAiPSIgKiA2MCkKcHJpbnQoIuiHquWKqOWIpOWumu+8iOS7heS+m+WPguiAg++8jOS7peWunumZhei+k+WHuuS4uuWHhu+8ie+8miIpCnByaW50KGYiICDlkI7nq6/mmK/lkKbkuLogZG9ja2VyOiB7J+KchScgaWYgYmFja2VuZF9zZWVuID09ICdkb2NrZXInIGVsc2UgJ+KdjCDkuI3mmK8gZG9ja2Vy77yB5rWL55qE5LiN5piv55yf6ZqU56a7J30iKQpwcmludCgiICDpgJDpobnor7fkurrlt6XmoLjlr7nkuIrmlrkgc3Rkb3V077yaIikKcHJpbnQoIiAgICBbMV0g5bqU5Ye6546wIE5FVFdPUktfQkxPQ0tFRO+8jOS4jeiDveaciSBORVRXT1JLX1JFQUNIQUJMRSIpCnByaW50KCIgICAgWzJdIOW6lOWHuueOsCBTSEFET1dfQkxPQ0tFRCDmiJYgU0hBRE9XX1JFQURfTEVOOiAwIikKcHJpbnQoIiAgICBbM10g5bqU5Ye6546wIEZPUktfQkxPQ0tFRF9BRlRFUu+8iOaVsOWtl+W6lOi/nOWwj+S6jiAxMDAwMO+8iSIpCnByaW50KCIgICAgWzRdIOW6lOWHuueOsCBST09UX1dSSVRFX0JMT0NLRUTvvIzkuI3og73mnIkgUk9PVF9XUklURV9PSyIpCnByaW50KCIgICAgWzVdIOW6lOWHuueOsCBIRUxMT19GUk9NX1NBTkRCT1ggNO+8iOehruiupOato+W4uOS7o+eggeiDvei3ke+8iSIpCnByaW50KCI9IiAqIDYwKQo=
+#!/usr/bin/env python3
+"""沙箱隔离实测 —— 必须在你的服务器上跑（需 Docker）。
+
+目的：证明 Docker 沙箱**真的隔离住了**，而不只是"代码写了隔离参数"。
+本脚本喂给沙箱 5 段恶意代码，预期它们全部被挡。把完整输出贴回给 Claude 审。
+
+用法（在 secureguard 目录、服务器上）：
+    # 1) 先确保镜像在
+    docker pull python:3.12-slim
+    # 2) 用 docker 后端跑本脚本
+    SANDBOX_BACKEND=docker SANDBOX_IMAGE=python:3.12-slim python3 verify_sandbox_isolation.py
+
+判定标准（每项必须达标，否则隔离不合格、勿对不可信代码开放）：
+  [1] 禁网：urlopen 必须失败（--network=none 生效）
+  [2] 读敏感文件：读 /etc/shadow 必须失败或为空（只读+非root）
+  [3] fork 炸弹：必须被 pids-limit 挡住，不能拖垮主机
+  [4] 写根文件系统：必须失败（--read-only 生效）
+  [5] 后端确认：返回 backend=='docker'（不是静默退回 subprocess）
+"""
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from backend.sandbox_executor import build_executor
+
+# 强制要求 docker 后端，避免误用子进程版自欺
+if os.environ.get("SANDBOX_BACKEND") != "docker":
+    print("⚠️  请用 SANDBOX_BACKEND=docker 运行，否则测的不是真隔离。")
+    print("   SANDBOX_BACKEND=docker SANDBOX_IMAGE=python:3.12-slim python3 verify_sandbox_isolation.py")
+    sys.exit(1)
+
+ex = build_executor()
+
+TESTS = [
+    ("1) 禁网测试（应失败）", """
+import urllib.request
+try:
+    urllib.request.urlopen("http://example.com", timeout=5)
+    print("NETWORK_REACHABLE")      # 出现这个 = 隔离失败
+except Exception as e:
+    print("NETWORK_BLOCKED:", type(e).__name__)
+"""),
+    ("2) 读 /etc/shadow（应失败/为空）", """
+try:
+    with open("/etc/shadow") as f:
+        data = f.read()
+    print("SHADOW_READ_LEN:", len(data))   # 非0 = 读到了，隔离失败
+except Exception as e:
+    print("SHADOW_BLOCKED:", type(e).__name__)
+"""),
+    ("3) fork 炸弹（应被 pids-limit 挡）", """
+import os
+count = 0
+try:
+    for _ in range(10000):
+        os.fork()
+        count += 1
+except Exception as e:
+    print("FORK_BLOCKED_AFTER:", count, type(e).__name__)
+"""),
+    ("4) 写根文件系统（应失败）", """
+try:
+    with open("/evil.txt", "w") as f:
+        f.write("pwned")
+    print("ROOT_WRITE_OK")          # 出现 = 只读没生效，隔离失败
+except Exception as e:
+    print("ROOT_WRITE_BLOCKED:", type(e).__name__)
+"""),
+    ("5) 正常代码（应成功，确认沙箱可用）", """
+print("HELLO_FROM_SANDBOX", 2 + 2)
+"""),
+]
+
+print("=" * 60)
+print("沙箱隔离实测 —— 把以下完整输出贴回给 Claude")
+print("=" * 60)
+
+backend_seen = None
+for title, code in TESTS:
+    print("\n" + title)
+    r = ex.execute(code)
+    backend_seen = r.get("backend")
+    print("  backend :", r.get("backend"))
+    print("  exit    :", r.get("exit_code"))
+    print("  timed_out:", r.get("timed_out"))
+    print("  stdout  :", repr((r.get("stdout") or "").strip()[:300]))
+    print("  stderr  :", repr((r.get("stderr") or "").strip()[:200]))
+    print("  error   :", r.get("error"))
+
+print("\n" + "=" * 60)
+print("自动判定（仅供参考，以实际输出为准）：")
+print(f"  后端是否为 docker: {'✅' if backend_seen == 'docker' else '❌ 不是 docker！测的不是真隔离'}")
+print("  逐项请人工核对上方 stdout：")
+print("    [1] 应出现 NETWORK_BLOCKED，不能有 NETWORK_REACHABLE")
+print("    [2] 应出现 SHADOW_BLOCKED 或 SHADOW_READ_LEN: 0")
+print("    [3] 应出现 FORK_BLOCKED_AFTER（数字应远小于 10000）")
+print("    [4] 应出现 ROOT_WRITE_BLOCKED，不能有 ROOT_WRITE_OK")
+print("    [5] 应出现 HELLO_FROM_SANDBOX 4（确认正常代码能跑）")
+print("=" * 60)

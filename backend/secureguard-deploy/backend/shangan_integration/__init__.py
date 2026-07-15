@@ -1,1 +1,2 @@
-IyDkuIrlrokgdjIuMCDpm4bmiJDljIUg4oCUIEt1bi9LaW1pL0FydGlmYWN0cyDmlrnms5XorrrokL3lnLAKIyDkuK3pl7Tku7bmqKHlvI/vvIzkuI3mlLkgT3BlbkNsYXcg5rqQ56CB77yM5LiN5YqoIEt1biDku6PnoIEK
+# 上安 v2.0 集成包 — Kun/Kimi/Artifacts 方法论落地
+# 中间件模式，不改 OpenClaw 源码，不动 Kun 代码

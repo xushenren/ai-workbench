@@ -1,1 +1,100 @@
-IiIiCmd1YXJkcy5weSDigJQg5oqKIHYxLjAg55qEIFNlY3VyZUd1YXJkIOaKpOagj+aOpeWbnuS4u+mTvui3r++8iOS4iuS4gOeJiOa8j+aOieeahOaguOW/g+iDveWKm++8iQoK5Lik6YGT5YWz77yaCiAgcHJlICDlhaXnq5nvvJrmlY/mhJ/or40gLyBQSUkgLyDotormnYPmjIfku6Qg4oaSIOaUvuihjCB8IOiEseaVjyB8IOaLpuaIqgogIHBvc3Qg5Ye656uZ77ya6L6T5Ye65a6h5qC477yI5ZCI6KeEIC8g5pWP5oSfIC8g5bm76KeJ5oCn5Y2x6Zmp57uT6K6677yJ4oaSIOaUvuihjCB8IOiEseaVjyB8IOaLpuaIqumHjeeUn+aIkAoK5o6l5YWl54K577ya5L2g5pa5IFNlY3VyZUd1YXJkIOW3suaYr+eLrOeri+WQjuerr++8iC92YXIvd3d3L3NlY3VyZWd1YXJkL++8ieOAgui/memHjOWPquWBmumAgumFjeWwgeijhe+8jArnnJ/lrp7liKTlrprotbAgU0VDVVJFR1VBUkRfQ0hFQ0sg5Zue6LCD77yISFRUUCDmiJbmnKzlnLAgaW1wb3J0IOmDveihjO+8ieOAguacquaOpemAmuaXtuWuieWFqOmZjee6p+S4ugrjgIzmnKzlnLDmnIDlsI/mlY/mhJ/or43ooaggKyDmlL7ooYzjgI3vvIznu53kuI3pnZnpu5jmlL7ooYzpq5jljbHigJTigJTpmY3nuqfnirbmgIHkvJrlnKjlk43lupQgbWV0YSDmoIflh7rvvIzkvr/kuo7lt6Hmo4DjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBvcwppbXBvcnQgcmUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gZW51bSBpbXBvcnQgRW51bQpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBDYWxsYWJsZSwgT3B0aW9uYWwKCk1lc3NhZ2UgPSBkaWN0W3N0ciwgQW55XQoKCmNsYXNzIEFjdGlvbihzdHIsIEVudW0pOgogICAgQUxMT1cgPSAiYWxsb3ciCiAgICBTQU5JVElaRSA9ICJzYW5pdGl6ZSIgICAjIOiEseaVj+WQjue7p+e7rQogICAgQkxPQ0sgPSAiYmxvY2siICAgICAgICAgIyDmi6bmiKrvvIzkuI3ov5vmqKHlnosgLyDkuI3ov5Tlm54KCgpAZGF0YWNsYXNzCmNsYXNzIFZlcmRpY3Q6CiAgICBhY3Rpb246IEFjdGlvbgogICAgdGV4dDogc3RyICAgICAgICAgICAgICAgIyBzYW5pdGl6ZSDml7bkuLrohLHmlY/lkI7mlofmnKzvvJvlhbbkvZnkuLrljp/mlocKICAgIHJlYXNvbjogc3RyID0gIiIKICAgIGRlZ3JhZGVkOiBib29sID0gRmFsc2UgICMg5piv5ZCm6LWw5LqG6ZmN57qn5Yik5a6a77yIU2VjdXJlR3VhcmQg5pyq5o6l6YCa77yJCgoKIyDkvaDmlrnnnJ/lrp4gU2VjdXJlR3VhcmTvvJrovpPlhaUgKHRleHQsIHN0YWdlKSDihpIg6L+U5ZueIGRpY3R7YWN0aW9uLCB0ZXh0LCByZWFzb259CiMgc3RhZ2Ug4oiIIHsiaW5wdXQiLCJvdXRwdXQifQpTRUNVUkVHVUFSRF9DSEVDSzogT3B0aW9uYWxbQ2FsbGFibGVbW3N0ciwgc3RyXSwgZGljdF1dID0gTm9uZQoKIyDpmY3nuqfnlKjnmoTmnIDlsI/mnKzlnLDooajvvIjku4XlhZzlupXvvIzmraPlvI/ku6UgU2VjdXJlR3VhcmQg5Li65YeG77yJCl9GQUxMQkFDS19TRU5TSVRJVkUgPSBbciLouqvku73or4Hlj7c/XHMqWzrvvJpdP1xzKlxkezE1LDE4fSIsIHIiXGIxWzMtOV1cZHs5fVxiIl0gICMg56S65L6L77ya6K+B5Lu2L+aJi+acuuWPt+iEseaVjwoKCmRlZiBfZmFsbGJhY2sodGV4dDogc3RyLCBzdGFnZTogc3RyKSAtPiBWZXJkaWN0OgogICAgbWFza2VkID0gdGV4dAogICAgaGl0ID0gRmFsc2UKICAgIGZvciBwYXQgaW4gX0ZBTExCQUNLX1NFTlNJVElWRToKICAgICAgICBpZiByZS5zZWFyY2gocGF0LCBtYXNrZWQpOgogICAgICAgICAgICBoaXQgPSBUcnVlCiAgICAgICAgICAgIG1hc2tlZCA9IHJlLnN1YihwYXQsICJb5bey6ISx5pWPXSIsIG1hc2tlZCkKICAgIGlmIGhpdDoKICAgICAgICByZXR1cm4gVmVyZGljdChBY3Rpb24uU0FOSVRJWkUsIG1hc2tlZCwgImZhbGxiYWNrLXBpaS1tYXNrIiwgZGVncmFkZWQ9VHJ1ZSkKICAgIHJldHVybiBWZXJkaWN0KEFjdGlvbi5BTExPVywgdGV4dCwgIiIsIGRlZ3JhZGVkPVRydWUpCgoKZGVmIF9jYWxsKHRleHQ6IHN0ciwgc3RhZ2U6IHN0cikgLT4gVmVyZGljdDoKICAgIGlmIG5vdCBTRUNVUkVHVUFSRF9DSEVDSzoKICAgICAgICByZXR1cm4gX2ZhbGxiYWNrKHRleHQsIHN0YWdlKQogICAgdHJ5OgogICAgICAgIHIgPSBTRUNVUkVHVUFSRF9DSEVDSyh0ZXh0LCBzdGFnZSkKICAgICAgICByZXR1cm4gVmVyZGljdChBY3Rpb24oci5nZXQoImFjdGlvbiIsICJhbGxvdyIpKSwgci5nZXQoInRleHQiLCB0ZXh0KSwgci5nZXQoInJlYXNvbiIsICIiKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAjIFNlY3VyZUd1YXJkIOW8guW4uOaXtiBmYWlsLXNhZmXvvJrlh7rnq5nku47kuKXvvIjmi6bmiKrpq5jljbHpnaDlroPvvIzmjILkuoblsLHpmY3nuqfkvYbmoIforrDvvInvvIzlhaXnq5nmlL7ooYzpmY3nuqcKICAgICAgICByZXR1cm4gX2ZhbGxiYWNrKHRleHQsIHN0YWdlKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKIyDlhaXnq5nvvJrmo4DmnIDlkI7kuIDmnaEgdXNlciDmtojmga/vvIjkuZ/lj6/mianlsZXkuLrlhajph4/vvIkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpkZWYgZ3VhcmRfaW5wdXQobWVzc2FnZXM6IGxpc3RbTWVzc2FnZV0pIC0+IHR1cGxlW2xpc3RbTWVzc2FnZV0sIFZlcmRpY3RdOgogICAgaWR4ID0gbmV4dCgoaSBmb3IgaSBpbiByYW5nZShsZW4obWVzc2FnZXMpIC0gMSwgLTEsIC0xKSBpZiBtZXNzYWdlc1tpXS5nZXQoInJvbGUiKSA9PSAidXNlciIpLCBOb25lKQogICAgaWYgaWR4IGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIG1lc3NhZ2VzLCBWZXJkaWN0KEFjdGlvbi5BTExPVywgIiIpCiAgICB2ID0gX2NhbGwoc3RyKG1lc3NhZ2VzW2lkeF0uZ2V0KCJjb250ZW50IiwgIiIpKSwgImlucHV0IikKICAgIGlmIHYuYWN0aW9uID09IEFjdGlvbi5CTE9DSzoKICAgICAgICByZXR1cm4gbWVzc2FnZXMsIHYKICAgIGlmIHYuYWN0aW9uID09IEFjdGlvbi5TQU5JVElaRToKICAgICAgICBtZXNzYWdlcyA9IGxpc3QobWVzc2FnZXMpCiAgICAgICAgbWVzc2FnZXNbaWR4XSA9IGRpY3QobWVzc2FnZXNbaWR4XSwgY29udGVudD12LnRleHQpCiAgICByZXR1cm4gbWVzc2FnZXMsIHYKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg5Ye656uZ77ya5a6h5qC45qih5Z6L5Y6f5aeL6L6T5Ye677yI5Zyo5oq9IGFydGlmYWN0IOS5i+WJje+8jOehruS/nSBhcnRpZmFjdCDkuZ/mnaXoh6rlkIjop4TmlofmnKzvvIkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpkZWYgZ3VhcmRfb3V0cHV0KGNvbnRlbnQ6IHN0cikgLT4gVmVyZGljdDoKICAgIHJldHVybiBfY2FsbChjb250ZW50LCAib3V0cHV0IikKCgpkZWYgYmxvY2tlZF9yZXNwb25zZShyZWFzb246IHN0ciwgc3RhZ2U6IHN0cikgLT4gZGljdDoKICAgICIiIlNlY3VyZUd1YXJkIOaLpuaIquaXtui/lOWbnueahCBPcGVuQUkg5YW85a655ZON5bqU77yI57uZ55So5oi35ZCI6KeE5o+Q56S677yM5LiN5pq06Zyy57uG6IqC77yJ44CCIiIiCiAgICBtc2cgPSAi5oKo55qE6K+35rGC5raJ5Y+K5LiN5Y+v5aSE55CG55qE5YaF5a6577yM5bey6KKr5a6J5YWo562W55Wl5oum5oiq44CCIiBpZiBzdGFnZSA9PSAiaW5wdXQiIFwKICAgICAgICBlbHNlICLor6Xlm57nrZTmnKrpgJrov4flhoXlrrnlronlhajlrqHmoLjvvIzlt7Lmi6bmiKrjgILor7fosIPmlbTpl67popjlkI7ph43or5XjgIIiCiAgICByZXR1cm4gewogICAgICAgICJpZCI6ICJzZWN1cmVndWFyZC1ibG9jayIsCiAgICAgICAgIm9iamVjdCI6ICJjaGF0LmNvbXBsZXRpb24iLAogICAgICAgICJjaG9pY2VzIjogW3siaW5kZXgiOiAwLCAibWVzc2FnZSI6IHsicm9sZSI6ICJhc3Npc3RhbnQiLCAiY29udGVudCI6IG1zZ30sICJmaW5pc2hfcmVhc29uIjogImNvbnRlbnRfZmlsdGVyIn1dLAogICAgICAgICJ4X3NoYW5nYW5fc2VjdXJlZ3VhcmQiOiB7ImFjdGlvbiI6ICJibG9jayIsICJzdGFnZSI6IHN0YWdlLCAicmVhc29uIjogcmVhc29ufSwKICAgIH0K
+"""
+guards.py — 把 v1.0 的 SecureGuard 护栏接回主链路（上一版漏掉的核心能力）
+
+两道关：
+  pre  入站：敏感词 / PII / 越权指令 → 放行 | 脱敏 | 拦截
+  post 出站：输出审核（合规 / 敏感 / 幻觉性危险结论）→ 放行 | 脱敏 | 拦截重生成
+
+接入点：你方 SecureGuard 已是独立后端（/var/www/secureguard/）。这里只做适配封装，
+真实判定走 SECUREGUARD_CHECK 回调（HTTP 或本地 import 都行）。未接通时安全降级为
+「本地最小敏感词表 + 放行」，绝不静默放行高危——降级状态会在响应 meta 标出，便于巡检。
+"""
+from __future__ import annotations
+
+import os
+import re
+from dataclasses import dataclass
+from enum import Enum
+from typing import Any, Callable, Optional
+
+Message = dict[str, Any]
+
+
+class Action(str, Enum):
+    ALLOW = "allow"
+    SANITIZE = "sanitize"   # 脱敏后继续
+    BLOCK = "block"         # 拦截，不进模型 / 不返回
+
+
+@dataclass
+class Verdict:
+    action: Action
+    text: str               # sanitize 时为脱敏后文本；其余为原文
+    reason: str = ""
+    degraded: bool = False  # 是否走了降级判定（SecureGuard 未接通）
+
+
+# 你方真实 SecureGuard：输入 (text, stage) → 返回 dict{action, text, reason}
+# stage ∈ {"input","output"}
+SECUREGUARD_CHECK: Optional[Callable[[str, str], dict]] = None
+
+# 降级用的最小本地表（仅兜底，正式以 SecureGuard 为准）
+_FALLBACK_SENSITIVE = [r"身份证号?\s*[:：]?\s*\d{15,18}", r"\b1[3-9]\d{9}\b"]  # 示例：证件/手机号脱敏
+
+
+def _fallback(text: str, stage: str) -> Verdict:
+    masked = text
+    hit = False
+    for pat in _FALLBACK_SENSITIVE:
+        if re.search(pat, masked):
+            hit = True
+            masked = re.sub(pat, "[已脱敏]", masked)
+    if hit:
+        return Verdict(Action.SANITIZE, masked, "fallback-pii-mask", degraded=True)
+    return Verdict(Action.ALLOW, text, "", degraded=True)
+
+
+def _call(text: str, stage: str) -> Verdict:
+    if not SECUREGUARD_CHECK:
+        return _fallback(text, stage)
+    try:
+        r = SECUREGUARD_CHECK(text, stage)
+        return Verdict(Action(r.get("action", "allow")), r.get("text", text), r.get("reason", ""))
+    except Exception as e:
+        # SecureGuard 异常时 fail-safe：出站从严（拦截高危靠它，挂了就降级但标记），入站放行降级
+        return _fallback(text, stage)
+
+
+# --------------------------------------------------------------------------- #
+# 入站：检最后一条 user 消息（也可扩展为全量）
+# --------------------------------------------------------------------------- #
+def guard_input(messages: list[Message]) -> tuple[list[Message], Verdict]:
+    idx = next((i for i in range(len(messages) - 1, -1, -1) if messages[i].get("role") == "user"), None)
+    if idx is None:
+        return messages, Verdict(Action.ALLOW, "")
+    v = _call(str(messages[idx].get("content", "")), "input")
+    if v.action == Action.BLOCK:
+        return messages, v
+    if v.action == Action.SANITIZE:
+        messages = list(messages)
+        messages[idx] = dict(messages[idx], content=v.text)
+    return messages, v
+
+
+# --------------------------------------------------------------------------- #
+# 出站：审核模型原始输出（在抽 artifact 之前，确保 artifact 也来自合规文本）
+# --------------------------------------------------------------------------- #
+def guard_output(content: str) -> Verdict:
+    return _call(content, "output")
+
+
+def blocked_response(reason: str, stage: str) -> dict:
+    """SecureGuard 拦截时返回的 OpenAI 兼容响应（给用户合规提示，不暴露细节）。"""
+    msg = "您的请求涉及不可处理的内容，已被安全策略拦截。" if stage == "input" \
+        else "该回答未通过内容安全审核，已拦截。请调整问题后重试。"
+    return {
+        "id": "secureguard-block",
+        "object": "chat.completion",
+        "choices": [{"index": 0, "message": {"role": "assistant", "content": msg}, "finish_reason": "content_filter"}],
+        "x_shangan_secureguard": {"action": "block", "stage": stage, "reason": reason},
+    }

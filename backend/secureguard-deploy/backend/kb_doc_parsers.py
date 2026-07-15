@@ -1,1 +1,121 @@
-IiIiCmJhY2tlbmQua2JfZG9jX3BhcnNlcnMg4oCUIOWQhOexu+aWh+aho+aKveaWh+acrOOAggoK5L6d6LWW5bqT6ZyA5Zyo5pyN5Yqh5Zmo5a6J6KOFKOingSByZXF1aXJlbWVudHMg5rOo6YeKKeOAguavj+S4quino+aekOWZqOWvuee8uuW6k+WBmuWPi+WlveaKpemUmSwK5LiN6K6p5pW05Liq5pyN5Yqh5bSp44CCT0NSIOmAmui/h+azqOWFpeeahCBvY3JfZm4o6buY6K6kIE5vbmU95LiN5ZCv55SoKSznlLHnrqHnkIblkI7lj7DlvIDlhbPmjqfliLbjgIIKCnZlcmlmaWVkOiDnvJbmjpIv6Lev55SxL+aKpeWRiiDlt7Lnprvnur/oh6rmtYs755yf5q2j55qEIHBkZi9kb2N4L3hsc3gvcHB0eCDmir3lj5blnKjoo4XlupPnmoTmnI3liqHlmajkuIrov5DooYzjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBpbwpmcm9tIHR5cGluZyBpbXBvcnQgQ2FsbGFibGUsIE9wdGlvbmFsCgojIE9DUiDms6jlhaXngrk6Ynl0ZXMo5Zu+54mHL+mhtemdoiktPiBzdHLjgILnlJ/kuqfkvKAgUGFkZGxlT0NSIOWwgeijhTtOb25lPeS4jeWQr+eUqCBPQ1LjgIIKT2NyRm4gPSBPcHRpb25hbFtDYWxsYWJsZVtbYnl0ZXNdLCBzdHJdXQoKCmNsYXNzIFBhcnNlckVycm9yKEV4Y2VwdGlvbik6CiAgICBwYXNzCgoKZGVmIF9uZWVkKGxpYjogc3RyKToKICAgIHJhaXNlIFBhcnNlckVycm9yKGYi6ZyA6KaB5Zyo5pyN5Yqh5Zmo5a6J6KOF5L6d6LWW5bqTOiB7bGlifSjmnKzlip/og73nlLHpvpnomb7pg6jnvbLml7YgcGlwIOWuieijhSkiKQoKCmRlZiBwYXJzZV90ZXh0KGRhdGE6IGJ5dGVzLCAqKl8pIC0+IHN0cjoKICAgIHJldHVybiBkYXRhLmRlY29kZSgidXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQoKCmRlZiBwYXJzZV9jc3YoZGF0YTogYnl0ZXMsICoqXykgLT4gc3RyOgogICAgaW1wb3J0IGNzdgogICAgdGV4dCA9IGRhdGEuZGVjb2RlKCJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIpCiAgICByb3dzID0gbGlzdChjc3YucmVhZGVyKGlvLlN0cmluZ0lPKHRleHQpKSkKICAgIHJldHVybiAiXG4iLmpvaW4oIlx0Ii5qb2luKHIpIGZvciByIGluIHJvd3MpCgoKZGVmIHBhcnNlX2RvY3goZGF0YTogYnl0ZXMsICoqXykgLT4gc3RyOgogICAgdHJ5OgogICAgICAgIGltcG9ydCBkb2N4ICAjIHB5dGhvbi1kb2N4CiAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgX25lZWQoInB5dGhvbi1kb2N4IikKICAgIGQgPSBkb2N4LkRvY3VtZW50KGlvLkJ5dGVzSU8oZGF0YSkpCiAgICBwYXJ0cyA9IFtwLnRleHQgZm9yIHAgaW4gZC5wYXJhZ3JhcGhzIGlmIHAudGV4dC5zdHJpcCgpXQogICAgZm9yIHRhYmxlIGluIGQudGFibGVzOgogICAgICAgIGZvciByb3cgaW4gdGFibGUucm93czoKICAgICAgICAgICAgcGFydHMuYXBwZW5kKCJcdCIuam9pbihjLnRleHQgZm9yIGMgaW4gcm93LmNlbGxzKSkKICAgIHJldHVybiAiXG4iLmpvaW4ocGFydHMpCgoKZGVmIHBhcnNlX3hsc3goZGF0YTogYnl0ZXMsICoqXykgLT4gc3RyOgogICAgdHJ5OgogICAgICAgIGltcG9ydCBvcGVucHl4bAogICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgIF9uZWVkKCJvcGVucHl4bCIpCiAgICB3YiA9IG9wZW5weXhsLmxvYWRfd29ya2Jvb2soaW8uQnl0ZXNJTyhkYXRhKSwgcmVhZF9vbmx5PVRydWUsIGRhdGFfb25seT1UcnVlKQogICAgb3V0OiBsaXN0W3N0cl0gPSBbXQogICAgZm9yIHdzIGluIHdiLndvcmtzaGVldHM6CiAgICAgICAgb3V0LmFwcGVuZChmIiMg5bel5L2c6KGoOiB7d3MudGl0bGV9IikKICAgICAgICBmb3Igcm93IGluIHdzLml0ZXJfcm93cyh2YWx1ZXNfb25seT1UcnVlKToKICAgICAgICAgICAgY2VsbHMgPSBbc3RyKGMpIGZvciBjIGluIHJvdyBpZiBjIGlzIG5vdCBOb25lXQogICAgICAgICAgICBpZiBjZWxsczoKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoIlx0Ii5qb2luKGNlbGxzKSkKICAgIHJldHVybiAiXG4iLmpvaW4ob3V0KQoKCmRlZiBwYXJzZV9wcHR4KGRhdGE6IGJ5dGVzLCAqKl8pIC0+IHN0cjoKICAgIHRyeToKICAgICAgICBmcm9tIHBwdHggaW1wb3J0IFByZXNlbnRhdGlvbiAgIyBweXRob24tcHB0eAogICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgIF9uZWVkKCJweXRob24tcHB0eCIpCiAgICBwcnMgPSBQcmVzZW50YXRpb24oaW8uQnl0ZXNJTyhkYXRhKSkKICAgIG91dDogbGlzdFtzdHJdID0gW10KICAgIGZvciBpLCBzbGlkZSBpbiBlbnVtZXJhdGUocHJzLnNsaWRlcywgMSk6CiAgICAgICAgb3V0LmFwcGVuZChmIiMg5bm754Gv54mHIHtpfSIpCiAgICAgICAgZm9yIHNoYXBlIGluIHNsaWRlLnNoYXBlczoKICAgICAgICAgICAgaWYgZ2V0YXR0cihzaGFwZSwgImhhc190ZXh0X2ZyYW1lIiwgRmFsc2UpOgogICAgICAgICAgICAgICAgZm9yIHBhcmEgaW4gc2hhcGUudGV4dF9mcmFtZS5wYXJhZ3JhcGhzOgogICAgICAgICAgICAgICAgICAgIHQgPSAiIi5qb2luKHJ1bi50ZXh0IGZvciBydW4gaW4gcGFyYS5ydW5zKQogICAgICAgICAgICAgICAgICAgIGlmIHQuc3RyaXAoKToKICAgICAgICAgICAgICAgICAgICAgICAgb3V0LmFwcGVuZCh0KQogICAgcmV0dXJuICJcbiIuam9pbihvdXQpCgoKZGVmIHBhcnNlX3BkZihkYXRhOiBieXRlcywgb2NyX2ZuOiBPY3JGbiA9IE5vbmUsICoqXykgLT4gc3RyOgogICAgIiIi5LyY5YWI5oq95paH5pys5bGCO+aXoOaWh+acrOWxguS4lOWQr+eUqCBPQ1Ig4oaSIOmAkOmhtSBPQ1LjgIIiIiIKICAgIHRyeToKICAgICAgICBpbXBvcnQgcGRmcGx1bWJlcgogICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgIF9uZWVkKCJwZGZwbHVtYmVyIikKICAgIG91dDogbGlzdFtzdHJdID0gW10KICAgIHdpdGggcGRmcGx1bWJlci5vcGVuKGlvLkJ5dGVzSU8oZGF0YSkpIGFzIHBkZjoKICAgICAgICBmb3IgcGFnZSBpbiBwZGYucGFnZXM6CiAgICAgICAgICAgIHR4dCA9IHBhZ2UuZXh0cmFjdF90ZXh0KCkgb3IgIiIKICAgICAgICAgICAgaWYgdHh0LnN0cmlwKCk6CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHR4dCkKICAgICAgICAgICAgZWxpZiBvY3JfZm46ICAgICAgICAgICAgICAgICAgICAgICAjIOaJq+aPj+mhtTrmuLLmn5PmiJDlm77lho0gT0NSCiAgICAgICAgICAgICAgICBpbWcgPSBwYWdlLnRvX2ltYWdlKHJlc29sdXRpb249MjAwKS5vcmlnaW5hbAogICAgICAgICAgICAgICAgYnVmID0gaW8uQnl0ZXNJTygpOyBpbWcuc2F2ZShidWYsIGZvcm1hdD0iUE5HIikKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQob2NyX2ZuKGJ1Zi5nZXR2YWx1ZSgpKSkKICAgIHJldHVybiAiXG4iLmpvaW4ob3V0KQoKCmRlZiBwYXJzZV9vY3JfaW1hZ2UoZGF0YTogYnl0ZXMsIG9jcl9mbjogT2NyRm4gPSBOb25lLCAqKl8pIC0+IHN0cjoKICAgIGlmIG5vdCBvY3JfZm46CiAgICAgICAgcmFpc2UgUGFyc2VyRXJyb3IoIuWbvueJh+mcgOWQr+eUqCBPQ1Io566h55CG5ZCO5Y+w5byA5ZCvIE9DUiDlvIDlhbMpIikKICAgIHJldHVybiBvY3JfZm4oZGF0YSkKCgojIOino+aekOWZqOWQjSDihpIg5Ye95pWwClBBUlNFUlM6IGRpY3Rbc3RyLCBDYWxsYWJsZVsuLi4sIHN0cl1dID0gewogICAgInRleHQiOiBwYXJzZV90ZXh0LCAiY3N2IjogcGFyc2VfY3N2LCAiZG9jeCI6IHBhcnNlX2RvY3gsCiAgICAieGxzeCI6IHBhcnNlX3hsc3gsICJwcHR4IjogcGFyc2VfcHB0eCwgInBkZiI6IHBhcnNlX3BkZiwKICAgICJvY3JfaW1hZ2UiOiBwYXJzZV9vY3JfaW1hZ2UsCn0KCgpkZWYgZ2V0X3BhcnNlcihuYW1lOiBzdHIpIC0+IENhbGxhYmxlWy4uLiwgc3RyXToKICAgIGZuID0gUEFSU0VSUy5nZXQobmFtZSkKICAgIGlmIG5vdCBmbjoKICAgICAgICByYWlzZSBQYXJzZXJFcnJvcihmIuacquefpeino+aekOWZqDoge25hbWV9IikKICAgIHJldHVybiBmbgo=
+"""
+backend.kb_doc_parsers — 各类文档抽文本。
+
+依赖库需在服务器安装(见 requirements 注释)。每个解析器对缺库做友好报错,
+不让整个服务崩。OCR 通过注入的 ocr_fn(默认 None=不启用),由管理后台开关控制。
+
+verified: 编排/路由/报告 已离线自测;真正的 pdf/docx/xlsx/pptx 抽取在装库的服务器上运行。
+"""
+from __future__ import annotations
+
+import io
+from typing import Callable, Optional
+
+# OCR 注入点:bytes(图片/页面)-> str。生产传 PaddleOCR 封装;None=不启用 OCR。
+OcrFn = Optional[Callable[[bytes], str]]
+
+
+class ParserError(Exception):
+    pass
+
+
+def _need(lib: str):
+    raise ParserError(f"需要在服务器安装依赖库: {lib}(本功能由龙虾部署时 pip 安装)")
+
+
+def parse_text(data: bytes, **_) -> str:
+    return data.decode("utf-8", errors="replace")
+
+
+def parse_csv(data: bytes, **_) -> str:
+    import csv
+    text = data.decode("utf-8", errors="replace")
+    rows = list(csv.reader(io.StringIO(text)))
+    return "\n".join("\t".join(r) for r in rows)
+
+
+def parse_docx(data: bytes, **_) -> str:
+    try:
+        import docx  # python-docx
+    except ImportError:
+        _need("python-docx")
+    d = docx.Document(io.BytesIO(data))
+    parts = [p.text for p in d.paragraphs if p.text.strip()]
+    for table in d.tables:
+        for row in table.rows:
+            parts.append("\t".join(c.text for c in row.cells))
+    return "\n".join(parts)
+
+
+def parse_xlsx(data: bytes, **_) -> str:
+    try:
+        import openpyxl
+    except ImportError:
+        _need("openpyxl")
+    wb = openpyxl.load_workbook(io.BytesIO(data), read_only=True, data_only=True)
+    out: list[str] = []
+    for ws in wb.worksheets:
+        out.append(f"# 工作表: {ws.title}")
+        for row in ws.iter_rows(values_only=True):
+            cells = [str(c) for c in row if c is not None]
+            if cells:
+                out.append("\t".join(cells))
+    return "\n".join(out)
+
+
+def parse_pptx(data: bytes, **_) -> str:
+    try:
+        from pptx import Presentation  # python-pptx
+    except ImportError:
+        _need("python-pptx")
+    prs = Presentation(io.BytesIO(data))
+    out: list[str] = []
+    for i, slide in enumerate(prs.slides, 1):
+        out.append(f"# 幻灯片 {i}")
+        for shape in slide.shapes:
+            if getattr(shape, "has_text_frame", False):
+                for para in shape.text_frame.paragraphs:
+                    t = "".join(run.text for run in para.runs)
+                    if t.strip():
+                        out.append(t)
+    return "\n".join(out)
+
+
+def parse_pdf(data: bytes, ocr_fn: OcrFn = None, **_) -> str:
+    """优先抽文本层;无文本层且启用 OCR → 逐页 OCR。"""
+    try:
+        import pdfplumber
+    except ImportError:
+        _need("pdfplumber")
+    out: list[str] = []
+    with pdfplumber.open(io.BytesIO(data)) as pdf:
+        for page in pdf.pages:
+            txt = page.extract_text() or ""
+            if txt.strip():
+                out.append(txt)
+            elif ocr_fn:                       # 扫描页:渲染成图再 OCR
+                img = page.to_image(resolution=200).original
+                buf = io.BytesIO(); img.save(buf, format="PNG")
+                out.append(ocr_fn(buf.getvalue()))
+    return "\n".join(out)
+
+
+def parse_ocr_image(data: bytes, ocr_fn: OcrFn = None, **_) -> str:
+    if not ocr_fn:
+        raise ParserError("图片需启用 OCR(管理后台开启 OCR 开关)")
+    return ocr_fn(data)
+
+
+# 解析器名 → 函数
+PARSERS: dict[str, Callable[..., str]] = {
+    "text": parse_text, "csv": parse_csv, "docx": parse_docx,
+    "xlsx": parse_xlsx, "pptx": parse_pptx, "pdf": parse_pdf,
+    "ocr_image": parse_ocr_image,
+}
+
+
+def get_parser(name: str) -> Callable[..., str]:
+    fn = PARSERS.get(name)
+    if not fn:
+        raise ParserError(f"未知解析器: {name}")
+    return fn

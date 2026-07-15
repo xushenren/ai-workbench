@@ -1,1 +1,181 @@
-IiIiCm9yZ19jb3JlLnNxbGl0ZV9yZXBvIOKAlCBSZXBvcyDnmoQgU1FMaXRlIOWunueOsCjlsI/lhazlj7jljZXmnLrlvaLmgIEp44CCCgrnuq8gc3RkbGliIHNxbGl0ZTPjgIJTY2hlbWEg5ZCr5YWo6YOo5LiD6KGoICsgdGVuYW50X2lkICsg5aSW6ZSuICsg57Si5byVLOe7k+aehOWFvOWuuSBQb3N0Z3Jlcwoo5o2iIFBvc3RncmVzUmVwb3Mg5pe25ZCM5LiA5aWX6KGo5Y+q5pS55pa56KiAKeOAguWkp+WFrOWPuOeUqCBQRyDlrp7njrAs5Lia5Yqh5Luj56CB5LiN5Y+Y44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgc3FsaXRlMwpmcm9tIHR5cGluZyBpbXBvcnQgT3B0aW9uYWwKCmZyb20gLm1vZGVscyBpbXBvcnQgKAogICAgQWRtaW5TY29wZSwgQXVkaXRFbnRyeSwgR3JhbnQsIE5vZGVUeXBlLCBPcmdOb2RlLCBSb2xlLCBUZW5hbnQsIFVzZXIsCiAgICBVc2VyS2luZCwgVXNlclN0YXR1cywKKQoKU0NIRU1BID0gIiIiCkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIHRlbmFudHMgKAogIGlkIFRFWFQgUFJJTUFSWSBLRVksIG5hbWUgVEVYVCBOT1QgTlVMTAopOwpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBvcmdfbm9kZXMgKAogIGlkIFRFWFQgUFJJTUFSWSBLRVksIHRlbmFudF9pZCBURVhUIE5PVCBOVUxMLCBwYXJlbnRfaWQgVEVYVCwKICB0eXBlIFRFWFQgTk9UIE5VTEwsIG5hbWUgVEVYVCBOT1QgTlVMTCwKICBGT1JFSUdOIEtFWSh0ZW5hbnRfaWQpIFJFRkVSRU5DRVMgdGVuYW50cyhpZCkKKTsKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaXhfb3JnX3RlbmFudCBPTiBvcmdfbm9kZXModGVuYW50X2lkLCBwYXJlbnRfaWQpOwpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyB1c2VycyAoCiAgaWQgVEVYVCBQUklNQVJZIEtFWSwgdGVuYW50X2lkIFRFWFQgTk9UIE5VTEwsIGtpbmQgVEVYVCBOT1QgTlVMTCwKICBzdGF0dXMgVEVYVCBOT1QgTlVMTCwgZGlzcGxheV9uYW1lIFRFWFQsCiAgRk9SRUlHTiBLRVkodGVuYW50X2lkKSBSRUZFUkVOQ0VTIHRlbmFudHMoaWQpCik7CkNSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGl4X3VzZXJzX3RlbmFudCBPTiB1c2Vycyh0ZW5hbnRfaWQpOwpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyByb2xlcyAoCiAgaWQgVEVYVCBQUklNQVJZIEtFWSwgdGVuYW50X2lkIFRFWFQgTk9UIE5VTEwsIG5hbWUgVEVYVCBOT1QgTlVMTCwKICBwZXJtX2tleXMgVEVYVCBOT1QgTlVMTCwKICBGT1JFSUdOIEtFWSh0ZW5hbnRfaWQpIFJFRkVSRU5DRVMgdGVuYW50cyhpZCkKKTsKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgZ3JhbnRzICgKICBpZCBURVhUIFBSSU1BUlkgS0VZLCB0ZW5hbnRfaWQgVEVYVCBOT1QgTlVMTCwgdXNlcl9pZCBURVhUIE5PVCBOVUxMLAogIHJvbGVfaWQgVEVYVCBOT1QgTlVMTCwgb3JnX25vZGVfaWQgVEVYVCBOT1QgTlVMTCwgbGFiZWwgVEVYVCwKICBhY3RpdmUgSU5URUdFUiBOT1QgTlVMTCBERUZBVUxUIDEsIGlzX2RlZmF1bHQgSU5URUdFUiBOT1QgTlVMTCBERUZBVUxUIDAsCiAgRk9SRUlHTiBLRVkodGVuYW50X2lkKSBSRUZFUkVOQ0VTIHRlbmFudHMoaWQpCik7CkNSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGl4X2dyYW50c191c2VyIE9OIGdyYW50cyh0ZW5hbnRfaWQsIHVzZXJfaWQpOwpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBhZG1pbl9zY29wZXMgKAogIGlkIFRFWFQgUFJJTUFSWSBLRVksIHRlbmFudF9pZCBURVhUIE5PVCBOVUxMLCB1c2VyX2lkIFRFWFQgTk9UIE5VTEwsCiAgb3JnX25vZGVfaWQgVEVYVCBOT1QgTlVMTCwKICBGT1JFSUdOIEtFWSh0ZW5hbnRfaWQpIFJFRkVSRU5DRVMgdGVuYW50cyhpZCkKKTsKQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaXhfYWRtaW5zY29wZV91c2VyIE9OIGFkbWluX3Njb3Blcyh0ZW5hbnRfaWQsIHVzZXJfaWQpOwpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBhdWRpdF9sb2cgKAogIGlkIFRFWFQgUFJJTUFSWSBLRVksIHRlbmFudF9pZCBURVhUIE5PVCBOVUxMLCB1c2VyX2lkIFRFWFQgTk9UIE5VTEwsCiAgZ3JhbnRfaWQgVEVYVCwgYWN0aW9uIFRFWFQgTk9UIE5VTEwsIHRhcmdldCBURVhULCBvayBJTlRFR0VSIE5PVCBOVUxMLAogIHJlYXNvbiBURVhULCB0cyBSRUFMIE5PVCBOVUxMLCBwcmV2X2hhc2ggVEVYVCwgaGFzaCBURVhUIE5PVCBOVUxMLAogIEZPUkVJR04gS0VZKHRlbmFudF9pZCkgUkVGRVJFTkNFUyB0ZW5hbnRzKGlkKQopOwpDUkVBVEUgSU5ERVggSUYgTk9UIEVYSVNUUyBpeF9hdWRpdF90ZW5hbnQgT04gYXVkaXRfbG9nKHRlbmFudF9pZCwgdHMpOwoiIiIKCgpjbGFzcyBTcWxpdGVSZXBvczoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwYXRoOiBzdHIgPSAiOm1lbW9yeToiKSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIgPSBzcWxpdGUzLmNvbm5lY3QocGF0aCwgY2hlY2tfc2FtZV90aHJlYWQ9RmFsc2UpCiAgICAgICAgc2VsZi5kYi5yb3dfZmFjdG9yeSA9IHNxbGl0ZTMuUm93CiAgICAgICAgc2VsZi5kYi5leGVjdXRlKCJQUkFHTUEgam91cm5hbF9tb2RlPVdBTCIpCiAgICAgICAgc2VsZi5kYi5yb3dfZmFjdG9yeSA9IHNxbGl0ZTMuUm93CiAgICAgICAgc2VsZi5kYi5leGVjdXRlKCJQUkFHTUEgZm9yZWlnbl9rZXlzID0gT04iKQogICAgICAgIHNlbGYuZGIuZXhlY3V0ZXNjcmlwdChTQ0hFTUEpCiAgICAgICAgc2VsZi5kYi5jb21taXQoKQoKICAgICMgLS0tLSB0ZW5hbnQgLS0tLQogICAgZGVmIGFkZF90ZW5hbnQoc2VsZiwgdDogVGVuYW50KSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gdGVuYW50cyhpZCxuYW1lKSBWQUxVRVMoPyw/KSIsICh0LmlkLCB0Lm5hbWUpKTsgc2VsZi5kYi5jb21taXQoKQoKICAgIGRlZiBnZXRfdGVuYW50KHNlbGYsIHRlbmFudF9pZDogc3RyKSAtPiBPcHRpb25hbFtUZW5hbnRdOgogICAgICAgIHIgPSBzZWxmLmRiLmV4ZWN1dGUoIlNFTEVDVCAqIEZST00gdGVuYW50cyBXSEVSRSBpZD0/IiwgKHRlbmFudF9pZCwpKS5mZXRjaG9uZSgpCiAgICAgICAgcmV0dXJuIFRlbmFudChyWyJpZCJdLCByWyJuYW1lIl0pIGlmIHIgZWxzZSBOb25lCgogICAgIyAtLS0tIG9yZyB0cmVlIC0tLS0KICAgIGRlZiBhZGRfbm9kZShzZWxmLCBuOiBPcmdOb2RlKSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gb3JnX25vZGVzKGlkLHRlbmFudF9pZCxwYXJlbnRfaWQsdHlwZSxuYW1lKSBWQUxVRVMoPyw/LD8sPyw/KSIsCiAgICAgICAgICAgICAgICAgICAgICAgIChuLmlkLCBuLnRlbmFudF9pZCwgbi5wYXJlbnRfaWQsIG4udHlwZS52YWx1ZSwgbi5uYW1lKSk7IHNlbGYuZGIuY29tbWl0KCkKCiAgICBkZWYgZ2V0X25vZGUoc2VsZiwgdGVuYW50X2lkOiBzdHIsIG5vZGVfaWQ6IHN0cikgLT4gT3B0aW9uYWxbT3JnTm9kZV06CiAgICAgICAgciA9IHNlbGYuZGIuZXhlY3V0ZSgiU0VMRUNUICogRlJPTSBvcmdfbm9kZXMgV0hFUkUgdGVuYW50X2lkPT8gQU5EIGlkPT8iLCAodGVuYW50X2lkLCBub2RlX2lkKSkuZmV0Y2hvbmUoKQogICAgICAgIHJldHVybiBPcmdOb2RlKHJbImlkIl0sIHJbInRlbmFudF9pZCJdLCByWyJwYXJlbnRfaWQiXSwgTm9kZVR5cGUoclsidHlwZSJdKSwgclsibmFtZSJdKSBpZiByIGVsc2UgTm9uZQoKICAgIGRlZiBjaGlsZHJlbihzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgbm9kZV9pZDogT3B0aW9uYWxbc3RyXSkgLT4gbGlzdFtPcmdOb2RlXToKICAgICAgICByb3dzID0gc2VsZi5kYi5leGVjdXRlKCJTRUxFQ1QgKiBGUk9NIG9yZ19ub2RlcyBXSEVSRSB0ZW5hbnRfaWQ9PyBBTkQgcGFyZW50X2lkIElTID8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRlbmFudF9pZCwgbm9kZV9pZCkpLmZldGNoYWxsKCkKICAgICAgICByZXR1cm4gW09yZ05vZGUoclsiaWQiXSwgclsidGVuYW50X2lkIl0sIHJbInBhcmVudF9pZCJdLCBOb2RlVHlwZShyWyJ0eXBlIl0pLCByWyJuYW1lIl0pIGZvciByIGluIHJvd3NdCgogICAgZGVmIHVwZGF0ZV9ub2RlKHNlbGYsIG46IE9yZ05vZGUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5kYi5leGVjdXRlKCJVUERBVEUgb3JnX25vZGVzIFNFVCBwYXJlbnRfaWQ9PywgdHlwZT0/LCBuYW1lPT8gV0hFUkUgdGVuYW50X2lkPT8gQU5EIGlkPT8iLAogICAgICAgICAgICAgICAgICAgICAgICAobi5wYXJlbnRfaWQsIG4udHlwZS52YWx1ZSwgbi5uYW1lLCBuLnRlbmFudF9pZCwgbi5pZCkpOyBzZWxmLmRiLmNvbW1pdCgpCgogICAgIyAtLS0tIHVzZXJzIC0tLS0KICAgIGRlZiBhZGRfdXNlcihzZWxmLCB1OiBVc2VyKSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gdXNlcnMoaWQsdGVuYW50X2lkLGtpbmQsc3RhdHVzLGRpc3BsYXlfbmFtZSkgVkFMVUVTKD8sPyw/LD8sPykiLAogICAgICAgICAgICAgICAgICAgICAgICAodS5pZCwgdS50ZW5hbnRfaWQsIHUua2luZC52YWx1ZSwgdS5zdGF0dXMudmFsdWUsIHUuZGlzcGxheV9uYW1lKSk7IHNlbGYuZGIuY29tbWl0KCkKCiAgICBkZWYgZ2V0X3VzZXIoc2VsZiwgdGVuYW50X2lkOiBzdHIsIHVzZXJfaWQ6IHN0cikgLT4gT3B0aW9uYWxbVXNlcl06CiAgICAgICAgciA9IHNlbGYuZGIuZXhlY3V0ZSgiU0VMRUNUICogRlJPTSB1c2VycyBXSEVSRSB0ZW5hbnRfaWQ9PyBBTkQgaWQ9PyIsICh0ZW5hbnRfaWQsIHVzZXJfaWQpKS5mZXRjaG9uZSgpCiAgICAgICAgcmV0dXJuIFVzZXIoclsiaWQiXSwgclsidGVuYW50X2lkIl0sIFVzZXJLaW5kKHJbImtpbmQiXSksIFVzZXJTdGF0dXMoclsic3RhdHVzIl0pLCByWyJkaXNwbGF5X25hbWUiXSBvciAiIikgaWYgciBlbHNlIE5vbmUKCiAgICBkZWYgc2V0X3VzZXJfc3RhdHVzKHNlbGYsIHRlbmFudF9pZDogc3RyLCB1c2VyX2lkOiBzdHIsIHN0YXR1czogc3RyKSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIuZXhlY3V0ZSgiVVBEQVRFIHVzZXJzIFNFVCBzdGF0dXM9PyBXSEVSRSB0ZW5hbnRfaWQ9PyBBTkQgaWQ9PyIsIChzdGF0dXMsIHRlbmFudF9pZCwgdXNlcl9pZCkpOyBzZWxmLmRiLmNvbW1pdCgpCgogICAgIyAtLS0tIHJvbGVzIC0tLS0KICAgIGRlZiBhZGRfcm9sZShzZWxmLCByOiBSb2xlKSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gcm9sZXMoaWQsdGVuYW50X2lkLG5hbWUscGVybV9rZXlzKSBWQUxVRVMoPyw/LD8sPykiLAogICAgICAgICAgICAgICAgICAgICAgICAoci5pZCwgci50ZW5hbnRfaWQsIHIubmFtZSwgIiwiLmpvaW4oc29ydGVkKHIucGVybV9rZXlzKSkpKTsgc2VsZi5kYi5jb21taXQoKQoKICAgIGRlZiBnZXRfcm9sZShzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgcm9sZV9pZDogc3RyKSAtPiBPcHRpb25hbFtSb2xlXToKICAgICAgICByID0gc2VsZi5kYi5leGVjdXRlKCJTRUxFQ1QgKiBGUk9NIHJvbGVzIFdIRVJFIHRlbmFudF9pZD0/IEFORCBpZD0/IiwgKHRlbmFudF9pZCwgcm9sZV9pZCkpLmZldGNob25lKCkKICAgICAgICBpZiBub3QgcjoKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBwZXJtcyA9IGZyb3plbnNldChwIGZvciBwIGluIChyWyJwZXJtX2tleXMiXSBvciAiIikuc3BsaXQoIiwiKSBpZiBwKQogICAgICAgIHJldHVybiBSb2xlKHJbImlkIl0sIHJbInRlbmFudF9pZCJdLCByWyJuYW1lIl0sIHBlcm1zKQoKICAgICMgLS0tLSBncmFudHMgLS0tLQogICAgZGVmIGFkZF9ncmFudChzZWxmLCBnOiBHcmFudCkgLT4gTm9uZToKICAgICAgICBzZWxmLmRiLmV4ZWN1dGUoCiAgICAgICAgICAgICJJTlNFUlQgSU5UTyBncmFudHMoaWQsdGVuYW50X2lkLHVzZXJfaWQscm9sZV9pZCxvcmdfbm9kZV9pZCxsYWJlbCxhY3RpdmUsaXNfZGVmYXVsdCkgVkFMVUVTKD8sPyw/LD8sPyw/LD8sPykiLAogICAgICAgICAgICAoZy5pZCwgZy50ZW5hbnRfaWQsIGcudXNlcl9pZCwgZy5yb2xlX2lkLCBnLm9yZ19ub2RlX2lkLCBnLmxhYmVsLCBpbnQoZy5hY3RpdmUpLCBpbnQoZy5pc19kZWZhdWx0KSkpCiAgICAgICAgc2VsZi5kYi5jb21taXQoKQoKICAgIGRlZiBfZ3JhbnQoc2VsZiwgcjogc3FsaXRlMy5Sb3cpIC0+IEdyYW50OgogICAgICAgIHJldHVybiBHcmFudChyWyJpZCJdLCByWyJ0ZW5hbnRfaWQiXSwgclsidXNlcl9pZCJdLCByWyJyb2xlX2lkIl0sIHJbIm9yZ19ub2RlX2lkIl0sCiAgICAgICAgICAgICAgICAgICAgIHJbImxhYmVsIl0gb3IgIiIsIGJvb2woclsiYWN0aXZlIl0pLCBib29sKHJbImlzX2RlZmF1bHQiXSkpCgogICAgZGVmIGdldF9ncmFudChzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgZ3JhbnRfaWQ6IHN0cikgLT4gT3B0aW9uYWxbR3JhbnRdOgogICAgICAgIHIgPSBzZWxmLmRiLmV4ZWN1dGUoIlNFTEVDVCAqIEZST00gZ3JhbnRzIFdIRVJFIHRlbmFudF9pZD0/IEFORCBpZD0/IiwgKHRlbmFudF9pZCwgZ3JhbnRfaWQpKS5mZXRjaG9uZSgpCiAgICAgICAgcmV0dXJuIHNlbGYuX2dyYW50KHIpIGlmIHIgZWxzZSBOb25lCgogICAgZGVmIGdyYW50c19vZl91c2VyKHNlbGYsIHRlbmFudF9pZDogc3RyLCB1c2VyX2lkOiBzdHIpIC0+IGxpc3RbR3JhbnRdOgogICAgICAgIHJvd3MgPSBzZWxmLmRiLmV4ZWN1dGUoIlNFTEVDVCAqIEZST00gZ3JhbnRzIFdIRVJFIHRlbmFudF9pZD0/IEFORCB1c2VyX2lkPT8iLCAodGVuYW50X2lkLCB1c2VyX2lkKSkuZmV0Y2hhbGwoKQogICAgICAgIHJldHVybiBbc2VsZi5fZ3JhbnQocikgZm9yIHIgaW4gcm93c10KCiAgICAKICAgICMgLS0tLSBiYXRjaCBsaXN0IChmb3IgQVBJKSAtLS0tCiAgICBkZWYgX2xpc3RfdXNlcnMoc2VsZiwgdGVuYW50X2lkOiBzdHIpIC0+IGxpc3Q6CiAgICAgICAgcm93cyA9IHNlbGYuZGIuZXhlY3V0ZSgiU0VMRUNUICogRlJPTSB1c2VycyBXSEVSRSB0ZW5hbnRfaWQ9PyIsICh0ZW5hbnRfaWQsKSkuZmV0Y2hhbGwoKQogICAgICAgIHJldHVybiBbVXNlcihyWyJpZCJdLCByWyJ0ZW5hbnRfaWQiXSwgVXNlcktpbmQoclsia2luZCJdKSwgVXNlclN0YXR1cyhyWyJzdGF0dXMiXSksIHJbImRpc3BsYXlfbmFtZSJdIG9yICIiKSBmb3IgciBpbiByb3dzXQoKICAgIGRlZiBfbGlzdF9yb2xlcyhzZWxmLCB0ZW5hbnRfaWQ6IHN0cikgLT4gbGlzdDoKICAgICAgICByb3dzID0gc2VsZi5kYi5leGVjdXRlKCJTRUxFQ1QgKiBGUk9NIHJvbGVzIFdIRVJFIHRlbmFudF9pZD0/IiwgKHRlbmFudF9pZCwpKS5mZXRjaGFsbCgpCiAgICAgICAgcmV0dXJuIFtSb2xlKHJbImlkIl0sIHJbInRlbmFudF9pZCJdLCByWyJuYW1lIl0sIGZyb3plbnNldChyWyJwZXJtX2tleXMiXS5zcGxpdCgiOyIpIGlmIHJbInBlcm1fa2V5cyJdIGVsc2UgW10pKSBmb3IgciBpbiByb3dzXQoKICAgIGRlZiBfbGlzdF9ncmFudHMoc2VsZiwgdGVuYW50X2lkOiBzdHIpIC0+IGxpc3Q6CiAgICAgICAgcm93cyA9IHNlbGYuZGIuZXhlY3V0ZSgiU0VMRUNUICogRlJPTSBncmFudHMgV0hFUkUgdGVuYW50X2lkPT8gQU5EIGFjdGl2ZT0xIiwgKHRlbmFudF9pZCwpKS5mZXRjaGFsbCgpCiAgICAgICAgcmV0dXJuIFtzZWxmLl9ncmFudChyKSBmb3IgciBpbiByb3dzXQoKICAgIGRlZiBzZXRfZ3JhbnRfYWN0aXZlKHNlbGYsIHRlbmFudF9pZDogc3RyLCBncmFudF9pZDogc3RyLCBhY3RpdmU6IGJvb2wpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5kYi5leGVjdXRlKCJVUERBVEUgZ3JhbnRzIFNFVCBhY3RpdmU9PyBXSEVSRSB0ZW5hbnRfaWQ9PyBBTkQgaWQ9PyIsIChpbnQoYWN0aXZlKSwgdGVuYW50X2lkLCBncmFudF9pZCkpOyBzZWxmLmRiLmNvbW1pdCgpCgogICAgIyAtLS0tIGFkbWluIHNjb3BlcyAtLS0tCiAgICBkZWYgYWRkX2FkbWluX3Njb3BlKHNlbGYsIHM6IEFkbWluU2NvcGUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5kYi5leGVjdXRlKCJJTlNFUlQgSU5UTyBhZG1pbl9zY29wZXMoaWQsdGVuYW50X2lkLHVzZXJfaWQsb3JnX25vZGVfaWQpIFZBTFVFUyg/LD8sPyw/KSIsCiAgICAgICAgICAgICAgICAgICAgICAgIChzLmlkLCBzLnRlbmFudF9pZCwgcy51c2VyX2lkLCBzLm9yZ19ub2RlX2lkKSk7IHNlbGYuZGIuY29tbWl0KCkKCiAgICBkZWYgYWRtaW5fc2NvcGVzX29mKHNlbGYsIHRlbmFudF9pZDogc3RyLCB1c2VyX2lkOiBzdHIpIC0+IGxpc3RbQWRtaW5TY29wZV06CiAgICAgICAgcm93cyA9IHNlbGYuZGIuZXhlY3V0ZSgiU0VMRUNUICogRlJPTSBhZG1pbl9zY29wZXMgV0hFUkUgdGVuYW50X2lkPT8gQU5EIHVzZXJfaWQ9PyIsICh0ZW5hbnRfaWQsIHVzZXJfaWQpKS5mZXRjaGFsbCgpCiAgICAgICAgcmV0dXJuIFtBZG1pblNjb3BlKHJbImlkIl0sIHJbInRlbmFudF9pZCJdLCByWyJ1c2VyX2lkIl0sIHJbIm9yZ19ub2RlX2lkIl0pIGZvciByIGluIHJvd3NdCgogICAgIyAtLS0tIGF1ZGl0IC0tLS0KICAgIGRlZiBhcHBlbmRfYXVkaXQoc2VsZiwgZTogQXVkaXRFbnRyeSkgLT4gTm9uZToKICAgICAgICBzZWxmLmRiLmV4ZWN1dGUoCiAgICAgICAgICAgICJJTlNFUlQgSU5UTyBhdWRpdF9sb2coaWQsdGVuYW50X2lkLHVzZXJfaWQsZ3JhbnRfaWQsYWN0aW9uLHRhcmdldCxvayxyZWFzb24sdHMscHJldl9oYXNoLGhhc2gpICIKICAgICAgICAgICAgIlZBTFVFUyg/LD8sPyw/LD8sPyw/LD8sPyw/LD8pIiwKICAgICAgICAgICAgKGUuaWQsIGUudGVuYW50X2lkLCBlLnVzZXJfaWQsIGUuZ3JhbnRfaWQsIGUuYWN0aW9uLCBlLnRhcmdldCwgaW50KGUub2spLCBlLnJlYXNvbiwgZS50cywgZS5wcmV2X2hhc2gsIGUuaGFzaCkpCiAgICAgICAgc2VsZi5kYi5jb21taXQoKQoKICAgIGRlZiBsYXN0X2F1ZGl0X2hhc2goc2VsZiwgdGVuYW50X2lkOiBzdHIpIC0+IHN0cjoKICAgICAgICByID0gc2VsZi5kYi5leGVjdXRlKCJTRUxFQ1QgaGFzaCBGUk9NIGF1ZGl0X2xvZyBXSEVSRSB0ZW5hbnRfaWQ9PyBPUkRFUiBCWSB0cyBERVNDIExJTUlUIDEiLCAodGVuYW50X2lkLCkpLmZldGNob25lKCkKICAgICAgICByZXR1cm4gclsiaGFzaCJdIGlmIHIgZWxzZSAiIgoKICAgIGRlZiBsaXN0X2F1ZGl0KHNlbGYsIHRlbmFudF9pZDogc3RyLCBsaW1pdDogaW50ID0gMTAwKSAtPiBsaXN0W0F1ZGl0RW50cnldOgogICAgICAgIHJvd3MgPSBzZWxmLmRiLmV4ZWN1dGUoIlNFTEVDVCAqIEZST00gYXVkaXRfbG9nIFdIRVJFIHRlbmFudF9pZD0/IE9SREVSIEJZIHRzIERFU0MgTElNSVQgPyIsICh0ZW5hbnRfaWQsIGxpbWl0KSkuZmV0Y2hhbGwoKQogICAgICAgIHJldHVybiBbQXVkaXRFbnRyeShyWyJpZCJdLCByWyJ0ZW5hbnRfaWQiXSwgclsidXNlcl9pZCJdLCByWyJncmFudF9pZCJdLCByWyJhY3Rpb24iXSwgclsidGFyZ2V0Il0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvb2woclsib2siXSksIHJbInJlYXNvbiJdIG9yICIiLCByWyJ0cyJdLCByWyJwcmV2X2hhc2giXSBvciAiIiwgclsiaGFzaCJdKSBmb3IgciBpbiByb3dzXQo=
+"""
+org_core.sqlite_repo — Repos 的 SQLite 实现(小公司单机形态)。
+
+纯 stdlib sqlite3。Schema 含全部七表 + tenant_id + 外键 + 索引,结构兼容 Postgres
+(换 PostgresRepos 时同一套表只改方言)。大公司用 PG 实现,业务代码不变。
+"""
+from __future__ import annotations
+
+import sqlite3
+from typing import Optional
+
+from .models import (
+    AdminScope, AuditEntry, Grant, NodeType, OrgNode, Role, Tenant, User,
+    UserKind, UserStatus,
+)
+
+SCHEMA = """
+CREATE TABLE IF NOT EXISTS tenants (
+  id TEXT PRIMARY KEY, name TEXT NOT NULL
+);
+CREATE TABLE IF NOT EXISTS org_nodes (
+  id TEXT PRIMARY KEY, tenant_id TEXT NOT NULL, parent_id TEXT,
+  type TEXT NOT NULL, name TEXT NOT NULL,
+  FOREIGN KEY(tenant_id) REFERENCES tenants(id)
+);
+CREATE INDEX IF NOT EXISTS ix_org_tenant ON org_nodes(tenant_id, parent_id);
+CREATE TABLE IF NOT EXISTS users (
+  id TEXT PRIMARY KEY, tenant_id TEXT NOT NULL, kind TEXT NOT NULL,
+  status TEXT NOT NULL, display_name TEXT,
+  FOREIGN KEY(tenant_id) REFERENCES tenants(id)
+);
+CREATE INDEX IF NOT EXISTS ix_users_tenant ON users(tenant_id);
+CREATE TABLE IF NOT EXISTS roles (
+  id TEXT PRIMARY KEY, tenant_id TEXT NOT NULL, name TEXT NOT NULL,
+  perm_keys TEXT NOT NULL,
+  FOREIGN KEY(tenant_id) REFERENCES tenants(id)
+);
+CREATE TABLE IF NOT EXISTS grants (
+  id TEXT PRIMARY KEY, tenant_id TEXT NOT NULL, user_id TEXT NOT NULL,
+  role_id TEXT NOT NULL, org_node_id TEXT NOT NULL, label TEXT,
+  active INTEGER NOT NULL DEFAULT 1, is_default INTEGER NOT NULL DEFAULT 0,
+  FOREIGN KEY(tenant_id) REFERENCES tenants(id)
+);
+CREATE INDEX IF NOT EXISTS ix_grants_user ON grants(tenant_id, user_id);
+CREATE TABLE IF NOT EXISTS admin_scopes (
+  id TEXT PRIMARY KEY, tenant_id TEXT NOT NULL, user_id TEXT NOT NULL,
+  org_node_id TEXT NOT NULL,
+  FOREIGN KEY(tenant_id) REFERENCES tenants(id)
+);
+CREATE INDEX IF NOT EXISTS ix_adminscope_user ON admin_scopes(tenant_id, user_id);
+CREATE TABLE IF NOT EXISTS audit_log (
+  id TEXT PRIMARY KEY, tenant_id TEXT NOT NULL, user_id TEXT NOT NULL,
+  grant_id TEXT, action TEXT NOT NULL, target TEXT, ok INTEGER NOT NULL,
+  reason TEXT, ts REAL NOT NULL, prev_hash TEXT, hash TEXT NOT NULL,
+  FOREIGN KEY(tenant_id) REFERENCES tenants(id)
+);
+CREATE INDEX IF NOT EXISTS ix_audit_tenant ON audit_log(tenant_id, ts);
+"""
+
+
+class SqliteRepos:
+    def __init__(self, path: str = ":memory:") -> None:
+        self.db = sqlite3.connect(path, check_same_thread=False)
+        self.db.row_factory = sqlite3.Row
+        self.db.execute("PRAGMA journal_mode=WAL")
+        self.db.row_factory = sqlite3.Row
+        self.db.execute("PRAGMA foreign_keys = ON")
+        self.db.executescript(SCHEMA)
+        self.db.commit()
+
+    # ---- tenant ----
+    def add_tenant(self, t: Tenant) -> None:
+        self.db.execute("INSERT INTO tenants(id,name) VALUES(?,?)", (t.id, t.name)); self.db.commit()
+
+    def get_tenant(self, tenant_id: str) -> Optional[Tenant]:
+        r = self.db.execute("SELECT * FROM tenants WHERE id=?", (tenant_id,)).fetchone()
+        return Tenant(r["id"], r["name"]) if r else None
+
+    # ---- org tree ----
+    def add_node(self, n: OrgNode) -> None:
+        self.db.execute("INSERT INTO org_nodes(id,tenant_id,parent_id,type,name) VALUES(?,?,?,?,?)",
+                        (n.id, n.tenant_id, n.parent_id, n.type.value, n.name)); self.db.commit()
+
+    def get_node(self, tenant_id: str, node_id: str) -> Optional[OrgNode]:
+        r = self.db.execute("SELECT * FROM org_nodes WHERE tenant_id=? AND id=?", (tenant_id, node_id)).fetchone()
+        return OrgNode(r["id"], r["tenant_id"], r["parent_id"], NodeType(r["type"]), r["name"]) if r else None
+
+    def children(self, tenant_id: str, node_id: Optional[str]) -> list[OrgNode]:
+        rows = self.db.execute("SELECT * FROM org_nodes WHERE tenant_id=? AND parent_id IS ?",
+                               (tenant_id, node_id)).fetchall()
+        return [OrgNode(r["id"], r["tenant_id"], r["parent_id"], NodeType(r["type"]), r["name"]) for r in rows]
+
+    def update_node(self, n: OrgNode) -> None:
+        self.db.execute("UPDATE org_nodes SET parent_id=?, type=?, name=? WHERE tenant_id=? AND id=?",
+                        (n.parent_id, n.type.value, n.name, n.tenant_id, n.id)); self.db.commit()
+
+    # ---- users ----
+    def add_user(self, u: User) -> None:
+        self.db.execute("INSERT INTO users(id,tenant_id,kind,status,display_name) VALUES(?,?,?,?,?)",
+                        (u.id, u.tenant_id, u.kind.value, u.status.value, u.display_name)); self.db.commit()
+
+    def get_user(self, tenant_id: str, user_id: str) -> Optional[User]:
+        r = self.db.execute("SELECT * FROM users WHERE tenant_id=? AND id=?", (tenant_id, user_id)).fetchone()
+        return User(r["id"], r["tenant_id"], UserKind(r["kind"]), UserStatus(r["status"]), r["display_name"] or "") if r else None
+
+    def set_user_status(self, tenant_id: str, user_id: str, status: str) -> None:
+        self.db.execute("UPDATE users SET status=? WHERE tenant_id=? AND id=?", (status, tenant_id, user_id)); self.db.commit()
+
+    # ---- roles ----
+    def add_role(self, r: Role) -> None:
+        self.db.execute("INSERT INTO roles(id,tenant_id,name,perm_keys) VALUES(?,?,?,?)",
+                        (r.id, r.tenant_id, r.name, ",".join(sorted(r.perm_keys)))); self.db.commit()
+
+    def get_role(self, tenant_id: str, role_id: str) -> Optional[Role]:
+        r = self.db.execute("SELECT * FROM roles WHERE tenant_id=? AND id=?", (tenant_id, role_id)).fetchone()
+        if not r:
+            return None
+        perms = frozenset(p for p in (r["perm_keys"] or "").split(",") if p)
+        return Role(r["id"], r["tenant_id"], r["name"], perms)
+
+    # ---- grants ----
+    def add_grant(self, g: Grant) -> None:
+        self.db.execute(
+            "INSERT INTO grants(id,tenant_id,user_id,role_id,org_node_id,label,active,is_default) VALUES(?,?,?,?,?,?,?,?)",
+            (g.id, g.tenant_id, g.user_id, g.role_id, g.org_node_id, g.label, int(g.active), int(g.is_default)))
+        self.db.commit()
+
+    def _grant(self, r: sqlite3.Row) -> Grant:
+        return Grant(r["id"], r["tenant_id"], r["user_id"], r["role_id"], r["org_node_id"],
+                     r["label"] or "", bool(r["active"]), bool(r["is_default"]))
+
+    def get_grant(self, tenant_id: str, grant_id: str) -> Optional[Grant]:
+        r = self.db.execute("SELECT * FROM grants WHERE tenant_id=? AND id=?", (tenant_id, grant_id)).fetchone()
+        return self._grant(r) if r else None
+
+    def grants_of_user(self, tenant_id: str, user_id: str) -> list[Grant]:
+        rows = self.db.execute("SELECT * FROM grants WHERE tenant_id=? AND user_id=?", (tenant_id, user_id)).fetchall()
+        return [self._grant(r) for r in rows]
+
+    
+    # ---- batch list (for API) ----
+    def _list_users(self, tenant_id: str) -> list:
+        rows = self.db.execute("SELECT * FROM users WHERE tenant_id=?", (tenant_id,)).fetchall()
+        return [User(r["id"], r["tenant_id"], UserKind(r["kind"]), UserStatus(r["status"]), r["display_name"] or "") for r in rows]
+
+    def _list_roles(self, tenant_id: str) -> list:
+        rows = self.db.execute("SELECT * FROM roles WHERE tenant_id=?", (tenant_id,)).fetchall()
+        return [Role(r["id"], r["tenant_id"], r["name"], frozenset(r["perm_keys"].split(";") if r["perm_keys"] else [])) for r in rows]
+
+    def _list_grants(self, tenant_id: str) -> list:
+        rows = self.db.execute("SELECT * FROM grants WHERE tenant_id=? AND active=1", (tenant_id,)).fetchall()
+        return [self._grant(r) for r in rows]
+
+    def set_grant_active(self, tenant_id: str, grant_id: str, active: bool) -> None:
+        self.db.execute("UPDATE grants SET active=? WHERE tenant_id=? AND id=?", (int(active), tenant_id, grant_id)); self.db.commit()
+
+    # ---- admin scopes ----
+    def add_admin_scope(self, s: AdminScope) -> None:
+        self.db.execute("INSERT INTO admin_scopes(id,tenant_id,user_id,org_node_id) VALUES(?,?,?,?)",
+                        (s.id, s.tenant_id, s.user_id, s.org_node_id)); self.db.commit()
+
+    def admin_scopes_of(self, tenant_id: str, user_id: str) -> list[AdminScope]:
+        rows = self.db.execute("SELECT * FROM admin_scopes WHERE tenant_id=? AND user_id=?", (tenant_id, user_id)).fetchall()
+        return [AdminScope(r["id"], r["tenant_id"], r["user_id"], r["org_node_id"]) for r in rows]
+
+    # ---- audit ----
+    def append_audit(self, e: AuditEntry) -> None:
+        self.db.execute(
+            "INSERT INTO audit_log(id,tenant_id,user_id,grant_id,action,target,ok,reason,ts,prev_hash,hash) "
+            "VALUES(?,?,?,?,?,?,?,?,?,?,?)",
+            (e.id, e.tenant_id, e.user_id, e.grant_id, e.action, e.target, int(e.ok), e.reason, e.ts, e.prev_hash, e.hash))
+        self.db.commit()
+
+    def last_audit_hash(self, tenant_id: str) -> str:
+        r = self.db.execute("SELECT hash FROM audit_log WHERE tenant_id=? ORDER BY ts DESC LIMIT 1", (tenant_id,)).fetchone()
+        return r["hash"] if r else ""
+
+    def list_audit(self, tenant_id: str, limit: int = 100) -> list[AuditEntry]:
+        rows = self.db.execute("SELECT * FROM audit_log WHERE tenant_id=? ORDER BY ts DESC LIMIT ?", (tenant_id, limit)).fetchall()
+        return [AuditEntry(r["id"], r["tenant_id"], r["user_id"], r["grant_id"], r["action"], r["target"],
+                           bool(r["ok"]), r["reason"] or "", r["ts"], r["prev_hash"] or "", r["hash"]) for r in rows]

@@ -1,1 +1,69 @@
-IiIiYmFja2VuZC51c2VyX2J1bGtfaW1wb3J0IOKAlCDnu4Tnu4fmnrbmnoQv5ZGY5belIEV4Y2VswrdDU1Yg5om56YeP5a+85YWlKOaOpeeOsOaciSBhdXRoKeOAggoK566h55CG5ZGY5LiK5Lyg6KGo5qC8IOKGkiDpgJDooYzlu7rnlKjmiLco5omL5py65Y+3L+inkuiJsi/pg6jpl6gpLOWIneWni+WvhueggeWPr+ihqOWGhee7meaIluiHquWKqOeUn+aIkOOAggrop5LoibLnmb3lkI3ljZXmoKHpqowo6Ziy6LaK5p2D6YCgIGFkbWluKTvljZXooYzlpLHotKXkuI3lvbHlk43mlbTmibk76L+U5Zue5oql5ZGKKOWQq+WIneWni+WvhueggSzkvpvliIblj5Ep44CCCue6ryBzdGRsaWIoQ1NWKTt4bHN4IOeUseerr+eCueeUqCBvcGVucHl4bCDor7vmiJDooYzlkI7osIPmnKzmqKHlnZfjgILlj6/nprvnur/mtYvjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBjc3YKaW1wb3J0IGlvCmltcG9ydCBzZWNyZXRzCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQ2FsbGFibGUsIERpY3QsIExpc3QsIE9wdGlvbmFsCgojIOWFgeiuuOaJuemHj+WvvOWFpeaMh+WumueahOinkuiJsijpmLLmraLku47ooajmoLzpgKDlh7ogYWRtaW4v5Y+X6ZmQ566h55CG5ZGYL+WuoeiuoeWRmCkKSU1QT1JUQUJMRV9ST0xFUyA9IHsidXNlciIsICJkZXZlbG9wZXIiLCAiZGVwYXJ0bWVudF9hZG1pbiJ9CgoKQGRhdGFjbGFzcwpjbGFzcyBJbXBvcnRSZXBvcnQ6CiAgICBjcmVhdGVkOiBMaXN0W0RpY3Rbc3RyLCBzdHJdXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KSAgICMge3Bob25lLCByb2xlLCBkZXB0X2lkLCBpbml0X3Bhc3N3b3JkfQogICAgc2tpcHBlZDogTGlzdFtEaWN0W3N0ciwgc3RyXV0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkgICAjIHtwaG9uZSwgcmVhc29ufQogICAgZmFpbGVkOiBMaXN0W0RpY3Rbc3RyLCBzdHJdXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KSAgICAjIHtyb3csIHJlYXNvbn0KICAgIGRlZiBzdW1tYXJ5KHNlbGYpOiByZXR1cm4geyJjcmVhdGVkIjogbGVuKHNlbGYuY3JlYXRlZCksICJza2lwcGVkIjogbGVuKHNlbGYuc2tpcHBlZCksICJmYWlsZWQiOiBsZW4oc2VsZi5mYWlsZWQpfQogICAgZGVmIHB1YmxpYyhzZWxmKTogcmV0dXJuIHsic3VtbWFyeSI6IHNlbGYuc3VtbWFyeSgpLCAiY3JlYXRlZCI6IHNlbGYuY3JlYXRlZCwgInNraXBwZWQiOiBzZWxmLnNraXBwZWQsICJmYWlsZWQiOiBzZWxmLmZhaWxlZH0KCgpkZWYgX2dlbl9wYXNzd29yZCgpIC0+IHN0cjoKICAgIHJldHVybiAiQWEiICsgc2VjcmV0cy50b2tlbl9oZXgoMykgICAjIDjkvY3liJ3lp4vlr4bnoIEs5a+85YWl5ZCO5o+Q56S65pS55a+GCgoKZGVmIGltcG9ydF91c2VycygKICAgIHJvd3M6IExpc3RbRGljdFtzdHIsIEFueV1dLAogICAgKiwKICAgIHJlZ2lzdGVyX2ZuOiBDYWxsYWJsZVtbc3RyLCBzdHIsIHN0ciwgT3B0aW9uYWxbc3RyXV0sIHN0cl0sICAgIyAocGhvbmUsIHB3ZCwgcm9sZSwgZGVwdF9pZCkgLT4gdWlkCiAgICBleGlzdHNfZm46IENhbGxhYmxlW1tzdHJdLCBib29sXSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBwaG9uZSAtPiDlt7LlrZjlnKg/CiAgICBkZWZhdWx0X3JvbGU6IHN0ciA9ICJ1c2VyIiwKKSAtPiBJbXBvcnRSZXBvcnQ6CiAgICByZXAgPSBJbXBvcnRSZXBvcnQoKQogICAgZm9yIGksIHJvdyBpbiBlbnVtZXJhdGUocm93cywgMSk6CiAgICAgICAgcGhvbmUgPSBzdHIocm93LmdldCgicGhvbmUiKSBvciByb3cuZ2V0KCLmiYvmnLrlj7ciKSBvciAiIikuc3RyaXAoKQogICAgICAgIHJvbGUgPSBzdHIocm93LmdldCgicm9sZSIpIG9yIHJvdy5nZXQoIuinkuiJsiIpIG9yIGRlZmF1bHRfcm9sZSkuc3RyaXAoKSBvciBkZWZhdWx0X3JvbGUKICAgICAgICBkZXB0ID0gc3RyKHJvdy5nZXQoImRlcHRfaWQiKSBvciByb3cuZ2V0KCLpg6jpl6giKSBvciAiIikuc3RyaXAoKSBvciBOb25lCiAgICAgICAgcHdkID0gc3RyKHJvdy5nZXQoInBhc3N3b3JkIikgb3Igcm93LmdldCgi5Yid5aeL5a+G56CBIikgb3IgIiIpLnN0cmlwKCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGltcG9ydCByZQogICAgICAgICAgICBpZiBub3QgcmUuZnVsbG1hdGNoKHIiMVszLTldXGR7OX0iLCBwaG9uZSk6CiAgICAgICAgICAgICAgICByZXAuZmFpbGVkLmFwcGVuZCh7InJvdyI6IHN0cihpKSwgInJlYXNvbiI6IGYi5omL5py65Y+35peg5pWIOiB7cGhvbmUgb3IgJ+epuid9In0pOyBjb250aW51ZQogICAgICAgICAgICBpZiByb2xlIG5vdCBpbiBJTVBPUlRBQkxFX1JPTEVTOgogICAgICAgICAgICAgICAgcmVwLmZhaWxlZC5hcHBlbmQoeyJyb3ciOiBzdHIoaSksICJyZWFzb24iOiBmIuS4jeWFgeiuuOWvvOWFpeinkuiJsjoge3JvbGV9KOS7hSB7c29ydGVkKElNUE9SVEFCTEVfUk9MRVMpfSkifSk7IGNvbnRpbnVlCiAgICAgICAgICAgIGlmIGV4aXN0c19mbihwaG9uZSk6CiAgICAgICAgICAgICAgICByZXAuc2tpcHBlZC5hcHBlbmQoeyJwaG9uZSI6IHBob25lLCAicmVhc29uIjogIuaJi+acuuWPt+W3suWtmOWcqCJ9KTsgY29udGludWUKICAgICAgICAgICAgaW5pdF9wd2QgPSBwd2QgaWYgbGVuKHB3ZCkgPj0gNiBlbHNlIF9nZW5fcGFzc3dvcmQoKQogICAgICAgICAgICByZWdpc3Rlcl9mbihwaG9uZSwgaW5pdF9wd2QsIHJvbGUsIGRlcHQpCiAgICAgICAgICAgIHJlcC5jcmVhdGVkLmFwcGVuZCh7InBob25lIjogcGhvbmUsICJyb2xlIjogcm9sZSwgImRlcHRfaWQiOiBkZXB0IG9yICIiLCAiaW5pdF9wYXNzd29yZCI6IGluaXRfcHdkfSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJlcC5mYWlsZWQuYXBwZW5kKHsicm93Ijogc3RyKGkpLCAicmVhc29uIjogc3RyKGUpWzoyMDBdfSkKICAgIHJldHVybiByZXAKCgpkZWYgaW1wb3J0X3VzZXJzX2Nzdihjc3ZfdGV4dDogc3RyLCAqKmt3KSAtPiBJbXBvcnRSZXBvcnQ6CiAgICByZXR1cm4gaW1wb3J0X3VzZXJzKGxpc3QoY3N2LkRpY3RSZWFkZXIoaW8uU3RyaW5nSU8oY3N2X3RleHQpKSksICoqa3cpCgoKZGVmIHRlbXBsYXRlX2NzdigpIC0+IHN0cjoKICAgIHJldHVybiAoInBob25lLHJvbGUsZGVwdF9pZCxwYXNzd29yZFxuIgogICAgICAgICAgICAiMTM4MDAwMDExMTEsdXNlcixkMSxcbiIKICAgICAgICAgICAgIjEzODAwMDAyMjIyLGRlcGFydG1lbnRfYWRtaW4sZDEsXG4iCiAgICAgICAgICAgICIjIHJvbGUg5Y+v6YCJOiB1c2VyL2RldmVsb3Blci9kZXBhcnRtZW50X2FkbWluO2RlcHRfaWQg5Li66YOo6Zeo5qCH6K+GO3Bhc3N3b3JkIOeVmeepuuWImeiHquWKqOeUn+aIkFxuIikK
+"""backend.user_bulk_import — 组织架构/员工 Excel·CSV 批量导入(接现有 auth)。
+
+管理员上传表格 → 逐行建用户(手机号/角色/部门),初始密码可表内给或自动生成。
+角色白名单校验(防越权造 admin);单行失败不影响整批;返回报告(含初始密码,供分发)。
+纯 stdlib(CSV);xlsx 由端点用 openpyxl 读成行后调本模块。可离线测。
+"""
+from __future__ import annotations
+
+import csv
+import io
+import secrets
+from dataclasses import dataclass, field
+from typing import Any, Callable, Dict, List, Optional
+
+# 允许批量导入指定的角色(防止从表格造出 admin/受限管理员/审计员)
+IMPORTABLE_ROLES = {"user", "developer", "department_admin"}
+
+
+@dataclass
+class ImportReport:
+    created: List[Dict[str, str]] = field(default_factory=list)   # {phone, role, dept_id, init_password}
+    skipped: List[Dict[str, str]] = field(default_factory=list)   # {phone, reason}
+    failed: List[Dict[str, str]] = field(default_factory=list)    # {row, reason}
+    def summary(self): return {"created": len(self.created), "skipped": len(self.skipped), "failed": len(self.failed)}
+    def public(self): return {"summary": self.summary(), "created": self.created, "skipped": self.skipped, "failed": self.failed}
+
+
+def _gen_password() -> str:
+    return "Aa" + secrets.token_hex(3)   # 8位初始密码,导入后提示改密
+
+
+def import_users(
+    rows: List[Dict[str, Any]],
+    *,
+    register_fn: Callable[[str, str, str, Optional[str]], str],   # (phone, pwd, role, dept_id) -> uid
+    exists_fn: Callable[[str], bool],                            # phone -> 已存在?
+    default_role: str = "user",
+) -> ImportReport:
+    rep = ImportReport()
+    for i, row in enumerate(rows, 1):
+        phone = str(row.get("phone") or row.get("手机号") or "").strip()
+        role = str(row.get("role") or row.get("角色") or default_role).strip() or default_role
+        dept = str(row.get("dept_id") or row.get("部门") or "").strip() or None
+        pwd = str(row.get("password") or row.get("初始密码") or "").strip()
+        try:
+            import re
+            if not re.fullmatch(r"1[3-9]\d{9}", phone):
+                rep.failed.append({"row": str(i), "reason": f"手机号无效: {phone or '空'}"}); continue
+            if role not in IMPORTABLE_ROLES:
+                rep.failed.append({"row": str(i), "reason": f"不允许导入角色: {role}(仅 {sorted(IMPORTABLE_ROLES)})"}); continue
+            if exists_fn(phone):
+                rep.skipped.append({"phone": phone, "reason": "手机号已存在"}); continue
+            init_pwd = pwd if len(pwd) >= 6 else _gen_password()
+            register_fn(phone, init_pwd, role, dept)
+            rep.created.append({"phone": phone, "role": role, "dept_id": dept or "", "init_password": init_pwd})
+        except Exception as e:
+            rep.failed.append({"row": str(i), "reason": str(e)[:200]})
+    return rep
+
+
+def import_users_csv(csv_text: str, **kw) -> ImportReport:
+    return import_users(list(csv.DictReader(io.StringIO(csv_text))), **kw)
+
+
+def template_csv() -> str:
+    return ("phone,role,dept_id,password\n"
+            "13800001111,user,d1,\n"
+            "13800002222,department_admin,d1,\n"
+            "# role 可选: user/developer/department_admin;dept_id 为部门标识;password 留空则自动生成\n")

@@ -1,1 +1,68 @@
-IiIicGxhdGZvcm1fc3RvcmFnZS5zaXRlX2V4cG9ydCDigJQg5pW056uZ5a+85Ye6L+WvvOWFpSjmkKzov4HCt+Wkh+S7vcK357uZ5LmZ5pa55Yid5aeL5YyWKeOAggoKREFUQV9ESVIg6YeM5ZCrOuWFs+ezu+W6kygqLmRiKeOAgeWQkemHj+W6kyh2ZWN0b3JzLmRiKeOAgeWvueixoShibG9icy8p44CB5ZCE6YWN572uIGpzb27jgIIKZXhwb3J0OuaJk+WMhSBEQVRBX0RJUiDihpIgdGFyLmd6ICsgbWFuaWZlc3Qo54mI5pysL+aXtumXtC/mlofku7bmuIXljZUv5qCh6aqMKeOAggppbXBvcnQ65a6J5YWo6Kej5YyF5ZueIERBVEFfRElSKOWPr+mAieWFiOWkh+S7veWOn+ebruW9lSnjgILmlbTnq5nmkKzov4EgPSBleHBvcnQg5ZCO5ou35Yiw5paw5py6IGltcG9ydOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgaGFzaGxpYiwgaW8sIGpzb24sIG9zLCB0YXJmaWxlLCB0aW1lCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0CgpNQU5JRkVTVCA9ICJfc2l0ZV9tYW5pZmVzdC5qc29uIgpGT1JNQVRfVkVSU0lPTiA9ICIxLjAiCgoKZGVmIGV4cG9ydF9zaXRlKGRhdGFfZGlyOiBzdHIsIG91dF9wYXRoOiBzdHIsIHBsYXRmb3JtX3ZlcnNpb246IHN0ciA9ICIiKSAtPiBEaWN0OgogICAgZmlsZXMgPSBbXQogICAgZm9yIHJvb3QsIF8sIGZzIGluIG9zLndhbGsoZGF0YV9kaXIpOgogICAgICAgIGZvciBmIGluIGZzOgogICAgICAgICAgICBmdWxsID0gb3MucGF0aC5qb2luKHJvb3QsIGYpCiAgICAgICAgICAgIHJlbCA9IG9zLnBhdGgucmVscGF0aChmdWxsLCBkYXRhX2RpcikKICAgICAgICAgICAgaWYgcmVsID09IE1BTklGRVNUOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZmlsZXMuYXBwZW5kKHJlbCkKICAgICAgICAgICAgXyA9IGZ1bGwKICAgIG1hbmlmZXN0ID0gewogICAgICAgICJmb3JtYXQiOiBGT1JNQVRfVkVSU0lPTiwgInBsYXRmb3JtX3ZlcnNpb24iOiBwbGF0Zm9ybV92ZXJzaW9uLAogICAgICAgICJjcmVhdGVkX2F0IjogaW50KHRpbWUudGltZSgpKSwgImZpbGVfY291bnQiOiBsZW4oZmlsZXMpLCAiZmlsZXMiOiBzb3J0ZWQoZmlsZXMpLAogICAgfQogICAgd2l0aCB0YXJmaWxlLm9wZW4ob3V0X3BhdGgsICJ3Omd6IikgYXMgdGFyOgogICAgICAgIG1kYXRhID0ganNvbi5kdW1wcyhtYW5pZmVzdCwgZW5zdXJlX2FzY2lpPUZhbHNlKS5lbmNvZGUoKQogICAgICAgIGluZm8gPSB0YXJmaWxlLlRhckluZm8oTUFOSUZFU1QpOyBpbmZvLnNpemUgPSBsZW4obWRhdGEpCiAgICAgICAgdGFyLmFkZGZpbGUoaW5mbywgaW8uQnl0ZXNJTyhtZGF0YSkpCiAgICAgICAgZm9yIHJlbCBpbiBmaWxlczoKICAgICAgICAgICAgdGFyLmFkZChvcy5wYXRoLmpvaW4oZGF0YV9kaXIsIHJlbCksIGFyY25hbWU9cmVsKQogICAgcmV0dXJuIHsib3V0Ijogb3V0X3BhdGgsICJmaWxlX2NvdW50IjogbGVuKGZpbGVzKSwgInNpemUiOiBvcy5wYXRoLmdldHNpemUob3V0X3BhdGgpfQoKCmRlZiByZWFkX21hbmlmZXN0KHRhcl9wYXRoOiBzdHIpIC0+IERpY3Q6CiAgICB3aXRoIHRhcmZpbGUub3Blbih0YXJfcGF0aCwgInI6Z3oiKSBhcyB0YXI6CiAgICAgICAgbSA9IHRhci5leHRyYWN0ZmlsZShNQU5JRkVTVCkKICAgICAgICBpZiBub3QgbToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigi5LiN5piv5ZCI5rOV55qE5pW056uZ5aSH5Lu95YyFKOe8uiBtYW5pZmVzdCkiKQogICAgICAgIHJldHVybiBqc29uLmxvYWRzKG0ucmVhZCgpLmRlY29kZSgpKQoKCmRlZiBfc2FmZV9tZW1iZXJzKHRhcjogdGFyZmlsZS5UYXJGaWxlLCBkZXN0OiBzdHIpOgogICAgZGVzdF9hYnMgPSBvcy5wYXRoLmFic3BhdGgoZGVzdCkKICAgIGZvciBtIGluIHRhci5nZXRtZW1iZXJzKCk6CiAgICAgICAgcCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oZGVzdCwgbS5uYW1lKSkKICAgICAgICBpZiBub3QgcC5zdGFydHN3aXRoKGRlc3RfYWJzICsgb3Muc2VwKSBhbmQgcCAhPSBkZXN0X2FiczoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIumdnuazlei3r+W+hCjnqb/otoopOnttLm5hbWV9IikKICAgICAgICBpZiBtLmlzc3ltKCkgb3IgbS5pc2xuaygpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYi5ouS57ud56ym5Y+3L+ehrOmTvuaOpTp7bS5uYW1lfSIpCiAgICAgICAgeWllbGQgbQoKCmRlZiBpbXBvcnRfc2l0ZSh0YXJfcGF0aDogc3RyLCBkYXRhX2Rpcjogc3RyLCBvdmVyd3JpdGU6IGJvb2wgPSBGYWxzZSkgLT4gRGljdDoKICAgIG1hbmlmZXN0ID0gcmVhZF9tYW5pZmVzdCh0YXJfcGF0aCkKICAgIG9zLm1ha2VkaXJzKGRhdGFfZGlyLCBleGlzdF9vaz1UcnVlKQogICAgaWYgb3MubGlzdGRpcihkYXRhX2RpcikgYW5kIG5vdCBvdmVyd3JpdGU6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigi55uu5qCHIERBVEFfRElSIOmdnuepujvnoa7orqTlkI7nlKggb3ZlcndyaXRlPVRydWUo5bu66K6u5YWI5aSH5Lu9KSIpCiAgICB3aXRoIHRhcmZpbGUub3Blbih0YXJfcGF0aCwgInI6Z3oiKSBhcyB0YXI6CiAgICAgICAgbWVtYmVycyA9IFttIGZvciBtIGluIF9zYWZlX21lbWJlcnModGFyLCBkYXRhX2RpcikgaWYgbS5uYW1lICE9IE1BTklGRVNUXQogICAgICAgIGZvciBtIGluIG1lbWJlcnM6CiAgICAgICAgICAgIHRhci5leHRyYWN0KG0sIGRhdGFfZGlyKQogICAgcmV0dXJuIHsiaW1wb3J0ZWRfZmlsZXMiOiBsZW4obWFuaWZlc3QuZ2V0KCJmaWxlcyIsIFtdKSksCiAgICAgICAgICAgICJwbGF0Zm9ybV92ZXJzaW9uIjogbWFuaWZlc3QuZ2V0KCJwbGF0Zm9ybV92ZXJzaW9uIiwgIiIpLAogICAgICAgICAgICAiY3JlYXRlZF9hdCI6IG1hbmlmZXN0LmdldCgiY3JlYXRlZF9hdCIpfQo=
+"""platform_storage.site_export — 整站导出/导入(搬迁·备份·给乙方初始化)。
+
+DATA_DIR 里含:关系库(*.db)、向量库(vectors.db)、对象(blobs/)、各配置 json。
+export:打包 DATA_DIR → tar.gz + manifest(版本/时间/文件清单/校验)。
+import:安全解包回 DATA_DIR(可选先备份原目录)。整站搬迁 = export 后拷到新机 import。
+"""
+from __future__ import annotations
+import hashlib, io, json, os, tarfile, time
+from typing import Dict
+
+MANIFEST = "_site_manifest.json"
+FORMAT_VERSION = "1.0"
+
+
+def export_site(data_dir: str, out_path: str, platform_version: str = "") -> Dict:
+    files = []
+    for root, _, fs in os.walk(data_dir):
+        for f in fs:
+            full = os.path.join(root, f)
+            rel = os.path.relpath(full, data_dir)
+            if rel == MANIFEST:
+                continue
+            files.append(rel)
+            _ = full
+    manifest = {
+        "format": FORMAT_VERSION, "platform_version": platform_version,
+        "created_at": int(time.time()), "file_count": len(files), "files": sorted(files),
+    }
+    with tarfile.open(out_path, "w:gz") as tar:
+        mdata = json.dumps(manifest, ensure_ascii=False).encode()
+        info = tarfile.TarInfo(MANIFEST); info.size = len(mdata)
+        tar.addfile(info, io.BytesIO(mdata))
+        for rel in files:
+            tar.add(os.path.join(data_dir, rel), arcname=rel)
+    return {"out": out_path, "file_count": len(files), "size": os.path.getsize(out_path)}
+
+
+def read_manifest(tar_path: str) -> Dict:
+    with tarfile.open(tar_path, "r:gz") as tar:
+        m = tar.extractfile(MANIFEST)
+        if not m:
+            raise ValueError("不是合法的整站备份包(缺 manifest)")
+        return json.loads(m.read().decode())
+
+
+def _safe_members(tar: tarfile.TarFile, dest: str):
+    dest_abs = os.path.abspath(dest)
+    for m in tar.getmembers():
+        p = os.path.abspath(os.path.join(dest, m.name))
+        if not p.startswith(dest_abs + os.sep) and p != dest_abs:
+            raise ValueError(f"非法路径(穿越):{m.name}")
+        if m.issym() or m.islnk():
+            raise ValueError(f"拒绝符号/硬链接:{m.name}")
+        yield m
+
+
+def import_site(tar_path: str, data_dir: str, overwrite: bool = False) -> Dict:
+    manifest = read_manifest(tar_path)
+    os.makedirs(data_dir, exist_ok=True)
+    if os.listdir(data_dir) and not overwrite:
+        raise ValueError("目标 DATA_DIR 非空;确认后用 overwrite=True(建议先备份)")
+    with tarfile.open(tar_path, "r:gz") as tar:
+        members = [m for m in _safe_members(tar, data_dir) if m.name != MANIFEST]
+        for m in members:
+            tar.extract(m, data_dir)
+    return {"imported_files": len(manifest.get("files", [])),
+            "platform_version": manifest.get("platform_version", ""),
+            "created_at": manifest.get("created_at")}

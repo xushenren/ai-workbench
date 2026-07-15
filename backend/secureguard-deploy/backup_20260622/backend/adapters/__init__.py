@@ -1,1 +1,6 @@
-IiIiYmFja2VuZC5hZGFwdGVycyDigJQg55yf5a6e5ZCO56uv6YCC6YWN5Zmo77yIQjfvvInjgILlhajpg6ggaW1wb3J0LWd1YXJkZWTvvIzml6Dkvp3otZbml7bnsbvku43lj6/lr7zlhaXjgIIiIiIKZnJvbSAudmxsbV9tb2RlbCBpbXBvcnQgVkxMTU1vZGVsCmZyb20gLmNocm9tYV9zdG9yZSBpbXBvcnQgQ2hyb21hVmVjdG9yU3RvcmUKZnJvbSAucmVkaXNfcXVvdGEgaW1wb3J0IFJlZGlzUXVvdGFTZXJ2aWNlCgpfX2FsbF9fID0gWyJWTExNTW9kZWwiLCAiQ2hyb21hVmVjdG9yU3RvcmUiLCAiUmVkaXNRdW90YVNlcnZpY2UiXQo=
+"""backend.adapters — 真实后端适配器（B7）。全部 import-guarded，无依赖时类仍可导入。"""
+from .vllm_model import VLLMModel
+from .chroma_store import ChromaVectorStore
+from .redis_quota import RedisQuotaService
+
+__all__ = ["VLLMModel", "ChromaVectorStore", "RedisQuotaService"]

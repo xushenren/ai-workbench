@@ -1,1 +1,142 @@
-IiIidGVzdHMvdGVzdF9zZXNzaW9uX3N0b3JlLnB5IOKAlCDlr7nor53mjIHkuYXljJYgKyDlpJrova7orrDlv4YgKyDnqpflj6PnrqHnkIbvvIjpl67popg0IOesrDHmraXvvInjgIIiIiIKaW1wb3J0IHN5cywgb3MsIGFzeW5jaW8sIHRlbXBmaWxlCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKCmZyb20gYmFja2VuZC5zZXNzaW9uX3N0b3JlIGltcG9ydCBJbk1lbW9yeVNlc3Npb25TdG9yZSwgU1FMaXRlU2Vzc2lvblN0b3JlLCBidWlsZF9zZXNzaW9uX3N0b3JlCmZyb20gYmFja2VuZC5zdGF0ZSBpbXBvcnQgQXBwU3RhdGUKZnJvbSBiYWNrZW5kLmNoYXRfc2VydmljZSBpbXBvcnQgcnVuX2NoYXQKCgojIC0tLS0tLS0tLS0g5oyB5LmF5YyW5Z+65pys5Yqf6IO9IC0tLS0tLS0tLS0KZGVmIHRlc3RfYXBwZW5kX2FuZF9tZXNzYWdlcygpOgogICAgcyA9IEluTWVtb3J5U2Vzc2lvblN0b3JlKCkKICAgIHMuYXBwZW5kKCJzMSIsICJ1c2VyIiwgIuS9oOWlvSIpCiAgICBzLmFwcGVuZCgiczEiLCAiYXNzaXN0YW50IiwgIuS9oOWlve+8jOacieS7gOS5iOWPr+S7peW4ruS9oCIpCiAgICBtcyA9IHMubWVzc2FnZXMoInMxIikKICAgIGFzc2VydCBsZW4obXMpID09IDIgYW5kIG1zWzBdLnJvbGUgPT0gInVzZXIiIGFuZCBtc1sxXS5yb2xlID09ICJhc3Npc3RhbnQiCgoKZGVmIHRlc3RfZmlyc3RfdXNlcl9tZXNzYWdlX2JlY29tZXNfdGl0bGUoKToKICAgIHMgPSBJbk1lbW9yeVNlc3Npb25TdG9yZSgpCiAgICBzLmFwcGVuZCgiczEiLCAidXNlciIsICLpo47nrqHpqozmlLbmoIflh4bmmK/ku4DkuYgiKQogICAgYXNzZXJ0ICLpo47nrqHpqozmlLYiIGluIHMubGlzdF9zZXNzaW9ucygpWzBdWyJ0aXRsZSJdCgoKZGVmIHRlc3RfbGlzdF9zZXNzaW9uc19ieV91c2VyX3NvcnRlZCgpOgogICAgcyA9IEluTWVtb3J5U2Vzc2lvblN0b3JlKCkKICAgIHMuYXBwZW5kKCJhIiwgInVzZXIiLCAi6Zeu6aKYQSIsIHVzZXJfaWQ9InUxIikKICAgIHMuYXBwZW5kKCJiIiwgInVzZXIiLCAi6Zeu6aKYQiIsIHVzZXJfaWQ9InUxIikKICAgIHMuYXBwZW5kKCJjIiwgInVzZXIiLCAi6Zeu6aKYQyIsIHVzZXJfaWQ9InUyIikKICAgIG1pbmUgPSBzLmxpc3Rfc2Vzc2lvbnModXNlcl9pZD0idTEiKQogICAgYXNzZXJ0IHttWyJpZCJdIGZvciBtIGluIG1pbmV9ID09IHsiYSIsICJiIn0KCgpkZWYgdGVzdF9zZWFyY2hfYnlfY29udGVudCgpOgogICAgcyA9IEluTWVtb3J5U2Vzc2lvblN0b3JlKCkKICAgIHMuYXBwZW5kKCJzMSIsICJ1c2VyIiwgIuWmguS9leiuoeeul+a8j+mjjueOhyIsIHVzZXJfaWQ9InUxIikKICAgIHMuYXBwZW5kKCJzMiIsICJ1c2VyIiwgIuS7iuWkqeWkqeawlCIsIHVzZXJfaWQ9InUxIikKICAgIGhpdHMgPSBzLnNlYXJjaCgidTEiLCAi5ryP6aOO546HIikKICAgIGFzc2VydCBsZW4oaGl0cykgPT0gMSBhbmQgaGl0c1swXVsiaWQiXSA9PSAiczEiCgoKZGVmIHRlc3RfcmVuYW1lX2FuZF9kZWxldGUoKToKICAgIHMgPSBJbk1lbW9yeVNlc3Npb25TdG9yZSgpCiAgICBzLmFwcGVuZCgiczEiLCAidXNlciIsICLljp/moIfpopgiKQogICAgYXNzZXJ0IHMucmVuYW1lKCJzMSIsICLmlrDmoIfpopgiKSBhbmQgcy5saXN0X3Nlc3Npb25zKClbMF1bInRpdGxlIl0gPT0gIuaWsOagh+mimCIKICAgIGFzc2VydCBzLmRlbGV0ZSgiczEiKSBhbmQgcy5tZXNzYWdlcygiczEiKSA9PSBbXQoKCiMgLS0tLS0tLS0tLSDnqpflj6PnrqHnkIbvvJrpmLIgdG9rZW4g5pq05raoIC0tLS0tLS0tLS0KZGVmIHRlc3Rfd2luZG93X2tlZXBzX3JlY2VudF9zdW1tYXJpemVzX29sZCgpOgogICAgcyA9IEluTWVtb3J5U2Vzc2lvblN0b3JlKCkKICAgIGZvciBpIGluIHJhbmdlKDIwKTogICMgMjAg5p2hIHVzZXIg5raI5oGvCiAgICAgICAgcy5hcHBlbmQoInMxIiwgInVzZXIiLCBmIumXrumimHtpfSIpCiAgICAgICAgcy5hcHBlbmQoInMxIiwgImFzc2lzdGFudCIsIGYi5Zue562Ue2l9IikKICAgIGN0eCA9IHMuYnVpbGRfY29udGV4dCgiczEiLCBtYXhfdHVybnM9MykKICAgICMg5pyA6L+RIDMg6L2u6YCQ5a2X5L+d55WZCiAgICBhc3NlcnQgIumXrumimDE5IiBpbiBjdHggYW5kICLlm57nrZQxOSIgaW4gY3R4CiAgICAjIOaXqeacn+iiq+WOi+aIkOaRmOimge+8jOS4jemAkOWtlwogICAgYXNzZXJ0ICJb5pep5pyf5a+56K+d5pGY6KaBXSIgaW4gY3R4CiAgICBhc3NlcnQgIumXrumimDDvvJoiIG5vdCBpbiBjdHggICMg5pep5pyf5LiN6YCQ5a2X5Ye6546wCgoKZGVmIHRlc3RfZW1wdHlfY29udGV4dCgpOgogICAgYXNzZXJ0IEluTWVtb3J5U2Vzc2lvblN0b3JlKCkuYnVpbGRfY29udGV4dCgibm9uZSIpID09ICIiCgoKIyAtLS0tLS0tLS0tIFNRTGl0ZSDmjIHkuYXljJbvvJrliLfmlrAv6YeN5ZCv5LiN5LiiIC0tLS0tLS0tLS0KZGVmIHRlc3Rfc3FsaXRlX3BlcnNpc3RzX2Fjcm9zc19yZW9wZW4oKToKICAgIHBhdGggPSB0ZW1wZmlsZS5ta3RlbXAoc3VmZml4PSIuZGIiKQogICAgdHJ5OgogICAgICAgIHMxID0gU1FMaXRlU2Vzc2lvblN0b3JlKHBhdGgpCiAgICAgICAgczEuYXBwZW5kKCJzMSIsICJ1c2VyIiwgIuaMgeS5heWMlua1i+ivlSIsIHVzZXJfaWQ9InUxIikKICAgICAgICBzMS5hcHBlbmQoInMxIiwgImFzc2lzdGFudCIsICLlt7LorrDkvY8iKQogICAgICAgICMg6YeN5paw5omT5byAIOKGkiDmlbDmja7ov5jlnKgKICAgICAgICBzMiA9IFNRTGl0ZVNlc3Npb25TdG9yZShwYXRoKQogICAgICAgIG1zID0gczIubWVzc2FnZXMoInMxIikKICAgICAgICBhc3NlcnQgbGVuKG1zKSA9PSAyIGFuZCBtc1swXS5jb250ZW50ID09ICLmjIHkuYXljJbmtYvor5UiCiAgICAgICAgYXNzZXJ0IHMyLmxpc3Rfc2Vzc2lvbnModXNlcl9pZD0idTEiKVswXVsiaWQiXSA9PSAiczEiCiAgICBmaW5hbGx5OgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHBhdGgpOgogICAgICAgICAgICBvcy51bmxpbmsocGF0aCkKCgojIC0tLS0tLS0tLS0g56uv5Yiw56uv77ya5aSa6L2u6K6w5b+G55Sf5pWIIC0tLS0tLS0tLS0KZGVmIHRlc3RfbXVsdGl0dXJuX21lbW9yeV9pbmplY3RlZCgpOgogICAgIiIi56ys5LqM6L2u6K+35rGC5pe277yM5Y6G5Y+y5bqU6KKr5rOo5YWl77yI5qih5Z6LIHByb21wdCDph4zog73nnIvliLDkuIrkuIDova7vvInjgIIiIiIKICAgIHN0ID0gQXBwU3RhdGUoKQogICAgYXN5bmMgZGVmIHR1cm4obXNnKToKICAgICAgICBvdXQgPSAiIgogICAgICAgIGFzeW5jIGZvciBldiBpbiBydW5fY2hhdChzdCwgbXNnLCBhZ2VudF9pZD0iZ2VuZXJhbCIsIHNlc3Npb25faWQ9InNlc3MxIik6CiAgICAgICAgICAgIGlmIGV2WyJldmVudCJdID09ICJkZWx0YSI6CiAgICAgICAgICAgICAgICBvdXQgKz0gZXZbInRleHQiXQogICAgICAgIHJldHVybiBvdXQKICAgIGFzeW5jaW8ucnVuKHR1cm4oIumjjueuoemqjOaUtuagh+WHhiIpKQogICAgIyDnrKzkuIDova7lkI7vvIzkvJror53ph4zlupTmnIkgdXNlcithc3Npc3RhbnQg5Lik5p2hCiAgICBtc2dzID0gc3Quc2Vzc2lvbnMubWVzc2FnZXMoInNlc3MxIikKICAgIGFzc2VydCBsZW4obXNncykgPT0gMiBhbmQgbXNnc1swXS5yb2xlID09ICJ1c2VyIgogICAgIyDnrKzkuozova7vvJpidWlsZF9jb250ZXh0IOW6lOWMheWQq+esrOS4gOi9ruWGheWuue+8iOWkmui9ruiusOW/hu+8iQogICAgY3R4ID0gc3Quc2Vzc2lvbnMuYnVpbGRfY29udGV4dCgic2VzczEiKQogICAgYXNzZXJ0ICLpo47nrqHpqozmlLbmoIflh4YiIGluIGN0eAogICAgYXN5bmNpby5ydW4odHVybigi57un57utIikpCiAgICBhc3NlcnQgbGVuKHN0LnNlc3Npb25zLm1lc3NhZ2VzKCJzZXNzMSIpKSA9PSA0ICAjIOe0r+enr+Wbm+adoQoKCmRlZiB0ZXN0X2J1aWxkX3Nlc3Npb25fc3RvcmVfZGVmYXVsdF9pbm1lbW9yeSgpOgogICAgYXNzZXJ0IGlzaW5zdGFuY2UoYnVpbGRfc2Vzc2lvbl9zdG9yZSgpLCBJbk1lbW9yeVNlc3Npb25TdG9yZSkKCgojIC0tLS0tLS0tLS0g6Leo5Lya6K+d5byV55So77yI56ysM+atpe+8iSAtLS0tLS0tLS0tCmRlZiB0ZXN0X2J1aWxkX3JlZmVyZW5jZV9zdW1tYXJpemVzX290aGVyX3Nlc3Npb24oKToKICAgIHMgPSBJbk1lbW9yeVNlc3Npb25TdG9yZSgpCiAgICAjIOS8muivnSBB77ya6IGK5LqG6aOO566h6aqM5pS2CiAgICBzLmFwcGVuZCgiQSIsICJ1c2VyIiwgIumjjueuoemqjOaUtueahOa8j+mjjueOh+aAjuS5iOeulyIsIHVzZXJfaWQ9InUxIikKICAgIHMuYXBwZW5kKCJBIiwgImFzc2lzdGFudCIsICLmvI/po47njofmjIkgR0I1MDI0MyDorqHnrpciLCB1c2VyX2lkPSJ1MSIpCiAgICByZWYgPSBzLmJ1aWxkX3JlZmVyZW5jZShbIkEiXSkKICAgIGFzc2VydCAi44CQ5byV55So5Lya6K+dIiBpbiByZWYgYW5kICLmvI/po47njociIGluIHJlZgoKCmRlZiB0ZXN0X2J1aWxkX3JlZmVyZW5jZV9tdWx0aXBsZV9hbmRfZW1wdHkoKToKICAgIHMgPSBJbk1lbW9yeVNlc3Npb25TdG9yZSgpCiAgICBzLmFwcGVuZCgiQSIsICJ1c2VyIiwgIumXrumimEEiLCB1c2VyX2lkPSJ1MSIpCiAgICBzLmFwcGVuZCgiQiIsICJ1c2VyIiwgIumXrumimEIiLCB1c2VyX2lkPSJ1MSIpCiAgICByZWYgPSBzLmJ1aWxkX3JlZmVyZW5jZShbIkEiLCAiQiIsICLkuI3lrZjlnKgiXSkKICAgIGFzc2VydCAi6Zeu6aKYQSIgaW4gcmVmIGFuZCAi6Zeu6aKYQiIgaW4gcmVmICAjIOS4jeWtmOWcqOeahOS8muivneiiq+i3s+i/hwogICAgYXNzZXJ0IHMuYnVpbGRfcmVmZXJlbmNlKFtdKSA9PSAiIgoKCmRlZiB0ZXN0X3JlZmVyZW5jZV9pbmplY3RlZF9lbmRfdG9fZW5kKCk6CiAgICAiIiLot6jkvJror53lvJXnlKjnq6/liLDnq6/vvJrlvJXnlKjliKvnmoTkvJror53vvIxwcm9tcHQg6YeM5Ye6546w5byV55So5Z2X44CCIiIiCiAgICBzdCA9IEFwcFN0YXRlKCkKICAgIGFzeW5jIGRlZiB0dXJuKG1zZywgcmVmcz1Ob25lKToKICAgICAgICBvdXQgPSAiIgogICAgICAgIGFzeW5jIGZvciBldiBpbiBydW5fY2hhdChzdCwgbXNnLCBhZ2VudF9pZD0iZ2VuZXJhbCIsIHNlc3Npb25faWQ9ImN1ciIsIHJlZl9zZXNzaW9ucz1yZWZzKToKICAgICAgICAgICAgaWYgZXZbImV2ZW50Il0gPT0gImRlbHRhIjoKICAgICAgICAgICAgICAgIG91dCArPSBldlsidGV4dCJdCiAgICAgICAgcmV0dXJuIG91dAogICAgIyDlhYjlnKjlj6bkuIDkuKrkvJror50gJ3Bhc3QnIOWtmOeCueWGheWuuQogICAgc3Quc2Vzc2lvbnMuYXBwZW5kKCJwYXN0IiwgInVzZXIiLCAi5bmC562J5oCn5piv5LuA5LmIIiwgdXNlcl9pZD1Ob25lKQogICAgc3Quc2Vzc2lvbnMuYXBwZW5kKCJwYXN0IiwgImFzc2lzdGFudCIsICLlkIzkuIDmk43kvZzlpJrmrKHmiafooYznu5PmnpzkuIDoh7QiLCB1c2VyX2lkPU5vbmUpCiAgICAjIOW9k+WJjeS8muivneW8leeUqCAncGFzdCcKICAgIHJlZiA9IHN0LnNlc3Npb25zLmJ1aWxkX3JlZmVyZW5jZShbInBhc3QiXSkKICAgIGFzc2VydCAi5bmC562J5oCnIiBpbiByZWYgICMg5byV55So5YaF5a6556Gu5a6e5YyF5ZCr6KKr5byV55So5Lya6K+dCg==
+"""tests/test_session_store.py — 对话持久化 + 多轮记忆 + 窗口管理（问题4 第1步）。"""
+import sys, os, asyncio, tempfile
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.session_store import InMemorySessionStore, SQLiteSessionStore, build_session_store
+from backend.state import AppState
+from backend.chat_service import run_chat
+
+
+# ---------- 持久化基本功能 ----------
+def test_append_and_messages():
+    s = InMemorySessionStore()
+    s.append("s1", "user", "你好")
+    s.append("s1", "assistant", "你好，有什么可以帮你")
+    ms = s.messages("s1")
+    assert len(ms) == 2 and ms[0].role == "user" and ms[1].role == "assistant"
+
+
+def test_first_user_message_becomes_title():
+    s = InMemorySessionStore()
+    s.append("s1", "user", "风管验收标准是什么")
+    assert "风管验收" in s.list_sessions()[0]["title"]
+
+
+def test_list_sessions_by_user_sorted():
+    s = InMemorySessionStore()
+    s.append("a", "user", "问题A", user_id="u1")
+    s.append("b", "user", "问题B", user_id="u1")
+    s.append("c", "user", "问题C", user_id="u2")
+    mine = s.list_sessions(user_id="u1")
+    assert {m["id"] for m in mine} == {"a", "b"}
+
+
+def test_search_by_content():
+    s = InMemorySessionStore()
+    s.append("s1", "user", "如何计算漏风率", user_id="u1")
+    s.append("s2", "user", "今天天气", user_id="u1")
+    hits = s.search("u1", "漏风率")
+    assert len(hits) == 1 and hits[0]["id"] == "s1"
+
+
+def test_rename_and_delete():
+    s = InMemorySessionStore()
+    s.append("s1", "user", "原标题")
+    assert s.rename("s1", "新标题") and s.list_sessions()[0]["title"] == "新标题"
+    assert s.delete("s1") and s.messages("s1") == []
+
+
+# ---------- 窗口管理：防 token 暴涨 ----------
+def test_window_keeps_recent_summarizes_old():
+    s = InMemorySessionStore()
+    for i in range(20):  # 20 条 user 消息
+        s.append("s1", "user", f"问题{i}")
+        s.append("s1", "assistant", f"回答{i}")
+    ctx = s.build_context("s1", max_turns=3)
+    # 最近 3 轮逐字保留
+    assert "问题19" in ctx and "回答19" in ctx
+    # 早期被压成摘要，不逐字
+    assert "[早期对话摘要]" in ctx
+    assert "问题0：" not in ctx  # 早期不逐字出现
+
+
+def test_empty_context():
+    assert InMemorySessionStore().build_context("none") == ""
+
+
+# ---------- SQLite 持久化：刷新/重启不丢 ----------
+def test_sqlite_persists_across_reopen():
+    path = tempfile.mktemp(suffix=".db")
+    try:
+        s1 = SQLiteSessionStore(path)
+        s1.append("s1", "user", "持久化测试", user_id="u1")
+        s1.append("s1", "assistant", "已记住")
+        # 重新打开 → 数据还在
+        s2 = SQLiteSessionStore(path)
+        ms = s2.messages("s1")
+        assert len(ms) == 2 and ms[0].content == "持久化测试"
+        assert s2.list_sessions(user_id="u1")[0]["id"] == "s1"
+    finally:
+        if os.path.exists(path):
+            os.unlink(path)
+
+
+# ---------- 端到端：多轮记忆生效 ----------
+def test_multiturn_memory_injected():
+    """第二轮请求时，历史应被注入（模型 prompt 里能看到上一轮）。"""
+    st = AppState()
+    async def turn(msg):
+        out = ""
+        async for ev in run_chat(st, msg, agent_id="general", session_id="sess1"):
+            if ev["event"] == "delta":
+                out += ev["text"]
+        return out
+    asyncio.run(turn("风管验收标准"))
+    # 第一轮后，会话里应有 user+assistant 两条
+    msgs = st.sessions.messages("sess1")
+    assert len(msgs) == 2 and msgs[0].role == "user"
+    # 第二轮：build_context 应包含第一轮内容（多轮记忆）
+    ctx = st.sessions.build_context("sess1")
+    assert "风管验收标准" in ctx
+    asyncio.run(turn("继续"))
+    assert len(st.sessions.messages("sess1")) == 4  # 累积四条
+
+
+def test_build_session_store_default_inmemory():
+    assert isinstance(build_session_store(), InMemorySessionStore)
+
+
+# ---------- 跨会话引用（第3步） ----------
+def test_build_reference_summarizes_other_session():
+    s = InMemorySessionStore()
+    # 会话 A：聊了风管验收
+    s.append("A", "user", "风管验收的漏风率怎么算", user_id="u1")
+    s.append("A", "assistant", "漏风率按 GB50243 计算", user_id="u1")
+    ref = s.build_reference(["A"])
+    assert "【引用会话" in ref and "漏风率" in ref
+
+
+def test_build_reference_multiple_and_empty():
+    s = InMemorySessionStore()
+    s.append("A", "user", "问题A", user_id="u1")
+    s.append("B", "user", "问题B", user_id="u1")
+    ref = s.build_reference(["A", "B", "不存在"])
+    assert "问题A" in ref and "问题B" in ref  # 不存在的会话被跳过
+    assert s.build_reference([]) == ""
+
+
+def test_reference_injected_end_to_end():
+    """跨会话引用端到端：引用别的会话，prompt 里出现引用块。"""
+    st = AppState()
+    async def turn(msg, refs=None):
+        out = ""
+        async for ev in run_chat(st, msg, agent_id="general", session_id="cur", ref_sessions=refs):
+            if ev["event"] == "delta":
+                out += ev["text"]
+        return out
+    # 先在另一个会话 'past' 存点内容
+    st.sessions.append("past", "user", "幂等性是什么", user_id=None)
+    st.sessions.append("past", "assistant", "同一操作多次执行结果一致", user_id=None)
+    # 当前会话引用 'past'
+    ref = st.sessions.build_reference(["past"])
+    assert "幂等性" in ref  # 引用内容确实包含被引用会话

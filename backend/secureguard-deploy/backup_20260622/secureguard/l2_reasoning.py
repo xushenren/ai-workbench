@@ -1,1 +1,362 @@
-IiIic2VjdXJlZ3VhcmQubDJfcmVhc29uaW5nIOKAlCBMMiDmjqjnkIblsYLvvIjmqKHlnosgKyBSQUfvvInjgIIKCuS4uuS6huiuqeaVtOadoeS6lOWxgua1geawtOe6v+WcqOaXoCBHUFXjgIHml6DnvZHnu5znjq/looPkuZ/og73nq6/liLDnq6/ot5HpgJrvvIzmnKzlsYLmiormqKHlnovkuI4K5ZCR6YeP5bqT5oq96LGh5oiQ5o6l5Y+j77yM5bm25o+Q5L6b77yaCiAgLSBNb2NrTW9kZWwgLyBJbk1lbW9yeVZlY3RvclN0b3Jl77ya57qv5qCH5YeG5bqT5a6e546w77yM56a757q/5Y+v6LeR44CB6KGM5Li656Gu5a6a44CCCiAgLSBWTExNTW9kZWwgLyBDaHJvbWFWZWN0b3JTdG9yZe+8muecn+WunumDqOe9sumAgumFjeWZqO+8jOS7heW9k+S+nei1luS4juacjeWKoeWPr+eUqOaXtuWQr+eUqOOAggogIC0gUkFHUGlwZWxpbmXvvJrmo4DntKLihpLmi7zmjqXlj6/kv6HmlofmoaPihpLnlJ/miJDvvIzlvLrliLbmnaXmupDmoIfms6jkuI7igJzml6DotYTmlpnliJnor7TkuI3nn6XpgZPigJ3jgIIKICAtIFN0ZXB3aXNlUmVhc29uZXLvvJrpl67popjmi4bop6MgKyDkuLvliqjor4HkvKogKyDnva7kv6HluqbvvIzmlK/mkpHmgJ3ogIPov4fnqIvlj6/op4bljJbjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCByZQpmcm9tIGFiYyBpbXBvcnQgQUJDLCBhYnN0cmFjdG1ldGhvZApmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIENhbGxhYmxlLCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCiMg5o6l5Y+j5LiO5pWw5o2u57G7CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCkBkYXRhY2xhc3MKY2xhc3MgRG9jOgogICAgIiIi5qOA57Si6L+U5Zue55qE5Y2V56+H5paH5qGj44CCIiIiCgogICAgaWQ6IHN0cgogICAgY29udGVudDogc3RyCiAgICBtZXRhZGF0YTogRGljdFtzdHIsIEFueV0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9ZGljdCkKCgpjbGFzcyBNb2RlbEJhY2tlbmQoQUJDKToKICAgICIiIuivreiogOaooeWei+WQjuerr+aOpeWPo+OAgiIiIgoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGdlbmVyYXRlKHNlbGYsIHByb21wdDogc3RyLCAqKmt3YXJncykgLT4gc3RyOgogICAgICAgIC4uLgoKCmNsYXNzIFZlY3RvclN0b3JlKEFCQyk6CiAgICAiIiLlkJHph4/lupPmjqXlj6PjgIIiIiIKCiAgICBAYWJzdHJhY3RtZXRob2QKICAgIGRlZiBzZWFyY2goc2VsZiwgcXVlcnk6IHN0ciwgazogaW50ID0gNSkgLT4gTGlzdFtEb2NdOgogICAgICAgIC4uLgoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGFkZChzZWxmLCBkb2M6IERvYykgLT4gTm9uZToKICAgICAgICAuLi4KCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwojIOemu+e6vyBNb2NrIOWunueOsO+8iOm7mOiupO+8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwpjbGFzcyBNb2NrTW9kZWwoTW9kZWxCYWNrZW5kKToKICAgICIiIuehruWumuaApyBNb2NrIOaooeWei++8muemu+e6v+OAgeWPr+a1i+ivleOAggoKICAgIOagueaNriBwcm9tcHQg5Lit55qE5qCH6K6w6L+U5Zue57uT5p6E5YyW57uT5p6c77yaCiAgICAgIC0g5ZCrIFJBRyDmlofmoaPlnZcg4oaSIOaKveWPliBbZG9jX3hdIOeUn+aIkOW4puW8leeUqOeahOKAnOaOpeWcsOKAneWbnuetlOOAggogICAgICAtIOWQq+KAnOaLhuino+S4uuKAnSDihpIg6L+U5ZueIEpTT04g5a2Q5q2l6aqk44CCCiAgICAgIC0g5ZCr4oCc5Li75Yqo6K+B5Lyq4oCdIOKGkiDov5Tlm57luKbor4HkvKrmrrXnmoTlm57nrZTjgIIKICAgICIiIgoKICAgIGRlZiBnZW5lcmF0ZShzZWxmLCBwcm9tcHQ6IHN0ciwgKiprd2FyZ3MpIC0+IHN0cjoKICAgICAgICAjIE1EIOiEmuaJi+aetuaooeW8j++8muaPkOekuuivjeimgeaxguaMiSA8QVNTRVNTPuKApjxBTlNXRVI+IOe7k+aehOi+k+WHuiDihpIg5Lqn57uT5p6E5YyW5q616JC9CiAgICAgICAgaWYgIjxBU1NFU1M+IiBpbiBwcm9tcHQgYW5kICI8QU5TV0VSPiIgaW4gcHJvbXB0OgogICAgICAgICAgICBpZHMgPSByZS5maW5kYWxsKHIiXFsoZG9jX1xkKylcXSIsIHByb21wdCkKICAgICAgICAgICAgc3JjID0gaWRzWzBdIGlmIGlkcyBlbHNlIE5vbmUKICAgICAgICAgICAgZ2F0aGVyID0gKGYi5bey5qOA57Si5Yiw55u45YWz5p2h5qy+IFt7c3JjfV0iIGlmIHNyYyBlbHNlICLotYTmlpnmnKropobnm5bor6Xpl67popgiKQogICAgICAgICAgICByZWFzb24gPSAoZiLmja7mraTlvpflh7rlhbPplK7nu5PorrogW3tzcmN9XSIgaWYgc3JjIGVsc2UgIueOsOaciei1hOaWmeS4jei2s+S7peS4i+ehruWIh+e7k+iuuiIpCiAgICAgICAgICAgIHZlcmlmeSA9ICIiCiAgICAgICAgICAgIGlmICI8VkVSSUZZPiIgaW4gcHJvbXB0OiAgIyDku6PnoIHpoobln5/lj6DliqAKICAgICAgICAgICAgICAgIHZlcmlmeSA9ICI8VkVSSUZZPuacquaJp+ihjOmqjOivge+8iOmcgOaymeeuse+8ieOAguW6lOi3keeahOa1i+ivle+8mui+k+WFpei+ueeVjC/lvILluLjot6/lvoTjgII8L1ZFUklGWT5cbiIKICAgICAgICAgICAgaWYgIjxWRVJJRlk+IiBpbiBwcm9tcHQ6CiAgICAgICAgICAgICAgICAjIOS7o+eggeWcuuaZr++8mkFOU1dFUiDlkKvlj6/miafooYzku6PnoIHlnZfvvIzkvpvmspnnrrHnnJ/ot5EgKyDmj5Dlj5bkuLogYXJ0aWZhY3QKICAgICAgICAgICAgICAgIGFuc3dlciA9ICgKICAgICAgICAgICAgICAgICAgICAi6L+Z5piv5LiA5Liq5o6S5bqP5Ye95pWw56S65L6L77yaXG5cbiIKICAgICAgICAgICAgICAgICAgICAiYGBgcHl0aG9uXG4iCiAgICAgICAgICAgICAgICAgICAgImRlZiBzb3J0X2xpc3QoeHMpOlxuIgogICAgICAgICAgICAgICAgICAgICIgICAgcmV0dXJuIHNvcnRlZCh4cylcblxuIgogICAgICAgICAgICAgICAgICAgICJwcmludChzb3J0X2xpc3QoWzUsIDIsIDgsIDEsIDNdKSlcbiIKICAgICAgICAgICAgICAgICAgICAiYGBgXG4iCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBhbnN3ZXIgPSAoCiAgICAgICAgICAgICAgICAgICAgZiLmoLnmja7lj6/kv6HmlofmoaPvvIzlhbPplK7nu5Porrrlt7LmoIfms6jmnaXmupAgW3tzcmN9XeOAgiIgaWYgc3JjCiAgICAgICAgICAgICAgICAgICAgZWxzZSAi5qC55o2u546w5pyJ6LWE5paZ5peg5rOV56Gu5a6a77yM5bu66K6u6KGl5YWF5paH5qGj5oiW5o2i5Liq6Zeu5rOV44CCIgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgIjxBU1NFU1M+5L+h5oGv5YWF5YiG77yM5Y+v5L2c562U77yI5peg6ZyA6L+96Zeu77yJ44CCPC9BU1NFU1M+XG4iCiAgICAgICAgICAgICAgICBmIjxHQVRIRVI+e2dhdGhlcn08L0dBVEhFUj5cbiIKICAgICAgICAgICAgICAgIGYiPFJFQVNPTj57cmVhc29ufTwvUkVBU09OPlxuIgogICAgICAgICAgICAgICAgZiI8U0VMRkNIRUNLPjEpIOaXoOacquagh+adpea6kOeahOaWreiogCAyKSDmnKrlvJXnlKjotornlYzmnaXmupAgMykg572u5L+h5bqmIDQvNTwvU0VMRkNIRUNLPlxuIgogICAgICAgICAgICAgICAgZiJ7dmVyaWZ5fSIKICAgICAgICAgICAgICAgIGYiPEFOU1dFUj57YW5zd2VyfTwvQU5TV0VSPiIKICAgICAgICAgICAgKQogICAgICAgICMg6Zey6IGKL+aJk+aLm+WRvOaooeW8j++8iFJBR1BpcGVsaW5lIOWIpOWumuS9juebuOWFs+W6puaXtui1sOi/memHjO+8ie+8muiHqueEtuWbnuW6lO+8jOS4jeW8uuihjOmUmuaWh+ahowogICAgICAgIGlmICLoh6rnhLbjgIHlj4vlpb3lnLDlm57nrZQiIGluIHByb21wdDoKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICLkvaDlpb3vvIHmiJHmmK/kvIHkuJogQUkg5bel5L2c5Y+w55qE5Yqp5omL44CC5Y+v5Lul6Zeu5oiR5py655S15a6J6KOF6KeE6IyD44CB5pa95bel6aqM5pS244CBIgogICAgICAgICAgICAgICAgIuaIluaKgOacr+amguW/teetiemXrumimO+8jOaIkeS8muWfuuS6juefpeivhuW6k+S4uuS9oOino+etlOOAglxuIgogICAgICAgICAgICAgICAgIu+8iOaPkOekuu+8muW9k+WJjeS4uuWGhee9ruWNoOS9jeaooeWei++8jOaOpeWFpeecn+WunuaooeWei+WQjuWbnuetlOS8muabtOWujOaVtOOAgu+8iSIKICAgICAgICAgICAgKQogICAgICAgIGlmICLlj6/kv6HmlofmoaMiIGluIHByb21wdCBvciAicmV0cmlldmVkX2RvY3MiIGluIHByb21wdCBvciAiW2RvY18iIGluIHByb21wdDoKICAgICAgICAgICAgaWRzID0gcmUuZmluZGFsbChyIlxbKGRvY19cZCspXF0iLCBwcm9tcHQpCiAgICAgICAgICAgIGlmIGlkczoKICAgICAgICAgICAgICAgIGNpdGVkID0gIiAiLmpvaW4oZiJbe2l9XSIgZm9yIGkgaW4gZGljdC5mcm9ta2V5cyhpZHMpKQogICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICBmIuagueaNrueOsOacieWPr+S/oeaWh+aho++8jOWvueivpemXrumimOeahOWbnuetlOWmguS4i++8iOavj+adoee7k+iuuuagh+azqOadpea6kO+8ie+8mlxuIgogICAgICAgICAgICAgICAgICAgIGYiLSDlhbPplK7nu5PorrogQSB7aWRzWzBdIGFuZCAnWycgKyBpZHNbMF0gKyAnXSd9XG4iCiAgICAgICAgICAgICAgICAgICAgZiItIOWFs+mUrue7k+iuuiBCIHtjaXRlZH1cbiIKICAgICAgICAgICAgICAgICAgICBmIuiLpemcgOabtOeyvuehruaVsOWAvO+8jOW7uuiuruaguOWvueadpea6kOWOn+aWh+OAgiIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgcmV0dXJuICLmoLnmja7njrDmnInotYTmlpnml6Dms5Xnoa7lrprjgIIiCiAgICAgICAgaWYgIuaLhuino+S4uiIgaW4gcHJvbXB0IG9yICJERUNPTVBPU0UiIGluIHByb21wdDoKICAgICAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoWwogICAgICAgICAgICAgICAgeyJzdGVwIjogMSwgInF1ZXN0aW9uIjogIueVjOWumui+k+WFpeS4jue6puadnyIsICJ2ZXJpZmljYXRpb24iOiAi5Zue6K+75Y6f5aeL6ZyA5rGC5qC45a+5In0sCiAgICAgICAgICAgICAgICB7InN0ZXAiOiAyLCAicXVlc3Rpb24iOiAi5o6o5a+85qC45b+D5YWz57O7IiwgInZlcmlmaWNhdGlvbiI6ICLnlKjlj43kvovmo4DpqozljZXosIPmgKcifSwKICAgICAgICAgICAgICAgIHsic3RlcCI6IDMsICJxdWVzdGlvbiI6ICLmsYfmgLvlubboh6rmo4DovrnnlYwiLCAidmVyaWZpY2F0aW9uIjogIuS7o+WFpeaegeerr+WAvOmqjOivgSJ9LAogICAgICAgICAgICBdLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgaWYgIuS4u+WKqOivgeS8qiIgaW4gcHJvbXB0IG9yICJGQUxTSUZZIiBpbiBwcm9tcHQ6CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAi44CQ5Li75Zue562U44CR57uZ5Ye65pyA5L2z562U5qGI5LiO5YWz6ZSu5YGH6K6+44CCXG4iCiAgICAgICAgICAgICAgICAi44CQ5Li75Yqo6K+B5Lyq44CR5YGH6K6+MeWPr+iDvemUmeKAlOKAlOiLpVjkuI3miJDnq4vliJnnu5Porrrnv7vovazvvJvmo4Dpqozmlrnms5XvvJrmnoTpgKDlj43kvovjgIJcbiIKICAgICAgICAgICAgICAgICLjgJDkuI3noa7lrprmgKfjgJHnva7kv6HluqYgNy8xMO+8jOaJo+WIhuWcqOaVsOaNruaXtuaViOOAglxuIgogICAgICAgICAgICAgICAgIuOAkOafpeivgei3r+W+hOOAkeaguOWvueWumOaWueaWh+aho+S4juS4gOaJi+aVsOaNrua6kOOAgiIKICAgICAgICAgICAgKQogICAgICAgIHJldHVybiAi77yIbW9ja++8ieW3suaUtuWIsOafpeivou+8jOi/lOWbnuWNoOS9jeWbnuetlOOAgiIKCgpjbGFzcyBJbk1lbW9yeVZlY3RvclN0b3JlKFZlY3RvclN0b3JlKToKICAgICIiIuWfuuS6juivjemHjeWPoOaJk+WIhueahOWGheWtmOWQkemHj+W6k++8iOemu+e6v+OAgeehruWumu+8ieOAggoKICAgIOeUn+S6p+ivt+abv+aNouS4uiBDaHJvbWFWZWN0b3JTdG9yZeOAgnRydXN0X3Njb3JlIOi2iumrmOeahOaWh+aho+aOkuW6j+i2iumdoOWJje+8jAogICAg5a6e546w4oCc5Y+v5L+h5rqQ5LyY5YWI4oCd55qE5qOA57Si6K+t5LmJ44CCCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZikgLT4gTm9uZToKICAgICAgICBzZWxmLl9kb2NzOiBMaXN0W0RvY10gPSBbXQoKICAgIGRlZiBhZGQoc2VsZiwgZG9jOiBEb2MpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fZG9jcy5hcHBlbmQoZG9jKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfc2NvcmUocXVlcnk6IHN0ciwgZG9jOiBEb2MpIC0+IGZsb2F0OgogICAgICAgIHEgPSBzZXQocmUuZmluZGFsbChyIlx3KyIsIHF1ZXJ5Lmxvd2VyKCkpKQogICAgICAgIGQgPSBzZXQocmUuZmluZGFsbChyIlx3KyIsIGRvYy5jb250ZW50Lmxvd2VyKCkpKQogICAgICAgIGlmIG5vdCBxIG9yIG5vdCBkOgogICAgICAgICAgICBvdmVybGFwID0gMC4wCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3ZlcmxhcCA9IGxlbihxICYgZCkgLyBsZW4ocSkKICAgICAgICB0cnVzdCA9IGZsb2F0KGRvYy5tZXRhZGF0YS5nZXQoInRydXN0X3Njb3JlIiwgMC41KSkKICAgICAgICAjIOivjemHjeWPoOS4uuS4u++8jOWPr+S/oeW6puS4uui+hQogICAgICAgIHJldHVybiBvdmVybGFwICogMC44ICsgdHJ1c3QgKiAwLjIKCiAgICBkZWYgc2VhcmNoKHNlbGYsIHF1ZXJ5OiBzdHIsIGs6IGludCA9IDUpIC0+IExpc3RbRG9jXToKICAgICAgICByYW5rZWQgPSBzb3J0ZWQoc2VsZi5fZG9jcywga2V5PWxhbWJkYSBkOiBzZWxmLl9zY29yZShxdWVyeSwgZCksIHJldmVyc2U9VHJ1ZSkKICAgICAgICByZXR1cm4gcmFua2VkWzprXQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCiMg55yf5a6e6YOo572y6YCC6YWN5Zmo77yI5LuF5b2T5L6d6LWW5Y+v55So5pe25ZCv55So77yb5pys5rKZ566x5LiN5Lya6Kem5Y+R77yJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCmNsYXNzIFZMTE1Nb2RlbChNb2RlbEJhY2tlbmQpOgogICAgIiIidkxMTSBPcGVuQUkg5YW85a6556uv54K56YCC6YWN5Zmo44CCCgogICAg5L6d6LWW77yaYG9wZW5haWAg5a6i5oi356uvICsg6L+Q6KGM5Lit55qEIHZMTE0g5pyN5Yqh77yIZG9ja2VyLWNvbXBvc2Ug55qEIG1vZGVsIOacjeWKoe+8ieOAggogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJhc2VfdXJsOiBzdHIgPSAiaHR0cDovL21vZGVsOjgwMDEvdjEiLAogICAgICAgICAgICAgICAgIG1vZGVsOiBzdHIgPSAidmVydGljYWwtbW9kZWwiLCBhcGlfa2V5OiBzdHIgPSAiRU1QVFkiKSAtPiBOb25lOgogICAgICAgIHRyeToKICAgICAgICAgICAgZnJvbSBvcGVuYWkgaW1wb3J0IE9wZW5BSSAgIyDlu7bov5/lr7zlhaXvvIznvLrlpLHkuI3lvbHlk43nprvnur/ov5DooYwKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAjIHByYWdtYTogbm8gY292ZXIgLSDkvp3otZbnvLrlpLHot6/lvoQKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJWTExNTW9kZWwg6ZyA6KaB5a6J6KOFIG9wZW5haSDlrqLmiLfnq68iKSBmcm9tIGUKICAgICAgICBzZWxmLl9jbGllbnQgPSBPcGVuQUkoYmFzZV91cmw9YmFzZV91cmwsIGFwaV9rZXk9YXBpX2tleSkKICAgICAgICBzZWxmLl9tb2RlbCA9IG1vZGVsCgogICAgZGVmIGdlbmVyYXRlKHNlbGYsIHByb21wdDogc3RyLCAqKmt3YXJncykgLT4gc3RyOiAgIyBwcmFnbWE6IG5vIGNvdmVyIC0g6ZyA55yf5a6e5pyN5YqhCiAgICAgICAgcmVzcCA9IHNlbGYuX2NsaWVudC5jaGF0LmNvbXBsZXRpb25zLmNyZWF0ZSgKICAgICAgICAgICAgbW9kZWw9c2VsZi5fbW9kZWwsCiAgICAgICAgICAgIG1lc3NhZ2VzPVt7InJvbGUiOiAidXNlciIsICJjb250ZW50IjogcHJvbXB0fV0sCiAgICAgICAgICAgIHRlbXBlcmF0dXJlPWt3YXJncy5nZXQoInRlbXBlcmF0dXJlIiwgMC4yKSwKICAgICAgICAgICAgbWF4X3Rva2Vucz1rd2FyZ3MuZ2V0KCJtYXhfdG9rZW5zIiwgMTAyNCksCiAgICAgICAgKQogICAgICAgIHJldHVybiByZXNwLmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50IG9yICIiCgoKY2xhc3MgQ2hyb21hVmVjdG9yU3RvcmUoVmVjdG9yU3RvcmUpOgogICAgIiIiQ2hyb21hREIgKyBzZW50ZW5jZS10cmFuc2Zvcm1lcnMg6YCC6YWN5Zmo44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGhvc3Q6IHN0ciA9ICJ2ZWN0b3JfZGIiLCBwb3J0OiBpbnQgPSA4MDAwLAogICAgICAgICAgICAgICAgIGNvbGxlY3Rpb246IHN0ciA9ICJ2ZXJ0aWNhbF9rYiIsCiAgICAgICAgICAgICAgICAgZW1iZWRfbW9kZWw6IHN0ciA9ICJzZW50ZW5jZS10cmFuc2Zvcm1lcnMvYWxsLU1pbmlMTS1MNi12MiIpIC0+IE5vbmU6CiAgICAgICAgdHJ5OiAgIyBwcmFnbWE6IG5vIGNvdmVyIC0g5L6d6LWW57y65aSx6Lev5b6ECiAgICAgICAgICAgIGltcG9ydCBjaHJvbWFkYgogICAgICAgICAgICBmcm9tIHNlbnRlbmNlX3RyYW5zZm9ybWVycyBpbXBvcnQgU2VudGVuY2VUcmFuc2Zvcm1lcgogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIkNocm9tYVZlY3RvclN0b3JlIOmcgOimgSBjaHJvbWFkYiArIHNlbnRlbmNlLXRyYW5zZm9ybWVycyIpIGZyb20gZQogICAgICAgIHNlbGYuX2NsaWVudCA9IGNocm9tYWRiLkh0dHBDbGllbnQoaG9zdD1ob3N0LCBwb3J0PXBvcnQpCiAgICAgICAgc2VsZi5fY29sID0gc2VsZi5fY2xpZW50LmdldF9vcl9jcmVhdGVfY29sbGVjdGlvbihjb2xsZWN0aW9uKQogICAgICAgIHNlbGYuX2VtYmVkID0gU2VudGVuY2VUcmFuc2Zvcm1lcihlbWJlZF9tb2RlbCkKCiAgICBkZWYgYWRkKHNlbGYsIGRvYzogRG9jKSAtPiBOb25lOiAgIyBwcmFnbWE6IG5vIGNvdmVyIC0g6ZyA55yf5a6e5pyN5YqhCiAgICAgICAgdmVjID0gc2VsZi5fZW1iZWQuZW5jb2RlKGRvYy5jb250ZW50KS50b2xpc3QoKQogICAgICAgIHNlbGYuX2NvbC5hZGQoaWRzPVtkb2MuaWRdLCBkb2N1bWVudHM9W2RvYy5jb250ZW50XSwKICAgICAgICAgICAgICAgICAgICAgIGVtYmVkZGluZ3M9W3ZlY10sIG1ldGFkYXRhcz1bZG9jLm1ldGFkYXRhXSkKCiAgICBkZWYgc2VhcmNoKHNlbGYsIHF1ZXJ5OiBzdHIsIGs6IGludCA9IDUpIC0+IExpc3RbRG9jXTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIHZlYyA9IHNlbGYuX2VtYmVkLmVuY29kZShxdWVyeSkudG9saXN0KCkKICAgICAgICByZXMgPSBzZWxmLl9jb2wucXVlcnkocXVlcnlfZW1iZWRkaW5ncz1bdmVjXSwgbl9yZXN1bHRzPWspCiAgICAgICAgb3V0OiBMaXN0W0RvY10gPSBbXQogICAgICAgIGZvciBpLCBjb250ZW50IGluIGVudW1lcmF0ZShyZXNbImRvY3VtZW50cyJdWzBdKToKICAgICAgICAgICAgbWV0YSA9IHJlc1sibWV0YWRhdGFzIl1bMF1baV0KICAgICAgICAgICAgb3V0LmFwcGVuZChEb2MoaWQ9bWV0YS5nZXQoImlkIiwgZiJkb2Nfe2l9IiksIGNvbnRlbnQ9Y29udGVudCwgbWV0YWRhdGE9bWV0YSkpCiAgICAgICAgcmV0dXJuIG91dAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCiMgUkFHIOeuoee6vwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwpjbGFzcyBSQUdQaXBlbGluZToKICAgICIiIuajgOe0ouWinuW8uueUn+aIkCDigJTigJQg6K6p5qih5Z6L6L6T5Ye66ZSa5a6a5Zyo5Y+v5L+h5paH5qGj5LiK44CCIiIiCgogICAgUkFHX1BST01QVCA9ICgKICAgICAgICAi5Z+65LqO5Lul5LiL5Y+v5L+h5paH5qGj5Zue562U6Zeu6aKY44CC5aaC5p6c5paH5qGj5Lit5rKh5pyJ55u45YWz5L+h5oGv77yM5b+F6aG75piO56Gu6K+0XG4iCiAgICAgICAgIuKAnOagueaNrueOsOaciei1hOaWmeaXoOazleehruWumuKAne+8jOS4jeW+l+e8lumAoOOAglxuXG4iCiAgICAgICAgIj09PSDlj6/kv6HmlofmoaMgPT09XG57cmV0cmlldmVkX2RvY3N9XG5cbiIKICAgICAgICAiPT09IOeUqOaIt+mXrumimCA9PT1cbnt1c2VyX3F1ZXN0aW9ufVxuXG4iCiAgICAgICAgIj09PSDlm57nrZTopoHmsYIgPT09XG4iCiAgICAgICAgIjEuIOavj+adoeS6i+WunumZiOi/sOWQjuagh+azqOadpea6kO+8mltkb2NfaWRdXG4iCiAgICAgICAgIjIuIOWmguaenOaWh+aho+S/oeaBr+S4jeWujOaVtO+8jOaMh+aYjue8uuWPo1xuIgogICAgICAgICIzLiDnpoHmraLlvJXnlKjmnKrlnKjkuIrmlrnlh7rnjrDnmoTmlofmoaNcbiIKICAgICAgICAiNC4g5aaC5p6c5aSa5Liq5paH5qGj55+b55u+77yM5YiX5Ye655+b55u+54K5IgogICAgKQoKICAgICMg5L2O55u45YWz5bqm77yI5omT5oub5ZG8L+mXsuiBii/ms5vpl67vvInotbDov5nph4zvvJroh6rnhLblm57nrZTvvIzkuI3lvLrliLbmlofmoaPplJrlrprjgIIKICAgIENIQVRfUFJPTVBUID0gKAogICAgICAgICLkvaDmmK/kvIHkuJogQUkg5Yqp5omL77yM6K+36Ieq54S244CB5Y+L5aW95Zyw5Zue562U55So5oi344CC5LiL6Z2i5paH5qGj5LuF5L6b5Y+C6ICD4oCU4oCUIgogICAgICAgICLnm7jlhbPlsLHlvJXnlKjlubbmoIfms6ggW2RvY19pZF3vvIzkuI3nm7jlhbPlsLHlv73nlaXvvIzkuI3opoHnoazmia/mlofmoaPjgIJcblxuIgogICAgICAgICI9PT0g5Y+C6ICD5paH5qGjID09PVxue3JldHJpZXZlZF9kb2NzfVxuXG49PT0g55So5oi3ID09PVxue3VzZXJfcXVlc3Rpb259XG5cbuWKqeaJi++8miIKICAgICkKCiAgICBSRUxFVkFOQ0VfVEhSRVNIT0xEID0gMC4yCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHZlY3Rvcl9kYjogVmVjdG9yU3RvcmUsIG1vZGVsOiBNb2RlbEJhY2tlbmQpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5kYiA9IHZlY3Rvcl9kYgogICAgICAgIHNlbGYubW9kZWwgPSBtb2RlbAoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfcmVsZXZhbmNlKHF1ZXN0aW9uOiBzdHIsIGRvY3M6IExpc3RbRG9jXSkgLT4gZmxvYXQ6CiAgICAgICAgIiIi6Zeu6aKY5LiO5pyA55u45YWz5paH5qGj55qE6YeN5Y+g5bqm44CC5Lit5pel6Z+p5oyJ5a2X44CB5ouJ5LiB5oyJ6K+N77yM6Kej5Yaz5Lit5paH5pW05Liy5LiN5YiG6K+N55qE6Zeu6aKY44CCIiIiCiAgICAgICAgZGVmIHRva3Moczogc3RyKToKICAgICAgICAgICAgY2prID0gc2V0KHJlLmZpbmRhbGwociJbXHU0ZTAwLVx1OWZmZl0iLCBzKSkKICAgICAgICAgICAgbGF0aW4gPSBzZXQocmUuZmluZGFsbChyIlthLXpBLVpdKyIsIHMubG93ZXIoKSkpCiAgICAgICAgICAgIHJldHVybiBjamsgfCBsYXRpbgogICAgICAgIHEgPSB0b2tzKHF1ZXN0aW9uKQogICAgICAgIGlmIG5vdCBxOgogICAgICAgICAgICByZXR1cm4gMC4wCiAgICAgICAgYmVzdCA9IDAuMAogICAgICAgIGZvciBkIGluIGRvY3M6CiAgICAgICAgICAgIGludGVyID0gbGVuKHEgJiB0b2tzKGQuY29udGVudCkpCiAgICAgICAgICAgIGJlc3QgPSBtYXgoYmVzdCwgaW50ZXIgLyBsZW4ocSkpCiAgICAgICAgcmV0dXJuIGJlc3QKCiAgICBkZWYgcXVlcnkoc2VsZiwgcXVlc3Rpb246IHN0ciwgazogaW50ID0gNSkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIi5qOA57SiIHRvcC1r77yI5Y+v5L+h5rqQ5LyY5YWI77yJ4oaSIOaMieebuOWFs+W6pumAiemUmuWumi/pl7LogYrmj5DnpLror40g4oaSIOeUn+aIkCDihpIg5oq95Y+W5byV55So44CCIiIiCiAgICAgICAgZG9jcyA9IHNlbGYuZGIuc2VhcmNoKHF1ZXN0aW9uLCBrPWspCiAgICAgICAgZG9jcyA9IHNvcnRlZChkb2NzLCBrZXk9bGFtYmRhIGQ6IGQubWV0YWRhdGEuZ2V0KCJ0cnVzdF9zY29yZSIsIDApLCByZXZlcnNlPVRydWUpCiAgICAgICAgam9pbmVkID0gIlxuXG4tLS1cbiIuam9pbihmIlt7ZC5pZH1dIHtkLmNvbnRlbnR9IiBmb3IgZCBpbiBkb2NzKSBvciAiKOaXoOajgOe0oue7k+aenCkiCiAgICAgICAgcmVsZXZhbnQgPSBzZWxmLl9yZWxldmFuY2UocXVlc3Rpb24sIGRvY3MpID49IHNlbGYuUkVMRVZBTkNFX1RIUkVTSE9MRAogICAgICAgIHRlbXBsYXRlID0gc2VsZi5SQUdfUFJPTVBUIGlmIHJlbGV2YW50IGVsc2Ugc2VsZi5DSEFUX1BST01QVAogICAgICAgIHByb21wdCA9IHRlbXBsYXRlLmZvcm1hdChyZXRyaWV2ZWRfZG9jcz1qb2luZWQsIHVzZXJfcXVlc3Rpb249cXVlc3Rpb24pCiAgICAgICAgYW5zd2VyID0gc2VsZi5tb2RlbC5nZW5lcmF0ZShwcm9tcHQpCiAgICAgICAgY2l0YXRpb25zID0gcmUuZmluZGFsbChyIlxbZG9jX1xkK1xdIiwgYW5zd2VyKQogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJhbnN3ZXIiOiBhbnN3ZXIsCiAgICAgICAgICAgICJzb3VyY2VzIjogW2QubWV0YWRhdGEgfCB7ImlkIjogZC5pZH0gZm9yIGQgaW4gZG9jc10gaWYgcmVsZXZhbnQgZWxzZSBbXSwKICAgICAgICAgICAgImNpdGF0aW9ucyI6IGNpdGF0aW9ucywKICAgICAgICAgICAgImhhc19ncm91bmRpbmciOiBsZW4oY2l0YXRpb25zKSA+IDAsCiAgICAgICAgICAgICJncm91bmRlZF9tb2RlIjogcmVsZXZhbnQsCiAgICAgICAgICAgICJyZXRyaWV2ZWQiOiBsZW4oZG9jcyksCiAgICAgICAgfQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCiMg5YiG5q2l5o6o55CG5Zmo77yI5oCd6ICD6L+H56iL5Y+v6KeG5YyW55qE5ZCO56uv77yJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCmNsYXNzIFN0ZXB3aXNlUmVhc29uZXI6CiAgICAiIiLpl67popjmi4bop6MgKyDpgJDmraXmsYLop6MgKyDkuLvliqjor4HkvKogKyDnva7kv6HluqbvvIzovpPlh7rlj6/op4bljJbmjqjnkIbpk77jgIIiIiIKCiAgICBERUNPTVBPU0VfUFJPTVBUID0gKAogICAgICAgICLlsIbku6XkuIvlpI3mnYLpl67popjmi4bop6PkuLogMy01IOS4quWPr+eLrOeri+mqjOivgeeahOWtkOatpemqpOOAguavj+S4quWtkOatpemqpOW6lOWOn+WtkOWMluOAgSIKICAgICAgICAi5Y+v5qOA6aqM44CC5LuF6L6T5Ye6IEpTT04g5pWw57uE77yaW3t7XCJzdGVwXCI6MSxcInF1ZXN0aW9uXCI6XCLlrZDpl67pophcIiwiCiAgICAgICAgIlwidmVyaWZpY2F0aW9uXCI6XCLlpoLkvZXpqozor4FcIn19XVxuXG7pl67popjvvJp7cXVlc3Rpb259IgogICAgKQogICAgRkFMU0lGWV9QUk9NUFQgPSAoCiAgICAgICAgIuS9oOaYr3tkb21haW596aKG5Z+f5LiT5a6244CC5a+55a2Q6Zeu6aKY77yae3F1ZXN0aW9ufVxuIgogICAgICAgICIxLuOAkOS4u+WbnuetlOOAkee7meWHuuacgOS9s+etlOahiOS4juWFs+mUruWBh+iuvlxuIgogICAgICAgICIyLuOAkOS4u+WKqOivgeS8quOAkeWIlyAyLTMg5Liq5Y+v6IO96ZSZ55qE5YGH6K6+77yM5ZCE57uZ5o6o57+75pa55rOV5LiO4oCc6Iul6ZSZ5YiZ5q2j56Gu562U5qGI4oCdXG4iCiAgICAgICAgIjMu44CQ5LiN56Gu5a6a5oCn44CRMS0xMCDmiZPliIblubbor7TmmI7miaPliIbngrlcbiIKICAgICAgICAiNC7jgJDmn6Xor4Hot6/lvoTjgJHmjIflh7rpnIDmn6XnmoTmlbDmja7mupDkuI7lhbPplK7or40iCiAgICApCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1vZGVsOiBNb2RlbEJhY2tlbmQpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5tb2RlbCA9IG1vZGVsCgogICAgZGVmIF9zYWZlX2pzb24oc2VsZiwgdGV4dDogc3RyLCBkZWZhdWx0OiBBbnkpIC0+IEFueToKICAgICAgICAiIiLlrrnplJnop6PmnpDmqKHlnosgSlNPTiDovpPlh7rvvIzliaXnprvlj6/og73nmoTku6PnoIHlm7TmoI/jgIIiIiIKICAgICAgICBjbGVhbmVkID0gcmUuc3ViKHIiYGBgKD86anNvbik/fGBgYCIsICIiLCB0ZXh0KS5zdHJpcCgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhjbGVhbmVkKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHJldHVybiBkZWZhdWx0CgogICAgZGVmIHJlYXNvbihzZWxmLCBxdWVzdGlvbjogc3RyLCBkb21haW46IHN0ciA9ICJnZW5lcmFsIikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIi6L+U5Zue5Y+v6KeG5YyW5o6o55CG6ZO+77ya5q+P5q2l5ZCr562U5qGI44CB6K+B5Lyq44CB572u5L+h5bqm44CB6ICX5pe25Y2g5L2N44CCIiIiCiAgICAgICAgaW1wb3J0IHRpbWUKCiAgICAgICAgc3RlcHNfc3BlYyA9IHNlbGYuX3NhZmVfanNvbigKICAgICAgICAgICAgc2VsZi5tb2RlbC5nZW5lcmF0ZShzZWxmLkRFQ09NUE9TRV9QUk9NUFQuZm9ybWF0KHF1ZXN0aW9uPXF1ZXN0aW9uKSksCiAgICAgICAgICAgIGRlZmF1bHQ9W3sic3RlcCI6IDEsICJxdWVzdGlvbiI6IHF1ZXN0aW9uLCAidmVyaWZpY2F0aW9uIjogIuebtOaOpeaguOWvuSJ9XSwKICAgICAgICApCiAgICAgICAgY2hhaW46IExpc3RbRGljdFtzdHIsIEFueV1dID0gW10KICAgICAgICBmb3Igc3BlYyBpbiBzdGVwc19zcGVjOgogICAgICAgICAgICB0MCA9IHRpbWUudGltZSgpCiAgICAgICAgICAgIHN1Yl9xID0gc3BlYy5nZXQoInF1ZXN0aW9uIiwgcXVlc3Rpb24pCiAgICAgICAgICAgIGZhbHNpZnkgPSBzZWxmLm1vZGVsLmdlbmVyYXRlKHNlbGYuRkFMU0lGWV9QUk9NUFQuZm9ybWF0KGRvbWFpbj1kb21haW4sIHF1ZXN0aW9uPXN1Yl9xKSkKICAgICAgICAgICAgYW5zd2VyID0gc2VsZi5tb2RlbC5nZW5lcmF0ZShzdWJfcSkKICAgICAgICAgICAgY29uZmlkZW5jZSA9IHNlbGYuX2VzdGltYXRlX2NvbmZpZGVuY2UoYW5zd2VyLCBmYWxzaWZ5KQogICAgICAgICAgICBjaGFpbi5hcHBlbmQoewogICAgICAgICAgICAgICAgImlkIjogc3BlYy5nZXQoInN0ZXAiLCBsZW4oY2hhaW4pICsgMSksCiAgICAgICAgICAgICAgICAibGFiZWwiOiBzdWJfcVs6MjRdLAogICAgICAgICAgICAgICAgInN0YXR1cyI6ICJjb21wbGV0ZWQiLAogICAgICAgICAgICAgICAgInF1ZXN0aW9uIjogc3ViX3EsCiAgICAgICAgICAgICAgICAiYW5zd2VyIjogYW5zd2VyLAogICAgICAgICAgICAgICAgImZhbHNpZnkiOiBmYWxzaWZ5LAogICAgICAgICAgICAgICAgInZlcmlmaWNhdGlvbiI6IHNwZWMuZ2V0KCJ2ZXJpZmljYXRpb24iLCAiIiksCiAgICAgICAgICAgICAgICAiY29uZmlkZW5jZSI6IGNvbmZpZGVuY2UsCiAgICAgICAgICAgICAgICAiZHVyYXRpb25fbXMiOiBpbnQoKHRpbWUudGltZSgpIC0gdDApICogMTAwMCksCiAgICAgICAgICAgIH0pCiAgICAgICAgb3ZlcmFsbCA9IHJvdW5kKHN1bShjWyJjb25maWRlbmNlIl0gZm9yIGMgaW4gY2hhaW4pIC8gbWF4KGxlbihjaGFpbiksIDEpLCAzKQogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJzdGVwcyI6IGNoYWluLAogICAgICAgICAgICAiZmluYWxfYW5zd2VyIjogc2VsZi5fc3ludGhlc2l6ZShjaGFpbiksCiAgICAgICAgICAgICJvdmVyYWxsX2NvbmZpZGVuY2UiOiBvdmVyYWxsLAogICAgICAgIH0KCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2VzdGltYXRlX2NvbmZpZGVuY2UoYW5zd2VyOiBzdHIsIGZhbHNpZnk6IHN0cikgLT4gZmxvYXQ6CiAgICAgICAgIiIi5ZCv5Y+R5byP572u5L+h5bqm77ya562U5qGI5ZCr5LiN56Gu5a6a6K+N5oiW6K+B5Lyq5pq06Zyy57+76L2s6aOO6Zmp5YiZ6ZmN5L2O44CCIiIiCiAgICAgICAgY29uZiA9IDAuODUKICAgICAgICBpZiByZS5zZWFyY2gociLml6Dms5Xnoa7lrpp85LiN56Gu5a6afOWPr+iDvXzkuZ/orrh85aSn5qaCIiwgYW5zd2VyKToKICAgICAgICAgICAgY29uZiAtPSAwLjI1CiAgICAgICAgaWYgcmUuc2VhcmNoKHIi57+76L2sfOS4jeaIkOeri3zlj43kvosiLCBmYWxzaWZ5KToKICAgICAgICAgICAgY29uZiAtPSAwLjEKICAgICAgICByZXR1cm4gcm91bmQobWF4KDAuMSwgbWluKGNvbmYsIDAuOTkpKSwgMykKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX3N5bnRoZXNpemUoY2hhaW46IExpc3RbRGljdFtzdHIsIEFueV1dKSAtPiBzdHI6CiAgICAgICAgaWYgbm90IGNoYWluOgogICAgICAgICAgICByZXR1cm4gIu+8iOaXoOWPr+e7vOWQiOeahOatpemqpO+8iSIKICAgICAgICByZXR1cm4gIue7vOWQiOWQhOWtkOatpemqpO+8miIgKyAi77ybIi5qb2luKGNbImxhYmVsIl0gZm9yIGMgaW4gY2hhaW4pCg==
+"""secureguard.l2_reasoning — L2 推理层（模型 + RAG）。
+
+为了让整条五层流水线在无 GPU、无网络环境也能端到端跑通，本层把模型与
+向量库抽象成接口，并提供：
+  - MockModel / InMemoryVectorStore：纯标准库实现，离线可跑、行为确定。
+  - VLLMModel / ChromaVectorStore：真实部署适配器，仅当依赖与服务可用时启用。
+  - RAGPipeline：检索→拼接可信文档→生成，强制来源标注与“无资料则说不知道”。
+  - StepwiseReasoner：问题拆解 + 主动证伪 + 置信度，支撑思考过程可视化。
+"""
+from __future__ import annotations
+
+import json
+import re
+from abc import ABC, abstractmethod
+from dataclasses import dataclass, field
+from typing import Any, Callable, Dict, List, Optional
+
+
+# ====================================================================== #
+# 接口与数据类
+# ====================================================================== #
+@dataclass
+class Doc:
+    """检索返回的单篇文档。"""
+
+    id: str
+    content: str
+    metadata: Dict[str, Any] = field(default_factory=dict)
+
+
+class ModelBackend(ABC):
+    """语言模型后端接口。"""
+
+    @abstractmethod
+    def generate(self, prompt: str, **kwargs) -> str:
+        ...
+
+
+class VectorStore(ABC):
+    """向量库接口。"""
+
+    @abstractmethod
+    def search(self, query: str, k: int = 5) -> List[Doc]:
+        ...
+
+    @abstractmethod
+    def add(self, doc: Doc) -> None:
+        ...
+
+
+# ====================================================================== #
+# 离线 Mock 实现（默认）
+# ====================================================================== #
+class MockModel(ModelBackend):
+    """确定性 Mock 模型：离线、可测试。
+
+    根据 prompt 中的标记返回结构化结果：
+      - 含 RAG 文档块 → 抽取 [doc_x] 生成带引用的“接地”回答。
+      - 含“拆解为” → 返回 JSON 子步骤。
+      - 含“主动证伪” → 返回带证伪段的回答。
+    """
+
+    def generate(self, prompt: str, **kwargs) -> str:
+        # MD 脚手架模式：提示词要求按 <ASSESS>…<ANSWER> 结构输出 → 产结构化段落
+        if "<ASSESS>" in prompt and "<ANSWER>" in prompt:
+            ids = re.findall(r"\[(doc_\d+)\]", prompt)
+            src = ids[0] if ids else None
+            gather = (f"已检索到相关条款 [{src}]" if src else "资料未覆盖该问题")
+            reason = (f"据此得出关键结论 [{src}]" if src else "现有资料不足以下确切结论")
+            verify = ""
+            if "<VERIFY>" in prompt:  # 代码领域叠加
+                verify = "<VERIFY>未执行验证（需沙箱）。应跑的测试：输入边界/异常路径。</VERIFY>\n"
+            if "<VERIFY>" in prompt:
+                # 代码场景：ANSWER 含可执行代码块，供沙箱真跑 + 提取为 artifact
+                answer = (
+                    "这是一个排序函数示例：\n\n"
+                    "```python\n"
+                    "def sort_list(xs):\n"
+                    "    return sorted(xs)\n\n"
+                    "print(sort_list([5, 2, 8, 1, 3]))\n"
+                    "```\n"
+                )
+            else:
+                answer = (
+                    f"根据可信文档，关键结论已标注来源 [{src}]。" if src
+                    else "根据现有资料无法确定，建议补充文档或换个问法。"
+                )
+            return (
+                "<ASSESS>信息充分，可作答（无需追问）。</ASSESS>\n"
+                f"<GATHER>{gather}</GATHER>\n"
+                f"<REASON>{reason}</REASON>\n"
+                f"<SELFCHECK>1) 无未标来源的断言 2) 未引用越界来源 3) 置信度 4/5</SELFCHECK>\n"
+                f"{verify}"
+                f"<ANSWER>{answer}</ANSWER>"
+            )
+        # 闲聊/打招呼模式（RAGPipeline 判定低相关度时走这里）：自然回应，不强行锚文档
+        if "自然、友好地回答" in prompt:
+            return (
+                "你好！我是企业 AI 工作台的助手。可以问我机电安装规范、施工验收、"
+                "或技术概念等问题，我会基于知识库为你解答。\n"
+                "（提示：当前为内置占位模型，接入真实模型后回答会更完整。）"
+            )
+        if "可信文档" in prompt or "retrieved_docs" in prompt or "[doc_" in prompt:
+            ids = re.findall(r"\[(doc_\d+)\]", prompt)
+            if ids:
+                cited = " ".join(f"[{i}]" for i in dict.fromkeys(ids))
+                return (
+                    f"根据现有可信文档，对该问题的回答如下（每条结论标注来源）：\n"
+                    f"- 关键结论 A {ids[0] and '[' + ids[0] + ']'}\n"
+                    f"- 关键结论 B {cited}\n"
+                    f"若需更精确数值，建议核对来源原文。"
+                )
+            return "根据现有资料无法确定。"
+        if "拆解为" in prompt or "DECOMPOSE" in prompt:
+            return json.dumps([
+                {"step": 1, "question": "界定输入与约束", "verification": "回读原始需求核对"},
+                {"step": 2, "question": "推导核心关系", "verification": "用反例检验单调性"},
+                {"step": 3, "question": "汇总并自检边界", "verification": "代入极端值验证"},
+            ], ensure_ascii=False)
+        if "主动证伪" in prompt or "FALSIFY" in prompt:
+            return (
+                "【主回答】给出最佳答案与关键假设。\n"
+                "【主动证伪】假设1可能错——若X不成立则结论翻转；检验方法：构造反例。\n"
+                "【不确定性】置信度 7/10，扣分在数据时效。\n"
+                "【查证路径】核对官方文档与一手数据源。"
+            )
+        return "（mock）已收到查询，返回占位回答。"
+
+
+class InMemoryVectorStore(VectorStore):
+    """基于词重叠打分的内存向量库（离线、确定）。
+
+    生产请替换为 ChromaVectorStore。trust_score 越高的文档排序越靠前，
+    实现“可信源优先”的检索语义。
+    """
+
+    def __init__(self) -> None:
+        self._docs: List[Doc] = []
+
+    def add(self, doc: Doc) -> None:
+        self._docs.append(doc)
+
+    @staticmethod
+    def _score(query: str, doc: Doc) -> float:
+        q = set(re.findall(r"\w+", query.lower()))
+        d = set(re.findall(r"\w+", doc.content.lower()))
+        if not q or not d:
+            overlap = 0.0
+        else:
+            overlap = len(q & d) / len(q)
+        trust = float(doc.metadata.get("trust_score", 0.5))
+        # 词重叠为主，可信度为辅
+        return overlap * 0.8 + trust * 0.2
+
+    def search(self, query: str, k: int = 5) -> List[Doc]:
+        ranked = sorted(self._docs, key=lambda d: self._score(query, d), reverse=True)
+        return ranked[:k]
+
+
+# ====================================================================== #
+# 真实部署适配器（仅当依赖可用时启用；本沙箱不会触发）
+# ====================================================================== #
+class VLLMModel(ModelBackend):
+    """vLLM OpenAI 兼容端点适配器。
+
+    依赖：`openai` 客户端 + 运行中的 vLLM 服务（docker-compose 的 model 服务）。
+    """
+
+    def __init__(self, base_url: str = "http://model:8001/v1",
+                 model: str = "vertical-model", api_key: str = "EMPTY") -> None:
+        try:
+            from openai import OpenAI  # 延迟导入，缺失不影响离线运行
+        except Exception as e:  # pragma: no cover - 依赖缺失路径
+            raise RuntimeError("VLLMModel 需要安装 openai 客户端") from e
+        self._client = OpenAI(base_url=base_url, api_key=api_key)
+        self._model = model
+
+    def generate(self, prompt: str, **kwargs) -> str:  # pragma: no cover - 需真实服务
+        resp = self._client.chat.completions.create(
+            model=self._model,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=kwargs.get("temperature", 0.2),
+            max_tokens=kwargs.get("max_tokens", 1024),
+        )
+        return resp.choices[0].message.content or ""
+
+
+class ChromaVectorStore(VectorStore):
+    """ChromaDB + sentence-transformers 适配器。"""
+
+    def __init__(self, host: str = "vector_db", port: int = 8000,
+                 collection: str = "vertical_kb",
+                 embed_model: str = "sentence-transformers/all-MiniLM-L6-v2") -> None:
+        try:  # pragma: no cover - 依赖缺失路径
+            import chromadb
+            from sentence_transformers import SentenceTransformer
+        except Exception as e:  # pragma: no cover
+            raise RuntimeError("ChromaVectorStore 需要 chromadb + sentence-transformers") from e
+        self._client = chromadb.HttpClient(host=host, port=port)
+        self._col = self._client.get_or_create_collection(collection)
+        self._embed = SentenceTransformer(embed_model)
+
+    def add(self, doc: Doc) -> None:  # pragma: no cover - 需真实服务
+        vec = self._embed.encode(doc.content).tolist()
+        self._col.add(ids=[doc.id], documents=[doc.content],
+                      embeddings=[vec], metadatas=[doc.metadata])
+
+    def search(self, query: str, k: int = 5) -> List[Doc]:  # pragma: no cover
+        vec = self._embed.encode(query).tolist()
+        res = self._col.query(query_embeddings=[vec], n_results=k)
+        out: List[Doc] = []
+        for i, content in enumerate(res["documents"][0]):
+            meta = res["metadatas"][0][i]
+            out.append(Doc(id=meta.get("id", f"doc_{i}"), content=content, metadata=meta))
+        return out
+
+
+# ====================================================================== #
+# RAG 管线
+# ====================================================================== #
+class RAGPipeline:
+    """检索增强生成 —— 让模型输出锚定在可信文档上。"""
+
+    RAG_PROMPT = (
+        "基于以下可信文档回答问题。如果文档中没有相关信息，必须明确说\n"
+        "“根据现有资料无法确定”，不得编造。\n\n"
+        "=== 可信文档 ===\n{retrieved_docs}\n\n"
+        "=== 用户问题 ===\n{user_question}\n\n"
+        "=== 回答要求 ===\n"
+        "1. 每条事实陈述后标注来源：[doc_id]\n"
+        "2. 如果文档信息不完整，指明缺口\n"
+        "3. 禁止引用未在上方出现的文档\n"
+        "4. 如果多个文档矛盾，列出矛盾点"
+    )
+
+    # 低相关度（打招呼/闲聊/泛问）走这里：自然回答，不强制文档锚定。
+    CHAT_PROMPT = (
+        "你是企业 AI 助手，请自然、友好地回答用户。下面文档仅供参考——"
+        "相关就引用并标注 [doc_id]，不相关就忽略，不要硬扯文档。\n\n"
+        "=== 参考文档 ===\n{retrieved_docs}\n\n=== 用户 ===\n{user_question}\n\n助手："
+    )
+
+    RELEVANCE_THRESHOLD = 0.2
+
+    def __init__(self, vector_db: VectorStore, model: ModelBackend) -> None:
+        self.db = vector_db
+        self.model = model
+
+    @staticmethod
+    def _relevance(question: str, docs: List[Doc]) -> float:
+        """问题与最相关文档的重叠度。中日韩按字、拉丁按词，解决中文整串不分词的问题。"""
+        def toks(s: str):
+            cjk = set(re.findall(r"[\u4e00-\u9fff]", s))
+            latin = set(re.findall(r"[a-zA-Z]+", s.lower()))
+            return cjk | latin
+        q = toks(question)
+        if not q:
+            return 0.0
+        best = 0.0
+        for d in docs:
+            inter = len(q & toks(d.content))
+            best = max(best, inter / len(q))
+        return best
+
+    def query(self, question: str, k: int = 5) -> Dict[str, Any]:
+        """检索 top-k（可信源优先）→ 按相关度选锚定/闲聊提示词 → 生成 → 抽取引用。"""
+        docs = self.db.search(question, k=k)
+        docs = sorted(docs, key=lambda d: d.metadata.get("trust_score", 0), reverse=True)
+        joined = "\n\n---\n".join(f"[{d.id}] {d.content}" for d in docs) or "(无检索结果)"
+        relevant = self._relevance(question, docs) >= self.RELEVANCE_THRESHOLD
+        template = self.RAG_PROMPT if relevant else self.CHAT_PROMPT
+        prompt = template.format(retrieved_docs=joined, user_question=question)
+        answer = self.model.generate(prompt)
+        citations = re.findall(r"\[doc_\d+\]", answer)
+        return {
+            "answer": answer,
+            "sources": [d.metadata | {"id": d.id} for d in docs] if relevant else [],
+            "citations": citations,
+            "has_grounding": len(citations) > 0,
+            "grounded_mode": relevant,
+            "retrieved": len(docs),
+        }
+
+
+# ====================================================================== #
+# 分步推理器（思考过程可视化的后端）
+# ====================================================================== #
+class StepwiseReasoner:
+    """问题拆解 + 逐步求解 + 主动证伪 + 置信度，输出可视化推理链。"""
+
+    DECOMPOSE_PROMPT = (
+        "将以下复杂问题拆解为 3-5 个可独立验证的子步骤。每个子步骤应原子化、"
+        "可检验。仅输出 JSON 数组：[{{\"step\":1,\"question\":\"子问题\","
+        "\"verification\":\"如何验证\"}}]\n\n问题：{question}"
+    )
+    FALSIFY_PROMPT = (
+        "你是{domain}领域专家。对子问题：{question}\n"
+        "1.【主回答】给出最佳答案与关键假设\n"
+        "2.【主动证伪】列 2-3 个可能错的假设，各给推翻方法与“若错则正确答案”\n"
+        "3.【不确定性】1-10 打分并说明扣分点\n"
+        "4.【查证路径】指出需查的数据源与关键词"
+    )
+
+    def __init__(self, model: ModelBackend) -> None:
+        self.model = model
+
+    def _safe_json(self, text: str, default: Any) -> Any:
+        """容错解析模型 JSON 输出，剥离可能的代码围栏。"""
+        cleaned = re.sub(r"```(?:json)?|```", "", text).strip()
+        try:
+            return json.loads(cleaned)
+        except Exception:
+            return default
+
+    def reason(self, question: str, domain: str = "general") -> Dict[str, Any]:
+        """返回可视化推理链：每步含答案、证伪、置信度、耗时占位。"""
+        import time
+
+        steps_spec = self._safe_json(
+            self.model.generate(self.DECOMPOSE_PROMPT.format(question=question)),
+            default=[{"step": 1, "question": question, "verification": "直接核对"}],
+        )
+        chain: List[Dict[str, Any]] = []
+        for spec in steps_spec:
+            t0 = time.time()
+            sub_q = spec.get("question", question)
+            falsify = self.model.generate(self.FALSIFY_PROMPT.format(domain=domain, question=sub_q))
+            answer = self.model.generate(sub_q)
+            confidence = self._estimate_confidence(answer, falsify)
+            chain.append({
+                "id": spec.get("step", len(chain) + 1),
+                "label": sub_q[:24],
+                "status": "completed",
+                "question": sub_q,
+                "answer": answer,
+                "falsify": falsify,
+                "verification": spec.get("verification", ""),
+                "confidence": confidence,
+                "duration_ms": int((time.time() - t0) * 1000),
+            })
+        overall = round(sum(c["confidence"] for c in chain) / max(len(chain), 1), 3)
+        return {
+            "steps": chain,
+            "final_answer": self._synthesize(chain),
+            "overall_confidence": overall,
+        }
+
+    @staticmethod
+    def _estimate_confidence(answer: str, falsify: str) -> float:
+        """启发式置信度：答案含不确定词或证伪暴露翻转风险则降低。"""
+        conf = 0.85
+        if re.search(r"无法确定|不确定|可能|也许|大概", answer):
+            conf -= 0.25
+        if re.search(r"翻转|不成立|反例", falsify):
+            conf -= 0.1
+        return round(max(0.1, min(conf, 0.99)), 3)
+
+    @staticmethod
+    def _synthesize(chain: List[Dict[str, Any]]) -> str:
+        if not chain:
+            return "（无可综合的步骤）"
+        return "综合各子步骤：" + "；".join(c["label"] for c in chain)

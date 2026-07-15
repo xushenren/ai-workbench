@@ -1,1 +1,104 @@
-IiIiCmdyb3VuZGluZy5weSDigJQg5oqKIHYxLjAg55+l6K+G5byV5pOO55qE55yf5q2j5Lu35YC85o6l5Zue5Li76ZO+6LevCgrooaXkuInku7bkuIrkuIDniYjmsqHokL3lnLDnmoTkuovvvJoKICAxLiBSQUcgZ3JvdW5kaW5n77ya5ou/IDIyMDc0IOWIh+eJh+WBmuajgOe0ouWinuW8uu+8jOetlOahiOacieaNruWPr+S+ne+8iOiAjOS4jeaYr+WPqumdoOaooeWei+iusOW/hu+8iQogIDIuIOiHquWKqOW8leeUqO+8muajgOe0ouWIsOeahOavj+adoeWIh+eJh+e8luWPtyBbUzFdW1MyXeKApu+8jOazqOWFpeS4iuS4i+aWhyArIOimgeaxguaooeWei+aMiee8luWPt+W8leeUqO+8jAogICAgIOWHuuermeWGjeaKiueUqOWIsOeahOadpea6kOmZhOaIkOOAjOWPguiAg+adpea6kOOAjea4heWNle+8iHNwZWMg5Lu75YqhMSDnmoQi562U5qGI5bim5p2l5rqQ5qCH5rOoIu+8iQogIDMuIOaWveW3pSLlrqrms5Ui6KeE5YiZ77yaY29uc3RpdHV0aW9uX3J1bGVzIOS9nOS4uioq56Gs57qm5p2fKirms6jlhaUgc3lzdGVt77yM5ZG95Lit5LiT5Lia55qE5by65Yi25p2h5qy+5LyY5YWICgrmo4DntKLotbDms6jlhaXnmoQgUkFHX1NFQVJDSCDlm57osIPvvIjkuI4gbWNwX3NlcnZlciDlhbHnlKjlkIzkuIDkuKrlupXlsYLmo4DntKLvvInvvIzmnKrmjqXpgJrml7bmlbTkvZPpmY3nuqfkuLoK44CM5LiN5rOo5YWl44CB5LiN5by65Yi25byV55So44CN77yM5Li76ZO+6Lev54Wn5bi44oCU4oCU5Y2z5LiN5o6l55+l6K+G5bqT5Lmf6IO9562U77yM5Y+q5piv6YCA5ZueIHYwIOeahOe6r+aooeWei+WbnuetlOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHJlCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcwpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBDYWxsYWJsZSwgT3B0aW9uYWwKCk1lc3NhZ2UgPSBkaWN0W3N0ciwgQW55XQoKIyAocXVlcnksIGZpbHRlcnMpIC0+IFt7Y29udGVudCwgc291cmNlX3R5cGUsIHNvdXJjZV9pZCwgc2tpbGxfaWQsIHN0YW5kYXJkc19yZWYsIHNjb3JlfV0KUkFHX1NFQVJDSDogT3B0aW9uYWxbQ2FsbGFibGVbW3N0ciwgZGljdF0sIGxpc3RbZGljdF1dXSA9IE5vbmUKCgpAZGF0YWNsYXNzCmNsYXNzIFNvdXJjZToKICAgIHRhZzogc3RyICAgICAgICAgICMgUzEsIFMyLCAuLi4KICAgIGNvbnRlbnQ6IHN0cgogICAgc291cmNlX3R5cGU6IHN0ciAgIyBzbGljZSB8IHN0YW5kYXJkIHwgY29uc3RpdHV0aW9uIHwgY2F1c2FsCiAgICBzb3VyY2VfaWQ6IHN0cgogICAgcmVmOiBzdHIgPSAiIiAgICAgIyDmoIflh4blj7cgLyDmlofku7blkI0KCgpkZWYgcmV0cmlldmUocXVlcnk6IHN0ciwgc2tpbGxfaWRzOiBsaXN0W3N0cl0sIHRvcF9rOiBpbnQgPSA2LCBydWxlc19rOiBpbnQgPSA0KSAtPiBsaXN0W1NvdXJjZV06CiAgICAiIiLmo4DntKLluLjop4Tnn6Xor4bliIfniYcgKyDlkb3kuK3kuJPkuJrnmoTlrqrms5Uv5qCH5YeG56Gs5p2h5qy+44CCIiIiCiAgICBpZiBub3QgUkFHX1NFQVJDSDoKICAgICAgICByZXR1cm4gW10KICAgIHNvdXJjZXM6IGxpc3RbU291cmNlXSA9IFtdCiAgICBuID0gMAoKICAgIGRlZiBfYWRkKGhpdHM6IGxpc3RbZGljdF0pOgogICAgICAgIG5vbmxvY2FsIG4KICAgICAgICBmb3IgaCBpbiBoaXRzOgogICAgICAgICAgICBuICs9IDEKICAgICAgICAgICAgc291cmNlcy5hcHBlbmQoU291cmNlKAogICAgICAgICAgICAgICAgdGFnPWYiU3tufSIsCiAgICAgICAgICAgICAgICBjb250ZW50PXN0cihoLmdldCgiY29udGVudCIsICIiKSkuc3RyaXAoKSwKICAgICAgICAgICAgICAgIHNvdXJjZV90eXBlPWguZ2V0KCJzb3VyY2VfdHlwZSIsICJzbGljZSIpLAogICAgICAgICAgICAgICAgc291cmNlX2lkPXN0cihoLmdldCgic291cmNlX2lkIiwgaC5nZXQoImRvY19pZCIsIG4pKSksCiAgICAgICAgICAgICAgICByZWY9aC5nZXQoInN0YW5kYXJkc19yZWYiLCAiIikgb3IgaC5nZXQoInNvdXJjZSIsICIiKSwKICAgICAgICAgICAgKSkKCiAgICAjIDEpIOW4uOinhOWIh+eJh++8iOWPr+aMiSBza2lsbCDov4fmu6TvvIkKICAgIGYgPSB7InNraWxsX2lkIjogc2tpbGxfaWRzWzBdfSBpZiBza2lsbF9pZHMgZWxzZSB7fQogICAgX2FkZChSQUdfU0VBUkNIKHF1ZXJ5LCB7KipmLCAidG9wX2siOiB0b3Bfa30pKQogICAgIyAyKSDlrqrms5Uv5qCH5YeG56Gs5p2h5qy+77yI5by65Yi25LyY5YWI57qn77yM5Y2V54us5qOA57Si5L+d6K+B5LiN6KKr5pmu6YCa5YiH54mH5oyk5o6J77yJCiAgICBfYWRkKFJBR19TRUFSQ0gocXVlcnksIHsic291cmNlX3R5cGUiOiAiY29uc3RpdHV0aW9uIiwgInRvcF9rIjogcnVsZXNfa30pKQogICAgcmV0dXJuIHNvdXJjZXMKCgpkZWYgaW5qZWN0KG1lc3NhZ2VzOiBsaXN0W01lc3NhZ2VdLCBzb3VyY2VzOiBsaXN0W1NvdXJjZV0pIC0+IGxpc3RbTWVzc2FnZV06CiAgICAiIiLmiormnaXmupDnvJblj7fms6jlhaUgc3lzdGVt77yM5bm26KaB5rGC5qih5Z6L5oyJIFtTI10g5byV55So77yb5a6q5rOV5p2h5qy+5qCH5Li65by65Yi244CCIiIiCiAgICBpZiBub3Qgc291cmNlczoKICAgICAgICByZXR1cm4gbWVzc2FnZXMKICAgIGxpbmVzID0gW10KICAgIHJ1bGVzID0gW3MgZm9yIHMgaW4gc291cmNlcyBpZiBzLnNvdXJjZV90eXBlIGluICgiY29uc3RpdHV0aW9uIiwgInN0YW5kYXJkIildCiAgICByZWZzID0gW3MgZm9yIHMgaW4gc291cmNlcyBpZiBzIG5vdCBpbiBydWxlc10KICAgIGlmIHJ1bGVzOgogICAgICAgIGxpbmVzLmFwcGVuZCgi44CQ5by65Yi26KeE6IyD77yI6L+d5Y+N5Y2z6ZSZ77yM5LyY5YWI57qn5pyA6auY77yJ44CRIikKICAgICAgICBsaW5lcyArPSBbZiJbe3MudGFnfV0ge3MuY29udGVudH0iICsgKGYi77yIe3MucmVmfe+8iSIgaWYgcy5yZWYgZWxzZSAiIikgZm9yIHMgaW4gcnVsZXNdCiAgICBpZiByZWZzOgogICAgICAgIGxpbmVzLmFwcGVuZCgiXG7jgJDlj4LogIPotYTmlpnvvIjmja7mraTkvZznrZTvvIzmjInnvJblj7flvJXnlKjvvInjgJEiKQogICAgICAgIGxpbmVzICs9IFtmIlt7cy50YWd9XSB7cy5jb250ZW50fSIgZm9yIHMgaW4gcmVmc10KICAgIGdyb3VuZGluZ19tc2cgPSB7CiAgICAgICAgInJvbGUiOiAic3lzdGVtIiwKICAgICAgICAiY29udGVudCI6ICgKICAgICAgICAgICAgIuWbnuetlOW/hemhu+WfuuS6juS4i+WIl+i1hOaWme+8jOWFs+mUrue7k+iuuuWQjueUqCBbUyNdIOagh+azqOadpea6kO+8m+i1hOaWmeacquimhuebluWkhOaYjuehruivtOaYjiIKICAgICAgICAgICAgIuOAjOS+neaNrumAmueUqOW3peeoi+e7j+mqjOOAje+8jOS4jeimgee8lumAoOinhOiMg+WPt+aIluaVsOaNruOAglxuXG4iICsgIlxuIi5qb2luKGxpbmVzKQogICAgICAgICksCiAgICB9CiAgICAjIOaUvuWcqCBTa2lsbCDms6jlhaXkuYvlkI7jgIHlr7nor53kuYvliY0KICAgIHN5cyA9IFttIGZvciBtIGluIG1lc3NhZ2VzIGlmIG0uZ2V0KCJyb2xlIikgPT0gInN5c3RlbSJdCiAgICBib2R5ID0gW20gZm9yIG0gaW4gbWVzc2FnZXMgaWYgbS5nZXQoInJvbGUiKSAhPSAic3lzdGVtIl0KICAgIHJldHVybiBzeXMgKyBbZ3JvdW5kaW5nX21zZ10gKyBib2R5CgoKQ0lURSA9IHJlLmNvbXBpbGUociJcW1MoXGQrKVxdIikKCgpkZWYgYXBwZW5kX3NvdXJjZXMoY29udGVudDogc3RyLCBzb3VyY2VzOiBsaXN0W1NvdXJjZV0pIC0+IHN0cjoKICAgICIiIuWHuuerme+8muaKiuato+aWh+WunumZheW8leeUqOWIsOeahOadpea6kOaVtOeQhuaIkOOAjOWPguiAg+adpea6kOOAjea4heWNle+8iOiHquWKqOW8leeUqOiQveWcsO+8ieOAgiIiIgogICAgdXNlZCA9IHtmIlN7bX0iIGZvciBtIGluIENJVEUuZmluZGFsbChjb250ZW50KX0KICAgIGlmIG5vdCB1c2VkOgogICAgICAgIHJldHVybiBjb250ZW50CiAgICBieV90YWcgPSB7cy50YWc6IHMgZm9yIHMgaW4gc291cmNlc30KICAgIGxpc3RlZCA9IFtieV90YWdbdF0gZm9yIHQgaW4gc29ydGVkKHVzZWQsIGtleT1sYW1iZGEgeDogaW50KHhbMTpdKSkgaWYgdCBpbiBieV90YWddCiAgICBpZiBub3QgbGlzdGVkOgogICAgICAgIHJldHVybiBjb250ZW50CiAgICBibG9jayA9ICJcblxuLS0tXG7lj4LogIPmnaXmupDvvJpcbiIgKyAiXG4iLmpvaW4oCiAgICAgICAgZiJbe3MudGFnfV0ge3MucmVmIG9yIHMuc291cmNlX2lkfSIKICAgICAgICBmIu+8iHsgeydjb25zdGl0dXRpb24nOifmlr3lt6Xlrqrms5UnLCdzdGFuZGFyZCc6J+agh+WHhuadoeaWhycsJ3NsaWNlJzon55+l6K+G5bqTJywnY2F1c2FsJzon5Zug5p6c6ZO+J30uZ2V0KHMuc291cmNlX3R5cGUsIHMuc291cmNlX3R5cGUpIH3vvIkiCiAgICAgICAgZm9yIHMgaW4gbGlzdGVkCiAgICApCiAgICByZXR1cm4gY29udGVudCArIGJsb2NrCg==
+"""
+grounding.py — 把 v1.0 知识引擎的真正价值接回主链路
+
+补三件上一版没落地的事：
+  1. RAG grounding：拿 22074 切片做检索增强，答案有据可依（而不是只靠模型记忆）
+  2. 自动引用：检索到的每条切片编号 [S1][S2]…，注入上下文 + 要求模型按编号引用，
+     出站再把用到的来源附成「参考来源」清单（spec 任务1 的"答案带来源标注"）
+  3. 施工"宪法"规则：constitution_rules 作为**硬约束**注入 system，命中专业的强制条款优先
+
+检索走注入的 RAG_SEARCH 回调（与 mcp_server 共用同一个底层检索），未接通时整体降级为
+「不注入、不强制引用」，主链路照常——即不接知识库也能答，只是退回 v0 的纯模型回答。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass
+from typing import Any, Callable, Optional
+
+Message = dict[str, Any]
+
+# (query, filters) -> [{content, source_type, source_id, skill_id, standards_ref, score}]
+RAG_SEARCH: Optional[Callable[[str, dict], list[dict]]] = None
+
+
+@dataclass
+class Source:
+    tag: str          # S1, S2, ...
+    content: str
+    source_type: str  # slice | standard | constitution | causal
+    source_id: str
+    ref: str = ""     # 标准号 / 文件名
+
+
+def retrieve(query: str, skill_ids: list[str], top_k: int = 6, rules_k: int = 4) -> list[Source]:
+    """检索常规知识切片 + 命中专业的宪法/标准硬条款。"""
+    if not RAG_SEARCH:
+        return []
+    sources: list[Source] = []
+    n = 0
+
+    def _add(hits: list[dict]):
+        nonlocal n
+        for h in hits:
+            n += 1
+            sources.append(Source(
+                tag=f"S{n}",
+                content=str(h.get("content", "")).strip(),
+                source_type=h.get("source_type", "slice"),
+                source_id=str(h.get("source_id", h.get("doc_id", n))),
+                ref=h.get("standards_ref", "") or h.get("source", ""),
+            ))
+
+    # 1) 常规切片（可按 skill 过滤）
+    f = {"skill_id": skill_ids[0]} if skill_ids else {}
+    _add(RAG_SEARCH(query, {**f, "top_k": top_k}))
+    # 2) 宪法/标准硬条款（强制优先级，单独检索保证不被普通切片挤掉）
+    _add(RAG_SEARCH(query, {"source_type": "constitution", "top_k": rules_k}))
+    return sources
+
+
+def inject(messages: list[Message], sources: list[Source]) -> list[Message]:
+    """把来源编号注入 system，并要求模型按 [S#] 引用；宪法条款标为强制。"""
+    if not sources:
+        return messages
+    lines = []
+    rules = [s for s in sources if s.source_type in ("constitution", "standard")]
+    refs = [s for s in sources if s not in rules]
+    if rules:
+        lines.append("【强制规范（违反即错，优先级最高）】")
+        lines += [f"[{s.tag}] {s.content}" + (f"（{s.ref}）" if s.ref else "") for s in rules]
+    if refs:
+        lines.append("\n【参考资料（据此作答，按编号引用）】")
+        lines += [f"[{s.tag}] {s.content}" for s in refs]
+    grounding_msg = {
+        "role": "system",
+        "content": (
+            "回答必须基于下列资料，关键结论后用 [S#] 标注来源；资料未覆盖处明确说明"
+            "「依据通用工程经验」，不要编造规范号或数据。\n\n" + "\n".join(lines)
+        ),
+    }
+    # 放在 Skill 注入之后、对话之前
+    sys = [m for m in messages if m.get("role") == "system"]
+    body = [m for m in messages if m.get("role") != "system"]
+    return sys + [grounding_msg] + body
+
+
+CITE = re.compile(r"\[S(\d+)\]")
+
+
+def append_sources(content: str, sources: list[Source]) -> str:
+    """出站：把正文实际引用到的来源整理成「参考来源」清单（自动引用落地）。"""
+    used = {f"S{m}" for m in CITE.findall(content)}
+    if not used:
+        return content
+    by_tag = {s.tag: s for s in sources}
+    listed = [by_tag[t] for t in sorted(used, key=lambda x: int(x[1:])) if t in by_tag]
+    if not listed:
+        return content
+    block = "\n\n---\n参考来源：\n" + "\n".join(
+        f"[{s.tag}] {s.ref or s.source_id}"
+        f"（{ {'constitution':'施工宪法','standard':'标准条文','slice':'知识库','causal':'因果链'}.get(s.source_type, s.source_type) }）"
+        for s in listed
+    )
+    return content + block

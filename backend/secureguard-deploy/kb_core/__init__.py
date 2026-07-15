@@ -1,1 +1,36 @@
-IiIia2JfY29yZSDigJQg55+l6K+G5bqT5LiJ5rGgICsg572u5L+h5pmL5Y2HKOW7uuWcqCBvcmdfY29yZSDkuYvkuIop44CCIiIiCmZyb20gLm1vZGVscyBpbXBvcnQgRW50cnlTdGF0dXMsIEluc3BlY3Rpb24sIEtCRW50cnksIFBvb2wKZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgS0JSZXBvLCBTcWxpdGVLQlJlcG8KZnJvbSAuc2VydmljZSBpbXBvcnQgS0JDb25mbGljdCwgS0JTZXJ2aWNlCmZyb20gLmluc3BlY3QgaW1wb3J0IGluc3BlY3QKCl9fYWxsX18gPSBbCiAgICAiUG9vbCIsICJFbnRyeVN0YXR1cyIsICJLQkVudHJ5IiwgIkluc3BlY3Rpb24iLAogICAgIktCUmVwbyIsICJTcWxpdGVLQlJlcG8iLCAiS0JTZXJ2aWNlIiwgIktCQ29uZmxpY3QiLCAiaW5zcGVjdCIsCiAgICAiY29uZmlkZW5jZV9sYWJlbCIsICJhbm5vdGF0ZV9zb3VyY2VzIiwKXQpfX3ZlcnNpb25fXyA9ICIwLjEuMCIKCiMg572u5L+h5qCH562+KOe7meetlOWkjS9ncm91bmRpbmcg55SoKTrmsaAg4oaSIOmdouWQkeeUqOaIt+eahOWPr+S/oeW6puaPkOekugpfTEFCRUwgPSB7CiAgICBQb29sLlBVQkxJQ19ISUdIOiAoIumrmOe9ruS/oSIsICLlt7LnlLHkuJPlrrblrqHlrpoiKSwKICAgIFBvb2wuUFVCTElDX0xPVzogKCLkvY7nva7kv6EiLCAi55So5oi35YWx5LqrIMK3IOW+heaguOWuniIpLAogICAgUG9vbC5QUklWQVRFOiAoIuengeaciSIsICLku4XkvaDlj6/op4EiKSwKfQoKCmRlZiBjb25maWRlbmNlX2xhYmVsKGVudHJ5OiAiS0JFbnRyeSIpIC0+IHR1cGxlW3N0ciwgc3RyXToKICAgIHJldHVybiBfTEFCRUwuZ2V0KGVudHJ5LnBvb2wsICgi5pyq55+lIiwgIiIpKQoKCmRlZiBhbm5vdGF0ZV9zb3VyY2VzKGVudHJpZXM6IGxpc3RbIktCRW50cnkiXSkgLT4gZGljdDoKICAgICIiIuaKiuajgOe0oue7k+aenOaMiee9ruS/oeWIhue7hCzkvpvnrZTlpI3liIbmrrXmoIfms6g65ZOq5Lqb6auY572u5L+h44CB5ZOq5Lqb5L2O572u5L+hKOmcgOaguOWuninjgIIiIiIKICAgIGhpZ2ggPSBbZSBmb3IgZSBpbiBlbnRyaWVzIGlmIGUucG9vbCA9PSBQb29sLlBVQkxJQ19ISUdIXQogICAgbG93ID0gW2UgZm9yIGUgaW4gZW50cmllcyBpZiBlLnBvb2wgPT0gUG9vbC5QVUJMSUNfTE9XXQogICAgcHJpdmF0ZSA9IFtlIGZvciBlIGluIGVudHJpZXMgaWYgZS5wb29sID09IFBvb2wuUFJJVkFURV0KICAgIHJldHVybiB7CiAgICAgICAgImhpZ2giOiBbZS50aXRsZSBmb3IgZSBpbiBoaWdoXSwKICAgICAgICAibG93IjogW2UudGl0bGUgZm9yIGUgaW4gbG93XSwKICAgICAgICAicHJpdmF0ZSI6IFtlLnRpdGxlIGZvciBlIGluIHByaXZhdGVdLAogICAgICAgICJyaXNrX2hpbnQiOiAoIumDqOWIhuWGheWuueadpeiHquS9jue9ruS/oS/mnKrmoLjlrp7mnaXmupAs6K+36LCo5oWO6YeH55So44CCIiBpZiBsb3cgZWxzZSAiIiksCiAgICB9Cg==
+"""kb_core — 知识库三池 + 置信晋升(建在 org_core 之上)。"""
+from .models import EntryStatus, Inspection, KBEntry, Pool
+from .repository import KBRepo, SqliteKBRepo
+from .service import KBConflict, KBService
+from .inspect import inspect
+
+__all__ = [
+    "Pool", "EntryStatus", "KBEntry", "Inspection",
+    "KBRepo", "SqliteKBRepo", "KBService", "KBConflict", "inspect",
+    "confidence_label", "annotate_sources",
+]
+__version__ = "0.1.0"
+
+# 置信标签(给答复/grounding 用):池 → 面向用户的可信度提示
+_LABEL = {
+    Pool.PUBLIC_HIGH: ("高置信", "已由专家审定"),
+    Pool.PUBLIC_LOW: ("低置信", "用户共享 · 待核实"),
+    Pool.PRIVATE: ("私有", "仅你可见"),
+}
+
+
+def confidence_label(entry: "KBEntry") -> tuple[str, str]:
+    return _LABEL.get(entry.pool, ("未知", ""))
+
+
+def annotate_sources(entries: list["KBEntry"]) -> dict:
+    """把检索结果按置信分组,供答复分段标注:哪些高置信、哪些低置信(需核实)。"""
+    high = [e for e in entries if e.pool == Pool.PUBLIC_HIGH]
+    low = [e for e in entries if e.pool == Pool.PUBLIC_LOW]
+    private = [e for e in entries if e.pool == Pool.PRIVATE]
+    return {
+        "high": [e.title for e in high],
+        "low": [e.title for e in low],
+        "private": [e.title for e in private],
+        "risk_hint": ("部分内容来自低置信/未核实来源,请谨慎采用。" if low else ""),
+    }

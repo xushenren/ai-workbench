@@ -1,1 +1,170 @@
-IiIic2VjdXJlZ3VhcmQuZXZvbHV0aW9uX2dhdGVzIOKAlCDpgJLlvZLov5vljJbooaXkuIHpl6jnpoHvvIjlm57nrZTlkqjor6IgIzEg55qEIumYsuegtOWdjyArIOWbnua7miLvvInjgIIKClJlZmluZXIg5Lqn5Ye655qE5LiN5piv6Ieq55Sx5Luj56CB77yM6ICM5piv5Y+X57qm5p2f55qEIFBhdGNo44CC5Lu75L2VIHBhdGNoIOiQveebmOWJjeW/hemhu+epv+i/h+i/meS4sumXqO+8mgoKICAgIEcxIHBsYW5lMF9pbW11dGFibGUgICDnm67moIfoi6XlsZ4gUGxhbmUtMO+8iOe6oue6vy/miqTmoI8v6KOB5YazL+etlueVpeaooeWdl++8ieKGkiDnm7TmjqXmi5LvvIhSLTEy77yJCiAgICBHMiBhcHBlbmRfb25seV9wbGFuZTEg55uu5qCH6Iul5ZyoIGNvbmZpZy9wbGFuZTEvIOKGkiDlj6rlhYHorrggYXBwZW5k77yM56aB5q2i5pS5L+WIoOaXouacieihjAogICAgRzMgc3ludGF4X2dhdGUgICAgICAgIC5weSDnm67moIfnvJbor5HpgJrov4fvvIjor63ms5Xpl6jvvIkKICAgIEc0IHRlc3RfZ2F0ZSAgICAgICAgICDlupTnlKjlkI7ot5HmtYvor5Xlv4Xpobvlhajnu7/vvIjmraPnoa7mgKfpl6jvvIxEZWZhdWx0LUZBSUzvvIkKICAgIEc1IHJvbGxiYWNrICAgICAgICAgICDlupTnlKjliY3lv6vnhafvvIzku7vkuIDmraXlpLHotKXljbPljp/lrZDlm57mu5oKCuiuvuiuoeimgeeCue+8mumXqOeahOmhuuW6j+aYryLotorkuI3lj6/pgIYv6LaK5Y2x6Zmp6LaK6Z2g5YmNIuOAgkcxL0cyIOaYr+e6r+mdmeaAgeWIpOWumu+8iOacgOS+v+WunOOAgeacgOivpeWFiOi3ke+8ie+8jApHMyDnvJbor5HvvIxHNCDmiY3nnJ/mraPlupTnlKjlubbot5HmtYvor5XvvIxHNSDlhZzlupXlm57mu5rjgILnuq/moIflh4blupPjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBvcwppbXBvcnQgc2h1dGlsCmltcG9ydCB0ZW1wZmlsZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBDYWxsYWJsZSwgTGlzdCwgT3B0aW9uYWwsIFR1cGxlCgojIFBsYW5lLTAg5L+d5oqk5riF5Y2V77ya55u45a+55LuT5bqT5qC555qE6Lev5b6E5YmN57yA44CC5ZG95Lit5Y2z5LiN5Y+v5YaZ44CCClBST1RFQ1RFRF9QUkVGSVhFUyA9ICgKICAgICJjb25maWcvYXJiaXRyYXRpb24tYW5kLWdhdGVzLm1kIiwKICAgICJjb25maWcvcmVkbGluZXMueWFtbCIsCiAgICAiY29uZmlnL2RvbWFpbl9ndWFyZHMueWFtbCIsCiAgICAic2VjdXJlZ3VhcmQvbDFfZ2F0ZS5weSIsICAgICAgICAjIOe6oue6vy/miqTmoI8v6KOB5Yaz55qE5Luj56CB6L295L2TCiAgICAic2VjdXJlZ3VhcmQvcmV0cmlldmFsX2d1YXJkLnB5IiwKICAgICJzZWN1cmVndWFyZC9ldm9sdXRpb25fZ2F0ZXMucHkiLAopCiMg5LuF5YWB6K64IGFwcGVuZCDnmoQgUGxhbmUtMSDljLrln58KUExBTkUxX1BSRUZJWCA9ICJjb25maWcvcGxhbmUxLyIKCgpAZGF0YWNsYXNzCmNsYXNzIFBhdGNoOgogICAgIiIi5LiA5Liq5Y+X57qm5p2f55qE6KGl5LiB44CCIiIiCgogICAgdGFyZ2V0OiBzdHIgICAgICAgICAgICAgICAgICAgICAgICMg55u45a+55LuT5bqT5qC555qE6Lev5b6ECiAgICBtb2RlOiBzdHIgICAgICAgICAgICAgICAgICAgICAgICAgIyBhcHBlbmQgLyByZXBsYWNlIC8gY3JlYXRlCiAgICBjb250ZW50OiBzdHIgICAgICAgICAgICAgICAgICAgICAgIyBhcHBlbmQvY3JlYXRlIOeahOaWsOWinuWGheWuue+8m3JlcGxhY2Ug55qE5YWo5paHCiAgICBvbGRfY29udGVudDogT3B0aW9uYWxbc3RyXSA9IE5vbmUgICMgcmVwbGFjZSDml7bnmoTpooTmnJ/ljp/mlofvvIjkuZDop4LplIHvvIzlj6/pgInvvIkKCgpAZGF0YWNsYXNzCmNsYXNzIEdhdGVPdXRjb21lOgogICAgYWNjZXB0ZWQ6IGJvb2wKICAgIHJlamVjdGVkX2J5OiBzdHIgPSAiIgogICAgcmVhc29uOiBzdHIgPSAiIgogICAgcm9sbGVkX2JhY2s6IGJvb2wgPSBGYWxzZQogICAgbm90ZXM6IExpc3Rbc3RyXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQoKCmRlZiBfbm9ybShwYXRoOiBzdHIpIC0+IHN0cjoKICAgIHJldHVybiBwYXRoLnJlcGxhY2UoIlxcIiwgIi8iKS5sc3RyaXAoIi4vIikKCgpjbGFzcyBFdm9sdXRpb25HYXRlczoKICAgICIiIuihpeS4gemXqOemgeOAgmFwcGx5KCkg5Liy6LW3IEcxLi5HNeOAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCByZXBvX3Jvb3Q6IHN0cikgLT4gTm9uZToKICAgICAgICBzZWxmLnJvb3QgPSBvcy5wYXRoLmFic3BhdGgocmVwb19yb290KQoKICAgICMgLS0tLSBHMSAtLS0tCiAgICBkZWYgX2cxX3BsYW5lMChzZWxmLCBwYXRjaDogUGF0Y2gpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAgICAgdCA9IF9ub3JtKHBhdGNoLnRhcmdldCkKICAgICAgICBmb3IgcCBpbiBQUk9URUNURURfUFJFRklYRVM6CiAgICAgICAgICAgIGlmIHQgPT0gcCBvciB0LnN0YXJ0c3dpdGgocCk6CiAgICAgICAgICAgICAgICByZXR1cm4gZiJyZWRsaW5lOlItMTIg55uu5qCH5bGeIFBsYW5lLTAg5LiN5Y+v5YaZOiB7dH0iCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICAjIC0tLS0gRzIgLS0tLQogICAgZGVmIF9nMl9hcHBlbmRfb25seShzZWxmLCBwYXRjaDogUGF0Y2gpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAgICAgdCA9IF9ub3JtKHBhdGNoLnRhcmdldCkKICAgICAgICBpZiB0LnN0YXJ0c3dpdGgoUExBTkUxX1BSRUZJWCkgYW5kIHBhdGNoLm1vZGUgIT0gImFwcGVuZCI6CiAgICAgICAgICAgIHJldHVybiBmIlBsYW5lLTEg5LuF5YWB6K64IGFwcGVuZO+8jOaUtuWIsCBtb2RlPXtwYXRjaC5tb2RlfSIKICAgICAgICAjIGFwcGVuZCDmqKHlvI/lr7nku7vkvZXlt7LlrZjlnKjmlofku7bpg73kuI3lvpfliKDmlLnml6LmnInlhoXlrrnvvIjlpKnnhLbmu6HotrPvvInvvIwKICAgICAgICAjIHJlcGxhY2Ug5qih5byP6Iul5pS55YqoIFBsYW5lLTEg5paH5Lu255qE5pei5pyJ6KGM5YiZ6L+d6KeE77yI5bey6KKr5LiK6Z2i5oum5oiq77yJ44CCCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICAjIC0tLS0gRzMgLS0tLQogICAgZGVmIF9nM19zeW50YXgoc2VsZiwgcGF0Y2g6IFBhdGNoLCBuZXdfZnVsbF90ZXh0OiBzdHIpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAgICAgaWYgX25vcm0ocGF0Y2gudGFyZ2V0KS5lbmRzd2l0aCgiLnB5Iik6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGNvbXBpbGUobmV3X2Z1bGxfdGV4dCwgcGF0Y2gudGFyZ2V0LCAiZXhlYyIpCiAgICAgICAgICAgIGV4Y2VwdCBTeW50YXhFcnJvciBhcyBlOgogICAgICAgICAgICAgICAgcmV0dXJuIGYi6K+t5rOV6Zeo5aSx6LSlOiB7ZX0iCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgX21hdGVyaWFsaXplKHNlbGYsIHBhdGNoOiBQYXRjaCkgLT4gVHVwbGVbc3RyLCBzdHJdOgogICAgICAgICIiIui/lOWbniAo57ud5a+56Lev5b6ELCDlupTnlKjlkI7nmoTlrozmlbTmlofmnKwp77yM5LiN6JC955uY44CCIiIiCiAgICAgICAgYWJzcGF0aCA9IG9zLnBhdGguam9pbihzZWxmLnJvb3QsIF9ub3JtKHBhdGNoLnRhcmdldCkpCiAgICAgICAgZXhpc3RpbmcgPSAiIgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKGFic3BhdGgpOgogICAgICAgICAgICB3aXRoIG9wZW4oYWJzcGF0aCwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgICAgIGV4aXN0aW5nID0gZi5yZWFkKCkKICAgICAgICBpZiBwYXRjaC5tb2RlID09ICJhcHBlbmQiOgogICAgICAgICAgICBuZXdfdGV4dCA9IGV4aXN0aW5nICsgKCJcbiIgaWYgZXhpc3RpbmcgYW5kIG5vdCBleGlzdGluZy5lbmRzd2l0aCgiXG4iKSBlbHNlICIiKSArIHBhdGNoLmNvbnRlbnQKICAgICAgICBlbGlmIHBhdGNoLm1vZGUgPT0gImNyZWF0ZSI6CiAgICAgICAgICAgIGlmIGV4aXN0aW5nOgogICAgICAgICAgICAgICAgcmFpc2UgRmlsZUV4aXN0c0Vycm9yKGYiY3JlYXRlIOebruagh+W3suWtmOWcqDoge3BhdGNoLnRhcmdldH0iKQogICAgICAgICAgICBuZXdfdGV4dCA9IHBhdGNoLmNvbnRlbnQKICAgICAgICBlbGlmIHBhdGNoLm1vZGUgPT0gInJlcGxhY2UiOgogICAgICAgICAgICBpZiBwYXRjaC5vbGRfY29udGVudCBpcyBub3QgTm9uZSBhbmQgZXhpc3RpbmcgIT0gcGF0Y2gub2xkX2NvbnRlbnQ6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJyZXBsYWNlIOS5kOingumUgeWksei0pe+8muWOn+aWh+W3suWPmOabtCIpCiAgICAgICAgICAgIG5ld190ZXh0ID0gcGF0Y2guY29udGVudAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiLmnKrnn6UgbW9kZToge3BhdGNoLm1vZGV9IikKICAgICAgICByZXR1cm4gYWJzcGF0aCwgbmV3X3RleHQKCiAgICBkZWYgYXBwbHkoc2VsZiwgcGF0Y2g6IFBhdGNoLCBydW5fdGVzdHM6IENhbGxhYmxlW1tdLCBib29sXSkgLT4gR2F0ZU91dGNvbWU6CiAgICAgICAgIiIi56m/6L+HIEcxLi5HNeOAgnJ1bl90ZXN0cygpIOi/lOWbniBUcnVlIOihqOekuua1i+ivleWFqOe7v+OAgiIiIgogICAgICAgIG5vdGVzOiBMaXN0W3N0cl0gPSBbXQoKICAgICAgICAjIEcxIOmdmeaAge+8mlBsYW5lLTAg5LiN5Y+v5Y+YCiAgICAgICAgaWYgKHIgOj0gc2VsZi5fZzFfcGxhbmUwKHBhdGNoKSk6CiAgICAgICAgICAgIHJldHVybiBHYXRlT3V0Y29tZShGYWxzZSwgIkcxX3BsYW5lMF9pbW11dGFibGUiLCByKQogICAgICAgIG5vdGVzLmFwcGVuZCgiRzEg6YCa6L+H77ya5pyq6KemIFBsYW5lLTAiKQoKICAgICAgICAjIEcyIOmdmeaAge+8mmFwcGVuZC1vbmx5CiAgICAgICAgaWYgKHIgOj0gc2VsZi5fZzJfYXBwZW5kX29ubHkocGF0Y2gpKToKICAgICAgICAgICAgcmV0dXJuIEdhdGVPdXRjb21lKEZhbHNlLCAiRzJfYXBwZW5kX29ubHkiLCByKQogICAgICAgIG5vdGVzLmFwcGVuZCgiRzIg6YCa6L+H77yaUGxhbmUtMSDnuqbmnZ/mu6HotrMiKQoKICAgICAgICAjIOeJqeWMlu+8iOS4jeiQveebmO+8iQogICAgICAgIHRyeToKICAgICAgICAgICAgYWJzcGF0aCwgbmV3X3RleHQgPSBzZWxmLl9tYXRlcmlhbGl6ZShwYXRjaCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybiBHYXRlT3V0Y29tZShGYWxzZSwgIm1hdGVyaWFsaXplIiwgc3RyKGUpKQoKICAgICAgICAjIEcz77ya6K+t5rOV6ZeoCiAgICAgICAgaWYgKHIgOj0gc2VsZi5fZzNfc3ludGF4KHBhdGNoLCBuZXdfdGV4dCkpOgogICAgICAgICAgICByZXR1cm4gR2F0ZU91dGNvbWUoRmFsc2UsICJHM19zeW50YXgiLCByKQogICAgICAgIG5vdGVzLmFwcGVuZCgiRzMg6YCa6L+H77ya6K+t5rOVIE9LIikKCiAgICAgICAgIyBHNSDlv6vnhafvvIjlhYjkuo7okL3nm5jvvIkKICAgICAgICBzbmFwc2hvdCA9IE5vbmUKICAgICAgICBleGlzdGVkID0gb3MucGF0aC5leGlzdHMoYWJzcGF0aCkKICAgICAgICBpZiBleGlzdGVkOgogICAgICAgICAgICBmZCwgc25hcHNob3QgPSB0ZW1wZmlsZS5ta3N0ZW1wKHN1ZmZpeD0iLmJhayIpCiAgICAgICAgICAgIG9zLmNsb3NlKGZkKQogICAgICAgICAgICBzaHV0aWwuY29weTIoYWJzcGF0aCwgc25hcHNob3QpCgogICAgICAgICMg6JC955uYCiAgICAgICAgb3MubWFrZWRpcnMob3MucGF0aC5kaXJuYW1lKGFic3BhdGgpLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHdpdGggb3BlbihhYnNwYXRoLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUobmV3X3RleHQpCgogICAgICAgICMgRzTvvJrmtYvor5Xpl6jvvIhEZWZhdWx0LUZBSUzvvIkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGdyZWVuID0gYm9vbChydW5fdGVzdHMoKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGdyZWVuID0gRmFsc2UKICAgICAgICAgICAgbm90ZXMuYXBwZW5kKGYi5rWL6K+V5omn6KGM5byC5bi4OiB7ZX0iKQoKICAgICAgICBpZiBub3QgZ3JlZW46CiAgICAgICAgICAgICMgRzUg5Zue5ruaCiAgICAgICAgICAgIGlmIGV4aXN0ZWQgYW5kIHNuYXBzaG90OgogICAgICAgICAgICAgICAgc2h1dGlsLmNvcHkyKHNuYXBzaG90LCBhYnNwYXRoKQogICAgICAgICAgICBlbGlmIG5vdCBleGlzdGVkOgogICAgICAgICAgICAgICAgb3MucmVtb3ZlKGFic3BhdGgpCiAgICAgICAgICAgIGlmIHNuYXBzaG90IGFuZCBvcy5wYXRoLmV4aXN0cyhzbmFwc2hvdCk6CiAgICAgICAgICAgICAgICBvcy5yZW1vdmUoc25hcHNob3QpCiAgICAgICAgICAgIHJldHVybiBHYXRlT3V0Y29tZShGYWxzZSwgIkc0X3Rlc3RfZ2F0ZSIsICLmtYvor5XmnKrpgJrov4fvvIzlt7Llm57mu5oiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sbGVkX2JhY2s9VHJ1ZSwgbm90ZXM9bm90ZXMpCgogICAgICAgIGlmIHNuYXBzaG90IGFuZCBvcy5wYXRoLmV4aXN0cyhzbmFwc2hvdCk6CiAgICAgICAgICAgIG9zLnJlbW92ZShzbmFwc2hvdCkKICAgICAgICBub3Rlcy5hcHBlbmQoIkc0IOmAmui/h++8mua1i+ivleWFqOe7vyIpCiAgICAgICAgcmV0dXJuIEdhdGVPdXRjb21lKFRydWUsICIiLCAicGF0Y2ggYWNjZXB0ZWQiLCBub3Rlcz1ub3RlcykK
+"""secureguard.evolution_gates — 递归进化补丁门禁（回答咨询 #1 的"防破坏 + 回滚"）。
+
+Refiner 产出的不是自由代码，而是受约束的 Patch。任何 patch 落盘前必须穿过这串门：
+
+    G1 plane0_immutable   目标若属 Plane-0（红线/护栏/裁决/策略模块）→ 直接拒（R-12）
+    G2 append_only_plane1 目标若在 config/plane1/ → 只允许 append，禁止改/删既有行
+    G3 syntax_gate        .py 目标编译通过（语法门）
+    G4 test_gate          应用后跑测试必须全绿（正确性门，Default-FAIL）
+    G5 rollback           应用前快照，任一步失败即原子回滚
+
+设计要点：门的顺序是"越不可逆/越危险越靠前"。G1/G2 是纯静态判定（最便宜、最该先跑），
+G3 编译，G4 才真正应用并跑测试，G5 兜底回滚。纯标准库。
+"""
+from __future__ import annotations
+
+import os
+import shutil
+import tempfile
+from dataclasses import dataclass, field
+from typing import Callable, List, Optional, Tuple
+
+# Plane-0 保护清单：相对仓库根的路径前缀。命中即不可写。
+PROTECTED_PREFIXES = (
+    "config/arbitration-and-gates.md",
+    "config/redlines.yaml",
+    "config/domain_guards.yaml",
+    "secureguard/l1_gate.py",        # 红线/护栏/裁决的代码载体
+    "secureguard/retrieval_guard.py",
+    "secureguard/evolution_gates.py",
+)
+# 仅允许 append 的 Plane-1 区域
+PLANE1_PREFIX = "config/plane1/"
+
+
+@dataclass
+class Patch:
+    """一个受约束的补丁。"""
+
+    target: str                       # 相对仓库根的路径
+    mode: str                         # append / replace / create
+    content: str                      # append/create 的新增内容；replace 的全文
+    old_content: Optional[str] = None  # replace 时的预期原文（乐观锁，可选）
+
+
+@dataclass
+class GateOutcome:
+    accepted: bool
+    rejected_by: str = ""
+    reason: str = ""
+    rolled_back: bool = False
+    notes: List[str] = field(default_factory=list)
+
+
+def _norm(path: str) -> str:
+    return path.replace("\\", "/").lstrip("./")
+
+
+class EvolutionGates:
+    """补丁门禁。apply() 串起 G1..G5。"""
+
+    def __init__(self, repo_root: str) -> None:
+        self.root = os.path.abspath(repo_root)
+
+    # ---- G1 ----
+    def _g1_plane0(self, patch: Patch) -> Optional[str]:
+        t = _norm(patch.target)
+        for p in PROTECTED_PREFIXES:
+            if t == p or t.startswith(p):
+                return f"redline:R-12 目标属 Plane-0 不可写: {t}"
+        return None
+
+    # ---- G2 ----
+    def _g2_append_only(self, patch: Patch) -> Optional[str]:
+        t = _norm(patch.target)
+        if t.startswith(PLANE1_PREFIX) and patch.mode != "append":
+            return f"Plane-1 仅允许 append，收到 mode={patch.mode}"
+        # append 模式对任何已存在文件都不得删改既有内容（天然满足），
+        # replace 模式若改动 Plane-1 文件的既有行则违规（已被上面拦截）。
+        return None
+
+    # ---- G3 ----
+    def _g3_syntax(self, patch: Patch, new_full_text: str) -> Optional[str]:
+        if _norm(patch.target).endswith(".py"):
+            try:
+                compile(new_full_text, patch.target, "exec")
+            except SyntaxError as e:
+                return f"语法门失败: {e}"
+        return None
+
+    def _materialize(self, patch: Patch) -> Tuple[str, str]:
+        """返回 (绝对路径, 应用后的完整文本)，不落盘。"""
+        abspath = os.path.join(self.root, _norm(patch.target))
+        existing = ""
+        if os.path.exists(abspath):
+            with open(abspath, encoding="utf-8") as f:
+                existing = f.read()
+        if patch.mode == "append":
+            new_text = existing + ("\n" if existing and not existing.endswith("\n") else "") + patch.content
+        elif patch.mode == "create":
+            if existing:
+                raise FileExistsError(f"create 目标已存在: {patch.target}")
+            new_text = patch.content
+        elif patch.mode == "replace":
+            if patch.old_content is not None and existing != patch.old_content:
+                raise ValueError("replace 乐观锁失败：原文已变更")
+            new_text = patch.content
+        else:
+            raise ValueError(f"未知 mode: {patch.mode}")
+        return abspath, new_text
+
+    def apply(self, patch: Patch, run_tests: Callable[[], bool]) -> GateOutcome:
+        """穿过 G1..G5。run_tests() 返回 True 表示测试全绿。"""
+        notes: List[str] = []
+
+        # G1 静态：Plane-0 不可变
+        if (r := self._g1_plane0(patch)):
+            return GateOutcome(False, "G1_plane0_immutable", r)
+        notes.append("G1 通过：未触 Plane-0")
+
+        # G2 静态：append-only
+        if (r := self._g2_append_only(patch)):
+            return GateOutcome(False, "G2_append_only", r)
+        notes.append("G2 通过：Plane-1 约束满足")
+
+        # 物化（不落盘）
+        try:
+            abspath, new_text = self._materialize(patch)
+        except Exception as e:
+            return GateOutcome(False, "materialize", str(e))
+
+        # G3：语法门
+        if (r := self._g3_syntax(patch, new_text)):
+            return GateOutcome(False, "G3_syntax", r)
+        notes.append("G3 通过：语法 OK")
+
+        # G5 快照（先于落盘）
+        snapshot = None
+        existed = os.path.exists(abspath)
+        if existed:
+            fd, snapshot = tempfile.mkstemp(suffix=".bak")
+            os.close(fd)
+            shutil.copy2(abspath, snapshot)
+
+        # 落盘
+        os.makedirs(os.path.dirname(abspath), exist_ok=True)
+        with open(abspath, "w", encoding="utf-8") as f:
+            f.write(new_text)
+
+        # G4：测试门（Default-FAIL）
+        try:
+            green = bool(run_tests())
+        except Exception as e:
+            green = False
+            notes.append(f"测试执行异常: {e}")
+
+        if not green:
+            # G5 回滚
+            if existed and snapshot:
+                shutil.copy2(snapshot, abspath)
+            elif not existed:
+                os.remove(abspath)
+            if snapshot and os.path.exists(snapshot):
+                os.remove(snapshot)
+            return GateOutcome(False, "G4_test_gate", "测试未通过，已回滚",
+                               rolled_back=True, notes=notes)
+
+        if snapshot and os.path.exists(snapshot):
+            os.remove(snapshot)
+        notes.append("G4 通过：测试全绿")
+        return GateOutcome(True, "", "patch accepted", notes=notes)

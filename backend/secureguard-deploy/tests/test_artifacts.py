@@ -1,1 +1,44 @@
-IiIidGVzdHMvdGVzdF9hcnRpZmFjdHMucHkg4oCUIOS7o+eggeWdl+aPkOWPliArIEFydGlmYWN077yI6Zeu6aKYM++8ieOAgiIiIgppbXBvcnQgc3lzLCBvcwpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCmZyb20gYmFja2VuZC5hcnRpZmFjdHMgaW1wb3J0IGV4dHJhY3RfYXJ0aWZhY3RzLCBmaXJzdF9weXRob24sIGJ1aWxkX3JlYWRtZSwgZm9ybWF0X3ZlcmlmeQoKCmRlZiB0ZXN0X2V4dHJhY3RfcHl0aG9uX2Jsb2NrKCk6CiAgICB0eHQgPSAi56S65L6L77yaXG5gYGBweXRob25cbnByaW50KCdoaScpXG5gYGBcbiIKICAgIGFydHMgPSBleHRyYWN0X2FydGlmYWN0cyh0eHQpCiAgICBhc3NlcnQgbGVuKGFydHMpID09IDEgYW5kIGFydHNbMF0ubGFuZ3VhZ2UgPT0gInB5dGhvbiIKICAgIGFzc2VydCBhcnRzWzBdLmZpbGVuYW1lLmVuZHN3aXRoKCIucHkiKSBhbmQgYXJ0c1swXS5ydW5uYWJsZSBpcyBUcnVlCgoKZGVmIHRlc3RfZXh0cmFjdF9tdWx0aXBsZV9sYW5ncygpOgogICAgdHh0ID0gImBgYHB5dGhvblxueD0xXG5gYGBcbmBgYGh0bWxcbjxkaXY+PC9kaXY+XG5gYGAiCiAgICBhcnRzID0gZXh0cmFjdF9hcnRpZmFjdHModHh0KQogICAgbGFuZ3MgPSB7YS5sYW5ndWFnZSBmb3IgYSBpbiBhcnRzfQogICAgYXNzZXJ0IGxhbmdzID09IHsicHl0aG9uIiwgImh0bWwifQoKCmRlZiB0ZXN0X2ZpcnN0X3B5dGhvbigpOgogICAgYXNzZXJ0ICJwcmludCIgaW4gZmlyc3RfcHl0aG9uKCJgYGBweXRob25cbnByaW50KDEpXG5gYGAiKQogICAgYXNzZXJ0IGZpcnN0X3B5dGhvbigi5peg5Luj56CBIikgPT0gIiIKCgpkZWYgdGVzdF9idWlsZF9yZWFkbWVfbGlzdHNfZmlsZXMoKToKICAgIGFydHMgPSBleHRyYWN0X2FydGlmYWN0cygiYGBgcHl0aG9uXG54PTFcbmBgYFxuYGBganNvblxue31cbmBgYCIpCiAgICByZCA9IGJ1aWxkX3JlYWRtZShhcnRzKQogICAgYXNzZXJ0IHJkLmZpbGVuYW1lID09ICJSRUFETUUubWQiIGFuZCAic25pcHBldF8xLnB5IiBpbiByZC5jb250ZW50CgoKZGVmIHRlc3RfZm9ybWF0X3ZlcmlmeV9wYXNzKCk6CiAgICBzID0gZm9ybWF0X3ZlcmlmeSh7ImF2YWlsYWJsZSI6IFRydWUsICJleGl0X2NvZGUiOiAwLCAic3Rkb3V0IjogIlsxLCAyLCAzXSIsCiAgICAgICAgICAgICAgICAgICAgICAgInN0ZGVyciI6ICIiLCAiZHVyYXRpb25fbXMiOiAxMDAsICJ0aW1lZF9vdXQiOiBGYWxzZSwgImVycm9yIjogIiJ9KQogICAgYXNzZXJ0ICLinIUg6YCa6L+HIiBpbiBzIGFuZCAiWzEsIDIsIDNdIiBpbiBzCgoKZGVmIHRlc3RfZm9ybWF0X3ZlcmlmeV91bmF2YWlsYWJsZSgpOgogICAgcyA9IGZvcm1hdF92ZXJpZnkoeyJhdmFpbGFibGUiOiBGYWxzZX0pCiAgICBhc3NlcnQgIuacqumDqOe9siIgaW4gcwoKCmRlZiB0ZXN0X2VtcHR5X2Jsb2NrX2lnbm9yZWQoKToKICAgIGFzc2VydCBleHRyYWN0X2FydGlmYWN0cygiYGBgcHl0aG9uXG5cbmBgYCIpID09IFtdCg==
+"""tests/test_artifacts.py — 代码块提取 + Artifact（问题3）。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.artifacts import extract_artifacts, first_python, build_readme, format_verify
+
+
+def test_extract_python_block():
+    txt = "示例：\n```python\nprint('hi')\n```\n"
+    arts = extract_artifacts(txt)
+    assert len(arts) == 1 and arts[0].language == "python"
+    assert arts[0].filename.endswith(".py") and arts[0].runnable is True
+
+
+def test_extract_multiple_langs():
+    txt = "```python\nx=1\n```\n```html\n<div></div>\n```"
+    arts = extract_artifacts(txt)
+    langs = {a.language for a in arts}
+    assert langs == {"python", "html"}
+
+
+def test_first_python():
+    assert "print" in first_python("```python\nprint(1)\n```")
+    assert first_python("无代码") == ""
+
+
+def test_build_readme_lists_files():
+    arts = extract_artifacts("```python\nx=1\n```\n```json\n{}\n```")
+    rd = build_readme(arts)
+    assert rd.filename == "README.md" and "snippet_1.py" in rd.content
+
+
+def test_format_verify_pass():
+    s = format_verify({"available": True, "exit_code": 0, "stdout": "[1, 2, 3]",
+                       "stderr": "", "duration_ms": 100, "timed_out": False, "error": ""})
+    assert "✅ 通过" in s and "[1, 2, 3]" in s
+
+
+def test_format_verify_unavailable():
+    s = format_verify({"available": False})
+    assert "未部署" in s
+
+
+def test_empty_block_ignored():
+    assert extract_artifacts("```python\n\n```") == []

@@ -1,1 +1,144 @@
-IiIiCmtiX2NvcmUuc2VydmljZSDigJQg5LiJ5rGg55+l6K+G5bqT55qE5pON5L2c5YWl5Y+jKOWkjeeUqCBvcmdfY29yZSDpibTmnYMgKyDlrqHorqEp44CCCgrokL3lnLDliY3lh6Dova7lrprnqL/nmoTorr7orqE6CiAg5pmu6YCa55So5oi35LiK5LygIOKGkiDnp4HmnInmsaAo5ZCM5oSP5YWx5Lqr4oaS5YWs5pyJ5L2O572u5L+h5rGgKQogIOS4k+WutihjYW5fcHJvbW90ZV9rYinkuIrkvKAg4oaSIEFJIOS9k+ajgCDihpIg5LiT5a625ouN5p2/KOWPr+aOqOe/u0FJLOeVmeeXlSnihpIg5YWs5pyJ6auY572u5L+h5rGgCiAg5qOA57Si5oyJIuW9k+WJjeWtkOi0puWPt+i6q+S7vSLov4fmu6Tlj6/op4Hnn6Xor4Y75Yy/5ZCN5Y+q6KeBIGV4dGVybmFsX29rIOeahOmrmOe9ruS/oeOAggogIOWFqOeoi+WuoeiuoSArIOWPr+Wbnua7mijlkI7mgpToja8s6Z2e5a6h5om5546v6IqCKeOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHV1aWQKZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsCgpmcm9tIG9yZ19jb3JlIGltcG9ydCBQLCBhdXRob3JpemUsIHdyaXRlX2F1ZGl0CmZyb20gb3JnX2NvcmUuYXV0aHogaW1wb3J0IHJlc29sdmVfZ3JhbnQKCmZyb20gLmluc3BlY3QgaW1wb3J0IE1vZGVsSW5zcGVjdG9yLCBpbnNwZWN0CmZyb20gLm1vZGVscyBpbXBvcnQgRW50cnlTdGF0dXMsIEluc3BlY3Rpb24sIEtCRW50cnksIFBvb2wKZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgS0JSZXBvCgoKY2xhc3MgS0JDb25mbGljdChFeGNlcHRpb24pOgogICAgIiIiQUkg5L2T5qOA5Y+R546w5LiO6auY572u5L+h5rGg5Yay56qBLOS4k+WutuacquaYjuehruaOqOe/uyDihpIg6Zi75patLOmcgCBkZWNpc2lvbl9vdmVycmlkZT1UcnVlIOaLjeadv+OAgiIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGluc3BlY3Rpb246IEluc3BlY3Rpb24pIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygiQUkg5L2T5qOA5Y+R546w5Yay56qBLOmcgOS4k+WutuaLjeadv+aOqOe/uyIpCiAgICAgICAgc2VsZi5pbnNwZWN0aW9uID0gaW5zcGVjdGlvbgoKCmNsYXNzIEtCU2VydmljZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBvcmdfcmVwbywga2JfcmVwbzogS0JSZXBvLCBtb2RlbF9pbnNwZWN0b3I6IE1vZGVsSW5zcGVjdG9yID0gTm9uZSkgLT4gTm9uZToKICAgICAgICBzZWxmLm9yZyA9IG9yZ19yZXBvICAgICAgICAgICAgICAgICAjIG9yZ19jb3JlIOeahCBSZXBvcyjpibTmnYMv5a6h6K6hKQogICAgICAgIHNlbGYua2IgPSBrYl9yZXBvCiAgICAgICAgc2VsZi5tb2RlbF9pbnNwZWN0b3IgPSBtb2RlbF9pbnNwZWN0b3IKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiAgICAjIOaZrumAmuS4iuS8oDrnp4HmnIkgLyAo5ZCM5oSP5YWx5LqrKeWFrOacieS9jue9ruS/oQogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwogICAgZGVmIHVwbG9hZChzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgZ3JhbnRfaWQ6IHN0ciwgKiwgdGl0bGU6IHN0ciwgY29udGVudDogc3RyLAogICAgICAgICAgICAgICBjbGFpbXM6IE9wdGlvbmFsW2RpY3RdID0gTm9uZSwgc2hhcmU6IGJvb2wgPSBGYWxzZSwgc291cmNlOiBzdHIgPSAiIikgLT4gS0JFbnRyeToKICAgICAgICBnID0gcmVzb2x2ZV9ncmFudChzZWxmLm9yZywgdGVuYW50X2lkLCBncmFudF9pZCkKICAgICAgICBvaywgcmVhc29uID0gYXV0aG9yaXplKHNlbGYub3JnLCB0ZW5hbnRfaWQsIGdyYW50X2lkLCBQLktCX1dSSVRFX1BSSVZBVEUsIGcub3JnX25vZGVfaWQpCiAgICAgICAgd3JpdGVfYXVkaXQoc2VsZi5vcmcsIHRlbmFudF9pZD10ZW5hbnRfaWQsIHVzZXJfaWQ9Zy51c2VyX2lkLCBncmFudF9pZD1ncmFudF9pZCwKICAgICAgICAgICAgICAgICAgICBhY3Rpb249ImtiLnVwbG9hZCIsIHRhcmdldD10aXRsZSwgb2s9b2ssIHJlYXNvbj1yZWFzb24pCiAgICAgICAgaWYgbm90IG9rOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRXJyb3IocmVhc29uKQogICAgICAgIHBvb2wgPSBQb29sLlBVQkxJQ19MT1cgaWYgc2hhcmUgZWxzZSBQb29sLlBSSVZBVEUKICAgICAgICBlID0gS0JFbnRyeSh1dWlkLnV1aWQ0KCkuaGV4LCB0ZW5hbnRfaWQsIHBvb2wsIGcudXNlcl9pZCwgZ3JhbnRfaWQsIGcub3JnX25vZGVfaWQsCiAgICAgICAgICAgICAgICAgICAgdGl0bGUsIGNvbnRlbnQsIGNsYWltcyBvciB7fSwgc2hhcmVkPXNoYXJlLCBzb3VyY2U9c291cmNlKQogICAgICAgIHNlbGYua2IuYWRkKGUpCiAgICAgICAgcmV0dXJuIGUKCiAgICBkZWYgY29uc2VudF9zaGFyZShzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgZ3JhbnRfaWQ6IHN0ciwgZW50cnlfaWQ6IHN0cikgLT4gS0JFbnRyeToKICAgICAgICAiIiJvd25lciDmioroh6rlt7HnmoTnp4HmnInmnaHnm67mlLnkuLrlkIzmhI/lhbHkuqsg4oaSIOi/m+WFrOacieS9jue9ruS/oeaxoOOAgiIiIgogICAgICAgIGcgPSByZXNvbHZlX2dyYW50KHNlbGYub3JnLCB0ZW5hbnRfaWQsIGdyYW50X2lkKQogICAgICAgIGUgPSBzZWxmLmtiLmdldCh0ZW5hbnRfaWQsIGVudHJ5X2lkKQogICAgICAgIGlmIG5vdCBlIG9yIGUub3duZXJfdXNlcl9pZCAhPSBnLnVzZXJfaWQ6CiAgICAgICAgICAgIHJhaXNlIFBlcm1pc3Npb25FcnJvcigi5Y+q6IO95YWx5Lqr6Ieq5bex55qE5p2h55uuIikKICAgICAgICBlLnNoYXJlZCA9IFRydWUKICAgICAgICBlLnBvb2wgPSBQb29sLlBVQkxJQ19MT1cKICAgICAgICBzZWxmLmtiLnVwZGF0ZShlKQogICAgICAgIHdyaXRlX2F1ZGl0KHNlbGYub3JnLCB0ZW5hbnRfaWQ9dGVuYW50X2lkLCB1c2VyX2lkPWcudXNlcl9pZCwgZ3JhbnRfaWQ9Z3JhbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgYWN0aW9uPSJrYi5zaGFyZSIsIHRhcmdldD1lbnRyeV9pZCwgb2s9VHJ1ZSwgcmVhc29uPSLlkIzmhI/lhbHkuqvihpLkvY7nva7kv6EiKQogICAgICAgIHJldHVybiBlCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwogICAgIyDkuJPlrrbmmYvljYc6QUkg5L2T5qOAIOKGkiDmi43mnb8g4oaSIOmrmOe9ruS/oQogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwogICAgZGVmIGluc3BlY3RfY2FuZGlkYXRlKHNlbGYsIHRlbmFudF9pZDogc3RyLCBkcmFmdDogS0JFbnRyeSkgLT4gSW5zcGVjdGlvbjoKICAgICAgICByZXR1cm4gaW5zcGVjdChzZWxmLmtiLCBkcmFmdCwgc2VsZi5tb2RlbF9pbnNwZWN0b3IpCgogICAgZGVmIHByb21vdGVfdG9faGlnaChzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgZ3JhbnRfaWQ6IHN0ciwgKiwgdGl0bGU6IHN0ciwgY29udGVudDogc3RyLAogICAgICAgICAgICAgICAgICAgICAgICBjbGFpbXM6IE9wdGlvbmFsW2RpY3RdID0gTm9uZSwgZXh0ZXJuYWxfb2s6IGJvb2wgPSBGYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlOiBzdHIgPSAiIiwgZGVjaXNpb25fb3ZlcnJpZGU6IGJvb2wgPSBGYWxzZSkgLT4gdHVwbGVbS0JFbnRyeSwgSW5zcGVjdGlvbl06CiAgICAgICAgIiIi5LiT5a625oqK55+l6K+G5pmL5Y2H6L+b5YWs5pyJ6auY572u5L+h44CC6ZyAIGNhbl9wcm9tb3RlX2ti44CCCiAgICAgICAgQUkg5L2T5qOA5oql5Yay56qB5LiU5pyq5ouN5p2/5o6o57+7IOKGkiDmipsgS0JDb25mbGljdCjkuI3lhaXlupMp44CCIiIiCiAgICAgICAgZyA9IHJlc29sdmVfZ3JhbnQoc2VsZi5vcmcsIHRlbmFudF9pZCwgZ3JhbnRfaWQpCiAgICAgICAgb2ssIHJlYXNvbiA9IGF1dGhvcml6ZShzZWxmLm9yZywgdGVuYW50X2lkLCBncmFudF9pZCwgUC5LQl9QUk9NT1RFLCBnLm9yZ19ub2RlX2lkKQogICAgICAgIGlmIG5vdCBvazoKICAgICAgICAgICAgd3JpdGVfYXVkaXQoc2VsZi5vcmcsIHRlbmFudF9pZD10ZW5hbnRfaWQsIHVzZXJfaWQ9Zy51c2VyX2lkLCBncmFudF9pZD1ncmFudF9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aW9uPSJrYi5wcm9tb3RlIiwgdGFyZ2V0PXRpdGxlLCBvaz1GYWxzZSwgcmVhc29uPXJlYXNvbikKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKHJlYXNvbikKCiAgICAgICAgZHJhZnQgPSBLQkVudHJ5KHV1aWQudXVpZDQoKS5oZXgsIHRlbmFudF9pZCwgUG9vbC5QVUJMSUNfSElHSCwgZy51c2VyX2lkLCBncmFudF9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgZy5vcmdfbm9kZV9pZCwgdGl0bGUsIGNvbnRlbnQsIGNsYWltcyBvciB7fSwgc2hhcmVkPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGV4dGVybmFsX29rPWV4dGVybmFsX29rLCBzb3VyY2U9c291cmNlKQogICAgICAgIHJlcG9ydCA9IHNlbGYuaW5zcGVjdF9jYW5kaWRhdGUodGVuYW50X2lkLCBkcmFmdCkKCiAgICAgICAgaWYgcmVwb3J0Lmhhc19jb25mbGljdCBhbmQgbm90IGRlY2lzaW9uX292ZXJyaWRlOgogICAgICAgICAgICB3cml0ZV9hdWRpdChzZWxmLm9yZywgdGVuYW50X2lkPXRlbmFudF9pZCwgdXNlcl9pZD1nLnVzZXJfaWQsIGdyYW50X2lkPWdyYW50X2lkLAogICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb249ImtiLnByb21vdGUiLCB0YXJnZXQ9dGl0bGUsIG9rPUZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICByZWFzb249ZiJBSeS9k+ajgOWGsueqgeW+heaLjeadvzoge3JlcG9ydC5jb25mbGljdHN9IikKICAgICAgICAgICAgcmFpc2UgS0JDb25mbGljdChyZXBvcnQpCgogICAgICAgICMg5YWl5bqTOuiusOW9lSBBSSDnu5PorrogKyDmmK/lkKbkuJPlrrbmjqjnv7sKICAgICAgICBkcmFmdC5haV92ZXJkaWN0ID0gcmVwb3J0LmNvbmZpZGVuY2VfYWR2aWNlICsgKCIgfCDkuJPlrrbmjqjnv7tBSSIgaWYgKHJlcG9ydC5oYXNfY29uZmxpY3QgYW5kIGRlY2lzaW9uX292ZXJyaWRlKSBlbHNlICIiKQogICAgICAgIGRyYWZ0LnByb21vdGVkX2J5ID0gZy51c2VyX2lkCiAgICAgICAgc2VsZi5rYi5hZGQoZHJhZnQpCiAgICAgICAgd3JpdGVfYXVkaXQoc2VsZi5vcmcsIHRlbmFudF9pZD10ZW5hbnRfaWQsIHVzZXJfaWQ9Zy51c2VyX2lkLCBncmFudF9pZD1ncmFudF9pZCwKICAgICAgICAgICAgICAgICAgICBhY3Rpb249ImtiLnByb21vdGUiLCB0YXJnZXQ9ZHJhZnQuaWQsIG9rPVRydWUsCiAgICAgICAgICAgICAgICAgICAgcmVhc29uPSgi5LiT5a625o6o57+7QUnlhaXlupMiIGlmIChyZXBvcnQuaGFzX2NvbmZsaWN0IGFuZCBkZWNpc2lvbl9vdmVycmlkZSkgZWxzZSAi5YWl5bqT6auY572u5L+hIikpCiAgICAgICAgcmV0dXJuIGRyYWZ0LCByZXBvcnQKCiAgICBkZWYgcm9sbGJhY2soc2VsZiwgdGVuYW50X2lkOiBzdHIsIGdyYW50X2lkOiBzdHIsIGVudHJ5X2lkOiBzdHIpIC0+IE5vbmU6CiAgICAgICAgIiIi5pmL5Y2H5ZCO5oKU6I2vOuaKiumrmOe9ruS/oeadoeebrumAgOWbnuS9nOW6n+OAgumcgCBjYW5fcHJvbW90ZV9rYuOAgiIiIgogICAgICAgIGcgPSByZXNvbHZlX2dyYW50KHNlbGYub3JnLCB0ZW5hbnRfaWQsIGdyYW50X2lkKQogICAgICAgIG9rLCByZWFzb24gPSBhdXRob3JpemUoc2VsZi5vcmcsIHRlbmFudF9pZCwgZ3JhbnRfaWQsIFAuS0JfUFJPTU9URSwgZy5vcmdfbm9kZV9pZCkKICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgIHJhaXNlIFBlcm1pc3Npb25FcnJvcihyZWFzb24pCiAgICAgICAgZSA9IHNlbGYua2IuZ2V0KHRlbmFudF9pZCwgZW50cnlfaWQpCiAgICAgICAgaWYgbm90IGU6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKCLmnaHnm67kuI3lrZjlnKgiKQogICAgICAgIGUuc3RhdHVzID0gRW50cnlTdGF0dXMuUk9MTEVEX0JBQ0sKICAgICAgICBzZWxmLmtiLnVwZGF0ZShlKQogICAgICAgIHdyaXRlX2F1ZGl0KHNlbGYub3JnLCB0ZW5hbnRfaWQ9dGVuYW50X2lkLCB1c2VyX2lkPWcudXNlcl9pZCwgZ3JhbnRfaWQ9Z3JhbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgYWN0aW9uPSJrYi5yb2xsYmFjayIsIHRhcmdldD1lbnRyeV9pZCwgb2s9VHJ1ZSwgcmVhc29uPSLpq5jnva7kv6Hlm57mu5oiKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKICAgICMg5qOA57SiOuaMiei6q+S7vei/h+a7pCjlkb3pl6gpCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiAgICBkZWYgcmV0cmlldmUoc2VsZiwgdGVuYW50X2lkOiBzdHIsIGN1cnJlbnRfZ3JhbnRfaWQ6IE9wdGlvbmFsW3N0cl0sIHF1ZXJ5OiBzdHIpIC0+IGxpc3RbS0JFbnRyeV06CiAgICAgICAgIiIiY3VycmVudF9ncmFudF9pZD1Ob25lIOihqOekuuWMv+WQjS/lpJbpg6jjgILov5Tlm57lj6/op4HkuJTljLnphY3nmoTmnaHnm64o5bimIHBvb2w9572u5L+h5qCH562+KeOAgiIiIgogICAgICAgIGVudHJpZXMgPSBzZWxmLmtiLmFsbF9hY3RpdmUodGVuYW50X2lkKQogICAgICAgIHEgPSBxdWVyeS5zdHJpcCgpCgogICAgICAgIGlmIGN1cnJlbnRfZ3JhbnRfaWQgaXMgTm9uZToKICAgICAgICAgICAgIyDljL/lkI0v5aSW6YOoOuWPquingSDlr7nlpJblj6/lhazlvIAg55qE6auY572u5L+hCiAgICAgICAgICAgIHZpc2libGUgPSBbZSBmb3IgZSBpbiBlbnRyaWVzIGlmIGUucG9vbCA9PSBQb29sLlBVQkxJQ19ISUdIIGFuZCBlLmV4dGVybmFsX29rXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGcgPSByZXNvbHZlX2dyYW50KHNlbGYub3JnLCB0ZW5hbnRfaWQsIGN1cnJlbnRfZ3JhbnRfaWQpCiAgICAgICAgICAgIGV4Y2VwdCAoTG9va3VwRXJyb3IsIFBlcm1pc3Npb25FcnJvcik6CiAgICAgICAgICAgICAgICByZXR1cm4gW10KICAgICAgICAgICAgb2ssIF8gPSBhdXRob3JpemUoc2VsZi5vcmcsIHRlbmFudF9pZCwgY3VycmVudF9ncmFudF9pZCwgUC5LQl9SRUFELCBnLm9yZ19ub2RlX2lkKQogICAgICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgICAgICByZXR1cm4gW10KICAgICAgICAgICAgIyDlt7LnmbvlvZU65pys5Lq656eB5pyJICsg5YWo6YOo5YWs5pyJKOS9ji/pq5gpOyLlnKggQSDnnIvkuI3liLAgQiIg5a+556eB5pyJ6Ieq5Yqo5oiQ56uLKOaMiSBvd25lcikKICAgICAgICAgICAgdmlzaWJsZSA9IFsKICAgICAgICAgICAgICAgIGUgZm9yIGUgaW4gZW50cmllcwogICAgICAgICAgICAgICAgaWYgZS5wb29sIGluIChQb29sLlBVQkxJQ19MT1csIFBvb2wuUFVCTElDX0hJR0gpCiAgICAgICAgICAgICAgICBvciAoZS5wb29sID09IFBvb2wuUFJJVkFURSBhbmQgZS5vd25lcl91c2VyX2lkID09IGcudXNlcl9pZCkKICAgICAgICAgICAgXQogICAgICAgICMg5py057Sg5Yy56YWNKOeUn+S6p+aNouWQkemHj+ajgOe0oikKICAgICAgICByZXR1cm4gW2UgZm9yIGUgaW4gdmlzaWJsZSBpZiBub3QgcSBvciBxIGluIGUudGl0bGUgb3IgcSBpbiBlLmNvbnRlbnQgb3IgcSBpbiAiICIuam9pbihlLmNsYWltcy52YWx1ZXMoKSldCg==
+"""
+kb_core.service — 三池知识库的操作入口(复用 org_core 鉴权 + 审计)。
+
+落地前几轮定稿的设计:
+  普通用户上传 → 私有池(同意共享→公有低置信池)
+  专家(can_promote_kb)上传 → AI 体检 → 专家拍板(可推翻AI,留痕)→ 公有高置信池
+  检索按"当前子账号身份"过滤可见知识;匿名只见 external_ok 的高置信。
+  全程审计 + 可回滚(后悔药,非审批环节)。
+"""
+from __future__ import annotations
+
+import uuid
+from typing import Optional
+
+from org_core import P, authorize, write_audit
+from org_core.authz import resolve_grant
+
+from .inspect import ModelInspector, inspect
+from .models import EntryStatus, Inspection, KBEntry, Pool
+from .repository import KBRepo
+
+
+class KBConflict(Exception):
+    """AI 体检发现与高置信池冲突,专家未明确推翻 → 阻断,需 decision_override=True 拍板。"""
+    def __init__(self, inspection: Inspection) -> None:
+        super().__init__("AI 体检发现冲突,需专家拍板推翻")
+        self.inspection = inspection
+
+
+class KBService:
+    def __init__(self, org_repo, kb_repo: KBRepo, model_inspector: ModelInspector = None) -> None:
+        self.org = org_repo                 # org_core 的 Repos(鉴权/审计)
+        self.kb = kb_repo
+        self.model_inspector = model_inspector
+
+    # ------------------------------------------------------------------ #
+    # 普通上传:私有 / (同意共享)公有低置信
+    # ------------------------------------------------------------------ #
+    def upload(self, tenant_id: str, grant_id: str, *, title: str, content: str,
+               claims: Optional[dict] = None, share: bool = False, source: str = "") -> KBEntry:
+        g = resolve_grant(self.org, tenant_id, grant_id)
+        ok, reason = authorize(self.org, tenant_id, grant_id, P.KB_WRITE_PRIVATE, g.org_node_id)
+        write_audit(self.org, tenant_id=tenant_id, user_id=g.user_id, grant_id=grant_id,
+                    action="kb.upload", target=title, ok=ok, reason=reason)
+        if not ok:
+            raise PermissionError(reason)
+        pool = Pool.PUBLIC_LOW if share else Pool.PRIVATE
+        e = KBEntry(uuid.uuid4().hex, tenant_id, pool, g.user_id, grant_id, g.org_node_id,
+                    title, content, claims or {}, shared=share, source=source)
+        self.kb.add(e)
+        return e
+
+    def consent_share(self, tenant_id: str, grant_id: str, entry_id: str) -> KBEntry:
+        """owner 把自己的私有条目改为同意共享 → 进公有低置信池。"""
+        g = resolve_grant(self.org, tenant_id, grant_id)
+        e = self.kb.get(tenant_id, entry_id)
+        if not e or e.owner_user_id != g.user_id:
+            raise PermissionError("只能共享自己的条目")
+        e.shared = True
+        e.pool = Pool.PUBLIC_LOW
+        self.kb.update(e)
+        write_audit(self.org, tenant_id=tenant_id, user_id=g.user_id, grant_id=grant_id,
+                    action="kb.share", target=entry_id, ok=True, reason="同意共享→低置信")
+        return e
+
+    # ------------------------------------------------------------------ #
+    # 专家晋升:AI 体检 → 拍板 → 高置信
+    # ------------------------------------------------------------------ #
+    def inspect_candidate(self, tenant_id: str, draft: KBEntry) -> Inspection:
+        return inspect(self.kb, draft, self.model_inspector)
+
+    def promote_to_high(self, tenant_id: str, grant_id: str, *, title: str, content: str,
+                        claims: Optional[dict] = None, external_ok: bool = False,
+                        source: str = "", decision_override: bool = False) -> tuple[KBEntry, Inspection]:
+        """专家把知识晋升进公有高置信。需 can_promote_kb。
+        AI 体检报冲突且未拍板推翻 → 抛 KBConflict(不入库)。"""
+        g = resolve_grant(self.org, tenant_id, grant_id)
+        ok, reason = authorize(self.org, tenant_id, grant_id, P.KB_PROMOTE, g.org_node_id)
+        if not ok:
+            write_audit(self.org, tenant_id=tenant_id, user_id=g.user_id, grant_id=grant_id,
+                        action="kb.promote", target=title, ok=False, reason=reason)
+            raise PermissionError(reason)
+
+        draft = KBEntry(uuid.uuid4().hex, tenant_id, Pool.PUBLIC_HIGH, g.user_id, grant_id,
+                        g.org_node_id, title, content, claims or {}, shared=True,
+                        external_ok=external_ok, source=source)
+        report = self.inspect_candidate(tenant_id, draft)
+
+        if report.has_conflict and not decision_override:
+            write_audit(self.org, tenant_id=tenant_id, user_id=g.user_id, grant_id=grant_id,
+                        action="kb.promote", target=title, ok=False,
+                        reason=f"AI体检冲突待拍板: {report.conflicts}")
+            raise KBConflict(report)
+
+        # 入库:记录 AI 结论 + 是否专家推翻
+        draft.ai_verdict = report.confidence_advice + (" | 专家推翻AI" if (report.has_conflict and decision_override) else "")
+        draft.promoted_by = g.user_id
+        self.kb.add(draft)
+        write_audit(self.org, tenant_id=tenant_id, user_id=g.user_id, grant_id=grant_id,
+                    action="kb.promote", target=draft.id, ok=True,
+                    reason=("专家推翻AI入库" if (report.has_conflict and decision_override) else "入库高置信"))
+        return draft, report
+
+    def rollback(self, tenant_id: str, grant_id: str, entry_id: str) -> None:
+        """晋升后悔药:把高置信条目退回作废。需 can_promote_kb。"""
+        g = resolve_grant(self.org, tenant_id, grant_id)
+        ok, reason = authorize(self.org, tenant_id, grant_id, P.KB_PROMOTE, g.org_node_id)
+        if not ok:
+            raise PermissionError(reason)
+        e = self.kb.get(tenant_id, entry_id)
+        if not e:
+            raise KeyError("条目不存在")
+        e.status = EntryStatus.ROLLED_BACK
+        self.kb.update(e)
+        write_audit(self.org, tenant_id=tenant_id, user_id=g.user_id, grant_id=grant_id,
+                    action="kb.rollback", target=entry_id, ok=True, reason="高置信回滚")
+
+    # ------------------------------------------------------------------ #
+    # 检索:按身份过滤(命门)
+    # ------------------------------------------------------------------ #
+    def retrieve(self, tenant_id: str, current_grant_id: Optional[str], query: str) -> list[KBEntry]:
+        """current_grant_id=None 表示匿名/外部。返回可见且匹配的条目(带 pool=置信标签)。"""
+        entries = self.kb.all_active(tenant_id)
+        q = query.strip()
+
+        if current_grant_id is None:
+            # 匿名/外部:只见 对外可公开 的高置信
+            visible = [e for e in entries if e.pool == Pool.PUBLIC_HIGH and e.external_ok]
+        else:
+            try:
+                g = resolve_grant(self.org, tenant_id, current_grant_id)
+            except (LookupError, PermissionError):
+                return []
+            ok, _ = authorize(self.org, tenant_id, current_grant_id, P.KB_READ, g.org_node_id)
+            if not ok:
+                return []
+            # 已登录:本人私有 + 全部公有(低/高);"在 A 看不到 B" 对私有自动成立(按 owner)
+            visible = [
+                e for e in entries
+                if e.pool in (Pool.PUBLIC_LOW, Pool.PUBLIC_HIGH)
+                or (e.pool == Pool.PRIVATE and e.owner_user_id == g.user_id)
+            ]
+        # 朴素匹配(生产换向量检索)
+        return [e for e in visible if not q or q in e.title or q in e.content or q in " ".join(e.claims.values())]

@@ -1,1 +1,94 @@
-IiIiYmFja2VuZC51c2VyX2FkbWluX3NlcnZpY2Ug4oCUIOeUqOaIt+euoeeQhiArIOmDqOmXqOeUs+ivt++8iEIt55So5oi3566h55CG77yJ44CCCgrop6PlvIAi6Ieq5Yqp5rOo5YaM55So5oi35peg6YOo6Zeo4oaS55yL5LiN5Yiw5Lu75L2V6YOo6Zeo6LWE5rqQIueahOatu+e7k++8mgogIC0gYWRtaW4g5ZCO5Y+w77ya5YiX55So5oi344CB5pS56KeS6Imy44CB5YiG6YWN6YOo6Zeo44CB5a6h5om56YOo6Zeo55Sz6K+377yI5p2D5aiB6Lev5b6E77yJ44CCCiAgLSDnlKjmiLfvvJrmj5DkuqQi5Yqg5YWl5p+Q6YOo6ZeoIueahOeUs+ivtyDihpIg6L+bIGFkbWluIOW+heWuoeWIl+ihqO+8jCoq55Sz6K+35pys6Lqr5LiN5o6I5LqI5Lu75L2V5p2D6ZmQKirjgIIKCuaJgOacieadg+mZkOWIpOWumuWnlOaJmCBwZXJtaXNzaW9ucy5jYW5fbWFuYWdlX3VzZXJz77yI5LuFIGFkbWlu77yJ44CC57qvIHN0ZGxpYu+8jOWPr+emu+e6v+a1i+OAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHNlY3JldHMKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdCwgT3B0aW9uYWwKCmZyb20gc2VjdXJlZ3VhcmQucGVybWlzc2lvbnMgaW1wb3J0ICgKICAgIFVzZXIsIFJvbGUsIGNhbl9tYW5hZ2VfdXNlcnMsIGNhbl9zZXRfcm9sZSwgY2FuX2RlbGV0ZV91c2VyLCBQZXJtaXNzaW9uRGVuaWVkLAopCgoKY2xhc3MgVXNlckFkbWluU2VydmljZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhdXRoOiBBbnkpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5hdXRoID0gYXV0aAogICAgICAgIHNlbGYuX3JlcXVlc3RzOiBEaWN0W3N0ciwgRGljdFtzdHIsIEFueV1dID0ge30gICMgcmVxX2lkIC0+IHt1c2VyX2lkLCBkZXB0X2lkLCBzdGF0dXN9CgogICAgZGVmIF9yZXF1aXJlX2FkbWluKHNlbGYsIGNhbGxlcjogVXNlcikgLT4gTm9uZToKICAgICAgICBvaywgcmVhc29uID0gY2FuX21hbmFnZV91c2VycyhjYWxsZXIpCiAgICAgICAgaWYgbm90IG9rOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKHJlYXNvbikKCiAgICAjIC0tLS0tLS0tLS0gYWRtaW4v5Y+X6ZmQ566h55CG5ZGY77ya55So5oi3566h55CGIC0tLS0tLS0tLS0KICAgIGRlZiBsaXN0X3VzZXJzKHNlbGYsIGNhbGxlcjogVXNlcikgLT4gTGlzdFtEaWN0W3N0ciwgQW55XV06CiAgICAgICAgc2VsZi5fcmVxdWlyZV9hZG1pbihjYWxsZXIpCiAgICAgICAgcmV0dXJuIHNlbGYuYXV0aC5saXN0X3VzZXJzKCkKCiAgICBkZWYgc2V0X3JvbGUoc2VsZiwgY2FsbGVyOiBVc2VyLCB1c2VyX2lkOiBzdHIsIHJvbGU6IHN0cikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgc2VsZi5fcmVxdWlyZV9hZG1pbihjYWxsZXIpCiAgICAgICAgaWYgcm9sZSBub3QgaW4ge3IudmFsdWUgZm9yIHIgaW4gUm9sZX06CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiLmnKrnn6Xop5LoibI6IHtyb2xlfSIpCiAgICAgICAgdGFyZ2V0ID0gc2VsZi5hdXRoLmdldF91c2VyKHVzZXJfaWQpCiAgICAgICAgaWYgdGFyZ2V0IGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKCLnlKjmiLfkuI3lrZjlnKgiKQogICAgICAgICMg5oqk5qCP77ya5Y+X6ZmQ566h55CG5ZGY5LiN6IO96YCgIGFkbWluL+WPl+mZkOeuoeeQhuWRmC/lrqHorqHlkZjvvIzkuI3og73norAgYWRtaW7vvIjpmLLoh6rmiJHmj5DmnYMv57uV6L+H5a6h6K6h5Lu75ZG977yJCiAgICAgICAgb2ssIHdoeSA9IGNhbl9zZXRfcm9sZShjYWxsZXIsIHRhcmdldCwgUm9sZShyb2xlKSkKICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgIHJhaXNlIFBlcm1pc3Npb25EZW5pZWQod2h5KQogICAgICAgIHNlbGYuYXV0aC5zZXRfcm9sZSh1c2VyX2lkLCByb2xlKQogICAgICAgIHJldHVybiB7InVzZXJfaWQiOiB1c2VyX2lkLCAicm9sZSI6IHJvbGV9CgogICAgZGVmIGFzc2lnbl9kZXBhcnRtZW50KHNlbGYsIGNhbGxlcjogVXNlciwgdXNlcl9pZDogc3RyLCBkZXB0X2lkOiBPcHRpb25hbFtzdHJdKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICBzZWxmLl9yZXF1aXJlX2FkbWluKGNhbGxlcikKICAgICAgICBpZiBub3Qgc2VsZi5hdXRoLnNldF9kZXBhcnRtZW50KHVzZXJfaWQsIGRlcHRfaWQpOgogICAgICAgICAgICByYWlzZSBLZXlFcnJvcigi55So5oi35LiN5a2Y5ZyoIikKICAgICAgICByZXR1cm4geyJ1c2VyX2lkIjogdXNlcl9pZCwgImRlcHRfaWQiOiBkZXB0X2lkfQoKICAgIGRlZiBkZWxldGVfdXNlcihzZWxmLCBjYWxsZXI6IFVzZXIsIHVzZXJfaWQ6IHN0cikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgc2VsZi5fcmVxdWlyZV9hZG1pbihjYWxsZXIpCiAgICAgICAgdGFyZ2V0ID0gc2VsZi5hdXRoLmdldF91c2VyKHVzZXJfaWQpCiAgICAgICAgaWYgdGFyZ2V0IGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKCLnlKjmiLfkuI3lrZjlnKgiKQogICAgICAgICMg5oqk5qCP77ya5Y+X6ZmQ566h55CG5ZGY5LiN6IO95YigIGFkbWluL+WPl+mZkOeuoeeQhuWRmC/lrqHorqHlkZjvvJthZG1pbiDkuI3og73liKAgYWRtaW4KICAgICAgICBvaywgd2h5ID0gY2FuX2RlbGV0ZV91c2VyKGNhbGxlciwgdGFyZ2V0KQogICAgICAgIGlmIG5vdCBvazoKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCh3aHkpCiAgICAgICAgc2VsZi5hdXRoLmRlbGV0ZV91c2VyKHVzZXJfaWQpCiAgICAgICAgcmV0dXJuIHsiZGVsZXRlZCI6IHVzZXJfaWR9CgogICAgIyAtLS0tLS0tLS0tIOeUqOaIt++8mueUs+ivt+mDqOmXqO+8iOS4jeaOiOadg++8jOS7heWFpeW+heWuoe+8iSAtLS0tLS0tLS0tCiAgICBkZWYgcmVxdWVzdF9kZXBhcnRtZW50KHNlbGYsIGNhbGxlcjogVXNlciwgZGVwdF9pZDogc3RyKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXFfaWQgPSAicmVxXyIgKyBzZWNyZXRzLnRva2VuX2hleCg0KQogICAgICAgIHNlbGYuX3JlcXVlc3RzW3JlcV9pZF0gPSB7ImlkIjogcmVxX2lkLCAidXNlcl9pZCI6IGNhbGxlci5pZCwgImRlcHRfaWQiOiBkZXB0X2lkLCAic3RhdHVzIjogInBlbmRpbmcifQogICAgICAgIHJldHVybiBzZWxmLl9yZXF1ZXN0c1tyZXFfaWRdCgogICAgIyAtLS0tLS0tLS0tIGFkbWlu77ya5a6h5om555Sz6K+3IC0tLS0tLS0tLS0KICAgIGRlZiBsaXN0X3JlcXVlc3RzKHNlbGYsIGNhbGxlcjogVXNlciwgb25seV9wZW5kaW5nOiBib29sID0gVHJ1ZSkgLT4gTGlzdFtEaWN0W3N0ciwgQW55XV06CiAgICAgICAgc2VsZi5fcmVxdWlyZV9hZG1pbihjYWxsZXIpCiAgICAgICAgcmVxcyA9IGxpc3Qoc2VsZi5fcmVxdWVzdHMudmFsdWVzKCkpCiAgICAgICAgcmV0dXJuIFtyIGZvciByIGluIHJlcXMgaWYgclsic3RhdHVzIl0gPT0gInBlbmRpbmciXSBpZiBvbmx5X3BlbmRpbmcgZWxzZSByZXFzCgogICAgZGVmIGFwcHJvdmVfcmVxdWVzdChzZWxmLCBjYWxsZXI6IFVzZXIsIHJlcV9pZDogc3RyKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICBzZWxmLl9yZXF1aXJlX2FkbWluKGNhbGxlcikKICAgICAgICByZXEgPSBzZWxmLl9yZXF1ZXN0cy5nZXQocmVxX2lkKQogICAgICAgIGlmIG5vdCByZXE6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKCLnlLPor7fkuI3lrZjlnKgiKQogICAgICAgICMg5a6h5om56YCa6L+H5omN55yf5q2j5YaZ6YOo6Zeo77yI5p2D5aiB5o6I5p2D54K577yJCiAgICAgICAgc2VsZi5hdXRoLnNldF9kZXBhcnRtZW50KHJlcVsidXNlcl9pZCJdLCByZXFbImRlcHRfaWQiXSkKICAgICAgICByZXFbInN0YXR1cyJdID0gImFwcHJvdmVkIgogICAgICAgIHJldHVybiByZXEKCiAgICBkZWYgcmVqZWN0X3JlcXVlc3Qoc2VsZiwgY2FsbGVyOiBVc2VyLCByZXFfaWQ6IHN0cikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgc2VsZi5fcmVxdWlyZV9hZG1pbihjYWxsZXIpCiAgICAgICAgcmVxID0gc2VsZi5fcmVxdWVzdHMuZ2V0KHJlcV9pZCkKICAgICAgICBpZiBub3QgcmVxOgogICAgICAgICAgICByYWlzZSBLZXlFcnJvcigi55Sz6K+35LiN5a2Y5ZyoIikKICAgICAgICByZXFbInN0YXR1cyJdID0gInJlamVjdGVkIgogICAgICAgIHJldHVybiByZXEK
+"""backend.user_admin_service — 用户管理 + 部门申请（B-用户管理）。
+
+解开"自助注册用户无部门→看不到任何部门资源"的死结：
+  - admin 后台：列用户、改角色、分配部门、审批部门申请（权威路径）。
+  - 用户：提交"加入某部门"的申请 → 进 admin 待审列表，**申请本身不授予任何权限**。
+
+所有权限判定委托 permissions.can_manage_users（仅 admin）。纯 stdlib，可离线测。
+"""
+from __future__ import annotations
+
+import secrets
+from typing import Any, Dict, List, Optional
+
+from secureguard.permissions import (
+    User, Role, can_manage_users, can_set_role, can_delete_user, PermissionDenied,
+)
+
+
+class UserAdminService:
+    def __init__(self, auth: Any) -> None:
+        self.auth = auth
+        self._requests: Dict[str, Dict[str, Any]] = {}  # req_id -> {user_id, dept_id, status}
+
+    def _require_admin(self, caller: User) -> None:
+        ok, reason = can_manage_users(caller)
+        if not ok:
+            raise PermissionDenied(reason)
+
+    # ---------- admin/受限管理员：用户管理 ----------
+    def list_users(self, caller: User) -> List[Dict[str, Any]]:
+        self._require_admin(caller)
+        return self.auth.list_users()
+
+    def set_role(self, caller: User, user_id: str, role: str) -> Dict[str, Any]:
+        self._require_admin(caller)
+        if role not in {r.value for r in Role}:
+            raise ValueError(f"未知角色: {role}")
+        target = self.auth.get_user(user_id)
+        if target is None:
+            raise KeyError("用户不存在")
+        # 护栏：受限管理员不能造 admin/受限管理员/审计员，不能碰 admin（防自我提权/绕过审计任命）
+        ok, why = can_set_role(caller, target, Role(role))
+        if not ok:
+            raise PermissionDenied(why)
+        self.auth.set_role(user_id, role)
+        return {"user_id": user_id, "role": role}
+
+    def assign_department(self, caller: User, user_id: str, dept_id: Optional[str]) -> Dict[str, Any]:
+        self._require_admin(caller)
+        if not self.auth.set_department(user_id, dept_id):
+            raise KeyError("用户不存在")
+        return {"user_id": user_id, "dept_id": dept_id}
+
+    def delete_user(self, caller: User, user_id: str) -> Dict[str, Any]:
+        self._require_admin(caller)
+        target = self.auth.get_user(user_id)
+        if target is None:
+            raise KeyError("用户不存在")
+        # 护栏：受限管理员不能删 admin/受限管理员/审计员；admin 不能删 admin
+        ok, why = can_delete_user(caller, target)
+        if not ok:
+            raise PermissionDenied(why)
+        self.auth.delete_user(user_id)
+        return {"deleted": user_id}
+
+    # ---------- 用户：申请部门（不授权，仅入待审） ----------
+    def request_department(self, caller: User, dept_id: str) -> Dict[str, Any]:
+        req_id = "req_" + secrets.token_hex(4)
+        self._requests[req_id] = {"id": req_id, "user_id": caller.id, "dept_id": dept_id, "status": "pending"}
+        return self._requests[req_id]
+
+    # ---------- admin：审批申请 ----------
+    def list_requests(self, caller: User, only_pending: bool = True) -> List[Dict[str, Any]]:
+        self._require_admin(caller)
+        reqs = list(self._requests.values())
+        return [r for r in reqs if r["status"] == "pending"] if only_pending else reqs
+
+    def approve_request(self, caller: User, req_id: str) -> Dict[str, Any]:
+        self._require_admin(caller)
+        req = self._requests.get(req_id)
+        if not req:
+            raise KeyError("申请不存在")
+        # 审批通过才真正写部门（权威授权点）
+        self.auth.set_department(req["user_id"], req["dept_id"])
+        req["status"] = "approved"
+        return req
+
+    def reject_request(self, caller: User, req_id: str) -> Dict[str, Any]:
+        self._require_admin(caller)
+        req = self._requests.get(req_id)
+        if not req:
+            raise KeyError("申请不存在")
+        req["status"] = "rejected"
+        return req

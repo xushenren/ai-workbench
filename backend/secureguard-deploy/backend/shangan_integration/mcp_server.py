@@ -1,1 +1,135 @@
-IiIiCm1jcF9zZXJ2ZXIucHkg4oCUIEt1biDmoYzpnaLpgJrov4cgTUNQIOaOpeS4iuWuieiDveWKm++8iHNwZWMg5Lu75YqhNu+8iQoKS3VuIOerr+mFjee9ruS4pOS4qiBNQ1AgU2VydmVy77yaCiAgc2hhbmdhbi1rbm93bGVkZ2Ug4oaSIC92MS9tY3Ava25vd2xlZGdlICAg55+l6K+G5qOA57Si77yIUkFHICsg5qCH5YeG5p2h5paHICsg5Zug5p6c6ZO+77yJCiAgc2hhbmdhbi10YXNrcyAgICAg4oaSIC92MS9tY3AvdGFza3MgICAgICAgRVZBIOS7u+WKoe+8iOa0vuWNlS/ml6XmiqUv55uR5o6n77yJCgrov5nph4znlKggSFRUUCArIE1DUCDlt6XlhbfmuIXljZXnmoTlvaLlvI/lrp7njrDvvIhNQ1Agb3ZlciBIVFRQ77yJ77yM5oyC5Zyo5ZCM5LiA5LiqIDo5MDAwIGFwcCDkuIrjgIIK6Iul5L2g5pa555So5a6Y5pa5IG1jcCBTREsg55qEIHN0ZGlvL1NTRSDmqKHlvI/vvIzmioogaGFuZGxlciDlhoXpg6jpgLvovpHljp/moLfmkKzov4fljrvljbPlj6/igJTigJQK5bel5YW3IHNjaGVtYSDkuI7lpITnkIblh73mlbDmmK/kuI7kvKDovpPml6DlhbPnmoTjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBvcwpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBDYWxsYWJsZSwgT3B0aW9uYWwKCmZyb20gZmFzdGFwaSBpbXBvcnQgQVBJUm91dGVyLCBSZXF1ZXN0CmZyb20gZmFzdGFwaS5yZXNwb25zZXMgaW1wb3J0IEpTT05SZXNwb25zZQoKbWNwID0gQVBJUm91dGVyKCkKCiMg5L2g5pa555yf5a6e5qOA57SiL+S7u+WKoeWunueOsOazqOWFpeeCue+8iOe8uuecgei/lOWbnuWNoOS9je+8jOS+v+S6juWFiOi/numAmuWGjeWhq+iCie+8iQpSQUdfU0VBUkNIOiBPcHRpb25hbFtDYWxsYWJsZVtbc3RyLCBkaWN0XSwgbGlzdFtkaWN0XV1dID0gTm9uZSAgICAjIChxdWVyeSwgZmlsdGVycyktPnNsaWNlcwpFVkFfVEFTS1M6IE9wdGlvbmFsW0NhbGxhYmxlW1tzdHIsIGRpY3RdLCBBbnldXSA9IE5vbmUgICAgICAgICAgICAjIChhY3Rpb24sIGFyZ3MpLT5yZXN1bHQKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg5bel5YW35riF5Y2V77yIS3VuIOWQr+WKqOaXtuaLieWPlu+8jOWGs+WumuWPr+iwg+eUqOeahOW3peWFt++8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCktOT1dMRURHRV9UT09MUyA9IFsKICAgIHsKICAgICAgICAibmFtZSI6ICJrbm93bGVkZ2Vfc2VhcmNoIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAi5qOA57Si5py655S15a6J6KOF55+l6K+G5bqT77ya5pa95bel5pa55qGIL+agh+WHhuadoeaWhy/lm6Dmnpzpk77jgILlj6/mjInkuJPkuJrjgIHooYzkuJrjgIHmoIflh4blj7fov4fmu6TjgIIiLAogICAgICAgICJpbnB1dFNjaGVtYSI6IHsKICAgICAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAgICAgICAicXVlcnkiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgICAgICAgICAic2tpbGxfaWQiOiB7InR5cGUiOiAic3RyaW5nIiwgImRlc2NyaXB0aW9uIjogIumZkOWumuS4k+S4mu+8jOWmgiAwMeeuoemBky8wMueUteawlCJ9LAogICAgICAgICAgICAgICAgImluZHVzdHJ5IjogeyJ0eXBlIjogInN0cmluZyIsICJkZXNjcmlwdGlvbiI6ICLpmZDlrprooYzkuJrvvIzlpoIg5Yy76ZmiL+aVsOaNruS4reW/gyJ9LAogICAgICAgICAgICAgICAgInN0YW5kYXJkc19yZWYiOiB7InR5cGUiOiAic3RyaW5nIiwgImRlc2NyaXB0aW9uIjogIumZkOWumuagh+WHhuWPtyJ9LAogICAgICAgICAgICAgICAgInRvcF9rIjogeyJ0eXBlIjogImludGVnZXIiLCAiZGVmYXVsdCI6IDZ9LAogICAgICAgICAgICB9LAogICAgICAgICAgICAicmVxdWlyZWQiOiBbInF1ZXJ5Il0sCiAgICAgICAgfSwKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAic3RhbmRhcmRfbG9va3VwIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAi5oyJ5qCH5YeG5Y+35oiW5YWz6ZSu6K+N5p+l5qCH5YeG5p2h5paH5Y6f5paH77yIdG9wNTDmoLjlv4MgKyAxNTLooaXlhYXvvInjgIIiLAogICAgICAgICJpbnB1dFNjaGVtYSI6IHsKICAgICAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAgICAgInByb3BlcnRpZXMiOiB7InJlZiI6IHsidHlwZSI6ICJzdHJpbmcifSwgImtleXdvcmQiOiB7InR5cGUiOiAic3RyaW5nIn19LAogICAgICAgIH0sCiAgICB9LApdCgpUQVNLX1RPT0xTID0gWwogICAgewogICAgICAgICJuYW1lIjogImV2YV9saXN0X3Rhc2tzIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAi5YiX5Ye6IEVWQSDlvJXmk47lvZPliY3ku7vliqHvvIjmtL7ljZUv5beh5qOAL+aXpeaKpe+8ieOAgiIsCiAgICAgICAgImlucHV0U2NoZW1hIjogeyJ0eXBlIjogIm9iamVjdCIsICJwcm9wZXJ0aWVzIjogeyJzdGF0dXMiOiB7InR5cGUiOiAic3RyaW5nIn19fSwKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiZXZhX2NyZWF0ZV90YXNrIiwKICAgICAgICAiZGVzY3JpcHRpb24iOiAi5Yib5bu65LiA5LiqIEVWQSDku7vliqHvvIjlrprml7bmiavmj48v5rS+5Y2VL+ebkeaOp++8ieOAgiIsCiAgICAgICAgImlucHV0U2NoZW1hIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgICAgICJraW5kIjogeyJ0eXBlIjogInN0cmluZyIsICJlbnVtIjogWyJzY2FuIiwgImRpc3BhdGNoIiwgInJlcG9ydCIsICJtb25pdG9yIl19LAogICAgICAgICAgICAgICAgInRhcmdldCI6IHsidHlwZSI6ICJzdHJpbmcifSwKICAgICAgICAgICAgICAgICJzY2hlZHVsZSI6IHsidHlwZSI6ICJzdHJpbmciLCAiZGVzY3JpcHRpb24iOiAiY3JvbiDmiJboh6rnhLbor63oqIAifSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInJlcXVpcmVkIjogWyJraW5kIiwgInRhcmdldCJdLAogICAgICAgIH0sCiAgICB9LApdCgoKZGVmIF9vayhyZXN1bHQ6IEFueSkgLT4gZGljdDoKICAgICMgTUNQIHRvb2xzL2NhbGwg6L+U5Zue57qm5a6aCiAgICByZXR1cm4geyJjb250ZW50IjogW3sidHlwZSI6ICJ0ZXh0IiwgInRleHQiOiByZXN1bHQgaWYgaXNpbnN0YW5jZShyZXN1bHQsIHN0cikgZWxzZSBfanNvbihyZXN1bHQpfV19CgoKZGVmIF9qc29uKHg6IEFueSkgLT4gc3RyOgogICAgaW1wb3J0IGpzb24KICAgIHJldHVybiBqc29uLmR1bXBzKHgsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIGtub3dsZWRnZSBzZXJ2ZXIKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpAbWNwLmdldCgiL3YxL21jcC9rbm93bGVkZ2UiKQphc3luYyBkZWYga25vd2xlZGdlX21hbmlmZXN0KCkgLT4gSlNPTlJlc3BvbnNlOgogICAgcmV0dXJuIEpTT05SZXNwb25zZSh7Im5hbWUiOiAic2hhbmdhbi1rbm93bGVkZ2UiLCAidG9vbHMiOiBLTk9XTEVER0VfVE9PTFN9KQoKCkBtY3AucG9zdCgiL3YxL21jcC9rbm93bGVkZ2UiKQphc3luYyBkZWYga25vd2xlZGdlX2NhbGwocmVxdWVzdDogUmVxdWVzdCkgLT4gSlNPTlJlc3BvbnNlOgogICAgYm9keSA9IGF3YWl0IHJlcXVlc3QuanNvbigpCiAgICBuYW1lLCBhcmdzID0gYm9keS5nZXQoIm5hbWUiKSwgYm9keS5nZXQoImFyZ3VtZW50cyIsIHt9KQogICAgaWYgbmFtZSA9PSAia25vd2xlZGdlX3NlYXJjaCI6CiAgICAgICAgaWYgUkFHX1NFQVJDSDoKICAgICAgICAgICAgZmlsdGVycyA9IHtrOiBhcmdzW2tdIGZvciBrIGluICgic2tpbGxfaWQiLCAiaW5kdXN0cnkiLCAic3RhbmRhcmRzX3JlZiIpIGlmIGFyZ3MuZ2V0KGspfQogICAgICAgICAgICBoaXRzID0gUkFHX1NFQVJDSChhcmdzWyJxdWVyeSJdLCBmaWx0ZXJzKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGhpdHMgPSBbeyJub3RlIjogIlJBR19TRUFSQ0gg5pyq5o6l5YWl77yM6L+U5Zue5Y2g5L2NIiwgInF1ZXJ5IjogYXJncy5nZXQoInF1ZXJ5Iil9XQogICAgICAgIHJldHVybiBKU09OUmVzcG9uc2UoX29rKGhpdHMpKQogICAgaWYgbmFtZSA9PSAic3RhbmRhcmRfbG9va3VwIjoKICAgICAgICBpZiBSQUdfU0VBUkNIOgogICAgICAgICAgICBoaXRzID0gUkFHX1NFQVJDSChhcmdzLmdldCgia2V5d29yZCIpIG9yIGFyZ3MuZ2V0KCJyZWYiLCAiIiksIHsic291cmNlX3R5cGUiOiAic3RhbmRhcmQifSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBoaXRzID0gW3sibm90ZSI6ICJzdGFuZGFyZCDmo4DntKLmnKrmjqXlhaUifV0KICAgICAgICByZXR1cm4gSlNPTlJlc3BvbnNlKF9vayhoaXRzKSkKICAgIHJldHVybiBKU09OUmVzcG9uc2UoeyJlcnJvciI6IGYidW5rbm93biB0b29sOiB7bmFtZX0ifSwgc3RhdHVzX2NvZGU9NDAwKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKIyB0YXNrcyBzZXJ2ZXIKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpAbWNwLmdldCgiL3YxL21jcC90YXNrcyIpCmFzeW5jIGRlZiB0YXNrc19tYW5pZmVzdCgpIC0+IEpTT05SZXNwb25zZToKICAgIHJldHVybiBKU09OUmVzcG9uc2UoeyJuYW1lIjogInNoYW5nYW4tdGFza3MiLCAidG9vbHMiOiBUQVNLX1RPT0xTfSkKCgpAbWNwLnBvc3QoIi92MS9tY3AvdGFza3MiKQphc3luYyBkZWYgdGFza3NfY2FsbChyZXF1ZXN0OiBSZXF1ZXN0KSAtPiBKU09OUmVzcG9uc2U6CiAgICBib2R5ID0gYXdhaXQgcmVxdWVzdC5qc29uKCkKICAgIG5hbWUsIGFyZ3MgPSBib2R5LmdldCgibmFtZSIpLCBib2R5LmdldCgiYXJndW1lbnRzIiwge30pCiAgICBhY3Rpb24gPSB7ImV2YV9saXN0X3Rhc2tzIjogImxpc3QiLCAiZXZhX2NyZWF0ZV90YXNrIjogImNyZWF0ZSJ9LmdldChuYW1lKQogICAgaWYgbm90IGFjdGlvbjoKICAgICAgICByZXR1cm4gSlNPTlJlc3BvbnNlKHsiZXJyb3IiOiBmInVua25vd24gdG9vbDoge25hbWV9In0sIHN0YXR1c19jb2RlPTQwMCkKICAgIHJlc3VsdCA9IEVWQV9UQVNLUyhhY3Rpb24sIGFyZ3MpIGlmIEVWQV9UQVNLUyBlbHNlIHsibm90ZSI6ICJFVkFfVEFTS1Mg5pyq5o6l5YWlIiwgImFjdGlvbiI6IGFjdGlvbiwgImFyZ3MiOiBhcmdzfQogICAgcmV0dXJuIEpTT05SZXNwb25zZShfb2socmVzdWx0KSkKCgojIOaMgui9ve+8mmFwcC5pbmNsdWRlX3JvdXRlcihtY3ApCg==
+"""
+mcp_server.py — Kun 桌面通过 MCP 接上安能力（spec 任务6）
+
+Kun 端配置两个 MCP Server：
+  shangan-knowledge → /v1/mcp/knowledge   知识检索（RAG + 标准条文 + 因果链）
+  shangan-tasks     → /v1/mcp/tasks       EVA 任务（派单/日报/监控）
+
+这里用 HTTP + MCP 工具清单的形式实现（MCP over HTTP），挂在同一个 :9000 app 上。
+若你方用官方 mcp SDK 的 stdio/SSE 模式，把 handler 内部逻辑原样搬过去即可——
+工具 schema 与处理函数是与传输无关的。
+"""
+from __future__ import annotations
+
+import os
+from typing import Any, Callable, Optional
+
+from fastapi import APIRouter, Request
+from fastapi.responses import JSONResponse
+
+mcp = APIRouter()
+
+# 你方真实检索/任务实现注入点（缺省返回占位，便于先连通再填肉）
+RAG_SEARCH: Optional[Callable[[str, dict], list[dict]]] = None    # (query, filters)->slices
+EVA_TASKS: Optional[Callable[[str, dict], Any]] = None            # (action, args)->result
+
+
+# --------------------------------------------------------------------------- #
+# 工具清单（Kun 启动时拉取，决定可调用的工具）
+# --------------------------------------------------------------------------- #
+KNOWLEDGE_TOOLS = [
+    {
+        "name": "knowledge_search",
+        "description": "检索机电安装知识库：施工方案/标准条文/因果链。可按专业、行业、标准号过滤。",
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "query": {"type": "string"},
+                "skill_id": {"type": "string", "description": "限定专业，如 01管道/02电气"},
+                "industry": {"type": "string", "description": "限定行业，如 医院/数据中心"},
+                "standards_ref": {"type": "string", "description": "限定标准号"},
+                "top_k": {"type": "integer", "default": 6},
+            },
+            "required": ["query"],
+        },
+    },
+    {
+        "name": "standard_lookup",
+        "description": "按标准号或关键词查标准条文原文（top50核心 + 152补充）。",
+        "inputSchema": {
+            "type": "object",
+            "properties": {"ref": {"type": "string"}, "keyword": {"type": "string"}},
+        },
+    },
+]
+
+TASK_TOOLS = [
+    {
+        "name": "eva_list_tasks",
+        "description": "列出 EVA 引擎当前任务（派单/巡检/日报）。",
+        "inputSchema": {"type": "object", "properties": {"status": {"type": "string"}}},
+    },
+    {
+        "name": "eva_create_task",
+        "description": "创建一个 EVA 任务（定时扫描/派单/监控）。",
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "kind": {"type": "string", "enum": ["scan", "dispatch", "report", "monitor"]},
+                "target": {"type": "string"},
+                "schedule": {"type": "string", "description": "cron 或自然语言"},
+            },
+            "required": ["kind", "target"],
+        },
+    },
+]
+
+
+def _ok(result: Any) -> dict:
+    # MCP tools/call 返回约定
+    return {"content": [{"type": "text", "text": result if isinstance(result, str) else _json(result)}]}
+
+
+def _json(x: Any) -> str:
+    import json
+    return json.dumps(x, ensure_ascii=False, indent=2)
+
+
+# --------------------------------------------------------------------------- #
+# knowledge server
+# --------------------------------------------------------------------------- #
+@mcp.get("/v1/mcp/knowledge")
+async def knowledge_manifest() -> JSONResponse:
+    return JSONResponse({"name": "shangan-knowledge", "tools": KNOWLEDGE_TOOLS})
+
+
+@mcp.post("/v1/mcp/knowledge")
+async def knowledge_call(request: Request) -> JSONResponse:
+    body = await request.json()
+    name, args = body.get("name"), body.get("arguments", {})
+    if name == "knowledge_search":
+        if RAG_SEARCH:
+            filters = {k: args[k] for k in ("skill_id", "industry", "standards_ref") if args.get(k)}
+            hits = RAG_SEARCH(args["query"], filters)
+        else:
+            hits = [{"note": "RAG_SEARCH 未接入，返回占位", "query": args.get("query")}]
+        return JSONResponse(_ok(hits))
+    if name == "standard_lookup":
+        if RAG_SEARCH:
+            hits = RAG_SEARCH(args.get("keyword") or args.get("ref", ""), {"source_type": "standard"})
+        else:
+            hits = [{"note": "standard 检索未接入"}]
+        return JSONResponse(_ok(hits))
+    return JSONResponse({"error": f"unknown tool: {name}"}, status_code=400)
+
+
+# --------------------------------------------------------------------------- #
+# tasks server
+# --------------------------------------------------------------------------- #
+@mcp.get("/v1/mcp/tasks")
+async def tasks_manifest() -> JSONResponse:
+    return JSONResponse({"name": "shangan-tasks", "tools": TASK_TOOLS})
+
+
+@mcp.post("/v1/mcp/tasks")
+async def tasks_call(request: Request) -> JSONResponse:
+    body = await request.json()
+    name, args = body.get("name"), body.get("arguments", {})
+    action = {"eva_list_tasks": "list", "eva_create_task": "create"}.get(name)
+    if not action:
+        return JSONResponse({"error": f"unknown tool: {name}"}, status_code=400)
+    result = EVA_TASKS(action, args) if EVA_TASKS else {"note": "EVA_TASKS 未接入", "action": action, "args": args}
+    return JSONResponse(_ok(result))
+
+
+# 挂载：app.include_router(mcp)

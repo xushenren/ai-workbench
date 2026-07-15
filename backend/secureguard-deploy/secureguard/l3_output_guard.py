@@ -1,1 +1,117 @@
-IiIic2VjdXJlZ3VhcmQubDNfb3V0cHV0X2d1YXJkIOKAlCBMMyDovpPlh7rlrojljavvvIjmqKHlnovovpPlh7rlkI7jgIHnlKjmiLfnnIvliLDliY3vvInjgIIKCuiBjOi0o++8mgogIDEuIOW5u+inieS/oeWPt+ajgOa1i++8iOS4jeehruWumuaAp+ihqOi/sOOAgeaXoOadpea6kOaWreiogOOAgee7neWvueWMluaOqui+nuOAgeacquaguOWvueaXpeacn++8ieOAggogIDIuIOaVj+aEn+S/oeaBr+iEseaVj++8iD49MTIg56eN5Yet5o2u5qC85byP77yJ44CCCiAgMy4g5byV55So6KaG55uW5qOA5p+l77yI6KaB5rGCIHJlcXVpcmVfY2l0YXRpb24g5pe277yJ44CCCiAgNC4g6L6T5Ye66LSo6YeP6K+E5YiG77yIT3V0cHV0UXVhbGl0ee+8ieOAggoK6ISx5pWP6YeH5Y+W4oCc5YWI5qOA5rWL5ZCO5pu/5o2i4oCd77yM6ISx5pWP5ZCO55qE5paH5pys5omN5piv5YWB6K646L+U5Zue57uZ55So5oi355qE5paH5pys44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgcmUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIFR1cGxlCgpfRkxBR1MgPSByZS5JR05PUkVDQVNFIHwgcmUuVU5JQ09ERQoKCkBkYXRhY2xhc3MKY2xhc3MgT3V0cHV0UXVhbGl0eToKICAgICIiIui+k+WHuui0qOmHj+aJk+WIhu+8iDAtMSDljLrpl7TvvIxvdmVyYWxsX3Bhc3Mg57u85ZCI5Yik5a6a77yJ44CCIiIiCgogICAgaGFsbHVjaW5hdGlvbl9yaXNrOiBmbG9hdCA9IDAuMCAgICMg5bm76KeJ5L+h5Y+35a+G5bqm77yI6LaK5L2O6LaK5aW977yJCiAgICBjaXRhdGlvbl9jb3ZlcmFnZTogZmxvYXQgPSAwLjAgICAgIyDlvJXnlKjopobnm5bvvIjotorpq5jotorlpb3vvIkKICAgIHNhbml0aXphdGlvbl9hcHBsaWVkOiBib29sID0gRmFsc2UKICAgIHNlbnNpdGl2ZV9oaXRzOiBpbnQgPSAwCiAgICBvdmVyYWxsX3Bhc3M6IGJvb2wgPSBGYWxzZQoKICAgIGRlZiB0b19kaWN0KHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHJldHVybiBzZWxmLl9fZGljdF9fLmNvcHkoKQoKCmNsYXNzIE91dHB1dEd1YXJkOgogICAgIiIiTDMg6L6T5Ye65a6I5Y2r44CC57qv5qCH5YeG5bqT77yM5peg56ys5LiJ5pa55L6d6LWW44CCIiIiCgogICAgIyDlubvop4nkv6Hlj7fvvJrlkb3kuK3kuI3ku6PooajkuIDlrprmmK/lubvop4nvvIzkvYbmj5DnpLrpnIDopoHmoLjlr7kv6ZmN5p2D44CCCiAgICBIQUxMVUNJTkFUSU9OX1NJR05BTFM6IExpc3RbVHVwbGVbc3RyLCBzdHJdXSA9IFsKICAgICAgICAociJcYihJXHMrdGhpbmt8SVxzK2JlbGlldmV8cHJvYmFibHl8bWF5YmV8bGlrZWx5fHBvc3NpYmx5fG1pZ2h0XHMrYmUpXGIiLCAi5LiN56Gu5a6a5oCn6KGo6L+wIiksCiAgICAgICAgKHIiXGIoYWNjb3JkaW5nXHMrdG9ccytteVxzKyh0cmFpbmluZ3xrbm93bGVkZ2V8dW5kZXJzdGFuZGluZykpXGIiLCAi5peg5p2l5rqQ5pat6KiAIiksCiAgICAgICAgKHIiXGIoYXNccytmYXJccythc1xzK0lccytrbm93fHRvXHMrdGhlXHMrYmVzdFxzK29mXHMrbXlccytrbm93bGVkZ2UpXGIiLCAi5qih57OK6L6555WMIiksCiAgICAgICAgKHIiXGIoYWxsfGV2ZXJ5fGFsd2F5c3xuZXZlcnxub25lfG9ubHl8Z3VhcmFudGVlZHxkZWZpbml0ZWx5KVxiIiwgIue7neWvueWMluihqOi/sCIpLAogICAgICAgIChyIlxiXGR7NH0tXGR7Mn0tXGR7Mn1cYiIsICLml6XmnJ/mlq3oqIAo6ZyA5qC45a+5KSIpLAogICAgICAgIChyIijmiJHorqTkuLp85oiR6KeJ5b6XfOWkp+amgnzkuZ/orrh85bqU6K+l5pivfOWPr+iDvSkiLCAi5Lit5paH5LiN56Gu5a6a6KGo6L+wIiksCiAgICBdCgogICAgIyA+PTEyIOenjeaVj+aEny/lh63mja7moLzlvI/jgILms6jmhI/pobrluo/vvJrmm7TlhbfkvZPnmoTmlL7liY3pnaLjgIIKICAgIFNFTlNJVElWRV9QQVRURVJOUzogTGlzdFtUdXBsZVtzdHIsIHN0cl1dID0gWwogICAgICAgIChyInNrLWFudC1bQS1aYS16MC05X1wtXXsyMCx9IiwgIltBTlRIUk9QSUNfS0VZX1JFREFDVEVEXSIpLAogICAgICAgIChyInNrLVtBLVphLXowLTldezIwLH0iLCAiW09QRU5BSV9LRVlfUkVEQUNURURdIiksCiAgICAgICAgKHIiZ2hwX1tBLVphLXowLTldezMwLH0iLCAiW0dJVEhVQl9UT0tFTl9SRURBQ1RFRF0iKSwKICAgICAgICAociJnaXRodWJfcGF0X1tBLVphLXowLTlfXXsyMCx9IiwgIltHSVRIVUJfUEFUX1JFREFDVEVEXSIpLAogICAgICAgIChyImdob19bQS1aYS16MC05XXszMCx9IiwgIltHSVRIVUJfT0FVVEhfUkVEQUNURURdIiksCiAgICAgICAgKHIiQUl6YVswLTlBLVphLXpfXC1dezMwLH0iLCAiW0dPT0dMRV9LRVlfUkVEQUNURURdIiksCiAgICAgICAgKHIieWEyOVwuWzAtOUEtWmEtel9cLV17MjAsfSIsICJbR09PR0xFX09BVVRIX1JFREFDVEVEXSIpLAogICAgICAgIChyIkFLSUFbMC05QS1aXXsxNn0iLCAiW0FXU19BQ0NFU1NfS0VZX1JFREFDVEVEXSIpLAogICAgICAgIChyInhveFtiYXByc10tWzAtOUEtWmEtelwtXXsxMCx9IiwgIltTTEFDS19UT0tFTl9SRURBQ1RFRF0iKSwKICAgICAgICAociJleUpbQS1aYS16MC05X1wtXXsxMCx9XC5bQS1aYS16MC05X1wtXXsxMCx9XC5bQS1aYS16MC05X1wtXXsxMCx9IiwgIltKV1RfUkVEQUNURURdIiksCiAgICAgICAgKHIiLS0tLS1CRUdJTlxzKyhSU0Fccyt8RUNccyt8T1BFTlNTSFxzKyk/UFJJVkFURVxzK0tFWS0tLS0tIiwgIltQUklWQVRFX0tFWV9CTE9DS19SRURBQ1RFRF0iKSwKICAgICAgICAociJcYihwb3N0Z3Jlc3xteXNxbHxtb25nb2RifHJlZGlzfGFtcXApOi8vW15cczpAXSs6W15cczpAXStAW15ccy9dKyIsICJbREJfQ09OTl9SRURBQ1RFRF0iKSwKICAgICAgICAociJcYlxkezN9LVxkezJ9LVxkezR9XGIiLCAiW1NTTl9SRURBQ1RFRF0iKSwKICAgICAgICAociIoP2kpKHBhc3N3b3JkfHBhc3N3ZHxzZWNyZXR8dG9rZW58YXBpW19cc1wtXSprZXkpXHMqWzo9XVxzKlteXHMsO10rIiwgciJcMT1bUkVEQUNURURdIiksCiAgICBdCgogICAgZGVmIF9faW5pdF9fKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5faGFsbCA9IFsocmUuY29tcGlsZShwLCBfRkxBR1MpLCBsYWJlbCkgZm9yIHAsIGxhYmVsIGluIHNlbGYuSEFMTFVDSU5BVElPTl9TSUdOQUxTXQogICAgICAgIHNlbGYuX3NlbnMgPSBbKHJlLmNvbXBpbGUocCwgX0ZMQUdTKSwgcmVwbCkgZm9yIHAsIHJlcGwgaW4gc2VsZi5TRU5TSVRJVkVfUEFUVEVSTlNdCgogICAgZGVmIGNoZWNrKHNlbGYsIG91dHB1dDogc3RyLCBjb250ZXh0OiBEaWN0W3N0ciwgQW55XSB8IE5vbmUgPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLmo4Dmn6UgKyDohLHmlY/jgILov5Tlm54gaXNzdWVz44CB6ISx5pWP5paH5pys5LiO6LSo6YeP6K+E5YiG44CCIiIiCiAgICAgICAgY29udGV4dCA9IGNvbnRleHQgb3Ige30KICAgICAgICBpc3N1ZXM6IExpc3RbRGljdFtzdHIsIHN0cl1dID0gW10KCiAgICAgICAgIyAxKSDlubvop4nkv6Hlj7cKICAgICAgICBoYWxsX2hpdHMgPSAwCiAgICAgICAgZm9yIHBhdCwgbGFiZWwgaW4gc2VsZi5faGFsbDoKICAgICAgICAgICAgaWYgcGF0LnNlYXJjaChvdXRwdXQpOgogICAgICAgICAgICAgICAgaGFsbF9oaXRzICs9IDEKICAgICAgICAgICAgICAgIGlzc3Vlcy5hcHBlbmQoeyJ0eXBlIjogImhhbGx1Y2luYXRpb25fc2lnbmFsIiwgImxhYmVsIjogbGFiZWx9KQoKICAgICAgICAjIDIpIOW8leeUqOimhueblgogICAgICAgIGNpdGF0aW9ucyA9IHJlLmZpbmRhbGwociJcW2RvY19cZCtcXSIsIG91dHB1dCkKICAgICAgICBpZiBjb250ZXh0LmdldCgicmVxdWlyZV9jaXRhdGlvbiIpIGFuZCBub3QgY2l0YXRpb25zOgogICAgICAgICAgICBpc3N1ZXMuYXBwZW5kKHsidHlwZSI6ICJtaXNzaW5nX2NpdGF0aW9uIiwgImxhYmVsIjogIuimgeaxguW8leeUqOS9hue8uuWwkeadpea6kOagh+azqCJ9KQoKICAgICAgICAjIDMpIOaVj+aEn+S/oeaBr+iEseaVj++8iOWFiOajgOa1i+WQjuabv+aNou+8iQogICAgICAgIHNhbml0aXplZCA9IG91dHB1dAogICAgICAgIHNlbnNpdGl2ZV9oaXRzID0gMAogICAgICAgIGZvciBwYXQsIHJlcGwgaW4gc2VsZi5fc2VuczoKICAgICAgICAgICAgaWYgcGF0LnNlYXJjaChzYW5pdGl6ZWQpOgogICAgICAgICAgICAgICAgc2Vuc2l0aXZlX2hpdHMgKz0gMQogICAgICAgICAgICAgICAgaXNzdWVzLmFwcGVuZCh7InR5cGUiOiAic2Vuc2l0aXZlX2RhdGEiLCAibGFiZWwiOiAi5qOA5rWL5Yiw5pWP5oSf5L+h5oGvIn0pCiAgICAgICAgICAgICAgICBzYW5pdGl6ZWQgPSBwYXQuc3ViKHJlcGwsIHNhbml0aXplZCkKCiAgICAgICAgIyA0KSDotKjph4/or4TliIYKICAgICAgICAjIOeugOWNleS7o+eQhu+8muWPpeWtkOaVsOS8sOeul+eUqOS6juW9kuS4gOWMluW5u+inieWvhuW6puOAggogICAgICAgIGFwcHJveF9zZW50ZW5jZXMgPSBtYXgoMSwgbGVuKHJlLmZpbmRhbGwociJb44CCLiE/77yB77yfXG5dIiwgb3V0cHV0KSkgb3IgMSkKICAgICAgICBxdWFsaXR5ID0gT3V0cHV0UXVhbGl0eSgKICAgICAgICAgICAgaGFsbHVjaW5hdGlvbl9yaXNrPXJvdW5kKG1pbigxLjAsIGhhbGxfaGl0cyAvIGFwcHJveF9zZW50ZW5jZXMpLCAzKSwKICAgICAgICAgICAgY2l0YXRpb25fY292ZXJhZ2U9cm91bmQobWluKDEuMCwgbGVuKGNpdGF0aW9ucykgLyBhcHByb3hfc2VudGVuY2VzKSwgMyksCiAgICAgICAgICAgIHNhbml0aXphdGlvbl9hcHBsaWVkPXNlbnNpdGl2ZV9oaXRzID4gMCwKICAgICAgICAgICAgc2Vuc2l0aXZlX2hpdHM9c2Vuc2l0aXZlX2hpdHMsCiAgICAgICAgKQogICAgICAgICMg6YCa6L+H5p2h5Lu277ya5peg5pWP5oSf5rOE5ryP77yM5LiU77yI5LiN6KaB5rGC5byV55SoIOaIliDlt7LmnInlvJXnlKjvvIkKICAgICAgICBxdWFsaXR5Lm92ZXJhbGxfcGFzcyA9ICgKICAgICAgICAgICAgc2Vuc2l0aXZlX2hpdHMgPT0gMAogICAgICAgICAgICBhbmQgKG5vdCBjb250ZXh0LmdldCgicmVxdWlyZV9jaXRhdGlvbiIpIG9yIGJvb2woY2l0YXRpb25zKSkKICAgICAgICApCgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJzYWZlIjogc2Vuc2l0aXZlX2hpdHMgPT0gMCwKICAgICAgICAgICAgImlzc3VlcyI6IGlzc3VlcywKICAgICAgICAgICAgInNhbml0aXplZF9vdXRwdXQiOiBzYW5pdGl6ZWQsCiAgICAgICAgICAgICJjaXRhdGlvbnMiOiBjaXRhdGlvbnMsCiAgICAgICAgICAgICJxdWFsaXR5IjogcXVhbGl0eS50b19kaWN0KCksCiAgICAgICAgICAgICJvdmVyYWxsX3Bhc3MiOiBxdWFsaXR5Lm92ZXJhbGxfcGFzcywKICAgICAgICB9Cg==
+"""secureguard.l3_output_guard — L3 输出守卫（模型输出后、用户看到前）。
+
+职责：
+  1. 幻觉信号检测（不确定性表述、无来源断言、绝对化措辞、未核对日期）。
+  2. 敏感信息脱敏（>=12 种凭据格式）。
+  3. 引用覆盖检查（要求 require_citation 时）。
+  4. 输出质量评分（OutputQuality）。
+
+脱敏采取“先检测后替换”，脱敏后的文本才是允许返回给用户的文本。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass
+from typing import Any, Dict, List, Tuple
+
+_FLAGS = re.IGNORECASE | re.UNICODE
+
+
+@dataclass
+class OutputQuality:
+    """输出质量打分（0-1 区间，overall_pass 综合判定）。"""
+
+    hallucination_risk: float = 0.0   # 幻觉信号密度（越低越好）
+    citation_coverage: float = 0.0    # 引用覆盖（越高越好）
+    sanitization_applied: bool = False
+    sensitive_hits: int = 0
+    overall_pass: bool = False
+
+    def to_dict(self) -> Dict[str, Any]:
+        return self.__dict__.copy()
+
+
+class OutputGuard:
+    """L3 输出守卫。纯标准库，无第三方依赖。"""
+
+    # 幻觉信号：命中不代表一定是幻觉，但提示需要核对/降权。
+    HALLUCINATION_SIGNALS: List[Tuple[str, str]] = [
+        (r"\b(I\s+think|I\s+believe|probably|maybe|likely|possibly|might\s+be)\b", "不确定性表述"),
+        (r"\b(according\s+to\s+my\s+(training|knowledge|understanding))\b", "无来源断言"),
+        (r"\b(as\s+far\s+as\s+I\s+know|to\s+the\s+best\s+of\s+my\s+knowledge)\b", "模糊边界"),
+        (r"\b(all|every|always|never|none|only|guaranteed|definitely)\b", "绝对化表述"),
+        (r"\b\d{4}-\d{2}-\d{2}\b", "日期断言(需核对)"),
+        (r"(我认为|我觉得|大概|也许|应该是|可能)", "中文不确定表述"),
+    ]
+
+    # >=12 种敏感/凭据格式。注意顺序：更具体的放前面。
+    SENSITIVE_PATTERNS: List[Tuple[str, str]] = [
+        (r"sk-ant-[A-Za-z0-9_\-]{20,}", "[ANTHROPIC_KEY_REDACTED]"),
+        (r"sk-[A-Za-z0-9]{20,}", "[OPENAI_KEY_REDACTED]"),
+        (r"ghp_[A-Za-z0-9]{30,}", "[GITHUB_TOKEN_REDACTED]"),
+        (r"github_pat_[A-Za-z0-9_]{20,}", "[GITHUB_PAT_REDACTED]"),
+        (r"gho_[A-Za-z0-9]{30,}", "[GITHUB_OAUTH_REDACTED]"),
+        (r"AIza[0-9A-Za-z_\-]{30,}", "[GOOGLE_KEY_REDACTED]"),
+        (r"ya29\.[0-9A-Za-z_\-]{20,}", "[GOOGLE_OAUTH_REDACTED]"),
+        (r"AKIA[0-9A-Z]{16}", "[AWS_ACCESS_KEY_REDACTED]"),
+        (r"xox[baprs]-[0-9A-Za-z\-]{10,}", "[SLACK_TOKEN_REDACTED]"),
+        (r"eyJ[A-Za-z0-9_\-]{10,}\.[A-Za-z0-9_\-]{10,}\.[A-Za-z0-9_\-]{10,}", "[JWT_REDACTED]"),
+        (r"-----BEGIN\s+(RSA\s+|EC\s+|OPENSSH\s+)?PRIVATE\s+KEY-----", "[PRIVATE_KEY_BLOCK_REDACTED]"),
+        (r"\b(postgres|mysql|mongodb|redis|amqp)://[^\s:@]+:[^\s:@]+@[^\s/]+", "[DB_CONN_REDACTED]"),
+        (r"\b\d{3}-\d{2}-\d{4}\b", "[SSN_REDACTED]"),
+        (r"(?i)(password|passwd|secret|token|api[_\s\-]*key)\s*[:=]\s*[^\s,;]+", r"\1=[REDACTED]"),
+    ]
+
+    def __init__(self) -> None:
+        self._hall = [(re.compile(p, _FLAGS), label) for p, label in self.HALLUCINATION_SIGNALS]
+        self._sens = [(re.compile(p, _FLAGS), repl) for p, repl in self.SENSITIVE_PATTERNS]
+
+    def check(self, output: str, context: Dict[str, Any] | None = None) -> Dict[str, Any]:
+        """检查 + 脱敏。返回 issues、脱敏文本与质量评分。"""
+        context = context or {}
+        issues: List[Dict[str, str]] = []
+
+        # 1) 幻觉信号
+        hall_hits = 0
+        for pat, label in self._hall:
+            if pat.search(output):
+                hall_hits += 1
+                issues.append({"type": "hallucination_signal", "label": label})
+
+        # 2) 引用覆盖
+        citations = re.findall(r"\[doc_\d+\]", output)
+        if context.get("require_citation") and not citations:
+            issues.append({"type": "missing_citation", "label": "要求引用但缺少来源标注"})
+
+        # 3) 敏感信息脱敏（先检测后替换）
+        sanitized = output
+        sensitive_hits = 0
+        for pat, repl in self._sens:
+            if pat.search(sanitized):
+                sensitive_hits += 1
+                issues.append({"type": "sensitive_data", "label": "检测到敏感信息"})
+                sanitized = pat.sub(repl, sanitized)
+
+        # 4) 质量评分
+        # 简单代理：句子数估算用于归一化幻觉密度。
+        approx_sentences = max(1, len(re.findall(r"[。.!?！？\n]", output)) or 1)
+        quality = OutputQuality(
+            hallucination_risk=round(min(1.0, hall_hits / approx_sentences), 3),
+            citation_coverage=round(min(1.0, len(citations) / approx_sentences), 3),
+            sanitization_applied=sensitive_hits > 0,
+            sensitive_hits=sensitive_hits,
+        )
+        # 通过条件：无敏感泄漏，且（不要求引用 或 已有引用）
+        quality.overall_pass = (
+            sensitive_hits == 0
+            and (not context.get("require_citation") or bool(citations))
+        )
+
+        return {
+            "safe": sensitive_hits == 0,
+            "issues": issues,
+            "sanitized_output": sanitized,
+            "citations": citations,
+            "quality": quality.to_dict(),
+            "overall_pass": quality.overall_pass,
+        }

@@ -1,1 +1,142 @@
-IiIiCm9yZ19jb3JlLnNlcnZpY2Ug4oCUIOaTjeS9nOWFpeWPoyjmiYDmnInlhpnmk43kvZzlv4Xpobvov4fpibTmnYMgKyDokL3lrqHorqEp44CCCgrkuJrliqHku6PnoIHlj6rosIMgT3JnU2VydmljZSzkuI3nm7TmjqXnorAgcmVwb+OAguavj+S4quWGmeaTjeS9nDoKICAxKSDlj5YgY2FsbGVyIOeahCBjdXJyZW50X2dyYW50IOKGkiBhdXRob3JpemUo5Yqo5L2cLCDnm67moIfoioLngrkpCiAgMikg6YCa6L+H5omN5omn6KGMLOW5tiB3cml0ZV9hdWRpdCjplJrlrprnnJ/kuror5a2Q6LSm5Y+3KQogIDMpIOi2iuadgyDihpIg5oqbIFBlcm1pc3Npb25EZW5pZWQo5pi+5byP5aSx6LSlKSzkuJTnhafmoLflrqHorqEo55WZ55eV5pyq6YGC6LaK5p2DKQrov5nkuIDlsYLmiooi566h55CG5ZGY5Y+q6IO9566h5a2Q5qCRIiLmjInlrZDotKblj7fpibTmnYMiIuWFqOeoi+WuoeiuoSLnhIrmrbvlnKjllK/kuIDlhaXlj6PjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCB1dWlkCmZyb20gdHlwaW5nIGltcG9ydCBPcHRpb25hbAoKZnJvbSAuIGltcG9ydCBhdXRoegpmcm9tIC5hdWRpdCBpbXBvcnQgd3JpdGVfYXVkaXQKZnJvbSAubW9kZWxzIGltcG9ydCAoCiAgICBBZG1pblNjb3BlLCBHcmFudCwgTm9kZVR5cGUsIE9yZ05vZGUsIFBlcm1pc3Npb25EZW5pZWQsIFJvbGUsIFRlbmFudCwgVXNlciwKICAgIFVzZXJLaW5kLCBVc2VyU3RhdHVzLAopCmZyb20gLnBlcm1pc3Npb25zIGltcG9ydCBQLCB2YWxpZGF0ZV9wZXJtX2tleXMKZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgUmVwb3MKCgpjbGFzcyBPcmdTZXJ2aWNlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHJlcG86IFJlcG9zKSAtPiBOb25lOgogICAgICAgIHNlbGYucmVwbyA9IHJlcG8KCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiAgICAjIOWGhemDqDrpibTmnYMgKyDlrqHorqEg55qE57uf5LiA6Ze4CiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiAgICBkZWYgX2d1YXJkKHNlbGYsIHRlbmFudF9pZDogc3RyLCBjYWxsZXJfZ3JhbnRfaWQ6IHN0ciwgYWN0aW9uOiBzdHIsCiAgICAgICAgICAgICAgIHRhcmdldF9ub2RlX2lkOiBPcHRpb25hbFtzdHJdLCB0YXJnZXRfZGVzYzogc3RyKSAtPiBHcmFudDoKICAgICAgICBnID0gc2VsZi5yZXBvLmdldF9ncmFudCh0ZW5hbnRfaWQsIGNhbGxlcl9ncmFudF9pZCkKICAgICAgICBjYWxsZXJfdXNlciA9IGcudXNlcl9pZCBpZiBnIGVsc2UgInVua25vd24iCiAgICAgICAgb2ssIHJlYXNvbiA9IGF1dGh6LmF1dGhvcml6ZShzZWxmLnJlcG8sIHRlbmFudF9pZCwgY2FsbGVyX2dyYW50X2lkLCBhY3Rpb24sIHRhcmdldF9ub2RlX2lkKQogICAgICAgIHdyaXRlX2F1ZGl0KHNlbGYucmVwbywgdGVuYW50X2lkPXRlbmFudF9pZCwgdXNlcl9pZD1jYWxsZXJfdXNlciwgZ3JhbnRfaWQ9Y2FsbGVyX2dyYW50X2lkLAogICAgICAgICAgICAgICAgICAgIGFjdGlvbj1hY3Rpb24sIHRhcmdldD10YXJnZXRfZGVzYywgb2s9b2ssIHJlYXNvbj1yZWFzb24pCiAgICAgICAgaWYgbm90IG9rOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKHJlYXNvbikKICAgICAgICByZXR1cm4gZyAgIyB0eXBlOiBpZ25vcmVbcmV0dXJuLXZhbHVlXQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKICAgICMg56ef5oi3IC8g57uE57uH5qCRKOe7hOe7h+euoeeQhjrmsr/lrZDmoJEpCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiAgICBkZWYgYm9vdHN0cmFwX3RlbmFudChzZWxmLCBuYW1lOiBzdHIsIHJvb3RfbmFtZTogc3RyKSAtPiB0dXBsZVtUZW5hbnQsIE9yZ05vZGVdOgogICAgICAgICIiIuW8gOenn+aItyArIOW7uuagueiKgueCueOAguezu+e7n+e6p+aTjeS9nCjml6AgY2FsbGVyKSznlKjkuo7liJ3lp4vljJbkuIDkuKrkvIHkuJrjgIIiIiIKICAgICAgICB0ID0gVGVuYW50KHV1aWQudXVpZDQoKS5oZXgsIG5hbWUpCiAgICAgICAgc2VsZi5yZXBvLmFkZF90ZW5hbnQodCkKICAgICAgICByb290ID0gT3JnTm9kZSh1dWlkLnV1aWQ0KCkuaGV4LCB0LmlkLCBOb25lLCBOb2RlVHlwZS5DT01QQU5ZLCByb290X25hbWUpCiAgICAgICAgc2VsZi5yZXBvLmFkZF9ub2RlKHJvb3QpCiAgICAgICAgcmV0dXJuIHQsIHJvb3QKCiAgICBkZWYgY3JlYXRlX25vZGUoc2VsZiwgdGVuYW50X2lkOiBzdHIsIGNhbGxlcl9ncmFudF9pZDogc3RyLCAqLAogICAgICAgICAgICAgICAgICAgIHBhcmVudF9pZDogc3RyLCB0eXBlOiBOb2RlVHlwZSwgbmFtZTogc3RyKSAtPiBPcmdOb2RlOgogICAgICAgICMg55uu5qCH5pivIuWcqCBwYXJlbnQg5LiL5bu65a2Q6IqC54K5IiDihpIg5qChIHBhcmVudCDlnKjnrqHnkIblrZDmoJHlhoUKICAgICAgICBzZWxmLl9ndWFyZCh0ZW5hbnRfaWQsIGNhbGxlcl9ncmFudF9pZCwgUC5PUkdfTUFOQUdFLCBwYXJlbnRfaWQsIGYiY3JlYXRlX25vZGUgdW5kZXIge3BhcmVudF9pZH0iKQogICAgICAgIG4gPSBPcmdOb2RlKHV1aWQudXVpZDQoKS5oZXgsIHRlbmFudF9pZCwgcGFyZW50X2lkLCB0eXBlLCBuYW1lKQogICAgICAgIHNlbGYucmVwby5hZGRfbm9kZShuKQogICAgICAgIHJldHVybiBuCgogICAgZGVmIHJlbmFtZV9ub2RlKHNlbGYsIHRlbmFudF9pZDogc3RyLCBjYWxsZXJfZ3JhbnRfaWQ6IHN0ciwgbm9kZV9pZDogc3RyLCBuZXdfbmFtZTogc3RyKSAtPiBPcmdOb2RlOgogICAgICAgIHNlbGYuX2d1YXJkKHRlbmFudF9pZCwgY2FsbGVyX2dyYW50X2lkLCBQLk9SR19NQU5BR0UsIG5vZGVfaWQsIGYicmVuYW1lIHtub2RlX2lkfSIpCiAgICAgICAgbiA9IHNlbGYucmVwby5nZXRfbm9kZSh0ZW5hbnRfaWQsIG5vZGVfaWQpCiAgICAgICAgaWYgbm90IG46CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKCLoioLngrnkuI3lrZjlnKgiKQogICAgICAgIG4ubmFtZSA9IG5ld19uYW1lCiAgICAgICAgc2VsZi5yZXBvLnVwZGF0ZV9ub2RlKG4pCiAgICAgICAgcmV0dXJuIG4KCiAgICBkZWYgbW92ZV9ub2RlKHNlbGYsIHRlbmFudF9pZDogc3RyLCBjYWxsZXJfZ3JhbnRfaWQ6IHN0ciwgbm9kZV9pZDogc3RyLCBuZXdfcGFyZW50X2lkOiBzdHIpIC0+IE9yZ05vZGU6CiAgICAgICAgIiIi5ZCI5bm2L+aLhuWIhueahOWOn+WtkOaTjeS9nDrmiorlrZDmoJHmjILliLDmlrDniLbkuIvjgILpnIDlr7njgJDmupDjgJHlkozjgJDnm67moIfniLbjgJHpg73lnKjnrqHnkIblrZDmoJHlhoXjgIIiIiIKICAgICAgICBzZWxmLl9ndWFyZCh0ZW5hbnRfaWQsIGNhbGxlcl9ncmFudF9pZCwgUC5PUkdfTUFOQUdFLCBub2RlX2lkLCBmIm1vdmUge25vZGVfaWR9IikKICAgICAgICAjIOmineWkluagoemqjOebruagh+eItuS5n+WcqOeuoeeQhuWtkOagkSjpmLLmraLmioroioLngrnmkKzlh7roh6rlt7HnmoTnrqHovpYpCiAgICAgICAgaWYgbm90IGF1dGh6LmluX2FkbWluX3Njb3BlKHNlbGYucmVwbywgdGVuYW50X2lkLCBzZWxmLl91aWQodGVuYW50X2lkLCBjYWxsZXJfZ3JhbnRfaWQpLCBuZXdfcGFyZW50X2lkKToKICAgICAgICAgICAgd3JpdGVfYXVkaXQoc2VsZi5yZXBvLCB0ZW5hbnRfaWQ9dGVuYW50X2lkLCB1c2VyX2lkPXNlbGYuX3VpZCh0ZW5hbnRfaWQsIGNhbGxlcl9ncmFudF9pZCksCiAgICAgICAgICAgICAgICAgICAgICAgIGdyYW50X2lkPWNhbGxlcl9ncmFudF9pZCwgYWN0aW9uPVAuT1JHX01BTkFHRSwgdGFyZ2V0PWYibW92ZS0+e25ld19wYXJlbnRfaWR9IiwKICAgICAgICAgICAgICAgICAgICAgICAgb2s9RmFsc2UsIHJlYXNvbj0i55uu5qCH54i25LiN5Zyo566h55CG5a2Q5qCR5YaFIikKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgi55uu5qCH54i26IqC54K55LiN5Zyo5L2g55qE566h55CG5a2Q5qCR5YaFIikKICAgICAgICBuID0gc2VsZi5yZXBvLmdldF9ub2RlKHRlbmFudF9pZCwgbm9kZV9pZCkKICAgICAgICBpZiBub3QgbjoKICAgICAgICAgICAgcmFpc2UgS2V5RXJyb3IoIuiKgueCueS4jeWtmOWcqCIpCiAgICAgICAgbi5wYXJlbnRfaWQgPSBuZXdfcGFyZW50X2lkCiAgICAgICAgc2VsZi5yZXBvLnVwZGF0ZV9ub2RlKG4pCiAgICAgICAgcmV0dXJuIG4KCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiAgICAjIOS6uuWRmCAvIOWyl+S9jSAvIOWtkOi0puWPtyjnlKjmiLfkuI7mjojmnYPnrqHnkIY65rK/5a2Q5qCRKQogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwogICAgZGVmIGFkZF91c2VyKHNlbGYsIHRlbmFudF9pZDogc3RyLCBjYWxsZXJfZ3JhbnRfaWQ6IHN0ciwgKiwgaG9tZV9ub2RlX2lkOiBzdHIsCiAgICAgICAgICAgICAgICAga2luZDogVXNlcktpbmQgPSBVc2VyS2luZC5JTlRFUk5BTCwgZGlzcGxheV9uYW1lOiBzdHIgPSAiIikgLT4gVXNlcjoKICAgICAgICAiIiLlnKjmn5Dnu4Tnu4foioLngrnkuIvlu7rkurog4oaSIOagoeivpeiKgueCueWcqOeuoeeQhuWtkOagkeWGheOAgiIiIgogICAgICAgIHNlbGYuX2d1YXJkKHRlbmFudF9pZCwgY2FsbGVyX2dyYW50X2lkLCBQLlVTRVJfTUFOQUdFLCBob21lX25vZGVfaWQsIGYiYWRkX3VzZXJAe2hvbWVfbm9kZV9pZH0iKQogICAgICAgIHUgPSBVc2VyKHV1aWQudXVpZDQoKS5oZXgsIHRlbmFudF9pZCwga2luZCwgVXNlclN0YXR1cy5BQ1RJVkUsIGRpc3BsYXlfbmFtZSkKICAgICAgICBzZWxmLnJlcG8uYWRkX3VzZXIodSkKICAgICAgICByZXR1cm4gdQoKICAgIGRlZiBkaXNhYmxlX3VzZXIoc2VsZiwgdGVuYW50X2lkOiBzdHIsIGNhbGxlcl9ncmFudF9pZDogc3RyLCB1c2VyX2lkOiBzdHIsIGF0X25vZGVfaWQ6IHN0cikgLT4gTm9uZToKICAgICAgICAiIiLnprvogYzlhbPlgZw65LiA5YiA5YGc5YW25omA5pyJ5a2Q6LSm5Y+3KGdyYW50KeOAgiIiIgogICAgICAgIHNlbGYuX2d1YXJkKHRlbmFudF9pZCwgY2FsbGVyX2dyYW50X2lkLCBQLlVTRVJfTUFOQUdFLCBhdF9ub2RlX2lkLCBmImRpc2FibGVfdXNlciB7dXNlcl9pZH0iKQogICAgICAgIHNlbGYucmVwby5zZXRfdXNlcl9zdGF0dXModGVuYW50X2lkLCB1c2VyX2lkLCBVc2VyU3RhdHVzLkRJU0FCTEVELnZhbHVlKQogICAgICAgIGZvciBnIGluIHNlbGYucmVwby5ncmFudHNfb2ZfdXNlcih0ZW5hbnRfaWQsIHVzZXJfaWQpOgogICAgICAgICAgICBzZWxmLnJlcG8uc2V0X2dyYW50X2FjdGl2ZSh0ZW5hbnRfaWQsIGcuaWQsIEZhbHNlKQoKICAgIGRlZiBkZWZpbmVfcm9sZShzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgY2FsbGVyX2dyYW50X2lkOiBzdHIsIGF0X25vZGVfaWQ6IHN0ciwKICAgICAgICAgICAgICAgICAgICBuYW1lOiBzdHIsIHBlcm1fa2V5czogZnJvemVuc2V0W3N0cl0pIC0+IFJvbGU6CiAgICAgICAgc2VsZi5fZ3VhcmQodGVuYW50X2lkLCBjYWxsZXJfZ3JhbnRfaWQsIFAuUk9MRV9NQU5BR0UsIGF0X25vZGVfaWQsIGYiZGVmaW5lX3JvbGUge25hbWV9IikKICAgICAgICByID0gUm9sZSh1dWlkLnV1aWQ0KCkuaGV4LCB0ZW5hbnRfaWQsIG5hbWUsIHZhbGlkYXRlX3Blcm1fa2V5cyhwZXJtX2tleXMpKQogICAgICAgIHNlbGYucmVwby5hZGRfcm9sZShyKQogICAgICAgIHJldHVybiByCgogICAgZGVmIGdyYW50X3JvbGUoc2VsZiwgdGVuYW50X2lkOiBzdHIsIGNhbGxlcl9ncmFudF9pZDogc3RyLCAqLCB1c2VyX2lkOiBzdHIsIHJvbGVfaWQ6IHN0ciwKICAgICAgICAgICAgICAgICAgIG9yZ19ub2RlX2lkOiBzdHIsIGxhYmVsOiBzdHIgPSAiIiwgaXNfZGVmYXVsdDogYm9vbCA9IEZhbHNlKSAtPiBHcmFudDoKICAgICAgICAiIiLmtL7lspcv5bu65a2Q6LSm5Y+3Ouebruagh+e7hOe7h+iKgueCueW/hemhu+WcqOeuoeeQhuWtkOagkeWGheOAgiIiIgogICAgICAgIHNlbGYuX2d1YXJkKHRlbmFudF9pZCwgY2FsbGVyX2dyYW50X2lkLCBQLkdSQU5UX01BTkFHRSwgb3JnX25vZGVfaWQsIGYiZ3JhbnQge3VzZXJfaWR9LT57cm9sZV9pZH1Ae29yZ19ub2RlX2lkfSIpCiAgICAgICAgZyA9IEdyYW50KHV1aWQudXVpZDQoKS5oZXgsIHRlbmFudF9pZCwgdXNlcl9pZCwgcm9sZV9pZCwgb3JnX25vZGVfaWQsIGxhYmVsLCBUcnVlLCBpc19kZWZhdWx0KQogICAgICAgIHNlbGYucmVwby5hZGRfZ3JhbnQoZykKICAgICAgICByZXR1cm4gZwoKICAgIGRlZiBncmFudF9hZG1pbl9zY29wZShzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgY2FsbGVyX2dyYW50X2lkOiBzdHIsICosIHVzZXJfaWQ6IHN0ciwgb3JnX25vZGVfaWQ6IHN0cikgLT4gQWRtaW5TY29wZToKICAgICAgICAiIiLmjojkuojmn5DkurrkuIDkuKrnrqHnkIblrZDmoJHjgILpnIAgY2FsbGVyIOiHquW3seiDveeuoeivpeWtkOagkSjkuI3og73lh63nqbrpgKDlh7rotoXlh7roh6rlt7HojIPlm7TnmoTnrqHnkIblkZgp44CCIiIiCiAgICAgICAgc2VsZi5fZ3VhcmQodGVuYW50X2lkLCBjYWxsZXJfZ3JhbnRfaWQsIFAuR1JBTlRfTUFOQUdFLCBvcmdfbm9kZV9pZCwgZiJhZG1pbl9zY29wZSB7dXNlcl9pZH1Ae29yZ19ub2RlX2lkfSIpCiAgICAgICAgcyA9IEFkbWluU2NvcGUodXVpZC51dWlkNCgpLmhleCwgdGVuYW50X2lkLCB1c2VyX2lkLCBvcmdfbm9kZV9pZCkKICAgICAgICBzZWxmLnJlcG8uYWRkX2FkbWluX3Njb3BlKHMpCiAgICAgICAgcmV0dXJuIHMKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiAgICAjIOezu+e7n+e6p+WIneWni+WMljrku7vlkb3nrKzkuIDkuKrnrqHnkIblkZgo5pegIGNhbGxlcizku4UgYm9vdHN0cmFwIOeUqCkKICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKICAgIGRlZiBzZWVkX2FkbWluKHNlbGYsIHRlbmFudF9pZDogc3RyLCAqLCB1c2VyOiBVc2VyLCByb2xlOiBSb2xlLCBub2RlX2lkOiBzdHIpIC0+IHR1cGxlW0dyYW50LCBBZG1pblNjb3BlXToKICAgICAgICAiIiLliJ3lp4vljJbnp5/miLfnmoTpppbkuKrnrqHnkIblkZg65bu65bKX5L2N44CB5bu65a2Q6LSm5Y+344CB5o6I5LqI5YWo5qCR566h55CG5a2Q5qCR44CC5LuF5L6bIGJvb3RzdHJhcOOAgiIiIgogICAgICAgIHNlbGYucmVwby5hZGRfdXNlcih1c2VyKQogICAgICAgIHNlbGYucmVwby5hZGRfcm9sZShyb2xlKQogICAgICAgIGcgPSBHcmFudCh1dWlkLnV1aWQ0KCkuaGV4LCB0ZW5hbnRfaWQsIHVzZXIuaWQsIHJvbGUuaWQsIG5vZGVfaWQsICLliJ3lp4vnrqHnkIblkZgiLCBUcnVlLCBUcnVlKQogICAgICAgIHNlbGYucmVwby5hZGRfZ3JhbnQoZykKICAgICAgICBzID0gQWRtaW5TY29wZSh1dWlkLnV1aWQ0KCkuaGV4LCB0ZW5hbnRfaWQsIHVzZXIuaWQsIG5vZGVfaWQpCiAgICAgICAgc2VsZi5yZXBvLmFkZF9hZG1pbl9zY29wZShzKQogICAgICAgIHJldHVybiBnLCBzCgogICAgZGVmIF91aWQoc2VsZiwgdGVuYW50X2lkOiBzdHIsIGdyYW50X2lkOiBzdHIpIC0+IHN0cjoKICAgICAgICBnID0gc2VsZi5yZXBvLmdldF9ncmFudCh0ZW5hbnRfaWQsIGdyYW50X2lkKQogICAgICAgIHJldHVybiBnLnVzZXJfaWQgaWYgZyBlbHNlICJ1bmtub3duIgo=
+"""
+org_core.service — 操作入口(所有写操作必须过鉴权 + 落审计)。
+
+业务代码只调 OrgService,不直接碰 repo。每个写操作:
+  1) 取 caller 的 current_grant → authorize(动作, 目标节点)
+  2) 通过才执行,并 write_audit(锚定真人+子账号)
+  3) 越权 → 抛 PermissionDenied(显式失败),且照样审计(留痕未遂越权)
+这一层把"管理员只能管子树""按子账号鉴权""全程审计"焊死在唯一入口。
+"""
+from __future__ import annotations
+
+import uuid
+from typing import Optional
+
+from . import authz
+from .audit import write_audit
+from .models import (
+    AdminScope, Grant, NodeType, OrgNode, PermissionDenied, Role, Tenant, User,
+    UserKind, UserStatus,
+)
+from .permissions import P, validate_perm_keys
+from .repository import Repos
+
+
+class OrgService:
+    def __init__(self, repo: Repos) -> None:
+        self.repo = repo
+
+    # ------------------------------------------------------------------ #
+    # 内部:鉴权 + 审计 的统一闸
+    # ------------------------------------------------------------------ #
+    def _guard(self, tenant_id: str, caller_grant_id: str, action: str,
+               target_node_id: Optional[str], target_desc: str) -> Grant:
+        g = self.repo.get_grant(tenant_id, caller_grant_id)
+        caller_user = g.user_id if g else "unknown"
+        ok, reason = authz.authorize(self.repo, tenant_id, caller_grant_id, action, target_node_id)
+        write_audit(self.repo, tenant_id=tenant_id, user_id=caller_user, grant_id=caller_grant_id,
+                    action=action, target=target_desc, ok=ok, reason=reason)
+        if not ok:
+            raise PermissionDenied(reason)
+        return g  # type: ignore[return-value]
+
+    # ------------------------------------------------------------------ #
+    # 租户 / 组织树(组织管理:沿子树)
+    # ------------------------------------------------------------------ #
+    def bootstrap_tenant(self, name: str, root_name: str) -> tuple[Tenant, OrgNode]:
+        """开租户 + 建根节点。系统级操作(无 caller),用于初始化一个企业。"""
+        t = Tenant(uuid.uuid4().hex, name)
+        self.repo.add_tenant(t)
+        root = OrgNode(uuid.uuid4().hex, t.id, None, NodeType.COMPANY, root_name)
+        self.repo.add_node(root)
+        return t, root
+
+    def create_node(self, tenant_id: str, caller_grant_id: str, *,
+                    parent_id: str, type: NodeType, name: str) -> OrgNode:
+        # 目标是"在 parent 下建子节点" → 校 parent 在管理子树内
+        self._guard(tenant_id, caller_grant_id, P.ORG_MANAGE, parent_id, f"create_node under {parent_id}")
+        n = OrgNode(uuid.uuid4().hex, tenant_id, parent_id, type, name)
+        self.repo.add_node(n)
+        return n
+
+    def rename_node(self, tenant_id: str, caller_grant_id: str, node_id: str, new_name: str) -> OrgNode:
+        self._guard(tenant_id, caller_grant_id, P.ORG_MANAGE, node_id, f"rename {node_id}")
+        n = self.repo.get_node(tenant_id, node_id)
+        if not n:
+            raise KeyError("节点不存在")
+        n.name = new_name
+        self.repo.update_node(n)
+        return n
+
+    def move_node(self, tenant_id: str, caller_grant_id: str, node_id: str, new_parent_id: str) -> OrgNode:
+        """合并/拆分的原子操作:把子树挂到新父下。需对【源】和【目标父】都在管理子树内。"""
+        self._guard(tenant_id, caller_grant_id, P.ORG_MANAGE, node_id, f"move {node_id}")
+        # 额外校验目标父也在管理子树(防止把节点搬出自己的管辖)
+        if not authz.in_admin_scope(self.repo, tenant_id, self._uid(tenant_id, caller_grant_id), new_parent_id):
+            write_audit(self.repo, tenant_id=tenant_id, user_id=self._uid(tenant_id, caller_grant_id),
+                        grant_id=caller_grant_id, action=P.ORG_MANAGE, target=f"move->{new_parent_id}",
+                        ok=False, reason="目标父不在管理子树内")
+            raise PermissionDenied("目标父节点不在你的管理子树内")
+        n = self.repo.get_node(tenant_id, node_id)
+        if not n:
+            raise KeyError("节点不存在")
+        n.parent_id = new_parent_id
+        self.repo.update_node(n)
+        return n
+
+    # ------------------------------------------------------------------ #
+    # 人员 / 岗位 / 子账号(用户与授权管理:沿子树)
+    # ------------------------------------------------------------------ #
+    def add_user(self, tenant_id: str, caller_grant_id: str, *, home_node_id: str,
+                 kind: UserKind = UserKind.INTERNAL, display_name: str = "") -> User:
+        """在某组织节点下建人 → 校该节点在管理子树内。"""
+        self._guard(tenant_id, caller_grant_id, P.USER_MANAGE, home_node_id, f"add_user@{home_node_id}")
+        u = User(uuid.uuid4().hex, tenant_id, kind, UserStatus.ACTIVE, display_name)
+        self.repo.add_user(u)
+        return u
+
+    def disable_user(self, tenant_id: str, caller_grant_id: str, user_id: str, at_node_id: str) -> None:
+        """离职关停:一刀停其所有子账号(grant)。"""
+        self._guard(tenant_id, caller_grant_id, P.USER_MANAGE, at_node_id, f"disable_user {user_id}")
+        self.repo.set_user_status(tenant_id, user_id, UserStatus.DISABLED.value)
+        for g in self.repo.grants_of_user(tenant_id, user_id):
+            self.repo.set_grant_active(tenant_id, g.id, False)
+
+    def define_role(self, tenant_id: str, caller_grant_id: str, at_node_id: str,
+                    name: str, perm_keys: frozenset[str]) -> Role:
+        self._guard(tenant_id, caller_grant_id, P.ROLE_MANAGE, at_node_id, f"define_role {name}")
+        r = Role(uuid.uuid4().hex, tenant_id, name, validate_perm_keys(perm_keys))
+        self.repo.add_role(r)
+        return r
+
+    def grant_role(self, tenant_id: str, caller_grant_id: str, *, user_id: str, role_id: str,
+                   org_node_id: str, label: str = "", is_default: bool = False) -> Grant:
+        """派岗/建子账号:目标组织节点必须在管理子树内。"""
+        self._guard(tenant_id, caller_grant_id, P.GRANT_MANAGE, org_node_id, f"grant {user_id}->{role_id}@{org_node_id}")
+        g = Grant(uuid.uuid4().hex, tenant_id, user_id, role_id, org_node_id, label, True, is_default)
+        self.repo.add_grant(g)
+        return g
+
+    def grant_admin_scope(self, tenant_id: str, caller_grant_id: str, *, user_id: str, org_node_id: str) -> AdminScope:
+        """授予某人一个管理子树。需 caller 自己能管该子树(不能凭空造出超出自己范围的管理员)。"""
+        self._guard(tenant_id, caller_grant_id, P.GRANT_MANAGE, org_node_id, f"admin_scope {user_id}@{org_node_id}")
+        s = AdminScope(uuid.uuid4().hex, tenant_id, user_id, org_node_id)
+        self.repo.add_admin_scope(s)
+        return s
+
+    # ------------------------------------------------------------------ #
+    # 系统级初始化:任命第一个管理员(无 caller,仅 bootstrap 用)
+    # ------------------------------------------------------------------ #
+    def seed_admin(self, tenant_id: str, *, user: User, role: Role, node_id: str) -> tuple[Grant, AdminScope]:
+        """初始化租户的首个管理员:建岗位、建子账号、授予全树管理子树。仅供 bootstrap。"""
+        self.repo.add_user(user)
+        self.repo.add_role(role)
+        g = Grant(uuid.uuid4().hex, tenant_id, user.id, role.id, node_id, "初始管理员", True, True)
+        self.repo.add_grant(g)
+        s = AdminScope(uuid.uuid4().hex, tenant_id, user.id, node_id)
+        self.repo.add_admin_scope(s)
+        return g, s
+
+    def _uid(self, tenant_id: str, grant_id: str) -> str:
+        g = self.repo.get_grant(tenant_id, grant_id)
+        return g.user_id if g else "unknown"

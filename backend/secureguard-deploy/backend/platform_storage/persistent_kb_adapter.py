@@ -1,1 +1,118 @@
-IiIicGxhdGZvcm1fc3RvcmFnZS5wZXJzaXN0ZW50X2tiX2FkYXB0ZXIg4oCUIOiuqSBrYl9zZXJ2aWNlIOmbtuaUueWKqOeUqOS4iuiQveebmOWQkemHj+W6k+OAggoK5a6M5YWo5qih5ouf6ICBIEluTWVtb3J5VmVjdG9yU3RvcmUg55qE5o6l5Y+jOgogICAgYWRkKGRvYykgICAgICAgICAgICAgICMgZG9jOiDlhbcgLmlkLy5jb250ZW50Ly5tZXRhZGF0YQogICAgc2VhcmNoKHF1ZXJ5LCBrPTUpICAgICMg5paH5pys5p+l6K+iIOKGkiDov5Tlm54gTGlzdFtEb2NdKOWQqyAuaWQvLmNvbnRlbnQvLm1ldGFkYXRhLG1ldGFkYXRh6YeM5bimc2NvcmUpCiAgICAuX2RvY3MgICAgICAgICAgICAgICAgIyDlrqHorqHnlKg66L+U5ZueIExpc3RbRG9jXQrokL3nm5jliLAgTG9jYWxWZWN0b3JTdG9yZShTUUxpdGUpLOmHjeWQr+S4jeS4ouOAgemajyBEQVRBX0RJUiDmkKzov4HjgIIKCuajgOe0ouWPjOaooeW8jzoKICAtIOm7mOiupCjml6DltYzlhaXlh73mlbApOuiQveebmCArIOWFs+mUruivjeaJk+WIhijooYzkuLrlhbzlrrnogIHniYgs6Zu25L6d6LWWLOeri+WNs+agueayuyLph43lkK/ljbPkuKIiKeOAggogIC0g5rOo5YWlIGVtYmVkX2ZuKHRleHQpLT5MaXN0W2Zsb2F0XSDlkI466Ieq5Yqo5Y2H57qn5Li65ZCR6YeP6K+t5LmJ5qOA57SiKOiQveebmOWQjOS4gOS7veaVsOaNrinjgIIKa2Jfc2VydmljZSDlj6rpnIDmioogYEluTWVtb3J5VmVjdG9yU3RvcmUoKWAg5o2i5oiQIGBQZXJzaXN0ZW50VmVjdG9yU3RvcmUocGF0aD0uLi4sIHRlbmFudF9pZD0uLilg44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgcmUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBDYWxsYWJsZSwgRGljdCwgTGlzdCwgT3B0aW9uYWwKCmZyb20gLmxvY2FsX3ZlY3Rvcl9zdG9yZSBpbXBvcnQgTG9jYWxWZWN0b3JTdG9yZQoKCkBkYXRhY2xhc3MKY2xhc3MgRG9jOgogICAgaWQ6IHN0cgogICAgY29udGVudDogc3RyCiAgICBtZXRhZGF0YTogRGljdFtzdHIsIEFueV0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9ZGljdCkKCgojIOWFs+mUruivjeaooeW8j+eahCLkvKrlkJHph48iOuaKiuaWh+acrOaVo+WIl+aIkOWbuuWumue7tOeogOeWj+WQkemHjyzorqkgTG9jYWxWZWN0b3JTdG9yZSDkuZ/og73lrZgv5pCcOwojIOS9hum7mOiupOajgOe0oui1sOWFs+mUruivjeaJk+WIhijkuIvmlrkgX2tleXdvcmRfc2VhcmNoKSzkv53or4HkuI7ogIHniYjooYzkuLrkuIDoh7TjgIIKZGVmIF90b2tlbml6ZSh0ZXh0OiBzdHIpIC0+IExpc3Rbc3RyXToKICAgICMg5Lit6Iux5re35ZCIOuiLseaWh+aMieivjSzkuK3mlofmjInlrZco566A5piTLOWkn+WFs+mUruivjeWMuemFjSkKICAgIHRleHQgPSB0ZXh0Lmxvd2VyKCkKICAgIGVuID0gcmUuZmluZGFsbChyIlthLXowLTldKyIsIHRleHQpCiAgICB6aCA9IHJlLmZpbmRhbGwociJbXHU0ZTAwLVx1OWZmZl0iLCB0ZXh0KQogICAgcmV0dXJuIGVuICsgemgKCgpjbGFzcyBQZXJzaXN0ZW50VmVjdG9yU3RvcmU6CiAgICBkZWYgX19pbml0X18oc2VsZiwgcGF0aDogc3RyLCB0ZW5hbnRfaWQ6IHN0ciA9ICJ0X2RlZmF1bHQiLAogICAgICAgICAgICAgICAgIGVtYmVkX2ZuOiBPcHRpb25hbFtDYWxsYWJsZVtbc3RyXSwgTGlzdFtmbG9hdF1dXSA9IE5vbmUsCiAgICAgICAgICAgICAgICAgZGVmYXVsdF9wb29sOiBzdHIgPSAiIikgLT4gTm9uZToKICAgICAgICBzZWxmLnZzID0gTG9jYWxWZWN0b3JTdG9yZShwYXRoKQogICAgICAgIHNlbGYudGVuYW50X2lkID0gdGVuYW50X2lkCiAgICAgICAgc2VsZi5lbWJlZF9mbiA9IGVtYmVkX2ZuCiAgICAgICAgc2VsZi5kZWZhdWx0X3Bvb2wgPSBkZWZhdWx0X3Bvb2wKCiAgICAjIC0tLS0g5LiO6ICB5o6l5Y+j5LiA6Ie0IC0tLS0KICAgIGRlZiBhZGQoc2VsZiwgZG9jOiAiQW55IikgLT4gTm9uZToKICAgICAgICBjb250ZW50ID0gZ2V0YXR0cihkb2MsICJjb250ZW50IiwgIiIpCiAgICAgICAgbWV0YSA9IGRpY3QoZ2V0YXR0cihkb2MsICJtZXRhZGF0YSIsIHt9KSBvciB7fSkKICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAidGVuYW50X2lkIjogbWV0YS5nZXQoInRlbmFudF9pZCIsIHNlbGYudGVuYW50X2lkKSwKICAgICAgICAgICAgImtiX2lkIjogbWV0YS5nZXQoImtiX2lkIiksCiAgICAgICAgICAgICJkb2NfaWQiOiBnZXRhdHRyKGRvYywgImlkIiwgTm9uZSksCiAgICAgICAgICAgICJwb29sIjogbWV0YS5nZXQoInBvb2wiLCBzZWxmLmRlZmF1bHRfcG9vbCksCiAgICAgICAgICAgICJjb250ZW50IjogY29udGVudCwKICAgICAgICAgICAgIm1ldGEiOiBtZXRhLCAgICAgICAgICAgICAgICAgICAgICAgIyDkv53nlZnljp/lp4sgbWV0YWRhdGEo5ZCrIHRydXN0X3Njb3JlIOetiSkKICAgICAgICB9CiAgICAgICAgdmVjID0gc2VsZi5lbWJlZF9mbihjb250ZW50KSBpZiBzZWxmLmVtYmVkX2ZuIGVsc2UgX3N0dWJfdmVjdG9yKGNvbnRlbnQpCiAgICAgICAgc2VsZi52cy5hZGQoc3RyKGdldGF0dHIoZG9jLCAiaWQiLCAiIikpLCB2ZWMsIHBheWxvYWQpCgogICAgZGVmIHNlYXJjaChzZWxmLCBxdWVyeTogc3RyLCBrOiBpbnQgPSA1LCBrYl9pZHM6IE9wdGlvbmFsW0xpc3Rbc3RyXV0gPSBOb25lKSAtPiBMaXN0WyJEb2MiXToKICAgICAgICBmaWx0ZXJzOiBEaWN0W3N0ciwgQW55XSA9IHsidGVuYW50X2lkIjogc2VsZi50ZW5hbnRfaWR9CiAgICAgICAgaWYga2JfaWRzOgogICAgICAgICAgICBmaWx0ZXJzWyJrYl9pZCJdID0gbGlzdChrYl9pZHMpCiAgICAgICAgaWYgc2VsZi5lbWJlZF9mbjoKICAgICAgICAgICAgaGl0cyA9IHNlbGYudnMuc2VhcmNoKHNlbGYuZW1iZWRfZm4ocXVlcnkpLCBrLCBmaWx0ZXJzKSAgICAgICMg6K+t5LmJCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaGl0cyA9IHNlbGYuX2tleXdvcmRfc2VhcmNoKHF1ZXJ5LCBrLCBmaWx0ZXJzKSAgICAgICAgICAgICAgIyDlhbPplK7or40o6buY6K6kKQogICAgICAgIG91dCA9IFtdCiAgICAgICAgZm9yIGggaW4gaGl0czoKICAgICAgICAgICAgcCA9IGgucGF5bG9hZAogICAgICAgICAgICBtZXRhID0gZGljdChwLmdldCgibWV0YSIpIG9yIHt9KQogICAgICAgICAgICBtZXRhWyJzY29yZSJdID0gcm91bmQoaC5zY29yZSwgNCkKICAgICAgICAgICAgb3V0LmFwcGVuZChEb2MoaWQ9cC5nZXQoImRvY19pZCIpIG9yIGguaWQsIGNvbnRlbnQ9cC5nZXQoImNvbnRlbnQiLCAiIiksIG1ldGFkYXRhPW1ldGEpKQogICAgICAgIHJldHVybiBvdXQKCiAgICBAcHJvcGVydHkKICAgIGRlZiBfZG9jcyhzZWxmKSAtPiBMaXN0WyJEb2MiXToKICAgICAgICAiIiLlrqHorqE66L+U5Zue5YWo6YOo5paH5qGjKExpc3RbRG9jXSnjgIIiIiIKICAgICAgICByb3dzID0gc2VsZi52cy5kYi5leGVjdXRlKAogICAgICAgICAgICAiU0VMRUNUIGlkLGRvY19pZCxjb250ZW50LHBheWxvYWQgRlJPTSB2ZWN0b3JzIFdIRVJFIHRlbmFudF9pZD0/IiwKICAgICAgICAgICAgKHNlbGYudGVuYW50X2lkLCkpLmZldGNoYWxsKCkKICAgICAgICBpbXBvcnQganNvbgogICAgICAgIHJlcyA9IFtdCiAgICAgICAgZm9yIHIgaW4gcm93czoKICAgICAgICAgICAgbWV0YSA9IChqc29uLmxvYWRzKHJbInBheWxvYWQiXSkuZ2V0KCJtZXRhIikpIG9yIHt9CiAgICAgICAgICAgIHJlcy5hcHBlbmQoRG9jKGlkPXJbImRvY19pZCJdIG9yIHJbImlkIl0sIGNvbnRlbnQ9clsiY29udGVudCJdLCBtZXRhZGF0YT1tZXRhKSkKICAgICAgICByZXR1cm4gcmVzCgogICAgIyAtLS0tIOWFs+mUruivjeajgOe0oijpu5jorqQs6KGM5Li65YW85a656ICB5YaF5a2Y54mIKS0tLS0KICAgIGRlZiBfa2V5d29yZF9zZWFyY2goc2VsZiwgcXVlcnk6IHN0ciwgazogaW50LCBmaWx0ZXJzOiBEaWN0W3N0ciwgQW55XSk6CiAgICAgICAgZnJvbSAuaW50ZXJmYWNlcyBpbXBvcnQgVmVjdG9ySGl0CiAgICAgICAgd2hlcmUsIHBhcmFtcyA9IHNlbGYudnMuX3doZXJlKGZpbHRlcnMpCiAgICAgICAgcm93cyA9IHNlbGYudnMuZGIuZXhlY3V0ZShmIlNFTEVDVCBpZCxwYXlsb2FkLGNvbnRlbnQgRlJPTSB2ZWN0b3JzIHt3aGVyZX0iLCBwYXJhbXMpLmZldGNoYWxsKCkKICAgICAgICBpbXBvcnQganNvbgogICAgICAgIHF0b2sgPSBzZXQoX3Rva2VuaXplKHF1ZXJ5KSkKICAgICAgICBzY29yZWQgPSBbXQogICAgICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgICAgIGN0b2sgPSBfdG9rZW5pemUoclsiY29udGVudCJdKQogICAgICAgICAgICBpZiBub3QgY3RvazoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIG92ZXJsYXAgPSBzdW0oMSBmb3IgdCBpbiBjdG9rIGlmIHQgaW4gcXRvaykKICAgICAgICAgICAgc2NvcmUgPSBvdmVybGFwIC8gKGxlbihxdG9rKSBvciAxKQogICAgICAgICAgICBpZiBzY29yZSA+IDA6CiAgICAgICAgICAgICAgICBzY29yZWQuYXBwZW5kKFZlY3RvckhpdChyWyJpZCJdLCBzY29yZSwganNvbi5sb2FkcyhyWyJwYXlsb2FkIl0pKSkKICAgICAgICBzY29yZWQuc29ydChrZXk9bGFtYmRhIGg6IGguc2NvcmUsIHJldmVyc2U9VHJ1ZSkKICAgICAgICByZXR1cm4gc2NvcmVkWzprXQoKCmRlZiBfc3R1Yl92ZWN0b3IodGV4dDogc3RyLCBkaW06IGludCA9IDY0KSAtPiBMaXN0W2Zsb2F0XToKICAgICIiIuaXoOW1jOWFpeaooeWei+aXtueahOWNoOS9jeWQkemHjyjlk4jluIzor43ooospO+S7heS4uuiQveebmCzmo4DntKLnlKjlhbPplK7or43jgIIiIiIKICAgIHYgPSBbMC4wXSAqIGRpbQogICAgZm9yIHQgaW4gX3Rva2VuaXplKHRleHQpOgogICAgICAgIHZbaGFzaCh0KSAlIGRpbV0gKz0gMS4wCiAgICByZXR1cm4gdgo=
+"""platform_storage.persistent_kb_adapter — 让 kb_service 零改动用上落盘向量库。
+
+完全模拟老 InMemoryVectorStore 的接口:
+    add(doc)              # doc: 具 .id/.content/.metadata
+    search(query, k=5)    # 文本查询 → 返回 List[Doc](含 .id/.content/.metadata,metadata里带score)
+    ._docs                # 审计用:返回 List[Doc]
+落盘到 LocalVectorStore(SQLite),重启不丢、随 DATA_DIR 搬迁。
+
+检索双模式:
+  - 默认(无嵌入函数):落盘 + 关键词打分(行为兼容老版,零依赖,立即根治"重启即丢")。
+  - 注入 embed_fn(text)->List[float] 后:自动升级为向量语义检索(落盘同一份数据)。
+kb_service 只需把 `InMemoryVectorStore()` 换成 `PersistentVectorStore(path=..., tenant_id=..)`。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from typing import Any, Callable, Dict, List, Optional
+
+from .local_vector_store import LocalVectorStore
+
+
+@dataclass
+class Doc:
+    id: str
+    content: str
+    metadata: Dict[str, Any] = field(default_factory=dict)
+
+
+# 关键词模式的"伪向量":把文本散列成固定维稀疏向量,让 LocalVectorStore 也能存/搜;
+# 但默认检索走关键词打分(下方 _keyword_search),保证与老版行为一致。
+def _tokenize(text: str) -> List[str]:
+    # 中英混合:英文按词,中文按字(简易,够关键词匹配)
+    text = text.lower()
+    en = re.findall(r"[a-z0-9]+", text)
+    zh = re.findall(r"[\u4e00-\u9fff]", text)
+    return en + zh
+
+
+class PersistentVectorStore:
+    def __init__(self, path: str, tenant_id: str = "t_default",
+                 embed_fn: Optional[Callable[[str], List[float]]] = None,
+                 default_pool: str = "") -> None:
+        self.vs = LocalVectorStore(path)
+        self.tenant_id = tenant_id
+        self.embed_fn = embed_fn
+        self.default_pool = default_pool
+
+    # ---- 与老接口一致 ----
+    def add(self, doc: "Any") -> None:
+        content = getattr(doc, "content", "")
+        meta = dict(getattr(doc, "metadata", {}) or {})
+        payload = {
+            "tenant_id": meta.get("tenant_id", self.tenant_id),
+            "kb_id": meta.get("kb_id"),
+            "doc_id": getattr(doc, "id", None),
+            "pool": meta.get("pool", self.default_pool),
+            "content": content,
+            "meta": meta,                       # 保留原始 metadata(含 trust_score 等)
+        }
+        vec = self.embed_fn(content) if self.embed_fn else _stub_vector(content)
+        self.vs.add(str(getattr(doc, "id", "")), vec, payload)
+
+    def search(self, query: str, k: int = 5, kb_ids: Optional[List[str]] = None) -> List["Doc"]:
+        filters: Dict[str, Any] = {"tenant_id": self.tenant_id}
+        if kb_ids:
+            filters["kb_id"] = list(kb_ids)
+        if self.embed_fn:
+            hits = self.vs.search(self.embed_fn(query), k, filters)      # 语义
+        else:
+            hits = self._keyword_search(query, k, filters)              # 关键词(默认)
+        out = []
+        for h in hits:
+            p = h.payload
+            meta = dict(p.get("meta") or {})
+            meta["score"] = round(h.score, 4)
+            out.append(Doc(id=p.get("doc_id") or h.id, content=p.get("content", ""), metadata=meta))
+        return out
+
+    @property
+    def _docs(self) -> List["Doc"]:
+        """审计:返回全部文档(List[Doc])。"""
+        rows = self.vs.db.execute(
+            "SELECT id,doc_id,content,payload FROM vectors WHERE tenant_id=?",
+            (self.tenant_id,)).fetchall()
+        import json
+        res = []
+        for r in rows:
+            meta = (json.loads(r["payload"]).get("meta")) or {}
+            res.append(Doc(id=r["doc_id"] or r["id"], content=r["content"], metadata=meta))
+        return res
+
+    # ---- 关键词检索(默认,行为兼容老内存版)----
+    def _keyword_search(self, query: str, k: int, filters: Dict[str, Any]):
+        from .interfaces import VectorHit
+        where, params = self.vs._where(filters)
+        rows = self.vs.db.execute(f"SELECT id,payload,content FROM vectors {where}", params).fetchall()
+        import json
+        qtok = set(_tokenize(query))
+        scored = []
+        for r in rows:
+            ctok = _tokenize(r["content"])
+            if not ctok:
+                continue
+            overlap = sum(1 for t in ctok if t in qtok)
+            score = overlap / (len(qtok) or 1)
+            if score > 0:
+                scored.append(VectorHit(r["id"], score, json.loads(r["payload"])))
+        scored.sort(key=lambda h: h.score, reverse=True)
+        return scored[:k]
+
+
+def _stub_vector(text: str, dim: int = 64) -> List[float]:
+    """无嵌入模型时的占位向量(哈希词袋);仅为落盘,检索用关键词。"""
+    v = [0.0] * dim
+    for t in _tokenize(text):
+        v[hash(t) % dim] += 1.0
+    return v

@@ -1,1 +1,41 @@
-IiIidGVzdHMvdGVzdF9sM19vdXRwdXRfZ3VhcmQucHkg4oCUIEwzIOi+k+WHuuWuiOWNq+WNlea1i+OAgiIiIgppbXBvcnQgc3lzLCBvcwpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCgpmcm9tIHNlY3VyZWd1YXJkLmwzX291dHB1dF9ndWFyZCBpbXBvcnQgT3V0cHV0R3VhcmQKCm9nID0gT3V0cHV0R3VhcmQoKQoKCmRlZiB0ZXN0X3JlZGFjdHNfb3BlbmFpX2tleSgpOgogICAgb3V0ID0gb2cuY2hlY2soInlvdXIga2V5IGlzIHNrLUFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWDEyMzQ1Njc4OTAiKQogICAgYXNzZXJ0ICJbT1BFTkFJX0tFWV9SRURBQ1RFRF0iIGluIG91dFsic2FuaXRpemVkX291dHB1dCJdCiAgICBhc3NlcnQgb3V0WyJzYWZlIl0gaXMgRmFsc2UgICMg5ZCr5pWP5oSfIOKGkiDkuI0gc2FmZe+8iOS9huW3suiEseaVj++8iQoKCmRlZiB0ZXN0X3JlZGFjdHNfbXVsdGlwbGVfZm9ybWF0cygpOgogICAgdGV4dCA9ICgiazEgZ2hwX0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaMDEyMzQ1Njc4OSAiCiAgICAgICAgICAgICJrMiBBS0lBSU9TRk9ETk43RVhBTVBMRSAiCiAgICAgICAgICAgICJjb25uIHBvc3RncmVzOi8vdTpwQGhvc3Q6NTQzMi9kYiIpCiAgICBvdXQgPSBvZy5jaGVjayh0ZXh0KQogICAgcyA9IG91dFsic2FuaXRpemVkX291dHB1dCJdCiAgICBhc3NlcnQgIltHSVRIVUJfVE9LRU5fUkVEQUNURURdIiBpbiBzCiAgICBhc3NlcnQgIltBV1NfQUNDRVNTX0tFWV9SRURBQ1RFRF0iIGluIHMKICAgIGFzc2VydCAiW0RCX0NPTk5fUkVEQUNURURdIiBpbiBzCgoKZGVmIHRlc3RfaGFsbHVjaW5hdGlvbl9zaWduYWxfZmxhZ2dlZCgpOgogICAgb3V0ID0gb2cuY2hlY2soIkkgdGhpbmsgdGhpcyBpcyBwcm9iYWJseSBjb3JyZWN0LCBhcyBmYXIgYXMgSSBrbm93LiIpCiAgICBsYWJlbHMgPSB7aVsidHlwZSJdIGZvciBpIGluIG91dFsiaXNzdWVzIl19CiAgICBhc3NlcnQgImhhbGx1Y2luYXRpb25fc2lnbmFsIiBpbiBsYWJlbHMKCgpkZWYgdGVzdF9taXNzaW5nX2NpdGF0aW9uX3doZW5fcmVxdWlyZWQoKToKICAgIG91dCA9IG9nLmNoZWNrKCLnu5PorrrvvJrokKXmlLblop7plb/jgIIiLCB7InJlcXVpcmVfY2l0YXRpb24iOiBUcnVlfSkKICAgIGFzc2VydCBhbnkoaVsidHlwZSJdID09ICJtaXNzaW5nX2NpdGF0aW9uIiBmb3IgaSBpbiBvdXRbImlzc3VlcyJdKQogICAgYXNzZXJ0IG91dFsib3ZlcmFsbF9wYXNzIl0gaXMgRmFsc2UKCgpkZWYgdGVzdF9jbGVhbl9ncm91bmRlZF9vdXRwdXRfcGFzc2VzKCk6CiAgICBvdXQgPSBvZy5jaGVjaygi6JCl5pS25aKe6ZW/IFtkb2NfMV3jgILmiJDmnKzkuIvpmY0gW2RvY18yXeOAgiIsIHsicmVxdWlyZV9jaXRhdGlvbiI6IFRydWV9KQogICAgYXNzZXJ0IG91dFsic2FmZSJdIGlzIFRydWUgYW5kIG91dFsib3ZlcmFsbF9wYXNzIl0gaXMgVHJ1ZQo=
+"""tests/test_l3_output_guard.py — L3 输出守卫单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.l3_output_guard import OutputGuard
+
+og = OutputGuard()
+
+
+def test_redacts_openai_key():
+    out = og.check("your key is sk-ABCDEFGHIJKLMNOPQRSTUVWX1234567890")
+    assert "[OPENAI_KEY_REDACTED]" in out["sanitized_output"]
+    assert out["safe"] is False  # 含敏感 → 不 safe（但已脱敏）
+
+
+def test_redacts_multiple_formats():
+    text = ("k1 ghp_ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 "
+            "k2 AKIAIOSFODNN7EXAMPLE "
+            "conn postgres://u:p@host:5432/db")
+    out = og.check(text)
+    s = out["sanitized_output"]
+    assert "[GITHUB_TOKEN_REDACTED]" in s
+    assert "[AWS_ACCESS_KEY_REDACTED]" in s
+    assert "[DB_CONN_REDACTED]" in s
+
+
+def test_hallucination_signal_flagged():
+    out = og.check("I think this is probably correct, as far as I know.")
+    labels = {i["type"] for i in out["issues"]}
+    assert "hallucination_signal" in labels
+
+
+def test_missing_citation_when_required():
+    out = og.check("结论：营收增长。", {"require_citation": True})
+    assert any(i["type"] == "missing_citation" for i in out["issues"])
+    assert out["overall_pass"] is False
+
+
+def test_clean_grounded_output_passes():
+    out = og.check("营收增长 [doc_1]。成本下降 [doc_2]。", {"require_citation": True})
+    assert out["safe"] is True and out["overall_pass"] is True

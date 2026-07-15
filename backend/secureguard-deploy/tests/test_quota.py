@@ -1,1 +1,146 @@
-IiIidGVzdHMvdGVzdF9xdW90YS5weSDigJQgQjQg6YWN6aKd5pyN5Yqh5Y2V5rWL77yI57qvIGFzeW5jaW/vvInjgIIiIiIKaW1wb3J0IHN5cywgb3MsIGFzeW5jaW8Kc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQoKZnJvbSBiYWNrZW5kLnF1b3RhX3NlcnZpY2UgaW1wb3J0IFF1b3RhU2VydmljZSwgX25leHRfbW9udGhfZmlyc3QKZnJvbSBiYWNrZW5kLnN0YXRlIGltcG9ydCBBcHBTdGF0ZQpmcm9tIGJhY2tlbmQuY2hhdF9zZXJ2aWNlIGltcG9ydCBydW5fY2hhdAoKCksgPSAoInUxIiwgImdlbmVyYWwiKQoKCmRlZiB0ZXN0X2NvbnN1bWVfZGVjcmVtZW50c19yZW1haW5pbmcoKToKICAgIHEgPSBRdW90YVNlcnZpY2UoKQogICAgciA9IGFzeW5jaW8ucnVuKHEuY29uc3VtZShLLCAxMDAsIGxpbWl0PTEwMDApKQogICAgYXNzZXJ0IHIuYWxsb3dlZCBhbmQgci51c2VkID09IDEwMCBhbmQgci5yZW1haW5pbmcgPT0gOTAwIGFuZCBub3Qgci5sb2NrZWQKCgpkZWYgdGVzdF9hdG9taWNfbm9fbG9zdF91cGRhdGVzKCk6CiAgICAiIiLlubblj5HmiaPlh4/kuI3kuKLmm7TmlrDigJTigJTmnInplIHliJkgdXNlZCDnsr7noa7nrYnkuo7mgLvlkozvvIjml6DplIHkvJrpgI/mlK/vvInjgIIiIiIKICAgIHEgPSBRdW90YVNlcnZpY2UoKQoKICAgIGFzeW5jIGRlZiBydW4oKToKICAgICAgICBhd2FpdCBhc3luY2lvLmdhdGhlcigqW3EuY29uc3VtZShLLCAxLCBsaW1pdD0xMF8wMDApIGZvciBfIGluIHJhbmdlKDUwKV0pCiAgICAgICAgcmV0dXJuIGF3YWl0IHEuc3RhdHVzKEssIGxpbWl0PTEwXzAwMCkKCiAgICBzdCA9IGFzeW5jaW8ucnVuKHJ1bigpKQogICAgYXNzZXJ0IHN0WyJ1c2VkIl0gPT0gNTAgICMg57K+56Gu77yM5peg56ue5oCB5Lii5aSxCgoKZGVmIHRlc3RfYWxsb3dfbmVnYXRpdmVfdGhlbl9sb2NrKCk6CiAgICAiIiLot6jov4fpmIjlgLznmoTor7fmsYLnhafluLjlrozmiJAoYWxsb3dlZD1UcnVlKe+8jOS5i+WQjumUgeWumu+8m+S4i+asoeivt+axguiiq+aLkuOAgiIiIgogICAgcSA9IFF1b3RhU2VydmljZSgpCgogICAgYXN5bmMgZGVmIHJ1bigpOgogICAgICAgIHIxID0gYXdhaXQgcS5jb25zdW1lKEssIDk1MCwgbGltaXQ9MTAwMCkgICAgICMg5pyq5Yiw6aG2CiAgICAgICAgcjIgPSBhd2FpdCBxLmNvbnN1bWUoSywgMTAwLCBsaW1pdD0xMDAwKSAgICAgIyAxMDUwIOKJpSAxMDAwIOKGkiDlrozmiJDkvYbplIHlrpoKICAgICAgICByMyA9IGF3YWl0IHEuY29uc3VtZShLLCAxLCBsaW1pdD0xMDAwKSAgICAgICAjIOW3sumUgSDihpIg5ouS57udCiAgICAgICAgcmV0dXJuIHIxLCByMiwgcjMKCiAgICByMSwgcjIsIHIzID0gYXN5bmNpby5ydW4ocnVuKCkpCiAgICBhc3NlcnQgcjEuYWxsb3dlZCBhbmQgbm90IHIxLmxvY2tlZAogICAgYXNzZXJ0IHIyLmFsbG93ZWQgYW5kIHIyLmxvY2tlZCAgICAgICAgICAgICMg5b2T5YmN6K+35rGC5LiN5Lit5pat77yM5L2G6Kem5Y+R6ZSB5a6aCiAgICBhc3NlcnQgKG5vdCByMy5hbGxvd2VkKSBhbmQgcjMucmVhc29uID09ICJxdW90YV9sb2NrZWQiCgoKZGVmIHRlc3RfcmVjaGFyZ2VfdW5sb2Nrc19pbW1lZGlhdGVseSgpOgogICAgcSA9IFF1b3RhU2VydmljZSgpCgogICAgYXN5bmMgZGVmIHJ1bigpOgogICAgICAgIGF3YWl0IHEuY29uc3VtZShLLCAxMDAwLCBsaW1pdD0xMDAwKSAgICAgICAgICMg6ZSB5a6aCiAgICAgICAgYmVmb3JlID0gYXdhaXQgcS5zdGF0dXMoSywgbGltaXQ9MTAwMCkKICAgICAgICBhd2FpdCBxLnJlY2hhcmdlKEssIDUwMDApICAgICAgICAgICAgICAgICAgICAgIyDlhYXlgLwg4oaSIOeri+WNs+ino+mUgQogICAgICAgIHIgPSBhd2FpdCBxLmNvbnN1bWUoSywgMSwgbGltaXQ9MTAwMCkKICAgICAgICByZXR1cm4gYmVmb3JlLCByCgogICAgYmVmb3JlLCByID0gYXN5bmNpby5ydW4ocnVuKCkpCiAgICBhc3NlcnQgYmVmb3JlWyJsb2NrZWQiXSBpcyBUcnVlCiAgICBhc3NlcnQgci5hbGxvd2VkIGFuZCBub3Qgci5sb2NrZWQKCgpkZWYgdGVzdF9zZXRfbGltaXRfbG9ja3NfaWZfYmVsb3dfdXNlZCgpOgogICAgcSA9IFF1b3RhU2VydmljZSgpCgogICAgYXN5bmMgZGVmIHJ1bigpOgogICAgICAgIGF3YWl0IHEuY29uc3VtZShLLCA4MDAsIGxpbWl0PTEwMDApCiAgICAgICAgcmV0dXJuIGF3YWl0IHEuc2V0X2xpbWl0KEssIDUwMCkgICAgICAgICAgICAgICMg5paw6aKd5bqm5L2O5LqO5bey55SoIOKGkiDplIHlrpoKCiAgICByZXMgPSBhc3luY2lvLnJ1bihydW4oKSkKICAgIGFzc2VydCByZXNbImxvY2tlZCJdIGlzIFRydWUKCgpkZWYgdGVzdF9mcmVlemVfcmVzZXRfdmlhX2luamVjdGVkX2Nsb2NrKCk6CiAgICAiIiLliLDkuoblhrvnu5Pph43nva7ngrko5LiL5pyIKeKGkiDmuIXpm7bop6PplIHjgIIiIiIKICAgIG5vdyA9IFsxXzcwMF8wMDBfMDAwLjBdICAjIOWPr+WPmOaXtumSnwogICAgcSA9IFF1b3RhU2VydmljZShjbG9jaz1sYW1iZGE6IG5vd1swXSkKCiAgICBhc3luYyBkZWYgcnVuKCk6CiAgICAgICAgYXdhaXQgcS5jb25zdW1lKEssIDEwMDAsIGxpbWl0PTEwMDAsIGZyZWV6ZV9wZXJpb2Q9Im1vbnRobHkiKSAgIyDplIHlrprvvIxmcmVlemVfdW50aWw95LiL5pyIMeaXpQogICAgICAgIGxvY2tlZCA9IGF3YWl0IHEuc3RhdHVzKEssIGxpbWl0PTEwMDApCiAgICAgICAgbm93WzBdID0gX25leHRfbW9udGhfZmlyc3Qobm93WzBdKSArIDEwICAgICAgICAjIOi3s+WIsOS4i+aciOS5i+WQjgogICAgICAgIGFmdGVyID0gYXdhaXQgcS5zdGF0dXMoSywgbGltaXQ9MTAwMCkKICAgICAgICByZXR1cm4gbG9ja2VkLCBhZnRlcgoKICAgIGxvY2tlZCwgYWZ0ZXIgPSBhc3luY2lvLnJ1bihydW4oKSkKICAgIGFzc2VydCBsb2NrZWRbImxvY2tlZCJdIGlzIFRydWUKICAgIGFzc2VydCBhZnRlclsibG9ja2VkIl0gaXMgRmFsc2UgYW5kIGFmdGVyWyJ1c2VkIl0gPT0gMCAgIyDlt7Lph43nva4KCgojIC0tLS0tLS0tLS0g5a+56K+d6ZuG5oiQIC0tLS0tLS0tLS0KZGVmIHRlc3RfY2hhdF9ibG9ja3Nfd2hlbl9xdW90YV9sb2NrZWQoKToKICAgIHN0ID0gQXBwU3RhdGUoKQogICAgY2FsbGVyID0geyJpZCI6ICJ1MSIsICJyb2xlIjogInVzZXIiLCAiZGVwdF9pZCI6ICJkMSJ9CgogICAgYXN5bmMgZGVmIHJ1bigpOgogICAgICAgICMg5YWI5oqK6K+l55So5oi35ZyoIGdlbmVyYWwg5LiK55qE6aKd5bqm6ICX5bC95bm26ZSB5a6aCiAgICAgICAgZnJlZSA9IGludChzdC5hZ2VudF9zZXJ2aWNlLmdldCgiZ2VuZXJhbCIpWyJmcmVlX3F1b3RhX3Rva2VucyJdKQogICAgICAgIGF3YWl0IHN0LnF1b3RhLmNvbnN1bWUoKCJ1MSIsICJnZW5lcmFsIiksIGZyZWUsIGxpbWl0PWZyZWUpCiAgICAgICAgIyDlho3lj5Hlr7nor50g4oaSIOW6lOiiq+mFjemineaLpuaIqgogICAgICAgIHJldHVybiBbZXYgYXN5bmMgZm9yIGV2IGluIHJ1bl9jaGF0KHN0LCAi5L2g5aW9IiwgYWdlbnRfaWQ9ImdlbmVyYWwiLCBjYWxsZXI9Y2FsbGVyKV0KCiAgICBldnMgPSBhc3luY2lvLnJ1bihydW4oKSkKICAgIGFzc2VydCBldnNbLTFdWyJibG9ja2VkIl0gaXMgVHJ1ZSBhbmQgZXZzWy0xXS5nZXQoInJlYXNvbiIpID09ICJxdW90YV9sb2NrZWQiCiAgICBhc3NlcnQgYW55KCLpop3luqblt7LnlKjlsL0iIGluIGUuZ2V0KCJmcmFtZSIsIHt9KS5nZXQoImRpc3BsYXkiLCAiIikgZm9yIGUgaW4gZXZzKQoKCmRlZiB0ZXN0X2NoYXRfYW5vbl9ub3RfbWV0ZXJlZCgpOgogICAgc3QgPSBBcHBTdGF0ZSgpCgogICAgYXN5bmMgZGVmIHJ1bigpOgogICAgICAgIHJldHVybiBbZXYgYXN5bmMgZm9yIGV2IGluIHJ1bl9jaGF0KHN0LCAi6Kej6YeK5bmC562J5oCnIiwgYWdlbnRfaWQ9ImdlbmVyYWwiLCBjYWxsZXI9Tm9uZSldCgogICAgZXZzID0gYXN5bmNpby5ydW4ocnVuKCkpCiAgICBhc3NlcnQgZXZzWy0xXVsiYmxvY2tlZCJdIGlzIEZhbHNlICAjIOWMv+WQjeS4jeiuoemHj++8jOato+W4uOaUvuihjAoKCmRlZiB0ZXN0X3F1b3RhX2VuZHBvaW50c19pZl9mYXN0YXBpX2F2YWlsYWJsZSgpOgogICAgIiIi56uv54K557qn5rWL6K+V77ya6KOF5LqGIGZhc3RhcGkg5omN6LeR77yI55yf5py677yJ77yM5rKZ566x6Ieq5Yqo6Lez6L+H44CCIiIiCiAgICB0cnk6CiAgICAgICAgZnJvbSBmYXN0YXBpLnRlc3RjbGllbnQgaW1wb3J0IFRlc3RDbGllbnQgICMgdHlwZTogaWdub3JlCiAgICAgICAgZnJvbSBiYWNrZW5kLmFwcCBpbXBvcnQgYXBwLCBzdGF0ZQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4KICAgIGlmIGFwcCBpcyBOb25lOgogICAgICAgIHJldHVybgogICAgY2xpZW50ID0gVGVzdENsaWVudChhcHApCiAgICB1dG9rID0gc3RhdGUuYXV0aC5sb2dpbigiMTM4MDAwMDAwMDMiLCAidXNlcjEyMyIpWzBdICAgIyDmma7pgJogdXNlcgogICAgdWggPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dXRva30ifQogICAgIyDmn6Xoh6rlt7HphY3pop0KICAgIHIgPSBjbGllbnQuZ2V0KCIvdjEvcXVvdGEvZ2VuZXJhbCIsIGhlYWRlcnM9dWgpCiAgICBhc3NlcnQgci5zdGF0dXNfY29kZSA9PSAyMDAgYW5kICJyZW1haW5pbmciIGluIHIuanNvbigpCiAgICAjIOWFheWAvAogICAgcmMgPSBjbGllbnQucG9zdCgiL3YxL3F1b3RhL2dlbmVyYWwvcmVjaGFyZ2U/YWRkX3Rva2Vucz01MDAwIiwgaGVhZGVycz11aCkKICAgIGFzc2VydCByYy5zdGF0dXNfY29kZSA9PSAyMDAgYW5kIHJjLmpzb24oKVsibG9ja2VkIl0gaXMgRmFsc2UKICAgICMg5pmu6YCaIHVzZXIg6LCD5Yir5Lq66YWN6aKdIOKGkiA0MDPvvIjml6DnrqHnkIbmnYPvvIkKICAgIGFkaiA9IGNsaWVudC5wb3N0KCIvdjEvYWRtaW4vcXVvdGEiLAogICAgICAgICAgICAgICAgICAgICAganNvbj17InVzZXJfaWQiOiAidV9kZXYiLCAiYWdlbnRfaWQiOiAiZ2VuZXJhbCIsICJsaW1pdCI6IDF9LAogICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz11aCkKICAgIGFzc2VydCBhZGouc3RhdHVzX2NvZGUgPT0gNDAzCiAgICAjIGFkbWluIOiwg+mFjeminSDihpIgMjAwCiAgICBhdG9rID0gc3RhdGUuYXV0aC5sb2dpbigiMTM4MDAwMDAwMDAiLCAiYWRtaW4xMjMiKVswXQogICAgYWggPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7YXRva30ifQogICAgYWRqMiA9IGNsaWVudC5wb3N0KCIvdjEvYWRtaW4vcXVvdGEiLAogICAgICAgICAgICAgICAgICAgICAgIGpzb249eyJ1c2VyX2lkIjogInVfdXNlciIsICJhZ2VudF9pZCI6ICJnZW5lcmFsIiwgImxpbWl0IjogNTAwMDB9LAogICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnM9YWgpCiAgICBhc3NlcnQgYWRqMi5zdGF0dXNfY29kZSA9PSAyMDAK
+"""tests/test_quota.py — B4 配额服务单测（纯 asyncio）。"""
+import sys, os, asyncio
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.quota_service import QuotaService, _next_month_first
+from backend.state import AppState
+from backend.chat_service import run_chat
+
+
+K = ("u1", "general")
+
+
+def test_consume_decrements_remaining():
+    q = QuotaService()
+    r = asyncio.run(q.consume(K, 100, limit=1000))
+    assert r.allowed and r.used == 100 and r.remaining == 900 and not r.locked
+
+
+def test_atomic_no_lost_updates():
+    """并发扣减不丢更新——有锁则 used 精确等于总和（无锁会透支）。"""
+    q = QuotaService()
+
+    async def run():
+        await asyncio.gather(*[q.consume(K, 1, limit=10_000) for _ in range(50)])
+        return await q.status(K, limit=10_000)
+
+    st = asyncio.run(run())
+    assert st["used"] == 50  # 精确，无竞态丢失
+
+
+def test_allow_negative_then_lock():
+    """跨过阈值的请求照常完成(allowed=True)，之后锁定；下次请求被拒。"""
+    q = QuotaService()
+
+    async def run():
+        r1 = await q.consume(K, 950, limit=1000)     # 未到顶
+        r2 = await q.consume(K, 100, limit=1000)     # 1050 ≥ 1000 → 完成但锁定
+        r3 = await q.consume(K, 1, limit=1000)       # 已锁 → 拒绝
+        return r1, r2, r3
+
+    r1, r2, r3 = asyncio.run(run())
+    assert r1.allowed and not r1.locked
+    assert r2.allowed and r2.locked            # 当前请求不中断，但触发锁定
+    assert (not r3.allowed) and r3.reason == "quota_locked"
+
+
+def test_recharge_unlocks_immediately():
+    q = QuotaService()
+
+    async def run():
+        await q.consume(K, 1000, limit=1000)         # 锁定
+        before = await q.status(K, limit=1000)
+        await q.recharge(K, 5000)                     # 充值 → 立即解锁
+        r = await q.consume(K, 1, limit=1000)
+        return before, r
+
+    before, r = asyncio.run(run())
+    assert before["locked"] is True
+    assert r.allowed and not r.locked
+
+
+def test_set_limit_locks_if_below_used():
+    q = QuotaService()
+
+    async def run():
+        await q.consume(K, 800, limit=1000)
+        return await q.set_limit(K, 500)              # 新额度低于已用 → 锁定
+
+    res = asyncio.run(run())
+    assert res["locked"] is True
+
+
+def test_freeze_reset_via_injected_clock():
+    """到了冻结重置点(下月)→ 清零解锁。"""
+    now = [1_700_000_000.0]  # 可变时钟
+    q = QuotaService(clock=lambda: now[0])
+
+    async def run():
+        await q.consume(K, 1000, limit=1000, freeze_period="monthly")  # 锁定，freeze_until=下月1日
+        locked = await q.status(K, limit=1000)
+        now[0] = _next_month_first(now[0]) + 10        # 跳到下月之后
+        after = await q.status(K, limit=1000)
+        return locked, after
+
+    locked, after = asyncio.run(run())
+    assert locked["locked"] is True
+    assert after["locked"] is False and after["used"] == 0  # 已重置
+
+
+# ---------- 对话集成 ----------
+def test_chat_blocks_when_quota_locked():
+    st = AppState()
+    caller = {"id": "u1", "role": "user", "dept_id": "d1"}
+
+    async def run():
+        # 先把该用户在 general 上的额度耗尽并锁定
+        free = int(st.agent_service.get("general")["free_quota_tokens"])
+        await st.quota.consume(("u1", "general"), free, limit=free)
+        # 再发对话 → 应被配额拦截
+        return [ev async for ev in run_chat(st, "你好", agent_id="general", caller=caller)]
+
+    evs = asyncio.run(run())
+    assert evs[-1]["blocked"] is True and evs[-1].get("reason") == "quota_locked"
+    assert any("额度已用尽" in e.get("frame", {}).get("display", "") for e in evs)
+
+
+def test_chat_anon_not_metered():
+    st = AppState()
+
+    async def run():
+        return [ev async for ev in run_chat(st, "解释幂等性", agent_id="general", caller=None)]
+
+    evs = asyncio.run(run())
+    assert evs[-1]["blocked"] is False  # 匿名不计量，正常放行
+
+
+def test_quota_endpoints_if_fastapi_available():
+    """端点级测试：装了 fastapi 才跑（真机），沙箱自动跳过。"""
+    try:
+        from fastapi.testclient import TestClient  # type: ignore
+        from backend.app import app, state
+    except Exception:
+        return
+    if app is None:
+        return
+    client = TestClient(app)
+    utok = state.auth.login("13800000003", "user123")[0]   # 普通 user
+    uh = {"Authorization": f"Bearer {utok}"}
+    # 查自己配额
+    r = client.get("/v1/quota/general", headers=uh)
+    assert r.status_code == 200 and "remaining" in r.json()
+    # 充值
+    rc = client.post("/v1/quota/general/recharge?add_tokens=5000", headers=uh)
+    assert rc.status_code == 200 and rc.json()["locked"] is False
+    # 普通 user 调别人配额 → 403（无管理权）
+    adj = client.post("/v1/admin/quota",
+                      json={"user_id": "u_dev", "agent_id": "general", "limit": 1},
+                      headers=uh)
+    assert adj.status_code == 403
+    # admin 调配额 → 200
+    atok = state.auth.login("13800000000", "admin123")[0]
+    ah = {"Authorization": f"Bearer {atok}"}
+    adj2 = client.post("/v1/admin/quota",
+                       json={"user_id": "u_user", "agent_id": "general", "limit": 50000},
+                       headers=ah)
+    assert adj2.status_code == 200

@@ -1,1 +1,23 @@
-IiIiYmFja2VuZC5hdWRpdF9hcHBvaW50bWVudF9ndWFyZCDigJQgIzc65a6h6K6h5ZGY5Lu75ZG95Y+q5YWB6K645bmz5Y+w566h55CG5ZGY44CCCgrop4TliJk65Lu75ZG9L+a0vuWPkSLlrqHorqHlkZgi5bKX5L2NLOiwg+eUqOiAheW/hemhu+aYr+W5s+WPsOeuoeeQhuWRmCjmi6XmnInlhajlsYDnrqHnkIbmnYMpLArmma7pgJrnu4Tnu4fnrqHnkIblkZgo5LuF5a2Q5qCRIEdSQU5UX01BTkFHRSnkuI3lj6/ku7vlkb3lrqHorqHlkZjigJTigJTkv53or4HlrqHorqHni6znq4vmgKfjgIIK5ZyoIG9yZyBncmFudCDnq6/ngrnph4zosIPnlKggZ3VhcmQg5Y2z5Y+v44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpBVURJVE9SX1JPTEVfTkFNRVMgPSB7IuWuoeiuoeWRmCIsICJhdWRpdG9yIn0KCgpkZWYgaXNfcGxhdGZvcm1fYWRtaW4ocmVwbywgdGVuYW50X2lkOiBzdHIsIHBlcnNvbl9pZDogc3RyLCByb290X25vZGVfaWQ6IHN0cikgLT4gYm9vbDoKICAgICIiIuW5s+WPsOeuoeeQhuWRmCA9IOeuoeeQhuWtkOagkeimhueblue7hOe7h+aguSjog73nrqHlhajmoJEp44CCIiIiCiAgICBmcm9tIG9yZ19jb3JlLmF1dGh6IGltcG9ydCBpbl9hZG1pbl9zY29wZQogICAgcmV0dXJuIGluX2FkbWluX3Njb3BlKHJlcG8sIHRlbmFudF9pZCwgcGVyc29uX2lkLCByb290X25vZGVfaWQpCgoKZGVmIGd1YXJkX2FwcG9pbnQocmVwbywgdGVuYW50X2lkOiBzdHIsIGNhbGxlcl9wZXJzb25faWQ6IHN0ciwgcm9vdF9ub2RlX2lkOiBzdHIsCiAgICAgICAgICAgICAgICAgIHRhcmdldF9yb2xlX25hbWU6IHN0cikgLT4gTm9uZToKICAgICIiIuiLpeS7u+WRveWuoeiuoeWRmOS9huiwg+eUqOiAhemdnuW5s+WPsOeuoeeQhuWRmCDihpIg5oqbIFBlcm1pc3Npb25FcnJvcuOAgiIiIgogICAgaWYgdGFyZ2V0X3JvbGVfbmFtZSBpbiBBVURJVE9SX1JPTEVfTkFNRVM6CiAgICAgICAgaWYgbm90IGlzX3BsYXRmb3JtX2FkbWluKHJlcG8sIHRlbmFudF9pZCwgY2FsbGVyX3BlcnNvbl9pZCwgcm9vdF9ub2RlX2lkKToKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKCLku4XlubPlj7DnrqHnkIblkZjlj6/ku7vlkb3lrqHorqHlkZgo5L+d6K+B5a6h6K6h54us56uL5oCnKSIpCg==
+"""backend.audit_appointment_guard — #7:审计员任命只允许平台管理员。
+
+规则:任命/派发"审计员"岗位,调用者必须是平台管理员(拥有全局管理权),
+普通组织管理员(仅子树 GRANT_MANAGE)不可任命审计员——保证审计独立性。
+在 org grant 端点里调用 guard 即可。
+"""
+from __future__ import annotations
+
+AUDITOR_ROLE_NAMES = {"审计员", "auditor"}
+
+
+def is_platform_admin(repo, tenant_id: str, person_id: str, root_node_id: str) -> bool:
+    """平台管理员 = 管理子树覆盖组织根(能管全树)。"""
+    from org_core.authz import in_admin_scope
+    return in_admin_scope(repo, tenant_id, person_id, root_node_id)
+
+
+def guard_appoint(repo, tenant_id: str, caller_person_id: str, root_node_id: str,
+                  target_role_name: str) -> None:
+    """若任命审计员但调用者非平台管理员 → 抛 PermissionError。"""
+    if target_role_name in AUDITOR_ROLE_NAMES:
+        if not is_platform_admin(repo, tenant_id, caller_person_id, root_node_id):
+            raise PermissionError("仅平台管理员可任命审计员(保证审计独立性)")

@@ -1,1 +1,60 @@
-IiIiYmFja2VuZC5hZGFwdGVycy52bGxtX21vZGVsIOKAlCDnnJ/lrp7mqKHlnovlkI7nq6/vvIh2TExNIC8gTGl0ZUxMTe+8jE9wZW5BSSDlhbzlrrnvvInjgIIKCuKaoO+4jyDmnKrlnKjmspnnrrHmtYvor5XvvJrpnIDnnJ/lrp4gbW9kZWwgZW5kcG9pbnQgKyDnvZHnu5zjgILmjqXlj6PkuI4gc2VjdXJlZ3VhcmQuTW9ja01vZGVsIOS4gOiHtArvvIhnZW5lcmF0ZSAvIGdlbmVyYXRlX3N0cmVhbe+8ie+8jOaJgOS7peW3peWOgumHjCBzd2FwIOaYr+mFjee9rue6p+OAgmh0dHB4IOaHkuWKoOi9ve+8jOaXoOS+nei1luaXtuexu+S7jeWPr+WvvOWFpe+8jArlj6rlnKjlrp7kvovljJYv6LCD55So5pe25oql5riF5pmw6ZSZ6K+v77yM5L6/5LqO5o6l5Y+j5b2i54q25rWL6K+V44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIHR5cGluZyBpbXBvcnQgSXRlcmF0b3IsIExpc3QsIERpY3QsIEFueQoKCmNsYXNzIFZMTE1Nb2RlbDoKICAgICIiIk9wZW5BSSDlhbzlrrkgY2hhdC9jb21wbGV0aW9ucyDlkI7nq6/jgIJNb2NrTW9kZWwg55qE55yf5a6e5pu/6Lqr44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJhc2VfdXJsOiBzdHIsIG1vZGVsOiBzdHIgPSAidmVydGljYWwtNzBiIiwgYXBpX2tleTogc3RyID0gIiIpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5iYXNlX3VybCA9IGJhc2VfdXJsLnJzdHJpcCgiLyIpCiAgICAgICAgc2VsZi5tb2RlbCA9IG1vZGVsCiAgICAgICAgc2VsZi5hcGlfa2V5ID0gYXBpX2tleQoKICAgIGRlZiBfY2xpZW50KHNlbGYpOgogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IGh0dHB4ICAjIOaHkuWKoOi9ve+8muaXoCBodHRweCDml7bku4XlnKjmraTmiqXplJkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAjIHByYWdtYTogbm8gY292ZXIKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJWTExNTW9kZWwg6ZyA6KaBIGh0dHB477yacGlwIGluc3RhbGwgaHR0cHgiKSBmcm9tIGUKICAgICAgICBoZWFkZXJzID0geyJBdXRob3JpemF0aW9uIjogZiJCZWFyZXIge3NlbGYuYXBpX2tleX0ifSBpZiBzZWxmLmFwaV9rZXkgZWxzZSB7fQogICAgICAgIHJldHVybiBodHRweC5DbGllbnQoYmFzZV91cmw9c2VsZi5iYXNlX3VybCwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTYwLjApCgogICAgZGVmIF9tZXNzYWdlcyhzZWxmLCBwcm9tcHQ6IHN0cikgLT4gTGlzdFtEaWN0W3N0ciwgc3RyXV06CiAgICAgICAgcmV0dXJuIFt7InJvbGUiOiAidXNlciIsICJjb250ZW50IjogcHJvbXB0fV0KCiAgICBkZWYgZ2VuZXJhdGUoc2VsZiwgcHJvbXB0OiBzdHIsICoqa3dhcmdzOiBBbnkpIC0+IHN0cjogICMgcHJhZ21hOiBubyBjb3ZlciAtIOmcgOecn+WunuacjeWKoQogICAgICAgIHdpdGggc2VsZi5fY2xpZW50KCkgYXMgYzoKICAgICAgICAgICAgciA9IGMucG9zdCgiL3YxL2NoYXQvY29tcGxldGlvbnMiLCBqc29uPXsKICAgICAgICAgICAgICAgICJtb2RlbCI6IHNlbGYubW9kZWwsICJtZXNzYWdlcyI6IHNlbGYuX21lc3NhZ2VzKHByb21wdCksCiAgICAgICAgICAgICAgICAic3RyZWFtIjogRmFsc2UsICoqa3dhcmdzLAogICAgICAgICAgICB9KQogICAgICAgICAgICByLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgICAgICByZXR1cm4gci5qc29uKClbImNob2ljZXMiXVswXVsibWVzc2FnZSJdWyJjb250ZW50Il0KCiAgICBkZWYgZ2VuZXJhdGVfc3RyZWFtKHNlbGYsIHByb21wdDogc3RyLCAqKmt3YXJnczogQW55KSAtPiBJdGVyYXRvcltzdHJdOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAgIiIi6YCQIHRva2VuIOa1geW8j++8iFNTRe+8ieOAgm9yY2hlc3RyYXRvci5zdHJlYW0g5ZyoIEI3IOWPr+WIh+WIsOi/memHjO+8jOWunueOsOecn8K35rWB5byP44CCIiIiCiAgICAgICAgaW1wb3J0IGpzb24KICAgICAgICB3aXRoIHNlbGYuX2NsaWVudCgpIGFzIGM6CiAgICAgICAgICAgIHdpdGggYy5zdHJlYW0oIlBPU1QiLCAiL3YxL2NoYXQvY29tcGxldGlvbnMiLCBqc29uPXsKICAgICAgICAgICAgICAgICJtb2RlbCI6IHNlbGYubW9kZWwsICJtZXNzYWdlcyI6IHNlbGYuX21lc3NhZ2VzKHByb21wdCksCiAgICAgICAgICAgICAgICAic3RyZWFtIjogVHJ1ZSwgKiprd2FyZ3MsCiAgICAgICAgICAgIH0pIGFzIHI6CiAgICAgICAgICAgICAgICByLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgICAgICAgICAgZm9yIGxpbmUgaW4gci5pdGVyX2xpbmVzKCk6CiAgICAgICAgICAgICAgICAgICAgaWYgbm90IGxpbmUgb3Igbm90IGxpbmUuc3RhcnRzd2l0aCgiZGF0YToiKToKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBwYXlsb2FkID0gbGluZVtsZW4oImRhdGE6Iik6XS5zdHJpcCgpCiAgICAgICAgICAgICAgICAgICAgaWYgcGF5bG9hZCA9PSAiW0RPTkVdIjoKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIGRlbHRhID0ganNvbi5sb2FkcyhwYXlsb2FkKVsiY2hvaWNlcyJdWzBdWyJkZWx0YSJdLmdldCgiY29udGVudCIsICIiKQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICAgICAgICAgIGRlbHRhID0gIiIKICAgICAgICAgICAgICAgICAgICBpZiBkZWx0YToKICAgICAgICAgICAgICAgICAgICAgICAgeWllbGQgZGVsdGEK
+"""backend.adapters.vllm_model — 真实模型后端（vLLM / LiteLLM，OpenAI 兼容）。
+
+⚠️ 未在沙箱测试：需真实 model endpoint + 网络。接口与 secureguard.MockModel 一致
+（generate / generate_stream），所以工厂里 swap 是配置级。httpx 懒加载，无依赖时类仍可导入，
+只在实例化/调用时报清晰错误，便于接口形状测试。
+"""
+from __future__ import annotations
+
+from typing import Iterator, List, Dict, Any
+
+
+class VLLMModel:
+    """OpenAI 兼容 chat/completions 后端。MockModel 的真实替身。"""
+
+    def __init__(self, base_url: str, model: str = "vertical-70b", api_key: str = "") -> None:
+        self.base_url = base_url.rstrip("/")
+        self.model = model
+        self.api_key = api_key
+
+    def _client(self):
+        try:
+            import httpx  # 懒加载：无 httpx 时仅在此报错
+        except Exception as e:  # pragma: no cover
+            raise RuntimeError("VLLMModel 需要 httpx：pip install httpx") from e
+        headers = {"Authorization": f"Bearer {self.api_key}"} if self.api_key else {}
+        return httpx.Client(base_url=self.base_url, headers=headers, timeout=60.0)
+
+    def _messages(self, prompt: str) -> List[Dict[str, str]]:
+        return [{"role": "user", "content": prompt}]
+
+    def generate(self, prompt: str, **kwargs: Any) -> str:  # pragma: no cover - 需真实服务
+        with self._client() as c:
+            r = c.post("/v1/chat/completions", json={
+                "model": self.model, "messages": self._messages(prompt),
+                "stream": False, **kwargs,
+            })
+            r.raise_for_status()
+            return r.json()["choices"][0]["message"]["content"]
+
+    def generate_stream(self, prompt: str, **kwargs: Any) -> Iterator[str]:  # pragma: no cover
+        """逐 token 流式（SSE）。orchestrator.stream 在 B7 可切到这里，实现真·流式。"""
+        import json
+        with self._client() as c:
+            with c.stream("POST", "/v1/chat/completions", json={
+                "model": self.model, "messages": self._messages(prompt),
+                "stream": True, **kwargs,
+            }) as r:
+                r.raise_for_status()
+                for line in r.iter_lines():
+                    if not line or not line.startswith("data:"):
+                        continue
+                    payload = line[len("data:"):].strip()
+                    if payload == "[DONE]":
+                        break
+                    try:
+                        delta = json.loads(payload)["choices"][0]["delta"].get("content", "")
+                    except Exception:
+                        delta = ""
+                    if delta:
+                        yield delta

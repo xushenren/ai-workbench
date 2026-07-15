@@ -1,1 +1,115 @@
-IiIiCm9yZ19jb3JlLm1vZGVscyDigJQg57uE57uHL+adg+mZkC/lpJrnp5/miLcg55qE6aKG5Z+f5qih5Z6LKOWumueovynjgIIKCuS4g+S4quWunuS9kzp0ZW5hbnQgLyBvcmdfbm9kZSAvIHVzZXIgLyByb2xlKOWyl+S9jSkgLyBncmFudCjlrZDotKblj7c95Lq6K+Wyl+S9jSvnu4Tnu4foioLngrkpIC8KYWRtaW5fc2NvcGUo566h55CG5a2Q5qCRKSAvIGF1ZGl044CC57qvIHN0ZGxpYiBkYXRhY2xhc3Ms5LiO5a2Y5YKo5a6e546w6Kej6ICm44CCCgrorr7orqHopoHngrko5a+56b2Q5bey5a6a5Yaz562WKToKICAtIGdyYW50IOWNsyLlrZDotKblj7cv5Lu76IGMIjrkuIDkuKrnnJ/kuroodXNlcinlj6/mnInlpJrmnaEgZ3JhbnQs5ZCE5oyC5LiN5ZCM5bKX5L2N5LiO57uE57uH6IqC54K5LOWPr+WIh+aNouOAggogIC0g5Lia5Yqh5p2D6ZmQ5LiN5ZCR5LiL57un5om/OnNjb3BlID0gZ3JhbnQub3JnX25vZGVfaWQg5pys6Lqr44CCCiAgLSDnrqHnkIbmnYPpmZDmsr/lrZDmoJHlkJHkuIs6YWRtaW5fc2NvcGUg57uZ5a6a5LiA5Liq5Y+v566h55CG55qE5a2Q5qCR5qC544CCCiAgLSDkuIDliIfluKYgdGVuYW50X2lkOue7hOe7h+agkeWNs+enn+aIt+i+ueeVjOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHRpbWUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIGVudW0gaW1wb3J0IEVudW0KZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsCgoKY2xhc3MgTm9kZVR5cGUoc3RyLCBFbnVtKToKICAgIENPTVBBTlkgPSAiY29tcGFueSIgICAgICAgICMg5YWs5Y+4L+WtkOWFrOWPuAogICAgREVQQVJUTUVOVCA9ICJkZXBhcnRtZW50IiAgIyDpg6jpl6gKICAgIFBST0pFQ1QgPSAicHJvamVjdCIgICAgICAgICMg6aG555uu6YOoCiAgICBURUFNID0gInRlYW0iICAgICAgICAgICAgICAjIOePree7hAoKCmNsYXNzIFVzZXJLaW5kKHN0ciwgRW51bSk6CiAgICBJTlRFUk5BTCA9ICJpbnRlcm5hbCIgICAgICAjIOS8geS4muiHquacieS6uuWRmAogICAgRVhURVJOQUwgPSAiZXh0ZXJuYWwiICAgICAgIyDlpJbmnaXkurrlkZgo6buY6K6k6Zu25p2D6ZmQLOWPquiDveiiq+aYvuW8j+aOiOS6iCkKCgpjbGFzcyBVc2VyU3RhdHVzKHN0ciwgRW51bSk6CiAgICBBQ1RJVkUgPSAiYWN0aXZlIgogICAgRElTQUJMRUQgPSAiZGlzYWJsZWQiICAgICAgIyDnprvogYzlhbPlgZw65LiA5YiA5YGc5YW25omA5pyJIGdyYW50CgoKY2xhc3MgVmlzaWJpbGl0eShzdHIsIEVudW0pOiAgICMg5rK/55So5pei5pyJ6K+t5LmJCiAgICBQUklWQVRFID0gInByaXZhdGUiCiAgICBERVBBUlRNRU5UID0gImRlcGFydG1lbnQiCiAgICBQVUJMSUMgPSAicHVibGljIgoKCmNsYXNzIFBlcm1pc3Npb25EZW5pZWQoRXhjZXB0aW9uKToKICAgICIiIui2iuadg+aTjeS9nOOAguaQuuW4puWOn+WboCzkvr/kuo7lrqHorqHkuI7liY3nq6/mj5DnpLrjgIIiIiIKCgpAZGF0YWNsYXNzCmNsYXNzIFRlbmFudDoKICAgIGlkOiBzdHIKICAgIG5hbWU6IHN0cgoKCkBkYXRhY2xhc3MKY2xhc3MgT3JnTm9kZToKICAgIGlkOiBzdHIKICAgIHRlbmFudF9pZDogc3RyCiAgICBwYXJlbnRfaWQ6IE9wdGlvbmFsW3N0cl0gICAgIyBOb25lID0g56ef5oi35qC5CiAgICB0eXBlOiBOb2RlVHlwZQogICAgbmFtZTogc3RyICAgICAgICAgICAgICAgICAgICMg5Y+v5pS55ZCNCgoKQGRhdGFjbGFzcwpjbGFzcyBVc2VyOgogICAgaWQ6IHN0cgogICAgdGVuYW50X2lkOiBzdHIKICAgIGtpbmQ6IFVzZXJLaW5kID0gVXNlcktpbmQuSU5URVJOQUwKICAgIHN0YXR1czogVXNlclN0YXR1cyA9IFVzZXJTdGF0dXMuQUNUSVZFCiAgICBkaXNwbGF5X25hbWU6IHN0ciA9ICIiCgoKQGRhdGFjbGFzcwpjbGFzcyBSb2xlOgogICAgIiIi5bKX5L2NID0g5LiA57uE5p2D6ZmQ5L2N55qE5omT5YyFKOS8geS4muiHquWumuS5iSzlj68gRXhjZWwg5om56YeP5a+85YWlKeOAgiIiIgogICAgaWQ6IHN0cgogICAgdGVuYW50X2lkOiBzdHIKICAgIG5hbWU6IHN0cgogICAgcGVybV9rZXlzOiBmcm96ZW5zZXRbc3RyXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1mcm96ZW5zZXQpCgoKQGRhdGFjbGFzcwpjbGFzcyBHcmFudDoKICAgICIiIuWtkOi0puWPty/ku7vogYwgPSDkurogKyDlspfkvY0gKyDnu4Tnu4foioLngrkoc2NvcGUp44CC5LiA5LiqIHVzZXIg5Y+v5pyJ5aSa5p2h44CCIiIiCiAgICBpZDogc3RyCiAgICB0ZW5hbnRfaWQ6IHN0cgogICAgdXNlcl9pZDogc3RyCiAgICByb2xlX2lkOiBzdHIKICAgIG9yZ19ub2RlX2lkOiBzdHIgICAgICAgICAgICAjIOS4muWKoeadg+mZkOS9nOeUqOWfnyjkuI3lkJHkuIvnu6fmib8pCiAgICBsYWJlbDogc3RyID0gIiIgICAgICAgICAgICAgIyDku7vogYzlkI0s5aaCICLlvKDkuIlAQumhueebrumDqC3pob7pl64iCiAgICBhY3RpdmU6IGJvb2wgPSBUcnVlCiAgICBpc19kZWZhdWx0OiBib29sID0gRmFsc2UgICAgIyDpu5jorqTnmbvlvZXouqvku70KCgpAZGF0YWNsYXNzCmNsYXNzIEFkbWluU2NvcGU6CiAgICAiIiLnrqHnkIblkZjnmoTnrqHnkIblrZDmoJE65Y+v5Zyo6K+l6IqC54K55Y+K5YW25ZCO5Luj5YaF5bu65Lq6L+a0vuWyly/osIPnu4Tnu4fjgIIiIiIKICAgIGlkOiBzdHIKICAgIHRlbmFudF9pZDogc3RyCiAgICB1c2VyX2lkOiBzdHIKICAgIG9yZ19ub2RlX2lkOiBzdHIgICAgICAgICAgICAjIOWPr+euoeeQhueahOWtkOagkeaguQoKCkBkYXRhY2xhc3MKY2xhc3MgQXVkaXRFbnRyeToKICAgIGlkOiBzdHIKICAgIHRlbmFudF9pZDogc3RyCiAgICB1c2VyX2lkOiBzdHIgICAgICAgICAgICAgICAgIyDnnJ/kuroKICAgIGdyYW50X2lkOiBPcHRpb25hbFtzdHJdICAgICAjIOS7peWTquS4quWtkOi0puWPt+aTjeS9nAogICAgYWN0aW9uOiBzdHIKICAgIHRhcmdldDogc3RyCiAgICBvazogYm9vbAogICAgcmVhc29uOiBzdHIKICAgIHRzOiBmbG9hdCA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT10aW1lLnRpbWUpCiAgICBwcmV2X2hhc2g6IHN0ciA9ICIiCiAgICBoYXNoOiBzdHIgPSAiIgo=
+"""
+org_core.models — 组织/权限/多租户 的领域模型(定稿)。
+
+七个实体:tenant / org_node / user / role(岗位) / grant(子账号=人+岗位+组织节点) /
+admin_scope(管理子树) / audit。纯 stdlib dataclass,与存储实现解耦。
+
+设计要点(对齐已定决策):
+  - grant 即"子账号/任职":一个真人(user)可有多条 grant,各挂不同岗位与组织节点,可切换。
+  - 业务权限不向下继承:scope = grant.org_node_id 本身。
+  - 管理权限沿子树向下:admin_scope 给定一个可管理的子树根。
+  - 一切带 tenant_id:组织树即租户边界。
+"""
+from __future__ import annotations
+
+import time
+from dataclasses import dataclass, field
+from enum import Enum
+from typing import Optional
+
+
+class NodeType(str, Enum):
+    COMPANY = "company"        # 公司/子公司
+    DEPARTMENT = "department"  # 部门
+    PROJECT = "project"        # 项目部
+    TEAM = "team"              # 班组
+
+
+class UserKind(str, Enum):
+    INTERNAL = "internal"      # 企业自有人员
+    EXTERNAL = "external"      # 外来人员(默认零权限,只能被显式授予)
+
+
+class UserStatus(str, Enum):
+    ACTIVE = "active"
+    DISABLED = "disabled"      # 离职关停:一刀停其所有 grant
+
+
+class Visibility(str, Enum):   # 沿用既有语义
+    PRIVATE = "private"
+    DEPARTMENT = "department"
+    PUBLIC = "public"
+
+
+class PermissionDenied(Exception):
+    """越权操作。携带原因,便于审计与前端提示。"""
+
+
+@dataclass
+class Tenant:
+    id: str
+    name: str
+
+
+@dataclass
+class OrgNode:
+    id: str
+    tenant_id: str
+    parent_id: Optional[str]    # None = 租户根
+    type: NodeType
+    name: str                   # 可改名
+
+
+@dataclass
+class User:
+    id: str
+    tenant_id: str
+    kind: UserKind = UserKind.INTERNAL
+    status: UserStatus = UserStatus.ACTIVE
+    display_name: str = ""
+
+
+@dataclass
+class Role:
+    """岗位 = 一组权限位的打包(企业自定义,可 Excel 批量导入)。"""
+    id: str
+    tenant_id: str
+    name: str
+    perm_keys: frozenset[str] = field(default_factory=frozenset)
+
+
+@dataclass
+class Grant:
+    """子账号/任职 = 人 + 岗位 + 组织节点(scope)。一个 user 可有多条。"""
+    id: str
+    tenant_id: str
+    user_id: str
+    role_id: str
+    org_node_id: str            # 业务权限作用域(不向下继承)
+    label: str = ""             # 任职名,如 "张三@B项目部-顾问"
+    active: bool = True
+    is_default: bool = False    # 默认登录身份
+
+
+@dataclass
+class AdminScope:
+    """管理员的管理子树:可在该节点及其后代内建人/派岗/调组织。"""
+    id: str
+    tenant_id: str
+    user_id: str
+    org_node_id: str            # 可管理的子树根
+
+
+@dataclass
+class AuditEntry:
+    id: str
+    tenant_id: str
+    user_id: str                # 真人
+    grant_id: Optional[str]     # 以哪个子账号操作
+    action: str
+    target: str
+    ok: bool
+    reason: str
+    ts: float = field(default_factory=time.time)
+    prev_hash: str = ""
+    hash: str = ""

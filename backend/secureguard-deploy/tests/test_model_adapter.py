@@ -1,1 +1,112 @@
-IiIidGVzdHMvdGVzdF9tb2RlbF9hZGFwdGVyLnB5IOKAlCDnnJ/lrp7mqKHlnovpgILphY3lmajvvIjnprvnur/lj6/mtYvpg6jliIbvvInjgIIiIiIKaW1wb3J0IHN5cywgb3MsIGFzeW5jaW8Kc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQpmcm9tIGJhY2tlbmQubW9kZWxfYWRhcHRlciBpbXBvcnQgcGFyc2Vfc3NlX2xpbmUsIGJ1aWxkX3JlcXVlc3RfYm9keSwgYnVpbGRfbW9kZWwsIE9wZW5BSUNvbXBhdE1vZGVsCmZyb20gYmFja2VuZC5tb2RlbF9zZXJ2aWNlIGltcG9ydCBNb2RlbENvbmZpZwoKCiMgLS0tLS0tLS0tLSBTU0Ug6Kej5p6Q77yIT3BlbkFJIOa1geW8j+agvOW8j++8iS0tLS0tLS0tLS0KZGVmIHRlc3RfcGFyc2Vfc3NlX3Rva2VuKCk6CiAgICBsaW5lID0gJ2RhdGE6IHsiY2hvaWNlcyI6W3siZGVsdGEiOnsiY29udGVudCI6IuS9oOWlvSJ9fV19JwogICAgYXNzZXJ0IHBhcnNlX3NzZV9saW5lKGxpbmUpID09ICLkvaDlpb0iCgoKZGVmIHRlc3RfcGFyc2Vfc3NlX2RvbmVfYW5kX2VtcHR5KCk6CiAgICBhc3NlcnQgcGFyc2Vfc3NlX2xpbmUoImRhdGE6IFtET05FXSIpIGlzIE5vbmUKICAgIGFzc2VydCBwYXJzZV9zc2VfbGluZSgiIikgaXMgTm9uZQogICAgYXNzZXJ0IHBhcnNlX3NzZV9saW5lKCI6IGNvbW1lbnQiKSBpcyBOb25lCgoKZGVmIHRlc3RfcGFyc2Vfc3NlX21hbGZvcm1lZCgpOgogICAgYXNzZXJ0IHBhcnNlX3NzZV9saW5lKCJkYXRhOiB7YmFkIGpzb24iKSBpcyBOb25lCiAgICBhc3NlcnQgcGFyc2Vfc3NlX2xpbmUoJ2RhdGE6IHsiY2hvaWNlcyI6W119JykgaXMgTm9uZQoKCmRlZiB0ZXN0X3BhcnNlX3NzZV9yb2xlX29ubHlfZGVsdGEoKToKICAgICMg6aaW5bin5bi45Y+q5pyJIHJvbGUg5pegIGNvbnRlbnQKICAgIGFzc2VydCBwYXJzZV9zc2VfbGluZSgnZGF0YTogeyJjaG9pY2VzIjpbeyJkZWx0YSI6eyJyb2xlIjoiYXNzaXN0YW50In19XX0nKSBpcyBOb25lCgoKIyAtLS0tLS0tLS0tIOivt+axguS9k+aehOmAoCAtLS0tLS0tLS0tCmRlZiB0ZXN0X2J1aWxkX3JlcXVlc3RfYm9keSgpOgogICAgYiA9IGJ1aWxkX3JlcXVlc3RfYm9keSgiZGVlcHNlZWstY2hhdCIsIFt7InJvbGUiOiAidXNlciIsICJjb250ZW50IjogImhpIn1dLCBzdHJlYW09VHJ1ZSwgdGVtcGVyYXR1cmU9MC43KQogICAgYXNzZXJ0IGJbIm1vZGVsIl0gPT0gImRlZXBzZWVrLWNoYXQiIGFuZCBiWyJzdHJlYW0iXSBpcyBUcnVlCiAgICBhc3NlcnQgYlsidGVtcGVyYXR1cmUiXSA9PSAwLjcgYW5kIGJbIm1lc3NhZ2VzIl1bMF1bImNvbnRlbnQiXSA9PSAiaGkiCgoKZGVmIHRlc3RfYnVpbGRfcmVxdWVzdF9vbWl0c19ub25lX29wdHMoKToKICAgIGIgPSBidWlsZF9yZXF1ZXN0X2JvZHkoIm0iLCBbXSwgc3RyZWFtPUZhbHNlKQogICAgYXNzZXJ0ICJ0ZW1wZXJhdHVyZSIgbm90IGluIGIgYW5kICJtYXhfdG9rZW5zIiBub3QgaW4gYgoKCiMgLS0tLS0tLS0tLSDpgILphY3lmajmnoTpgKDkuI7pl6jmjqcgLS0tLS0tLS0tLQpkZWYgdGVzdF9idWlsZF9tb2RlbF9nYXRlc19vbl9jb25maWcoKToKICAgICMgbW9jayAvIOe8uumFjee9riDihpIgTm9uZe+8iOeUqOWGhee9ru+8iQogICAgYXNzZXJ0IGJ1aWxkX21vZGVsKE1vZGVsQ29uZmlnKCJidWlsdGluIiwgIuWGhee9riIsICIiLCAiIiwgIm1vY2siKSkgaXMgTm9uZQogICAgYXNzZXJ0IGJ1aWxkX21vZGVsKE1vZGVsQ29uZmlnKCJ4IiwgIlgiLCAiIiwgInNrLWsiLCAiZGVlcHNlZWstY2hhdCIpKSBpcyBOb25lICAjIOe8uiBhcGlfYmFzZQogICAgYXNzZXJ0IGJ1aWxkX21vZGVsKE1vZGVsQ29uZmlnKCJ4IiwgIlgiLCAiaHR0cHM6Ly9hcGkueC5jb20vdjEiLCAiIiwgImRlZXBzZWVrLWNoYXQiKSkgaXMgTm9uZSAgIyDnvLoga2V5CiAgICAjIOmFjee9ruWujOaVtCDihpIg55yf6YCC6YWN5ZmoCiAgICBtID0gYnVpbGRfbW9kZWwoTW9kZWxDb25maWcoIngiLCAiWCIsICJodHRwczovL2FwaS5kZWVwc2Vlay5jb20vdjEiLCAic2stayIsICJkZWVwc2Vlay1jaGF0IikpCiAgICBhc3NlcnQgaXNpbnN0YW5jZShtLCBPcGVuQUlDb21wYXRNb2RlbCkgYW5kIG0ubW9kZWwgPT0gImRlZXBzZWVrLWNoYXQiCgoKZGVmIHRlc3RfYWRhcHRlcl9tZXNzYWdlc193aXRoX3N5c3RlbSgpOgogICAgbSA9IE9wZW5BSUNvbXBhdE1vZGVsKCJodHRwczovL2FwaS54LmNvbS92MSIsICJzay1rIiwgIm0iLCBzeXN0ZW09IuS9oOaYr+WKqeaJiyIpCiAgICBtc2dzID0gbS5fbWVzc2FnZXMoIumXrumimCIpCiAgICBhc3NlcnQgbXNnc1swXVsicm9sZSJdID09ICJzeXN0ZW0iIGFuZCBtc2dzWzFdWyJjb250ZW50Il0gPT0gIumXrumimCIKCgpkZWYgdGVzdF9hZGFwdGVyX3VybF9ub3JtYWxpemVzX3RyYWlsaW5nX3NsYXNoKCk6CiAgICBtID0gT3BlbkFJQ29tcGF0TW9kZWwoImh0dHBzOi8vYXBpLnguY29tL3YxLyIsICJrIiwgIm0iKQogICAgYXNzZXJ0IG0uX3VybCgpID09ICJodHRwczovL2FwaS54LmNvbS92MS9jaGF0L2NvbXBsZXRpb25zIgoKCiMgLS0tLS0tLS0tLSDms6jlhaUgb3JjaGVzdHJhdG9y77yabW9kZWxfb3ZlcnJpZGUg6KKr5L2/55So77yI55So5YGH5qih5Z6L6aqM6K+B566h57q/77yJLS0tLS0tLS0tLQpkZWYgdGVzdF9tb2RlbF9vdmVycmlkZV91c2VkX2luX29yY2hlc3RyYXRvcigpOgogICAgIiIi5rOo5YWlIG1vZGVsX292ZXJyaWRlIOWQju+8jE1EIOi3r+W+hOW6lOiwg+eUqOWug+iAjOmdnuWGhee9riBNb2NrTW9kZWzjgIIiIiIKICAgIGZyb20gYmFja2VuZC5zdGF0ZSBpbXBvcnQgQXBwU3RhdGUKICAgIGZyb20gYmFja2VuZC5jaGF0X3NlcnZpY2UgaW1wb3J0IHJ1bl9jaGF0CgogICAgY2xhc3MgRmFrZU1vZGVsOgogICAgICAgIGNhbGxlZCA9IEZhbHNlCiAgICAgICAgZGVmIGdlbmVyYXRlKHNlbGYsIHByb21wdCwgKiprdyk6CiAgICAgICAgICAgIEZha2VNb2RlbC5jYWxsZWQgPSBUcnVlCiAgICAgICAgICAgIHJldHVybiAiPEFTU0VTUz5vazwvQVNTRVNTPjxBTlNXRVI+6L+Z5piv55yf5a6e5qih5Z6L55qE5Zue562UPC9BTlNXRVI+IgoKICAgIHN0ID0gQXBwU3RhdGUoKQogICAgZmFrZSA9IEZha2VNb2RlbCgpCiAgICBhc3luYyBkZWYgZ28oKToKICAgICAgICBhbnMgPSAiIgogICAgICAgICMg55u05o6l5rOo5YWlIGN0eCDnmoTog73lipvvvJrnlKjkuIDkuKrphY3nva7lpb3nmoTnnJ/lrp7mqKHlnosKICAgICAgICBjZmcgPSBzdC5tb2RlbHMuY3JlYXRlKCJGYWtlTExNIiwgImh0dHBzOi8vYXBpLmZha2UuY29tL3YxIiwgInNrLXgiLCAiZmFrZS1tb2RlbCIpCiAgICAgICAgIyBtb25rZXlwYXRjaCBidWlsZF9tb2RlbCDov5Tlm57miJHku6znmoQgZmFrZQogICAgICAgIGltcG9ydCBiYWNrZW5kLm1vZGVsX2FkYXB0ZXIgYXMgbWEKICAgICAgICBvcmlnID0gbWEuYnVpbGRfbW9kZWwKICAgICAgICBtYS5idWlsZF9tb2RlbCA9IGxhbWJkYSBjOiBmYWtlIGlmIGMubW9kZWwgPT0gImZha2UtbW9kZWwiIGVsc2Ugb3JpZyhjKQogICAgICAgIHRyeToKICAgICAgICAgICAgYXN5bmMgZm9yIGV2IGluIHJ1bl9jaGF0KHN0LCAi5L2g5aW9IiwgYWdlbnRfaWQ9ImdlbmVyYWwiLCBtb2RlbD1jZmdbImlkIl0pOgogICAgICAgICAgICAgICAgaWYgZXZbImV2ZW50Il0gPT0gImRlbHRhIjoKICAgICAgICAgICAgICAgICAgICBhbnMgKz0gZXZbInRleHQiXQogICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgIG1hLmJ1aWxkX21vZGVsID0gb3JpZwogICAgICAgIHJldHVybiBhbnMKICAgIGFucyA9IGFzeW5jaW8ucnVuKGdvKCkpCiAgICBhc3NlcnQgRmFrZU1vZGVsLmNhbGxlZCBhbmQgIuecn+WunuaooeWei+eahOWbnuetlCIgaW4gYW5zCgoKIyAtLS0tLS0tLS0tIOWOguWutua4heWNlSArIOaLieWPlu+8iOemu+e6v+WPr+a1i+mDqOWIhu+8iS0tLS0tLS0tLS0KZGVmIHRlc3RfcHJvdmlkZXJzX2xpc3RlZCgpOgogICAgZnJvbSBiYWNrZW5kLm1vZGVsX2FkYXB0ZXIgaW1wb3J0IGxpc3RfcHJvdmlkZXJzCiAgICBwcyA9IGxpc3RfcHJvdmlkZXJzKCkKICAgIGlkcyA9IFtwWyJpZCJdIGZvciBwIGluIHBzXQogICAgYXNzZXJ0ICJkZWVwc2VlayIgaW4gaWRzIGFuZCAib3BlbmFpIiBpbiBpZHMgYW5kICJjdXN0b20iIGluIGlkcwogICAgZHMgPSBuZXh0KHAgZm9yIHAgaW4gcHMgaWYgcFsiaWQiXSA9PSAiZGVlcHNlZWsiKQogICAgYXNzZXJ0IGRzWyJhcGlfYmFzZSJdLmVuZHN3aXRoKCIvdjEiKSBhbmQgImRlZXBzZWVrLWNoYXQiIGluIGRzWyJtb2RlbHMiXQoKCmRlZiB0ZXN0X2ZldGNoX21vZGVsc19ndWFyZHNfbWlzc2luZygpOgogICAgZnJvbSBiYWNrZW5kLm1vZGVsX2FkYXB0ZXIgaW1wb3J0IGZldGNoX21vZGVscwogICAgciA9IGZldGNoX21vZGVscygiIiwgInNrLXgiKQogICAgYXNzZXJ0IHJbImF2YWlsYWJsZSJdIGlzIEZhbHNlIGFuZCAi57y65bCRIiBpbiByWyJub3RlIl0KICAgIHIyID0gZmV0Y2hfbW9kZWxzKCJodHRwczovL2FwaS54LmNvbS92MSIsICIiKQogICAgYXNzZXJ0IHIyWyJhdmFpbGFibGUiXSBpcyBGYWxzZQo=
+"""tests/test_model_adapter.py — 真实模型适配器（离线可测部分）。"""
+import sys, os, asyncio
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.model_adapter import parse_sse_line, build_request_body, build_model, OpenAICompatModel
+from backend.model_service import ModelConfig
+
+
+# ---------- SSE 解析（OpenAI 流式格式）----------
+def test_parse_sse_token():
+    line = 'data: {"choices":[{"delta":{"content":"你好"}}]}'
+    assert parse_sse_line(line) == "你好"
+
+
+def test_parse_sse_done_and_empty():
+    assert parse_sse_line("data: [DONE]") is None
+    assert parse_sse_line("") is None
+    assert parse_sse_line(": comment") is None
+
+
+def test_parse_sse_malformed():
+    assert parse_sse_line("data: {bad json") is None
+    assert parse_sse_line('data: {"choices":[]}') is None
+
+
+def test_parse_sse_role_only_delta():
+    # 首帧常只有 role 无 content
+    assert parse_sse_line('data: {"choices":[{"delta":{"role":"assistant"}}]}') is None
+
+
+# ---------- 请求体构造 ----------
+def test_build_request_body():
+    b = build_request_body("deepseek-chat", [{"role": "user", "content": "hi"}], stream=True, temperature=0.7)
+    assert b["model"] == "deepseek-chat" and b["stream"] is True
+    assert b["temperature"] == 0.7 and b["messages"][0]["content"] == "hi"
+
+
+def test_build_request_omits_none_opts():
+    b = build_request_body("m", [], stream=False)
+    assert "temperature" not in b and "max_tokens" not in b
+
+
+# ---------- 适配器构造与门控 ----------
+def test_build_model_gates_on_config():
+    # mock / 缺配置 → None（用内置）
+    assert build_model(ModelConfig("builtin", "内置", "", "", "mock")) is None
+    assert build_model(ModelConfig("x", "X", "", "sk-k", "deepseek-chat")) is None  # 缺 api_base
+    assert build_model(ModelConfig("x", "X", "https://api.x.com/v1", "", "deepseek-chat")) is None  # 缺 key
+    # 配置完整 → 真适配器
+    m = build_model(ModelConfig("x", "X", "https://api.deepseek.com/v1", "sk-k", "deepseek-chat"))
+    assert isinstance(m, OpenAICompatModel) and m.model == "deepseek-chat"
+
+
+def test_adapter_messages_with_system():
+    m = OpenAICompatModel("https://api.x.com/v1", "sk-k", "m", system="你是助手")
+    msgs = m._messages("问题")
+    assert msgs[0]["role"] == "system" and msgs[1]["content"] == "问题"
+
+
+def test_adapter_url_normalizes_trailing_slash():
+    m = OpenAICompatModel("https://api.x.com/v1/", "k", "m")
+    assert m._url() == "https://api.x.com/v1/chat/completions"
+
+
+# ---------- 注入 orchestrator：model_override 被使用（用假模型验证管线）----------
+def test_model_override_used_in_orchestrator():
+    """注入 model_override 后，MD 路径应调用它而非内置 MockModel。"""
+    from backend.state import AppState
+    from backend.chat_service import run_chat
+
+    class FakeModel:
+        called = False
+        def generate(self, prompt, **kw):
+            FakeModel.called = True
+            return "<ASSESS>ok</ASSESS><ANSWER>这是真实模型的回答</ANSWER>"
+
+    st = AppState()
+    fake = FakeModel()
+    async def go():
+        ans = ""
+        # 直接注入 ctx 的能力：用一个配置好的真实模型
+        cfg = st.models.create("FakeLLM", "https://api.fake.com/v1", "sk-x", "fake-model")
+        # monkeypatch build_model 返回我们的 fake
+        import backend.model_adapter as ma
+        orig = ma.build_model
+        ma.build_model = lambda c: fake if c.model == "fake-model" else orig(c)
+        try:
+            async for ev in run_chat(st, "你好", agent_id="general", model=cfg["id"]):
+                if ev["event"] == "delta":
+                    ans += ev["text"]
+        finally:
+            ma.build_model = orig
+        return ans
+    ans = asyncio.run(go())
+    assert FakeModel.called and "真实模型的回答" in ans
+
+
+# ---------- 厂家清单 + 拉取（离线可测部分）----------
+def test_providers_listed():
+    from backend.model_adapter import list_providers
+    ps = list_providers()
+    ids = [p["id"] for p in ps]
+    assert "deepseek" in ids and "openai" in ids and "custom" in ids
+    ds = next(p for p in ps if p["id"] == "deepseek")
+    assert ds["api_base"].endswith("/v1") and "deepseek-chat" in ds["models"]
+
+
+def test_fetch_models_guards_missing():
+    from backend.model_adapter import fetch_models
+    r = fetch_models("", "sk-x")
+    assert r["available"] is False and "缺少" in r["note"]
+    r2 = fetch_models("https://api.x.com/v1", "")
+    assert r2["available"] is False

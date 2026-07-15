@@ -1,1 +1,76 @@
-IiIidGVzdHMvdGVzdF9tb2RlbF9zZXJ2aWNlLnB5IOKAlCDmqKHlnovphY3nva7vvIjikaDvvInjgIIiIiIKaW1wb3J0IHN5cywgb3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQpmcm9tIGJhY2tlbmQubW9kZWxfc2VydmljZSBpbXBvcnQgTW9kZWxTZXJ2aWNlLCBfbWFzawoKCmRlZiB0ZXN0X3NlZWRfYnVpbHRpbl9leGlzdHMoKToKICAgIHMgPSBNb2RlbFNlcnZpY2UoKQogICAgaWRzID0gW21bImlkIl0gZm9yIG0gaW4gcy5saXN0X21vZGVscygpXQogICAgYXNzZXJ0ICJidWlsdGluIiBpbiBpZHMKCgpkZWYgdGVzdF9jcmVhdGVfYW5kX2xpc3QoKToKICAgIHMgPSBNb2RlbFNlcnZpY2UoKQogICAgbSA9IHMuY3JlYXRlKCJEZWVwU2Vlay1WMyIsICJodHRwczovL2FwaS5kZWVwc2Vlay5jb20vdjEiLCAic2stc2VjcmV0MTIzIiwgImRlZXBzZWVrLWNoYXQiKQogICAgYXNzZXJ0IG1bIm5hbWUiXSA9PSAiRGVlcFNlZWstVjMiIGFuZCBtWyJtb2RlbCJdID09ICJkZWVwc2Vlay1jaGF0IgogICAgYXNzZXJ0IGFueSh4WyJpZCJdID09IG1bImlkIl0gZm9yIHggaW4gcy5saXN0X21vZGVscygpKQoKCmRlZiB0ZXN0X2FwaV9rZXlfbWFza2VkX25ldmVyX3BsYWludGV4dCgpOgogICAgcyA9IE1vZGVsU2VydmljZSgpCiAgICBtID0gcy5jcmVhdGUoIlgiLCAidXJsIiwgInNrLXN1cGVyc2VjcmV0a2V5IiwgIngiKQogICAgYXNzZXJ0ICJzdXBlcnNlY3JldCIgbm90IGluIHN0cihtKSAgICAgICAgIyDmmI7mlocga2V5IOS4jeWbnuS8oAogICAgYXNzZXJ0IG1bImFwaV9rZXlfbWFza2VkIl0uZW5kc3dpdGgoInRrZXkiKSAgIyDlj6rnlZnmnKs05L2NCgoKZGVmIHRlc3RfY3JlYXRlX3ZhbGlkYXRlc19yZXF1aXJlZCgpOgogICAgcyA9IE1vZGVsU2VydmljZSgpCiAgICB0cnk6CiAgICAgICAgcy5jcmVhdGUoIiIsICJ1cmwiLCAiayIsICIiKSAgICAgICAgICAjIOWQjeWtl+WSjOagh+ivhuepugogICAgICAgIGFzc2VydCBGYWxzZQogICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgcGFzcwoKCmRlZiB0ZXN0X3VwZGF0ZV9jaGFuZ2VzX2ZpZWxkc19idXRfa2VlcHNfa2V5X2lmX2JsYW5rKCk6CiAgICBzID0gTW9kZWxTZXJ2aWNlKCkKICAgIG0gPSBzLmNyZWF0ZSgiWCIsICJ1cmwiLCAic2stb3JpZ2luYWwiLCAieCIpCiAgICAjIOabtOaWsOWQjeWtl++8jOS4jeS8oCBrZXkg4oaSIGtleSDkuI3lj5gKICAgIHMudXBkYXRlKG1bImlkIl0sIG5hbWU9IlkiLCBhcGlfa2V5PSIiKQogICAgY2ZnID0gcy5nZXQobVsiaWQiXSkKICAgIGFzc2VydCBjZmcubmFtZSA9PSAiWSIgYW5kIGNmZy5hcGlfa2V5ID09ICJzay1vcmlnaW5hbCIKICAgICMg5Lyg5pawIGtleSDihpIg5pu05pawCiAgICBzLnVwZGF0ZShtWyJpZCJdLCBhcGlfa2V5PSJzay1uZXciKQogICAgYXNzZXJ0IHMuZ2V0KG1bImlkIl0pLmFwaV9rZXkgPT0gInNrLW5ldyIKCgpkZWYgdGVzdF9idWlsdGluX3Byb3RlY3RlZCgpOgogICAgcyA9IE1vZGVsU2VydmljZSgpCiAgICBmb3Igb3AgaW4gKGxhbWJkYTogcy51cGRhdGUoImJ1aWx0aW4iLCBuYW1lPSJ4IiksIGxhbWJkYTogcy5kZWxldGUoImJ1aWx0aW4iKSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBvcCgpOyBhc3NlcnQgRmFsc2UKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgcGFzcwoKCmRlZiB0ZXN0X3Jlc29sdmVfZmFsbHNfYmFja190b19lbmFibGVkKCk6CiAgICBzID0gTW9kZWxTZXJ2aWNlKCkKICAgIG0gPSBzLmNyZWF0ZSgiQSIsICJ1IiwgImsiLCAiYSIpCiAgICBhc3NlcnQgcy5yZXNvbHZlKG1bImlkIl0pLmlkID09IG1bImlkIl0gICAgICAgIyDmjIflrprlrZjlnKjnmoQKICAgIGFzc2VydCBzLnJlc29sdmUoIm5vbmV4aXN0ZW50IikuZW5hYmxlZCAgICAgICAgIyDkuI3lrZjlnKgg4oaSIOWbnumAgOWIsOWQr+eUqOeahAogICAgcy51cGRhdGUobVsiaWQiXSwgZW5hYmxlZD1GYWxzZSkKICAgIGFzc2VydCBzLnJlc29sdmUobVsiaWQiXSkuaWQgIT0gbVsiaWQiXSBvciBzLnJlc29sdmUobVsiaWQiXSkuZW5hYmxlZCAgIyDnpoHnlKjnmoTkuI3ooqvpgIkKCgpkZWYgdGVzdF9saXN0X3NlbGVjdGFibGVfZXhjbHVkZXNfZGlzYWJsZWQoKToKICAgIHMgPSBNb2RlbFNlcnZpY2UoKQogICAgbSA9IHMuY3JlYXRlKCJBIiwgInUiLCAiayIsICJhIiwgZW5hYmxlZD1GYWxzZSkKICAgIHNlbCA9IFt4WyJpZCJdIGZvciB4IGluIHMubGlzdF9zZWxlY3RhYmxlKCldCiAgICBhc3NlcnQgbVsiaWQiXSBub3QgaW4gc2VsIGFuZCAiYnVpbHRpbiIgaW4gc2VsCgoKZGVmIHRlc3RfbWFzaygpOgogICAgYXNzZXJ0IF9tYXNrKCJzay1hYmNkMTIzNCIpLmVuZHN3aXRoKCIxMjM0IikKICAgIGFzc2VydCBfbWFzaygiIikgPT0gIiIKICAgIGFzc2VydCBfbWFzaygiYWIiKSA9PSAi4oCi4oCi4oCi4oCiIgo=
+"""tests/test_model_service.py — 模型配置（①）。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.model_service import ModelService, _mask
+
+
+def test_seed_builtin_exists():
+    s = ModelService()
+    ids = [m["id"] for m in s.list_models()]
+    assert "builtin" in ids
+
+
+def test_create_and_list():
+    s = ModelService()
+    m = s.create("DeepSeek-V3", "https://api.deepseek.com/v1", "sk-secret123", "deepseek-chat")
+    assert m["name"] == "DeepSeek-V3" and m["model"] == "deepseek-chat"
+    assert any(x["id"] == m["id"] for x in s.list_models())
+
+
+def test_api_key_masked_never_plaintext():
+    s = ModelService()
+    m = s.create("X", "url", "sk-supersecretkey", "x")
+    assert "supersecret" not in str(m)        # 明文 key 不回传
+    assert m["api_key_masked"].endswith("tkey")  # 只留末4位
+
+
+def test_create_validates_required():
+    s = ModelService()
+    try:
+        s.create("", "url", "k", "")          # 名字和标识空
+        assert False
+    except ValueError:
+        pass
+
+
+def test_update_changes_fields_but_keeps_key_if_blank():
+    s = ModelService()
+    m = s.create("X", "url", "sk-original", "x")
+    # 更新名字，不传 key → key 不变
+    s.update(m["id"], name="Y", api_key="")
+    cfg = s.get(m["id"])
+    assert cfg.name == "Y" and cfg.api_key == "sk-original"
+    # 传新 key → 更新
+    s.update(m["id"], api_key="sk-new")
+    assert s.get(m["id"]).api_key == "sk-new"
+
+
+def test_builtin_protected():
+    s = ModelService()
+    for op in (lambda: s.update("builtin", name="x"), lambda: s.delete("builtin")):
+        try:
+            op(); assert False
+        except ValueError:
+            pass
+
+
+def test_resolve_falls_back_to_enabled():
+    s = ModelService()
+    m = s.create("A", "u", "k", "a")
+    assert s.resolve(m["id"]).id == m["id"]       # 指定存在的
+    assert s.resolve("nonexistent").enabled        # 不存在 → 回退到启用的
+    s.update(m["id"], enabled=False)
+    assert s.resolve(m["id"]).id != m["id"] or s.resolve(m["id"]).enabled  # 禁用的不被选
+
+
+def test_list_selectable_excludes_disabled():
+    s = ModelService()
+    m = s.create("A", "u", "k", "a", enabled=False)
+    sel = [x["id"] for x in s.list_selectable()]
+    assert m["id"] not in sel and "builtin" in sel
+
+
+def test_mask():
+    assert _mask("sk-abcd1234").endswith("1234")
+    assert _mask("") == ""
+    assert _mask("ab") == "••••"

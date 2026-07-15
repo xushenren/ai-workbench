@@ -1,1 +1,54 @@
-IiIic2VjdXJlZ3VhcmQuYXBpIOKAlCBGYXN0QVBJIOacjeWKoeWFpeWPo++8iOWNj+iwg+WZqOWvueWkliBIVFRQIOaOpeWPo++8ieOAggoK5L6d6LWWIGZhc3RhcGkgKyB1dmljb3Ju77yb57y65aSx5pe25pys5qih5Z2X5LuN5Y+v6KKr5a+85YWl77yI5LiN5Lya56C05Z2P56a757q/5rWL6K+V77yJ77yMCuS7heWcqOecn+ato+WQr+WKqOacjeWKoeaXtuaJjemcgOimgei/meS6m+S+nei1luOAggoK5ZCv5Yqo77yadXZpY29ybiBzZWN1cmVndWFyZC5hcGk6YXBwIC0taG9zdCAwLjAuMC4wIC0tcG9ydCA5MDAwCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBPcHRpb25hbAoKdHJ5OgogICAgZnJvbSBmYXN0YXBpIGltcG9ydCBGYXN0QVBJCiAgICBmcm9tIHB5ZGFudGljIGltcG9ydCBCYXNlTW9kZWwKICAgIF9GQVNUQVBJX09LID0gVHJ1ZQpleGNlcHQgRXhjZXB0aW9uOiAgIyBwcmFnbWE6IG5vIGNvdmVyIC0g5L6d6LWW57y65aSx5pe255qE56a757q/5Y2g5L2NCiAgICBfRkFTVEFQSV9PSyA9IEZhbHNlCgpmcm9tIC5vcmNoZXN0cmF0b3IgaW1wb3J0IE9yY2hlc3RyYXRvcgpmcm9tIC5sMl9yZWFzb25pbmcgaW1wb3J0IERvYywgSW5NZW1vcnlWZWN0b3JTdG9yZSwgTW9ja01vZGVsLCBSQUdQaXBlbGluZQoKCmRlZiBidWlsZF9kZWZhdWx0X29yY2hlc3RyYXRvcigpIC0+IE9yY2hlc3RyYXRvcjoKICAgICIiIuaehOmAoOm7mOiupOWNj+iwg+WZqOOAgueUn+S6p+mDqOe9suaXtuaKiiBSQUcg5o2i5oiQIFZMTE1Nb2RlbCArIENocm9tYVZlY3RvclN0b3Jl44CCIiIiCiAgICBzdG9yZSA9IEluTWVtb3J5VmVjdG9yU3RvcmUoKQogICAgc3RvcmUuYWRkKERvYygiZG9jXzEiLCAi5bmC562J5oCn5oyH5ZCM5LiA5pON5L2c5omn6KGM5aSa5qyh57uT5p6c5LiA6Ie044CCIiwgeyJ0cnVzdF9zY29yZSI6IDAuOX0pKQogICAgc3RvcmUuYWRkKERvYygiZG9jXzIiLCAiUkFHIOmAmui/h+ajgOe0ouWPr+S/oeaWh+aho+S4uueUn+aIkOaPkOS+m+S6i+WunumUmueCueOAgiIsIHsidHJ1c3Rfc2NvcmUiOiAwLjh9KSkKICAgIHJldHVybiBPcmNoZXN0cmF0b3IocmFnPVJBR1BpcGVsaW5lKHN0b3JlLCBNb2NrTW9kZWwoKSkpCgoKaWYgX0ZBU1RBUElfT0s6ICAjIHByYWdtYTogbm8gY292ZXIgLSDpnIDlronoo4UgZmFzdGFwaSDmiY3miafooYwKICAgIGFwcCA9IEZhc3RBUEkodGl0bGU9IlNlY3VyZUd1YXJkIiwgdmVyc2lvbj0iMS4wLjAiKQogICAgX29yY2ggPSBidWlsZF9kZWZhdWx0X29yY2hlc3RyYXRvcigpCgogICAgY2xhc3MgQ2hhdFJlcXVlc3QoQmFzZU1vZGVsKToKICAgICAgICBtZXNzYWdlOiBzdHIKICAgICAgICBzZXNzaW9uX2lkOiBzdHIgPSAiYW5vbiIKICAgICAgICBhY3Rpb246IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUKICAgICAgICBjdHg6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUKCiAgICBAYXBwLmdldCgiL2hlYWx0aCIpCiAgICBhc3luYyBkZWYgaGVhbHRoKCkgLT4gRGljdFtzdHIsIHN0cl06CiAgICAgICAgcmV0dXJuIHsic3RhdHVzIjogIm9rIn0KCiAgICBAYXBwLnBvc3QoIi92MS9jaGF0IikKICAgIGFzeW5jIGRlZiBjaGF0KHJlcTogQ2hhdFJlcXVlc3QpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIuerr+WIsOerr+i3keS6lOWxgumXqOaOp+W5tui/lOWbnue7k+aenO+8iOWQq+mAkOWxgui9qOi/ue+8ieOAgiIiIgogICAgICAgIHJldHVybiBhd2FpdCBfb3JjaC5wcm9jZXNzKHJlcS5tZXNzYWdlLCByZXEuc2Vzc2lvbl9pZCwgcmVxLmFjdGlvbiwgcmVxLmN0eCkKCiAgICBAYXBwLmdldCgiL3YxL2F1ZGl0L3N1bW1hcnkiKQogICAgYXN5bmMgZGVmIGF1ZGl0X3N1bW1hcnkoKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4gX29yY2guYXVkaXRvci5zdW1tYXJ5KCkKZWxzZToKICAgIGFwcCA9IE5vbmUgICMg56a757q/546v5aKD5Y2g5L2N77yM5a+85YWl5LiN5oql6ZSZCg==
+"""secureguard.api — FastAPI 服务入口（协调器对外 HTTP 接口）。
+
+依赖 fastapi + uvicorn；缺失时本模块仍可被导入（不会破坏离线测试），
+仅在真正启动服务时才需要这些依赖。
+
+启动：uvicorn secureguard.api:app --host 0.0.0.0 --port 9000
+"""
+from __future__ import annotations
+
+from typing import Any, Dict, Optional
+
+try:
+    from fastapi import FastAPI
+    from pydantic import BaseModel
+    _FASTAPI_OK = True
+except Exception:  # pragma: no cover - 依赖缺失时的离线占位
+    _FASTAPI_OK = False
+
+from .orchestrator import Orchestrator
+from .l2_reasoning import Doc, InMemoryVectorStore, MockModel, RAGPipeline
+
+
+def build_default_orchestrator() -> Orchestrator:
+    """构造默认协调器。生产部署时把 RAG 换成 VLLMModel + ChromaVectorStore。"""
+    store = InMemoryVectorStore()
+    store.add(Doc("doc_1", "幂等性指同一操作执行多次结果一致。", {"trust_score": 0.9}))
+    store.add(Doc("doc_2", "RAG 通过检索可信文档为生成提供事实锚点。", {"trust_score": 0.8}))
+    return Orchestrator(rag=RAGPipeline(store, MockModel()))
+
+
+if _FASTAPI_OK:  # pragma: no cover - 需安装 fastapi 才执行
+    app = FastAPI(title="SecureGuard", version="1.0.0")
+    _orch = build_default_orchestrator()
+
+    class ChatRequest(BaseModel):
+        message: str
+        session_id: str = "anon"
+        action: Optional[Dict[str, Any]] = None
+        ctx: Optional[Dict[str, Any]] = None
+
+    @app.get("/health")
+    async def health() -> Dict[str, str]:
+        return {"status": "ok"}
+
+    @app.post("/v1/chat")
+    async def chat(req: ChatRequest) -> Dict[str, Any]:
+        """端到端跑五层门控并返回结果（含逐层轨迹）。"""
+        return await _orch.process(req.message, req.session_id, req.action, req.ctx)
+
+    @app.get("/v1/audit/summary")
+    async def audit_summary() -> Dict[str, Any]:
+        return _orch.auditor.summary()
+else:
+    app = None  # 离线环境占位，导入不报错

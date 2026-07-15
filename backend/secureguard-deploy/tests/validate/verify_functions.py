@@ -1,1 +1,117 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5Yqf6IO96Ieq5Yqo6aqM6K+BKOWGkueDn+a1i+ivlSnigJTigJQg6b6Z6Jm+5LiA6ZSu6LeRLOecn+iwg+aOpeWPo+eci+ecn+Wunui/lOWbnizmipMi5rKh5a6e546wL+Wdj+S6hi/oo4XkuIDljYoi44CCCueUqOazlToKICAgIHB5dGhvbjMgdmVyaWZ5X2Z1bmN0aW9ucy5weSAtLWJhc2UgaHR0cDovLzEyNy4wLjAuMTo5MDAyIC0tdG9rZW4gPOeuoeeQhuWRmHRva2VuPgogIOaIlueUqOi0puWPt+WvhueggeiHquWKqOeZu+W9leWPliB0b2tlbjoKICAgIHB5dGhvbjMgdmVyaWZ5X2Z1bmN0aW9ucy5weSAtLWJhc2UgaHR0cDovLzEyNy4wLjAuMTo5MDAyIC0tcGhvbmUgMTM4MDAwMDAwMDAgLS1wYXNzd29yZCBhZG1pbjEyMwrovpPlh7o65q+P5Liq5Yqf6IO9IFvpgJrov4cv5aSx6LSlL+acquWunueOsF0gKyDljp/lm6A75pyr5bC+5rGH5oC744CC6LS05Zue5p2l5oiR5o2u5q2k5a6a5L2N44CCCuS7heeUqCBzdGRsaWIodXJsbGliKSzml6DpnIDoo4Xku7vkvZXkuJzopb/jgIIKIiIiCmltcG9ydCBhcmdwYXJzZSwganNvbiwgc3lzLCB1cmxsaWIucmVxdWVzdCwgdXJsbGliLmVycm9yCgpmcm9tIGNoZWNrcyBpbXBvcnQgQ0hFQ0tTCgpHLCBSLCBZLCBHUlksIFJTVCA9ICJcMDMzWzkybSIsICJcMDMzWzkxbSIsICJcMDMzWzkzbSIsICJcMDMzWzkwbSIsICJcMDMzWzBtIgpkZWYgY29sKHQsIGMpOiByZXR1cm4gZiJ7Y317dH17UlNUfSIgaWYgc3lzLnN0ZG91dC5pc2F0dHkoKSBlbHNlIHQKCgpkZWYgaHR0cChtZXRob2QsIHVybCwgdG9rZW49Tm9uZSwgYm9keT1Ob25lLCB0aW1lb3V0PTIwKToKICAgIGRhdGEgPSBOb25lCiAgICBoZWFkZXJzID0geyJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiJ9CiAgICBpZiBib2R5IGlzIG5vdCBOb25lOgogICAgICAgIGRhdGEgPSBqc29uLmR1bXBzKGJvZHkpLmVuY29kZSgpCiAgICAgICAgaGVhZGVyc1siQ29udGVudC1UeXBlIl0gPSAiYXBwbGljYXRpb24vanNvbiIKICAgIGlmIHRva2VuOgogICAgICAgIGhlYWRlcnNbIkF1dGhvcml6YXRpb24iXSA9IGYiQmVhcmVyIHt0b2tlbn0iCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCwgZGF0YT1kYXRhLCBtZXRob2Q9bWV0aG9kLCBoZWFkZXJzPWhlYWRlcnMpCiAgICB0cnk6CiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD10aW1lb3V0KSBhcyByOgogICAgICAgICAgICByYXcgPSByLnJlYWQoKQogICAgICAgICAgICB0cnk6IGogPSBqc29uLmxvYWRzKHJhdykKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogaiA9IHJhd1s6MjAwXS5kZWNvZGUoInV0Zi04IiwgImlnbm9yZSIpCiAgICAgICAgICAgIHJldHVybiByLnN0YXR1cywgagogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICByYXcgPSBlLnJlYWQoKQogICAgICAgIHRyeTogaiA9IGpzb24ubG9hZHMocmF3KQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IGogPSByYXdbOjIwMF0uZGVjb2RlKCJ1dGYtOCIsICJpZ25vcmUiKQogICAgICAgIHJldHVybiBlLmNvZGUsIGoKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gMCwgc3RyKGUpCgoKZGVmIGxvZ2luKGJhc2UsIHBob25lLCBwYXNzd29yZCk6CiAgICBmb3IgcGF0aCBpbiAoIi92MS9hdXRoL2xvZ2luIiwpOgogICAgICAgIHN0LCBqID0gaHR0cCgiUE9TVCIsIGJhc2UgKyBwYXRoLCBib2R5PXsicGhvbmUiOiBwaG9uZSwgInBhc3N3b3JkIjogcGFzc3dvcmR9KQogICAgICAgIGlmIDIwMCA8PSBzdCA8IDMwMCBhbmQgaXNpbnN0YW5jZShqLCBkaWN0KToKICAgICAgICAgICAgdG9rID0gai5nZXQoInRva2VuIikgb3Igai5nZXQoImFjY2Vzc190b2tlbiIpIG9yIChqLmdldCgiZGF0YSIpIG9yIHt9KS5nZXQoInRva2VuIikKICAgICAgICAgICAgaWYgdG9rOiByZXR1cm4gdG9rCiAgICByZXR1cm4gTm9uZQoKCmRlZiBtYWluKCk6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1iYXNlIiwgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0i5ZCO56uv5Zyw5Z2ALOWmgiBodHRwOi8vMTI3LjAuMC4xOjkwMDIiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXRva2VuIiwgZGVmYXVsdD1Ob25lKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXBob25lIiwgZGVmYXVsdD1Ob25lKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXBhc3N3b3JkIiwgZGVmYXVsdD1Ob25lKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWpzb24iLCBhY3Rpb249InN0b3JlX3RydWUiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWZsb3ciLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSLpop3lpJbot5Hnq6/liLDnq6/mtYHnqIso5Lya5bu65rWL6K+V5pWw5o2uKSIpCiAgICBhID0gYXAucGFyc2VfYXJncygpCiAgICBiYXNlID0gYS5iYXNlLnJzdHJpcCgiLyIpCgogICAgdG9rZW4gPSBhLnRva2VuCiAgICBpZiBub3QgdG9rZW4gYW5kIGEucGhvbmUgYW5kIGEucGFzc3dvcmQ6CiAgICAgICAgdG9rZW4gPSBsb2dpbihiYXNlLCBhLnBob25lLCBhLnBhc3N3b3JkKQogICAgICAgIGlmIG5vdCB0b2tlbjoKICAgICAgICAgICAgcHJpbnQoY29sKCLnmbvlvZXlpLHotKU65ou/5LiN5YiwIHRva2VuLOivt+aUueeUqCAtLXRva2VuIOebtOaOpeS8oCIsIFIpKTsgc3lzLmV4aXQoMikKCiAgICByZXN1bHRzID0gW10KICAgIGZvciBuYW1lLCBtZXRob2QsIHBhdGgsIGJvZHksIGp1ZGdlLCBuZWVkX2FkbWluIGluIENIRUNLUzoKICAgICAgICBzdCwgaiA9IGh0dHAobWV0aG9kLCBiYXNlICsgcGF0aCwgdG9rZW49dG9rZW4sIGJvZHk9Ym9keSkKICAgICAgICBpZiBzdCA9PSAwOgogICAgICAgICAgICBzdGF0dXMsIG1zZyA9ICJFUlJPUiIsIGYi6L+e5LiN5LiKL+W8guW4uDp7an0iCiAgICAgICAgZWxpZiBzdCA9PSA0MDQ6CiAgICAgICAgICAgIHN0YXR1cywgbXNnID0gIuacquWunueOsCIsICI0MDQg56uv54K55LiN5a2Y5ZyoKOWKn+iDveWPr+iDveayoemDqOe9si/msqHlrp7njrApIgogICAgICAgIGVsaWYgc3QgPT0gNDAxIGFuZCBuZWVkX2FkbWluIGFuZCBub3QgdG9rZW46CiAgICAgICAgICAgIHN0YXR1cywgbXNnID0gIui3s+i/hyIsICLpnIDopoHnrqHnkIblkZggdG9rZW4o5pyq5o+Q5L6bKSIKICAgICAgICBlbHNlOgogICAgICAgICAgICBvaywgbSA9IGp1ZGdlKHN0LCBqKQogICAgICAgICAgICBzdGF0dXMsIG1zZyA9ICgi6YCa6L+HIiBpZiBvayBlbHNlICLlpLHotKUiKSwgbQogICAgICAgIHJlc3VsdHMuYXBwZW5kKHsibmFtZSI6IG5hbWUsICJwYXRoIjogcGF0aCwgImh0dHAiOiBzdCwgInN0YXR1cyI6IHN0YXR1cywgIm1zZyI6IG1zZ30pCgogICAgaWYgYS5qc29uOgogICAgICAgIHByaW50KGpzb24uZHVtcHMocmVzdWx0cywgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpOyByZXR1cm4KCiAgICB0YWcgPSB7IumAmui/hyI6IGNvbCgi4pyTIOmAmui/hyIsIEcpLCAi5aSx6LSlIjogY29sKCLinJcg5aSx6LSlIiwgUiksCiAgICAgICAgICAgIuacquWunueOsCI6IGNvbCgi4pyXIOacquWunueOsCIsIFIpLCAiRVJST1IiOiBjb2woIuKclyDlvILluLgiLCBSKSwgIui3s+i/hyI6IGNvbCgiLSDot7Pov4ciLCBHUlkpfQogICAgZm9yIHIgaW4gcmVzdWx0czoKICAgICAgICBwcmludChmIlt7dGFnW3JbJ3N0YXR1cyddXX1dIHtyWyduYW1lJ106PDE2fSB7Y29sKHJbJ3BhdGgnXSxHUlkpfSIpCiAgICAgICAgaWYgclsic3RhdHVzIl0gbm90IGluICgi6YCa6L+HIiwgIui3s+i/hyIpOgogICAgICAgICAgICBwcmludChmIiAgICAgICAgSFRUUCB7clsnaHR0cCddfSDCtyB7Y29sKHJbJ21zZyddLCBZKX0iKQogICAgaWYgYS5mbG93OgogICAgICAgIGZyb20gZmxvd3MgaW1wb3J0IEZMT1dTCiAgICAgICAgcHJpbnQoIlxuPT09IOerr+WIsOerr+a1geeoiyA9PT0iKQogICAgICAgIGRlZiBjYWxsKG1ldGhvZCwgcGF0aCwgYm9keT1Ob25lKToKICAgICAgICAgICAgcmV0dXJuIGh0dHAobWV0aG9kLCBiYXNlICsgcGF0aCwgdG9rZW49dG9rZW4sIGJvZHk9Ym9keSkKICAgICAgICBmb3IgZm5hbWUsIGZmbiBpbiBGTE9XUzoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgb2ssIG1zZywgc3RlcHMgPSBmZm4oY2FsbCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgb2ssIG1zZywgc3RlcHMgPSBGYWxzZSwgZiLlvILluLg6e2V9IiwgW10KICAgICAgICAgICAgc3RhZyA9IGNvbCgi4pyTIOmAmui/hyIsIEcpIGlmIG9rIGVsc2UgY29sKCLinJcg5aSx6LSlIiwgUikKICAgICAgICAgICAgY2hhaW4gPSAiIOKGkiAiLmpvaW4oZiJ7bn0oe3N9KSIgZm9yIG4sIHMgaW4gc3RlcHMpCiAgICAgICAgICAgIHByaW50KGYiW3tzdGFnfV0ge2ZuYW1lfSIpCiAgICAgICAgICAgIHByaW50KGYiICAgICAgICB7Y29sKGNoYWluLCBHUlkpfSIpCiAgICAgICAgICAgIGlmIG5vdCBvazogcHJpbnQoZiIgICAgICAgIHtjb2wobXNnLCBZKX0iKQoKICAgIG5fb2sgPSBzdW0oMSBmb3IgciBpbiByZXN1bHRzIGlmIHJbInN0YXR1cyJdID09ICLpgJrov4ciKQogICAgbl9iYWQgPSBzdW0oMSBmb3IgciBpbiByZXN1bHRzIGlmIHJbInN0YXR1cyJdIGluICgi5aSx6LSlIiwgIuacquWunueOsCIsICJFUlJPUiIpKQogICAgbl9za2lwID0gc3VtKDEgZm9yIHIgaW4gcmVzdWx0cyBpZiByWyJzdGF0dXMiXSA9PSAi6Lez6L+HIikKICAgIHByaW50KGYiXG7msYfmgLs6IHtjb2woc3RyKG5fb2spKycg6YCa6L+HJywgRyl9IC8ge2NvbChzdHIobl9iYWQpKycg5pyJ6Zeu6aKYJywgUiBpZiBuX2JhZCBlbHNlIEdSWSl9IC8ge25fc2tpcH0g6Lez6L+HICAo5YWxIHtsZW4ocmVzdWx0cyl9KSIpCiAgICBwcmludCgi5oqK5pW05q616LS05ZueLOWksei0pS/mnKrlrp7njrDnmoTmiJHpgJDkuKrlrprkvY3ooaXjgIIiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+功能自动验证(冒烟测试)—— 龙虾一键跑,真调接口看真实返回,抓"没实现/坏了/装一半"。
+用法:
+    python3 verify_functions.py --base http://127.0.0.1:9002 --token <管理员token>
+  或用账号密码自动登录取 token:
+    python3 verify_functions.py --base http://127.0.0.1:9002 --phone 13800000000 --password admin123
+输出:每个功能 [通过/失败/未实现] + 原因;末尾汇总。贴回来我据此定位。
+仅用 stdlib(urllib),无需装任何东西。
+"""
+import argparse, json, sys, urllib.request, urllib.error
+
+from checks import CHECKS
+
+G, R, Y, GRY, RST = "\033[92m", "\033[91m", "\033[93m", "\033[90m", "\033[0m"
+def col(t, c): return f"{c}{t}{RST}" if sys.stdout.isatty() else t
+
+
+def http(method, url, token=None, body=None, timeout=20):
+    data = None
+    headers = {"Accept": "application/json"}
+    if body is not None:
+        data = json.dumps(body).encode()
+        headers["Content-Type"] = "application/json"
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    req = urllib.request.Request(url, data=data, method=method, headers=headers)
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            raw = r.read()
+            try: j = json.loads(raw)
+            except Exception: j = raw[:200].decode("utf-8", "ignore")
+            return r.status, j
+    except urllib.error.HTTPError as e:
+        raw = e.read()
+        try: j = json.loads(raw)
+        except Exception: j = raw[:200].decode("utf-8", "ignore")
+        return e.code, j
+    except Exception as e:
+        return 0, str(e)
+
+
+def login(base, phone, password):
+    for path in ("/v1/auth/login",):
+        st, j = http("POST", base + path, body={"phone": phone, "password": password})
+        if 200 <= st < 300 and isinstance(j, dict):
+            tok = j.get("token") or j.get("access_token") or (j.get("data") or {}).get("token")
+            if tok: return tok
+    return None
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--base", required=True, help="后端地址,如 http://127.0.0.1:9002")
+    ap.add_argument("--token", default=None)
+    ap.add_argument("--phone", default=None)
+    ap.add_argument("--password", default=None)
+    ap.add_argument("--json", action="store_true")
+    ap.add_argument("--flow", action="store_true", help="额外跑端到端流程(会建测试数据)")
+    a = ap.parse_args()
+    base = a.base.rstrip("/")
+
+    token = a.token
+    if not token and a.phone and a.password:
+        token = login(base, a.phone, a.password)
+        if not token:
+            print(col("登录失败:拿不到 token,请改用 --token 直接传", R)); sys.exit(2)
+
+    results = []
+    for name, method, path, body, judge, need_admin in CHECKS:
+        st, j = http(method, base + path, token=token, body=body)
+        if st == 0:
+            status, msg = "ERROR", f"连不上/异常:{j}"
+        elif st == 404:
+            status, msg = "未实现", "404 端点不存在(功能可能没部署/没实现)"
+        elif st == 401 and need_admin and not token:
+            status, msg = "跳过", "需要管理员 token(未提供)"
+        else:
+            ok, m = judge(st, j)
+            status, msg = ("通过" if ok else "失败"), m
+        results.append({"name": name, "path": path, "http": st, "status": status, "msg": msg})
+
+    if a.json:
+        print(json.dumps(results, ensure_ascii=False, indent=2)); return
+
+    tag = {"通过": col("✓ 通过", G), "失败": col("✗ 失败", R),
+           "未实现": col("✗ 未实现", R), "ERROR": col("✗ 异常", R), "跳过": col("- 跳过", GRY)}
+    for r in results:
+        print(f"[{tag[r['status']]}] {r['name']:<16} {col(r['path'],GRY)}")
+        if r["status"] not in ("通过", "跳过"):
+            print(f"        HTTP {r['http']} · {col(r['msg'], Y)}")
+    if a.flow:
+        from flows import FLOWS
+        print("\n=== 端到端流程 ===")
+        def call(method, path, body=None):
+            return http(method, base + path, token=token, body=body)
+        for fname, ffn in FLOWS:
+            try:
+                ok, msg, steps = ffn(call)
+            except Exception as e:
+                ok, msg, steps = False, f"异常:{e}", []
+            stag = col("✓ 通过", G) if ok else col("✗ 失败", R)
+            chain = " → ".join(f"{n}({s})" for n, s in steps)
+            print(f"[{stag}] {fname}")
+            print(f"        {col(chain, GRY)}")
+            if not ok: print(f"        {col(msg, Y)}")
+
+    n_ok = sum(1 for r in results if r["status"] == "通过")
+    n_bad = sum(1 for r in results if r["status"] in ("失败", "未实现", "ERROR"))
+    n_skip = sum(1 for r in results if r["status"] == "跳过")
+    print(f"\n汇总: {col(str(n_ok)+' 通过', G)} / {col(str(n_bad)+' 有问题', R if n_bad else GRY)} / {n_skip} 跳过  (共 {len(results)})")
+    print("把整段贴回,失败/未实现的我逐个定位补。")
+
+
+if __name__ == "__main__":
+    main()

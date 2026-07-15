@@ -1,1 +1,51 @@
-IiIidGVzdHMvdGVzdF9sNF9hdWRpdC5weSDigJQgTDQg5a6h6K6h5Y2V5rWL44CCIiIiCmltcG9ydCBzeXMsIG9zCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKCmZyb20gc2VjdXJlZ3VhcmQubDRfYXVkaXQgaW1wb3J0IEF1ZGl0TG9nZ2VyLCBBdWRpdEVudHJ5CmZyb20gc2VjdXJlZ3VhcmQudHlwZXMgaW1wb3J0IENvbmZsaWN0LCBSdWxlLCBHYXRlUmVzdWx0LCBUb2tlbgoKCmRlZiB0ZXN0X25vX3BsYWludGV4dF9vbmx5X2hhc2goKToKICAgIGEgPSBBdWRpdExvZ2dlcigpCiAgICBzZWNyZXQgPSAic3VwZXItc2VjcmV0LWlucHV0IgogICAgYS5sb2dfc3RhZ2Uoc3RhZ2U9IkwwIiwgZGVjaXNpb249IlBBU1MiLCByYXdfaW5wdXQ9c2VjcmV0KQogICAgZSA9IGEuZW50cmllc1stMV0KICAgICMg5LiN5b6X5a2Y5Y6f5paH77yb5Y+q5a2YIDY0IOS9jSBzaGEyNTYg5pGY6KaBCiAgICBhc3NlcnQgc2VjcmV0IG5vdCBpbiBlLmlucHV0X2hhc2gKICAgIGFzc2VydCBsZW4oZS5pbnB1dF9oYXNoKSA9PSA2NAoKCmRlZiB0ZXN0X2NvbmZsaWN0X3JlY29yZGVkKCk6CiAgICBhID0gQXVkaXRMb2dnZXIoKQogICAgcjEgPSBSdWxlKCJQUk9EX0lOVEVHUklUWSIsICJpcnJldmVyc2libGUiLCBHYXRlUmVzdWx0KFRva2VuLkJMT0NLKSkKICAgIHIyID0gUnVsZSgiQ09NTV9FVElRVUVUVEUiLCAicXVpZXQgaG91cnMiLCBHYXRlUmVzdWx0KFRva2VuLkJMT0NLKSkKICAgIGMgPSBDb25mbGljdChydWxlcz1bcjEsIHIyXSkKICAgIGEucmVjb3JkX2NvbmZsaWN0KGMsIGMud2lubmVyKCkpCiAgICBhc3NlcnQgbGVuKGEuY29uZmxpY3RzKSA9PSAxCiAgICBhc3NlcnQgYS5jb25mbGljdHNbMF1bIndpbm5lciJdWzBdID09ICJQUk9EX0lOVEVHUklUWSIKCgpkZWYgdGVzdF9yZWRsaW5lX2hpdF9yZWNvcmRlZCgpOgogICAgYSA9IEF1ZGl0TG9nZ2VyKCkKICAgIGEubm90ZV9yZWRsaW5lKCJSLTAxIiwgeyJ0eXBlIjogImRyb3BfdGFibGUifSkKICAgIGFzc2VydCBsZW4oYS5yZWRsaW5lX2hpdHMpID09IDEgYW5kIGEucmVkbGluZV9oaXRzWzBdWyJyZWRsaW5lX2lkIl0gPT0gIlItMDEiCgoKZGVmIHRlc3Rfc3VtbWFyeV9jb3VudHMoKToKICAgIGEgPSBBdWRpdExvZ2dlcigpCiAgICBhLmxvZ19zdGFnZShzdGFnZT0iTDEiLCBkZWNpc2lvbj0iUEFTUyIpCiAgICBhLmxvZ19zdGFnZShzdGFnZT0iTDEiLCBkZWNpc2lvbj0iQkxPQ0siKQogICAgcyA9IGEuc3VtbWFyeSgpCiAgICBhc3NlcnQgc1sidG90YWxfZW50cmllcyJdID09IDIgYW5kIHNbImRlY2lzaW9ucyJdWyJCTE9DSyJdID09IDEKCgpkZWYgdGVzdF9qc29ubF9wZXJzaXN0ZW5jZSh0bXBfcGF0aD1Ob25lKToKICAgIGltcG9ydCB0ZW1wZmlsZSwganNvbiwgb3MgYXMgX29zCiAgICBkID0gdGVtcGZpbGUubWtkdGVtcCgpCiAgICBwYXRoID0gX29zLnBhdGguam9pbihkLCAiYXVkaXQuanNvbmwiKQogICAgYSA9IEF1ZGl0TG9nZ2VyKHBhdGg9cGF0aCkKICAgIGEubG9nX3N0YWdlKHN0YWdlPSJMNCIsIGRlY2lzaW9uPSJQQVNTIiwgbGF0ZW5jeV9tcz00MikKICAgIHdpdGggb3BlbihwYXRoLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGxpbmUgPSBqc29uLmxvYWRzKGYucmVhZGxpbmUoKSkKICAgIGFzc2VydCBsaW5lWyJzdGFnZSJdID09ICJMNCIgYW5kIGxpbmVbImxhdGVuY3lfbXMiXSA9PSA0Mgo=
+"""tests/test_l4_audit.py — L4 审计单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.l4_audit import AuditLogger, AuditEntry
+from secureguard.types import Conflict, Rule, GateResult, Token
+
+
+def test_no_plaintext_only_hash():
+    a = AuditLogger()
+    secret = "super-secret-input"
+    a.log_stage(stage="L0", decision="PASS", raw_input=secret)
+    e = a.entries[-1]
+    # 不得存原文；只存 64 位 sha256 摘要
+    assert secret not in e.input_hash
+    assert len(e.input_hash) == 64
+
+
+def test_conflict_recorded():
+    a = AuditLogger()
+    r1 = Rule("PROD_INTEGRITY", "irreversible", GateResult(Token.BLOCK))
+    r2 = Rule("COMM_ETIQUETTE", "quiet hours", GateResult(Token.BLOCK))
+    c = Conflict(rules=[r1, r2])
+    a.record_conflict(c, c.winner())
+    assert len(a.conflicts) == 1
+    assert a.conflicts[0]["winner"][0] == "PROD_INTEGRITY"
+
+
+def test_redline_hit_recorded():
+    a = AuditLogger()
+    a.note_redline("R-01", {"type": "drop_table"})
+    assert len(a.redline_hits) == 1 and a.redline_hits[0]["redline_id"] == "R-01"
+
+
+def test_summary_counts():
+    a = AuditLogger()
+    a.log_stage(stage="L1", decision="PASS")
+    a.log_stage(stage="L1", decision="BLOCK")
+    s = a.summary()
+    assert s["total_entries"] == 2 and s["decisions"]["BLOCK"] == 1
+
+
+def test_jsonl_persistence(tmp_path=None):
+    import tempfile, json, os as _os
+    d = tempfile.mkdtemp()
+    path = _os.path.join(d, "audit.jsonl")
+    a = AuditLogger(path=path)
+    a.log_stage(stage="L4", decision="PASS", latency_ms=42)
+    with open(path, encoding="utf-8") as f:
+        line = json.loads(f.readline())
+    assert line["stage"] == "L4" and line["latency_ms"] == 42

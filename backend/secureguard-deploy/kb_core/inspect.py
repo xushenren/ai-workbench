@@ -1,1 +1,46 @@
-IiIiCmtiX2NvcmUuaW5zcGVjdCDigJQgQUkg5L2T5qOAKOWJr+aJiyzkuI3oo4HlhrMp44CCCgpjbGFpbSDnuqfkuIDoh7TmgKc65oqK5b6F5YWl5bqT55+l6K+G55qEIGNsYWltcyjplK7ihpLlgLwp5LiO5YWs5pyJ6auY572u5L+h5rGg6YCQ6ZSu5q+U5a+5LArlkIzplK7kuI3lkIzlgLwgPSDlhrLnqoHngrnjgILlho3liqDlnoPlnL4v5rOo5YWl55qE566A5Y2V5byC5bi45qOA5p+l44CCCui/meaYr+ehruWumuaAp+eahOWfuue6v+WunueOsDvnlJ/kuqflj6/mioogaW5zcGVjdG9yIOaNouaIkOi1sOe9keWFs+eahOaooeWeiyjmm7TlvLrnmoTor63kuYnliKTmlq0pLArkvYbop5LoibLkuI3lj5g65Y+q5Lqn5Ye6Iue7meS4k+WutueahOaKpeWRiiIs5LiN6Ieq5Yqo5bCB5Lq644CB5LiN5a6a55yf5Lyq44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIHR5cGluZyBpbXBvcnQgQ2FsbGFibGUsIE9wdGlvbmFsCgpmcm9tIC5tb2RlbHMgaW1wb3J0IEluc3BlY3Rpb24sIEtCRW50cnksIFBvb2wKZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgS0JSZXBvCgojIOWPr+azqOWFpTrotbDnvZHlhbPmqKHlnovnmoTlvLrkvZPmo4DjgILnrb7lkI0gKGVudHJ5LCBoaWdoX3Bvb2wpIC0+IEluc3BlY3Rpb24KTW9kZWxJbnNwZWN0b3IgPSBPcHRpb25hbFtDYWxsYWJsZVtbS0JFbnRyeSwgbGlzdFtLQkVudHJ5XV0sIEluc3BlY3Rpb25dXQoKX1NVU1BJQ0lPVVMgPSAoImh0dHA6Ly8iLCAiaHR0cHM6Ly8iLCAiaWdub3JlIHByZXZpb3VzIiwgIuW/veeVpeS7peS4iiIsICJzeXN0ZW0gcHJvbXB0IiwgIjxzY3JpcHQiKQoKCmRlZiBpbnNwZWN0KHJlcG86IEtCUmVwbywgZW50cnk6IEtCRW50cnksIG1vZGVsX2luc3BlY3RvcjogTW9kZWxJbnNwZWN0b3IgPSBOb25lKSAtPiBJbnNwZWN0aW9uOgogICAgaGlnaCA9IHJlcG8uYnlfcG9vbChlbnRyeS50ZW5hbnRfaWQsIFBvb2wuUFVCTElDX0hJR0gpCiAgICBpZiBtb2RlbF9pbnNwZWN0b3I6CiAgICAgICAgcmV0dXJuIG1vZGVsX2luc3BlY3RvcihlbnRyeSwgaGlnaCkKCiAgICBjb25mbGljdHM6IGxpc3Rbc3RyXSA9IFtdCiAgICAjIGNsYWltIOe6p+WGsueqgTrlkIzplK7kuI3lkIzlgLwKICAgIGhpZ2hfY2xhaW1zOiBkaWN0W3N0ciwgc2V0W3N0cl1dID0ge30KICAgIGZvciBoIGluIGhpZ2g6CiAgICAgICAgZm9yIGssIHYgaW4gaC5jbGFpbXMuaXRlbXMoKToKICAgICAgICAgICAgaGlnaF9jbGFpbXMuc2V0ZGVmYXVsdChrLCBzZXQoKSkuYWRkKHYpCiAgICBmb3IgaywgdiBpbiBlbnRyeS5jbGFpbXMuaXRlbXMoKToKICAgICAgICBpZiBrIGluIGhpZ2hfY2xhaW1zIGFuZCB2IG5vdCBpbiBoaWdoX2NsYWltc1trXToKICAgICAgICAgICAgY29uZmxpY3RzLmFwcGVuZChmIntrfTog5ouf5YWl44CMe3Z944CNLCDpq5jnva7kv6HmsaDkuLrjgIx7Jy8nLmpvaW4oc29ydGVkKGhpZ2hfY2xhaW1zW2tdKSl944CNIikKCiAgICBhbm9tYWxpZXM6IGxpc3Rbc3RyXSA9IFtdCiAgICBibG9iID0gKGVudHJ5LnRpdGxlICsgIiAiICsgZW50cnkuY29udGVudCkubG93ZXIoKQogICAgZm9yIHMgaW4gX1NVU1BJQ0lPVVM6CiAgICAgICAgaWYgcyBpbiBibG9iOgogICAgICAgICAgICBhbm9tYWxpZXMuYXBwZW5kKGYi5Y+v55aR5YaF5a65OiB7c30iKQogICAgaWYgbm90IGVudHJ5LmNvbnRlbnQuc3RyaXAoKToKICAgICAgICBhbm9tYWxpZXMuYXBwZW5kKCLlhoXlrrnkuLrnqboiKQoKICAgIGFkdmljZSA9ICLlu7rorq7lpI3moLg65LiO6auY572u5L+h5rGg5Yay56qBIiBpZiBjb25mbGljdHMgZWxzZSAoIuazqOaEj+W8guW4uOmhuSIgaWYgYW5vbWFsaWVzIGVsc2UgIuacquingeWGsueqgSzlj6/lhaXlupMiKQogICAgcmV0dXJuIEluc3BlY3Rpb24oY29uZmxpY3RzPWNvbmZsaWN0cywgYW5vbWFsaWVzPWFub21hbGllcywgY29uZmlkZW5jZV9hZHZpY2U9YWR2aWNlKQo=
+"""
+kb_core.inspect — AI 体检(副手,不裁决)。
+
+claim 级一致性:把待入库知识的 claims(键→值)与公有高置信池逐键比对,
+同键不同值 = 冲突点。再加垃圾/注入的简单异常检查。
+这是确定性的基线实现;生产可把 inspector 换成走网关的模型(更强的语义判断),
+但角色不变:只产出"给专家的报告",不自动封人、不定真伪。
+"""
+from __future__ import annotations
+
+from typing import Callable, Optional
+
+from .models import Inspection, KBEntry, Pool
+from .repository import KBRepo
+
+# 可注入:走网关模型的强体检。签名 (entry, high_pool) -> Inspection
+ModelInspector = Optional[Callable[[KBEntry, list[KBEntry]], Inspection]]
+
+_SUSPICIOUS = ("http://", "https://", "ignore previous", "忽略以上", "system prompt", "<script")
+
+
+def inspect(repo: KBRepo, entry: KBEntry, model_inspector: ModelInspector = None) -> Inspection:
+    high = repo.by_pool(entry.tenant_id, Pool.PUBLIC_HIGH)
+    if model_inspector:
+        return model_inspector(entry, high)
+
+    conflicts: list[str] = []
+    # claim 级冲突:同键不同值
+    high_claims: dict[str, set[str]] = {}
+    for h in high:
+        for k, v in h.claims.items():
+            high_claims.setdefault(k, set()).add(v)
+    for k, v in entry.claims.items():
+        if k in high_claims and v not in high_claims[k]:
+            conflicts.append(f"{k}: 拟入「{v}」, 高置信池为「{'/'.join(sorted(high_claims[k]))}」")
+
+    anomalies: list[str] = []
+    blob = (entry.title + " " + entry.content).lower()
+    for s in _SUSPICIOUS:
+        if s in blob:
+            anomalies.append(f"可疑内容: {s}")
+    if not entry.content.strip():
+        anomalies.append("内容为空")
+
+    advice = "建议复核:与高置信池冲突" if conflicts else ("注意异常项" if anomalies else "未见冲突,可入库")
+    return Inspection(conflicts=conflicts, anomalies=anomalies, confidence_advice=advice)

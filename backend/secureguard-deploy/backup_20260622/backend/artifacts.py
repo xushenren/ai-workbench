@@ -1,1 +1,93 @@
-IiIiYmFja2VuZC5hcnRpZmFjdHMg4oCUIOS7juaooeWei+i+k+WHuuaPkOWPluS7o+eggeWdl++8jOeUn+aIkCBBcnRpZmFjdO+8iOmXrumimDPvvInjgIIKCkFydGlmYWN0ID0g5Y+v5Zyo5YmN56uvIuW3peS9nOWMuuS+p+agjyLlsZXnpLrnmoTmlofku7bljaHniYfvvIjmlofku7blkI3jgIHor63oqIDjgIHlhoXlrrnvvInjgIIK5aSa5paH5Lu25Y+v55Sx5YmN56uvIEpTWmlwIOaJk+WMheS4i+i9ve+8m1JFQURNRSDnlLEgYXJ0aWZhY3Qg5YiX6KGo5ou85oiQ44CCCue6ryBzdGRsaWLvvIzlj6/nprvnur/mtYvjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCByZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QKCiMg6K+t6KiAIOKGkiAo5paH5Lu25omp5bGVLCDlm77moIcp44CC5YmN56uv5o2u5q2k5pi+56S644CCCl9MQU5HOiBEaWN0W3N0ciwgRGljdFtzdHIsIHN0cl1dID0gewogICAgInB5dGhvbiI6IHsiZXh0IjogInB5IiwgImljb24iOiAi8J+QjSJ9LAogICAgInR5cGVzY3JpcHQiOiB7ImV4dCI6ICJ0cyIsICJpY29uIjogIvCflLcifSwKICAgICJqYXZhc2NyaXB0IjogeyJleHQiOiAianMiLCAiaWNvbiI6ICLwn5+oIn0sCiAgICAidHN4IjogeyJleHQiOiAidHN4IiwgImljb24iOiAi8J+UtyJ9LAogICAgImh0bWwiOiB7ImV4dCI6ICJodG1sIiwgImljb24iOiAi8J+MkCJ9LAogICAgImNzcyI6IHsiZXh0IjogImNzcyIsICJpY29uIjogIvCfjqgifSwKICAgICJqc29uIjogeyJleHQiOiAianNvbiIsICJpY29uIjogIvCfk4sifSwKICAgICJtYXJrZG93biI6IHsiZXh0IjogIm1kIiwgImljb24iOiAi8J+TnSJ9LAogICAgImJhc2giOiB7ImV4dCI6ICJzaCIsICJpY29uIjogIvCfkrsifSwKICAgICJzcWwiOiB7ImV4dCI6ICJzcWwiLCAiaWNvbiI6ICLwn5eD77iPIn0sCn0KCl9GRU5DRSA9IHJlLmNvbXBpbGUociJgYGAoW2EtekEtWjAtOSsjXSopXG4oLio/KWBgYCIsIHJlLkRPVEFMTCkKCgpAZGF0YWNsYXNzCmNsYXNzIEFydGlmYWN0OgogICAgZmlsZW5hbWU6IHN0cgogICAgbGFuZ3VhZ2U6IHN0cgogICAgY29udGVudDogc3RyCiAgICBpY29uOiBzdHIgPSAi8J+ThCIKICAgIHJ1bm5hYmxlOiBib29sID0gRmFsc2UgICMgcHl0aG9uL2h0bWwg5Y+v5Zyo5bel5L2c5Yy66L+Q6KGML+mihOiniAoKICAgIGRlZiB0b19ldmVudChzZWxmKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4geyJldmVudCI6ICJhcnRpZmFjdCIsICJmaWxlbmFtZSI6IHNlbGYuZmlsZW5hbWUsICJsYW5ndWFnZSI6IHNlbGYubGFuZ3VhZ2UsCiAgICAgICAgICAgICAgICAiY29udGVudCI6IHNlbGYuY29udGVudCwgImljb24iOiBzZWxmLmljb24sICJydW5uYWJsZSI6IHNlbGYucnVubmFibGV9CgoKZGVmIGV4dHJhY3RfYXJ0aWZhY3RzKHRleHQ6IHN0cikgLT4gTGlzdFtBcnRpZmFjdF06CiAgICAiIiLku47kuIDmrrXmlofmnKzph4zmir3lj5bmiYDmnIkgYGBgbGFuZyBmZW5jZWQg5Luj56CB5Z2X77yM55Sf5oiQIEFydGlmYWN044CCIiIiCiAgICBvdXQ6IExpc3RbQXJ0aWZhY3RdID0gW10KICAgIHNlZW4gPSAwCiAgICBmb3IgbSBpbiBfRkVOQ0UuZmluZGl0ZXIodGV4dCk6CiAgICAgICAgbGFuZyA9IChtLmdyb3VwKDEpIG9yICJ0ZXh0IikubG93ZXIoKQogICAgICAgIGNvZGUgPSBtLmdyb3VwKDIpLnJzdHJpcCgiXG4iKQogICAgICAgIGlmIG5vdCBjb2RlLnN0cmlwKCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbWV0YSA9IF9MQU5HLmdldChsYW5nLCB7ImV4dCI6ICJ0eHQiLCAiaWNvbiI6ICLwn5OEIn0pCiAgICAgICAgc2VlbiArPSAxCiAgICAgICAgb3V0LmFwcGVuZChBcnRpZmFjdCgKICAgICAgICAgICAgZmlsZW5hbWU9ZiJzbmlwcGV0X3tzZWVufS57bWV0YVsnZXh0J119IiwKICAgICAgICAgICAgbGFuZ3VhZ2U9bGFuZywKICAgICAgICAgICAgY29udGVudD1jb2RlLAogICAgICAgICAgICBpY29uPW1ldGFbImljb24iXSwKICAgICAgICAgICAgcnVubmFibGU9bGFuZyBpbiAoInB5dGhvbiIsICJodG1sIiwgImphdmFzY3JpcHQiKSwKICAgICAgICApKQogICAgcmV0dXJuIG91dAoKCmRlZiBmaXJzdF9weXRob24odGV4dDogc3RyKSAtPiBzdHI6CiAgICAiIiLlj5bnrKzkuIDmrrUgUHl0aG9uIOS7o+egge+8iOS+myBWRVJJRlkg5q2l5ZaC5rKZ566x5omn6KGM77yJ44CC5peg5YiZ56m65Liy44CCIiIiCiAgICBmb3IgYSBpbiBleHRyYWN0X2FydGlmYWN0cyh0ZXh0KToKICAgICAgICBpZiBhLmxhbmd1YWdlID09ICJweXRob24iOgogICAgICAgICAgICByZXR1cm4gYS5jb250ZW50CiAgICByZXR1cm4gIiIKCgpkZWYgYnVpbGRfcmVhZG1lKGFydGlmYWN0czogTGlzdFtBcnRpZmFjdF0pIC0+IEFydGlmYWN0OgogICAgIiIi5oqKIGFydGlmYWN0IOWIl+ihqOaLvOaIkCBSRUFETUUubWTvvIjkvZzkuLrmnIDlkI7kuIDkuKogYXJ0aWZhY3TvvIzkvr/kuo7miZPljIXvvInjgIIiIiIKICAgIGxpbmVzID0gWyIjIOS6pOS7mOaWh+S7tua4heWNlVxuIl0KICAgIGZvciBhIGluIGFydGlmYWN0czoKICAgICAgICBsaW5lcy5hcHBlbmQoZiItIHthLmljb259IGB7YS5maWxlbmFtZX1gICh7YS5sYW5ndWFnZX0pIikKICAgIHJldHVybiBBcnRpZmFjdChmaWxlbmFtZT0iUkVBRE1FLm1kIiwgbGFuZ3VhZ2U9Im1hcmtkb3duIiwgY29udGVudD0iXG4iLmpvaW4obGluZXMpLCBpY29uPSLwn5OdIikKCgpkZWYgZm9ybWF0X3ZlcmlmeShyZXN1bHQ6IERpY3Rbc3RyLCBBbnldKSAtPiBzdHI6CiAgICAiIiLmiormspnnrrHmiafooYznu5PmnpzmoLzlvI/ljJbmiJAgVkVSSUZZIOatpeeahCBkaXNwbGF5IOaWh+acrOOAgiIiIgogICAgaWYgbm90IHJlc3VsdC5nZXQoImF2YWlsYWJsZSIpOgogICAgICAgIHJldHVybiAi5pyq5omn6KGM6aqM6K+B77yI5rKZ566x5pyq6YOo572y77yJ44CC5bqU6LeR55qE5rWL6K+V77ya6L6T5YWl6L6555WMIC8g5byC5bi46Lev5b6EIC8g6aKE5pyf6L6T5Ye644CCIgogICAgaWYgcmVzdWx0LmdldCgidGltZWRfb3V0Iik6CiAgICAgICAgcmV0dXJuIGYi4p2MIOaJp+ihjOi2heaXtu+8iD57cmVzdWx0LmdldCgnZXJyb3InLCAnJykucmVwbGFjZSgndGltZW91dF8nLCAnJyl977yJIgogICAgaWYgcmVzdWx0LmdldCgiZXJyb3IiKToKICAgICAgICByZXR1cm4gZiLimqDvuI8g5omn6KGM5byC5bi477yae3Jlc3VsdFsnZXJyb3InXX0iCiAgICBvayA9IHJlc3VsdC5nZXQoImV4aXRfY29kZSIpID09IDAKICAgIGR1ciA9IHJlc3VsdC5nZXQoImR1cmF0aW9uX21zIiwgMCkgLyAxMDAwCiAgICBoZWFkID0gZiJ7J+KchSDpgJrov4cnIGlmIG9rIGVsc2UgJ+KdjCDlpLHotKUnfSAoe2R1cjouMWZ9cykiCiAgICBib2R5ID0gcmVzdWx0LmdldCgic3Rkb3V0IikgaWYgb2sgZWxzZSAocmVzdWx0LmdldCgic3RkZXJyIikgb3IgcmVzdWx0LmdldCgic3Rkb3V0IikpCiAgICBib2R5ID0gKGJvZHkgb3IgIiIpLnN0cmlwKCkKICAgIHJldHVybiBmIntoZWFkfVxuLS0tIHsnc3Rkb3V0JyBpZiBvayBlbHNlICdzdGRlcnInfSAtLS1cbntib2R5fSIgaWYgYm9keSBlbHNlIGhlYWQK
+"""backend.artifacts — 从模型输出提取代码块，生成 Artifact（问题3）。
+
+Artifact = 可在前端"工作区侧栏"展示的文件卡片（文件名、语言、内容）。
+多文件可由前端 JSZip 打包下载；README 由 artifact 列表拼成。
+纯 stdlib，可离线测。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from typing import Any, Dict, List
+
+# 语言 → (文件扩展, 图标)。前端据此显示。
+_LANG: Dict[str, Dict[str, str]] = {
+    "python": {"ext": "py", "icon": "🐍"},
+    "typescript": {"ext": "ts", "icon": "🔷"},
+    "javascript": {"ext": "js", "icon": "🟨"},
+    "tsx": {"ext": "tsx", "icon": "🔷"},
+    "html": {"ext": "html", "icon": "🌐"},
+    "css": {"ext": "css", "icon": "🎨"},
+    "json": {"ext": "json", "icon": "📋"},
+    "markdown": {"ext": "md", "icon": "📝"},
+    "bash": {"ext": "sh", "icon": "💻"},
+    "sql": {"ext": "sql", "icon": "🗃️"},
+}
+
+_FENCE = re.compile(r"```([a-zA-Z0-9+#]*)\n(.*?)```", re.DOTALL)
+
+
+@dataclass
+class Artifact:
+    filename: str
+    language: str
+    content: str
+    icon: str = "📄"
+    runnable: bool = False  # python/html 可在工作区运行/预览
+
+    def to_event(self) -> Dict[str, Any]:
+        return {"event": "artifact", "filename": self.filename, "language": self.language,
+                "content": self.content, "icon": self.icon, "runnable": self.runnable}
+
+
+def extract_artifacts(text: str) -> List[Artifact]:
+    """从一段文本里抽取所有 ```lang fenced 代码块，生成 Artifact。"""
+    out: List[Artifact] = []
+    seen = 0
+    for m in _FENCE.finditer(text):
+        lang = (m.group(1) or "text").lower()
+        code = m.group(2).rstrip("\n")
+        if not code.strip():
+            continue
+        meta = _LANG.get(lang, {"ext": "txt", "icon": "📄"})
+        seen += 1
+        out.append(Artifact(
+            filename=f"snippet_{seen}.{meta['ext']}",
+            language=lang,
+            content=code,
+            icon=meta["icon"],
+            runnable=lang in ("python", "html", "javascript"),
+        ))
+    return out
+
+
+def first_python(text: str) -> str:
+    """取第一段 Python 代码（供 VERIFY 步喂沙箱执行）。无则空串。"""
+    for a in extract_artifacts(text):
+        if a.language == "python":
+            return a.content
+    return ""
+
+
+def build_readme(artifacts: List[Artifact]) -> Artifact:
+    """把 artifact 列表拼成 README.md（作为最后一个 artifact，便于打包）。"""
+    lines = ["# 交付文件清单\n"]
+    for a in artifacts:
+        lines.append(f"- {a.icon} `{a.filename}` ({a.language})")
+    return Artifact(filename="README.md", language="markdown", content="\n".join(lines), icon="📝")
+
+
+def format_verify(result: Dict[str, Any]) -> str:
+    """把沙箱执行结果格式化成 VERIFY 步的 display 文本。"""
+    if not result.get("available"):
+        return "未执行验证（沙箱未部署）。应跑的测试：输入边界 / 异常路径 / 预期输出。"
+    if result.get("timed_out"):
+        return f"❌ 执行超时（>{result.get('error', '').replace('timeout_', '')}）"
+    if result.get("error"):
+        return f"⚠️ 执行异常：{result['error']}"
+    ok = result.get("exit_code") == 0
+    dur = result.get("duration_ms", 0) / 1000
+    head = f"{'✅ 通过' if ok else '❌ 失败'} ({dur:.1f}s)"
+    body = result.get("stdout") if ok else (result.get("stderr") or result.get("stdout"))
+    body = (body or "").strip()
+    return f"{head}\n--- {'stdout' if ok else 'stderr'} ---\n{body}" if body else head

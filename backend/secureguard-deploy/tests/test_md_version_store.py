@@ -1,1 +1,152 @@
-IiIidGVzdHMvdGVzdF9tZF92ZXJzaW9uX3N0b3JlLnB5IOKAlCDmgJ3ogIMgTUQg54mI5pys566h55CGICsg5Zue5rua44CCIiIiCmltcG9ydCBzeXMsIG9zLCB0ZW1wZmlsZSwgc2h1dGlsCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKZnJvbSBiYWNrZW5kLm1kX3ZlcnNpb25fc3RvcmUgaW1wb3J0IE1kVmVyc2lvblN0b3JlCgoKZGVmIF9zZXR1cCgpOgogICAgIiIi5Li05pe2IHRoaW5raW5nIOebruW9lSArIOS4pOS4qiBtZCDmlofku7bjgIIiIiIKICAgIGQgPSB0ZW1wZmlsZS5ta2R0ZW1wKCkKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZCwgIm1haW4ubWQiKSwgInciKSBhcyBmOgogICAgICAgIGYud3JpdGUoIiMgbWFpbiB2MVxu5Y6f5aeL5Li75oCd6ICD5rOVIikKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZCwgImRvbWFpbi1zb2Z0d2FyZS5tZCIpLCAidyIpIGFzIGY6CiAgICAgICAgZi53cml0ZSgiIyBzb2Z0d2FyZSB2MVxu5Y6f5aeL5Luj56CB5rOVIikKICAgIHJldHVybiBkCgoKZGVmIHRlc3Rfc2VlZF9mcm9tX2ZpbGVzKCk6CiAgICBkID0gX3NldHVwKCkKICAgIHRyeToKICAgICAgICBzID0gTWRWZXJzaW9uU3RvcmUodGhpbmtpbmdfZGlyPWQpCiAgICAgICAgcy5pbml0X2Zyb21fZmlsZXMoWyJtYWluIiwgImRvbWFpbi1zb2Z0d2FyZSJdKQogICAgICAgIGFzc2VydCBzZXQocy5saXN0X21kX25hbWVzKCkpID09IHsibWFpbiIsICJkb21haW4tc29mdHdhcmUifQogICAgICAgIGxpdmUgPSBzLmdldF9saXZlKCJtYWluIikKICAgICAgICBhc3NlcnQgbGl2ZSBhbmQgbGl2ZVsic3RhdHVzIl0gPT0gImxpdmUiIGFuZCBsaXZlWyJ2ZXJzaW9uIl0gPT0gMQogICAgICAgIGFzc2VydCAi5Y6f5aeL5Li75oCd6ICD5rOVIiBpbiBsaXZlWyJjb250ZW50Il0KICAgIGZpbmFsbHk6CiAgICAgICAgc2h1dGlsLnJtdHJlZShkKQoKCmRlZiB0ZXN0X3NhdmVfbmV3X3ZlcnNpb25faXNfY2FuZGlkYXRlKCk6CiAgICBkID0gX3NldHVwKCkKICAgIHRyeToKICAgICAgICBzID0gTWRWZXJzaW9uU3RvcmUodGhpbmtpbmdfZGlyPWQpCiAgICAgICAgcy5pbml0X2Zyb21fZmlsZXMoWyJtYWluIl0pCiAgICAgICAgdjIgPSBzLnNhdmVfdmVyc2lvbigibWFpbiIsICIjIG1haW4gdjJcbuaUuei/m+eJiCIsIG9yaWdpbj0ibWFudWFsIiwgbm90ZT0i5omL5Yqo5pS56L+bIikKICAgICAgICBhc3NlcnQgdjJbInN0YXR1cyJdID09ICJjYW5kaWRhdGUiIGFuZCB2MlsidmVyc2lvbiJdID09IDIKICAgICAgICAjIOWtmOS6huWAmemAieS9hui/mOayoeS4iue6vyDihpIgbGl2ZSDku43mmK8gdjEKICAgICAgICBhc3NlcnQgcy5nZXRfbGl2ZSgibWFpbiIpWyJ2ZXJzaW9uIl0gPT0gMQogICAgZmluYWxseToKICAgICAgICBzaHV0aWwucm10cmVlKGQpCgoKZGVmIHRlc3Rfc2V0X2xpdmVfd3JpdGVzX2ZpbGUoKToKICAgICIiIuiuvuS4uuS4iue6vyA9IOWGmeWbniAubWQg5paH5Lu277yI54Ot5Yqg6L295Y2z5pe255Sf5pWI55qE5YWz6ZSu77yJ44CCIiIiCiAgICBkID0gX3NldHVwKCkKICAgIHRyeToKICAgICAgICBzID0gTWRWZXJzaW9uU3RvcmUodGhpbmtpbmdfZGlyPWQpCiAgICAgICAgcy5pbml0X2Zyb21fZmlsZXMoWyJtYWluIl0pCiAgICAgICAgdjIgPSBzLnNhdmVfdmVyc2lvbigibWFpbiIsICIjIG1haW4gdjJcbuWFqOaWsOWGheWuuVhZWiIsIG9yaWdpbj0ibWFudWFsIikKICAgICAgICBzLnNldF9saXZlKHYyWyJpZCJdKQogICAgICAgICMg5paH5Lu25YaF5a655bqU5bey6KKr5YaZ5oiQIHYyCiAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihkLCAibWFpbi5tZCIpKSBhcyBmOgogICAgICAgICAgICBhc3NlcnQgIuWFqOaWsOWGheWuuVhZWiIgaW4gZi5yZWFkKCkKICAgICAgICAjIGxpdmUg5oyH6ZKI5oyH5ZCRIHYy77yM5pen54mI5b2S5qGjCiAgICAgICAgYXNzZXJ0IHMuZ2V0X2xpdmUoIm1haW4iKVsidmVyc2lvbiJdID09IDIKICAgICAgICB2ZXJzaW9ucyA9IHMubGlzdF92ZXJzaW9ucygibWFpbiIpCiAgICAgICAgdjEgPSBuZXh0KHYgZm9yIHYgaW4gdmVyc2lvbnMgaWYgdlsidmVyc2lvbiJdID09IDEpCiAgICAgICAgYXNzZXJ0IHYxWyJzdGF0dXMiXSA9PSAiYXJjaGl2ZWQiCiAgICBmaW5hbGx5OgogICAgICAgIHNodXRpbC5ybXRyZWUoZCkKCgpkZWYgdGVzdF9yb2xsYmFja193cml0ZXNfb2xkX2NvbnRlbnQoKToKICAgICIiIuWbnua7miA9IOaKiuaXp+eJiOWGmeWbnuaWh+S7tuOAgiIiIgogICAgZCA9IF9zZXR1cCgpCiAgICB0cnk6CiAgICAgICAgcyA9IE1kVmVyc2lvblN0b3JlKHRoaW5raW5nX2Rpcj1kKQogICAgICAgIHMuaW5pdF9mcm9tX2ZpbGVzKFsibWFpbiJdKQogICAgICAgIHYxX2lkID0gcy5nZXRfbGl2ZSgibWFpbiIpWyJpZCJdCiAgICAgICAgdjIgPSBzLnNhdmVfdmVyc2lvbigibWFpbiIsICIjIG1haW4gdjJcbuaWsOeJiCIsIG9yaWdpbj0ibWFudWFsIikKICAgICAgICBzLnNldF9saXZlKHYyWyJpZCJdKQogICAgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZCwgIm1haW4ubWQiKSkgYXMgZjoKICAgICAgICAgICAgYXNzZXJ0ICLmlrDniYgiIGluIGYucmVhZCgpCiAgICAgICAgIyDlm57mu5rliLAgdjEKICAgICAgICBzLnJvbGxiYWNrKCJtYWluIiwgdjFfaWQpCiAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihkLCAibWFpbi5tZCIpKSBhcyBmOgogICAgICAgICAgICBjb250ZW50ID0gZi5yZWFkKCkKICAgICAgICAgICAgYXNzZXJ0ICLljp/lp4vkuLvmgJ3ogIPms5UiIGluIGNvbnRlbnQgYW5kICLmlrDniYgiIG5vdCBpbiBjb250ZW50CiAgICAgICAgYXNzZXJ0IHMuZ2V0X2xpdmUoIm1haW4iKVsidmVyc2lvbiJdID09IDEKICAgIGZpbmFsbHk6CiAgICAgICAgc2h1dGlsLnJtdHJlZShkKQoKCmRlZiB0ZXN0X2RpZmYoKToKICAgIGQgPSBfc2V0dXAoKQogICAgdHJ5OgogICAgICAgIHMgPSBNZFZlcnNpb25TdG9yZSh0aGlua2luZ19kaXI9ZCkKICAgICAgICBzLmluaXRfZnJvbV9maWxlcyhbIm1haW4iXSkKICAgICAgICB2MV9pZCA9IHMuZ2V0X2xpdmUoIm1haW4iKVsiaWQiXQogICAgICAgIHYyID0gcy5zYXZlX3ZlcnNpb24oIm1haW4iLCAiIyBtYWluIHYxXG7ljp/lp4vkuLvmgJ3ogIPms5VcbuaWsOWinuS4gOihjCIsIG9yaWdpbj0ibWFudWFsIikKICAgICAgICByZXN1bHQgPSBzLmRpZmYodjFfaWQsIHYyWyJpZCJdKQogICAgICAgIGFzc2VydCByZXN1bHRbImFkZGVkIl0gPj0gMQogICAgICAgIGFzc2VydCAi5paw5aKe5LiA6KGMIiBpbiByZXN1bHRbImRpZmYiXQogICAgZmluYWxseToKICAgICAgICBzaHV0aWwucm10cmVlKGQpCgoKZGVmIHRlc3RfdmVyc2lvbl9saW5lX29yZGVyaW5nX2FuZF9saXZlX2ZsYWcoKToKICAgIGQgPSBfc2V0dXAoKQogICAgdHJ5OgogICAgICAgIHMgPSBNZFZlcnNpb25TdG9yZSh0aGlua2luZ19kaXI9ZCkKICAgICAgICBzLmluaXRfZnJvbV9maWxlcyhbIm1haW4iXSkKICAgICAgICB2MiA9IHMuc2F2ZV92ZXJzaW9uKCJtYWluIiwgInYyIiwgb3JpZ2luPSJtYW51YWwiKQogICAgICAgIHYzID0gcy5zYXZlX3ZlcnNpb24oIm1haW4iLCAidjMiLCBvcmlnaW49ImV2b2x2ZWQiLCBwYXJlbnQ9djJbImlkIl0pCiAgICAgICAgcy5zZXRfbGl2ZSh2M1siaWQiXSkKICAgICAgICB2ZXJzaW9ucyA9IHMubGlzdF92ZXJzaW9ucygibWFpbiIpCiAgICAgICAgIyDpmY3luo/mjpLliJfvvIx2MyDlnKjmnIDliY3kuJQgaXNfbGl2ZQogICAgICAgIGFzc2VydCB2ZXJzaW9uc1swXVsidmVyc2lvbiJdID09IDMgYW5kIHZlcnNpb25zWzBdWyJpc19saXZlIl0gaXMgVHJ1ZQogICAgICAgIGFzc2VydCB2ZXJzaW9uc1swXVsib3JpZ2luIl0gPT0gImV2b2x2ZWQiIGFuZCB2ZXJzaW9uc1swXVsicGFyZW50Il0gPT0gdjJbImlkIl0KICAgIGZpbmFsbHk6CiAgICAgICAgc2h1dGlsLnJtdHJlZShkKQoKCmRlZiB0ZXN0X3BlcnNpc3RlbmNlX2Fjcm9zc19yZWxvYWQoKToKICAgICIiImpzb24g5oyB5LmF5YyW77ya6YeN5bu6IHN0b3JlIOWQjueJiOacrOS7jeWcqOOAgiIiIgogICAgZCA9IF9zZXR1cCgpCiAgICBkYiA9IG9zLnBhdGguam9pbihkLCAiZGF0YSIsICJtZHZlci5qc29uIikKICAgIHRyeToKICAgICAgICBzMSA9IE1kVmVyc2lvblN0b3JlKHRoaW5raW5nX2Rpcj1kLCBkYl9wYXRoPWRiKQogICAgICAgIHMxLmluaXRfZnJvbV9maWxlcyhbIm1haW4iXSkKICAgICAgICBzMS5zYXZlX3ZlcnNpb24oIm1haW4iLCAidjLmjIHkuYXljJYiLCBvcmlnaW49Im1hbnVhbCIpCiAgICAgICAgIyDph43lu7oKICAgICAgICBzMiA9IE1kVmVyc2lvblN0b3JlKHRoaW5raW5nX2Rpcj1kLCBkYl9wYXRoPWRiKQogICAgICAgIGFzc2VydCBsZW4oczIubGlzdF92ZXJzaW9ucygibWFpbiIpKSA9PSAyCiAgICBmaW5hbGx5OgogICAgICAgIHNodXRpbC5ybXRyZWUoZCkKCgpkZWYgdGVzdF9hdWRpdF9yZWNvcmRlZCgpOgogICAgZCA9IF9zZXR1cCgpCiAgICB0cnk6CiAgICAgICAgcyA9IE1kVmVyc2lvblN0b3JlKHRoaW5raW5nX2Rpcj1kKQogICAgICAgIHMuaW5pdF9mcm9tX2ZpbGVzKFsibWFpbiJdKQogICAgICAgIHYyID0gcy5zYXZlX3ZlcnNpb24oIm1haW4iLCAidjIiLCBvcmlnaW49Im1hbnVhbCIpCiAgICAgICAgcy5zZXRfbGl2ZSh2MlsiaWQiXSkKICAgICAgICBhY3Rpb25zID0gW2FbImFjdGlvbiJdIGZvciBhIGluIHMuYXVkaXRfbG9nKCJtYWluIildCiAgICAgICAgYXNzZXJ0ICJzZWVkIiBpbiBhY3Rpb25zIGFuZCAic2F2ZV92ZXJzaW9uIiBpbiBhY3Rpb25zIGFuZCAic2V0X2xpdmUiIGluIGFjdGlvbnMKICAgIGZpbmFsbHk6CiAgICAgICAgc2h1dGlsLnJtdHJlZShkKQoKCmRlZiB0ZXN0X2FwcHN0YXRlX2ludGVncmF0aW9uKCk6CiAgICAiIiJBcHBTdGF0ZSDpm4bmiJDvvJptZF92ZXJzaW9ucyDoh6rliqjmkq3np43njrDmnIkgdGhpbmtpbmcgTUTjgIIiIiIKICAgIGltcG9ydCBzeXMsIG9zCiAgICBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCiAgICBmcm9tIGJhY2tlbmQuc3RhdGUgaW1wb3J0IEFwcFN0YXRlCiAgICBzdCA9IEFwcFN0YXRlKCkKICAgIG5hbWVzID0gc3QubWRfdmVyc2lvbnMubGlzdF9tZF9uYW1lcygpCiAgICAjIOeOsOaciSBjb25maWcvdGhpbmtpbmcg6Iez5bCR5pyJIG1haW4g5ZKMIGRvbWFpbi1zb2Z0d2FyZQogICAgYXNzZXJ0ICJtYWluIiBpbiBuYW1lcwogICAgbGl2ZSA9IHN0Lm1kX3ZlcnNpb25zLmdldF9saXZlKCJtYWluIikKICAgIGFzc2VydCBsaXZlIGlzIG5vdCBOb25lIGFuZCBsaXZlWyJzdGF0dXMiXSA9PSAibGl2ZSIK
+"""tests/test_md_version_store.py — 思考 MD 版本管理 + 回滚。"""
+import sys, os, tempfile, shutil
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.md_version_store import MdVersionStore
+
+
+def _setup():
+    """临时 thinking 目录 + 两个 md 文件。"""
+    d = tempfile.mkdtemp()
+    with open(os.path.join(d, "main.md"), "w") as f:
+        f.write("# main v1\n原始主思考法")
+    with open(os.path.join(d, "domain-software.md"), "w") as f:
+        f.write("# software v1\n原始代码法")
+    return d
+
+
+def test_seed_from_files():
+    d = _setup()
+    try:
+        s = MdVersionStore(thinking_dir=d)
+        s.init_from_files(["main", "domain-software"])
+        assert set(s.list_md_names()) == {"main", "domain-software"}
+        live = s.get_live("main")
+        assert live and live["status"] == "live" and live["version"] == 1
+        assert "原始主思考法" in live["content"]
+    finally:
+        shutil.rmtree(d)
+
+
+def test_save_new_version_is_candidate():
+    d = _setup()
+    try:
+        s = MdVersionStore(thinking_dir=d)
+        s.init_from_files(["main"])
+        v2 = s.save_version("main", "# main v2\n改进版", origin="manual", note="手动改进")
+        assert v2["status"] == "candidate" and v2["version"] == 2
+        # 存了候选但还没上线 → live 仍是 v1
+        assert s.get_live("main")["version"] == 1
+    finally:
+        shutil.rmtree(d)
+
+
+def test_set_live_writes_file():
+    """设为上线 = 写回 .md 文件（热加载即时生效的关键）。"""
+    d = _setup()
+    try:
+        s = MdVersionStore(thinking_dir=d)
+        s.init_from_files(["main"])
+        v2 = s.save_version("main", "# main v2\n全新内容XYZ", origin="manual")
+        s.set_live(v2["id"])
+        # 文件内容应已被写成 v2
+        with open(os.path.join(d, "main.md")) as f:
+            assert "全新内容XYZ" in f.read()
+        # live 指针指向 v2，旧版归档
+        assert s.get_live("main")["version"] == 2
+        versions = s.list_versions("main")
+        v1 = next(v for v in versions if v["version"] == 1)
+        assert v1["status"] == "archived"
+    finally:
+        shutil.rmtree(d)
+
+
+def test_rollback_writes_old_content():
+    """回滚 = 把旧版写回文件。"""
+    d = _setup()
+    try:
+        s = MdVersionStore(thinking_dir=d)
+        s.init_from_files(["main"])
+        v1_id = s.get_live("main")["id"]
+        v2 = s.save_version("main", "# main v2\n新版", origin="manual")
+        s.set_live(v2["id"])
+        with open(os.path.join(d, "main.md")) as f:
+            assert "新版" in f.read()
+        # 回滚到 v1
+        s.rollback("main", v1_id)
+        with open(os.path.join(d, "main.md")) as f:
+            content = f.read()
+            assert "原始主思考法" in content and "新版" not in content
+        assert s.get_live("main")["version"] == 1
+    finally:
+        shutil.rmtree(d)
+
+
+def test_diff():
+    d = _setup()
+    try:
+        s = MdVersionStore(thinking_dir=d)
+        s.init_from_files(["main"])
+        v1_id = s.get_live("main")["id"]
+        v2 = s.save_version("main", "# main v1\n原始主思考法\n新增一行", origin="manual")
+        result = s.diff(v1_id, v2["id"])
+        assert result["added"] >= 1
+        assert "新增一行" in result["diff"]
+    finally:
+        shutil.rmtree(d)
+
+
+def test_version_line_ordering_and_live_flag():
+    d = _setup()
+    try:
+        s = MdVersionStore(thinking_dir=d)
+        s.init_from_files(["main"])
+        v2 = s.save_version("main", "v2", origin="manual")
+        v3 = s.save_version("main", "v3", origin="evolved", parent=v2["id"])
+        s.set_live(v3["id"])
+        versions = s.list_versions("main")
+        # 降序排列，v3 在最前且 is_live
+        assert versions[0]["version"] == 3 and versions[0]["is_live"] is True
+        assert versions[0]["origin"] == "evolved" and versions[0]["parent"] == v2["id"]
+    finally:
+        shutil.rmtree(d)
+
+
+def test_persistence_across_reload():
+    """json 持久化：重建 store 后版本仍在。"""
+    d = _setup()
+    db = os.path.join(d, "data", "mdver.json")
+    try:
+        s1 = MdVersionStore(thinking_dir=d, db_path=db)
+        s1.init_from_files(["main"])
+        s1.save_version("main", "v2持久化", origin="manual")
+        # 重建
+        s2 = MdVersionStore(thinking_dir=d, db_path=db)
+        assert len(s2.list_versions("main")) == 2
+    finally:
+        shutil.rmtree(d)
+
+
+def test_audit_recorded():
+    d = _setup()
+    try:
+        s = MdVersionStore(thinking_dir=d)
+        s.init_from_files(["main"])
+        v2 = s.save_version("main", "v2", origin="manual")
+        s.set_live(v2["id"])
+        actions = [a["action"] for a in s.audit_log("main")]
+        assert "seed" in actions and "save_version" in actions and "set_live" in actions
+    finally:
+        shutil.rmtree(d)
+
+
+def test_appstate_integration():
+    """AppState 集成：md_versions 自动播种现有 thinking MD。"""
+    import sys, os
+    sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+    from backend.state import AppState
+    st = AppState()
+    names = st.md_versions.list_md_names()
+    # 现有 config/thinking 至少有 main 和 domain-software
+    assert "main" in names
+    live = st.md_versions.get_live("main")
+    assert live is not None and live["status"] == "live"

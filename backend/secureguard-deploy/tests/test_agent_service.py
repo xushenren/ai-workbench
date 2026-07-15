@@ -1,1 +1,138 @@
-IiIidGVzdHMvdGVzdF9hZ2VudF9zZXJ2aWNlLnB5IOKAlCBCMyDmmbrog73kvZMgQ1JVRCArIOWPkeW4g+eKtuaAgeacuuWNlea1i+OAgiIiIgppbXBvcnQgc3lzLCBvcwpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCgpmcm9tIGJhY2tlbmQuYWdlbnRfc2VydmljZSBpbXBvcnQgQWdlbnRTZXJ2aWNlCmZyb20gc2VjdXJlZ3VhcmQucGVybWlzc2lvbnMgaW1wb3J0IFVzZXIsIFJvbGUsIFZpc2liaWxpdHksIEFnZW50U3RhdHVzLCBQZXJtaXNzaW9uRGVuaWVkCgpBRE1JTiA9IFVzZXIoInVfYWRtaW4iLCBSb2xlLkFETUlOKQpERVYgPSBVc2VyKCJ1X2RldiIsIFJvbGUuREVWRUxPUEVSLCBkZXB0X2lkPSJkMSIpCkRFUFRfQURNSU4gPSBVc2VyKCJ1X2RhIiwgUm9sZS5ERVBBUlRNRU5UX0FETUlOLCBkZXB0X2lkPSJkMSIpClVTRVIxID0gVXNlcigidTEiLCBSb2xlLlVTRVIsIGRlcHRfaWQ9ImQxIikKVVNFUjIgPSBVc2VyKCJ1MiIsIFJvbGUuVVNFUiwgZGVwdF9pZD0iZDIiKQoKCmRlZiB0ZXN0X3NlZWRfaGFzX3RocmVlX3B1Ymxpc2hlZF9wdWJsaWMoKToKICAgIHMgPSBBZ2VudFNlcnZpY2UoKQogICAgcHViID0gW3IgZm9yIHIgaW4gcy5fYWdlbnRzLnZhbHVlcygpIGlmIHJbInZpc2liaWxpdHkiXSA9PSAicHVibGljIiBhbmQgclsic3RhdHVzIl0gPT0gInB1Ymxpc2hlZCJdCiAgICBhc3NlcnQgbGVuKHB1YikgPT0gMwoKCmRlZiB0ZXN0X3VzZXJfY3JlYXRlc19wcml2YXRlX3B1Ymxpc2hlZF9pbW1lZGlhdGVseSgpOgogICAgcyA9IEFnZW50U2VydmljZSgpCiAgICByZWMgPSBzLmNyZWF0ZShVU0VSMSwgeyJuYW1lIjogIuaIkeeahOWKqeaJiyIsICJ2aXNpYmlsaXR5IjogInByaXZhdGUifSkKICAgIGFzc2VydCByZWNbInN0YXR1cyJdID09IEFnZW50U3RhdHVzLlBVQkxJU0hFRC52YWx1ZQogICAgYXNzZXJ0IHJlY1sidmlzaWJpbGl0eSJdID09IFZpc2liaWxpdHkuUFJJVkFURS52YWx1ZSBhbmQgcmVjWyJvd25lcl9pZCJdID09ICJ1MSIKCgpkZWYgdGVzdF91c2VyX2Nhbm5vdF9jcmVhdGVfcHVibGljKCk6CiAgICBzID0gQWdlbnRTZXJ2aWNlKCkKICAgIHRyeToKICAgICAgICBzLmNyZWF0ZShVU0VSMSwgeyJuYW1lIjogIngiLCAidmlzaWJpbGl0eSI6ICJwdWJsaWMifSkKICAgICAgICBhc3NlcnQgRmFsc2UsICLlupTmipsgUGVybWlzc2lvbkRlbmllZCIKICAgIGV4Y2VwdCBQZXJtaXNzaW9uRGVuaWVkOgogICAgICAgIHBhc3MKCgpkZWYgdGVzdF9kZXZlbG9wZXJfcHVibGljX3N0YXJ0c19kcmFmdCgpOgogICAgcyA9IEFnZW50U2VydmljZSgpCiAgICByZWMgPSBzLmNyZWF0ZShERVYsIHsibmFtZSI6ICLlm6LpmJ/liqnmiYsiLCAidmlzaWJpbGl0eSI6ICJwdWJsaWMifSkKICAgIGFzc2VydCByZWNbInN0YXR1cyJdID09IEFnZW50U3RhdHVzLkRSQUZULnZhbHVlCgoKZGVmIHRlc3RfcHVibGlzaF9mbG93X3JlcXVpcmVzX2FkbWluKCk6CiAgICBzID0gQWdlbnRTZXJ2aWNlKCkKICAgIHJlYyA9IHMuY3JlYXRlKERFViwgeyJuYW1lIjogIuWboumYn+WKqeaJiyIsICJ2aXNpYmlsaXR5IjogInB1YmxpYyJ9KQogICAgYWlkID0gcmVjWyJpZCJdCiAgICBzLnN1Ym1pdChERVYsIGFpZCkKICAgIGFzc2VydCBzLmdldChhaWQpWyJzdGF0dXMiXSA9PSBBZ2VudFN0YXR1cy5QRU5ESU5HX1JFVklFVy52YWx1ZQogICAgIyBkZXZlbG9wZXIg6Ieq5bex5LiN6IO95om5CiAgICB0cnk6CiAgICAgICAgcy5hcHByb3ZlKERFViwgYWlkKTsgYXNzZXJ0IEZhbHNlCiAgICBleGNlcHQgUGVybWlzc2lvbkRlbmllZDoKICAgICAgICBwYXNzCiAgICBzLmFwcHJvdmUoQURNSU4sIGFpZCkKICAgIGFzc2VydCBzLmdldChhaWQpWyJzdGF0dXMiXSA9PSBBZ2VudFN0YXR1cy5QVUJMSVNIRUQudmFsdWUKCgpkZWYgdGVzdF9yZWplY3RfdGhlbl9yZXN1Ym1pdCgpOgogICAgcyA9IEFnZW50U2VydmljZSgpCiAgICByZWMgPSBzLmNyZWF0ZShERVYsIHsibmFtZSI6ICJ4IiwgInZpc2liaWxpdHkiOiAiZGVwYXJ0bWVudCIsICJkZXB0X2lkIjogImQxIn0pCiAgICBhaWQgPSByZWNbImlkIl0KICAgIHMuc3VibWl0KERFViwgYWlkKQogICAgcy5yZWplY3QoQURNSU4sIGFpZCkKICAgIGFzc2VydCBzLmdldChhaWQpWyJzdGF0dXMiXSA9PSBBZ2VudFN0YXR1cy5SRUpFQ1RFRC52YWx1ZQogICAgcy5zdWJtaXQoREVWLCBhaWQpCiAgICBhc3NlcnQgcy5nZXQoYWlkKVsic3RhdHVzIl0gPT0gQWdlbnRTdGF0dXMuUEVORElOR19SRVZJRVcudmFsdWUKCgpkZWYgdGVzdF9kZXB0X2FkbWluX2Nhbm5vdF9hcHByb3ZlX2J5X2RlZmF1bHQoKToKICAgIHMgPSBBZ2VudFNlcnZpY2UoKQogICAgcmVjID0gcy5jcmVhdGUoREVWLCB7Im5hbWUiOiAieCIsICJ2aXNpYmlsaXR5IjogImRlcGFydG1lbnQiLCAiZGVwdF9pZCI6ICJkMSJ9KQogICAgcy5zdWJtaXQoREVWLCByZWNbImlkIl0pCiAgICB0cnk6CiAgICAgICAgcy5hcHByb3ZlKERFUFRfQURNSU4sIHJlY1siaWQiXSk7IGFzc2VydCBGYWxzZQogICAgZXhjZXB0IFBlcm1pc3Npb25EZW5pZWQ6CiAgICAgICAgcGFzcwoKCiMgLS0tLS0tLS0tLSDlj6/op4HmgKfov4fmu6QgLS0tLS0tLS0tLQpkZWYgdGVzdF9saXN0X3VucHVibGlzaGVkX29ubHlfb3duZXJfc2VlcygpOgogICAgcyA9IEFnZW50U2VydmljZSgpCiAgICByZWMgPSBzLmNyZWF0ZShERVYsIHsibmFtZSI6ICLojYnnqL8iLCAidmlzaWJpbGl0eSI6ICJwdWJsaWMifSkgICMgZHJhZnQKICAgIGRldl9pZHMgPSB7clsiaWQiXSBmb3IgciBpbiBzLmxpc3RfZm9yKERFVil9CiAgICB1c2VyX2lkcyA9IHtyWyJpZCJdIGZvciByIGluIHMubGlzdF9mb3IoVVNFUjEpfQogICAgYXNzZXJ0IHJlY1siaWQiXSBpbiBkZXZfaWRzIGFuZCByZWNbImlkIl0gbm90IGluIHVzZXJfaWRzCgoKZGVmIHRlc3RfbGlzdF9kZXBhcnRtZW50X2FnZW50X3Njb3BlZCgpOgogICAgcyA9IEFnZW50U2VydmljZSgpCiAgICByZWMgPSBzLmNyZWF0ZShERVYsIHsibmFtZSI6ICLpg6jpl6giLCAidmlzaWJpbGl0eSI6ICJkZXBhcnRtZW50IiwgImRlcHRfaWQiOiAiZDEifSkKICAgIHMuc3VibWl0KERFViwgcmVjWyJpZCJdKTsgcy5hcHByb3ZlKEFETUlOLCByZWNbImlkIl0pCiAgICBhc3NlcnQgcmVjWyJpZCJdIGluIHtyWyJpZCJdIGZvciByIGluIHMubGlzdF9mb3IoVVNFUjEpfSAgICMg5ZCM6YOo6ZeoCiAgICBhc3NlcnQgcmVjWyJpZCJdIG5vdCBpbiB7clsiaWQiXSBmb3IgciBpbiBzLmxpc3RfZm9yKFVTRVIyKX0gICMg6Leo6YOo6ZeoCgoKZGVmIHRlc3RfbGlzdF9wcml2YXRlX29ubHlfb3duZXIoKToKICAgIHMgPSBBZ2VudFNlcnZpY2UoKQogICAgcmVjID0gcy5jcmVhdGUoVVNFUjEsIHsibmFtZSI6ICLnp4HkuroiLCAidmlzaWJpbGl0eSI6ICJwcml2YXRlIn0pCiAgICBhc3NlcnQgcmVjWyJpZCJdIGluIHtyWyJpZCJdIGZvciByIGluIHMubGlzdF9mb3IoVVNFUjEpfQogICAgYXNzZXJ0IHJlY1siaWQiXSBub3QgaW4ge3JbImlkIl0gZm9yIHIgaW4gcy5saXN0X2ZvcihVU0VSMil9CgoKZGVmIHRlc3RfYW5vbl9zZWVzX29ubHlfcHVibGlzaGVkX3B1YmxpYygpOgogICAgcyA9IEFnZW50U2VydmljZSgpCiAgICBzLmNyZWF0ZShERVYsIHsibmFtZSI6ICLojYnnqL8iLCAidmlzaWJpbGl0eSI6ICJwdWJsaWMifSkgICMgZHJhZnTvvIzljL/lkI3kuI3lj6/op4EKICAgIGlkcyA9IHtyWyJpZCJdIGZvciByIGluIHMubGlzdF9mb3IoTm9uZSl9CiAgICBhc3NlcnQgaWRzID09IHsiZ2VuZXJhbCIsICJlbGVjdHJvbWVjaGFuaWNhbCIsICJjb2RlIn0gICMg5Y+q6KeB5LiJ5Liq5bey5Y+R5biD5YWs5YWxCgoKZGVmIHRlc3RfYWdlbnRfZW5kcG9pbnRzX2lmX2Zhc3RhcGlfYXZhaWxhYmxlKCk6CiAgICAiIiLnq6/ngrnnuqfmtYvor5XvvJroo4XkuoYgZmFzdGFwaSDmiY3ot5HvvIjnnJ/mnLrvvInvvIzmspnnrrHoh6rliqjot7Pov4fjgIIiIiIKICAgIHRyeToKICAgICAgICBmcm9tIGZhc3RhcGkudGVzdGNsaWVudCBpbXBvcnQgVGVzdENsaWVudCAgIyB0eXBlOiBpZ25vcmUKICAgICAgICBmcm9tIGJhY2tlbmQuYXBwIGltcG9ydCBhcHAsIHN0YXRlCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHJldHVybgogICAgaWYgYXBwIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuCiAgICBjbGllbnQgPSBUZXN0Q2xpZW50KGFwcCkKICAgICMg5Yy/5ZCN5YiX6KGo5Y+q6KeB5YWs5YWx5bey5Y+R5biD77yIPj0zIOmYsui3qOa1i+ivleaxoeafk++8m+eyvuehrumalOemu+eUsSB0ZXN0X2Fub25fc2Vlc19vbmx5X3B1Ymxpc2hlZF9wdWJsaWMg5a6I77yJCiAgICByID0gY2xpZW50LmdldCgiL3YxL2FnZW50cyIpCiAgICBhc3NlcnQgci5zdGF0dXNfY29kZSA9PSAyMDAgYW5kIGxlbihyLmpzb24oKSkgPj0gMwogICAgIyBkZXZlbG9wZXIg55m75b2V5bu65YWs5YWx5pm66IO95L2TIOKGkiBkcmFmdAogICAgdG9rID0gc3RhdGUuYXV0aC5sb2dpbigiMTM4MDAwMDAwMDEiLCAiZGV2MTIzIilbMF0KICAgIGggPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rfSJ9CiAgICBjID0gY2xpZW50LnBvc3QoIi92MS9hZG1pbi9hZ2VudHMiLCBqc29uPXsibmFtZSI6ICLlm6LpmJ/liqnmiYsiLCAidmlzaWJpbGl0eSI6ICJwdWJsaWMifSwgaGVhZGVycz1oKQogICAgYXNzZXJ0IGMuc3RhdHVzX2NvZGUgPT0gMjAwIGFuZCBjLmpzb24oKVsic3RhdHVzIl0gPT0gImRyYWZ0IgogICAgYWlkID0gYy5qc29uKClbImlkIl0KICAgICMg5o+Q5LqkIOKGkiBkZXZlbG9wZXIg5om56KKr5ouSKDQwMykg4oaSIGFkbWluIOaJuemAmui/hwogICAgY2xpZW50LnBvc3QoZiIvdjEvYWRtaW4vYWdlbnRzL3thaWR9L3N1Ym1pdCIsIGhlYWRlcnM9aCkKICAgIGFzc2VydCBjbGllbnQucG9zdChmIi92MS9hZG1pbi9hZ2VudHMve2FpZH0vYXBwcm92ZSIsIGhlYWRlcnM9aCkuc3RhdHVzX2NvZGUgPT0gNDAzCiAgICBhdG9rID0gc3RhdGUuYXV0aC5sb2dpbigiMTM4MDAwMDAwMDAiLCAiYWRtaW4xMjMiKVswXQogICAgYWggPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7YXRva30ifQogICAgYXNzZXJ0IGNsaWVudC5wb3N0KGYiL3YxL2FkbWluL2FnZW50cy97YWlkfS9hcHByb3ZlIiwgaGVhZGVycz1haCkuc3RhdHVzX2NvZGUgPT0gMjAwCiAgICAjIOaZrumAmiB1c2VyIOS4jeiDveW7uuWFrOWFsSDihpIgNDAzCiAgICB1dG9rID0gc3RhdGUuYXV0aC5sb2dpbigiMTM4MDAwMDAwMDMiLCAidXNlcjEyMyIpWzBdCiAgICB1aCA9IHsiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHt1dG9rfSJ9CiAgICBhc3NlcnQgY2xpZW50LnBvc3QoIi92MS9hZG1pbi9hZ2VudHMiLCBqc29uPXsibmFtZSI6ICJ4IiwgInZpc2liaWxpdHkiOiAicHVibGljIn0sIGhlYWRlcnM9dWgpLnN0YXR1c19jb2RlID09IDQwMwo=
+"""tests/test_agent_service.py — B3 智能体 CRUD + 发布状态机单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.agent_service import AgentService
+from secureguard.permissions import User, Role, Visibility, AgentStatus, PermissionDenied
+
+ADMIN = User("u_admin", Role.ADMIN)
+DEV = User("u_dev", Role.DEVELOPER, dept_id="d1")
+DEPT_ADMIN = User("u_da", Role.DEPARTMENT_ADMIN, dept_id="d1")
+USER1 = User("u1", Role.USER, dept_id="d1")
+USER2 = User("u2", Role.USER, dept_id="d2")
+
+
+def test_seed_has_three_published_public():
+    s = AgentService()
+    pub = [r for r in s._agents.values() if r["visibility"] == "public" and r["status"] == "published"]
+    assert len(pub) == 3
+
+
+def test_user_creates_private_published_immediately():
+    s = AgentService()
+    rec = s.create(USER1, {"name": "我的助手", "visibility": "private"})
+    assert rec["status"] == AgentStatus.PUBLISHED.value
+    assert rec["visibility"] == Visibility.PRIVATE.value and rec["owner_id"] == "u1"
+
+
+def test_user_cannot_create_public():
+    s = AgentService()
+    try:
+        s.create(USER1, {"name": "x", "visibility": "public"})
+        assert False, "应抛 PermissionDenied"
+    except PermissionDenied:
+        pass
+
+
+def test_developer_public_starts_draft():
+    s = AgentService()
+    rec = s.create(DEV, {"name": "团队助手", "visibility": "public"})
+    assert rec["status"] == AgentStatus.DRAFT.value
+
+
+def test_publish_flow_requires_admin():
+    s = AgentService()
+    rec = s.create(DEV, {"name": "团队助手", "visibility": "public"})
+    aid = rec["id"]
+    s.submit(DEV, aid)
+    assert s.get(aid)["status"] == AgentStatus.PENDING_REVIEW.value
+    # developer 自己不能批
+    try:
+        s.approve(DEV, aid); assert False
+    except PermissionDenied:
+        pass
+    s.approve(ADMIN, aid)
+    assert s.get(aid)["status"] == AgentStatus.PUBLISHED.value
+
+
+def test_reject_then_resubmit():
+    s = AgentService()
+    rec = s.create(DEV, {"name": "x", "visibility": "department", "dept_id": "d1"})
+    aid = rec["id"]
+    s.submit(DEV, aid)
+    s.reject(ADMIN, aid)
+    assert s.get(aid)["status"] == AgentStatus.REJECTED.value
+    s.submit(DEV, aid)
+    assert s.get(aid)["status"] == AgentStatus.PENDING_REVIEW.value
+
+
+def test_dept_admin_cannot_approve_by_default():
+    s = AgentService()
+    rec = s.create(DEV, {"name": "x", "visibility": "department", "dept_id": "d1"})
+    s.submit(DEV, rec["id"])
+    try:
+        s.approve(DEPT_ADMIN, rec["id"]); assert False
+    except PermissionDenied:
+        pass
+
+
+# ---------- 可见性过滤 ----------
+def test_list_unpublished_only_owner_sees():
+    s = AgentService()
+    rec = s.create(DEV, {"name": "草稿", "visibility": "public"})  # draft
+    dev_ids = {r["id"] for r in s.list_for(DEV)}
+    user_ids = {r["id"] for r in s.list_for(USER1)}
+    assert rec["id"] in dev_ids and rec["id"] not in user_ids
+
+
+def test_list_department_agent_scoped():
+    s = AgentService()
+    rec = s.create(DEV, {"name": "部门", "visibility": "department", "dept_id": "d1"})
+    s.submit(DEV, rec["id"]); s.approve(ADMIN, rec["id"])
+    assert rec["id"] in {r["id"] for r in s.list_for(USER1)}   # 同部门
+    assert rec["id"] not in {r["id"] for r in s.list_for(USER2)}  # 跨部门
+
+
+def test_list_private_only_owner():
+    s = AgentService()
+    rec = s.create(USER1, {"name": "私人", "visibility": "private"})
+    assert rec["id"] in {r["id"] for r in s.list_for(USER1)}
+    assert rec["id"] not in {r["id"] for r in s.list_for(USER2)}
+
+
+def test_anon_sees_only_published_public():
+    s = AgentService()
+    s.create(DEV, {"name": "草稿", "visibility": "public"})  # draft，匿名不可见
+    ids = {r["id"] for r in s.list_for(None)}
+    assert ids == {"general", "electromechanical", "code"}  # 只见三个已发布公共
+
+
+def test_agent_endpoints_if_fastapi_available():
+    """端点级测试：装了 fastapi 才跑（真机），沙箱自动跳过。"""
+    try:
+        from fastapi.testclient import TestClient  # type: ignore
+        from backend.app import app, state
+    except Exception:
+        return
+    if app is None:
+        return
+    client = TestClient(app)
+    # 匿名列表只见公共已发布（>=3 防跨测试污染；精确隔离由 test_anon_sees_only_published_public 守）
+    r = client.get("/v1/agents")
+    assert r.status_code == 200 and len(r.json()) >= 3
+    # developer 登录建公共智能体 → draft
+    tok = state.auth.login("13800000001", "dev123")[0]
+    h = {"Authorization": f"Bearer {tok}"}
+    c = client.post("/v1/admin/agents", json={"name": "团队助手", "visibility": "public"}, headers=h)
+    assert c.status_code == 200 and c.json()["status"] == "draft"
+    aid = c.json()["id"]
+    # 提交 → developer 批被拒(403) → admin 批通过
+    client.post(f"/v1/admin/agents/{aid}/submit", headers=h)
+    assert client.post(f"/v1/admin/agents/{aid}/approve", headers=h).status_code == 403
+    atok = state.auth.login("13800000000", "admin123")[0]
+    ah = {"Authorization": f"Bearer {atok}"}
+    assert client.post(f"/v1/admin/agents/{aid}/approve", headers=ah).status_code == 200
+    # 普通 user 不能建公共 → 403
+    utok = state.auth.login("13800000003", "user123")[0]
+    uh = {"Authorization": f"Bearer {utok}"}
+    assert client.post("/v1/admin/agents", json={"name": "x", "visibility": "public"}, headers=uh).status_code == 403

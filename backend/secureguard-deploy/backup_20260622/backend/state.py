@@ -1,1 +1,77 @@
-IiIiYmFja2VuZC5zdGF0ZSDigJQg5bqU55So54q25oCBIC8g5L6d6LWW5rOo5YWl5a655Zmo77yIQjDvvInjgIIKCuaKiiBPcmNoZXN0cmF0b3LjgIFBdWRpdExvZ2dlcuOAgeWGheWtmOaVsOaNruihqOaMguWcqOS4gOS4qiBBcHBTdGF0ZSDkuIrvvIzkvr/kuo7vvJoKICAtIEZhc3RBUEkg5L6d6LWW5rOo5YWl77yI5q+P5Liq6K+35rGC5ou/5ZCM5LiA5LiqIHN0YXRl77yJ77ybCiAgLSDmtYvor5Xml7bmlbTkvZPmm7/mjaLvvIjlloIgTW9jayDlkI7nq6/vvInjgIIKCuW8gOWPkeacn+aVsOaNruWFqOWcqOWGheWtmO+8iOaMieiuoeWIkiBCMOKAk0I2IOeahOm7mOiupO+8ie+8jOeUn+S6p+aNoiBQb3N0Z3Jlcy9SZWRpc++8iEI377yJ44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIE9wdGlvbmFsCgpmcm9tIHNlY3VyZWd1YXJkIGltcG9ydCAoCiAgICBPcmNoZXN0cmF0b3IsIEF1ZGl0TG9nZ2VyLCBSQUdQaXBlbGluZSwgSW5NZW1vcnlWZWN0b3JTdG9yZSwgTW9ja01vZGVsLCBEb2MsCikKZnJvbSAuYXV0aCBpbXBvcnQgQXV0aFNlcnZpY2UKZnJvbSAuYWdlbnRfc2VydmljZSBpbXBvcnQgQWdlbnRTZXJ2aWNlCmZyb20gLnF1b3RhX3NlcnZpY2UgaW1wb3J0IFF1b3RhU2VydmljZQpmcm9tIC5rYl9zZXJ2aWNlIGltcG9ydCBLQlNlcnZpY2UKZnJvbSAudXNlcl9hZG1pbl9zZXJ2aWNlIGltcG9ydCBVc2VyQWRtaW5TZXJ2aWNlCgoKZGVmIF9zZWVkX3JhZygpIC0+IFJBR1BpcGVsaW5lOgogICAgIiIi5YaF572u5LiA5Liq56a757q/IFJBR++8iOWGheWtmOW6kyArIE1vY2sg5qih5Z6L77yJ77yM5L+d6K+B5pegIEdQVSDkuZ/og73nq6/liLDnq6/ot5HjgIIiIiIKICAgIHN0b3JlID0gSW5NZW1vcnlWZWN0b3JTdG9yZSgpCiAgICBzdG9yZS5hZGQoRG9jKCJkb2NfMSIsICLpo47nrqHlronoo4XpqozmlLblupTnrKblkIggR0I1MDI0MyDnm7jlhbPmnaHmrL7vvIzmvI/po47njofpnIDovr7moIfjgIIiLCB7InRydXN0X3Njb3JlIjogMC45fSkpCiAgICBzdG9yZS5hZGQoRG9jKCJkb2NfMiIsICLpmpDolL3lt6XnqIvpqozmlLbpnIDlnKjopobnm5bliY3lrozmiJDvvIznlZnlrZjlvbHlg4/kuI7orrDlvZXjgIIiLCB7InRydXN0X3Njb3JlIjogMC44NX0pKQogICAgc3RvcmUuYWRkKERvYygiZG9jXzMiLCAi5bmC562J5oCn5oyH5ZCM5LiA5pON5L2c5omn6KGM5aSa5qyh5LiO5LiA5qyh57uT5p6c5LiA6Ie044CCIiwgeyJ0cnVzdF9zY29yZSI6IDAuOH0pKQogICAgcmV0dXJuIFJBR1BpcGVsaW5lKHN0b3JlLCBNb2NrTW9kZWwoKSkKCgpAZGF0YWNsYXNzCmNsYXNzIEFwcFN0YXRlOgogICAgIiIi5YWo5bGA5bqU55So54q25oCB44CCRmFzdEFQSSDkuI7mtYvor5Xpg73pgJrov4flroPorr/pl67lhoXmoLjjgIIiIiIKCiAgICBvcmNoZXN0cmF0b3I6IE9yY2hlc3RyYXRvciA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1sYW1iZGE6IE9yY2hlc3RyYXRvcihyYWc9X3NlZWRfcmFnKCkpKQogICAgYXVkaXRvcjogQXVkaXRMb2dnZXIgPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9QXVkaXRMb2dnZXIpCiAgICBhdXRoOiBBdXRoU2VydmljZSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1BdXRoU2VydmljZSkKICAgIGFnZW50X3NlcnZpY2U6IEFnZW50U2VydmljZSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1BZ2VudFNlcnZpY2UpCiAgICBxdW90YTogUXVvdGFTZXJ2aWNlID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PVF1b3RhU2VydmljZSkKICAgIGtiX3NlcnZpY2U6IEtCU2VydmljZSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1LQlNlcnZpY2UpCiAgICBzZXNzaW9uczogQW55ID0gZmllbGQoZGVmYXVsdD1Ob25lKQogICAgbW9kZWxzOiBBbnkgPSBmaWVsZChkZWZhdWx0PU5vbmUpCiAgICBmaWxlczogQW55ID0gZmllbGQoZGVmYXVsdD1Ob25lKQogICAgdm9pY2U6IEFueSA9IGZpZWxkKGRlZmF1bHQ9Tm9uZSkKICAgICMg566A5piT5YaF5a2Y55So5oi36KGo77yI5LiOIGF1dGgg6Kej6ICm55qE5Lia5Yqh5L6n5L+h5oGv77yMQjUg5Lya55So77yJ44CCCiAgICB1c2VyczogRGljdFtzdHIsIERpY3Rbc3RyLCBBbnldXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1kaWN0KQogICAgdXNlcl9hZG1pbjogQW55ID0gZmllbGQoZGVmYXVsdD1Ob25lKQoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIyDorqkgb3JjaGVzdHJhdG9yIOS4jiBzdGF0ZSDlhbHkuqvlkIzkuIDkuKogYXVkaXRvcu+8jOWuoeiuoemTvue7n+S4gOOAggogICAgICAgIHNlbGYub3JjaGVzdHJhdG9yLmF1ZGl0b3IgPSBzZWxmLmF1ZGl0b3IKICAgICAgICAjIOeUqOaIt+euoeeQhuacjeWKoeS+nei1liBhdXRo77yM5bu26L+f5p6E6YCgCiAgICAgICAgaWYgc2VsZi51c2VyX2FkbWluIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYudXNlcl9hZG1pbiA9IFVzZXJBZG1pblNlcnZpY2Uoc2VsZi5hdXRoKQogICAgICAgIGlmIHNlbGYuc2Vzc2lvbnMgaXMgTm9uZToKICAgICAgICAgICAgZnJvbSAuc2Vzc2lvbl9zdG9yZSBpbXBvcnQgYnVpbGRfc2Vzc2lvbl9zdG9yZQogICAgICAgICAgICBzZWxmLnNlc3Npb25zID0gYnVpbGRfc2Vzc2lvbl9zdG9yZSgpCiAgICAgICAgaWYgc2VsZi5tb2RlbHMgaXMgTm9uZToKICAgICAgICAgICAgZnJvbSAubW9kZWxfc2VydmljZSBpbXBvcnQgTW9kZWxTZXJ2aWNlCiAgICAgICAgICAgIHNlbGYubW9kZWxzID0gTW9kZWxTZXJ2aWNlKCkKICAgICAgICBpZiBzZWxmLmZpbGVzIGlzIE5vbmU6CiAgICAgICAgICAgIGZyb20gLmZpbGVfc2VydmljZSBpbXBvcnQgRmlsZVNlcnZpY2UKICAgICAgICAgICAgc2VsZi5maWxlcyA9IEZpbGVTZXJ2aWNlKCkKICAgICAgICBpZiBzZWxmLnZvaWNlIGlzIE5vbmU6CiAgICAgICAgICAgIGZyb20gLnZvaWNlX3NlcnZpY2UgaW1wb3J0IFZvaWNlU2VydmljZQogICAgICAgICAgICBzZWxmLnZvaWNlID0gVm9pY2VTZXJ2aWNlKCkKCiAgICBkZWYgZ2V0X2FnZW50KHNlbGYsIGFnZW50X2lkOiBPcHRpb25hbFtzdHJdKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLkvpsgY2hhdF9zZXJ2aWNlIOivu+WPluaZuuiDveS9k+S4muWKoemFjee9ru+8iG5hbWUvZG9tYWluL3Njb3BlL3RpZXLvvInjgIIiIiIKICAgICAgICByZXR1cm4gc2VsZi5hZ2VudF9zZXJ2aWNlLmdldChhZ2VudF9pZCkgb3Igc2VsZi5hZ2VudF9zZXJ2aWNlLmdldCgiZ2VuZXJhbCIpCgogICAgQHByb3BlcnR5CiAgICBkZWYgYWdlbnRzKHNlbGYpIC0+IERpY3Rbc3RyLCBEaWN0W3N0ciwgQW55XV06CiAgICAgICAgIiIi5ZCR5ZCO5YW85a6577ya5pq06Zyy5pm66IO95L2T5a2X5YW444CCIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuYWdlbnRfc2VydmljZS5fYWdlbnRzCg==
+"""backend.state — 应用状态 / 依赖注入容器（B0）。
+
+把 Orchestrator、AuditLogger、内存数据表挂在一个 AppState 上，便于：
+  - FastAPI 依赖注入（每个请求拿同一个 state）；
+  - 测试时整体替换（喂 Mock 后端）。
+
+开发期数据全在内存（按计划 B0–B6 的默认），生产换 Postgres/Redis（B7）。
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from typing import Any, Dict, Optional
+
+from secureguard import (
+    Orchestrator, AuditLogger, RAGPipeline, InMemoryVectorStore, MockModel, Doc,
+)
+from .auth import AuthService
+from .agent_service import AgentService
+from .quota_service import QuotaService
+from .kb_service import KBService
+from .user_admin_service import UserAdminService
+
+
+def _seed_rag() -> RAGPipeline:
+    """内置一个离线 RAG（内存库 + Mock 模型），保证无 GPU 也能端到端跑。"""
+    store = InMemoryVectorStore()
+    store.add(Doc("doc_1", "风管安装验收应符合 GB50243 相关条款，漏风率需达标。", {"trust_score": 0.9}))
+    store.add(Doc("doc_2", "隐蔽工程验收需在覆盖前完成，留存影像与记录。", {"trust_score": 0.85}))
+    store.add(Doc("doc_3", "幂等性指同一操作执行多次与一次结果一致。", {"trust_score": 0.8}))
+    return RAGPipeline(store, MockModel())
+
+
+@dataclass
+class AppState:
+    """全局应用状态。FastAPI 与测试都通过它访问内核。"""
+
+    orchestrator: Orchestrator = field(default_factory=lambda: Orchestrator(rag=_seed_rag()))
+    auditor: AuditLogger = field(default_factory=AuditLogger)
+    auth: AuthService = field(default_factory=AuthService)
+    agent_service: AgentService = field(default_factory=AgentService)
+    quota: QuotaService = field(default_factory=QuotaService)
+    kb_service: KBService = field(default_factory=KBService)
+    sessions: Any = field(default=None)
+    models: Any = field(default=None)
+    files: Any = field(default=None)
+    voice: Any = field(default=None)
+    # 简易内存用户表（与 auth 解耦的业务侧信息，B5 会用）。
+    users: Dict[str, Dict[str, Any]] = field(default_factory=dict)
+    user_admin: Any = field(default=None)
+
+    def __post_init__(self) -> None:
+        # 让 orchestrator 与 state 共享同一个 auditor，审计链统一。
+        self.orchestrator.auditor = self.auditor
+        # 用户管理服务依赖 auth，延迟构造
+        if self.user_admin is None:
+            self.user_admin = UserAdminService(self.auth)
+        if self.sessions is None:
+            from .session_store import build_session_store
+            self.sessions = build_session_store()
+        if self.models is None:
+            from .model_service import ModelService
+            self.models = ModelService()
+        if self.files is None:
+            from .file_service import FileService
+            self.files = FileService()
+        if self.voice is None:
+            from .voice_service import VoiceService
+            self.voice = VoiceService()
+
+    def get_agent(self, agent_id: Optional[str]) -> Dict[str, Any]:
+        """供 chat_service 读取智能体业务配置（name/domain/scope/tier）。"""
+        return self.agent_service.get(agent_id) or self.agent_service.get("general")
+
+    @property
+    def agents(self) -> Dict[str, Dict[str, Any]]:
+        """向后兼容：暴露智能体字典。"""
+        return self.agent_service._agents

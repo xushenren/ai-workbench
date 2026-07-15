@@ -1,1 +1,242 @@
-IiIiYmFja2VuZC5zZXNzaW9uX3N0b3JlIOKAlCDlr7nor53mjIHkuYXljJYgKyDlpJrova7orrDlv4YgKyDnqpflj6PnrqHnkIbvvIjpl67popg0IOesrDHmraXvvInjgIIKCuS4uuS7gOS5iOacieeql+WPo+euoeeQhu+8muWkmui9ruiusOW/hiA9IOavj+i9ruaKiuWOhuWPsuWhnui/myBwcm9tcHTjgILogYrkuYXkuoYgdG9rZW4g5pq05rao55Sa6Iez6LaF5qih5Z6LCuS4iuS4i+aWh+eql+OAguaJgOS7pei/memHjCoq5L+d55WZ5pyA6L+RIE4g6L2u6YCQ5a2XICsg5pu05pep55qE5Y6L5oiQ5pGY6KaBKirvvIzogIzkuI3mmK/ml6DohJHlhajloZ7igJTigJQK6L+Z5a+5IueUqOS+v+WunOaooeWei+ecgSB0b2tlbiLmmK/lv4XpobvnmoTjgIIKCiAgLSBJbk1lbW9yeVNlc3Npb25TdG9yZe+8mum7mOiupO+8jOe6ryBzdGRsaWLvvIzlj6/nprvnur/mtYvjgIIKICAtIFNRTGl0ZVNlc3Npb25TdG9yZe+8muWNleaWh+S7tuaMgeS5heWMlu+8iOWIt+aWsC/ph43lkK/kuI3kuKLvvInvvIxzdGRsaWIgc3FsaXRlM++8jOWPr+emu+e6v+a1i+OAggogIC0gUGdTZXNzaW9uU3RvcmXvvJpQb3N0Z3JlcyDpgILphY3lmagg8J+UtCDljaDkvY3vvIzkvaDlnKjmnI3liqHlmajmjqXvvIjlkIzmjqXlj6PvvInjgIIKCuaOpeWPo+Wlkee6pu+8iOS4ieenjeWunueOsOS4gOiHtO+8ie+8mgogIGNyZWF0ZV9zZXNzaW9uIC8gYXBwZW5kIC8gbWVzc2FnZXMgLyBsaXN0X3Nlc3Npb25zIC8gc2VhcmNoIC8gcmVuYW1lIC8gZGVsZXRlCiAgYnVpbGRfY29udGV4dChzZXNzaW9uX2lkLCBtYXhfdHVybnMpIC0+IHN0ciAgICMg56qX5Y+j566h55CG5ZCO55qE5aSa6L2u5LiK5LiL5paHCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgdGltZQppbXBvcnQgb3MKaW1wb3J0IHNxbGl0ZTMKaW1wb3J0IHRocmVhZGluZwpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGFzZGljdApmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKREVGQVVMVF9NQVhfVFVSTlMgPSA2ICAjIOmAkOWtl+S/neeVmeacgOi/kSA2IOi9ru+8iHVzZXIrYXNzaXN0YW5077yJCgoKQGRhdGFjbGFzcwpjbGFzcyBNc2c6CiAgICByb2xlOiBzdHIKICAgIGNvbnRlbnQ6IHN0cgogICAgdHM6IGZsb2F0CgogICAgZGVmIHRvX2RpY3Qoc2VsZikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgcmV0dXJuIGFzZGljdChzZWxmKQoKCmRlZiBfdGl0bGVfZnJvbSh0ZXh0OiBzdHIpIC0+IHN0cjoKICAgIHQgPSB0ZXh0LnN0cmlwKCkucmVwbGFjZSgiXG4iLCAiICIpCiAgICByZXR1cm4gKHRbOjIwXSArICLigKYiKSBpZiBsZW4odCkgPiAyMCBlbHNlICh0IG9yICLmlrDlr7nor50iKQoKCmRlZiBfc3VtbWFyaXplKG9sZGVyOiBMaXN0W01zZ10pIC0+IHN0cjoKICAgICIiIuaXqeacn+a2iOaBr+WOi+e8qeaIkOS4gOihjOaRmOimge+8iOehruWumuaAp+OAgeaXoOmcgOaooeWei++8ieOAguecnyBMTE0g5pGY6KaB5Y+v5ZCO57ut5pu/5o2i5q2k5Ye95pWw44CCIiIiCiAgICB0b3BpY3MgPSBbbS5jb250ZW50LnN0cmlwKCkucmVwbGFjZSgiXG4iLCAiICIpWzoxOF0gZm9yIG0gaW4gb2xkZXIgaWYgbS5yb2xlID09ICJ1c2VyIl0KICAgIGlmIG5vdCB0b3BpY3M6CiAgICAgICAgcmV0dXJuIGYi77yI5pu05pep5pyJIHtsZW4ob2xkZXIpfSDmnaHmtojmga/vvIkiCiAgICByZXR1cm4gIueUqOaIt+WFiOWQjumXruWPiu+8miIgKyAi77ybIi5qb2luKHRvcGljc1stNjpdKQoKCmNsYXNzIEluTWVtb3J5U2Vzc2lvblN0b3JlOgogICAgZGVmIF9faW5pdF9fKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fc2Vzc2lvbnM6IERpY3Rbc3RyLCBEaWN0W3N0ciwgQW55XV0gPSB7fSAgICAgICMgc2lkIC0+IG1ldGEKICAgICAgICBzZWxmLl9tZXNzYWdlczogRGljdFtzdHIsIExpc3RbTXNnXV0gPSB7fSAgICAgICAgICAgIyBzaWQgLT4gW01zZ10KICAgICAgICBzZWxmLl9sb2NrID0gdGhyZWFkaW5nLkxvY2soKQoKICAgICMgLS0tLS0tLS0tLSDkvJror50gLS0tLS0tLS0tLQogICAgZGVmIGNyZWF0ZV9zZXNzaW9uKHNlbGYsIHNlc3Npb25faWQ6IHN0ciwgdXNlcl9pZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIGlmIHNlc3Npb25faWQgbm90IGluIHNlbGYuX3Nlc3Npb25zOgogICAgICAgICAgICAgICAgbm93ID0gdGltZS50aW1lKCkKICAgICAgICAgICAgICAgIHNlbGYuX3Nlc3Npb25zW3Nlc3Npb25faWRdID0gewogICAgICAgICAgICAgICAgICAgICJpZCI6IHNlc3Npb25faWQsICJ1c2VyX2lkIjogdXNlcl9pZCwgInRpdGxlIjogdGl0bGUgb3IgIuaWsOWvueivnSIsCiAgICAgICAgICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiBub3csICJ1cGRhdGVkX2F0Ijogbm93LCAibWVzc2FnZV9jb3VudCI6IDAsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzZWxmLl9tZXNzYWdlc1tzZXNzaW9uX2lkXSA9IFtdCiAgICAgICAgICAgIHJldHVybiBzZWxmLl9zZXNzaW9uc1tzZXNzaW9uX2lkXQoKICAgIGRlZiBhcHBlbmQoc2VsZiwgc2Vzc2lvbl9pZDogc3RyLCByb2xlOiBzdHIsIGNvbnRlbnQ6IHN0ciwKICAgICAgICAgICAgICAgdXNlcl9pZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICBpZiBzZXNzaW9uX2lkIG5vdCBpbiBzZWxmLl9zZXNzaW9uczoKICAgICAgICAgICAgICAgIG5vdyA9IHRpbWUudGltZSgpCiAgICAgICAgICAgICAgICBzZWxmLl9zZXNzaW9uc1tzZXNzaW9uX2lkXSA9IHsiaWQiOiBzZXNzaW9uX2lkLCAidXNlcl9pZCI6IHVzZXJfaWQsCiAgICAgICAgICAgICAgICAgICAgInRpdGxlIjogIuaWsOWvueivnSIsICJjcmVhdGVkX2F0Ijogbm93LCAidXBkYXRlZF9hdCI6IG5vdywgIm1lc3NhZ2VfY291bnQiOiAwfQogICAgICAgICAgICAgICAgc2VsZi5fbWVzc2FnZXNbc2Vzc2lvbl9pZF0gPSBbXQogICAgICAgICAgICBzZWxmLl9tZXNzYWdlc1tzZXNzaW9uX2lkXS5hcHBlbmQoTXNnKHJvbGUsIGNvbnRlbnQsIHRpbWUudGltZSgpKSkKICAgICAgICAgICAgbWV0YSA9IHNlbGYuX3Nlc3Npb25zW3Nlc3Npb25faWRdCiAgICAgICAgICAgIG1ldGFbInVwZGF0ZWRfYXQiXSA9IHRpbWUudGltZSgpCiAgICAgICAgICAgIG1ldGFbIm1lc3NhZ2VfY291bnQiXSA9IGxlbihzZWxmLl9tZXNzYWdlc1tzZXNzaW9uX2lkXSkKICAgICAgICAgICAgIyDpppbmnaHnlKjmiLfmtojmga/kvZzmoIfpopgKICAgICAgICAgICAgaWYgcm9sZSA9PSAidXNlciIgYW5kIG1ldGFbInRpdGxlIl0gPT0gIuaWsOWvueivnSI6CiAgICAgICAgICAgICAgICBtZXRhWyJ0aXRsZSJdID0gX3RpdGxlX2Zyb20oY29udGVudCkKCiAgICBkZWYgbWVzc2FnZXMoc2VsZiwgc2Vzc2lvbl9pZDogc3RyKSAtPiBMaXN0W01zZ106CiAgICAgICAgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICByZXR1cm4gbGlzdChzZWxmLl9tZXNzYWdlcy5nZXQoc2Vzc2lvbl9pZCwgW10pKQoKICAgIGRlZiBsaXN0X3Nlc3Npb25zKHNlbGYsIHVzZXJfaWQ6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIG91dCA9IFttIGZvciBtIGluIHNlbGYuX3Nlc3Npb25zLnZhbHVlcygpCiAgICAgICAgICAgICAgICAgICBpZiB1c2VyX2lkIGlzIE5vbmUgb3IgbS5nZXQoInVzZXJfaWQiKSA9PSB1c2VyX2lkXQogICAgICAgICAgICByZXR1cm4gc29ydGVkKG91dCwga2V5PWxhbWJkYSBtOiBtWyJ1cGRhdGVkX2F0Il0sIHJldmVyc2U9VHJ1ZSkKCiAgICBkZWYgc2VhcmNoKHNlbGYsIHVzZXJfaWQ6IE9wdGlvbmFsW3N0cl0sIHF1ZXJ5OiBzdHIpIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgICAgICIiIuaMiea2iOaBr+WGheWuueaQnOS8muivne+8iOWRveS4reagh+mimOaIluS7u+S4gOa2iOaBr++8ieOAgiIiIgogICAgICAgIHEgPSBxdWVyeS5zdHJpcCgpLmxvd2VyKCkKICAgICAgICBpZiBub3QgcToKICAgICAgICAgICAgcmV0dXJuIFtdCiAgICAgICAgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICBoaXRzID0gW10KICAgICAgICAgICAgZm9yIHNpZCwgbWV0YSBpbiBzZWxmLl9zZXNzaW9ucy5pdGVtcygpOgogICAgICAgICAgICAgICAgaWYgdXNlcl9pZCBpcyBub3QgTm9uZSBhbmQgbWV0YS5nZXQoInVzZXJfaWQiKSAhPSB1c2VyX2lkOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBoYXkgPSBtZXRhWyJ0aXRsZSJdLmxvd2VyKCkgKyAiICIgKyAiICIuam9pbigKICAgICAgICAgICAgICAgICAgICBtLmNvbnRlbnQubG93ZXIoKSBmb3IgbSBpbiBzZWxmLl9tZXNzYWdlcy5nZXQoc2lkLCBbXSkpCiAgICAgICAgICAgICAgICBpZiBxIGluIGhheToKICAgICAgICAgICAgICAgICAgICBoaXRzLmFwcGVuZChtZXRhKQogICAgICAgICAgICByZXR1cm4gc29ydGVkKGhpdHMsIGtleT1sYW1iZGEgbTogbVsidXBkYXRlZF9hdCJdLCByZXZlcnNlPVRydWUpCgogICAgZGVmIHJlbmFtZShzZWxmLCBzZXNzaW9uX2lkOiBzdHIsIHRpdGxlOiBzdHIpIC0+IGJvb2w6CiAgICAgICAgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICBpZiBzZXNzaW9uX2lkIG5vdCBpbiBzZWxmLl9zZXNzaW9uczoKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICBzZWxmLl9zZXNzaW9uc1tzZXNzaW9uX2lkXVsidGl0bGUiXSA9IHRpdGxlCiAgICAgICAgICAgIHJldHVybiBUcnVlCgogICAgZGVmIGRlbGV0ZShzZWxmLCBzZXNzaW9uX2lkOiBzdHIpIC0+IGJvb2w6CiAgICAgICAgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICBzZWxmLl9zZXNzaW9ucy5wb3Aoc2Vzc2lvbl9pZCwgTm9uZSkKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21lc3NhZ2VzLnBvcChzZXNzaW9uX2lkLCBOb25lKSBpcyBub3QgTm9uZQoKICAgICMgLS0tLS0tLS0tLSDnqpflj6PnrqHnkIbvvJrlpJrova7kuIrkuIvmlocgLS0tLS0tLS0tLQogICAgZGVmIGJ1aWxkX2NvbnRleHQoc2VsZiwgc2Vzc2lvbl9pZDogc3RyLCBtYXhfdHVybnM6IGludCA9IERFRkFVTFRfTUFYX1RVUk5TKSAtPiBzdHI6CiAgICAgICAgIiIi5ou85Ye656qX5Y+j566h55CG5ZCO55qE5Y6G5Y+y77ya5pep5pyf5pGY6KaBICsg5pyA6L+RIE4g6L2u6YCQ5a2X44CC6ZiyIHRva2VuIOaatOa2qOOAgiIiIgogICAgICAgIG1zZ3MgPSBzZWxmLm1lc3NhZ2VzKHNlc3Npb25faWQpCiAgICAgICAgaWYgbm90IG1zZ3M6CiAgICAgICAgICAgIHJldHVybiAiIgogICAgICAgIGtlZXAgPSBtYXhfdHVybnMgKiAyCiAgICAgICAgcmVjZW50LCBvbGRlciA9IG1zZ3NbLWtlZXA6XSwgbXNnc1s6LWtlZXBdCiAgICAgICAgbGluZXM6IExpc3Rbc3RyXSA9IFtdCiAgICAgICAgaWYgb2xkZXI6CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIlvml6nmnJ/lr7nor53mkZjopoFdIHtfc3VtbWFyaXplKG9sZGVyKX0iKQogICAgICAgIGZvciBtIGluIHJlY2VudDoKICAgICAgICAgICAgd2hvID0gIueUqOaItyIgaWYgbS5yb2xlID09ICJ1c2VyIiBlbHNlICLliqnmiYsiCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmInt3aG9977yae20uY29udGVudH0iKQogICAgICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCgogICAgZGVmIGJ1aWxkX3JlZmVyZW5jZShzZWxmLCBzZXNzaW9uX2lkczogTGlzdFtzdHJdLCBtYXhfcmVjZW50OiBpbnQgPSAyKSAtPiBzdHI6CiAgICAgICAgIiIi6Leo5Lya6K+d5byV55So77ya5oqK6KKr5byV55So5Lya6K+d5Y6L5oiQIuaRmOimgSArIOacgOi/keWHoOi9riLvvIzluKbmnaXmupDmoIfms6jms6jlhaXjgIIKCiAgICAgICAg5Yi75oSP5LiN6YCQ5a2X5YWo5paH4oCU4oCU6YCQ5a2X5LyaIHRva2VuIOaatOa2qOS4lOS4jueql+WPo+euoeeQhuWGsueqgeOAguavj+S4quiiq+W8leeUqOS8muivnee7me+8mgogICAgICAgICAg5qCH6aKYICsg5pep5pyf5pGY6KaBICsg5pyA6L+RIG1heF9yZWNlbnQg6L2u77yM5riF5qWa5qCH5piOIui/meaYr+adpeiHquWIq+eahOS8muivneeahOWPguiAgyLjgIIKICAgICAgICAiIiIKICAgICAgICBibG9ja3M6IExpc3Rbc3RyXSA9IFtdCiAgICAgICAgZm9yIHNpZCBpbiBzZXNzaW9uX2lkczoKICAgICAgICAgICAgbXNncyA9IHNlbGYubWVzc2FnZXMoc2lkKQogICAgICAgICAgICBpZiBub3QgbXNnczoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIG1ldGEgPSBzZWxmLl9zZXNzaW9ucy5nZXQoc2lkLCB7fSkKICAgICAgICAgICAgdGl0bGUgPSBtZXRhLmdldCgidGl0bGUiLCBzaWQpCiAgICAgICAgICAgIGtlZXAgPSBtYXhfcmVjZW50ICogMgogICAgICAgICAgICByZWNlbnQsIG9sZGVyID0gbXNnc1sta2VlcDpdLCBtc2dzWzota2VlcF0KICAgICAgICAgICAgcGFydHMgPSBbZiLjgJDlvJXnlKjkvJror53vvJp7dGl0bGV944CRIl0KICAgICAgICAgICAgaWYgb2xkZXI6CiAgICAgICAgICAgICAgICBwYXJ0cy5hcHBlbmQoZiIgIOaRmOimge+8mntfc3VtbWFyaXplKG9sZGVyKX0iKQogICAgICAgICAgICBmb3IgbSBpbiByZWNlbnQ6CiAgICAgICAgICAgICAgICB3aG8gPSAi55So5oi3IiBpZiBtLnJvbGUgPT0gInVzZXIiIGVsc2UgIuWKqeaJiyIKICAgICAgICAgICAgICAgIHBhcnRzLmFwcGVuZChmIiAge3dob33vvJp7bS5jb250ZW50WzoxMjBdfSIpCiAgICAgICAgICAgIGJsb2Nrcy5hcHBlbmQoIlxuIi5qb2luKHBhcnRzKSkKICAgICAgICByZXR1cm4gIlxuXG4iLmpvaW4oYmxvY2tzKQoKCmNsYXNzIFNRTGl0ZVNlc3Npb25TdG9yZShJbk1lbW9yeVNlc3Npb25TdG9yZSk6CiAgICAiIiLljZXmlofku7bmjIHkuYXljJbvvIjliLfmlrAv6YeN5ZCv5LiN5Lii77yJ44CCc3RkbGliIHNxbGl0ZTPvvIzlj6/nprvnur/mtYvjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcGF0aDogc3RyID0gIjptZW1vcnk6IikgLT4gTm9uZToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICAjIOiHquWKqOWIm+W7uueItuebruW9le+8jOmBv+WFjSBTRVNTSU9OX0RCIOaMh+WQkeS4jeWtmOWcqOebruW9leaXtuWQr+WKqOWNs+W0qQogICAgICAgIGlmIHBhdGggbm90IGluICgiOm1lbW9yeToiLCAiIikgYW5kIG9zLnBhdGguZGlybmFtZShwYXRoKToKICAgICAgICAgICAgb3MubWFrZWRpcnMob3MucGF0aC5kaXJuYW1lKHBhdGgpLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHNlbGYuX2RiID0gc3FsaXRlMy5jb25uZWN0KHBhdGgsIGNoZWNrX3NhbWVfdGhyZWFkPUZhbHNlKQogICAgICAgIHNlbGYuX2RiLmV4ZWN1dGUoIiIiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgc2Vzc2lvbnMoCiAgICAgICAgICAgIGlkIFRFWFQgUFJJTUFSWSBLRVksIHVzZXJfaWQgVEVYVCwgdGl0bGUgVEVYVCwKICAgICAgICAgICAgY3JlYXRlZF9hdCBSRUFMLCB1cGRhdGVkX2F0IFJFQUwpIiIiKQogICAgICAgIHNlbGYuX2RiLmV4ZWN1dGUoIiIiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgbWVzc2FnZXMoCiAgICAgICAgICAgIHNlc3Npb25faWQgVEVYVCwgcm9sZSBURVhULCBjb250ZW50IFRFWFQsIHRzIFJFQUwpIiIiKQogICAgICAgIHNlbGYuX2RiLmNvbW1pdCgpCiAgICAgICAgc2VsZi5fbG9hZCgpCgogICAgZGVmIF9sb2FkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgZm9yIHIgaW4gc2VsZi5fZGIuZXhlY3V0ZSgiU0VMRUNUIGlkLHVzZXJfaWQsdGl0bGUsY3JlYXRlZF9hdCx1cGRhdGVkX2F0IEZST00gc2Vzc2lvbnMiKToKICAgICAgICAgICAgc2VsZi5fc2Vzc2lvbnNbclswXV0gPSB7ImlkIjogclswXSwgInVzZXJfaWQiOiByWzFdLCAidGl0bGUiOiByWzJdLAogICAgICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiByWzNdLCAidXBkYXRlZF9hdCI6IHJbNF0sICJtZXNzYWdlX2NvdW50IjogMH0KICAgICAgICAgICAgc2VsZi5fbWVzc2FnZXNbclswXV0gPSBbXQogICAgICAgIGZvciByIGluIHNlbGYuX2RiLmV4ZWN1dGUoIlNFTEVDVCBzZXNzaW9uX2lkLHJvbGUsY29udGVudCx0cyBGUk9NIG1lc3NhZ2VzIE9SREVSIEJZIHRzIik6CiAgICAgICAgICAgIHNlbGYuX21lc3NhZ2VzLnNldGRlZmF1bHQoclswXSwgW10pLmFwcGVuZChNc2coclsxXSwgclsyXSwgclszXSkpCiAgICAgICAgZm9yIHNpZCwgbXMgaW4gc2VsZi5fbWVzc2FnZXMuaXRlbXMoKToKICAgICAgICAgICAgaWYgc2lkIGluIHNlbGYuX3Nlc3Npb25zOgogICAgICAgICAgICAgICAgc2VsZi5fc2Vzc2lvbnNbc2lkXVsibWVzc2FnZV9jb3VudCJdID0gbGVuKG1zKQoKICAgIGRlZiBjcmVhdGVfc2Vzc2lvbihzZWxmLCBzZXNzaW9uX2lkLCB1c2VyX2lkPU5vbmUsIHRpdGxlPU5vbmUpOgogICAgICAgIG1ldGEgPSBzdXBlcigpLmNyZWF0ZV9zZXNzaW9uKHNlc3Npb25faWQsIHVzZXJfaWQsIHRpdGxlKQogICAgICAgIHNlbGYuX2RiLmV4ZWN1dGUoIklOU0VSVCBPUiBJR05PUkUgSU5UTyBzZXNzaW9ucyBWQUxVRVMoPyw/LD8sPyw/KSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAobWV0YVsiaWQiXSwgbWV0YVsidXNlcl9pZCJdLCBtZXRhWyJ0aXRsZSJdLAogICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGFbImNyZWF0ZWRfYXQiXSwgbWV0YVsidXBkYXRlZF9hdCJdKSkKICAgICAgICBzZWxmLl9kYi5jb21taXQoKQogICAgICAgIHJldHVybiBtZXRhCgogICAgZGVmIGFwcGVuZChzZWxmLCBzZXNzaW9uX2lkLCByb2xlLCBjb250ZW50LCB1c2VyX2lkPU5vbmUpOgogICAgICAgIHN1cGVyKCkuYXBwZW5kKHNlc3Npb25faWQsIHJvbGUsIGNvbnRlbnQsIHVzZXJfaWQpCiAgICAgICAgbWV0YSA9IHNlbGYuX3Nlc3Npb25zW3Nlc3Npb25faWRdCiAgICAgICAgc2VsZi5fZGIuZXhlY3V0ZSgiSU5TRVJUIE9SIElHTk9SRSBJTlRPIHNlc3Npb25zIFZBTFVFUyg/LD8sPyw/LD8pIiwKICAgICAgICAgICAgICAgICAgICAgICAgIChtZXRhWyJpZCJdLCBtZXRhWyJ1c2VyX2lkIl0sIG1ldGFbInRpdGxlIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgbWV0YVsiY3JlYXRlZF9hdCJdLCBtZXRhWyJ1cGRhdGVkX2F0Il0pKQogICAgICAgIHNlbGYuX2RiLmV4ZWN1dGUoIlVQREFURSBzZXNzaW9ucyBTRVQgdGl0bGU9Pyx1cGRhdGVkX2F0PT8gV0hFUkUgaWQ9PyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAobWV0YVsidGl0bGUiXSwgbWV0YVsidXBkYXRlZF9hdCJdLCBzZXNzaW9uX2lkKSkKICAgICAgICBzZWxmLl9kYi5leGVjdXRlKCJJTlNFUlQgSU5UTyBtZXNzYWdlcyBWQUxVRVMoPyw/LD8sPykiLAogICAgICAgICAgICAgICAgICAgICAgICAgKHNlc3Npb25faWQsIHJvbGUsIGNvbnRlbnQsIHRpbWUudGltZSgpKSkKICAgICAgICBzZWxmLl9kYi5jb21taXQoKQoKICAgIGRlZiByZW5hbWUoc2VsZiwgc2Vzc2lvbl9pZCwgdGl0bGUpOgogICAgICAgIG9rID0gc3VwZXIoKS5yZW5hbWUoc2Vzc2lvbl9pZCwgdGl0bGUpCiAgICAgICAgaWYgb2s6CiAgICAgICAgICAgIHNlbGYuX2RiLmV4ZWN1dGUoIlVQREFURSBzZXNzaW9ucyBTRVQgdGl0bGU9PyBXSEVSRSBpZD0/IiwgKHRpdGxlLCBzZXNzaW9uX2lkKSkKICAgICAgICAgICAgc2VsZi5fZGIuY29tbWl0KCkKICAgICAgICByZXR1cm4gb2sKCiAgICBkZWYgZGVsZXRlKHNlbGYsIHNlc3Npb25faWQpOgogICAgICAgIG9rID0gc3VwZXIoKS5kZWxldGUoc2Vzc2lvbl9pZCkKICAgICAgICBzZWxmLl9kYi5leGVjdXRlKCJERUxFVEUgRlJPTSBzZXNzaW9ucyBXSEVSRSBpZD0/IiwgKHNlc3Npb25faWQsKSkKICAgICAgICBzZWxmLl9kYi5leGVjdXRlKCJERUxFVEUgRlJPTSBtZXNzYWdlcyBXSEVSRSBzZXNzaW9uX2lkPT8iLCAoc2Vzc2lvbl9pZCwpKQogICAgICAgIHNlbGYuX2RiLmNvbW1pdCgpCiAgICAgICAgcmV0dXJuIG9rCgoKZGVmIGJ1aWxkX3Nlc3Npb25fc3RvcmUoKSAtPiBJbk1lbW9yeVNlc3Npb25TdG9yZToKICAgICIiIuaMieeOr+Wig+WPmOmHj+mAieWunueOsOOAgum7mOiupOWGheWtmO+8m1NFU1NJT05fREI9PHBhdGg+IOKGkiBTUUxpdGUg5oyB5LmF5YyW44CCCgogICAg6Z+n5oCn77yaU1FMaXRlIOWIneWni+WMluWksei0pe+8iOi3r+W+hOS4jeWPr+WGmS/no4Hnm5jmu6HnrYnvvInml7YqKumZjee6p+S4uuWGheWtmOWtmOWCqCoq5bm25omT6K2m5ZGK77yMCiAgICDnu53kuI3orqnmjIHkuYXljJblsYLnmoTphY3nva7pl67popjlr7zoh7TmlbTkuKrlkI7nq6/lkK/liqjlpLHotKXvvIg1MDLvvInjgIIKICAgICIiIgogICAgZGIgPSBvcy5lbnZpcm9uLmdldCgiU0VTU0lPTl9EQiIpCiAgICBpZiBub3QgZGI6CiAgICAgICAgcmV0dXJuIEluTWVtb3J5U2Vzc2lvblN0b3JlKCkKICAgIHRyeToKICAgICAgICByZXR1cm4gU1FMaXRlU2Vzc2lvblN0b3JlKGRiKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiAgIyDot6/lvoTkuI3lj6/lhpnjgIHno4Hnm5jmu6HnrYkKICAgICAgICBpbXBvcnQgc3lzCiAgICAgICAgcHJpbnQoZiJbc2Vzc2lvbl9zdG9yZV0gU1FMaXRlIOWIneWni+WMluWksei0pSh7ZX0p77yM6ZmN57qn5Li65YaF5a2Y5a2Y5YKo77yI6YeN5ZCv5Lii5Y6G5Y+y77yJ44CCIgogICAgICAgICAgICAgIGYi6K+35qOA5p+lIFNFU1NJT05fREI9e2RifSDnmoTnm67lvZXmnYPpmZDjgIIiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIEluTWVtb3J5U2Vzc2lvblN0b3JlKCkK
+"""backend.session_store — 对话持久化 + 多轮记忆 + 窗口管理（问题4 第1步）。
+
+为什么有窗口管理：多轮记忆 = 每轮把历史塞进 prompt。聊久了 token 暴涨甚至超模型
+上下文窗。所以这里**保留最近 N 轮逐字 + 更早的压成摘要**，而不是无脑全塞——
+这对"用便宜模型省 token"是必须的。
+
+  - InMemorySessionStore：默认，纯 stdlib，可离线测。
+  - SQLiteSessionStore：单文件持久化（刷新/重启不丢），stdlib sqlite3，可离线测。
+  - PgSessionStore：Postgres 适配器 🔴 占位，你在服务器接（同接口）。
+
+接口契约（三种实现一致）：
+  create_session / append / messages / list_sessions / search / rename / delete
+  build_context(session_id, max_turns) -> str   # 窗口管理后的多轮上下文
+"""
+from __future__ import annotations
+
+import time
+import os
+import sqlite3
+import threading
+from dataclasses import dataclass, asdict
+from typing import Any, Dict, List, Optional
+
+DEFAULT_MAX_TURNS = 6  # 逐字保留最近 6 轮（user+assistant）
+
+
+@dataclass
+class Msg:
+    role: str
+    content: str
+    ts: float
+
+    def to_dict(self) -> Dict[str, Any]:
+        return asdict(self)
+
+
+def _title_from(text: str) -> str:
+    t = text.strip().replace("\n", " ")
+    return (t[:20] + "…") if len(t) > 20 else (t or "新对话")
+
+
+def _summarize(older: List[Msg]) -> str:
+    """早期消息压缩成一行摘要（确定性、无需模型）。真 LLM 摘要可后续替换此函数。"""
+    topics = [m.content.strip().replace("\n", " ")[:18] for m in older if m.role == "user"]
+    if not topics:
+        return f"（更早有 {len(older)} 条消息）"
+    return "用户先后问及：" + "；".join(topics[-6:])
+
+
+class InMemorySessionStore:
+    def __init__(self) -> None:
+        self._sessions: Dict[str, Dict[str, Any]] = {}      # sid -> meta
+        self._messages: Dict[str, List[Msg]] = {}           # sid -> [Msg]
+        self._lock = threading.Lock()
+
+    # ---------- 会话 ----------
+    def create_session(self, session_id: str, user_id: Optional[str] = None,
+                       title: Optional[str] = None) -> Dict[str, Any]:
+        with self._lock:
+            if session_id not in self._sessions:
+                now = time.time()
+                self._sessions[session_id] = {
+                    "id": session_id, "user_id": user_id, "title": title or "新对话",
+                    "created_at": now, "updated_at": now, "message_count": 0,
+                }
+                self._messages[session_id] = []
+            return self._sessions[session_id]
+
+    def append(self, session_id: str, role: str, content: str,
+               user_id: Optional[str] = None) -> None:
+        with self._lock:
+            if session_id not in self._sessions:
+                now = time.time()
+                self._sessions[session_id] = {"id": session_id, "user_id": user_id,
+                    "title": "新对话", "created_at": now, "updated_at": now, "message_count": 0}
+                self._messages[session_id] = []
+            self._messages[session_id].append(Msg(role, content, time.time()))
+            meta = self._sessions[session_id]
+            meta["updated_at"] = time.time()
+            meta["message_count"] = len(self._messages[session_id])
+            # 首条用户消息作标题
+            if role == "user" and meta["title"] == "新对话":
+                meta["title"] = _title_from(content)
+
+    def messages(self, session_id: str) -> List[Msg]:
+        with self._lock:
+            return list(self._messages.get(session_id, []))
+
+    def list_sessions(self, user_id: Optional[str] = None) -> List[Dict[str, Any]]:
+        with self._lock:
+            out = [m for m in self._sessions.values()
+                   if user_id is None or m.get("user_id") == user_id]
+            return sorted(out, key=lambda m: m["updated_at"], reverse=True)
+
+    def search(self, user_id: Optional[str], query: str) -> List[Dict[str, Any]]:
+        """按消息内容搜会话（命中标题或任一消息）。"""
+        q = query.strip().lower()
+        if not q:
+            return []
+        with self._lock:
+            hits = []
+            for sid, meta in self._sessions.items():
+                if user_id is not None and meta.get("user_id") != user_id:
+                    continue
+                hay = meta["title"].lower() + " " + " ".join(
+                    m.content.lower() for m in self._messages.get(sid, []))
+                if q in hay:
+                    hits.append(meta)
+            return sorted(hits, key=lambda m: m["updated_at"], reverse=True)
+
+    def rename(self, session_id: str, title: str) -> bool:
+        with self._lock:
+            if session_id not in self._sessions:
+                return False
+            self._sessions[session_id]["title"] = title
+            return True
+
+    def delete(self, session_id: str) -> bool:
+        with self._lock:
+            self._sessions.pop(session_id, None)
+            return self._messages.pop(session_id, None) is not None
+
+    # ---------- 窗口管理：多轮上下文 ----------
+    def build_context(self, session_id: str, max_turns: int = DEFAULT_MAX_TURNS) -> str:
+        """拼出窗口管理后的历史：早期摘要 + 最近 N 轮逐字。防 token 暴涨。"""
+        msgs = self.messages(session_id)
+        if not msgs:
+            return ""
+        keep = max_turns * 2
+        recent, older = msgs[-keep:], msgs[:-keep]
+        lines: List[str] = []
+        if older:
+            lines.append(f"[早期对话摘要] {_summarize(older)}")
+        for m in recent:
+            who = "用户" if m.role == "user" else "助手"
+            lines.append(f"{who}：{m.content}")
+        return "\n".join(lines)
+
+    def build_reference(self, session_ids: List[str], max_recent: int = 2) -> str:
+        """跨会话引用：把被引用会话压成"摘要 + 最近几轮"，带来源标注注入。
+
+        刻意不逐字全文——逐字会 token 暴涨且与窗口管理冲突。每个被引用会话给：
+          标题 + 早期摘要 + 最近 max_recent 轮，清楚标明"这是来自别的会话的参考"。
+        """
+        blocks: List[str] = []
+        for sid in session_ids:
+            msgs = self.messages(sid)
+            if not msgs:
+                continue
+            meta = self._sessions.get(sid, {})
+            title = meta.get("title", sid)
+            keep = max_recent * 2
+            recent, older = msgs[-keep:], msgs[:-keep]
+            parts = [f"【引用会话：{title}】"]
+            if older:
+                parts.append(f"  摘要：{_summarize(older)}")
+            for m in recent:
+                who = "用户" if m.role == "user" else "助手"
+                parts.append(f"  {who}：{m.content[:120]}")
+            blocks.append("\n".join(parts))
+        return "\n\n".join(blocks)
+
+
+class SQLiteSessionStore(InMemorySessionStore):
+    """单文件持久化（刷新/重启不丢）。stdlib sqlite3，可离线测。"""
+
+    def __init__(self, path: str = ":memory:") -> None:
+        super().__init__()
+        # 自动创建父目录，避免 SESSION_DB 指向不存在目录时启动即崩
+        if path not in (":memory:", "") and os.path.dirname(path):
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+        self._db = sqlite3.connect(path, check_same_thread=False)
+        self._db.execute("""CREATE TABLE IF NOT EXISTS sessions(
+            id TEXT PRIMARY KEY, user_id TEXT, title TEXT,
+            created_at REAL, updated_at REAL)""")
+        self._db.execute("""CREATE TABLE IF NOT EXISTS messages(
+            session_id TEXT, role TEXT, content TEXT, ts REAL)""")
+        self._db.commit()
+        self._load()
+
+    def _load(self) -> None:
+        for r in self._db.execute("SELECT id,user_id,title,created_at,updated_at FROM sessions"):
+            self._sessions[r[0]] = {"id": r[0], "user_id": r[1], "title": r[2],
+                "created_at": r[3], "updated_at": r[4], "message_count": 0}
+            self._messages[r[0]] = []
+        for r in self._db.execute("SELECT session_id,role,content,ts FROM messages ORDER BY ts"):
+            self._messages.setdefault(r[0], []).append(Msg(r[1], r[2], r[3]))
+        for sid, ms in self._messages.items():
+            if sid in self._sessions:
+                self._sessions[sid]["message_count"] = len(ms)
+
+    def create_session(self, session_id, user_id=None, title=None):
+        meta = super().create_session(session_id, user_id, title)
+        self._db.execute("INSERT OR IGNORE INTO sessions VALUES(?,?,?,?,?)",
+                         (meta["id"], meta["user_id"], meta["title"],
+                          meta["created_at"], meta["updated_at"]))
+        self._db.commit()
+        return meta
+
+    def append(self, session_id, role, content, user_id=None):
+        super().append(session_id, role, content, user_id)
+        meta = self._sessions[session_id]
+        self._db.execute("INSERT OR IGNORE INTO sessions VALUES(?,?,?,?,?)",
+                         (meta["id"], meta["user_id"], meta["title"],
+                          meta["created_at"], meta["updated_at"]))
+        self._db.execute("UPDATE sessions SET title=?,updated_at=? WHERE id=?",
+                         (meta["title"], meta["updated_at"], session_id))
+        self._db.execute("INSERT INTO messages VALUES(?,?,?,?)",
+                         (session_id, role, content, time.time()))
+        self._db.commit()
+
+    def rename(self, session_id, title):
+        ok = super().rename(session_id, title)
+        if ok:
+            self._db.execute("UPDATE sessions SET title=? WHERE id=?", (title, session_id))
+            self._db.commit()
+        return ok
+
+    def delete(self, session_id):
+        ok = super().delete(session_id)
+        self._db.execute("DELETE FROM sessions WHERE id=?", (session_id,))
+        self._db.execute("DELETE FROM messages WHERE session_id=?", (session_id,))
+        self._db.commit()
+        return ok
+
+
+def build_session_store() -> InMemorySessionStore:
+    """按环境变量选实现。默认内存；SESSION_DB=<path> → SQLite 持久化。
+
+    韧性：SQLite 初始化失败（路径不可写/磁盘满等）时**降级为内存存储**并打警告，
+    绝不让持久化层的配置问题导致整个后端启动失败（502）。
+    """
+    db = os.environ.get("SESSION_DB")
+    if not db:
+        return InMemorySessionStore()
+    try:
+        return SQLiteSessionStore(db)
+    except Exception as e:  # 路径不可写、磁盘满等
+        import sys
+        print(f"[session_store] SQLite 初始化失败({e})，降级为内存存储（重启丢历史）。"
+              f"请检查 SESSION_DB={db} 的目录权限。", file=sys.stderr)
+        return InMemorySessionStore()

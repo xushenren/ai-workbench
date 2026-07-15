@@ -1,1 +1,87 @@
-IiIidGVzdHMvdGVzdF9zYW5kYm94LnB5IOKAlCDmspnnrrHmiafooYzlmajvvIjpl67popgy77yJ44CCIiIiCmltcG9ydCBzeXMsIG9zCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKZnJvbSBiYWNrZW5kLnNhbmRib3hfZXhlY3V0b3IgaW1wb3J0IFNhbmRib3hFeGVjdXRvciwgYnVpbGRfZXhlY3V0b3IKCgpkZWYgdGVzdF9ub3JtYWxfY29kZV9ydW5zKCk6CiAgICByID0gU2FuZGJveEV4ZWN1dG9yKHRpbWVvdXQ9NSkuZXhlY3V0ZSgicHJpbnQoc29ydGVkKFszLDEsMl0pKSIpCiAgICBhc3NlcnQgclsiYXZhaWxhYmxlIl0gYW5kIHJbImV4aXRfY29kZSJdID09IDAgYW5kICJbMSwgMiwgM10iIGluIHJbInN0ZG91dCJdCgoKZGVmIHRlc3RfZXJyb3JfY29kZV9jYXB0dXJlZCgpOgogICAgciA9IFNhbmRib3hFeGVjdXRvcih0aW1lb3V0PTUpLmV4ZWN1dGUoIjEgKyAnYSciKQogICAgYXNzZXJ0IHJbImV4aXRfY29kZSJdICE9IDAgYW5kICJUeXBlRXJyb3IiIGluIHJbInN0ZGVyciJdCgoKZGVmIHRlc3RfdGltZW91dF9lbmZvcmNlZCgpOgogICAgciA9IFNhbmRib3hFeGVjdXRvcih0aW1lb3V0PTIpLmV4ZWN1dGUoIndoaWxlIFRydWU6IHBhc3MiKQogICAgYXNzZXJ0IHJbInRpbWVkX291dCJdIGFuZCAidGltZW91dCIgaW4gclsiZXJyb3IiXQoKCmRlZiB0ZXN0X3VuYXZhaWxhYmxlX2RlZ3JhZGVzX2dyYWNlZnVsbHkoKToKICAgIHIgPSBTYW5kYm94RXhlY3V0b3IoYXZhaWxhYmxlPUZhbHNlKS5leGVjdXRlKCJwcmludCgxKSIpCiAgICBhc3NlcnQgclsiYXZhaWxhYmxlIl0gaXMgRmFsc2UgYW5kIHJbImVycm9yIl0gPT0gInNhbmRib3hfbm90X2F2YWlsYWJsZSIKCgpkZWYgdGVzdF91bnN1cHBvcnRlZF9sYW5ndWFnZSgpOgogICAgciA9IFNhbmRib3hFeGVjdXRvcigpLmV4ZWN1dGUoImNvbnNvbGUubG9nKDEpIiwgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiKQogICAgYXNzZXJ0ICJ1bnN1cHBvcnRlZF9sYW5ndWFnZSIgaW4gclsiZXJyb3IiXQoKCmRlZiB0ZXN0X2J1aWxkX2V4ZWN1dG9yX2Vudl90b2dnbGUobW9ua2V5cGF0Y2g9Tm9uZSk6CiAgICBvcy5lbnZpcm9uWyJTQU5EQk9YX0VOQUJMRUQiXSA9ICIwIgogICAgdHJ5OgogICAgICAgIGFzc2VydCBidWlsZF9leGVjdXRvcigpLmF2YWlsYWJsZSBpcyBGYWxzZQogICAgZmluYWxseToKICAgICAgICBkZWwgb3MuZW52aXJvblsiU0FOREJPWF9FTkFCTEVEIl0KCgpkZWYgdGVzdF9kb2NrZXJfYmFja2VuZF9idWlsZHNfY29ycmVjdF9jb21tYW5kKG1vbmtleXBhdGNoPU5vbmUpOgogICAgIiIiRG9ja2VyIOWQjuerr++8muaehOmAoOato+ehrueahOmalOemu+WRveS7pO+8iOS4jeecn+i3kSBkb2NrZXLvvIzlj6rmoKHpqozlj4LmlbDpvZDlhajvvInjgIIiIiIKICAgIGltcG9ydCBiYWNrZW5kLnNhbmRib3hfZXhlY3V0b3IgYXMgc2UKICAgIGNhcHR1cmVkID0ge30KICAgIGNsYXNzIEZha2VDb21wbGV0ZWQ6CiAgICAgICAgcmV0dXJuY29kZSA9IDA7IHN0ZG91dCA9ICJbMSwgMiwgM10iOyBzdGRlcnIgPSAiIgogICAgZGVmIGZha2VfcnVuKGNtZCwgKiprdyk6CiAgICAgICAgY2FwdHVyZWRbImNtZCJdID0gY21kCiAgICAgICAgcmV0dXJuIEZha2VDb21wbGV0ZWQoKQogICAgb3JpZyA9IHNlLnN1YnByb2Nlc3MucnVuCiAgICBzZS5zdWJwcm9jZXNzLnJ1biA9IGZha2VfcnVuCiAgICB0cnk6CiAgICAgICAgZXggPSBzZS5TYW5kYm94RXhlY3V0b3IoYmFja2VuZD0iZG9ja2VyIiwgbWVtX21iPTEyOCkKICAgICAgICByID0gZXguZXhlY3V0ZSgicHJpbnQoMSkiKQogICAgICAgIGNtZCA9ICIgIi5qb2luKGNhcHR1cmVkWyJjbWQiXSkKICAgICAgICAjIOWFqOWll+malOemu+WPguaVsOmDveWcqAogICAgICAgIGFzc2VydCAiLS1uZXR3b3JrPW5vbmUiIGluIGNtZCAgICAgICAgICAjIOemgee9kQogICAgICAgIGFzc2VydCAiLS1yZWFkLW9ubHkiIGluIGNtZCAgICAgICAgICAgICAjIOWPquivu+aguQogICAgICAgIGFzc2VydCAiLS1jYXAtZHJvcD1BTEwiIGluIGNtZCAgICAgICAgICAjIOS4ouiDveWKmwogICAgICAgIGFzc2VydCAiLS1zZWN1cml0eS1vcHQ9bm8tbmV3LXByaXZpbGVnZXMiIGluIGNtZAogICAgICAgIGFzc2VydCAiLS1tZW1vcnk9MTI4bSIgaW4gY21kCiAgICAgICAgYXNzZXJ0ICItLXBpZHMtbGltaXQ9NjQiIGluIGNtZAogICAgICAgIGFzc2VydCAiNjU1MzQ6NjU1MzQiIGluIGNtZCAgICAgICAgICAgICAjIOmdniByb290CiAgICAgICAgYXNzZXJ0IHJbImJhY2tlbmQiXSA9PSAiZG9ja2VyIiBhbmQgclsiZXhpdF9jb2RlIl0gPT0gMAogICAgZmluYWxseToKICAgICAgICBzZS5zdWJwcm9jZXNzLnJ1biA9IG9yaWcKCgpkZWYgdGVzdF9kb2NrZXJfbm90X2ZvdW5kX2RlZ3JhZGVzKCk6CiAgICBpbXBvcnQgYmFja2VuZC5zYW5kYm94X2V4ZWN1dG9yIGFzIHNlCiAgICBvcmlnID0gc2Uuc3VicHJvY2Vzcy5ydW4KICAgIGRlZiBib29tKCphLCAqKmspOiByYWlzZSBGaWxlTm90Rm91bmRFcnJvcigpCiAgICBzZS5zdWJwcm9jZXNzLnJ1biA9IGJvb20KICAgIHRyeToKICAgICAgICByID0gc2UuU2FuZGJveEV4ZWN1dG9yKGJhY2tlbmQ9ImRvY2tlciIpLmV4ZWN1dGUoInByaW50KDEpIikKICAgICAgICBhc3NlcnQgclsiYXZhaWxhYmxlIl0gaXMgRmFsc2UgYW5kICJkb2NrZXJfbm90X2ZvdW5kIiBpbiByWyJlcnJvciJdCiAgICBmaW5hbGx5OgogICAgICAgIHNlLnN1YnByb2Nlc3MucnVuID0gb3JpZwoKCmRlZiB0ZXN0X2J1aWxkX2V4ZWN1dG9yX2RvY2tlcl9lbnYoKToKICAgIG9zLmVudmlyb25bIlNBTkRCT1hfQkFDS0VORCJdID0gImRvY2tlciIKICAgIG9zLmVudmlyb25bIlNBTkRCT1hfSU1BR0UiXSA9ICJweXRob246My4xMi1zbGltIgogICAgdHJ5OgogICAgICAgIGV4ID0gYnVpbGRfZXhlY3V0b3IoKQogICAgICAgIGFzc2VydCBleC5iYWNrZW5kID09ICJkb2NrZXIiIGFuZCBleC5pbWFnZSA9PSAicHl0aG9uOjMuMTItc2xpbSIKICAgIGZpbmFsbHk6CiAgICAgICAgZGVsIG9zLmVudmlyb25bIlNBTkRCT1hfQkFDS0VORCJdOyBkZWwgb3MuZW52aXJvblsiU0FOREJPWF9JTUFHRSJdCg==
+"""tests/test_sandbox.py — 沙箱执行器（问题2）。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.sandbox_executor import SandboxExecutor, build_executor
+
+
+def test_normal_code_runs():
+    r = SandboxExecutor(timeout=5).execute("print(sorted([3,1,2]))")
+    assert r["available"] and r["exit_code"] == 0 and "[1, 2, 3]" in r["stdout"]
+
+
+def test_error_code_captured():
+    r = SandboxExecutor(timeout=5).execute("1 + 'a'")
+    assert r["exit_code"] != 0 and "TypeError" in r["stderr"]
+
+
+def test_timeout_enforced():
+    r = SandboxExecutor(timeout=2).execute("while True: pass")
+    assert r["timed_out"] and "timeout" in r["error"]
+
+
+def test_unavailable_degrades_gracefully():
+    r = SandboxExecutor(available=False).execute("print(1)")
+    assert r["available"] is False and r["error"] == "sandbox_not_available"
+
+
+def test_unsupported_language():
+    r = SandboxExecutor().execute("console.log(1)", language="javascript")
+    assert "unsupported_language" in r["error"]
+
+
+def test_build_executor_env_toggle(monkeypatch=None):
+    os.environ["SANDBOX_ENABLED"] = "0"
+    try:
+        assert build_executor().available is False
+    finally:
+        del os.environ["SANDBOX_ENABLED"]
+
+
+def test_docker_backend_builds_correct_command(monkeypatch=None):
+    """Docker 后端：构造正确的隔离命令（不真跑 docker，只校验参数齐全）。"""
+    import backend.sandbox_executor as se
+    captured = {}
+    class FakeCompleted:
+        returncode = 0; stdout = "[1, 2, 3]"; stderr = ""
+    def fake_run(cmd, **kw):
+        captured["cmd"] = cmd
+        return FakeCompleted()
+    orig = se.subprocess.run
+    se.subprocess.run = fake_run
+    try:
+        ex = se.SandboxExecutor(backend="docker", mem_mb=128)
+        r = ex.execute("print(1)")
+        cmd = " ".join(captured["cmd"])
+        # 全套隔离参数都在
+        assert "--network=none" in cmd          # 禁网
+        assert "--read-only" in cmd             # 只读根
+        assert "--cap-drop=ALL" in cmd          # 丢能力
+        assert "--security-opt=no-new-privileges" in cmd
+        assert "--memory=128m" in cmd
+        assert "--pids-limit=64" in cmd
+        assert "65534:65534" in cmd             # 非 root
+        assert r["backend"] == "docker" and r["exit_code"] == 0
+    finally:
+        se.subprocess.run = orig
+
+
+def test_docker_not_found_degrades():
+    import backend.sandbox_executor as se
+    orig = se.subprocess.run
+    def boom(*a, **k): raise FileNotFoundError()
+    se.subprocess.run = boom
+    try:
+        r = se.SandboxExecutor(backend="docker").execute("print(1)")
+        assert r["available"] is False and "docker_not_found" in r["error"]
+    finally:
+        se.subprocess.run = orig
+
+
+def test_build_executor_docker_env():
+    os.environ["SANDBOX_BACKEND"] = "docker"
+    os.environ["SANDBOX_IMAGE"] = "python:3.12-slim"
+    try:
+        ex = build_executor()
+        assert ex.backend == "docker" and ex.image == "python:3.12-slim"
+    finally:
+        del os.environ["SANDBOX_BACKEND"]; del os.environ["SANDBOX_IMAGE"]

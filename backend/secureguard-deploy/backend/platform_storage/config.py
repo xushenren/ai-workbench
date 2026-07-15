@@ -1,1 +1,30 @@
-IiIicGxhdGZvcm1fc3RvcmFnZS5jb25maWcg4oCUIFNUT1JBR0VfUFJPRklMRSDliIfmjaIgbG9jYWx8Y2x1c3Rlciznu5nkuJrliqHnu5/kuIDlt6XljoLjgIIiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgb3MKZnJvbSAubG9jYWxfdmVjdG9yX3N0b3JlIGltcG9ydCBMb2NhbFZlY3RvclN0b3JlCmZyb20gLmxvY2FsX2Jsb2Jfc3RvcmUgaW1wb3J0IExvY2FsQmxvYlN0b3JlCgpkZWYgZGF0YV9kaXIoKSAtPiBzdHI6CiAgICByZXR1cm4gb3MuZ2V0ZW52KCJEQVRBX0RJUiIsICIuL2RhdGEiKQoKZGVmIHByb2ZpbGUoKSAtPiBzdHI6CiAgICByZXR1cm4gb3MuZ2V0ZW52KCJTVE9SQUdFX1BST0ZJTEUiLCAibG9jYWwiKS5sb3dlcigpCgpkZWYgbWFrZV92ZWN0b3Jfc3RvcmUoKToKICAgIGlmIHByb2ZpbGUoKSA9PSAiY2x1c3RlciI6CiAgICAgICAgIyDpm4blm6I65b6F5o6lIFFkcmFudFN0b3JlKOm+meiZvuWkh+WlvSBRRFJBTlRfVVJMIOWQjuaOpSk7546w6ZmN57qn5pys5ZywLOmBv+WFjeWQr+WKqOWksei0pQogICAgICAgIHRyeToKICAgICAgICAgICAgZnJvbSAucWRyYW50X3N0b3JlIGltcG9ydCBRZHJhbnRTdG9yZSAgIyDmnKrmnaXlrp7njrAKICAgICAgICAgICAgcmV0dXJuIFFkcmFudFN0b3JlKG9zLmdldGVudigiUURSQU5UX1VSTCIpLCBvcy5nZXRlbnYoIlFEUkFOVF9BUElfS0VZIikpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwogICAgcmV0dXJuIExvY2FsVmVjdG9yU3RvcmUob3MucGF0aC5qb2luKGRhdGFfZGlyKCksICJ2ZWN0b3JzLmRiIikpCgpkZWYgbWFrZV9ibG9iX3N0b3JlKCk6CiAgICBpZiBwcm9maWxlKCkgPT0gImNsdXN0ZXIiOgogICAgICAgIHRyeToKICAgICAgICAgICAgZnJvbSAuczNfYmxvYl9zdG9yZSBpbXBvcnQgUzNCbG9iU3RvcmUgICMg5pyq5p2l5a6e546wCiAgICAgICAgICAgIHJldHVybiBTM0Jsb2JTdG9yZSgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwogICAgcmV0dXJuIExvY2FsQmxvYlN0b3JlKG9zLnBhdGguam9pbihkYXRhX2RpcigpLCAiYmxvYnMiKSkK
+"""platform_storage.config — STORAGE_PROFILE 切换 local|cluster,给业务统一工厂。"""
+from __future__ import annotations
+import os
+from .local_vector_store import LocalVectorStore
+from .local_blob_store import LocalBlobStore
+
+def data_dir() -> str:
+    return os.getenv("DATA_DIR", "./data")
+
+def profile() -> str:
+    return os.getenv("STORAGE_PROFILE", "local").lower()
+
+def make_vector_store():
+    if profile() == "cluster":
+        # 集团:待接 QdrantStore(龙虾备好 QDRANT_URL 后接);现降级本地,避免启动失败
+        try:
+            from .qdrant_store import QdrantStore  # 未来实现
+            return QdrantStore(os.getenv("QDRANT_URL"), os.getenv("QDRANT_API_KEY"))
+        except Exception:
+            pass
+    return LocalVectorStore(os.path.join(data_dir(), "vectors.db"))
+
+def make_blob_store():
+    if profile() == "cluster":
+        try:
+            from .s3_blob_store import S3BlobStore  # 未来实现
+            return S3BlobStore()
+        except Exception:
+            pass
+    return LocalBlobStore(os.path.join(data_dir(), "blobs"))

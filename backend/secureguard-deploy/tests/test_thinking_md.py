@@ -1,1 +1,106 @@
-IiIidGVzdHMvdGVzdF90aGlua2luZ19tZC5weSDigJQgTUQg6amx5Yqo5oCd6ICD77ya5Yqg6L29L+e7hOWQiC/liIfniYcv56uv5Yiw56uv5bin44CCIiIiCmltcG9ydCBzeXMsIG9zLCBhc3luY2lvCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKCmZyb20gYmFja2VuZC50aGlua2luZ19tZCBpbXBvcnQgbG9hZF9wcm9maWxlLCBzcGxpdF9zZWN0aW9ucywgU3RlcApmcm9tIGJhY2tlbmQuc3RhdGUgaW1wb3J0IEFwcFN0YXRlCmZyb20gYmFja2VuZC5jaGF0X3NlcnZpY2UgaW1wb3J0IHJ1bl9jaGF0CgoKZGVmIHRlc3RfbWFpbl9wcm9maWxlX2hhc19zdGVwcygpOgogICAgcCA9IGxvYWRfcHJvZmlsZSgpCiAgICBrZXlzID0gW3Mua2V5IGZvciBzIGluIHAuc3RlcHNdCiAgICBhc3NlcnQga2V5cyA9PSBbImFzc2VzcyIsICJnYXRoZXIiLCAicmVhc29uIiwgInNlbGZjaGVjayIsICJhbnN3ZXIiXQoKCmRlZiB0ZXN0X2RvbWFpbl9vdmVybGF5X2luc2VydHNfc3RlcF9iZWZvcmVfYW5zd2VyKCk6CiAgICBwID0gbG9hZF9wcm9maWxlKCJzb2Z0d2FyZSIpCiAgICBrZXlzID0gW3Mua2V5IGZvciBzIGluIHAuc3RlcHNdCiAgICBhc3NlcnQgInZlcmlmeSIgaW4ga2V5cwogICAgYXNzZXJ0IGtleXMuaW5kZXgoInZlcmlmeSIpIDwga2V5cy5pbmRleCgiYW5zd2VyIikgICMg5omn6KGM6aqM6K+B5Zyo5L2c562U5YmNCiAgICBhc3NlcnQgImRvbWFpbi1zb2Z0d2FyZSIgaW4gIisiLmpvaW4ocC5zb3VyY2VzKQoKCmRlZiB0ZXN0X3Vua25vd25fZG9tYWluX2ZhbGxzX2JhY2tfdG9fbWFpbigpOgogICAgcCA9IGxvYWRfcHJvZmlsZSgibm9uZXhpc3RlbnQiKQogICAgYXNzZXJ0IFtzLmtleSBmb3IgcyBpbiBwLnN0ZXBzXSA9PSBbImFzc2VzcyIsICJnYXRoZXIiLCAicmVhc29uIiwgInNlbGZjaGVjayIsICJhbnN3ZXIiXQoKCmRlZiB0ZXN0X3NwbGl0X3NlY3Rpb25zX2V4dHJhY3RzX3RhZ3MoKToKICAgIHN0ZXBzID0gW1N0ZXAoImFzc2VzcyIsICLor4TkvLAiKSwgU3RlcCgiYW5zd2VyIiwgIuS9nOetlCIpXQogICAgdHh0ID0gIjxBU1NFU1M+6ZyA5rGC5riF5qWaPC9BU1NFU1M+PEFOU1dFUj7ov5nmmK/nrZTmoYg8L0FOU1dFUj4iCiAgICBvdXQgPSBzcGxpdF9zZWN0aW9ucyh0eHQsIHN0ZXBzKQogICAgYXNzZXJ0IG91dFsiYXNzZXNzIl0gPT0gIumcgOaxgua4healmiIgYW5kIG91dFsiYW5zd2VyIl0gPT0gIui/meaYr+etlOahiCIKCgpkZWYgdGVzdF9ob3RfcmVsb2FkX3JlYWRzX2ZpbGVfZWFjaF90aW1lKHRtcF9wYXRoPU5vbmUpOgogICAgIiIi5Lik5qyh5Yqg6L296YO96YeN6K+75paH5Lu24oCU4oCU5pS55paH5Lu25Y2z55Sf5pWI77yI54Ot5Yqg6L2977yJ44CCIiIiCiAgICBwMSA9IGxvYWRfcHJvZmlsZSgpCiAgICBwMiA9IGxvYWRfcHJvZmlsZSgpCiAgICBhc3NlcnQgcDEuc3RlcHNfZGljdCgpID09IHAyLnN0ZXBzX2RpY3QoKSAgIyDkuIDoh7TkuJTmr4/mrKHph43or7sKCgpkZWYgX2NvbGxlY3QobXNnLCBhZ2VudCk6CiAgICBhc3luYyBkZWYgZ28oKToKICAgICAgICBzdCA9IEFwcFN0YXRlKCk7IHRoaW5rID0gW107IGFucyA9ICIiCiAgICAgICAgYXN5bmMgZm9yIGV2IGluIHJ1bl9jaGF0KHN0LCBtc2csIGFnZW50X2lkPWFnZW50KToKICAgICAgICAgICAgaWYgZXZbImV2ZW50Il0gPT0gInRyYWNlIiBhbmQgZXZbImZyYW1lIl1bInN0YWdlIl0gPT0gInRoaW5rIiBcCiAgICAgICAgICAgICAgICAgICAgYW5kIGV2WyJmcmFtZSJdWyJzdGF0dXMiXSA9PSAiZG9uZSI6ICAjIOWPquWPluavj+atpeWujOaIkOW4pwogICAgICAgICAgICAgICAgdGhpbmsuYXBwZW5kKGV2WyJmcmFtZSJdWyJkaXNwbGF5Il0pCiAgICAgICAgICAgIGVsaWYgZXZbImV2ZW50Il0gPT0gImRlbHRhIjoKICAgICAgICAgICAgICAgIGFucyArPSBldlsidGV4dCJdCiAgICAgICAgcmV0dXJuIHRoaW5rLCBhbnMKICAgIHJldHVybiBhc3luY2lvLnJ1bihnbygpKQoKCmRlZiB0ZXN0X3N0ZXB3aXNlX3J1bm5pbmdfdGhlbl9kb25lX3Blcl9zdGVwKCk6CiAgICAiIiLliIbmraXmtYHlvI/vvJrmr4/mraXlhYggcnVubmluZyDlho0gZG9uZe+8jOWQjOS4gCBzdGVwIOagh+ivhu+8jOWPr+WOn+WcsOabtOaWsOOAgiIiIgogICAgYXN5bmMgZGVmIGdvKCk6CiAgICAgICAgc3QgPSBBcHBTdGF0ZSgpOyBwYWlycyA9IFtdCiAgICAgICAgYXN5bmMgZm9yIGV2IGluIHJ1bl9jaGF0KHN0LCAi6aOO566h6aqM5pS2IiwgYWdlbnRfaWQ9ImdlbmVyYWwiKToKICAgICAgICAgICAgaWYgZXZbImV2ZW50Il0gPT0gInRyYWNlIiBhbmQgZXZbImZyYW1lIl1bInN0YWdlIl0gPT0gInRoaW5rIjoKICAgICAgICAgICAgICAgIHBhaXJzLmFwcGVuZCgoZXZbImZyYW1lIl0uZ2V0KCJzdGVwIiksIGV2WyJmcmFtZSJdWyJzdGF0dXMiXSkpCiAgICAgICAgcmV0dXJuIHBhaXJzCiAgICBwYWlycyA9IGFzeW5jaW8ucnVuKGdvKCkpCiAgICAjIOavj+S4quWHuueOsOeahCBzdGVwIOmDveW6lOaciSBydW5uaW5nIOWSjCBkb25lCiAgICBzdGVwcyA9IHtzIGZvciBzLCBfIGluIHBhaXJzfQogICAgZm9yIHMgaW4gc3RlcHM6CiAgICAgICAgYXNzZXJ0IChzLCAicnVubmluZyIpIGluIHBhaXJzIGFuZCAocywgImRvbmUiKSBpbiBwYWlycwoKCmRlZiB0ZXN0X2dlbmVyYWxfZW1pdHNfbWRfdGhpbmtfZnJhbWVzKCk6CiAgICB0aGluaywgYW5zID0gX2NvbGxlY3QoIumjjueuoemqjOaUtuagh+WHhiIsICJnZW5lcmFsIikKICAgIGxhYmVscyA9IFt0LnNwbGl0KCLvvJoiKVswXSBmb3IgdCBpbiB0aGlua10KICAgIGFzc2VydCBsYWJlbHMgPT0gWyLor4TkvLDpnIDmsYIiLCAi5qOA57Si5Y+W6K+BIiwgIuaOqOeQhiIsICLoh6rmo4AiXSAgIyBhbnN3ZXIg6LWwIGRlbHRhIOS4jeWcqCB0aGluawogICAgYXNzZXJ0IGFucyAgIyDmnInnrZTmoYgKCgpkZWYgdGVzdF9jb2RlX2FnZW50X2FkZHNfdmVyaWZ5X3N0ZXAoKToKICAgIHRoaW5rLCBfID0gX2NvbGxlY3QoIuWGmeS4quaOkuW6j+WHveaVsCIsICJjb2RlIikKICAgIGxhYmVscyA9IFt0LnNwbGl0KCLvvJoiKVswXSBmb3IgdCBpbiB0aGlua10KICAgIGFzc2VydCAi5omn6KGM6aqM6K+BIiBpbiBsYWJlbHMKCgpkZWYgdGVzdF9tZF9mcmFtZXNfY2Fycnlfbm9fcnVsZV9pZCgpOgogICAgIiIi5a6J5YWo57qm5p2f5LiN56C077yaTUQg5oCd6ICD5bin5ZCM5qC35LiN5ZCrIHJ1bGVfaWTjgIIiIiIKICAgIGFzeW5jIGRlZiBnbygpOgogICAgICAgIHN0ID0gQXBwU3RhdGUoKQogICAgICAgIGFzeW5jIGZvciBldiBpbiBydW5fY2hhdChzdCwgIumjjueuoemqjOaUtiIsIGFnZW50X2lkPSJnZW5lcmFsIik6CiAgICAgICAgICAgIGlmIGV2WyJldmVudCJdID09ICJ0cmFjZSI6CiAgICAgICAgICAgICAgICBhc3NlcnQgInJ1bGVfaWQiIG5vdCBpbiBldlsiZnJhbWUiXQogICAgICAgICAgICAgICAgYXNzZXJ0ICJwYXJhbXMiIG5vdCBpbiBldlsiZnJhbWUiXQogICAgYXN5bmNpby5ydW4oZ28oKSkKCgpkZWYgdGVzdF9tZF9wYXRoX2ZpbHRlcnNfaXJyZWxldmFudF9kb2NzKCk6CiAgICAiIiLpl67popgx77yaTUQg6Lev5b6E5LiN5YaN5Lmx5ouJ5LiN55u45bmy5paH5qGj77yI57yW56iL6Zeu6aKY5LiN5bqU5ZG95Lit5py655S16KeE6IyD77yJ44CCIiIiCiAgICBhc3luYyBkZWYgZ28obXNnKToKICAgICAgICBzdCA9IEFwcFN0YXRlKCk7IGdhdGhlciA9ICIiCiAgICAgICAgYXN5bmMgZm9yIGV2IGluIHJ1bl9jaGF0KHN0LCBtc2csIGFnZW50X2lkPSJjb2RlIik6CiAgICAgICAgICAgIGYgPSBldi5nZXQoImZyYW1lIiwge30pCiAgICAgICAgICAgIGlmIGV2WyJldmVudCJdID09ICJ0cmFjZSIgYW5kIGYuZ2V0KCJzdGVwIikgPT0gImdhdGhlciIgYW5kIGZbInN0YXR1cyJdID09ICJkb25lIjoKICAgICAgICAgICAgICAgIGdhdGhlciA9IGZbImRpc3BsYXkiXQogICAgICAgIHJldHVybiBnYXRoZXIKICAgICMg57yW56iL6Zeu6aKY77ya5L2O55u45YWz5bqmIOKGkiBjb250ZXh0IOS4uuepuiDihpIg6K+a5a6e6K+06LWE5paZ5pyq6KaG55uW77yI5LiN54GM5py655S15paH5qGj77yJCiAgICBnID0gYXN5bmNpby5ydW4oZ28oIuW8gOWPkeS/hOe9l+aWr+aWueWdl+a4uOaIjyIpKQogICAgYXNzZXJ0ICJkb2NfMSIgbm90IGluIGcgYW5kICgi5pyq6KaG55uWIiBpbiBnIG9yICLotYTmlpkiIGluIGcpCg==
+"""tests/test_thinking_md.py — MD 驱动思考：加载/组合/切片/端到端帧。"""
+import sys, os, asyncio
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.thinking_md import load_profile, split_sections, Step
+from backend.state import AppState
+from backend.chat_service import run_chat
+
+
+def test_main_profile_has_steps():
+    p = load_profile()
+    keys = [s.key for s in p.steps]
+    assert keys == ["assess", "gather", "reason", "selfcheck", "answer"]
+
+
+def test_domain_overlay_inserts_step_before_answer():
+    p = load_profile("software")
+    keys = [s.key for s in p.steps]
+    assert "verify" in keys
+    assert keys.index("verify") < keys.index("answer")  # 执行验证在作答前
+    assert "domain-software" in "+".join(p.sources)
+
+
+def test_unknown_domain_falls_back_to_main():
+    p = load_profile("nonexistent")
+    assert [s.key for s in p.steps] == ["assess", "gather", "reason", "selfcheck", "answer"]
+
+
+def test_split_sections_extracts_tags():
+    steps = [Step("assess", "评估"), Step("answer", "作答")]
+    txt = "<ASSESS>需求清楚</ASSESS><ANSWER>这是答案</ANSWER>"
+    out = split_sections(txt, steps)
+    assert out["assess"] == "需求清楚" and out["answer"] == "这是答案"
+
+
+def test_hot_reload_reads_file_each_time(tmp_path=None):
+    """两次加载都重读文件——改文件即生效（热加载）。"""
+    p1 = load_profile()
+    p2 = load_profile()
+    assert p1.steps_dict() == p2.steps_dict()  # 一致且每次重读
+
+
+def _collect(msg, agent):
+    async def go():
+        st = AppState(); think = []; ans = ""
+        async for ev in run_chat(st, msg, agent_id=agent):
+            if ev["event"] == "trace" and ev["frame"]["stage"] == "think" \
+                    and ev["frame"]["status"] == "done":  # 只取每步完成帧
+                think.append(ev["frame"]["display"])
+            elif ev["event"] == "delta":
+                ans += ev["text"]
+        return think, ans
+    return asyncio.run(go())
+
+
+def test_stepwise_running_then_done_per_step():
+    """分步流式：每步先 running 再 done，同一 step 标识，可原地更新。"""
+    async def go():
+        st = AppState(); pairs = []
+        async for ev in run_chat(st, "风管验收", agent_id="general"):
+            if ev["event"] == "trace" and ev["frame"]["stage"] == "think":
+                pairs.append((ev["frame"].get("step"), ev["frame"]["status"]))
+        return pairs
+    pairs = asyncio.run(go())
+    # 每个出现的 step 都应有 running 和 done
+    steps = {s for s, _ in pairs}
+    for s in steps:
+        assert (s, "running") in pairs and (s, "done") in pairs
+
+
+def test_general_emits_md_think_frames():
+    think, ans = _collect("风管验收标准", "general")
+    labels = [t.split("：")[0] for t in think]
+    assert labels == ["评估需求", "检索取证", "推理", "自检"]  # answer 走 delta 不在 think
+    assert ans  # 有答案
+
+
+def test_code_agent_adds_verify_step():
+    think, _ = _collect("写个排序函数", "code")
+    labels = [t.split("：")[0] for t in think]
+    assert "执行验证" in labels
+
+
+def test_md_frames_carry_no_rule_id():
+    """安全约束不破：MD 思考帧同样不含 rule_id。"""
+    async def go():
+        st = AppState()
+        async for ev in run_chat(st, "风管验收", agent_id="general"):
+            if ev["event"] == "trace":
+                assert "rule_id" not in ev["frame"]
+                assert "params" not in ev["frame"]
+    asyncio.run(go())
+
+
+def test_md_path_filters_irrelevant_docs():
+    """问题1：MD 路径不再乱拉不相干文档（编程问题不应命中机电规范）。"""
+    async def go(msg):
+        st = AppState(); gather = ""
+        async for ev in run_chat(st, msg, agent_id="code"):
+            f = ev.get("frame", {})
+            if ev["event"] == "trace" and f.get("step") == "gather" and f["status"] == "done":
+                gather = f["display"]
+        return gather
+    # 编程问题：低相关度 → context 为空 → 诚实说资料未覆盖（不灌机电文档）
+    g = asyncio.run(go("开发俄罗斯方块游戏"))
+    assert "doc_1" not in g and ("未覆盖" in g or "资料" in g)

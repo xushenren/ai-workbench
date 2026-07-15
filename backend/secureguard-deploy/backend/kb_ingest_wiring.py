@@ -1,1 +1,68 @@
-IiIiYmFja2VuZC5rYl9pbmdlc3Rfd2lyaW5nIOKAlCDmiorop6PmnpDlmagv5pig5bCE6KGoL09DUi/phY3nva7mjqXliLDkuIDotbcs5L6b56uv54K56LCD55So44CCIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IGpzb24sIG9zLCBzdWJwcm9jZXNzLCB0ZW1wZmlsZQpmcm9tIC5rYl9wYXJzZXJfcmVnaXN0cnkgaW1wb3J0IFBhcnNlclJlZ2lzdHJ5CmZyb20gLmtiX2JhdGNoX2luZ2VzdCBpbXBvcnQgSW5nZXN0Q29uZmlnCmZyb20gLmtiX2RvY19wYXJzZXJzIGltcG9ydCBnZXRfcGFyc2VyCgpEQVRBX0RJUiA9IG9zLmdldGVudigiREFUQV9ESVIiLCAiLi9kYXRhIikKX0NGR19QQVRIID0gb3MucGF0aC5qb2luKERBVEFfRElSLCAiaW5nZXN0X2NvbmZpZy5qc29uIikKClJFR0lTVFJZID0gUGFyc2VyUmVnaXN0cnkoKSAgICAgICAgICAgIyDov5vnqIvlhoU75aaC6ZyA5oyB5LmF5YyW5pig5bCELOWPr+iQvSBEQVRBX0RJUgoKZGVmIGxvYWRfY29uZmlnKCkgLT4gSW5nZXN0Q29uZmlnOgogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbihfQ0ZHX1BBVEgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIHJldHVybiBJbmdlc3RDb25maWcoKipqc29uLmxvYWQoZikpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHJldHVybiBJbmdlc3RDb25maWcoKQoKZGVmIHNhdmVfY29uZmlnKGNmZzogSW5nZXN0Q29uZmlnKSAtPiBOb25lOgogICAgb3MubWFrZWRpcnMoREFUQV9ESVIsIGV4aXN0X29rPVRydWUpCiAgICB3aXRoIG9wZW4oX0NGR19QQVRILCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKGNmZy5fX2RpY3RfXywgZiwgZW5zdXJlX2FzY2lpPUZhbHNlKQoKIyAtLS0tIE9DUiDlt6XljoIoUGFkZGxlT0NSO+euoeeQhuWQjuWPsOW8gOWFs+aOp+WItuaYr+WQpuWQr+eUqCktLS0tCl9vY3IgPSBOb25lCmRlZiBtYWtlX29jcl9mbihsYW5nOiBzdHIgPSAiY2giKToKICAgICIiIui/lOWbniBieXRlcy0+c3RyIOeahCBPQ1Ig5Ye95pWwO+aHkuWKoOi9vSBQYWRkbGVPQ1LjgILoo4XlupPlnKjmnI3liqHlmajjgIIiIiIKICAgIGdsb2JhbCBfb2NyCiAgICBkZWYgb2NyX2ZuKGltZ19ieXRlczogYnl0ZXMpIC0+IHN0cjoKICAgICAgICBnbG9iYWwgX29jcgogICAgICAgIGlmIF9vY3IgaXMgTm9uZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZnJvbSBwYWRkbGVvY3IgaW1wb3J0IFBhZGRsZU9DUgogICAgICAgICAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIumcgOWuieijhSBwYWRkbGVvY3IgKyBwYWRkbGVwYWRkbGUo6b6Z6Jm+6YOo572yKSIpCiAgICAgICAgICAgIF9vY3IgPSBQYWRkbGVPQ1IodXNlX2FuZ2xlX2Nscz1UcnVlLCBsYW5nPWxhbmcsIHNob3dfbG9nPUZhbHNlKQogICAgICAgIGltcG9ydCBudW1weSBhcyBucCAgIyBub3FhCiAgICAgICAgZnJvbSBQSUwgaW1wb3J0IEltYWdlCiAgICAgICAgaW1wb3J0IGlvIGFzIF9pbwogICAgICAgIGltZyA9IEltYWdlLm9wZW4oX2lvLkJ5dGVzSU8oaW1nX2J5dGVzKSkuY29udmVydCgiUkdCIikKICAgICAgICByZXMgPSBfb2NyLm9jcihucC5hcnJheShpbWcpLCBjbHM9VHJ1ZSkKICAgICAgICBsaW5lcyA9IFtdCiAgICAgICAgZm9yIHBhZ2UgaW4gKHJlcyBvciBbXSk6CiAgICAgICAgICAgIGZvciBsaW5lIGluIChwYWdlIG9yIFtdKToKICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZChsaW5lWzFdWzBdKQogICAgICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCiAgICByZXR1cm4gb2NyX2ZuCgpkZWYgbWFrZV9leHRyYWN0X2ZuKGNmZzogSW5nZXN0Q29uZmlnKToKICAgIG9jcl9mbiA9IG1ha2Vfb2NyX2ZuKGNmZy5vY3JfbGFuZykgaWYgY2ZnLm9jcl9lbmFibGVkIGVsc2UgTm9uZQogICAgZGVmIGV4dHJhY3QobmFtZSwgZGF0YSwgcmVnaXN0cnksIGNmZyk6CiAgICAgICAgZXh0ID0gb3MucGF0aC5zcGxpdGV4dChuYW1lKVsxXS5sb3dlcigpCiAgICAgICAgbSA9IHJlZ2lzdHJ5LnJlc29sdmUoZXh0KQogICAgICAgIGlmIG0uZXh0ZXJuYWxfY21kOiAgICAgICAgICAgICAgICAgICAgICAgIyDkuJPmnInmoLzlvI/otbDlpJbpg6jlt6XlhbcKICAgICAgICAgICAgcmV0dXJuIF9ydW5fZXh0ZXJuYWwobS5leHRlcm5hbF9jbWQsIGRhdGEsIGV4dCkKICAgICAgICByZXR1cm4gZ2V0X3BhcnNlcihtLnBhcnNlcikoZGF0YSwgb2NyX2ZuPShvY3JfZm4gaWYgY2ZnLm9jcl9lbmFibGVkIGVsc2UgTm9uZSkpCiAgICByZXR1cm4gZXh0cmFjdAoKZGVmIF9ydW5fZXh0ZXJuYWwoY21kX3RwbDogc3RyLCBkYXRhOiBieXRlcywgZXh0OiBzdHIpIC0+IHN0cjoKICAgIHdpdGggdGVtcGZpbGUuVGVtcG9yYXJ5RGlyZWN0b3J5KCkgYXMgZDoKICAgICAgICBpbnAgPSBvcy5wYXRoLmpvaW4oZCwgImluIiArIGV4dCk7IG91dCA9IG9zLnBhdGguam9pbihkLCAib3V0LnR4dCIpCiAgICAgICAgd2l0aCBvcGVuKGlucCwgIndiIikgYXMgZjogZi53cml0ZShkYXRhKQogICAgICAgIGNtZCA9IGNtZF90cGwucmVwbGFjZSgie2lucHV0fSIsIGlucCkucmVwbGFjZSgie291dHB1dH0iLCBvdXQpCiAgICAgICAgc3VicHJvY2Vzcy5ydW4oY21kLCBzaGVsbD1UcnVlLCB0aW1lb3V0PTEyMCwgY2hlY2s9RmFsc2UpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMob3V0KToKICAgICAgICAgICAgcmV0dXJuIG9wZW4ob3V0LCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKS5yZWFkKCkKICAgICAgICByZXR1cm4gIiIK
+"""backend.kb_ingest_wiring — 把解析器/映射表/OCR/配置接到一起,供端点调用。"""
+from __future__ import annotations
+import json, os, subprocess, tempfile
+from .kb_parser_registry import ParserRegistry
+from .kb_batch_ingest import IngestConfig
+from .kb_doc_parsers import get_parser
+
+DATA_DIR = os.getenv("DATA_DIR", "./data")
+_CFG_PATH = os.path.join(DATA_DIR, "ingest_config.json")
+
+REGISTRY = ParserRegistry()           # 进程内;如需持久化映射,可落 DATA_DIR
+
+def load_config() -> IngestConfig:
+    try:
+        with open(_CFG_PATH, encoding="utf-8") as f:
+            return IngestConfig(**json.load(f))
+    except Exception:
+        return IngestConfig()
+
+def save_config(cfg: IngestConfig) -> None:
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(_CFG_PATH, "w", encoding="utf-8") as f:
+        json.dump(cfg.__dict__, f, ensure_ascii=False)
+
+# ---- OCR 工厂(PaddleOCR;管理后台开关控制是否启用)----
+_ocr = None
+def make_ocr_fn(lang: str = "ch"):
+    """返回 bytes->str 的 OCR 函数;懒加载 PaddleOCR。装库在服务器。"""
+    global _ocr
+    def ocr_fn(img_bytes: bytes) -> str:
+        global _ocr
+        if _ocr is None:
+            try:
+                from paddleocr import PaddleOCR
+            except ImportError:
+                raise RuntimeError("需安装 paddleocr + paddlepaddle(龙虾部署)")
+            _ocr = PaddleOCR(use_angle_cls=True, lang=lang, show_log=False)
+        import numpy as np  # noqa
+        from PIL import Image
+        import io as _io
+        img = Image.open(_io.BytesIO(img_bytes)).convert("RGB")
+        res = _ocr.ocr(np.array(img), cls=True)
+        lines = []
+        for page in (res or []):
+            for line in (page or []):
+                lines.append(line[1][0])
+        return "\n".join(lines)
+    return ocr_fn
+
+def make_extract_fn(cfg: IngestConfig):
+    ocr_fn = make_ocr_fn(cfg.ocr_lang) if cfg.ocr_enabled else None
+    def extract(name, data, registry, cfg):
+        ext = os.path.splitext(name)[1].lower()
+        m = registry.resolve(ext)
+        if m.external_cmd:                       # 专有格式走外部工具
+            return _run_external(m.external_cmd, data, ext)
+        return get_parser(m.parser)(data, ocr_fn=(ocr_fn if cfg.ocr_enabled else None))
+    return extract
+
+def _run_external(cmd_tpl: str, data: bytes, ext: str) -> str:
+    with tempfile.TemporaryDirectory() as d:
+        inp = os.path.join(d, "in" + ext); out = os.path.join(d, "out.txt")
+        with open(inp, "wb") as f: f.write(data)
+        cmd = cmd_tpl.replace("{input}", inp).replace("{output}", out)
+        subprocess.run(cmd, shell=True, timeout=120, check=False)
+        if os.path.exists(out):
+            return open(out, encoding="utf-8", errors="replace").read()
+        return ""

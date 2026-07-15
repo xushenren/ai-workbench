@@ -1,1 +1,118 @@
-IiIic2VjdXJlZ3VhcmQudHlwZXMg4oCUIOWFqOagiOWFseS6q+eahOaVsOaNruexu+Wei+OAggoK6ZuG5Lit5a6a5LmJ5LqU5bGC5YWx55So55qE5p6a5Li+5LiO5pWw5o2u57G777yM6YG/5YWN5b6q546v5L6d6LWW44CC5omA5pyJ57G75Z6L6YO95piv57qv5qCH5YeG5bqT5a6e546w77yMCuS4jeW8leWFpeS7u+S9leesrOS4ieaWueS+nei1lu+8jOS/neivgeWuieWFqOWFs+mUruWxguWPr+S7peemu+e6v+i/kOihjOS4jua1i+ivleOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIGVudW0gaW1wb3J0IEVudW0KZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdCwgT3B0aW9uYWwKCgpjbGFzcyBUb2tlbihzdHIsIEVudW0pOgogICAgIiIi6Zeo5o6n5Zub5oCB44CC57un5om/IHN0ciDkvr/kuo4gSlNPTiDluo/liJfljJbkuI7ml6Xlv5fmiZPljbDjgIIKCiAgICBQQVNTICAgICDigJQg6K+l6Zeo6YCa6L+H77yM5pS+6KGM6Iez5LiL5LiA5bGC44CCCiAgICBBU0sgICAgICDigJQg5L+h5oGv57y65Y+j77yM6ZyA5ZCR5Lq657G76KGl5YWo5ZCO5LuO5pys6Zeo6YeN5YWl44CCCiAgICBCTE9DSyAgICDigJQg5ZG95Lit57qm5p2f77yM5pa55qGI5LiN5Y+v6KGM77yM57uI5q2i6K+l5Yqo5L2c44CCCiAgICBFU0NBTEFURSDigJQg6ZyA5Lq657G75pi+5byP5om55YeG77yIUjIgLyDnuqLnur/pgrvln5/vvInjgIIKICAgICIiIgoKICAgIFBBU1MgPSAiUEFTUyIKICAgIEFTSyA9ICJBU0siCiAgICBCTE9DSyA9ICJCTE9DSyIKICAgIEVTQ0FMQVRFID0gIkVTQ0FMQVRFIgoKCiMg5Luy6KOB6Zi25qKv77yIYXJiaXRyYXRpb24tYW5kLWdhdGVzLm1kIMKnMO+8ieOAgue0ouW8lei2iuWwj+S8mOWFiOe6p+i2iumrmOOAggojIOWJjSA0IOWxguS4uuKAnOWuieWFqOS+p+KAne+8jOawuOS4jeS4uuS7u+S9lee0p+aApeaDheWGteiuqei3r+OAggpMQURERVI6IExpc3Rbc3RyXSA9IFsKICAgICJSRURMSU5FL1IyIiwgICAgICAgICMgTDAgIOe6oue6vyAvIOmcgOS6uuexu+aJueWHhueahOS4jeWPr+mAhuaTjeS9nAogICAgIlBST0RfSU5URUdSSVRZIiwgICAgIyBMMSAg57q/5LiK5pWw5o2uL+eKtuaAgeWujOaVtOaAp++8iEg1IOS4jeWPr+mAhu+8iQogICAgIlNFQ1VSSVRZX0NPTlRST0wiLCAgIyBMMiAg5a6J5YWo5o6n5Yi277yI6K6k6K+BL+WKoOWvhi/lr4bpkqUv5p2D6ZmQL+Wuoeiuoe+8iQogICAgIkRPTUFJTl9HVUFSRCIsICAgICAgIyBMMyAg6aKG5Z+f56ys5Zub5bGC5oqk5qCP77yISDbvvIkKICAgICJDT1JSRUNUTkVTU19HQVRFIiwgICMgTDQgIOa1i+ivlS/or4TkvLAv5Y+v5aSN546w6Zeo77yIRGVmYXVsdC1GQUlM77yJCiAgICAiSFVNQU5fQVBQUk9WQUwiLCAgICAjIEw1ICBSMSDnsbvpnIDnoa7orqTmk43kvZzvvIhIMe+8iQogICAgIkRFTElWRVJZIiwgICAgICAgICAgIyBMNiAg5Lqk5LuY6ZOB5b6L77yISDTvvIkKICAgICJDT01NX0VUSVFVRVRURSIsICAgICMgTDcgIOmAmuS/oeekvOS7qu+8iEgz77yM5ZCr6Z2Z6buY5pe25q6177yJCiAgICAiRk9SSyIsICAgICAgICAgICAgICAjIEw4ICDlvILmraXliIbmtYHvvIhIMu+8iQogICAgIlZFTE9DSVRZIiwgICAgICAgICAgIyBMOSAg6YCf5bqm5LiO5LyY5YyW5YGP5aW9Cl0KCiMg5a6J5YWo5L6n5bGC57qn6ZuG5ZCI77ya6KKr6Kem5Y+R5pe25Y+q5Lya6K6p57qm5a6a5L6n6K6p6Lev77yM6Ieq5bex5rC45LiN6K6p6Lev44CCClNBRkVUWV9USUVSUyA9IHNldChMQURERVJbOjRdKQojIOe6puWumuS+p+Wxgue6p+mbhuWQiO+8muWPr+S4uue0p+aApeaDheWGteiuqeatpeOAggpFVElRVUVUVEVfVElFUlMgPSB7IkRFTElWRVJZIiwgIkNPTU1fRVRJUVVFVFRFIiwgIkZPUksiLCAiVkVMT0NJVFkifQoKCmRlZiB0aWVyX3JhbmsodGllcjogc3RyKSAtPiBpbnQ6CiAgICAiIiLov5Tlm57mn5DlsYLnuqflnKjpmLbmoq/kuIrnmoTluo/lj7fvvJvmnKrnn6XlsYLnuqfmjpLliLDmnIDkvY7kvJjlhYjnuqfjgIIiIiIKICAgIHRyeToKICAgICAgICByZXR1cm4gTEFEREVSLmluZGV4KHRpZXIpCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gbGVuKExBRERFUikgICMg5pyq55+l5bGC57qnID0g5pyA5L2O5LyY5YWI57qnCgoKQGRhdGFjbGFzcwpjbGFzcyBHYXRlUmVzdWx0OgogICAgIiIi5Y2V5Liq6Zeo55qE5Yik5a6a57uT5p6c44CCIiIiCgogICAgdG9rZW46IFRva2VuCiAgICByZWFzb246IHN0ciA9ICIiCiAgICBub3RpZnk6IGJvb2wgPSBGYWxzZSAgICAgICAgICAjIOaYr+WQpumcgOimgemAmuefpeS6uuexu++8iOe6oue6v+WRveS4reaXtuS4uiBUcnVl77yJCiAgICB0aWVyOiBPcHRpb25hbFtzdHJdID0gTm9uZSAgICAjIOinpuWPkeivpeWIpOWumueahOmYtuair+Wxgue6pwogICAgbm90ZTogc3RyID0gIiIgICAgICAgICAgICAgICAgIyDku7Loo4HpmYTms6jvvIjkvovlpoLigJznpLzku6rkuLrntKfmgKXorqnmraXigJ3vvIkKCiAgICBkZWYgdG9fZGljdChzZWxmKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAidG9rZW4iOiBzZWxmLnRva2VuLnZhbHVlLAogICAgICAgICAgICAicmVhc29uIjogc2VsZi5yZWFzb24sCiAgICAgICAgICAgICJub3RpZnkiOiBzZWxmLm5vdGlmeSwKICAgICAgICAgICAgInRpZXIiOiBzZWxmLnRpZXIsCiAgICAgICAgICAgICJub3RlIjogc2VsZi5ub3RlLAogICAgICAgIH0KCgpAZGF0YWNsYXNzCmNsYXNzIFJ1bGU6CiAgICAiIiLkuIDmnaHooqvop6blj5HnmoTop4TliJnjgILku7Loo4Hlmajmja7mraTlnKjpmLbmoq/kuIrmr5TovoPkvJjlhYjnuqfjgIIiIiIKCiAgICB0aWVyOiBzdHIgICAgICAgICAgICAgICAgICMg6K+l6KeE5YiZ5omA5bGe6Zi25qKv5bGC57qn77yI6KeBIExBRERFUu+8iQogICAgZGVzY3JpcHRpb246IHN0ciAgICAgICAgICAjIOS6uuexu+WPr+ivu+eahOinpuWPkeWOn+WboAogICAgdmVyZGljdDogR2F0ZVJlc3VsdCAgICAgICAjIOivpeinhOWImeWNleeLrOS4u+W8oOeahOe7k+aenAoKICAgIGRlZiByYW5rKHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gdGllcl9yYW5rKHNlbGYudGllcikKCgpAZGF0YWNsYXNzCmNsYXNzIENvbmZsaWN0OgogICAgIiIi5Lik5p2h5Y+K5Lul5LiK6KeE5YiZ5ZCM5pe26Kem5Y+R5pe25p6E6YCg77yM5Lqk57uZIGFyYml0cmF0ZSgpIOijgeWGs+OAgiIiIgoKICAgIHJ1bGVzOiBMaXN0W1J1bGVdCiAgICBhY3Rpb246IERpY3Rbc3RyLCBBbnldID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCgogICAgZGVmIHdpbm5lcihzZWxmKSAtPiBSdWxlOgogICAgICAgICIiIumYtuair+S4iuS8mOWFiOe6p+acgOmrmO+8iHJhbmsg5pyA5bCP77yJ55qE6KeE5YiZ6I636IOc44CCIiIiCiAgICAgICAgcmV0dXJuIG1pbihzZWxmLnJ1bGVzLCBrZXk9bGFtYmRhIHI6IHIucmFuaygpKQoKCkBkYXRhY2xhc3MKY2xhc3MgVHJhcFJlc3VsdDoKICAgICIiIkwwIOi+k+WFpeWuiOWNq+WRveS4reeahOWNleadoemZt+mYseOAgiIiIgoKICAgIGhpdDogYm9vbAogICAgdHJhcF90eXBlOiBzdHIKICAgIGV2aWRlbmNlOiBzdHIKICAgIGFjdGlvbjogc3RyICAjIEJMT0NLIC8gU0FOSVRJWkUgLyBBU0sKICAgIHBhdHRlcm5faWQ6IHN0ciA9ICIiCgogICAgZGVmIHRvX2RpY3Qoc2VsZikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgImhpdCI6IHNlbGYuaGl0LAogICAgICAgICAgICAidHJhcF90eXBlIjogc2VsZi50cmFwX3R5cGUsCiAgICAgICAgICAgICJldmlkZW5jZSI6IHNlbGYuZXZpZGVuY2UsCiAgICAgICAgICAgICJhY3Rpb24iOiBzZWxmLmFjdGlvbiwKICAgICAgICAgICAgInBhdHRlcm5faWQiOiBzZWxmLnBhdHRlcm5faWQsCiAgICAgICAgfQo=
+"""secureguard.types — 全栈共享的数据类型。
+
+集中定义五层共用的枚举与数据类，避免循环依赖。所有类型都是纯标准库实现，
+不引入任何第三方依赖，保证安全关键层可以离线运行与测试。
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from enum import Enum
+from typing import Any, Dict, List, Optional
+
+
+class Token(str, Enum):
+    """门控四态。继承 str 便于 JSON 序列化与日志打印。
+
+    PASS     — 该门通过，放行至下一层。
+    ASK      — 信息缺口，需向人类补全后从本门重入。
+    BLOCK    — 命中约束，方案不可行，终止该动作。
+    ESCALATE — 需人类显式批准（R2 / 红线邻域）。
+    """
+
+    PASS = "PASS"
+    ASK = "ASK"
+    BLOCK = "BLOCK"
+    ESCALATE = "ESCALATE"
+
+
+# 仲裁阶梯（arbitration-and-gates.md §0）。索引越小优先级越高。
+# 前 4 层为“安全侧”，永不为任何紧急情况让路。
+LADDER: List[str] = [
+    "REDLINE/R2",        # L0  红线 / 需人类批准的不可逆操作
+    "PROD_INTEGRITY",    # L1  线上数据/状态完整性（H5 不可逆）
+    "SECURITY_CONTROL",  # L2  安全控制（认证/加密/密钥/权限/审计）
+    "DOMAIN_GUARD",      # L3  领域第四层护栏（H6）
+    "CORRECTNESS_GATE",  # L4  测试/评估/可复现门（Default-FAIL）
+    "HUMAN_APPROVAL",    # L5  R1 类需确认操作（H1）
+    "DELIVERY",          # L6  交付铁律（H4）
+    "COMM_ETIQUETTE",    # L7  通信礼仪（H3，含静默时段）
+    "FORK",              # L8  异步分流（H2）
+    "VELOCITY",          # L9  速度与优化偏好
+]
+
+# 安全侧层级集合：被触发时只会让约定侧让路，自己永不让路。
+SAFETY_TIERS = set(LADDER[:4])
+# 约定侧层级集合：可为紧急情况让步。
+ETIQUETTE_TIERS = {"DELIVERY", "COMM_ETIQUETTE", "FORK", "VELOCITY"}
+
+
+def tier_rank(tier: str) -> int:
+    """返回某层级在阶梯上的序号；未知层级排到最低优先级。"""
+    try:
+        return LADDER.index(tier)
+    except ValueError:
+        return len(LADDER)  # 未知层级 = 最低优先级
+
+
+@dataclass
+class GateResult:
+    """单个门的判定结果。"""
+
+    token: Token
+    reason: str = ""
+    notify: bool = False          # 是否需要通知人类（红线命中时为 True）
+    tier: Optional[str] = None    # 触发该判定的阶梯层级
+    note: str = ""                # 仲裁附注（例如“礼仪为紧急让步”）
+
+    def to_dict(self) -> Dict[str, Any]:
+        return {
+            "token": self.token.value,
+            "reason": self.reason,
+            "notify": self.notify,
+            "tier": self.tier,
+            "note": self.note,
+        }
+
+
+@dataclass
+class Rule:
+    """一条被触发的规则。仲裁器据此在阶梯上比较优先级。"""
+
+    tier: str                 # 该规则所属阶梯层级（见 LADDER）
+    description: str          # 人类可读的触发原因
+    verdict: GateResult       # 该规则单独主张的结果
+
+    def rank(self) -> int:
+        return tier_rank(self.tier)
+
+
+@dataclass
+class Conflict:
+    """两条及以上规则同时触发时构造，交给 arbitrate() 裁决。"""
+
+    rules: List[Rule]
+    action: Dict[str, Any] = field(default_factory=dict)
+
+    def winner(self) -> Rule:
+        """阶梯上优先级最高（rank 最小）的规则获胜。"""
+        return min(self.rules, key=lambda r: r.rank())
+
+
+@dataclass
+class TrapResult:
+    """L0 输入守卫命中的单条陷阱。"""
+
+    hit: bool
+    trap_type: str
+    evidence: str
+    action: str  # BLOCK / SANITIZE / ASK
+    pattern_id: str = ""
+
+    def to_dict(self) -> Dict[str, Any]:
+        return {
+            "hit": self.hit,
+            "trap_type": self.trap_type,
+            "evidence": self.evidence,
+            "action": self.action,
+            "pattern_id": self.pattern_id,
+        }

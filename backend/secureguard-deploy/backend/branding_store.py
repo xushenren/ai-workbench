@@ -1,1 +1,32 @@
-IiIiYmFja2VuZC5icmFuZGluZ19zdG9yZSDigJQg55m95qCH5ZOB54mM5a2Y5YKoKOiQveebmCBEQVRBX0RJUizlj6/mjaIgUEcp44CCIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IGpzb24sIG9zLCB0aHJlYWRpbmcKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgYXNkaWN0LCBkYXRhY2xhc3MKCkRBVEFfRElSID0gb3MuZ2V0ZW52KCJEQVRBX0RJUiIsICIuL2RhdGEiKQpfUEFUSCA9IG9zLnBhdGguam9pbihEQVRBX0RJUiwgImJyYW5kaW5nLmpzb24iKQpfbG9jayA9IHRocmVhZGluZy5Mb2NrKCkKCkBkYXRhY2xhc3MKY2xhc3MgQnJhbmRpbmc6CiAgICBwbGF0Zm9ybV9uYW1lOiBzdHIgPSAiQUkg5bel5L2c5bmz5Y+wIiAgICAgIyDpu5jorqTlkI0s566h55CG5ZGY5Y+v5pS5CiAgICBsb2dvX3VybDogc3RyID0gIiIgICAgICAgICAgICAgICAgICAgICAgIyDmlK/mjIEgaHR0cChzKSDmiJYgZGF0YTppbWFnZS8uLi47YmFzZTY0LAogICAgZmF2aWNvbl91cmw6IHN0ciA9ICIiCiAgICBicmFuZF9jb2xvcjogc3RyID0gIiMzYjRjY2EiCiAgICBicmFuZF9jb2xvcl9kYXJrOiBzdHIgPSAiIzhlYTJmZiIKICAgIGxvY2tfYWNjZW50OiBib29sID0gRmFsc2UgICAgICAgICAgICAgICAjIFRydWU95ZGY5bel5LiN6IO95pS55by66LCD6ImyKOW8uuWTgeeJjOe7n+S4gCkKICAgIGxvZ2luX3RhZ2xpbmU6IHN0ciA9ICIiCiAgICBkZWYgcHVibGljKHNlbGYpIC0+IGRpY3Q6IHJldHVybiBhc2RpY3Qoc2VsZikKCmRlZiBnZXRfYnJhbmRpbmcoKSAtPiBCcmFuZGluZzoKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oX1BBVEgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIHJldHVybiBCcmFuZGluZygqKmpzb24ubG9hZChmKSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIEJyYW5kaW5nKCkKCmRlZiBzZXRfYnJhbmRpbmcoYjogQnJhbmRpbmcpIC0+IEJyYW5kaW5nOgogICAgb3MubWFrZWRpcnMoREFUQV9ESVIsIGV4aXN0X29rPVRydWUpCiAgICB3aXRoIF9sb2NrLCBvcGVuKF9QQVRILCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKGFzZGljdChiKSwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgcmV0dXJuIGIK
+"""backend.branding_store — 白标品牌存储(落盘 DATA_DIR,可换 PG)。"""
+from __future__ import annotations
+import json, os, threading
+from dataclasses import asdict, dataclass
+
+DATA_DIR = os.getenv("DATA_DIR", "./data")
+_PATH = os.path.join(DATA_DIR, "branding.json")
+_lock = threading.Lock()
+
+@dataclass
+class Branding:
+    platform_name: str = "AI 工作平台"     # 默认名,管理员可改
+    logo_url: str = ""                      # 支持 http(s) 或 data:image/...;base64,
+    favicon_url: str = ""
+    brand_color: str = "#3b4cca"
+    brand_color_dark: str = "#8ea2ff"
+    lock_accent: bool = False               # True=员工不能改强调色(强品牌统一)
+    login_tagline: str = ""
+    def public(self) -> dict: return asdict(self)
+
+def get_branding() -> Branding:
+    try:
+        with open(_PATH, encoding="utf-8") as f:
+            return Branding(**json.load(f))
+    except Exception:
+        return Branding()
+
+def set_branding(b: Branding) -> Branding:
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with _lock, open(_PATH, "w", encoding="utf-8") as f:
+        json.dump(asdict(b), f, ensure_ascii=False)
+    return b

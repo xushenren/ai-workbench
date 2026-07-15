@@ -1,1 +1,92 @@
-IiIiCmJhY2tlbmQua2JfY3VzdG9tX2ZpZWxkcyDigJQg6Ieq5a6a5LmJ5p2h55uuOuS6uue7meadoeebruWQjSDihpIgQUkg5Yik57G75Z6LK+W7uuiuruWAvCDihpIg5Lq656Gu6K6k5Y2z5a6a44CCCgrljp/liJko5LiOIDAg5bm76KeJL0FJIOWJr+aJi+S4gOiHtCk6QUkg5Y+q57uZIuW7uuiuriIs5Lq656Gu6K6k5omN566X5pWw44CCCkFJIOaOqOaWreWZqOWPr+azqOWFpSjnlJ/kuqfotbDnvZHlhbPmqKHlnospO+m7mOiupOWQq+S4gOS4quWQr+WPkeW8j+ahqSzkvr/kuo7nprvnur/mtYvjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCByZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gZW51bSBpbXBvcnQgRW51bQpmcm9tIHR5cGluZyBpbXBvcnQgQ2FsbGFibGUsIE9wdGlvbmFsCgoKY2xhc3MgRmllbGRUeXBlKHN0ciwgRW51bSk6CiAgICBCT09MID0gImJvb2wiICAgICAgICAjIOaYry/lkKYKICAgIE5VTUJFUiA9ICJudW1iZXIiICAgICMg5pWw6YePCiAgICBURVhUID0gInRleHQiICAgICAgICAjIOaWh+acrAogICAgREFURSA9ICJkYXRlIiAgICAgICAgIyDml6XmnJ8KCgpAZGF0YWNsYXNzCmNsYXNzIEZpZWxkU3VnZ2VzdGlvbjoKICAgIG5hbWU6IHN0cgogICAgc3VnZ2VzdGVkX3R5cGU6IEZpZWxkVHlwZQogICAgc3VnZ2VzdGVkX3ZhbHVlOiBzdHIgPSAiIgogICAgcmF0aW9uYWxlOiBzdHIgPSAiIiAgICAgICAgICAjIEFJIOS4uuS9lei/meS5iOWIpCjkvpvkurrlj4LogIMpCgoKQGRhdGFjbGFzcwpjbGFzcyBGaWVsZERlZjoKICAgICIiIuS6uuehruiupOWQjuWbuuWumuS4i+adpeeahOWtl+auteWumuS5ieOAgiIiIgogICAgbmFtZTogc3RyCiAgICB0eXBlOiBGaWVsZFR5cGUKICAgIGNvbmZpcm1lZDogYm9vbCA9IFRydWUKCgojIOaOqOaWreWZqOetvuWQjToo5p2h55uu5ZCNLCDlj6/pgInmoLfmnKzlhoXlrrkpIC0+IEZpZWxkU3VnZ2VzdGlvbgpJbmZlcmVyID0gQ2FsbGFibGVbW3N0ciwgc3RyXSwgRmllbGRTdWdnZXN0aW9uXQoKX0JPT0xfSElOVCA9ICgi5piv5ZCmIiwgIuacieaXoCIsICLog73lkKYiLCAi5Y+v5ZCmIiwgIuWQiOagvCIsICLpgJrov4ciLCAi6Ziy54GrIiwgIumYsuawtCIsICLovr7moIciKQpfTlVNX0hJTlQgPSAoIuaVsOmHjyIsICLlsYLmlbAiLCAi5bGC6auYIiwgIumdouenryIsICLplb/luqYiLCAi6auY5bqmIiwgIuWuveW6piIsICLljprluqYiLCAi6YeR6aKdIiwgIuS7t+agvCIsCiAgICAgICAgICAgICAi6YeN6YePIiwgIuS9k+enryIsICLkuKrmlbAiLCAi57GzIiwgIuaVsCIsICLph48iKQpfREFURV9ISU5UID0gKCLml6XmnJ8iLCAi5pe26Ze0IiwgIuW3peacnyIsICLlrozlt6UiLCAi5byA5belIiwgIuero+W3pSIpCgoKZGVmIGhldXJpc3RpY19pbmZlcmVyKG5hbWU6IHN0ciwgc2FtcGxlOiBzdHIgPSAiIikgLT4gRmllbGRTdWdnZXN0aW9uOgogICAgIiIi6buY6K6k5ZCv5Y+R5byPOuaMieadoeebruWQjeWFs+mUruivjeeMnOexu+Wei+OAguS7heS9nOW7uuiurizkurrlj6/mlLnjgIIiIiIKICAgIG4gPSBuYW1lLnN0cmlwKCkKICAgIGlmIGFueShoIGluIG4gZm9yIGggaW4gX0JPT0xfSElOVCk6CiAgICAgICAgcmV0dXJuIEZpZWxkU3VnZ2VzdGlvbihuLCBGaWVsZFR5cGUuQk9PTCwgIuWQpiIsIGYi5ZCN56ew5ZCrJ+aYr+WQpi/lkIjmoLwn57G76K+NLOeWkeS4uuaYr+mdnumhuSIpCiAgICBpZiBhbnkoaCBpbiBuIGZvciBoIGluIF9EQVRFX0hJTlQpOgogICAgICAgIHJldHVybiBGaWVsZFN1Z2dlc3Rpb24obiwgRmllbGRUeXBlLkRBVEUsICIiLCAi5ZCN56ew5ZCr5pel5pyfL+W3peacn+exu+ivjSIpCiAgICBpZiBhbnkoaCBpbiBuIGZvciBoIGluIF9OVU1fSElOVCk6CiAgICAgICAgcmV0dXJuIEZpZWxkU3VnZ2VzdGlvbihuLCBGaWVsZFR5cGUuTlVNQkVSLCAiMCIsICLlkI3np7DlkKvmlbDph48v5bC65a+457G76K+NLOeWkeS4uuaVsOWAvCIpCiAgICByZXR1cm4gRmllbGRTdWdnZXN0aW9uKG4sIEZpZWxkVHlwZS5URVhULCAiIiwgIuacquWRveS4reaVsOWAvC/mmK/pnZ4v5pel5pyf54m55b6BLOaaguaMieaWh+acrCIpCgoKY2xhc3MgQ3VzdG9tRmllbGRTZXJ2aWNlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGluZmVyZXI6IEluZmVyZXIgPSBoZXVyaXN0aWNfaW5mZXJlcikgLT4gTm9uZToKICAgICAgICBzZWxmLmluZmVyZXIgPSBpbmZlcmVyCiAgICAgICAgc2VsZi5fZGVmczogZGljdFtzdHIsIEZpZWxkRGVmXSA9IHt9ICAgICAgIyDlt7Lnoa7orqTlrZfmrrUobmFtZSDihpIgZGVmKQoKICAgIGRlZiBzdWdnZXN0KHNlbGYsIG5hbWU6IHN0ciwgc2FtcGxlOiBzdHIgPSAiIikgLT4gRmllbGRTdWdnZXN0aW9uOgogICAgICAgICIiIkFJIOWIpOexu+Weiyvlu7rorq7lgLwo5LiN6JC95bqTLOS7heW7uuiurinjgILlkIzlkI3lt7Lnoa7orqTliJnlpI3nlKjlhbbnsbvlnovjgIIiIiIKICAgICAgICBpZiBuYW1lIGluIHNlbGYuX2RlZnM6CiAgICAgICAgICAgIGQgPSBzZWxmLl9kZWZzW25hbWVdCiAgICAgICAgICAgIHJldHVybiBGaWVsZFN1Z2dlc3Rpb24obmFtZSwgZC50eXBlLCAiIiwgIuW3suehruiupOWtl+autSzlpI3nlKjml6LlrprnsbvlnosiKQogICAgICAgIHJldHVybiBzZWxmLmluZmVyZXIobmFtZSwgc2FtcGxlKQoKICAgIGRlZiBjb25maXJtKHNlbGYsIG5hbWU6IHN0ciwgdHlwZTogRmllbGRUeXBlKSAtPiBGaWVsZERlZjoKICAgICAgICAiIiLkurrnoa7orqQo5Y+v5pS5IEFJIOeahOW7uuiuriks56Gu6K6k5Y2z5Zu65a6a44CCIiIiCiAgICAgICAgZCA9IEZpZWxkRGVmKG5hbWU9bmFtZSwgdHlwZT1GaWVsZFR5cGUodHlwZSksIGNvbmZpcm1lZD1UcnVlKQogICAgICAgIHNlbGYuX2RlZnNbbmFtZV0gPSBkCiAgICAgICAgcmV0dXJuIGQKCiAgICBkZWYgdmFsaWRhdGVfdmFsdWUoc2VsZiwgbmFtZTogc3RyLCB2YWx1ZTogc3RyKSAtPiB0dXBsZVtib29sLCBzdHJdOgogICAgICAgICIiIuaMieW3suehruiupOexu+Wei+agoemqjOWhq+WFpeeahOWAvOOAgiIiIgogICAgICAgIGQgPSBzZWxmLl9kZWZzLmdldChuYW1lKQogICAgICAgIGlmIG5vdCBkOgogICAgICAgICAgICByZXR1cm4gRmFsc2UsICLlrZfmrrXmnKrnoa7orqQiCiAgICAgICAgdiA9IHZhbHVlLnN0cmlwKCkKICAgICAgICBpZiBkLnR5cGUgPT0gRmllbGRUeXBlLkJPT0w6CiAgICAgICAgICAgIHJldHVybiAodiBpbiAoIuaYryIsICLlkKYiLCAidHJ1ZSIsICJmYWxzZSIsICIxIiwgIjAiKSksICLlupTkuLog5pivL+WQpiIKICAgICAgICBpZiBkLnR5cGUgPT0gRmllbGRUeXBlLk5VTUJFUjoKICAgICAgICAgICAgcmV0dXJuIChyZS5mdWxsbWF0Y2gociItP1xkKyhcLlxkKyk/IiwgdikgaXMgbm90IE5vbmUpLCAi5bqU5Li65pWw5a2XIgogICAgICAgIGlmIGQudHlwZSA9PSBGaWVsZFR5cGUuREFURToKICAgICAgICAgICAgcmV0dXJuIChyZS5mdWxsbWF0Y2gociJcZHs0fVstL11cZHsxLDJ9KFstL11cZHsxLDJ9KT8iLCB2KSBpcyBub3QgTm9uZSksICLlupTkuLrml6XmnJ8gWVlZWS1NTS1ERCIKICAgICAgICByZXR1cm4gVHJ1ZSwgIiIKCiAgICBkZWYgZGVmcyhzZWxmKSAtPiBsaXN0W0ZpZWxkRGVmXToKICAgICAgICByZXR1cm4gbGlzdChzZWxmLl9kZWZzLnZhbHVlcygpKQo=
+"""
+backend.kb_custom_fields — 自定义条目:人给条目名 → AI 判类型+建议值 → 人确认即定。
+
+原则(与 0 幻觉/AI 副手一致):AI 只给"建议",人确认才算数。
+AI 推断器可注入(生产走网关模型);默认含一个启发式桩,便于离线测。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from enum import Enum
+from typing import Callable, Optional
+
+
+class FieldType(str, Enum):
+    BOOL = "bool"        # 是/否
+    NUMBER = "number"    # 数量
+    TEXT = "text"        # 文本
+    DATE = "date"        # 日期
+
+
+@dataclass
+class FieldSuggestion:
+    name: str
+    suggested_type: FieldType
+    suggested_value: str = ""
+    rationale: str = ""          # AI 为何这么判(供人参考)
+
+
+@dataclass
+class FieldDef:
+    """人确认后固定下来的字段定义。"""
+    name: str
+    type: FieldType
+    confirmed: bool = True
+
+
+# 推断器签名:(条目名, 可选样本内容) -> FieldSuggestion
+Inferer = Callable[[str, str], FieldSuggestion]
+
+_BOOL_HINT = ("是否", "有无", "能否", "可否", "合格", "通过", "防火", "防水", "达标")
+_NUM_HINT = ("数量", "层数", "层高", "面积", "长度", "高度", "宽度", "厚度", "金额", "价格",
+             "重量", "体积", "个数", "米", "数", "量")
+_DATE_HINT = ("日期", "时间", "工期", "完工", "开工", "竣工")
+
+
+def heuristic_inferer(name: str, sample: str = "") -> FieldSuggestion:
+    """默认启发式:按条目名关键词猜类型。仅作建议,人可改。"""
+    n = name.strip()
+    if any(h in n for h in _BOOL_HINT):
+        return FieldSuggestion(n, FieldType.BOOL, "否", f"名称含'是否/合格'类词,疑为是非项")
+    if any(h in n for h in _DATE_HINT):
+        return FieldSuggestion(n, FieldType.DATE, "", "名称含日期/工期类词")
+    if any(h in n for h in _NUM_HINT):
+        return FieldSuggestion(n, FieldType.NUMBER, "0", "名称含数量/尺寸类词,疑为数值")
+    return FieldSuggestion(n, FieldType.TEXT, "", "未命中数值/是非/日期特征,暂按文本")
+
+
+class CustomFieldService:
+    def __init__(self, inferer: Inferer = heuristic_inferer) -> None:
+        self.inferer = inferer
+        self._defs: dict[str, FieldDef] = {}      # 已确认字段(name → def)
+
+    def suggest(self, name: str, sample: str = "") -> FieldSuggestion:
+        """AI 判类型+建议值(不落库,仅建议)。同名已确认则复用其类型。"""
+        if name in self._defs:
+            d = self._defs[name]
+            return FieldSuggestion(name, d.type, "", "已确认字段,复用既定类型")
+        return self.inferer(name, sample)
+
+    def confirm(self, name: str, type: FieldType) -> FieldDef:
+        """人确认(可改 AI 的建议),确认即固定。"""
+        d = FieldDef(name=name, type=FieldType(type), confirmed=True)
+        self._defs[name] = d
+        return d
+
+    def validate_value(self, name: str, value: str) -> tuple[bool, str]:
+        """按已确认类型校验填入的值。"""
+        d = self._defs.get(name)
+        if not d:
+            return False, "字段未确认"
+        v = value.strip()
+        if d.type == FieldType.BOOL:
+            return (v in ("是", "否", "true", "false", "1", "0")), "应为 是/否"
+        if d.type == FieldType.NUMBER:
+            return (re.fullmatch(r"-?\d+(\.\d+)?", v) is not None), "应为数字"
+        if d.type == FieldType.DATE:
+            return (re.fullmatch(r"\d{4}[-/]\d{1,2}([-/]\d{1,2})?", v) is not None), "应为日期 YYYY-MM-DD"
+        return True, ""
+
+    def defs(self) -> list[FieldDef]:
+        return list(self._defs.values())

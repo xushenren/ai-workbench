@@ -1,1 +1,48 @@
-IyDnq6/liLDnq6/mtYHnqIvmtYvor5U66ZO+5byP6LCD55SoLOmqjOivgSLkuIDmnaHpvpnnnJ/og73nlKgiKOacgOiDveaKkyLljYrmi4nlrZAv5rKh5a6M5oiQIinjgIIKIyDmr4/kuKogZmxvdyA9IOWHveaVsChjYWxsKS0+KG9rLCBtc2csIHN0ZXBzKeOAgmNhbGwobWV0aG9kLHBhdGgsYm9keSktPihzdGF0dXMsanNvbinjgIIKaW1wb3J0IHRpbWUKCmRlZiBmbG93X2tiX2xpZmVjeWNsZShjYWxsKToKICAgICIiIuW7uuW6kyDihpIg5paH5pys5YWl5bqTIOKGkiDmo4DntKLog73lkb3kuK3jgIIiIiIKICAgIHN0ZXBzID0gW10KICAgIG1hcmtlciA9IGYi6aqM6K+B5LiT55So5paH5pysX3tpbnQodGltZS50aW1lKCkpfV/po47nrqFHQjUwMjQzIgogICAgc3QsIGogPSBjYWxsKCJQT1NUIiwgIi92MS9rYi9jcmVhdGUiLCB7Im5hbWUiOiBmIl9f6aqM6K+B5bqTX3tpbnQodGltZS50aW1lKCkpfSIsICJ2aXNpYmlsaXR5IjogInByaXZhdGUifSkKICAgIHN0ZXBzLmFwcGVuZCgoIuW7uuW6kyIsIHN0KSkKICAgIGlmIG5vdCAoMjAwIDw9IHN0IDwgMzAwKSBvciBub3QgaXNpbnN0YW5jZShqLCBkaWN0KSBvciBub3Qgai5nZXQoImlkIik6CiAgICAgICAgcmV0dXJuIChGYWxzZSwgZiLlu7rlupPlpLHotKUoSFRUUCB7c3R9KSIsIHN0ZXBzKQogICAga2JfaWQgPSBqWyJpZCJdCiAgICBzdCwgaiA9IGNhbGwoIlBPU1QiLCBmIi92MS9rYi97a2JfaWR9L2luZ2VzdCIsIHsidGV4dCI6IG1hcmtlcn0pCiAgICBzdGVwcy5hcHBlbmQoKCLlhaXlupMiLCBzdCkpCiAgICBpZiBub3QgKDIwMCA8PSBzdCA8IDMwMCk6CiAgICAgICAgcmV0dXJuIChGYWxzZSwgZiLlhaXlupPlpLHotKUoSFRUUCB7c3R9KSIsIHN0ZXBzKQogICAgdGltZS5zbGVlcCgwLjUpCiAgICBzdCwgaiA9IGNhbGwoIlBPU1QiLCAiL3YxL2tiL3NlYXJjaCIsIHsicXVlcnkiOiAi6aOO566hIEdCNTAyNDMiLCAiayI6IDV9KQogICAgc3RlcHMuYXBwZW5kKCgi5qOA57SiIiwgc3QpKQogICAgaWYgbm90ICgyMDAgPD0gc3QgPCAzMDApOgogICAgICAgIHJldHVybiAoRmFsc2UsIGYi5qOA57Si5aSx6LSlKEhUVFAge3N0fSkiLCBzdGVwcykKICAgIHJlc3VsdHMgPSAoaiBvciB7fSkuZ2V0KCJyZXN1bHRzIiwgW10pIGlmIGlzaW5zdGFuY2UoaiwgZGljdCkgZWxzZSBbXQogICAgaGl0ID0gYW55KG1hcmtlciBpbiAoci5nZXQoImNvbnRlbnQiLCAiIikgb3IgIiIpIGZvciByIGluIHJlc3VsdHMpCiAgICByZXR1cm4gKGhpdCwgIuajgOe0ouWRveS4reWImuWFpeW6k+aWh+acrCIgaWYgaGl0IGVsc2UgIuWFpeW6k+S6huS9huajgOe0ouS4jeWIsCjmo4DntKLpk77ot6/mnKrmiZPpgJopIiwgc3RlcHMpCgoKZGVmIGZsb3dfYWdlbnRfY3JlYXRlKGNhbGwpOgogICAgIiIi5bu65pm66IO95L2TIOKGkiDlh7rnjrDlnKjliJfooajjgIIiIiIKICAgIHN0ZXBzID0gW10KICAgIG5hbWUgPSBmIl9f6aqM6K+B5pm66IO95L2TX3tpbnQodGltZS50aW1lKCkpfSIKICAgIHN0LCBqID0gY2FsbCgiUE9TVCIsICIvdjEvYWRtaW4vYWdlbnRzIiwgeyJuYW1lIjogbmFtZSwgInZpc2liaWxpdHkiOiAicHJpdmF0ZSIsICJkZXNjcmlwdGlvbiI6ICLpqozor4HnlKgifSkKICAgIHN0ZXBzLmFwcGVuZCgoIuW7uuaZuuiDveS9kyIsIHN0KSkKICAgIGlmIHN0ID09IDQwNDoKICAgICAgICBzdCwgaiA9IGNhbGwoIlBPU1QiLCAiL3YxL2FnZW50cyIsIHsibmFtZSI6IG5hbWUsICJ2aXNpYmlsaXR5IjogInByaXZhdGUifSkKICAgICAgICBzdGVwcy5hcHBlbmQoKCLlu7rmmbrog73kvZMo5aSH55So6Lev5b6EKSIsIHN0KSkKICAgIGlmIG5vdCAoMjAwIDw9IHN0IDwgMzAwKToKICAgICAgICByZXR1cm4gKEZhbHNlLCBmIuW7uuaZuuiDveS9k+Wksei0pShIVFRQIHtzdH0pIiwgc3RlcHMpCiAgICBzdCwgaiA9IGNhbGwoIkdFVCIsICIvdjEvYWdlbnRzIiwgTm9uZSkKICAgIHN0ZXBzLmFwcGVuZCgoIuWIl+ihqCIsIHN0KSkKICAgIGZvdW5kID0gaXNpbnN0YW5jZShqLCBsaXN0KSBhbmQgYW55KChhLmdldCgibmFtZSIpID09IG5hbWUpIGZvciBhIGluIGopCiAgICByZXR1cm4gKGZvdW5kLCAi5paw5bu65pm66IO95L2T5Ye6546w5Zyo5YiX6KGoIiBpZiBmb3VuZCBlbHNlICLlu7rkuobkvYbliJfooajph4zmsqHmnIko5pyq55yf5q2j5oyB5LmF5YyWKSIsIHN0ZXBzKQoKCkZMT1dTID0gWwogICAgKCLnn6Xor4blupPkuIDmnaHpvpko5bu65bqT4oaS5YWl5bqT4oaS5qOA57SiKSIsIGZsb3dfa2JfbGlmZWN5Y2xlKSwKICAgICgi5pm66IO95L2T5LiA5p2h6b6ZKOW7uuKGkuWIl+ihqCkiLCBmbG93X2FnZW50X2NyZWF0ZSksCl0K
+# 端到端流程测试:链式调用,验证"一条龙真能用"(最能抓"半拉子/没完成")。
+# 每个 flow = 函数(call)->(ok, msg, steps)。call(method,path,body)->(status,json)。
+import time
+
+def flow_kb_lifecycle(call):
+    """建库 → 文本入库 → 检索能命中。"""
+    steps = []
+    marker = f"验证专用文本_{int(time.time())}_风管GB50243"
+    st, j = call("POST", "/v1/kb/create", {"name": f"__验证库_{int(time.time())}", "visibility": "private"})
+    steps.append(("建库", st))
+    if not (200 <= st < 300) or not isinstance(j, dict) or not j.get("id"):
+        return (False, f"建库失败(HTTP {st})", steps)
+    kb_id = j["id"]
+    st, j = call("POST", f"/v1/kb/{kb_id}/ingest", {"text": marker})
+    steps.append(("入库", st))
+    if not (200 <= st < 300):
+        return (False, f"入库失败(HTTP {st})", steps)
+    time.sleep(0.5)
+    st, j = call("POST", "/v1/kb/search", {"query": "风管 GB50243", "k": 5})
+    steps.append(("检索", st))
+    if not (200 <= st < 300):
+        return (False, f"检索失败(HTTP {st})", steps)
+    results = (j or {}).get("results", []) if isinstance(j, dict) else []
+    hit = any(marker in (r.get("content", "") or "") for r in results)
+    return (hit, "检索命中刚入库文本" if hit else "入库了但检索不到(检索链路未打通)", steps)
+
+
+def flow_agent_create(call):
+    """建智能体 → 出现在列表。"""
+    steps = []
+    name = f"__验证智能体_{int(time.time())}"
+    st, j = call("POST", "/v1/admin/agents", {"name": name, "visibility": "private", "description": "验证用"})
+    steps.append(("建智能体", st))
+    if st == 404:
+        st, j = call("POST", "/v1/agents", {"name": name, "visibility": "private"})
+        steps.append(("建智能体(备用路径)", st))
+    if not (200 <= st < 300):
+        return (False, f"建智能体失败(HTTP {st})", steps)
+    st, j = call("GET", "/v1/agents", None)
+    steps.append(("列表", st))
+    found = isinstance(j, list) and any((a.get("name") == name) for a in j)
+    return (found, "新建智能体出现在列表" if found else "建了但列表里没有(未真正持久化)", steps)
+
+
+FLOWS = [
+    ("知识库一条龙(建库→入库→检索)", flow_kb_lifecycle),
+    ("智能体一条龙(建→列表)", flow_agent_create),
+]

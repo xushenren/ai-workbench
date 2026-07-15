@@ -1,1 +1,101 @@
-IiIidGVzdHMvdGVzdF9sMV9nYXRlLnB5IOKAlCBMMSDku7Loo4Hpl6jmjqfljZXmtYvjgIIiIiIKaW1wb3J0IHN5cywgb3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQoKZnJvbSBzZWN1cmVndWFyZC5sMV9nYXRlIGltcG9ydCBnYXRlLCBhcmJpdHJhdGUsIHNlbGZfbW9uaXRvciwgUkVETElORVMKZnJvbSBzZWN1cmVndWFyZC50eXBlcyBpbXBvcnQgVG9rZW4sIENvbmZsaWN0LCBSdWxlLCBHYXRlUmVzdWx0CgoKZGVmIHRlc3RfYWxsXzEyX3JlZGxpbmVzX3ByZXNlbnQoKToKICAgICMg5Y6fIDEyIOadoee6oue6vyBSLTAxLi5SLTEyIOS7jemhu+WtmOWcqO+8iOeOsOW3suaJqeiHsyAxOe+8iQogICAgYXNzZXJ0IHtmIlIte2k6MDJkfSIgZm9yIGkgaW4gcmFuZ2UoMSwgMTMpfSA8PSBzZXQoUkVETElORVMua2V5cygpKQoKCmRlZiB0ZXN0X3JlZGxpbmVfZHJvcF90YWJsZV9ibG9ja3MoKToKICAgIHJlcyA9IGdhdGUoeyJ0eXBlIjogImRyb3BfdGFibGUiLCAiYmFja3VwX2NvbmZpcm1lZCI6IEZhbHNlfSwge30pCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLkJMT0NLIGFuZCByZXMubm90aWZ5IGFuZCAiUi0wMSIgaW4gcmVzLnJlYXNvbgoKCmRlZiB0ZXN0X3JlZGxpbmVfc2tpcF90ZXN0X3RvX3Bhc3NfY2lfYmxvY2tzKCk6CiAgICByZXMgPSBnYXRlKHsidHlwZSI6ICJza2lwX3Rlc3QiLCAicmVhc29uIjogInRvX3Bhc3NfY2kifSwge30pCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLkJMT0NLIGFuZCAiUi0wNSIgaW4gcmVzLnJlYXNvbgoKCmRlZiB0ZXN0X3JlZGxpbmVfZm9yY2VfcHVzaF9tYWluX2Jsb2NrcygpOgogICAgcmVzID0gZ2F0ZSh7InR5cGUiOiAiZm9yY2VfcHVzaCIsICJicmFuY2giOiAibWFpbiJ9LCB7fSkKICAgIGFzc2VydCByZXMudG9rZW4gPT0gVG9rZW4uQkxPQ0sgYW5kICJSLTAyIiBpbiByZXMucmVhc29uCgoKZGVmIHRlc3RfcjJfZXNjYWxhdGVzKCk6CiAgICByZXMgPSBnYXRlKHsidHlwZSI6ICJkZXBsb3kiLCAicmlza19sZXZlbCI6ICJSMiIsICJyMl9yZWFzb24iOiAicHJvZCBkZXBsb3kifSwge30pCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLkVTQ0FMQVRFCgoKZGVmIHRlc3Rfc2VsZl9tb25pdG9yX2Jsb2NrKCk6CiAgICByZXMgPSBzZWxmX21vbml0b3IoIui/meS4qua1i+ivleaYjuaYvuayoemXrumimO+8jOWFiCBza2lwIOaOiSIpCiAgICBhc3NlcnQgcmVzIGlzIG5vdCBOb25lIGFuZCByZXMudG9rZW4gPT0gVG9rZW4uQkxPQ0sKCgpkZWYgdGVzdF9zZWxmX21vbml0b3JfYXNrKCk6CiAgICByZXMgPSBzZWxmX21vbml0b3IoIuerr+WPo+W6lOivpeaYr+m7mOiupOWAvOWQpyIpCiAgICBhc3NlcnQgcmVzIGlzIG5vdCBOb25lIGFuZCByZXMudG9rZW4gPT0gVG9rZW4uQVNLCgoKZGVmIHRlc3RfZG9tYWluX2d1YXJkX3NvZnR3YXJlX21pc3Npbmdfcm9sbGJhY2soKToKICAgIHJlcyA9IGdhdGUoeyJ0eXBlIjogImRlcGxveSIsICJtdXRhdGVzX3N0YXRlIjogVHJ1ZSwgImRvbWFpbiI6ICJzb2Z0d2FyZSIsCiAgICAgICAgICAgICAgICAiaWRlbXBvdGVuY3kiOiBUcnVlLCAicm9sbGJhY2tfcGxhbiI6IEZhbHNlfSwge30pCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLkJMT0NLIGFuZCAi5Zue5ruaIiBpbiByZXMucmVhc29uCgoKZGVmIHRlc3RfZG9tYWluX2d1YXJkX2RhdGFtbF9ldmFsX2RlZmF1bHRfZmFpbCgpOgogICAgcmVzID0gZ2F0ZSh7InR5cGUiOiAiZGVwbG95X21vZGVsIiwgImRvbWFpbiI6ICJkYXRhX21sIiwgImV2YWxfcGFzc2VkIjogRmFsc2V9LCB7fSkKICAgIGFzc2VydCByZXMudG9rZW4gPT0gVG9rZW4uQkxPQ0sgYW5kICLor4TkvLDpl6giIGluIHJlcy5yZWFzb24KCgpkZWYgdGVzdF9ub3JtYWxfcXVlcnlfcGFzc2VzKCk6CiAgICByZXMgPSBnYXRlKHsidHlwZSI6ICJxdWVyeSIsICJyaXNrX2xldmVsIjogIlIwIiwgImRvbWFpbiI6ICJnZW5lcmFsIn0sIHt9KQogICAgYXNzZXJ0IHJlcy50b2tlbiA9PSBUb2tlbi5QQVNTCgoKZGVmIHRlc3RfYXJiaXRyYXRlX3NhZmV0eV93aW5zX292ZXJfZXRpcXVldHRlKCk6CiAgICAjIDNhbSDlnLrmma/vvJrkuI3lj6/pgIbmnKrnoa7orqQo5a6J5YWo5L6nKSDDlyDpnZnpu5jml7bmrrUo56S85LuqKSDihpIg5a6J5YWo5L6nIEJMT0NLCiAgICByZXMgPSBnYXRlKAogICAgICAgIHsidHlwZSI6ICJxdWVyeSIsICJkb21haW4iOiAiZ2VuZXJhbCJ9LAogICAgICAgIHsiaXJyZXZlcnNpYmxlX3VuY29uZmlybWVkIjogVHJ1ZSwgInF1aWV0X2hvdXJzIjogVHJ1ZSwgImlzX2VtZXJnZW5jeSI6IFRydWV9LAogICAgKQogICAgYXNzZXJ0IHJlcy50b2tlbiA9PSBUb2tlbi5CTE9DSyBhbmQgcmVzLnRpZXIgPT0gIlBST0RfSU5URUdSSVRZIgoKCmRlZiB0ZXN0X2FyYml0cmF0ZV9ldGlxdWV0dGVfeWllbGRzX3RvX2VtZXJnZW5jeV93aGVuX25vX3NhZmV0eSgpOgogICAgIyDku4XnpLzku6ogw5cg57Sn5oCl77yI5peg5a6J5YWo5L6n6KeE5YiZ77yJ4oaSIOekvOS7quiuqeatpSBQQVNTCiAgICByZXMgPSBnYXRlKAogICAgICAgIHsidHlwZSI6ICJxdWVyeSIsICJkb21haW4iOiAiZ2VuZXJhbCJ9LAogICAgICAgIHsicXVpZXRfaG91cnMiOiBUcnVlLCAidmVsb2NpdHlfcHJlc3N1cmUiOiBUcnVlLCAiaXNfZW1lcmdlbmN5IjogVHJ1ZX0sCiAgICApCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLlBBU1MKCgojID09PT09IEQx77yaMTkg57qi57q/IC8gMTgg6Ieq55yBICsg5paw57qi57q/6Kem5Y+RID09PT09CmZyb20gc2VjdXJlZ3VhcmQubDFfZ2F0ZSBpbXBvcnQgU0VMRl9NT05JVE9SX1RSSUdHRVJTCgoKZGVmIHRlc3RfMTlfcmVkbGluZXNfMThfc2VsZl9tb25pdG9yKCk6CiAgICBhc3NlcnQgbGVuKFJFRExJTkVTKSA9PSAxOQogICAgYXNzZXJ0IHNldChSRURMSU5FUy5rZXlzKCkpID09IHtmIlIte2k6MDJkfSIgZm9yIGkgaW4gcmFuZ2UoMSwgMjApfQogICAgYXNzZXJ0IGxlbihTRUxGX01PTklUT1JfVFJJR0dFUlMpID09IDE4CgoKZGVmIHRlc3RfcjEzX2Nyb3NzX3RlbmFudF9ibG9ja3MoKToKICAgIHJlcyA9IGdhdGUoeyJ0eXBlIjogImFjY2Vzc19rYiIsICJ2aXNpYmlsaXR5IjogInByaXZhdGUiLAogICAgICAgICAgICAgICAgIm93bmVyX2lkIjogImJvYiIsICJjYWxsZXJfaWQiOiAiYWxpY2UifSwge30pCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLkJMT0NLIGFuZCAiUi0xMyIgaW4gcmVzLnJlYXNvbgoKCmRlZiB0ZXN0X3IxNF9zZW5zaXRpdmVfZXh0ZXJuYWxfYmxvY2tzKCk6CiAgICByZXMgPSBnYXRlKHsidHlwZSI6ICJyb3V0ZSIsICJkYXRhX2NsYXNzIjogIlJFU1RSSUNURUQiLCAiZGVzdGluYXRpb24iOiAiZXh0ZXJuYWwifSwge30pCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLkJMT0NLIGFuZCAiUi0xNCIgaW4gcmVzLnJlYXNvbgoKCmRlZiB0ZXN0X3IxNl91bm1hc2tlZF9waWlfYmxvY2tzKCk6CiAgICByZXMgPSBnYXRlKHsiY29udGFpbnNfdW5tYXNrZWRfcGlpIjogVHJ1ZSwgInNpbmsiOiAidHJhY2VfcGFuZWwifSwge30pCiAgICBhc3NlcnQgcmVzLnRva2VuID09IFRva2VuLkJMT0NLIGFuZCAiUi0xNiIgaW4gcmVzLnJlYXNvbgo=
+"""tests/test_l1_gate.py — L1 仲裁门控单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.l1_gate import gate, arbitrate, self_monitor, REDLINES
+from secureguard.types import Token, Conflict, Rule, GateResult
+
+
+def test_all_12_redlines_present():
+    # 原 12 条红线 R-01..R-12 仍须存在（现已扩至 19）
+    assert {f"R-{i:02d}" for i in range(1, 13)} <= set(REDLINES.keys())
+
+
+def test_redline_drop_table_blocks():
+    res = gate({"type": "drop_table", "backup_confirmed": False}, {})
+    assert res.token == Token.BLOCK and res.notify and "R-01" in res.reason
+
+
+def test_redline_skip_test_to_pass_ci_blocks():
+    res = gate({"type": "skip_test", "reason": "to_pass_ci"}, {})
+    assert res.token == Token.BLOCK and "R-05" in res.reason
+
+
+def test_redline_force_push_main_blocks():
+    res = gate({"type": "force_push", "branch": "main"}, {})
+    assert res.token == Token.BLOCK and "R-02" in res.reason
+
+
+def test_r2_escalates():
+    res = gate({"type": "deploy", "risk_level": "R2", "r2_reason": "prod deploy"}, {})
+    assert res.token == Token.ESCALATE
+
+
+def test_self_monitor_block():
+    res = self_monitor("这个测试明显没问题，先 skip 掉")
+    assert res is not None and res.token == Token.BLOCK
+
+
+def test_self_monitor_ask():
+    res = self_monitor("端口应该是默认值吧")
+    assert res is not None and res.token == Token.ASK
+
+
+def test_domain_guard_software_missing_rollback():
+    res = gate({"type": "deploy", "mutates_state": True, "domain": "software",
+                "idempotency": True, "rollback_plan": False}, {})
+    assert res.token == Token.BLOCK and "回滚" in res.reason
+
+
+def test_domain_guard_dataml_eval_default_fail():
+    res = gate({"type": "deploy_model", "domain": "data_ml", "eval_passed": False}, {})
+    assert res.token == Token.BLOCK and "评估门" in res.reason
+
+
+def test_normal_query_passes():
+    res = gate({"type": "query", "risk_level": "R0", "domain": "general"}, {})
+    assert res.token == Token.PASS
+
+
+def test_arbitrate_safety_wins_over_etiquette():
+    # 3am 场景：不可逆未确认(安全侧) × 静默时段(礼仪) → 安全侧 BLOCK
+    res = gate(
+        {"type": "query", "domain": "general"},
+        {"irreversible_unconfirmed": True, "quiet_hours": True, "is_emergency": True},
+    )
+    assert res.token == Token.BLOCK and res.tier == "PROD_INTEGRITY"
+
+
+def test_arbitrate_etiquette_yields_to_emergency_when_no_safety():
+    # 仅礼仪 × 紧急（无安全侧规则）→ 礼仪让步 PASS
+    res = gate(
+        {"type": "query", "domain": "general"},
+        {"quiet_hours": True, "velocity_pressure": True, "is_emergency": True},
+    )
+    assert res.token == Token.PASS
+
+
+# ===== D1：19 红线 / 18 自省 + 新红线触发 =====
+from secureguard.l1_gate import SELF_MONITOR_TRIGGERS
+
+
+def test_19_redlines_18_self_monitor():
+    assert len(REDLINES) == 19
+    assert set(REDLINES.keys()) == {f"R-{i:02d}" for i in range(1, 20)}
+    assert len(SELF_MONITOR_TRIGGERS) == 18
+
+
+def test_r13_cross_tenant_blocks():
+    res = gate({"type": "access_kb", "visibility": "private",
+                "owner_id": "bob", "caller_id": "alice"}, {})
+    assert res.token == Token.BLOCK and "R-13" in res.reason
+
+
+def test_r14_sensitive_external_blocks():
+    res = gate({"type": "route", "data_class": "RESTRICTED", "destination": "external"}, {})
+    assert res.token == Token.BLOCK and "R-14" in res.reason
+
+
+def test_r16_unmasked_pii_blocks():
+    res = gate({"contains_unmasked_pii": True, "sink": "trace_panel"}, {})
+    assert res.token == Token.BLOCK and "R-16" in res.reason

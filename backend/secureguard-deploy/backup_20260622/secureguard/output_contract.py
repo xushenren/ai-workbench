@@ -1,1 +1,139 @@
-IiIic2VjdXJlZ3VhcmQub3V0cHV0X2NvbnRyYWN0IOKAlCDlvLHmqKHlnovovpPlh7rlpZHnuqbmoKHpqozlmajvvIjmiafooYzlsYLvvInjgIIKCuaPkOekuuivjeiuqeW8seaooeWei+WQkOWHuue7k+aehO+8iOingSBwcm9tcHRzL3dlYWstbW9kZWwtc2NhZmZvbGQubWTvvInvvIzmnKzmqKHlnZfotJ/otKMqKuW8uuWItioq77yaCuino+aekOS4jeWHuuW/heWhq+auteOAgeacieacqumZjee6p+eahCBbR10g54yc5rWL44CB6Ieq5qOA6KGo5oql5LqG5pyq5qCH5rOo5pat6KiA44CB572u5L+h5bqm6L+H5L2OIOKGkgpmYWlsLWNsb3NlZCDliKQgQkxPQ0svQVNL77yM5Lqk55Sx5LiK5bGC55SoIFAtUkVUUlkg5omT5Zue6YeN5YGa77yM6ICMKirnu53kuI3mlL7ooYwqKuOAggoK6L+Z5bCx5pivIuW8seaooeWei+S5n+iDveWPr+mdoCLnmoTnnJ/mraPokL3ngrnigJTigJTlj6/pnaDmgKfmnaXoh6rov5npgZPlhbPvvIzkuI3mnaXoh6rmqKHlnovoh6rop4njgIIK57qv5qCH5YeG5bqT77yM5Y+v56a757q/5rWL6K+V44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgcmUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHR5cGluZyBpbXBvcnQgRGljdCwgTGlzdCwgT3B0aW9uYWwKCmZyb20gLnR5cGVzIGltcG9ydCBUb2tlbgoKIyDlv4XloavmrrXvvIhGQUxTSUZZIOadoeS7tuaAp+W/heWhq++8jOWPr+S4uiBOL0HvvIkKUkVRVUlSRURfU0VDVElPTlMgPSBbIkFTU0VTUyIsICJDTEFJTVMiLCAiT0JKRUNUSU9OUyIsICJTRUxGQ0hFQ0siLCAiQU5TV0VSIl0KCgpkZWYgX2V4dHJhY3QodGV4dDogc3RyLCBuYW1lOiBzdHIpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAiIiLlrrnplJnmir3lj5YgPE5BTUU+Li4uPC9OQU1FPu+8jOWkp+Wwj+WGmS/nqbrmoLzml6DmiYDosJPjgIIiIiIKICAgIG0gPSByZS5zZWFyY2gocmYiPFxzKntuYW1lfVxzKj4oLio/KTxccyovXHMqe25hbWV9XHMqPiIsIHRleHQsCiAgICAgICAgICAgICAgICAgIHJlLklHTk9SRUNBU0UgfCByZS5ET1RBTEwpCiAgICByZXR1cm4gbS5ncm91cCgxKS5zdHJpcCgpIGlmIG0gZWxzZSBOb25lCgoKQGRhdGFjbGFzcwpjbGFzcyBDb250cmFjdFJlc3VsdDoKICAgIHRva2VuOiBUb2tlbgogICAgcmVhc29uczogTGlzdFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICBtaXNzaW5nX3NlY3Rpb25zOiBMaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKICAgIGFza19pdGVtczogTGlzdFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICB1bnNvdXJjZWRfY2xhaW1zOiBMaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKICAgIGNvbmZpZGVuY2U6IE9wdGlvbmFsW2Zsb2F0XSA9IE5vbmUKICAgIGZvY3VzOiBzdHIgPSAiIiAgICAgICAgICAgICAgIyDnu5kgUC1SRVRSWSDnmoTph43ngrnmj5DnpLoKCiAgICBkZWYgdG9fZGljdChzZWxmKSAtPiBEaWN0OgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJ0b2tlbiI6IHNlbGYudG9rZW4udmFsdWUsCiAgICAgICAgICAgICJyZWFzb25zIjogc2VsZi5yZWFzb25zLAogICAgICAgICAgICAibWlzc2luZ19zZWN0aW9ucyI6IHNlbGYubWlzc2luZ19zZWN0aW9ucywKICAgICAgICAgICAgImFza19pdGVtcyI6IHNlbGYuYXNrX2l0ZW1zLAogICAgICAgICAgICAidW5zb3VyY2VkX2NsYWltcyI6IHNlbGYudW5zb3VyY2VkX2NsYWltcywKICAgICAgICAgICAgImNvbmZpZGVuY2UiOiBzZWxmLmNvbmZpZGVuY2UsCiAgICAgICAgICAgICJmb2N1cyI6IHNlbGYuZm9jdXMsCiAgICAgICAgfQoKCmNsYXNzIE91dHB1dENvbnRyYWN0OgogICAgIiIi5qCh6aqM5byx5qih5Z6L55qE57uT5p6E5YyW6L6T5Ye644CCZmFpbC1jbG9zZWTvvJrkuI3lkIjmoLzkuIDlvovkuI3mlL7ooYzjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgbWluX2NvbmZpZGVuY2U6IGZsb2F0ID0gNC4wKSAtPiBOb25lOgogICAgICAgIHNlbGYubWluX2NvbmZpZGVuY2UgPSBtaW5fY29uZmlkZW5jZQoKICAgIGRlZiB2YWxpZGF0ZShzZWxmLCB0ZXh0OiBzdHIpIC0+IENvbnRyYWN0UmVzdWx0OgogICAgICAgIHJlYXNvbnM6IExpc3Rbc3RyXSA9IFtdCgogICAgICAgICMgMSkg5b+F5aGr5q616b2Q5YWo77yI57y65q61ID0gZmFpbC1jbG9zZWQgQkxPQ0sg5omT5Zue77yJCiAgICAgICAgbWlzc2luZyA9IFtzIGZvciBzIGluIFJFUVVJUkVEX1NFQ1RJT05TIGlmIF9leHRyYWN0KHRleHQsIHMpIGlzIE5vbmVdCiAgICAgICAgaWYgbWlzc2luZzoKICAgICAgICAgICAgcmV0dXJuIENvbnRyYWN0UmVzdWx0KAogICAgICAgICAgICAgICAgVG9rZW4uQkxPQ0ssCiAgICAgICAgICAgICAgICByZWFzb25zPVtmIue8uuWkseW/heWhq+aute+8mnsnLCAnLmpvaW4obWlzc2luZyl9Il0sCiAgICAgICAgICAgICAgICBtaXNzaW5nX3NlY3Rpb25zPW1pc3NpbmcsCiAgICAgICAgICAgICAgICBmb2N1cz0i6KGl6b2Q57y65aSx5q615bm25oyJ57uT5p6E6YeN5Y+RIiwKICAgICAgICAgICAgKQoKICAgICAgICBhc3Nlc3MgPSBfZXh0cmFjdCh0ZXh0LCAiQVNTRVNTIikgb3IgIiIKICAgICAgICBjbGFpbXMgPSBfZXh0cmFjdCh0ZXh0LCAiQ0xBSU1TIikgb3IgIiIKICAgICAgICBzZWxmY2hlY2sgPSBfZXh0cmFjdCh0ZXh0LCAiU0VMRkNIRUNLIikgb3IgIiIKCiAgICAgICAgIyAyKSDlhaXlj6Ppl6jvvJrmnIkgQVNLIOmhuSDihpIg5pqC5YGc6Zeu55So5oi3CiAgICAgICAgYXNrX2l0ZW1zID0gW2xuLnN0cmlwKCkgZm9yIGxuIGluIGFzc2Vzcy5zcGxpdGxpbmVzKCkKICAgICAgICAgICAgICAgICAgICAgaWYgcmUuc2VhcmNoKHIiXGJBU0tcYiIsIGxuLCByZS5JR05PUkVDQVNFKV0KICAgICAgICBpZiBhc2tfaXRlbXM6CiAgICAgICAgICAgIHJldHVybiBDb250cmFjdFJlc3VsdCgKICAgICAgICAgICAgICAgIFRva2VuLkFTSywKICAgICAgICAgICAgICAgIHJlYXNvbnM9WyLlrZjlnKjpnIDmvoTmuIXnmoTkuI3lj6/pgIYv5om/6YeN5L+h5oGvKEFTSykiXSwKICAgICAgICAgICAgICAgIGFza19pdGVtcz1hc2tfaXRlbXMsCiAgICAgICAgICAgICkKCiAgICAgICAgIyAzKSDlj43lubvop4nvvJrmnKrpmY3nuqfnmoQgW0ddIOeMnOa1i++8jOaIlua8j+agh+adpea6kCDihpIgQkxPQ0sg5omT5ZueCiAgICAgICAgdW5zb3VyY2VkOiBMaXN0W3N0cl0gPSBbXQogICAgICAgIGNsYWltX2xpbmVzID0gW2xuLnN0cmlwKCkgZm9yIGxuIGluIGNsYWltcy5zcGxpdGxpbmVzKCkgaWYgbG4uc3RyaXAoKQogICAgICAgICAgICAgICAgICAgICAgIGFuZCBsbi5zdHJpcCgpLmxvd2VyKCkgbm90IGluICgibm9uZSIsICJuL2EiKV0KICAgICAgICBoZWRnZSA9IHJlLmNvbXBpbGUociLpnIDmoLjlrp585b6F5qC45a6efOS4jeehruWumnzlj6/og7185a2Y55aRfOW+hemqjOivgSIsIHJlLklHTk9SRUNBU0UpCiAgICAgICAgZm9yIGxuIGluIGNsYWltX2xpbmVzOgogICAgICAgICAgICBoYXNfdGFnID0gcmUuc2VhcmNoKHIiXFsoU3xNfEcpXF0iLCBsbiwgcmUuSUdOT1JFQ0FTRSkKICAgICAgICAgICAgaWYgbm90IGhhc190YWc6CiAgICAgICAgICAgICAgICB1bnNvdXJjZWQuYXBwZW5kKGxuKQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgIyBbR10g54yc5rWL5b+F6aG76ZmN57qn77yb5pyq6ZmN57qn5Y2z6L+d57qmCiAgICAgICAgICAgIGlmIHJlLnNlYXJjaChyIlxbR1xdIiwgbG4sIHJlLklHTk9SRUNBU0UpIGFuZCBub3QgaGVkZ2Uuc2VhcmNoKGxuKToKICAgICAgICAgICAgICAgIHVuc291cmNlZC5hcHBlbmQobG4pCiAgICAgICAgaWYgdW5zb3VyY2VkOgogICAgICAgICAgICByZWFzb25zLmFwcGVuZChmIuaciSB7bGVuKHVuc291cmNlZCl9IOadoeaWreiogOa8j+agh+adpea6kOaIluS4uuacqumZjee6p+eahOeMnOa1iyIpCgogICAgICAgICMgNCkg6Ieq5qOA6KGo77ya5pyq5qCH5rOo5pat6KiA6K6h5pWwICsg572u5L+h5bqmCiAgICAgICAgY29uZiA9IHNlbGYuX3BhcnNlX2NvbmZpZGVuY2Uoc2VsZmNoZWNrKQogICAgICAgIHVuZmxhZ2dlZCA9IHNlbGYuX3BhcnNlX3VuZmxhZ2dlZF9jb3VudChzZWxmY2hlY2spCiAgICAgICAgaWYgdW5mbGFnZ2VkIGFuZCB1bmZsYWdnZWQgPiAwOgogICAgICAgICAgICByZWFzb25zLmFwcGVuZChmIuiHquajgOaJv+iupOaciSB7dW5mbGFnZ2VkfSDmnaHlhbPplK7nu5PorrrmnKrpmY3nuqcv5pyq5qCH5rOoIikKCiAgICAgICAgIyDlhrPnrZbvvJrmnInlj43lubvop4nov53nuqbmiJboh6rmo4Doh6rmib/pl67popgg4oaSIEJMT0NLIOaJk+WbngogICAgICAgIGlmIHVuc291cmNlZCBvciAodW5mbGFnZ2VkIGFuZCB1bmZsYWdnZWQgPiAwKToKICAgICAgICAgICAgcmV0dXJuIENvbnRyYWN0UmVzdWx0KAogICAgICAgICAgICAgICAgVG9rZW4uQkxPQ0ssIHJlYXNvbnM9cmVhc29ucywgdW5zb3VyY2VkX2NsYWltcz11bnNvdXJjZWQsCiAgICAgICAgICAgICAgICBjb25maWRlbmNlPWNvbmYsIGZvY3VzPSLnu5nmr4/mnaEgW01dL1tHXSDmlq3oqIDliqDmnaXmupDmiJbpmY3nuqfkuLon6ZyA5qC45a6eJyIsCiAgICAgICAgICAgICkKCiAgICAgICAgIyA1KSDnva7kv6Hluqbov4fkvY4g4oaSIEFTS++8iOi3r+eUseWIsOS6jOasoeaguOWuni/kurrlt6XvvIzogIzpnZ7nm7TmjqXnu5nkvY7otKjph4/nrZTmoYjvvIkKICAgICAgICBpZiBjb25mIGlzIG5vdCBOb25lIGFuZCBjb25mIDwgc2VsZi5taW5fY29uZmlkZW5jZToKICAgICAgICAgICAgcmV0dXJuIENvbnRyYWN0UmVzdWx0KAogICAgICAgICAgICAgICAgVG9rZW4uQVNLLCByZWFzb25zPVtmIuiHquivhOe9ruS/oeW6piB7Y29uZn0gPCB7c2VsZi5taW5fY29uZmlkZW5jZX3vvIzpnIDmoLjlrp4iXSwKICAgICAgICAgICAgICAgIGNvbmZpZGVuY2U9Y29uZiwgZm9jdXM9IuWFiOi1sOajgOe0oi/kurrlt6XmoLjlrp7lho3kvZznrZQiLAogICAgICAgICAgICApCgogICAgICAgIHJldHVybiBDb250cmFjdFJlc3VsdChUb2tlbi5QQVNTLCByZWFzb25zPVsi5aWR57qm6YCa6L+HIl0sIGNvbmZpZGVuY2U9Y29uZikKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX3BhcnNlX2NvbmZpZGVuY2Uoc2VsZmNoZWNrOiBzdHIpIC0+IE9wdGlvbmFsW2Zsb2F0XToKICAgICAgICBtID0gcmUuc2VhcmNoKHIi572u5L+h5bqmXER7MCw2fShcZCsoPzpcLlxkKyk/KSIsIHNlbGZjaGVjaykKICAgICAgICBpZiBub3QgbToKICAgICAgICAgICAgbSA9IHJlLnNlYXJjaChyIlxiKFxkKyg/OlwuXGQrKT8pXHMqL1xzKjEwIiwgc2VsZmNoZWNrKQogICAgICAgIHJldHVybiBmbG9hdChtLmdyb3VwKDEpKSBpZiBtIGVsc2UgTm9uZQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfcGFyc2VfdW5mbGFnZ2VkX2NvdW50KHNlbGZjaGVjazogc3RyKSAtPiBPcHRpb25hbFtpbnRdOgogICAgICAgICIiIuivu+iHquajgOesrCAyIOmimCLmnInlh6DmnaHmnKrpmY3nuqci55qE5pWw5a2X44CCIiIiCiAgICAgICAgZm9yIGxuIGluIHNlbGZjaGVjay5zcGxpdGxpbmVzKCk6CiAgICAgICAgICAgIGlmIHJlLnNlYXJjaChyIuacquagh+azqHzmnKrpmY3nuqd85rKh5qCHfOayoemZjee6pyIsIGxuKToKICAgICAgICAgICAgICAgICMg5YWI5Yml5o6J6KGM6aaW6aKY5Y+377yI5aaCICIyLiAiIC8gIjLjgIEi77yJ77yM6YG/5YWN5oqK6aKY5Y+35b2T5oiQ5pWw6YePCiAgICAgICAgICAgICAgICBib2R5ID0gcmUuc3ViKHIiXlxzKlxkK1xzKlsu44CBKV1ccyoiLCAiIiwgbG4pCiAgICAgICAgICAgICAgICBtID0gcmUuc2VhcmNoKHIiKFxkKylccyrmnaEiLCBib2R5KSBvciByZS5zZWFyY2gociIoXGQrKSIsIGJvZHkpCiAgICAgICAgICAgICAgICBpZiBtOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBpbnQobS5ncm91cCgxKSkKICAgICAgICByZXR1cm4gTm9uZQo=
+"""secureguard.output_contract — 弱模型输出契约校验器（执行层）。
+
+提示词让弱模型吐出结构（见 prompts/weak-model-scaffold.md），本模块负责**强制**：
+解析不出必填段、有未降级的 [G] 猜测、自检表报了未标注断言、置信度过低 →
+fail-closed 判 BLOCK/ASK，交由上层用 P-RETRY 打回重做，而**绝不放行**。
+
+这就是"弱模型也能可靠"的真正落点——可靠性来自这道关，不来自模型自觉。
+纯标准库，可离线测试。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from typing import Dict, List, Optional
+
+from .types import Token
+
+# 必填段（FALSIFY 条件性必填，可为 N/A）
+REQUIRED_SECTIONS = ["ASSESS", "CLAIMS", "OBJECTIONS", "SELFCHECK", "ANSWER"]
+
+
+def _extract(text: str, name: str) -> Optional[str]:
+    """容错抽取 <NAME>...</NAME>，大小写/空格无所谓。"""
+    m = re.search(rf"<\s*{name}\s*>(.*?)<\s*/\s*{name}\s*>", text,
+                  re.IGNORECASE | re.DOTALL)
+    return m.group(1).strip() if m else None
+
+
+@dataclass
+class ContractResult:
+    token: Token
+    reasons: List[str] = field(default_factory=list)
+    missing_sections: List[str] = field(default_factory=list)
+    ask_items: List[str] = field(default_factory=list)
+    unsourced_claims: List[str] = field(default_factory=list)
+    confidence: Optional[float] = None
+    focus: str = ""              # 给 P-RETRY 的重点提示
+
+    def to_dict(self) -> Dict:
+        return {
+            "token": self.token.value,
+            "reasons": self.reasons,
+            "missing_sections": self.missing_sections,
+            "ask_items": self.ask_items,
+            "unsourced_claims": self.unsourced_claims,
+            "confidence": self.confidence,
+            "focus": self.focus,
+        }
+
+
+class OutputContract:
+    """校验弱模型的结构化输出。fail-closed：不合格一律不放行。"""
+
+    def __init__(self, min_confidence: float = 4.0) -> None:
+        self.min_confidence = min_confidence
+
+    def validate(self, text: str) -> ContractResult:
+        reasons: List[str] = []
+
+        # 1) 必填段齐全（缺段 = fail-closed BLOCK 打回）
+        missing = [s for s in REQUIRED_SECTIONS if _extract(text, s) is None]
+        if missing:
+            return ContractResult(
+                Token.BLOCK,
+                reasons=[f"缺失必填段：{', '.join(missing)}"],
+                missing_sections=missing,
+                focus="补齐缺失段并按结构重发",
+            )
+
+        assess = _extract(text, "ASSESS") or ""
+        claims = _extract(text, "CLAIMS") or ""
+        selfcheck = _extract(text, "SELFCHECK") or ""
+
+        # 2) 入口门：有 ASK 项 → 暂停问用户
+        ask_items = [ln.strip() for ln in assess.splitlines()
+                     if re.search(r"\bASK\b", ln, re.IGNORECASE)]
+        if ask_items:
+            return ContractResult(
+                Token.ASK,
+                reasons=["存在需澄清的不可逆/承重信息(ASK)"],
+                ask_items=ask_items,
+            )
+
+        # 3) 反幻觉：未降级的 [G] 猜测，或漏标来源 → BLOCK 打回
+        unsourced: List[str] = []
+        claim_lines = [ln.strip() for ln in claims.splitlines() if ln.strip()
+                       and ln.strip().lower() not in ("none", "n/a")]
+        hedge = re.compile(r"需核实|待核实|不确定|可能|存疑|待验证", re.IGNORECASE)
+        for ln in claim_lines:
+            has_tag = re.search(r"\[(S|M|G)\]", ln, re.IGNORECASE)
+            if not has_tag:
+                unsourced.append(ln)
+                continue
+            # [G] 猜测必须降级；未降级即违约
+            if re.search(r"\[G\]", ln, re.IGNORECASE) and not hedge.search(ln):
+                unsourced.append(ln)
+        if unsourced:
+            reasons.append(f"有 {len(unsourced)} 条断言漏标来源或为未降级的猜测")
+
+        # 4) 自检表：未标注断言计数 + 置信度
+        conf = self._parse_confidence(selfcheck)
+        unflagged = self._parse_unflagged_count(selfcheck)
+        if unflagged and unflagged > 0:
+            reasons.append(f"自检承认有 {unflagged} 条关键结论未降级/未标注")
+
+        # 决策：有反幻觉违约或自检自承问题 → BLOCK 打回
+        if unsourced or (unflagged and unflagged > 0):
+            return ContractResult(
+                Token.BLOCK, reasons=reasons, unsourced_claims=unsourced,
+                confidence=conf, focus="给每条 [M]/[G] 断言加来源或降级为'需核实'",
+            )
+
+        # 5) 置信度过低 → ASK（路由到二次核实/人工，而非直接给低质量答案）
+        if conf is not None and conf < self.min_confidence:
+            return ContractResult(
+                Token.ASK, reasons=[f"自评置信度 {conf} < {self.min_confidence}，需核实"],
+                confidence=conf, focus="先走检索/人工核实再作答",
+            )
+
+        return ContractResult(Token.PASS, reasons=["契约通过"], confidence=conf)
+
+    @staticmethod
+    def _parse_confidence(selfcheck: str) -> Optional[float]:
+        m = re.search(r"置信度\D{0,6}(\d+(?:\.\d+)?)", selfcheck)
+        if not m:
+            m = re.search(r"\b(\d+(?:\.\d+)?)\s*/\s*10", selfcheck)
+        return float(m.group(1)) if m else None
+
+    @staticmethod
+    def _parse_unflagged_count(selfcheck: str) -> Optional[int]:
+        """读自检第 2 题"有几条未降级"的数字。"""
+        for ln in selfcheck.splitlines():
+            if re.search(r"未标注|未降级|没标|没降级", ln):
+                # 先剥掉行首题号（如 "2. " / "2、"），避免把题号当成数量
+                body = re.sub(r"^\s*\d+\s*[.、)]\s*", "", ln)
+                m = re.search(r"(\d+)\s*条", body) or re.search(r"(\d+)", body)
+                if m:
+                    return int(m.group(1))
+        return None

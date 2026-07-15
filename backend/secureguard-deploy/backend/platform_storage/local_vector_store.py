@@ -1,1 +1,95 @@
-IiIicGxhdGZvcm1fc3RvcmFnZS5sb2NhbF92ZWN0b3Jfc3RvcmUg4oCUIOacrOWcsCBTUUxpdGUg6JC955uY5ZCR6YeP5bqTKOabv+aNoumHjeWQr+WNs+S4oueahOWGheWtmOeJiCnjgIIKCi0g5ZCR6YePICsgcGF5bG9hZCh0ZW5hbnRfaWQva2JfaWQvZG9jX2lkL2NvbnRlbnQvcG9vbCDnrYkp6JC955uYLOmHjeWQr+S4jeS4ouOAgeWPr+majyBEQVRBX0RJUiDmkKzov4HjgIIKLSBzZWFyY2gg5bimIGZpbHRlcnModGVuYW50X2lkIOeyvuehruOAgWtiX2lkIOWIl+ihqCBJTuOAgXBvb2wg57K+56Gu44CB5YW25L2Z562J5YC8KSzkvZnlvKbnm7jkvLzluqblnKggUHl0aG9uIOiuoeeul+OAggotIOaOpeWPo+S4jiBRZHJhbnQg54mI5LiA6Ie0KOmbhuWbouWIhyBRZHJhbnQg5pe2IGZpbHRlcnMg5LiL5o6o5Li6IHBheWxvYWQgZmlsdGVyKSzosIPnlKjmlrnpm7bmlLnliqjjgIIK5bCP6KeE5qih6Laz5aSfO+i2heWkp+inhOaooeaNoiBRZHJhbnRTdG9yZeOAgue6ryBzdGRsaWIgKyBzcWxpdGUz44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgbWF0aAppbXBvcnQgb3MKaW1wb3J0IHNxbGl0ZTMKaW1wb3J0IHRocmVhZGluZwpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKZnJvbSAuaW50ZXJmYWNlcyBpbXBvcnQgVmVjdG9ySGl0CgpfUkVTRVJWRUQgPSB7InRlbmFudF9pZCIsICJrYl9pZCIsICJkb2NfaWQiLCAicG9vbCJ9ICAgIyDlu7rntKLlvJXliJc75YW25L2ZIHBheWxvYWQg5a2YIEpTT04KCgpjbGFzcyBMb2NhbFZlY3RvclN0b3JlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhdGg6IHN0cikgLT4gTm9uZToKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUocGF0aCkgb3IgIi4iLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHNlbGYuX2xvY2sgPSB0aHJlYWRpbmcuTG9jaygpCiAgICAgICAgc2VsZi5kYiA9IHNxbGl0ZTMuY29ubmVjdChwYXRoLCBjaGVja19zYW1lX3RocmVhZD1GYWxzZSkKICAgICAgICBzZWxmLmRiLnJvd19mYWN0b3J5ID0gc3FsaXRlMy5Sb3cKICAgICAgICBzZWxmLmRiLmV4ZWN1dGUoIiIiCiAgICAgICAgICAgIENSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIHZlY3RvcnMgKAogICAgICAgICAgICAgICAgaWQgVEVYVCBQUklNQVJZIEtFWSwKICAgICAgICAgICAgICAgIHRlbmFudF9pZCBURVhULCBrYl9pZCBURVhULCBkb2NfaWQgVEVYVCwgcG9vbCBURVhULAogICAgICAgICAgICAgICAgY29udGVudCBURVhULCBwYXlsb2FkIFRFWFQsIHZlY3RvciBURVhUCiAgICAgICAgICAgICkiIiIpCiAgICAgICAgc2VsZi5kYi5leGVjdXRlKCJDUkVBVEUgSU5ERVggSUYgTk9UIEVYSVNUUyBpeF92ZWNfc2NvcGUgT04gdmVjdG9ycyh0ZW5hbnRfaWQsIGtiX2lkKSIpCiAgICAgICAgc2VsZi5kYi5jb21taXQoKQoKICAgIGRlZiBhZGQoc2VsZiwgaWQ6IHN0ciwgdmVjdG9yOiBMaXN0W2Zsb2F0XSwgcGF5bG9hZDogRGljdFtzdHIsIEFueV0pIC0+IE5vbmU6CiAgICAgICAgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICBzZWxmLmRiLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAiSU5TRVJUIE9SIFJFUExBQ0UgSU5UTyB2ZWN0b3JzKGlkLHRlbmFudF9pZCxrYl9pZCxkb2NfaWQscG9vbCxjb250ZW50LHBheWxvYWQsdmVjdG9yKSIKICAgICAgICAgICAgICAgICIgVkFMVUVTKD8sPyw/LD8sPyw/LD8sPykiLAogICAgICAgICAgICAgICAgKGlkLCBwYXlsb2FkLmdldCgidGVuYW50X2lkIiksIHBheWxvYWQuZ2V0KCJrYl9pZCIpLCBwYXlsb2FkLmdldCgiZG9jX2lkIiksCiAgICAgICAgICAgICAgICAgcGF5bG9hZC5nZXQoInBvb2wiKSwgcGF5bG9hZC5nZXQoImNvbnRlbnQiLCAiIiksCiAgICAgICAgICAgICAgICAganNvbi5kdW1wcyhwYXlsb2FkLCBlbnN1cmVfYXNjaWk9RmFsc2UpLCBqc29uLmR1bXBzKHZlY3RvcikpKQogICAgICAgICAgICBzZWxmLmRiLmNvbW1pdCgpCgogICAgZGVmIF93aGVyZShzZWxmLCBmaWx0ZXJzOiBPcHRpb25hbFtEaWN0W3N0ciwgQW55XV0pOgogICAgICAgIGlmIG5vdCBmaWx0ZXJzOgogICAgICAgICAgICByZXR1cm4gIiIsIFtdCiAgICAgICAgY2xhdXNlcywgcGFyYW1zID0gW10sIFtdCiAgICAgICAgZm9yIGtkYiBpbiAoInRlbmFudF9pZCIsICJkb2NfaWQiLCAicG9vbCIpOgogICAgICAgICAgICBpZiBrZGIgaW4gZmlsdGVycyBhbmQgZmlsdGVyc1trZGJdIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgY2xhdXNlcy5hcHBlbmQoZiJ7a2RifT0/Iik7IHBhcmFtcy5hcHBlbmQoZmlsdGVyc1trZGJdKQogICAgICAgIGlmICJrYl9pZCIgaW4gZmlsdGVycyBhbmQgZmlsdGVyc1sia2JfaWQiXSBpcyBub3QgTm9uZToKICAgICAgICAgICAgdiA9IGZpbHRlcnNbImtiX2lkIl0KICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh2LCAobGlzdCwgdHVwbGUsIHNldCkpOgogICAgICAgICAgICAgICAgdiA9IGxpc3QodikKICAgICAgICAgICAgICAgIGlmIG5vdCB2OgogICAgICAgICAgICAgICAgICAgIHJldHVybiAiV0hFUkUgMT0wIiwgW10gICAgICAgICAgIyDnqbrliJfooag95LiN5Yy56YWN5Lu75L2VCiAgICAgICAgICAgICAgICBjbGF1c2VzLmFwcGVuZChmImtiX2lkIElOICh7JywnLmpvaW4oJz8nKmxlbih2KSl9KSIpOyBwYXJhbXMuZXh0ZW5kKHYpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBjbGF1c2VzLmFwcGVuZCgia2JfaWQ9PyIpOyBwYXJhbXMuYXBwZW5kKHYpCiAgICAgICAgcmV0dXJuICgiV0hFUkUgIiArICIgQU5EICIuam9pbihjbGF1c2VzKSkgaWYgY2xhdXNlcyBlbHNlICIiLCBwYXJhbXMKCiAgICBkZWYgc2VhcmNoKHNlbGYsIHZlY3RvcjogTGlzdFtmbG9hdF0sIGs6IGludCA9IDUsCiAgICAgICAgICAgICAgIGZpbHRlcnM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUpIC0+IExpc3RbVmVjdG9ySGl0XToKICAgICAgICB3aGVyZSwgcGFyYW1zID0gc2VsZi5fd2hlcmUoZmlsdGVycykKICAgICAgICByb3dzID0gc2VsZi5kYi5leGVjdXRlKGYiU0VMRUNUIGlkLHBheWxvYWQsdmVjdG9yIEZST00gdmVjdG9ycyB7d2hlcmV9IiwgcGFyYW1zKS5mZXRjaGFsbCgpCiAgICAgICAgcW4gPSBtYXRoLnNxcnQoc3VtKHggKiB4IGZvciB4IGluIHZlY3RvcikpIG9yIDFlLTkKICAgICAgICBzY29yZWQgPSBbXQogICAgICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgICAgIHYgPSBqc29uLmxvYWRzKHJbInZlY3RvciJdKQogICAgICAgICAgICBpZiBsZW4odikgIT0gbGVuKHZlY3Rvcik6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBkb3QgPSBzdW0oYSAqIGIgZm9yIGEsIGIgaW4gemlwKHZlY3RvciwgdikpCiAgICAgICAgICAgIHZuID0gbWF0aC5zcXJ0KHN1bSh4ICogeCBmb3IgeCBpbiB2KSkgb3IgMWUtOQogICAgICAgICAgICBzY29yZWQuYXBwZW5kKFZlY3RvckhpdChyWyJpZCJdLCBkb3QgLyAocW4gKiB2biksIGpzb24ubG9hZHMoclsicGF5bG9hZCJdKSkpCiAgICAgICAgc2NvcmVkLnNvcnQoa2V5PWxhbWJkYSBoOiBoLnNjb3JlLCByZXZlcnNlPVRydWUpCiAgICAgICAgcmV0dXJuIHNjb3JlZFs6a10KCiAgICBkZWYgZGVsZXRlKHNlbGYsIGlkczogT3B0aW9uYWxbTGlzdFtzdHJdXSA9IE5vbmUsCiAgICAgICAgICAgICAgIGZpbHRlcnM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUpIC0+IGludDoKICAgICAgICB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIGlmIGlkczoKICAgICAgICAgICAgICAgIGN1ciA9IHNlbGYuZGIuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICAgICBmIkRFTEVURSBGUk9NIHZlY3RvcnMgV0hFUkUgaWQgSU4gKHsnLCcuam9pbignPycqbGVuKGlkcykpfSkiLCBsaXN0KGlkcykpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB3aGVyZSwgcGFyYW1zID0gc2VsZi5fd2hlcmUoZmlsdGVycykKICAgICAgICAgICAgICAgIGN1ciA9IHNlbGYuZGIuZXhlY3V0ZShmIkRFTEVURSBGUk9NIHZlY3RvcnMge3doZXJlfSIsIHBhcmFtcykKICAgICAgICAgICAgc2VsZi5kYi5jb21taXQoKQogICAgICAgICAgICByZXR1cm4gY3VyLnJvd2NvdW50CgogICAgZGVmIGNvdW50KHNlbGYsIGZpbHRlcnM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUpIC0+IGludDoKICAgICAgICB3aGVyZSwgcGFyYW1zID0gc2VsZi5fd2hlcmUoZmlsdGVycykKICAgICAgICByZXR1cm4gc2VsZi5kYi5leGVjdXRlKGYiU0VMRUNUIENPVU5UKCopIGMgRlJPTSB2ZWN0b3JzIHt3aGVyZX0iLCBwYXJhbXMpLmZldGNob25lKClbImMiXQo=
+"""platform_storage.local_vector_store — 本地 SQLite 落盘向量库(替换重启即丢的内存版)。
+
+- 向量 + payload(tenant_id/kb_id/doc_id/content/pool 等)落盘,重启不丢、可随 DATA_DIR 搬迁。
+- search 带 filters(tenant_id 精确、kb_id 列表 IN、pool 精确、其余等值),余弦相似度在 Python 计算。
+- 接口与 Qdrant 版一致(集团切 Qdrant 时 filters 下推为 payload filter),调用方零改动。
+小规模足够;超大规模换 QdrantStore。纯 stdlib + sqlite3。
+"""
+from __future__ import annotations
+
+import json
+import math
+import os
+import sqlite3
+import threading
+from typing import Any, Dict, List, Optional
+
+from .interfaces import VectorHit
+
+_RESERVED = {"tenant_id", "kb_id", "doc_id", "pool"}   # 建索引列;其余 payload 存 JSON
+
+
+class LocalVectorStore:
+    def __init__(self, path: str) -> None:
+        os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+        self._lock = threading.Lock()
+        self.db = sqlite3.connect(path, check_same_thread=False)
+        self.db.row_factory = sqlite3.Row
+        self.db.execute("""
+            CREATE TABLE IF NOT EXISTS vectors (
+                id TEXT PRIMARY KEY,
+                tenant_id TEXT, kb_id TEXT, doc_id TEXT, pool TEXT,
+                content TEXT, payload TEXT, vector TEXT
+            )""")
+        self.db.execute("CREATE INDEX IF NOT EXISTS ix_vec_scope ON vectors(tenant_id, kb_id)")
+        self.db.commit()
+
+    def add(self, id: str, vector: List[float], payload: Dict[str, Any]) -> None:
+        with self._lock:
+            self.db.execute(
+                "INSERT OR REPLACE INTO vectors(id,tenant_id,kb_id,doc_id,pool,content,payload,vector)"
+                " VALUES(?,?,?,?,?,?,?,?)",
+                (id, payload.get("tenant_id"), payload.get("kb_id"), payload.get("doc_id"),
+                 payload.get("pool"), payload.get("content", ""),
+                 json.dumps(payload, ensure_ascii=False), json.dumps(vector)))
+            self.db.commit()
+
+    def _where(self, filters: Optional[Dict[str, Any]]):
+        if not filters:
+            return "", []
+        clauses, params = [], []
+        for kdb in ("tenant_id", "doc_id", "pool"):
+            if kdb in filters and filters[kdb] is not None:
+                clauses.append(f"{kdb}=?"); params.append(filters[kdb])
+        if "kb_id" in filters and filters["kb_id"] is not None:
+            v = filters["kb_id"]
+            if isinstance(v, (list, tuple, set)):
+                v = list(v)
+                if not v:
+                    return "WHERE 1=0", []          # 空列表=不匹配任何
+                clauses.append(f"kb_id IN ({','.join('?'*len(v))})"); params.extend(v)
+            else:
+                clauses.append("kb_id=?"); params.append(v)
+        return ("WHERE " + " AND ".join(clauses)) if clauses else "", params
+
+    def search(self, vector: List[float], k: int = 5,
+               filters: Optional[Dict[str, Any]] = None) -> List[VectorHit]:
+        where, params = self._where(filters)
+        rows = self.db.execute(f"SELECT id,payload,vector FROM vectors {where}", params).fetchall()
+        qn = math.sqrt(sum(x * x for x in vector)) or 1e-9
+        scored = []
+        for r in rows:
+            v = json.loads(r["vector"])
+            if len(v) != len(vector):
+                continue
+            dot = sum(a * b for a, b in zip(vector, v))
+            vn = math.sqrt(sum(x * x for x in v)) or 1e-9
+            scored.append(VectorHit(r["id"], dot / (qn * vn), json.loads(r["payload"])))
+        scored.sort(key=lambda h: h.score, reverse=True)
+        return scored[:k]
+
+    def delete(self, ids: Optional[List[str]] = None,
+               filters: Optional[Dict[str, Any]] = None) -> int:
+        with self._lock:
+            if ids:
+                cur = self.db.execute(
+                    f"DELETE FROM vectors WHERE id IN ({','.join('?'*len(ids))})", list(ids))
+            else:
+                where, params = self._where(filters)
+                cur = self.db.execute(f"DELETE FROM vectors {where}", params)
+            self.db.commit()
+            return cur.rowcount
+
+    def count(self, filters: Optional[Dict[str, Any]] = None) -> int:
+        where, params = self._where(filters)
+        return self.db.execute(f"SELECT COUNT(*) c FROM vectors {where}", params).fetchone()["c"]

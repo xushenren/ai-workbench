@@ -1,1 +1,69 @@
-IiIic2VjdXJlZ3VhcmQuYXVkaXRfcm90YXRpb24g4oCUIOWuoeiuoeS/neeVmeetlueVpe+8iOWbnuetlOWSqOivoiAjNu+8ieOAggoK5ZyoIEF1ZGl0TG9nZ2VyIOS5i+S4iuWKoO+8muaMieWwuuWvuOi9rui9rCArIOWkh+S7veaVsOS4iumZkCArIOaMieWkqeaVsOi/h+acn+a4heeQhuOAggrnu6fmib/ljp8gQXVkaXRMb2dnZXLvvIzlhpnlhaXot6/lvoTkuI3lj5jvvIzlj6rlnKjmr4/mrKHokL3nm5jlkI7mo4Dmn6XmmK/lkKbpnIDopoHova7ovawv5riF55CG44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgZ2xvYgppbXBvcnQgb3MKaW1wb3J0IHRpbWUKZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsCgpmcm9tIC5sNF9hdWRpdCBpbXBvcnQgQXVkaXRFbnRyeSwgQXVkaXRMb2dnZXIKCgpjbGFzcyBSb3RhdGluZ0F1ZGl0TG9nZ2VyKEF1ZGl0TG9nZ2VyKToKICAgICIiIuW4puS/neeVmeetlueVpeeahOWuoeiuoeiusOW9leWZqOOAggoKICAgIC0gbWF4X2J5dGVz77ya5Y2V5paH5Lu26LaF6L+H5Y2z6L2u6L2s5Li6IHBhdGguMSwgcGF0aC4yIC4uLgogICAgLSBiYWNrdXBfY291bnTvvJrkv53nlZnnmoTljoblj7LliIbljbfmlbDkuIrpmZDvvIzotoXlh7rliKDmnIDml6cKICAgIC0gcmV0ZW50aW9uX2RheXPvvJrmjIkgbXRpbWUg6LaF5pyf55qE5YiG5Y2355u05o6l5riF55CGCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcGF0aDogc3RyLCBtYXhfYnl0ZXM6IGludCA9IDVfMDAwXzAwMCwKICAgICAgICAgICAgICAgICBiYWNrdXBfY291bnQ6IGludCA9IDUsIHJldGVudGlvbl9kYXlzOiBPcHRpb25hbFtmbG9hdF0gPSAzMC4wKSAtPiBOb25lOgogICAgICAgIHN1cGVyKCkuX19pbml0X18ocGF0aD1wYXRoKQogICAgICAgIHNlbGYubWF4X2J5dGVzID0gbWF4X2J5dGVzCiAgICAgICAgc2VsZi5iYWNrdXBfY291bnQgPSBiYWNrdXBfY291bnQKICAgICAgICBzZWxmLnJldGVudGlvbl9kYXlzID0gcmV0ZW50aW9uX2RheXMKCiAgICBkZWYgbG9nKHNlbGYsIGVudHJ5OiBBdWRpdEVudHJ5KSAtPiBBdWRpdEVudHJ5OgogICAgICAgIGUgPSBzdXBlcigpLmxvZyhlbnRyeSkKICAgICAgICBpZiBzZWxmLnBhdGg6CiAgICAgICAgICAgIHNlbGYuX21heWJlX3JvdGF0ZSgpCiAgICAgICAgICAgIHNlbGYuX2VuZm9yY2VfcmV0ZW50aW9uKCkKICAgICAgICByZXR1cm4gZQoKICAgIGRlZiBfbWF5YmVfcm90YXRlKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBpZiBvcy5wYXRoLmdldHNpemUoc2VsZi5wYXRoKSA8IHNlbGYubWF4X2J5dGVzOgogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgICAgIHJldHVybgogICAgICAgICMg5rua5Yqo77yacGF0aC4obi0xKSAtPiBwYXRoLm7vvIzmnIDml6fnmoTkuKLlvIMKICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLmJhY2t1cF9jb3VudCAtIDEsIDAsIC0xKToKICAgICAgICAgICAgc3JjLCBkc3QgPSBmIntzZWxmLnBhdGh9LntpfSIsIGYie3NlbGYucGF0aH0ue2krMX0iCiAgICAgICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHNyYyk6CiAgICAgICAgICAgICAgICBvcy5yZXBsYWNlKHNyYywgZHN0KQogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHNlbGYucGF0aCk6CiAgICAgICAgICAgIG9zLnJlcGxhY2Uoc2VsZi5wYXRoLCBmIntzZWxmLnBhdGh9LjEiKQogICAgICAgICMg6LaF5Ye6IGJhY2t1cF9jb3VudCDnmoTliIbljbfliKDpmaQKICAgICAgICBmb3Igb2xkIGluIGdsb2IuZ2xvYihmIntzZWxmLnBhdGh9LioiKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaWR4ID0gaW50KG9sZC5yc3BsaXQoIi4iLCAxKVsxXSkKICAgICAgICAgICAgICAgIGlmIGlkeCA+IHNlbGYuYmFja3VwX2NvdW50OgogICAgICAgICAgICAgICAgICAgIG9zLnJlbW92ZShvbGQpCiAgICAgICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgT1NFcnJvcik6CiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgIGRlZiBfZW5mb3JjZV9yZXRlbnRpb24oc2VsZikgLT4gTm9uZToKICAgICAgICBpZiBub3Qgc2VsZi5yZXRlbnRpb25fZGF5czoKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgY3V0b2ZmID0gdGltZS50aW1lKCkgLSBzZWxmLnJldGVudGlvbl9kYXlzICogODY0MDAKICAgICAgICBmb3IgZiBpbiBnbG9iLmdsb2IoZiJ7c2VsZi5wYXRofS4qIik6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGlmIG9zLnBhdGguZ2V0bXRpbWUoZikgPCBjdXRvZmY6CiAgICAgICAgICAgICAgICAgICAgb3MucmVtb3ZlKGYpCiAgICAgICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICAgICAgY29udGludWUK
+"""secureguard.audit_rotation — 审计保留策略（回答咨询 #6）。
+
+在 AuditLogger 之上加：按尺寸轮转 + 备份数上限 + 按天数过期清理。
+继承原 AuditLogger，写入路径不变，只在每次落盘后检查是否需要轮转/清理。
+"""
+from __future__ import annotations
+
+import glob
+import os
+import time
+from typing import Optional
+
+from .l4_audit import AuditEntry, AuditLogger
+
+
+class RotatingAuditLogger(AuditLogger):
+    """带保留策略的审计记录器。
+
+    - max_bytes：单文件超过即轮转为 path.1, path.2 ...
+    - backup_count：保留的历史分卷数上限，超出删最旧
+    - retention_days：按 mtime 超期的分卷直接清理
+    """
+
+    def __init__(self, path: str, max_bytes: int = 5_000_000,
+                 backup_count: int = 5, retention_days: Optional[float] = 30.0) -> None:
+        super().__init__(path=path)
+        self.max_bytes = max_bytes
+        self.backup_count = backup_count
+        self.retention_days = retention_days
+
+    def log(self, entry: AuditEntry) -> AuditEntry:
+        e = super().log(entry)
+        if self.path:
+            self._maybe_rotate()
+            self._enforce_retention()
+        return e
+
+    def _maybe_rotate(self) -> None:
+        try:
+            if os.path.getsize(self.path) < self.max_bytes:
+                return
+        except OSError:
+            return
+        # 滚动：path.(n-1) -> path.n，最旧的丢弃
+        for i in range(self.backup_count - 1, 0, -1):
+            src, dst = f"{self.path}.{i}", f"{self.path}.{i+1}"
+            if os.path.exists(src):
+                os.replace(src, dst)
+        if os.path.exists(self.path):
+            os.replace(self.path, f"{self.path}.1")
+        # 超出 backup_count 的分卷删除
+        for old in glob.glob(f"{self.path}.*"):
+            try:
+                idx = int(old.rsplit(".", 1)[1])
+                if idx > self.backup_count:
+                    os.remove(old)
+            except (ValueError, OSError):
+                continue
+
+    def _enforce_retention(self) -> None:
+        if not self.retention_days:
+            return
+        cutoff = time.time() - self.retention_days * 86400
+        for f in glob.glob(f"{self.path}.*"):
+            try:
+                if os.path.getmtime(f) < cutoff:
+                    os.remove(f)
+            except OSError:
+                continue

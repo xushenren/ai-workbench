@@ -1,1 +1,177 @@
-IiIiYmFja2VuZC5tb2RlbF9hZGFwdGVyIOKAlCDnnJ/lrp7mqKHlnovpgILphY3lmajvvIhPcGVuQUkg5YW85a655rWB5byP77yJ44CCCgropobnm5bnu53lpKflpJrmlbDmqKHlnovvvJpEZWVwU2VlayAvIOmAmuS5iSAvIEtpbWkgLyBPcGVuQUkgLyDmnKzlnLAgdkxMTSDnrYnvvIwK5Zug5Li65a6D5Lus6YO95YW85a65IE9wZW5BSSDnmoQgUE9TVCB7YXBpX2Jhc2V9L2NoYXQvY29tcGxldGlvbnPvvIhTU0Ug5rWB5byP77yJ44CCCgror5rlrp7ovrnnlYzvvJoKLSDnnJ/lrp4gSFRUUCDlvoDov5TpnIDopoHogZTnvZEgKyDnnJ/lrp4gYXBpX2tlee+8jOacrOaymeeuseaWree9kea1i+S4jeS6hiDihpIg5qCHIPCflLTjgIIKLSDnprvnur/lj6/mtYvnmoTpg6jliIbvvJror7fmsYLkvZPmnoTpgKDjgIFTU0Ug6KGM6Kej5p6Q77yI5oqKIGRhdGE6IHsuLi59IOino+aekOaIkCB0b2tlbu+8ieOAgemZjee6p+OAggotIOeUqCBzdGRsaWIgdXJsbGli77yM5LiN5byV56ys5LiJ5pa55L6d6LWW77yI55Sf5Lqn5Y+v5o2iIGh0dHB4IOaPkOWNh+W5tuWPke+8jOaOpeWPo+S4jeWPmO+8ieOAggoK5o6l5Y+j77yaCi0gZ2VuZXJhdGUocHJvbXB0KSAtPiBzdHIgICAgICAgIOWQjOatpeWFqOmHj++8iOWFnOW6lSAvIOmdnua1geW8j+WcuuaZr++8iQotIHN0cmVhbShwcm9tcHQpIC0+IEl0ZXJhdG9yW3N0cl0g6YCQIHRva2Vu77yI5rWB5byP77yJCuWksei0peaXtuS4jeaKm+aWreWFqOWxgO+8mui/lOWbnuaYjuehrumUmeivr+aWh+acrCAvIOepuui/reS7o++8jOeUseS4iuWxgumZjee6p+OAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCB1cmxsaWIuZXJyb3IKZnJvbSB0eXBpbmcgaW1wb3J0IEl0ZXJhdG9yLCBMaXN0LCBEaWN0LCBBbnksIE9wdGlvbmFsCgpmcm9tIHNlY3VyZWd1YXJkLmwyX3JlYXNvbmluZyBpbXBvcnQgTW9kZWxCYWNrZW5kCgoKZGVmIHBhcnNlX3NzZV9saW5lKGxpbmU6IHN0cikgLT4gT3B0aW9uYWxbc3RyXToKICAgICIiIuino+aekOS4gOihjCBTU0XvvIzov5Tlm57or6XooYznmoTlop7ph48gdG9rZW7vvIjml6DliJkgTm9uZe+8ieOAggoKICAgIE9wZW5BSSDmtYHlvI/moLzlvI/vvJrmr4/ooYwgYGRhdGE6IHtqc29ufWDvvIxqc29uLmNob2ljZXNbMF0uZGVsdGEuY29udGVudCDmmK/lop7ph4/jgIIKICAgIOe7k+adn+agh+W/lyBgZGF0YTogW0RPTkVdYOOAguWPr+emu+e6v+a1i+OAggogICAgIiIiCiAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICBpZiBub3QgbGluZSBvciBub3QgbGluZS5zdGFydHN3aXRoKCJkYXRhOiIpOgogICAgICAgIHJldHVybiBOb25lCiAgICBwYXlsb2FkID0gbGluZVtsZW4oImRhdGE6Iik6XS5zdHJpcCgpCiAgICBpZiBwYXlsb2FkID09ICJbRE9ORV0iOgogICAgICAgIHJldHVybiBOb25lCiAgICB0cnk6CiAgICAgICAgb2JqID0ganNvbi5sb2FkcyhwYXlsb2FkKQogICAgICAgIHJldHVybiBvYmouZ2V0KCJjaG9pY2VzIiwgW3t9XSlbMF0uZ2V0KCJkZWx0YSIsIHt9KS5nZXQoImNvbnRlbnQiKQogICAgZXhjZXB0IChqc29uLkpTT05EZWNvZGVFcnJvciwgSW5kZXhFcnJvciwgS2V5RXJyb3IsIFR5cGVFcnJvcik6CiAgICAgICAgcmV0dXJuIE5vbmUKCgpkZWYgYnVpbGRfcmVxdWVzdF9ib2R5KG1vZGVsOiBzdHIsIG1lc3NhZ2VzOiBMaXN0W0RpY3Rbc3RyLCBzdHJdXSwKICAgICAgICAgICAgICAgICAgICAgICBzdHJlYW06IGJvb2wsICoqb3B0czogQW55KSAtPiBEaWN0W3N0ciwgQW55XToKICAgICIiIuaehOmAoCBPcGVuQUkg5YW85a656K+35rGC5L2T44CC5Y+v56a757q/5rWL44CCIiIiCiAgICBib2R5ID0geyJtb2RlbCI6IG1vZGVsLCAibWVzc2FnZXMiOiBtZXNzYWdlcywgInN0cmVhbSI6IHN0cmVhbX0KICAgIGZvciBrIGluICgidGVtcGVyYXR1cmUiLCAibWF4X3Rva2VucyIsICJ0b3BfcCIpOgogICAgICAgIGlmIGsgaW4gb3B0cyBhbmQgb3B0c1trXSBpcyBub3QgTm9uZToKICAgICAgICAgICAgYm9keVtrXSA9IG9wdHNba10KICAgIHJldHVybiBib2R5CgoKY2xhc3MgT3BlbkFJQ29tcGF0TW9kZWwoTW9kZWxCYWNrZW5kKToKICAgICIiIk9wZW5BSSDlhbzlrrnmqKHlnovpgILphY3lmajjgILkuI4gTW9ja01vZGVsIOWQjOaOpeWPo++8iGdlbmVyYXRl77yJ77yM5bm25YqgIHN0cmVhbeOAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcGlfYmFzZTogc3RyLCBhcGlfa2V5OiBzdHIsIG1vZGVsOiBzdHIsCiAgICAgICAgICAgICAgICAgdGltZW91dDogaW50ID0gNjAsIHN5c3RlbTogT3B0aW9uYWxbc3RyXSA9IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5hcGlfYmFzZSA9IGFwaV9iYXNlLnJzdHJpcCgiLyIpCiAgICAgICAgc2VsZi5hcGlfa2V5ID0gYXBpX2tleQogICAgICAgIHNlbGYubW9kZWwgPSBtb2RlbAogICAgICAgIHNlbGYudGltZW91dCA9IHRpbWVvdXQKICAgICAgICBzZWxmLnN5c3RlbSA9IHN5c3RlbQoKICAgIGRlZiBfbWVzc2FnZXMoc2VsZiwgcHJvbXB0OiBzdHIpIC0+IExpc3RbRGljdFtzdHIsIHN0cl1dOgogICAgICAgIG1zZ3M6IExpc3RbRGljdFtzdHIsIHN0cl1dID0gW10KICAgICAgICBpZiBzZWxmLnN5c3RlbToKICAgICAgICAgICAgbXNncy5hcHBlbmQoeyJyb2xlIjogInN5c3RlbSIsICJjb250ZW50Ijogc2VsZi5zeXN0ZW19KQogICAgICAgIG1zZ3MuYXBwZW5kKHsicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBwcm9tcHR9KQogICAgICAgIHJldHVybiBtc2dzCgogICAgZGVmIF91cmwoc2VsZikgLT4gc3RyOgogICAgICAgIHJldHVybiBmIntzZWxmLmFwaV9iYXNlfS9jaGF0L2NvbXBsZXRpb25zIgoKICAgIGRlZiBfaGVhZGVycyhzZWxmKSAtPiBEaWN0W3N0ciwgc3RyXToKICAgICAgICByZXR1cm4geyJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHtzZWxmLmFwaV9rZXl9In0KCiAgICAjIC0tLS0tLS0tLS0g5ZCM5q2l5YWo6YeP77yI8J+UtCDnnJ/lrp7lvoDov5TpnIDogZTnvZHvvIktLS0tLS0tLS0tCiAgICBkZWYgZ2VuZXJhdGUoc2VsZiwgcHJvbXB0OiBzdHIsICoqa3dhcmdzKSAtPiBzdHI6ICAjIHByYWdtYTogbm8gY292ZXIgLSDpnIDogZTnvZEKICAgICAgICBib2R5ID0gYnVpbGRfcmVxdWVzdF9ib2R5KHNlbGYubW9kZWwsIHNlbGYuX21lc3NhZ2VzKHByb21wdCksIHN0cmVhbT1GYWxzZSwgKiprd2FyZ3MpCiAgICAgICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChzZWxmLl91cmwoKSwgZGF0YT1qc29uLmR1bXBzKGJvZHkpLmVuY29kZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz1zZWxmLl9oZWFkZXJzKCksIG1ldGhvZD0iUE9TVCIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PXNlbGYudGltZW91dCkgYXMgcmVzcDoKICAgICAgICAgICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKHJlc3AucmVhZCgpLmRlY29kZSgpKQogICAgICAgICAgICByZXR1cm4gZGF0YS5nZXQoImNob2ljZXMiLCBbe31dKVswXS5nZXQoIm1lc3NhZ2UiLCB7fSkuZ2V0KCJjb250ZW50IiwgIiIpCiAgICAgICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICAgICAgcmV0dXJuIGYiW+aooeWei+iwg+eUqOWksei0pSBIVFRQIHtlLmNvZGV977yae2UucmVhc29ufV0iCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4gZiJb5qih5Z6L6LCD55So5aSx6LSl77yae2V9XSIKCiAgICAjIC0tLS0tLS0tLS0g5rWB5byP6YCQIHRva2Vu77yI8J+UtCDnnJ/lrp7lvoDov5TpnIDogZTnvZHvvIktLS0tLS0tLS0tCiAgICBkZWYgc3RyZWFtKHNlbGYsIHByb21wdDogc3RyLCAqKmt3YXJncykgLT4gSXRlcmF0b3Jbc3RyXTogICMgcHJhZ21hOiBubyBjb3ZlciAtIOmcgOiBlOe9kQogICAgICAgIGJvZHkgPSBidWlsZF9yZXF1ZXN0X2JvZHkoc2VsZi5tb2RlbCwgc2VsZi5fbWVzc2FnZXMocHJvbXB0KSwgc3RyZWFtPVRydWUsICoqa3dhcmdzKQogICAgICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3Qoc2VsZi5fdXJsKCksIGRhdGE9anNvbi5kdW1wcyhib2R5KS5lbmNvZGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnM9c2VsZi5faGVhZGVycygpLCBtZXRob2Q9IlBPU1QiKQogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD1zZWxmLnRpbWVvdXQpIGFzIHJlc3A6CiAgICAgICAgICAgICAgICBmb3IgcmF3IGluIHJlc3A6CiAgICAgICAgICAgICAgICAgICAgdG9rID0gcGFyc2Vfc3NlX2xpbmUocmF3LmRlY29kZSgidXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKSkKICAgICAgICAgICAgICAgICAgICBpZiB0b2s6CiAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIHRvawogICAgICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6CiAgICAgICAgICAgIHlpZWxkIGYiW+aooeWei+iwg+eUqOWksei0pSBIVFRQIHtlLmNvZGV977yae2UucmVhc29ufV0iCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICB5aWVsZCBmIlvmqKHlnovosIPnlKjlpLHotKXvvJp7ZX1dIgoKCmRlZiBidWlsZF9tb2RlbChjZmc6IEFueSkgLT4gT3B0aW9uYWxbTW9kZWxCYWNrZW5kXToKICAgICIiIuaMieaooeWei+mFjee9ruaehOmAoOmAgumFjeWZqOOAgmNmZy5tb2RlbD09J21vY2snIOaIlue8uiBhcGlfYmFzZS9rZXkg4oaSIOi/lOWbniBOb25l77yI55So5YaF572u77yJ44CCIiIiCiAgICBtb2RlbF9pZCA9IGdldGF0dHIoY2ZnLCAibW9kZWwiLCBOb25lKQogICAgYXBpX2Jhc2UgPSBnZXRhdHRyKGNmZywgImFwaV9iYXNlIiwgIiIpCiAgICBhcGlfa2V5ID0gZ2V0YXR0cihjZmcsICJhcGlfa2V5IiwgIiIpCiAgICBpZiBub3QgbW9kZWxfaWQgb3IgbW9kZWxfaWQgPT0gIm1vY2siIG9yIG5vdCBhcGlfYmFzZSBvciBub3QgYXBpX2tleToKICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIE9wZW5BSUNvbXBhdE1vZGVsKGFwaV9iYXNlPWFwaV9iYXNlLCBhcGlfa2V5PWFwaV9rZXksIG1vZGVsPW1vZGVsX2lkKQoKCiMgLS0tLS0tLS0tLSDljoLlrrbpooTnva7muIXljZXvvIjpgInljoLlrrboh6rliqjluKblh7ogYXBpX2Jhc2UgKyDluLjop4HmqKHlnovlkI3vvIktLS0tLS0tLS0tCiMgYXBpX2Jhc2Ug5LiO5qih5Z6L5ZCN5oyJ5bey55+l5aGr5YaZ77yb5ZCE5Y6C5a625Y+v6IO95pu05paw77yM5YmN56uv5YWB6K645pS5L+aLieWPli/miYvloavlhZzlupXjgIIKUFJPVklERVJTOiBMaXN0W0RpY3Rbc3RyLCBBbnldXSA9IFsKICAgIHsiaWQiOiAiZGVlcHNlZWsiLCAibmFtZSI6ICJEZWVwU2VlayDmt7HluqbmsYLntKIiLAogICAgICJhcGlfYmFzZSI6ICJodHRwczovL2FwaS5kZWVwc2Vlay5jb20vdjEiLAogICAgICJtb2RlbHMiOiBbImRlZXBzZWVrLWNoYXQiLCAiZGVlcHNlZWstcmVhc29uZXIiXX0sCiAgICB7ImlkIjogInF3ZW4iLCAibmFtZSI6ICLpgJrkuYnljYPpl67vvIjpmL/ph4zvvIkiLAogICAgICJhcGlfYmFzZSI6ICJodHRwczovL2Rhc2hzY29wZS5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxIiwKICAgICAibW9kZWxzIjogWyJxd2VuLW1heCIsICJxd2VuLXBsdXMiLCAicXdlbi10dXJibyJdfSwKICAgIHsiaWQiOiAibW9vbnNob3QiLCAibmFtZSI6ICJLaW1pIOaciOS5i+aal+mdoiIsCiAgICAgImFwaV9iYXNlIjogImh0dHBzOi8vYXBpLm1vb25zaG90LmNuL3YxIiwKICAgICAibW9kZWxzIjogWyJtb29uc2hvdC12MS04ayIsICJtb29uc2hvdC12MS0zMmsiLCAibW9vbnNob3QtdjEtMTI4ayJdfSwKICAgIHsiaWQiOiAiemhpcHUiLCAibmFtZSI6ICLmmbrosLEgR0xNIiwKICAgICAiYXBpX2Jhc2UiOiAiaHR0cHM6Ly9vcGVuLmJpZ21vZGVsLmNuL2FwaS9wYWFzL3Y0IiwKICAgICAibW9kZWxzIjogWyJnbG0tNC1wbHVzIiwgImdsbS00IiwgImdsbS00LWZsYXNoIl19LAogICAgeyJpZCI6ICJvcGVuYWkiLCAibmFtZSI6ICJPcGVuQUkiLAogICAgICJhcGlfYmFzZSI6ICJodHRwczovL2FwaS5vcGVuYWkuY29tL3YxIiwKICAgICAibW9kZWxzIjogWyJncHQtNG8iLCAiZ3B0LTRvLW1pbmkiLCAiZ3B0LTQtdHVyYm8iXX0sCiAgICB7ImlkIjogIm1pbmltYXgiLCAibmFtZSI6ICJNaW5pTWF4IiwKICAgICAiYXBpX2Jhc2UiOiAiaHR0cHM6Ly9hcGkubWluaW1heC5jaGF0L3YxIiwKICAgICAibW9kZWxzIjogWyJhYmFiNi41cy1jaGF0Il19LAogICAgeyJpZCI6ICJiYWljaHVhbiIsICJuYW1lIjogIueZvuW3nSIsCiAgICAgImFwaV9iYXNlIjogImh0dHBzOi8vYXBpLmJhaWNodWFuLWFpLmNvbS92MSIsCiAgICAgIm1vZGVscyI6IFsiQmFpY2h1YW40IiwgIkJhaWNodWFuMy1UdXJibyJdfSwKICAgIHsiaWQiOiAic2lsaWNvbmZsb3ciLCAibmFtZSI6ICLnoYXln7rmtYHliqggU2lsaWNvbkZsb3ciLAogICAgICJhcGlfYmFzZSI6ICJodHRwczovL2FwaS5zaWxpY29uZmxvdy5jbi92MSIsCiAgICAgIm1vZGVscyI6IFsiZGVlcHNlZWstYWkvRGVlcFNlZWstVjMiLCAiUXdlbi9Rd2VuMi41LTcyQi1JbnN0cnVjdCJdfSwKICAgIHsiaWQiOiAiY3VzdG9tIiwgIm5hbWUiOiAi5pys5ZywIC8g6Ieq5a6a5LmJ77yI5omL5aGr5Zyw5Z2A77yJIiwKICAgICAiYXBpX2Jhc2UiOiAiIiwgIm1vZGVscyI6IFtdfSwKXQoKCmRlZiBsaXN0X3Byb3ZpZGVycygpIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgcmV0dXJuIFBST1ZJREVSUwoKCmRlZiBmZXRjaF9tb2RlbHMoYXBpX2Jhc2U6IHN0ciwgYXBpX2tleTogc3RyLCB0aW1lb3V0OiBpbnQgPSAxNSkgLT4gRGljdFtzdHIsIEFueV06CiAgICAiIiLnlKgga2V5IOaLieWPluivpei0puWPt+WPr+eUqOaooeWei+WIl+ihqO+8iE9wZW5BSSDlhbzlrrkgR0VUIHthcGlfYmFzZX0vbW9kZWxz77yJ44CCCgogICAg8J+UtCDnnJ/lrp7ogZTnvZHor7fmsYLvvIzmnKzmspnnrrHmlq3nvZHmtYvkuI3kuobjgILov5Tlm54ge2F2YWlsYWJsZSwgbW9kZWxzLCBub3RlfeOAggogICAg5ouJ5Y+W5aSx6LSl77yI5LiN5pSv5oyBL+e9kee7nC/pibTmnYPvvInihpIgYXZhaWxhYmxlPUZhbHNl77yM55Sx5YmN56uv5Zue6YCA5Yiw5Y6C5a626aKE572u5qih5Z6L5ZCN5omL6YCJ44CCCiAgICAiIiIKICAgIGlmIG5vdCBhcGlfYmFzZSBvciBub3QgYXBpX2tleToKICAgICAgICByZXR1cm4geyJhdmFpbGFibGUiOiBGYWxzZSwgIm1vZGVscyI6IFtdLCAibm90ZSI6ICLnvLrlsJEgQVBJIOWcsOWdgOaIliBLZXkifQogICAgdXJsID0gZiJ7YXBpX2Jhc2UucnN0cmlwKCcvJyl9L21vZGVscyIKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBoZWFkZXJzPXsiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHthcGlfa2V5fSJ9LCBtZXRob2Q9IkdFVCIpCiAgICB0cnk6ICAjIHByYWdtYTogbm8gY292ZXIgLSDpnIDogZTnvZEKICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PXRpbWVvdXQpIGFzIHJlc3A6CiAgICAgICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKHJlc3AucmVhZCgpLmRlY29kZSgpKQogICAgICAgIGlkcyA9IFttLmdldCgiaWQiKSBmb3IgbSBpbiBkYXRhLmdldCgiZGF0YSIsIFtdKSBpZiBtLmdldCgiaWQiKV0KICAgICAgICByZXR1cm4geyJhdmFpbGFibGUiOiBUcnVlLCAibW9kZWxzIjogc29ydGVkKGlkcyksCiAgICAgICAgICAgICAgICAibm90ZSI6ICIiIGlmIGlkcyBlbHNlICLor6XmjqXlj6PmnKrov5Tlm57mqKHlnovliJfooajvvIzor7fmiYvloavmqKHlnovmoIfor4YifQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIHJldHVybiB7ImF2YWlsYWJsZSI6IEZhbHNlLCAibW9kZWxzIjogW10sCiAgICAgICAgICAgICAgICAibm90ZSI6IGYi5ouJ5Y+W5aSx6LSlIEhUVFAge2UuY29kZX3vvIhrZXkg5peg5pWI5oiW6K+l5Y6C5a625LiN5pSv5oyB5YiX6KGo5o6l5Y+j77yJ77yM6K+35omL5aGrIn0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIHJldHVybiB7ImF2YWlsYWJsZSI6IEZhbHNlLCAibW9kZWxzIjogW10sICJub3RlIjogZiLmi4nlj5blpLHotKXvvIh7ZX3vvInvvIzor7fmiYvloavmqKHlnovmoIfor4YifQo=
+"""backend.model_adapter — 真实模型适配器（OpenAI 兼容流式）。
+
+覆盖绝大多数模型：DeepSeek / 通义 / Kimi / OpenAI / 本地 vLLM 等，
+因为它们都兼容 OpenAI 的 POST {api_base}/chat/completions（SSE 流式）。
+
+诚实边界：
+- 真实 HTTP 往返需要联网 + 真实 api_key，本沙箱断网测不了 → 标 🔴。
+- 离线可测的部分：请求体构造、SSE 行解析（把 data: {...} 解析成 token）、降级。
+- 用 stdlib urllib，不引第三方依赖（生产可换 httpx 提升并发，接口不变）。
+
+接口：
+- generate(prompt) -> str        同步全量（兜底 / 非流式场景）
+- stream(prompt) -> Iterator[str] 逐 token（流式）
+失败时不抛断全局：返回明确错误文本 / 空迭代，由上层降级。
+"""
+from __future__ import annotations
+
+import json
+import urllib.request
+import urllib.error
+from typing import Iterator, List, Dict, Any, Optional
+
+from secureguard.l2_reasoning import ModelBackend
+
+
+def parse_sse_line(line: str) -> Optional[str]:
+    """解析一行 SSE，返回该行的增量 token（无则 None）。
+
+    OpenAI 流式格式：每行 `data: {json}`，json.choices[0].delta.content 是增量。
+    结束标志 `data: [DONE]`。可离线测。
+    """
+    line = line.strip()
+    if not line or not line.startswith("data:"):
+        return None
+    payload = line[len("data:"):].strip()
+    if payload == "[DONE]":
+        return None
+    try:
+        obj = json.loads(payload)
+        return obj.get("choices", [{}])[0].get("delta", {}).get("content")
+    except (json.JSONDecodeError, IndexError, KeyError, TypeError):
+        return None
+
+
+def build_request_body(model: str, messages: List[Dict[str, str]],
+                       stream: bool, **opts: Any) -> Dict[str, Any]:
+    """构造 OpenAI 兼容请求体。可离线测。"""
+    body = {"model": model, "messages": messages, "stream": stream}
+    for k in ("temperature", "max_tokens", "top_p"):
+        if k in opts and opts[k] is not None:
+            body[k] = opts[k]
+    return body
+
+
+class OpenAICompatModel(ModelBackend):
+    """OpenAI 兼容模型适配器。与 MockModel 同接口（generate），并加 stream。"""
+
+    def __init__(self, api_base: str, api_key: str, model: str,
+                 timeout: int = 60, system: Optional[str] = None) -> None:
+        self.api_base = api_base.rstrip("/")
+        self.api_key = api_key
+        self.model = model
+        self.timeout = timeout
+        self.system = system
+
+    def _messages(self, prompt: str) -> List[Dict[str, str]]:
+        msgs: List[Dict[str, str]] = []
+        if self.system:
+            msgs.append({"role": "system", "content": self.system})
+        msgs.append({"role": "user", "content": prompt})
+        return msgs
+
+    def _url(self) -> str:
+        return f"{self.api_base}/chat/completions"
+
+    def _headers(self) -> Dict[str, str]:
+        return {"Content-Type": "application/json",
+                "Authorization": f"Bearer {self.api_key}"}
+
+    # ---------- 同步全量（🔴 真实往返需联网）----------
+    def generate(self, prompt: str, **kwargs) -> str:  # pragma: no cover - 需联网
+        body = build_request_body(self.model, self._messages(prompt), stream=False, **kwargs)
+        req = urllib.request.Request(self._url(), data=json.dumps(body).encode(),
+                                     headers=self._headers(), method="POST")
+        try:
+            with urllib.request.urlopen(req, timeout=self.timeout) as resp:
+                data = json.loads(resp.read().decode())
+            return data.get("choices", [{}])[0].get("message", {}).get("content", "")
+        except urllib.error.HTTPError as e:
+            return f"[模型调用失败 HTTP {e.code}：{e.reason}]"
+        except Exception as e:
+            return f"[模型调用失败：{e}]"
+
+    # ---------- 流式逐 token（🔴 真实往返需联网）----------
+    def stream(self, prompt: str, **kwargs) -> Iterator[str]:  # pragma: no cover - 需联网
+        body = build_request_body(self.model, self._messages(prompt), stream=True, **kwargs)
+        req = urllib.request.Request(self._url(), data=json.dumps(body).encode(),
+                                     headers=self._headers(), method="POST")
+        try:
+            with urllib.request.urlopen(req, timeout=self.timeout) as resp:
+                for raw in resp:
+                    tok = parse_sse_line(raw.decode("utf-8", errors="replace"))
+                    if tok:
+                        yield tok
+        except urllib.error.HTTPError as e:
+            yield f"[模型调用失败 HTTP {e.code}：{e.reason}]"
+        except Exception as e:
+            yield f"[模型调用失败：{e}]"
+
+
+def build_model(cfg: Any) -> Optional[ModelBackend]:
+    """按模型配置构造适配器。cfg.model=='mock' 或缺 api_base/key → 返回 None（用内置）。"""
+    model_id = getattr(cfg, "model", None)
+    api_base = getattr(cfg, "api_base", "")
+    api_key = getattr(cfg, "api_key", "")
+    if not model_id or model_id == "mock" or not api_base or not api_key:
+        return None
+    return OpenAICompatModel(api_base=api_base, api_key=api_key, model=model_id)
+
+
+# ---------- 厂家预置清单（选厂家自动带出 api_base + 常见模型名）----------
+# api_base 与模型名按已知填写；各厂家可能更新，前端允许改/拉取/手填兜底。
+PROVIDERS: List[Dict[str, Any]] = [
+    {"id": "deepseek", "name": "DeepSeek 深度求索",
+     "api_base": "https://api.deepseek.com/v1",
+     "models": ["deepseek-chat", "deepseek-reasoner"]},
+    {"id": "qwen", "name": "通义千问（阿里）",
+     "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+     "models": ["qwen-max", "qwen-plus", "qwen-turbo"]},
+    {"id": "moonshot", "name": "Kimi 月之暗面",
+     "api_base": "https://api.moonshot.cn/v1",
+     "models": ["moonshot-v1-8k", "moonshot-v1-32k", "moonshot-v1-128k"]},
+    {"id": "zhipu", "name": "智谱 GLM",
+     "api_base": "https://open.bigmodel.cn/api/paas/v4",
+     "models": ["glm-4-plus", "glm-4", "glm-4-flash"]},
+    {"id": "openai", "name": "OpenAI",
+     "api_base": "https://api.openai.com/v1",
+     "models": ["gpt-4o", "gpt-4o-mini", "gpt-4-turbo"]},
+    {"id": "minimax", "name": "MiniMax",
+     "api_base": "https://api.minimax.chat/v1",
+     "models": ["abab6.5s-chat"]},
+    {"id": "baichuan", "name": "百川",
+     "api_base": "https://api.baichuan-ai.com/v1",
+     "models": ["Baichuan4", "Baichuan3-Turbo"]},
+    {"id": "siliconflow", "name": "硅基流动 SiliconFlow",
+     "api_base": "https://api.siliconflow.cn/v1",
+     "models": ["deepseek-ai/DeepSeek-V3", "Qwen/Qwen2.5-72B-Instruct"]},
+    {"id": "custom", "name": "本地 / 自定义（手填地址）",
+     "api_base": "", "models": []},
+]
+
+
+def list_providers() -> List[Dict[str, Any]]:
+    return PROVIDERS
+
+
+def fetch_models(api_base: str, api_key: str, timeout: int = 15) -> Dict[str, Any]:
+    """用 key 拉取该账号可用模型列表（OpenAI 兼容 GET {api_base}/models）。
+
+    🔴 真实联网请求，本沙箱断网测不了。返回 {available, models, note}。
+    拉取失败（不支持/网络/鉴权）→ available=False，由前端回退到厂家预置模型名手选。
+    """
+    if not api_base or not api_key:
+        return {"available": False, "models": [], "note": "缺少 API 地址或 Key"}
+    url = f"{api_base.rstrip('/')}/models"
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {api_key}"}, method="GET")
+    try:  # pragma: no cover - 需联网
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            data = json.loads(resp.read().decode())
+        ids = [m.get("id") for m in data.get("data", []) if m.get("id")]
+        return {"available": True, "models": sorted(ids),
+                "note": "" if ids else "该接口未返回模型列表，请手填模型标识"}
+    except urllib.error.HTTPError as e:  # pragma: no cover
+        return {"available": False, "models": [],
+                "note": f"拉取失败 HTTP {e.code}（key 无效或该厂家不支持列表接口），请手填"}
+    except Exception as e:  # pragma: no cover
+        return {"available": False, "models": [], "note": f"拉取失败（{e}），请手填模型标识"}

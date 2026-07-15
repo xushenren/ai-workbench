@@ -1,1 +1,124 @@
-IiIidGVzdHMvdGVzdF9wZXJtaXNzaW9ucy5weSDigJQgUkJBQyDmnYPpmZDlvJXmk47ljZXmtYvjgIIiIiIKaW1wb3J0IHN5cywgb3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQoKZnJvbSBzZWN1cmVndWFyZC5wZXJtaXNzaW9ucyBpbXBvcnQgKAogICAgUm9sZSwgVmlzaWJpbGl0eSwgQWdlbnRTdGF0dXMsIFBlcm1pc3Npb25EZW5pZWQsCiAgICBVc2VyLCBBZ2VudCwgS25vd2xlZGdlQmFzZSwKICAgIGNhbl9jcmVhdGVfYWdlbnQsIGNyZWF0ZV9hZ2VudCwgc3VibWl0X2Zvcl9yZXZpZXcsIGFwcHJvdmUsIHJlamVjdCwKICAgIGNhbl91c2VfYWdlbnQsIGNhbl9hY2Nlc3Nfa2IsIGNhbl9yZWFkX2tiX2NvbnRlbnQsIGNhbl9tYW5hZ2Vfa2IsIGNhbl9tYW5hZ2VfcXVvdGEsCikKCkFETUlOID0gVXNlcigiYWRtaW4xIiwgUm9sZS5BRE1JTikKREVWID0gVXNlcigiZGV2MSIsIFJvbGUuREVWRUxPUEVSLCBkZXB0X2lkPSJkMSIpCkRFUFRfQURNSU4gPSBVc2VyKCJkYTEiLCBSb2xlLkRFUEFSVE1FTlRfQURNSU4sIGRlcHRfaWQ9ImQxIikKVVNFUl9EMSA9IFVzZXIoInUxIiwgUm9sZS5VU0VSLCBkZXB0X2lkPSJkMSIpClVTRVJfRDIgPSBVc2VyKCJ1MiIsIFJvbGUuVVNFUiwgZGVwdF9pZD0iZDIiKQoKCiMgLS0tLSDliJvlu7rkuI7lj6/op4HmgKcgLS0tLQpkZWYgdGVzdF91c2VyX2Nhbl9jcmVhdGVfcHJpdmF0ZV9hZ2VudF9ub19hcHByb3ZhbCgpOgogICAgYSA9IGNyZWF0ZV9hZ2VudChVU0VSX0QxLCAiYWcxIiwgVmlzaWJpbGl0eS5QUklWQVRFKQogICAgYXNzZXJ0IGEuc3RhdHVzID09IEFnZW50U3RhdHVzLlBVQkxJU0hFRCBhbmQgYS52aXNpYmlsaXR5ID09IFZpc2liaWxpdHkuUFJJVkFURQoKCmRlZiB0ZXN0X3VzZXJfY2Fubm90X2NyZWF0ZV9wdWJsaWNfYWdlbnQoKToKICAgIG9rLCBfID0gY2FuX2NyZWF0ZV9hZ2VudChVU0VSX0QxLCBWaXNpYmlsaXR5LlBVQkxJQykKICAgIGFzc2VydCBvayBpcyBGYWxzZQogICAgdHJ5OgogICAgICAgIGNyZWF0ZV9hZ2VudChVU0VSX0QxLCAiYWcyIiwgVmlzaWJpbGl0eS5QVUJMSUMpCiAgICAgICAgYXNzZXJ0IEZhbHNlLCAi5bqU5oqbIFBlcm1pc3Npb25EZW5pZWQiCiAgICBleGNlcHQgUGVybWlzc2lvbkRlbmllZDoKICAgICAgICBwYXNzCgoKZGVmIHRlc3RfZGV2ZWxvcGVyX3B1YmxpY19hZ2VudF9zdGFydHNfZHJhZnQoKToKICAgIGEgPSBjcmVhdGVfYWdlbnQoREVWLCAiYWczIiwgVmlzaWJpbGl0eS5QVUJMSUMpCiAgICBhc3NlcnQgYS5zdGF0dXMgPT0gQWdlbnRTdGF0dXMuRFJBRlQKCgojIC0tLS0g5Y+R5biD54q25oCB5py6IC0tLS0KZGVmIHRlc3RfcHVibGlzaF9mbG93X3JlcXVpcmVzX2FkbWluX2FwcHJvdmFsKCk6CiAgICBhID0gY3JlYXRlX2FnZW50KERFViwgImFnNCIsIFZpc2liaWxpdHkuUFVCTElDKQogICAgc3VibWl0X2Zvcl9yZXZpZXcoREVWLCBhKQogICAgYXNzZXJ0IGEuc3RhdHVzID09IEFnZW50U3RhdHVzLlBFTkRJTkdfUkVWSUVXCiAgICAjIGRldmVsb3BlciDoh6rlt7HkuI3og73mibkKICAgIHRyeToKICAgICAgICBhcHByb3ZlKERFViwgYSk7IGFzc2VydCBGYWxzZQogICAgZXhjZXB0IFBlcm1pc3Npb25EZW5pZWQ6CiAgICAgICAgcGFzcwogICAgYXBwcm92ZShBRE1JTiwgYSkKICAgIGFzc2VydCBhLnN0YXR1cyA9PSBBZ2VudFN0YXR1cy5QVUJMSVNIRUQKCgpkZWYgdGVzdF9yZWplY3Rfc2VuZHNfYmFjaygpOgogICAgYSA9IGNyZWF0ZV9hZ2VudChERVYsICJhZzUiLCBWaXNpYmlsaXR5LkRFUEFSVE1FTlQsIGRlcHRfaWQ9ImQxIikKICAgIHN1Ym1pdF9mb3JfcmV2aWV3KERFViwgYSkKICAgIHJlamVjdChBRE1JTiwgYSkKICAgIGFzc2VydCBhLnN0YXR1cyA9PSBBZ2VudFN0YXR1cy5SRUpFQ1RFRAogICAgIyDmiZPlm57lkI7lj6/lho3mrKHmj5DkuqQKICAgIHN1Ym1pdF9mb3JfcmV2aWV3KERFViwgYSkKICAgIGFzc2VydCBhLnN0YXR1cyA9PSBBZ2VudFN0YXR1cy5QRU5ESU5HX1JFVklFVwoKCmRlZiB0ZXN0X2RlcHRfYWRtaW5fY2Fubm90X2FwcHJvdmVfYnlfZGVmYXVsdCgpOgogICAgYSA9IGNyZWF0ZV9hZ2VudChERVYsICJhZzYiLCBWaXNpYmlsaXR5LkRFUEFSVE1FTlQsIGRlcHRfaWQ9ImQxIikKICAgIHN1Ym1pdF9mb3JfcmV2aWV3KERFViwgYSkKICAgIHRyeToKICAgICAgICBhcHByb3ZlKERFUFRfQURNSU4sIGEpOyBhc3NlcnQgRmFsc2UKICAgIGV4Y2VwdCBQZXJtaXNzaW9uRGVuaWVkOgogICAgICAgIHBhc3MgICMg6buY6K6k5LuFIGFkbWluIOWuoeaJuQoKCiMgLS0tLSDkvb/nlKjlj6/op4HmgKcgLS0tLQpkZWYgdGVzdF91bnB1Ymxpc2hlZF9hZ2VudF9vbmx5X293bmVyX3NlZXMoKToKICAgIGEgPSBjcmVhdGVfYWdlbnQoREVWLCAiYWc3IiwgVmlzaWJpbGl0eS5QVUJMSUMpICAjIGRyYWZ0CiAgICBhc3NlcnQgY2FuX3VzZV9hZ2VudChERVYsIGEpWzBdIGlzIFRydWUKICAgIGFzc2VydCBjYW5fdXNlX2FnZW50KFVTRVJfRDEsIGEpWzBdIGlzIEZhbHNlCgoKZGVmIHRlc3RfZGVwYXJ0bWVudF9hZ2VudF9saW1pdGVkX3RvX2RlcHQoKToKICAgIGEgPSBjcmVhdGVfYWdlbnQoREVWLCAiYWc4IiwgVmlzaWJpbGl0eS5ERVBBUlRNRU5ULCBkZXB0X2lkPSJkMSIpCiAgICBzdWJtaXRfZm9yX3JldmlldyhERVYsIGEpOyBhcHByb3ZlKEFETUlOLCBhKQogICAgYXNzZXJ0IGNhbl91c2VfYWdlbnQoVVNFUl9EMSwgYSlbMF0gaXMgVHJ1ZSAgICAjIOWQjOmDqOmXqAogICAgYXNzZXJ0IGNhbl91c2VfYWdlbnQoVVNFUl9EMiwgYSlbMF0gaXMgRmFsc2UgICAjIOi3qOmDqOmXqAoKCmRlZiB0ZXN0X3ByaXZhdGVfYWdlbnRfb25seV9vd25lcigpOgogICAgYSA9IGNyZWF0ZV9hZ2VudChERVYsICJhZzkiLCBWaXNpYmlsaXR5LlBSSVZBVEUpCiAgICBhc3NlcnQgY2FuX3VzZV9hZ2VudChERVYsIGEpWzBdIGlzIFRydWUKICAgIGFzc2VydCBjYW5fdXNlX2FnZW50KFVTRVJfRDEsIGEpWzBdIGlzIEZhbHNlCgoKIyAtLS0tIOefpeivhuW6k+malOemu++8iEQ377yJIC0tLS0KZGVmIHRlc3RfY2Fubm90X2FjY2Vzc19vdGhlcnNfcHJpdmF0ZV9rYigpOgogICAga2IgPSBLbm93bGVkZ2VCYXNlKCJrYjEiLCBWaXNpYmlsaXR5LlBSSVZBVEUsIG93bmVyX2lkPSJ1MSIpCiAgICBhc3NlcnQgY2FuX2FjY2Vzc19rYihVU0VSX0QxLCBrYilbMF0gaXMgVHJ1ZQogICAgYXNzZXJ0IGNhbl9hY2Nlc3Nfa2IoVVNFUl9EMiwga2IpWzBdIGlzIEZhbHNlCgoKZGVmIHRlc3RfZGVwYXJ0bWVudF9rYl9saW1pdGVkX3RvX2RlcHQoKToKICAgIGtiID0gS25vd2xlZGdlQmFzZSgia2IyIiwgVmlzaWJpbGl0eS5ERVBBUlRNRU5ULCBkZXB0X2lkPSJkMSIpCiAgICBhc3NlcnQgY2FuX2FjY2Vzc19rYihVU0VSX0QxLCBrYilbMF0gaXMgVHJ1ZQogICAgYXNzZXJ0IGNhbl9hY2Nlc3Nfa2IoVVNFUl9EMiwga2IpWzBdIGlzIEZhbHNlCgoKZGVmIHRlc3RfYWRtaW5fY2Fubm90X3JlYWRfcHJpdmF0ZV9rYl9jb250ZW50KCk6CiAgICBrYiA9IEtub3dsZWRnZUJhc2UoImtiMyIsIFZpc2liaWxpdHkuUFJJVkFURSwgb3duZXJfaWQ9InUxIikKICAgICMgYWRtaW4g5Y+v566h55CG5L2G5LiN5Y+v6K+75Y6f5paH77yIRDfvvIkKICAgIGFzc2VydCBjYW5fcmVhZF9rYl9jb250ZW50KEFETUlOLCBrYilbMF0gaXMgRmFsc2UKICAgIGFzc2VydCBjYW5fbWFuYWdlX2tiKEFETUlOLCBrYilbMF0gaXMgVHJ1ZQogICAgYXNzZXJ0IGNhbl9yZWFkX2tiX2NvbnRlbnQoVVNFUl9EMSwga2IpWzBdIGlzIFRydWUgICMgb3duZXIg5Y+v6K+7CgoKZGVmIHRlc3RfZGVwdF9hZG1pbl9jYW5ub3RfcmVhZF9tZW1iZXJfcHJpdmF0ZV9rYigpOgogICAga2IgPSBLbm93bGVkZ2VCYXNlKCJrYjQiLCBWaXNpYmlsaXR5LlBSSVZBVEUsIG93bmVyX2lkPSJ1MSIsIGRlcHRfaWQ9ImQxIikKICAgIGFzc2VydCBjYW5fcmVhZF9rYl9jb250ZW50KERFUFRfQURNSU4sIGtiKVswXSBpcyBGYWxzZQoKCiMgLS0tLSDphY3pop0gLS0tLQpkZWYgdGVzdF9xdW90YV9tYW5hZ2VtZW50X3Njb3BlKCk6CiAgICBhc3NlcnQgY2FuX21hbmFnZV9xdW90YShBRE1JTiwgVVNFUl9EMilbMF0gaXMgVHJ1ZQogICAgYXNzZXJ0IGNhbl9tYW5hZ2VfcXVvdGEoREVQVF9BRE1JTiwgVVNFUl9EMSlbMF0gaXMgVHJ1ZSAgICAjIOWQjOmDqOmXqAogICAgYXNzZXJ0IGNhbl9tYW5hZ2VfcXVvdGEoREVQVF9BRE1JTiwgVVNFUl9EMilbMF0gaXMgRmFsc2UgICAjIOi3qOmDqOmXqAogICAgYXNzZXJ0IGNhbl9tYW5hZ2VfcXVvdGEoVVNFUl9EMSwgVVNFUl9EMSlbMF0gaXMgRmFsc2UgICAgICAjIOaZrumAmueUqOaIt+aXoOadgwo=
+"""tests/test_permissions.py — RBAC 权限引擎单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.permissions import (
+    Role, Visibility, AgentStatus, PermissionDenied,
+    User, Agent, KnowledgeBase,
+    can_create_agent, create_agent, submit_for_review, approve, reject,
+    can_use_agent, can_access_kb, can_read_kb_content, can_manage_kb, can_manage_quota,
+)
+
+ADMIN = User("admin1", Role.ADMIN)
+DEV = User("dev1", Role.DEVELOPER, dept_id="d1")
+DEPT_ADMIN = User("da1", Role.DEPARTMENT_ADMIN, dept_id="d1")
+USER_D1 = User("u1", Role.USER, dept_id="d1")
+USER_D2 = User("u2", Role.USER, dept_id="d2")
+
+
+# ---- 创建与可见性 ----
+def test_user_can_create_private_agent_no_approval():
+    a = create_agent(USER_D1, "ag1", Visibility.PRIVATE)
+    assert a.status == AgentStatus.PUBLISHED and a.visibility == Visibility.PRIVATE
+
+
+def test_user_cannot_create_public_agent():
+    ok, _ = can_create_agent(USER_D1, Visibility.PUBLIC)
+    assert ok is False
+    try:
+        create_agent(USER_D1, "ag2", Visibility.PUBLIC)
+        assert False, "应抛 PermissionDenied"
+    except PermissionDenied:
+        pass
+
+
+def test_developer_public_agent_starts_draft():
+    a = create_agent(DEV, "ag3", Visibility.PUBLIC)
+    assert a.status == AgentStatus.DRAFT
+
+
+# ---- 发布状态机 ----
+def test_publish_flow_requires_admin_approval():
+    a = create_agent(DEV, "ag4", Visibility.PUBLIC)
+    submit_for_review(DEV, a)
+    assert a.status == AgentStatus.PENDING_REVIEW
+    # developer 自己不能批
+    try:
+        approve(DEV, a); assert False
+    except PermissionDenied:
+        pass
+    approve(ADMIN, a)
+    assert a.status == AgentStatus.PUBLISHED
+
+
+def test_reject_sends_back():
+    a = create_agent(DEV, "ag5", Visibility.DEPARTMENT, dept_id="d1")
+    submit_for_review(DEV, a)
+    reject(ADMIN, a)
+    assert a.status == AgentStatus.REJECTED
+    # 打回后可再次提交
+    submit_for_review(DEV, a)
+    assert a.status == AgentStatus.PENDING_REVIEW
+
+
+def test_dept_admin_cannot_approve_by_default():
+    a = create_agent(DEV, "ag6", Visibility.DEPARTMENT, dept_id="d1")
+    submit_for_review(DEV, a)
+    try:
+        approve(DEPT_ADMIN, a); assert False
+    except PermissionDenied:
+        pass  # 默认仅 admin 审批
+
+
+# ---- 使用可见性 ----
+def test_unpublished_agent_only_owner_sees():
+    a = create_agent(DEV, "ag7", Visibility.PUBLIC)  # draft
+    assert can_use_agent(DEV, a)[0] is True
+    assert can_use_agent(USER_D1, a)[0] is False
+
+
+def test_department_agent_limited_to_dept():
+    a = create_agent(DEV, "ag8", Visibility.DEPARTMENT, dept_id="d1")
+    submit_for_review(DEV, a); approve(ADMIN, a)
+    assert can_use_agent(USER_D1, a)[0] is True    # 同部门
+    assert can_use_agent(USER_D2, a)[0] is False   # 跨部门
+
+
+def test_private_agent_only_owner():
+    a = create_agent(DEV, "ag9", Visibility.PRIVATE)
+    assert can_use_agent(DEV, a)[0] is True
+    assert can_use_agent(USER_D1, a)[0] is False
+
+
+# ---- 知识库隔离（D7） ----
+def test_cannot_access_others_private_kb():
+    kb = KnowledgeBase("kb1", Visibility.PRIVATE, owner_id="u1")
+    assert can_access_kb(USER_D1, kb)[0] is True
+    assert can_access_kb(USER_D2, kb)[0] is False
+
+
+def test_department_kb_limited_to_dept():
+    kb = KnowledgeBase("kb2", Visibility.DEPARTMENT, dept_id="d1")
+    assert can_access_kb(USER_D1, kb)[0] is True
+    assert can_access_kb(USER_D2, kb)[0] is False
+
+
+def test_admin_cannot_read_private_kb_content():
+    kb = KnowledgeBase("kb3", Visibility.PRIVATE, owner_id="u1")
+    # admin 可管理但不可读原文（D7）
+    assert can_read_kb_content(ADMIN, kb)[0] is False
+    assert can_manage_kb(ADMIN, kb)[0] is True
+    assert can_read_kb_content(USER_D1, kb)[0] is True  # owner 可读
+
+
+def test_dept_admin_cannot_read_member_private_kb():
+    kb = KnowledgeBase("kb4", Visibility.PRIVATE, owner_id="u1", dept_id="d1")
+    assert can_read_kb_content(DEPT_ADMIN, kb)[0] is False
+
+
+# ---- 配额 ----
+def test_quota_management_scope():
+    assert can_manage_quota(ADMIN, USER_D2)[0] is True
+    assert can_manage_quota(DEPT_ADMIN, USER_D1)[0] is True    # 同部门
+    assert can_manage_quota(DEPT_ADMIN, USER_D2)[0] is False   # 跨部门
+    assert can_manage_quota(USER_D1, USER_D1)[0] is False      # 普通用户无权

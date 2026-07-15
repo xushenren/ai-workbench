@@ -1,1 +1,55 @@
-IiIiYmFja2VuZC5vcmdfYWRtaW4g4oCUIG9yZ19jb3JlIOeahOWPquivu+afpeivoijnrqHnkIbnlYzpnaLnlKgpKyDlhpnmk43kvZzotbAgT3JnU2VydmljZeOAggoK5Y+q6K+755SoIHJlcG8uZGIoU3FsaXRlUmVwb3Mg5pq06Zyy55qE6L+e5o6lKeWBmuWIl+ihqOafpeivoizkuI3mlLkgb3JnX2NvcmUg5qC45b+D44CCCuWGmeaTjeS9nCjlu7roioLngrkv5rS+5bKX562JKeebtOaOpeiwgyBPcmdTZXJ2aWNlLOmJtOadg+S4juWuoeiuoeW3suWcqOWFtuS4reOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKCmRlZiBidWlsZF90cmVlKHJlcG8sIHRlbmFudF9pZDogc3RyLCByb290X2lkOiBzdHIpIC0+IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXToKICAgIG5vZGUgPSByZXBvLmdldF9ub2RlKHRlbmFudF9pZCwgcm9vdF9pZCkKICAgIGlmIG5vdCBub2RlOgogICAgICAgIHJldHVybiBOb25lCiAgICByZXR1cm4gewogICAgICAgICJpZCI6IG5vZGUuaWQsICJuYW1lIjogbm9kZS5uYW1lLCAidHlwZSI6IG5vZGUudHlwZS52YWx1ZSwKICAgICAgICAiY2hpbGRyZW4iOiBbYnVpbGRfdHJlZShyZXBvLCB0ZW5hbnRfaWQsIGMuaWQpCiAgICAgICAgICAgICAgICAgICAgIGZvciBjIGluIHJlcG8uY2hpbGRyZW4odGVuYW50X2lkLCBub2RlLmlkKV0sCiAgICB9CgoKZGVmIGxpc3Rfcm9sZXMocmVwbywgdGVuYW50X2lkOiBzdHIpIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgcm93cyA9IHJlcG8uZGIuZXhlY3V0ZSgKICAgICAgICAiU0VMRUNUIGlkLG5hbWUscGVybV9rZXlzIEZST00gcm9sZXMgV0hFUkUgdGVuYW50X2lkPT8iLCAodGVuYW50X2lkLCkpLmZldGNoYWxsKCkKICAgIHJldHVybiBbeyJpZCI6IHJbImlkIl0sICJuYW1lIjogclsibmFtZSJdLAogICAgICAgICAgICAgInBlcm1zIjogW3AgZm9yIHAgaW4gKHJbInBlcm1fa2V5cyJdIG9yICIiKS5zcGxpdCgiLCIpIGlmIHBdfSBmb3IgciBpbiByb3dzXQoKCmRlZiBsaXN0X3VzZXJzKHJlcG8sIHRlbmFudF9pZDogc3RyKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICIiIuWIl+ecn+S6uiArIOWFtuWtkOi0puWPtyhncmFudD3lspfkvY1A57uE57uH6IqC54K5KeOAgiIiIgogICAgdXJvd3MgPSByZXBvLmRiLmV4ZWN1dGUoCiAgICAgICAgIlNFTEVDVCBpZCxkaXNwbGF5X25hbWUsa2luZCxzdGF0dXMgRlJPTSB1c2VycyBXSEVSRSB0ZW5hbnRfaWQ9PyIsICh0ZW5hbnRfaWQsKSkuZmV0Y2hhbGwoKQogICAgIyDpooTlj5blspfkvY3lkI3jgIHoioLngrnlkI0KICAgIHJvbGVtYXAgPSB7clsiaWQiXTogclsibmFtZSJdIGZvciByIGluIHJlcG8uZGIuZXhlY3V0ZSgKICAgICAgICAiU0VMRUNUIGlkLG5hbWUgRlJPTSByb2xlcyBXSEVSRSB0ZW5hbnRfaWQ9PyIsICh0ZW5hbnRfaWQsKSkuZmV0Y2hhbGwoKX0KICAgIG5vZGVtYXAgPSB7blsiaWQiXTogblsibmFtZSJdIGZvciBuIGluIHJlcG8uZGIuZXhlY3V0ZSgKICAgICAgICAiU0VMRUNUIGlkLG5hbWUgRlJPTSBvcmdfbm9kZXMgV0hFUkUgdGVuYW50X2lkPT8iLCAodGVuYW50X2lkLCkpLmZldGNoYWxsKCl9CiAgICBvdXQgPSBbXQogICAgZm9yIHUgaW4gdXJvd3M6CiAgICAgICAgZ3Jvd3MgPSByZXBvLmRiLmV4ZWN1dGUoCiAgICAgICAgICAgICJTRUxFQ1QgaWQscm9sZV9pZCxvcmdfbm9kZV9pZCxsYWJlbCxhY3RpdmUsaXNfZGVmYXVsdCBGUk9NIGdyYW50cyAiCiAgICAgICAgICAgICJXSEVSRSB0ZW5hbnRfaWQ9PyBBTkQgdXNlcl9pZD0/IiwgKHRlbmFudF9pZCwgdVsiaWQiXSkpLmZldGNoYWxsKCkKICAgICAgICBncmFudHMgPSBbewogICAgICAgICAgICAiaWQiOiBnWyJpZCJdLCAicm9sZSI6IHJvbGVtYXAuZ2V0KGdbInJvbGVfaWQiXSwgIj8iKSwKICAgICAgICAgICAgIm5vZGUiOiBub2RlbWFwLmdldChnWyJvcmdfbm9kZV9pZCJdLCAiPyIpLCAibm9kZV9pZCI6IGdbIm9yZ19ub2RlX2lkIl0sCiAgICAgICAgICAgICJsYWJlbCI6IGdbImxhYmVsIl0sICJhY3RpdmUiOiBib29sKGdbImFjdGl2ZSJdKSwgImlzX2RlZmF1bHQiOiBib29sKGdbImlzX2RlZmF1bHQiXSksCiAgICAgICAgfSBmb3IgZyBpbiBncm93c10KICAgICAgICBvdXQuYXBwZW5kKHsiaWQiOiB1WyJpZCJdLCAibmFtZSI6IHVbImRpc3BsYXlfbmFtZSJdLCAia2luZCI6IHVbImtpbmQiXSwKICAgICAgICAgICAgICAgICAgICAic3RhdHVzIjogdVsic3RhdHVzIl0sICJncmFudHMiOiBncmFudHN9KQogICAgcmV0dXJuIG91dAoKCmRlZiBmbGF0X25vZGVzKHJlcG8sIHRlbmFudF9pZDogc3RyKSAtPiBMaXN0W0RpY3Rbc3RyLCBzdHJdXToKICAgIHJvd3MgPSByZXBvLmRiLmV4ZWN1dGUoCiAgICAgICAgIlNFTEVDVCBpZCxuYW1lLHBhcmVudF9pZCx0eXBlIEZST00gb3JnX25vZGVzIFdIRVJFIHRlbmFudF9pZD0/IiwgKHRlbmFudF9pZCwpKS5mZXRjaGFsbCgpCiAgICByZXR1cm4gW3siaWQiOiByWyJpZCJdLCAibmFtZSI6IHJbIm5hbWUiXSwgInBhcmVudF9pZCI6IHJbInBhcmVudF9pZCJdIG9yICIiLCAidHlwZSI6IHJbInR5cGUiXX0gZm9yIHIgaW4gcm93c10K
+"""backend.org_admin — org_core 的只读查询(管理界面用)+ 写操作走 OrgService。
+
+只读用 repo.db(SqliteRepos 暴露的连接)做列表查询,不改 org_core 核心。
+写操作(建节点/派岗等)直接调 OrgService,鉴权与审计已在其中。
+"""
+from __future__ import annotations
+from typing import Any, Dict, List, Optional
+
+
+def build_tree(repo, tenant_id: str, root_id: str) -> Optional[Dict[str, Any]]:
+    node = repo.get_node(tenant_id, root_id)
+    if not node:
+        return None
+    return {
+        "id": node.id, "name": node.name, "type": node.type.value,
+        "children": [build_tree(repo, tenant_id, c.id)
+                     for c in repo.children(tenant_id, node.id)],
+    }
+
+
+def list_roles(repo, tenant_id: str) -> List[Dict[str, Any]]:
+    rows = repo.db.execute(
+        "SELECT id,name,perm_keys FROM roles WHERE tenant_id=?", (tenant_id,)).fetchall()
+    return [{"id": r["id"], "name": r["name"],
+             "perms": [p for p in (r["perm_keys"] or "").split(",") if p]} for r in rows]
+
+
+def list_users(repo, tenant_id: str) -> List[Dict[str, Any]]:
+    """列真人 + 其子账号(grant=岗位@组织节点)。"""
+    urows = repo.db.execute(
+        "SELECT id,display_name,kind,status FROM users WHERE tenant_id=?", (tenant_id,)).fetchall()
+    # 预取岗位名、节点名
+    rolemap = {r["id"]: r["name"] for r in repo.db.execute(
+        "SELECT id,name FROM roles WHERE tenant_id=?", (tenant_id,)).fetchall()}
+    nodemap = {n["id"]: n["name"] for n in repo.db.execute(
+        "SELECT id,name FROM org_nodes WHERE tenant_id=?", (tenant_id,)).fetchall()}
+    out = []
+    for u in urows:
+        grows = repo.db.execute(
+            "SELECT id,role_id,org_node_id,label,active,is_default FROM grants "
+            "WHERE tenant_id=? AND user_id=?", (tenant_id, u["id"])).fetchall()
+        grants = [{
+            "id": g["id"], "role": rolemap.get(g["role_id"], "?"),
+            "node": nodemap.get(g["org_node_id"], "?"), "node_id": g["org_node_id"],
+            "label": g["label"], "active": bool(g["active"]), "is_default": bool(g["is_default"]),
+        } for g in grows]
+        out.append({"id": u["id"], "name": u["display_name"], "kind": u["kind"],
+                    "status": u["status"], "grants": grants})
+    return out
+
+
+def flat_nodes(repo, tenant_id: str) -> List[Dict[str, str]]:
+    rows = repo.db.execute(
+        "SELECT id,name,parent_id,type FROM org_nodes WHERE tenant_id=?", (tenant_id,)).fetchall()
+    return [{"id": r["id"], "name": r["name"], "parent_id": r["parent_id"] or "", "type": r["type"]} for r in rows]

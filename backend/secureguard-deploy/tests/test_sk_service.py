@@ -1,1 +1,122 @@
-IiIidGVzdHMvdGVzdF9za19zZXJ2aWNlLnB5IOKAlCDlh7rnq5kgc2sg5a+G6ZKl77yI562+5Y+RL+agoemqjC/ojIPlm7Qv6K6h6YePL+WQiumUgO+8ieOAgiIiIgppbXBvcnQgc3lzLCBvcywgYXN5bmNpbwpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCmZyb20gYmFja2VuZC5za19zZXJ2aWNlIGltcG9ydCBTa1NlcnZpY2UKCgpkZWYgdGVzdF9pc3N1ZV9yZXR1cm5zX3BsYWludGV4dF9vbmNlKCk6CiAgICBzID0gU2tTZXJ2aWNlKCkKICAgIHIgPSBzLmlzc3VlKCJvd25lcjEiLCAi5rWL6K+VIiwgWyJnZW5lcmFsIl0sIG1ldGVyPSJjYWxscyIsIGxpbWl0PTEwMCkKICAgIGFzc2VydCByWyJrZXkiXS5zdGFydHN3aXRoKCJzay1saXZlLSIpICAgICAgICAjIOaYjuaWh+WPquatpOS4gOasoQogICAgYXNzZXJ0ICJ3YXJuaW5nIiBpbiByIGFuZCByWyJtZXRlciJdID09ICJjYWxscyIgYW5kIHJbImxpbWl0Il0gPT0gMTAwCiAgICAjIOWIl+ihqOmHjOS4jeWQq+aYjuaWhyBrZXkKICAgIGxzdCA9IHMubGlzdF9mb3Jfb3duZXIoIm93bmVyMSIpCiAgICBhc3NlcnQgImtleSIgbm90IGluIGxzdFswXSBhbmQgImtleV9oYXNoIiBub3QgaW4gbHN0WzBdCgoKZGVmIHRlc3RfdmVyaWZ5X3ZhbGlkX2FuZF9pbnZhbGlkKCk6CiAgICBzID0gU2tTZXJ2aWNlKCkKICAgIHIgPSBzLmlzc3VlKCJvIiwgIngiLCBbImdlbmVyYWwiXSkKICAgIHJlYyA9IHMudmVyaWZ5KHJbImtleSJdKQogICAgYXNzZXJ0IHJlYyBpcyBub3QgTm9uZSBhbmQgcmVjLm93bmVyX2lkID09ICJvIgogICAgYXNzZXJ0IHMudmVyaWZ5KCJzay1ib2d1cyIpIGlzIE5vbmUKICAgIGFzc2VydCBzLnZlcmlmeSgiIikgaXMgTm9uZQoKCmRlZiB0ZXN0X3Jldm9rZWRfc2tfZmFpbHNfdmVyaWZ5KCk6CiAgICBzID0gU2tTZXJ2aWNlKCkKICAgIHIgPSBzLmlzc3VlKCJvIiwgIngiLCBbImdlbmVyYWwiXSkKICAgIHJlYyA9IHMudmVyaWZ5KHJbImtleSJdKQogICAgcy5yZXZva2UocmVjLmlkLCBvd25lcl9pZD0ibyIpCiAgICBhc3NlcnQgcy52ZXJpZnkoclsia2V5Il0pIGlzIE5vbmUgICAgICAgICAgICAgIyDlkIrplIDlkI7lpLHmlYgKCgpkZWYgdGVzdF9zY29wZV9lbmZvcmNlZCgpOgogICAgcyA9IFNrU2VydmljZSgpCiAgICByID0gcy5pc3N1ZSgibyIsICJ4IiwgWyJsZWdhbCJdKSAgICAgICAgICAgICAgIyDlj6rmjojmnYMgbGVnYWwKICAgIHJlYyA9IHMudmVyaWZ5KHJbImtleSJdKQogICAgYXNzZXJ0IHMuY2FuX2NhbGxfYWdlbnQocmVjLCAibGVnYWwiKSBpcyBUcnVlCiAgICBhc3NlcnQgcy5jYW5fY2FsbF9hZ2VudChyZWMsICJnZW5lcmFsIikgaXMgRmFsc2UgICMg6LaK5p2D6KKr5oyhCgoKZGVmIHRlc3RfcXVvdGFfY2FsbHNfZXhoYXVzdGlvbigpOgogICAgcyA9IFNrU2VydmljZSgpCiAgICByID0gcy5pc3N1ZSgibyIsICJ4IiwgWyJnZW5lcmFsIl0sIG1ldGVyPSJjYWxscyIsIGxpbWl0PTIpCiAgICByZWMgPSBzLnZlcmlmeShyWyJrZXkiXSkKICAgIGFzc2VydCBzLmNoZWNrX3F1b3RhKHJlYylbIm9rIl0gaXMgVHJ1ZQogICAgcy5jb25zdW1lKHJlYywgY2FsbHM9MSk7IHMuY29uc3VtZShyZWMsIGNhbGxzPTEpCiAgICBhc3NlcnQgcy5jaGVja19xdW90YShyZWMpWyJvayJdIGlzIEZhbHNlICAgICAgIyDnlKjmu6Eg4oaSIOaLkue7ne+8iOerr+eCueS8miA0MjnvvIkKCgpkZWYgdGVzdF9xdW90YV90b2tlbnNfbWV0ZXIoKToKICAgIHMgPSBTa1NlcnZpY2UoKQogICAgciA9IHMuaXNzdWUoIm8iLCAieCIsIFsiZ2VuZXJhbCJdLCBtZXRlcj0idG9rZW5zIiwgbGltaXQ9MTAwMCkKICAgIHJlYyA9IHMudmVyaWZ5KHJbImtleSJdKQogICAgcy5jb25zdW1lKHJlYywgY2FsbHM9MSwgdG9rZW5zPTk5OSkKICAgIGFzc2VydCBzLmNoZWNrX3F1b3RhKHJlYylbIm9rIl0gaXMgVHJ1ZQogICAgcy5jb25zdW1lKHJlYywgY2FsbHM9MSwgdG9rZW5zPTEwKQogICAgYXNzZXJ0IHMuY2hlY2tfcXVvdGEocmVjKVsib2siXSBpcyBGYWxzZSAgICAgICAjIHRva2VuIOi2hemZkAoKCmRlZiB0ZXN0X3VubGltaXRlZF93aGVuX25vX2xpbWl0KCk6CiAgICBzID0gU2tTZXJ2aWNlKCkKICAgIHIgPSBzLmlzc3VlKCJvIiwgIngiLCBbImdlbmVyYWwiXSwgbGltaXQ9Tm9uZSkKICAgIHJlYyA9IHMudmVyaWZ5KHJbImtleSJdKQogICAgZm9yIF8gaW4gcmFuZ2UoMTAwKToKICAgICAgICBzLmNvbnN1bWUocmVjLCBjYWxscz0xKQogICAgYXNzZXJ0IHMuY2hlY2tfcXVvdGEocmVjKVsib2siXSBpcyBUcnVlICAgICAgICAgIyDkuI3pmZDpop0KCgpkZWYgdGVzdF9yZWNoYXJnZV9yZXF1aXJlc19hbGxvdygpOgogICAgcyA9IFNrU2VydmljZSgpCiAgICByID0gcy5pc3N1ZSgibyIsICJ4IiwgWyJnZW5lcmFsIl0sIG1ldGVyPSJjYWxscyIsIGxpbWl0PTUsIGFsbG93X3JlY2hhcmdlPVRydWUpCiAgICByZWMgPSBzLnZlcmlmeShyWyJrZXkiXSkKICAgIHMuY29uc3VtZShyZWMsIGNhbGxzPTUpCiAgICBhc3NlcnQgcy5jaGVja19xdW90YShyZWMpWyJvayJdIGlzIEZhbHNlCiAgICBzLnJlY2hhcmdlKHJlYy5pZCwgNSwgb3duZXJfaWQ9Im8iKSAgICAgICAgICAgICAjIOe7rei0uQogICAgYXNzZXJ0IHMuY2hlY2tfcXVvdGEocmVjKVsib2siXSBpcyBUcnVlCiAgICAjIOS4jeWFgeiuuOe7rei0ueeahCBzawogICAgcjIgPSBzLmlzc3VlKCJvIiwgInkiLCBbImdlbmVyYWwiXSwgbGltaXQ9NSwgYWxsb3dfcmVjaGFyZ2U9RmFsc2UpCiAgICByZWMyID0gcy52ZXJpZnkocjJbImtleSJdKQogICAgdHJ5OgogICAgICAgIHMucmVjaGFyZ2UocmVjMi5pZCwgNSwgb3duZXJfaWQ9Im8iKTsgYXNzZXJ0IEZhbHNlCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICBwYXNzCgoKZGVmIHRlc3RfcmV2b2tlX29ubHlfb3duKCk6CiAgICBzID0gU2tTZXJ2aWNlKCkKICAgIHIgPSBzLmlzc3VlKCJvd25lcjEiLCAieCIsIFsiZ2VuZXJhbCJdKQogICAgcmVjID0gcy52ZXJpZnkoclsia2V5Il0pCiAgICB0cnk6CiAgICAgICAgcy5yZXZva2UocmVjLmlkLCBvd25lcl9pZD0ic29tZW9uZV9lbHNlIik7IGFzc2VydCBGYWxzZQogICAgZXhjZXB0IFBlcm1pc3Npb25FcnJvcjoKICAgICAgICBwYXNzCgoKZGVmIHRlc3RfcGVyaW9kX3Jlc2V0KCk6CiAgICBzID0gU2tTZXJ2aWNlKCkKICAgIHIgPSBzLmlzc3VlKCJvIiwgIngiLCBbImdlbmVyYWwiXSwgbWV0ZXI9ImNhbGxzIiwgbGltaXQ9NSwgcmVzZXRfbW9kZT0icGVyaW9kIiwgcGVyaW9kPSJtb250aGx5IikKICAgIHJlYyA9IHMudmVyaWZ5KHJbImtleSJdKQogICAgcy5jb25zdW1lKHJlYywgY2FsbHM9NSkKICAgIGFzc2VydCBzLmNoZWNrX3F1b3RhKHJlYylbIm9rIl0gaXMgRmFsc2UKICAgIHJlYy5yZXNldF9hdCA9IDEgICMg5by65Yi25bey5Yiw6YeN572u5pe26Ze0CiAgICBhc3NlcnQgcy5jaGVja19xdW90YShyZWMpWyJvayJdIGlzIFRydWUgICAgICAgICAgIyDlkajmnJ/ph43nva7lkI7mgaLlpI0KCgpkZWYgdGVzdF9lbmRfdG9fZW5kX29wZW5haV9jYWxsX3Rocm91Z2hfa2VybmVsKCk6CiAgICAiIiJzayDosIPnlKjotbDlrozmlbQgcnVuX2NoYXQg5a6J5YWo5YaF5qC477yM6L+U5Zue562U5qGI5bm25omj6YeP44CCIiIiCiAgICBmcm9tIGJhY2tlbmQuc3RhdGUgaW1wb3J0IEFwcFN0YXRlCiAgICBmcm9tIGJhY2tlbmQuY2hhdF9zZXJ2aWNlIGltcG9ydCBydW5fY2hhdCwgY29sbGVjdF9hbnN3ZXIKICAgIHN0ID0gQXBwU3RhdGUoKQogICAgciA9IHN0LnNrLmlzc3VlKCJvd25lcjEiLCAi5aSW6YOo6LCD55SoIiwgWyJnZW5lcmFsIl0sIG1ldGVyPSJjYWxscyIsIGxpbWl0PTEwKQogICAgcmVjID0gc3Quc2sudmVyaWZ5KHJbImtleSJdKQogICAgYXN5bmMgZGVmIGdvKCk6CiAgICAgICAgcmVzID0gYXdhaXQgY29sbGVjdF9hbnN3ZXIoCiAgICAgICAgICAgIHJ1bl9jaGF0KHN0LCAi5L2g5aW9IiwgYWdlbnRfaWQ9ImdlbmVyYWwiLCBzZXNzaW9uX2lkPWYic2tfe3JlYy5pZH0iLAogICAgICAgICAgICAgICAgICAgICBjYWxsZXI9eyJpZCI6IGYic2s6e3JlYy5pZH0iLCAicm9sZSI6ICJ1c2VyIn0pKQogICAgICAgIHJldHVybiByZXMKICAgIHJlcyA9IGFzeW5jaW8ucnVuKGdvKCkpCiAgICBhc3NlcnQgImFuc3dlciIgaW4gcmVzCiAgICBzdC5zay5jb25zdW1lKHJlYywgY2FsbHM9MSwgdG9rZW5zPTIwKQogICAgYXNzZXJ0IHJlYy51c2VkX2NhbGxzID09IDEgYW5kIHJlYy51c2VkX3Rva2VucyA9PSAyMAo=
+"""tests/test_sk_service.py — 出站 sk 密钥（签发/校验/范围/计量/吊销）。"""
+import sys, os, asyncio
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.sk_service import SkService
+
+
+def test_issue_returns_plaintext_once():
+    s = SkService()
+    r = s.issue("owner1", "测试", ["general"], meter="calls", limit=100)
+    assert r["key"].startswith("sk-live-")        # 明文只此一次
+    assert "warning" in r and r["meter"] == "calls" and r["limit"] == 100
+    # 列表里不含明文 key
+    lst = s.list_for_owner("owner1")
+    assert "key" not in lst[0] and "key_hash" not in lst[0]
+
+
+def test_verify_valid_and_invalid():
+    s = SkService()
+    r = s.issue("o", "x", ["general"])
+    rec = s.verify(r["key"])
+    assert rec is not None and rec.owner_id == "o"
+    assert s.verify("sk-bogus") is None
+    assert s.verify("") is None
+
+
+def test_revoked_sk_fails_verify():
+    s = SkService()
+    r = s.issue("o", "x", ["general"])
+    rec = s.verify(r["key"])
+    s.revoke(rec.id, owner_id="o")
+    assert s.verify(r["key"]) is None             # 吊销后失效
+
+
+def test_scope_enforced():
+    s = SkService()
+    r = s.issue("o", "x", ["legal"])              # 只授权 legal
+    rec = s.verify(r["key"])
+    assert s.can_call_agent(rec, "legal") is True
+    assert s.can_call_agent(rec, "general") is False  # 越权被挡
+
+
+def test_quota_calls_exhaustion():
+    s = SkService()
+    r = s.issue("o", "x", ["general"], meter="calls", limit=2)
+    rec = s.verify(r["key"])
+    assert s.check_quota(rec)["ok"] is True
+    s.consume(rec, calls=1); s.consume(rec, calls=1)
+    assert s.check_quota(rec)["ok"] is False      # 用满 → 拒绝（端点会 429）
+
+
+def test_quota_tokens_meter():
+    s = SkService()
+    r = s.issue("o", "x", ["general"], meter="tokens", limit=1000)
+    rec = s.verify(r["key"])
+    s.consume(rec, calls=1, tokens=999)
+    assert s.check_quota(rec)["ok"] is True
+    s.consume(rec, calls=1, tokens=10)
+    assert s.check_quota(rec)["ok"] is False       # token 超限
+
+
+def test_unlimited_when_no_limit():
+    s = SkService()
+    r = s.issue("o", "x", ["general"], limit=None)
+    rec = s.verify(r["key"])
+    for _ in range(100):
+        s.consume(rec, calls=1)
+    assert s.check_quota(rec)["ok"] is True         # 不限额
+
+
+def test_recharge_requires_allow():
+    s = SkService()
+    r = s.issue("o", "x", ["general"], meter="calls", limit=5, allow_recharge=True)
+    rec = s.verify(r["key"])
+    s.consume(rec, calls=5)
+    assert s.check_quota(rec)["ok"] is False
+    s.recharge(rec.id, 5, owner_id="o")             # 续费
+    assert s.check_quota(rec)["ok"] is True
+    # 不允许续费的 sk
+    r2 = s.issue("o", "y", ["general"], limit=5, allow_recharge=False)
+    rec2 = s.verify(r2["key"])
+    try:
+        s.recharge(rec2.id, 5, owner_id="o"); assert False
+    except ValueError:
+        pass
+
+
+def test_revoke_only_own():
+    s = SkService()
+    r = s.issue("owner1", "x", ["general"])
+    rec = s.verify(r["key"])
+    try:
+        s.revoke(rec.id, owner_id="someone_else"); assert False
+    except PermissionError:
+        pass
+
+
+def test_period_reset():
+    s = SkService()
+    r = s.issue("o", "x", ["general"], meter="calls", limit=5, reset_mode="period", period="monthly")
+    rec = s.verify(r["key"])
+    s.consume(rec, calls=5)
+    assert s.check_quota(rec)["ok"] is False
+    rec.reset_at = 1  # 强制已到重置时间
+    assert s.check_quota(rec)["ok"] is True          # 周期重置后恢复
+
+
+def test_end_to_end_openai_call_through_kernel():
+    """sk 调用走完整 run_chat 安全内核，返回答案并扣量。"""
+    from backend.state import AppState
+    from backend.chat_service import run_chat, collect_answer
+    st = AppState()
+    r = st.sk.issue("owner1", "外部调用", ["general"], meter="calls", limit=10)
+    rec = st.sk.verify(r["key"])
+    async def go():
+        res = await collect_answer(
+            run_chat(st, "你好", agent_id="general", session_id=f"sk_{rec.id}",
+                     caller={"id": f"sk:{rec.id}", "role": "user"}))
+        return res
+    res = asyncio.run(go())
+    assert "answer" in res
+    st.sk.consume(rec, calls=1, tokens=20)
+    assert rec.used_calls == 1 and rec.used_tokens == 20

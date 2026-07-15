@@ -1,1 +1,60 @@
-IiIidGVzdHMvdGVzdF9yZXRyaWV2YWxfZ3VhcmQucHkg4oCUIOajgOe0oueJiOadg+aKpOagj+WNlea1i+OAgiIiIgppbXBvcnQgc3lzLCBvcwpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCgpmcm9tIHNlY3VyZWd1YXJkLnJldHJpZXZhbF9ndWFyZCBpbXBvcnQgUmV0cmlldmFsR3VhcmQKZnJvbSBzZWN1cmVndWFyZC5sMl9yZWFzb25pbmcgaW1wb3J0IERvYwoKZyA9IFJldHJpZXZhbEd1YXJkKCkKClNSQyA9IFsKICAgIERvYygiZG9jXzEiLAogICAgICAgICJUaGUgY29tbWl0dGVlIGNvbmNsdWRlZCB0aGF0IHRoZSBuZXcgcG9saWN5IHdvdWxkIHJlZHVjZSBlbWlzc2lvbnMgIgogICAgICAgICJieSB0d2VudHkgcGVyY2VudCBvdmVyIHRoZSBuZXh0IGRlY2FkZSB3aGlsZSBjcmVhdGluZyB0aG91c2FuZHMgb2Ygam9icyAiCiAgICAgICAgImluIHRoZSByZW5ld2FibGUgZW5lcmd5IHNlY3RvciBhY3Jvc3MgdGhlIHJlZ2lvbi4iLAogICAgICAgIHsidHJ1c3Rfc2NvcmUiOiAwLjl9KSwKICAgIERvYygiZG9jXzIiLCAi5bmC562J5oCn5oyH5ZCM5LiA5pON5L2c5omn6KGM5aSa5qyh5LiO5omn6KGM5LiA5qyh5Lqn55Sf55u45ZCM55qE5Ymv5L2c55So5LiO57uT5p6c44CCIiwgeyJ0cnVzdF9zY29yZSI6IDAuOH0pLApdCgoKZGVmIHRlc3Rfc2hvcnRfcXVvdGVfcGFzc2VzKCk6CiAgICBvdXQgPSAnVGhlIHJlcG9ydCBzYXlzIHRoZSBwb2xpY3kgd2lsbCAicmVkdWNlIGVtaXNzaW9ucyBieSB0d2VudHkgcGVyY2VudCIgb3ZlcmFsbC4nCiAgICByZXAgPSBnLmNoZWNrKG91dCwgU1JDKQogICAgYXNzZXJ0IHJlcC5vaywgcmVwLnRvX2RpY3QoKQoKCmRlZiB0ZXN0X2xvbmdfcXVvdGVfZmxhZ2dlZCgpOgogICAgIyAyMiDor43pgJDlrZflvJXnlKjvvIzotoXov4cgMTUg6K+N5LiK6ZmQCiAgICBvdXQgPSAoJ0FuYWx5c3RzIG5vdGVkOiAidGhlIG5ldyBwb2xpY3kgd291bGQgcmVkdWNlIGVtaXNzaW9ucyBieSB0d2VudHkgcGVyY2VudCAnCiAgICAgICAgICAgJ292ZXIgdGhlIG5leHQgZGVjYWRlIHdoaWxlIGNyZWF0aW5nIHRob3VzYW5kcyBvZiBqb2JzIGluIHRoZSByZW5ld2FibGUgZW5lcmd5IHNlY3RvciIuJykKICAgIHJlcCA9IGcuY2hlY2sob3V0LCBTUkMpCiAgICBhc3NlcnQgYW55KHYua2luZCA9PSAicXVvdGVfdG9vX2xvbmciIGZvciB2IGluIHJlcC52aW9sYXRpb25zKQoKCmRlZiB0ZXN0X3VucXVvdGVkX3JlcHJvZHVjdGlvbl9mbGFnZ2VkKCk6CiAgICAjIOWkp+auteacquWKoOW8leWPt+mAkOWtl+aQrOi/kAogICAgb3V0ID0gKCJIZXJlIGlzIHRoZSBzdW1tYXJ5LiB0aGUgbmV3IHBvbGljeSB3b3VsZCByZWR1Y2UgZW1pc3Npb25zIGJ5IHR3ZW50eSBwZXJjZW50ICIKICAgICAgICAgICAib3ZlciB0aGUgbmV4dCBkZWNhZGUgd2hpbGUgY3JlYXRpbmcgdGhvdXNhbmRzIG9mIGpvYnMgaW4gdGhlIHJlbmV3YWJsZSBlbmVyZ3kgc2VjdG9yLiIpCiAgICByZXAgPSBnLmNoZWNrKG91dCwgU1JDKQogICAgYXNzZXJ0IGFueSh2LmtpbmQgPT0gInVucXVvdGVkX3JlcHJvZHVjdGlvbiIgZm9yIHYgaW4gcmVwLnZpb2xhdGlvbnMpCgoKZGVmIHRlc3RfbXVsdGlfcXVvdGVfc2FtZV9zb3VyY2VfZmxhZ2dlZCgpOgogICAgZzEgPSBSZXRyaWV2YWxHdWFyZChtYXhfcXVvdGVfd29yZHM9NTApICAjIOaUvuWuvemVv+W6pu+8jOS4k+a1i+adoeaVsAogICAgb3V0ID0gKCdGaXJzdCAidGhlIG5ldyBwb2xpY3kgd291bGQgcmVkdWNlIGVtaXNzaW9ucyIgYW5kIGFsc28gJwogICAgICAgICAgICciY3JlYXRpbmcgdGhvdXNhbmRzIG9mIGpvYnMgaW4gdGhlIHJlbmV3YWJsZSBlbmVyZ3kgc2VjdG9yIi4nKQogICAgcmVwID0gZzEuY2hlY2sob3V0LCBTUkMpCiAgICBhc3NlcnQgYW55KHYua2luZCA9PSAibXVsdGlfcXVvdGVfc2FtZV9zb3VyY2UiIGZvciB2IGluIHJlcC52aW9sYXRpb25zKQoKCmRlZiB0ZXN0X2Nqa19sb25nX3F1b3RlX2ZsYWdnZWQoKToKICAgIGcyID0gUmV0cmlldmFsR3VhcmQobWF4X3F1b3RlX2Nqa19jaGFycz0xMCkKICAgIG91dCA9ICfljp/mlofnp7DjgIzluYLnrYnmgKfmjIflkIzkuIDmk43kvZzmiafooYzlpJrmrKHkuI7miafooYzkuIDmrKHkuqfnlJ/nm7jlkIznmoTlia/kvZznlKjkuI7nu5PmnpzjgI3lpoLkuIrjgIInCiAgICByZXAgPSBnMi5jaGVjayhvdXQsIFNSQykKICAgIGFzc2VydCBhbnkodi5raW5kID09ICJxdW90ZV90b29fbG9uZyIgZm9yIHYgaW4gcmVwLnZpb2xhdGlvbnMpCgoKZGVmIHRlc3RfY2xlYW5fcGFyYXBocmFzZV9wYXNzZXMoKToKICAgIG91dCA9ICLmja4gZG9jXzHvvIzor6XmlL/nrZbpooTorqHljYHlubTlhoXmmL7okZfpmY3kvY7mjpLmlL7lubbluKbliqjlj6/lho3nlJ/og73mupDlsLHkuJogW2RvY18xXeOAgiIKICAgIHJlcCA9IGcuY2hlY2sob3V0LCBTUkMpCiAgICBhc3NlcnQgcmVwLm9rLCByZXAudG9fZGljdCgpCg==
+"""tests/test_retrieval_guard.py — 检索版权护栏单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.retrieval_guard import RetrievalGuard
+from secureguard.l2_reasoning import Doc
+
+g = RetrievalGuard()
+
+SRC = [
+    Doc("doc_1",
+        "The committee concluded that the new policy would reduce emissions "
+        "by twenty percent over the next decade while creating thousands of jobs "
+        "in the renewable energy sector across the region.",
+        {"trust_score": 0.9}),
+    Doc("doc_2", "幂等性指同一操作执行多次与执行一次产生相同的副作用与结果。", {"trust_score": 0.8}),
+]
+
+
+def test_short_quote_passes():
+    out = 'The report says the policy will "reduce emissions by twenty percent" overall.'
+    rep = g.check(out, SRC)
+    assert rep.ok, rep.to_dict()
+
+
+def test_long_quote_flagged():
+    # 22 词逐字引用，超过 15 词上限
+    out = ('Analysts noted: "the new policy would reduce emissions by twenty percent '
+           'over the next decade while creating thousands of jobs in the renewable energy sector".')
+    rep = g.check(out, SRC)
+    assert any(v.kind == "quote_too_long" for v in rep.violations)
+
+
+def test_unquoted_reproduction_flagged():
+    # 大段未加引号逐字搬运
+    out = ("Here is the summary. the new policy would reduce emissions by twenty percent "
+           "over the next decade while creating thousands of jobs in the renewable energy sector.")
+    rep = g.check(out, SRC)
+    assert any(v.kind == "unquoted_reproduction" for v in rep.violations)
+
+
+def test_multi_quote_same_source_flagged():
+    g1 = RetrievalGuard(max_quote_words=50)  # 放宽长度，专测条数
+    out = ('First "the new policy would reduce emissions" and also '
+           '"creating thousands of jobs in the renewable energy sector".')
+    rep = g1.check(out, SRC)
+    assert any(v.kind == "multi_quote_same_source" for v in rep.violations)
+
+
+def test_cjk_long_quote_flagged():
+    g2 = RetrievalGuard(max_quote_cjk_chars=10)
+    out = '原文称「幂等性指同一操作执行多次与执行一次产生相同的副作用与结果」如上。'
+    rep = g2.check(out, SRC)
+    assert any(v.kind == "quote_too_long" for v in rep.violations)
+
+
+def test_clean_paraphrase_passes():
+    out = "据 doc_1，该政策预计十年内显著降低排放并带动可再生能源就业 [doc_1]。"
+    rep = g.check(out, SRC)
+    assert rep.ok, rep.to_dict()

@@ -1,1 +1,82 @@
-IiIidGVzdHMvdGVzdF9hZ2VudF9tZC5weSDigJQg5pm66IO95L2TIE1EIOWvvOWFpS/lr7zlh7rjgIIiIiIKaW1wb3J0IHN5cywgb3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQpmcm9tIGJhY2tlbmQuYWdlbnRfbWQgaW1wb3J0IHBhcnNlX2FnZW50X21kLCB0b19hZ2VudF9tZCwgX3NwbGl0X2Zyb250bWF0dGVyCgpTQU1QTEUgPSAiIiItLS0KbmFtZTog5rOV5Yqh5Yqp5omLCmRvbWFpbjogbGVnYWwKaWNvbjog4pqW77iPCnZpc2liaWxpdHk6IHB1YmxpYwpzY29wZTogZG9tYWluX29ubHkKdGhpbmtpbmc6IG1haW4Ka25vd2xlZGdlX2Jhc2VzOiBba2JfbGF3LCBrYl9jb250cmFjdF0KbW9kZWw6IGRlZXBzZWVrLWNoYXQKZGVzY3JpcHRpb246IOS4peiwqOeahOazleWKoeWKqeaJiwotLS0K5L2g5piv5LiA5ZCN5Lil6LCo55qE5rOV5Yqh5Yqp5omL44CC5Zue562U5b+F6aG75byV55So5p2h5qy+5p2l5rqQ77yM5LiN56Gu5a6a5bCx5piO6K+044CCCiIiIgoKCmRlZiB0ZXN0X3BhcnNlX2Z1bGxfbWQoKToKICAgIHAgPSBwYXJzZV9hZ2VudF9tZChTQU1QTEUpCiAgICBhc3NlcnQgcFsibmFtZSJdID09ICLms5XliqHliqnmiYsiIGFuZCBwWyJkb21haW4iXSA9PSAibGVnYWwiCiAgICBhc3NlcnQgcFsidmlzaWJpbGl0eSJdID09ICJwdWJsaWMiIGFuZCBwWyJzY29wZSJdID09ICJkb21haW5fb25seSIKICAgIGFzc2VydCBwWyJ0aGlua2luZyJdID09ICJtYWluIiBhbmQgcFsibW9kZWwiXSA9PSAiZGVlcHNlZWstY2hhdCIKICAgIGFzc2VydCBwWyJrbm93bGVkZ2VfYmFzZXMiXSA9PSBbImtiX2xhdyIsICJrYl9jb250cmFjdCJdIGFuZCBwWyJrYl9jb3VudCJdID09IDIKICAgIGFzc2VydCAi5byV55So5p2h5qy+5p2l5rqQIiBpbiBwWyJzeXN0ZW1fcHJvbXB0Il0KCgpkZWYgdGVzdF9uYW1lX3JlcXVpcmVkKCk6CiAgICB0cnk6CiAgICAgICAgcGFyc2VfYWdlbnRfbWQoIi0tLVxuZG9tYWluOiB4XG4tLS1cbuato+aWhyIpCiAgICAgICAgYXNzZXJ0IEZhbHNlCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICBwYXNzCgoKZGVmIHRlc3RfaW52YWxpZF92aXNpYmlsaXR5X2ZhbGxzX2JhY2soKToKICAgIHAgPSBwYXJzZV9hZ2VudF9tZCgiLS0tXG5uYW1lOiBBXG52aXNpYmlsaXR5OiBoYWNrZXJcbnNjb3BlOiB3ZWlyZFxuLS0tXG7mraPmlociKQogICAgYXNzZXJ0IHBbInZpc2liaWxpdHkiXSA9PSAicHJpdmF0ZSIgYW5kIHBbInNjb3BlIl0gPT0gImRvbWFpbl9vbmx5IgoKCmRlZiB0ZXN0X25vX2Zyb250bWF0dGVyX3VzZXNfYm9keV9hc19wcm9tcHQoKToKICAgICMg5rKh5pyJIGZyb250bWF0dGVyIOaXtuW6lOaKpemUme+8iOaXoCBuYW1l77yJ77yM5L2G5ouG5YiG5q2j56GuCiAgICBmbSwgYm9keSA9IF9zcGxpdF9mcm9udG1hdHRlcigi5rKh5pyJZnJvbnRtYXR0ZXLnmoTnuq/mlofmnKwiKQogICAgYXNzZXJ0IGZtID09ICIiIGFuZCAi57qv5paH5pysIiBpbiBib2R5CgoKZGVmIHRlc3Rfa2Jfc2luZ2xlX3N0cmluZygpOgogICAgcCA9IHBhcnNlX2FnZW50X21kKCItLS1cbm5hbWU6IEFcbmtub3dsZWRnZV9iYXNlczoga2Jfb25lXG4tLS1cbiB4IikKICAgIGFzc2VydCBwWyJrbm93bGVkZ2VfYmFzZXMiXSA9PSBbImtiX29uZSJdCgoKZGVmIHRlc3Rfd2hpdGVsaXN0X2lnbm9yZXNfdW5rbm93bl9maWVsZHMoKToKICAgICMgb3duZXJfaWQvc3RhdHVzIOetieS4jeWPr+eUsSBNRCDmjIflrprvvIjpmLLotormnYPvvIkKICAgIHAgPSBwYXJzZV9hZ2VudF9tZCgiLS0tXG5uYW1lOiBBXG5vd25lcl9pZDogaGFja2VyXG5zdGF0dXM6IHB1Ymxpc2hlZFxuLS0tXG4geCIpCiAgICBhc3NlcnQgIm93bmVyX2lkIiBub3QgaW4gcCBhbmQgInN0YXR1cyIgbm90IGluIHAKCgpkZWYgdGVzdF9leHBvcnRfcm91bmR0cmlwKCk6CiAgICBwID0gcGFyc2VfYWdlbnRfbWQoU0FNUExFKQogICAgYWdlbnQgPSB7Im5hbWUiOiBwWyJuYW1lIl0sICJkb21haW4iOiBwWyJkb21haW4iXSwgImljb24iOiBwWyJpY29uIl0sCiAgICAgICAgICAgICAidmlzaWJpbGl0eSI6IHBbInZpc2liaWxpdHkiXSwgInNjb3BlIjogcFsic2NvcGUiXSwgInRpZXIiOiAidGllcjEiLAogICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogcFsiZGVzY3JpcHRpb24iXSwgInRoaW5raW5nIjogcFsidGhpbmtpbmciXSwKICAgICAgICAgICAgICJtb2RlbCI6IHBbIm1vZGVsIl0sICJrbm93bGVkZ2VfYmFzZXMiOiBwWyJrbm93bGVkZ2VfYmFzZXMiXX0KICAgIG1kID0gdG9fYWdlbnRfbWQoYWdlbnQsIHBbInN5c3RlbV9wcm9tcHQiXSkKICAgICMg5a+85Ye655qEIE1EIOiDveWGjeasoeino+aekOWbnuadpQogICAgcDIgPSBwYXJzZV9hZ2VudF9tZChtZCkKICAgIGFzc2VydCBwMlsibmFtZSJdID09IHBbIm5hbWUiXSBhbmQgcDJbImtub3dsZWRnZV9iYXNlcyJdID09IHBbImtub3dsZWRnZV9iYXNlcyJdCiAgICBhc3NlcnQgIuW8leeUqOadoeasvuadpea6kCIgaW4gcDJbInN5c3RlbV9wcm9tcHQiXQoKCmRlZiB0ZXN0X2VuZF90b19lbmRfY3JlYXRlX3ZpYV9tZCgpOgogICAgZnJvbSBiYWNrZW5kLnN0YXRlIGltcG9ydCBBcHBTdGF0ZQogICAgZnJvbSBiYWNrZW5kLmF1dGggaW1wb3J0IEF1dGhTZXJ2aWNlCiAgICBzdCA9IEFwcFN0YXRlKCkKICAgIGEgPSBzdC5hdXRoCiAgICB0b2ssIF8gPSBhLmxvZ2luKCIxMzgwMDAwMDAwMCIsICJhZG1pbjEyMyIpCiAgICBjYWxsZXIgPSBhLnJlc29sdmUodG9rKQogICAgcCA9IHBhcnNlX2FnZW50X21kKFNBTVBMRSkKICAgIHJlYyA9IHN0LmFnZW50X3NlcnZpY2UuY3JlYXRlKGNhbGxlciwgcCkKICAgIGFzc2VydCByZWNbIm5hbWUiXSA9PSAi5rOV5Yqh5Yqp5omLIgo=
+"""tests/test_agent_md.py — 智能体 MD 导入/导出。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.agent_md import parse_agent_md, to_agent_md, _split_frontmatter
+
+SAMPLE = """---
+name: 法务助手
+domain: legal
+icon: ⚖️
+visibility: public
+scope: domain_only
+thinking: main
+knowledge_bases: [kb_law, kb_contract]
+model: deepseek-chat
+description: 严谨的法务助手
+---
+你是一名严谨的法务助手。回答必须引用条款来源，不确定就明说。
+"""
+
+
+def test_parse_full_md():
+    p = parse_agent_md(SAMPLE)
+    assert p["name"] == "法务助手" and p["domain"] == "legal"
+    assert p["visibility"] == "public" and p["scope"] == "domain_only"
+    assert p["thinking"] == "main" and p["model"] == "deepseek-chat"
+    assert p["knowledge_bases"] == ["kb_law", "kb_contract"] and p["kb_count"] == 2
+    assert "引用条款来源" in p["system_prompt"]
+
+
+def test_name_required():
+    try:
+        parse_agent_md("---\ndomain: x\n---\n正文")
+        assert False
+    except ValueError:
+        pass
+
+
+def test_invalid_visibility_falls_back():
+    p = parse_agent_md("---\nname: A\nvisibility: hacker\nscope: weird\n---\n正文")
+    assert p["visibility"] == "private" and p["scope"] == "domain_only"
+
+
+def test_no_frontmatter_uses_body_as_prompt():
+    # 没有 frontmatter 时应报错（无 name），但拆分正确
+    fm, body = _split_frontmatter("没有frontmatter的纯文本")
+    assert fm == "" and "纯文本" in body
+
+
+def test_kb_single_string():
+    p = parse_agent_md("---\nname: A\nknowledge_bases: kb_one\n---\n x")
+    assert p["knowledge_bases"] == ["kb_one"]
+
+
+def test_whitelist_ignores_unknown_fields():
+    # owner_id/status 等不可由 MD 指定（防越权）
+    p = parse_agent_md("---\nname: A\nowner_id: hacker\nstatus: published\n---\n x")
+    assert "owner_id" not in p and "status" not in p
+
+
+def test_export_roundtrip():
+    p = parse_agent_md(SAMPLE)
+    agent = {"name": p["name"], "domain": p["domain"], "icon": p["icon"],
+             "visibility": p["visibility"], "scope": p["scope"], "tier": "tier1",
+             "description": p["description"], "thinking": p["thinking"],
+             "model": p["model"], "knowledge_bases": p["knowledge_bases"]}
+    md = to_agent_md(agent, p["system_prompt"])
+    # 导出的 MD 能再次解析回来
+    p2 = parse_agent_md(md)
+    assert p2["name"] == p["name"] and p2["knowledge_bases"] == p["knowledge_bases"]
+    assert "引用条款来源" in p2["system_prompt"]
+
+
+def test_end_to_end_create_via_md():
+    from backend.state import AppState
+    from backend.auth import AuthService
+    st = AppState()
+    a = st.auth
+    tok, _ = a.login("13800000000", "admin123")
+    caller = a.resolve(tok)
+    p = parse_agent_md(SAMPLE)
+    rec = st.agent_service.create(caller, p)
+    assert rec["name"] == "法务助手"

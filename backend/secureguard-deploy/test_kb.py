@@ -1,1 +1,98 @@
-IiIi6Ieq5rWLOuS4ieaxoCArIEFJ5L2T5qOAICsg5LiT5a625ouN5p2/ICsg6Lqr5Lu96L+H5ruk5qOA57SiICsg5Zue5rua44CC5Y+v55u05o6lIHB5dGhvbiDov5DooYzjgIIiIiIKaW1wb3J0IHN5cwpzeXMucGF0aC5pbnNlcnQoMCwgIi4iKQoKZnJvbSBvcmdfY29yZSBpbXBvcnQgKAogICAgT3JnU2VydmljZSwgU3FsaXRlUmVwb3MsIE5vZGVUeXBlLCBVc2VyLCBVc2VyS2luZCwgVXNlclN0YXR1cywgUm9sZSwKICAgIERFRkFVTFRfUk9MRV9URU1QTEFURVMsIFBlcm1pc3Npb25EZW5pZWQsCikKaW1wb3J0IHV1aWQKZnJvbSBvcmdfY29yZSBpbXBvcnQgT3JnTm9kZQpmcm9tIGtiX2NvcmUgaW1wb3J0ICgKICAgIEtCU2VydmljZSwgU3FsaXRlS0JSZXBvLCBLQkVudHJ5LCBQb29sLCBLQkNvbmZsaWN0LCBhbm5vdGF0ZV9zb3VyY2VzLCBjb25maWRlbmNlX2xhYmVsLAopCgpvayA9IDA7IGZhaWwgPSAwCmRlZiBjayhuYW1lLCBjb25kKToKICAgIGdsb2JhbCBvaywgZmFpbDsgcHJpbnQoKCLinJMgIiBpZiBjb25kIGVsc2UgIuKclyAiKSArIG5hbWUpOyBvayArPSBjb25kOyBmYWlsICs9IChub3QgY29uZCkKCiMgLS0tIOe7hOe7hyArIOS4pOS4quS6ujrkuJPlrrYoY2FuX3Byb21vdGVfa2IpIOS4jiDmma7pgJrmiJDlkZggLS0tCm9yZyA9IFNxbGl0ZVJlcG9zKCI6bWVtb3J5OiIpCnN2Y19vcmcgPSBPcmdTZXJ2aWNlKG9yZykKdCwgcm9vdCA9IHN2Y19vcmcuYm9vdHN0cmFwX3RlbmFudCgi56S66IyD5bu65belIiwgIumbhuWboiIpClQgPSB0LmlkCnByb2ogPSBPcmdOb2RlKHV1aWQudXVpZDQoKS5oZXgsIFQsIHJvb3QuaWQsIE5vZGVUeXBlLlBST0pFQ1QsICLpobnnm67pg6hBIikKb3JnLmFkZF9ub2RlKHByb2opCgphZG1pbl9yb2xlID0gUm9sZSh1dWlkLnV1aWQ0KCkuaGV4LCBULCAi57uE57uH566h55CG5ZGYIiwgREVGQVVMVF9ST0xFX1RFTVBMQVRFU1si57uE57uH566h55CG5ZGYIl0pCmFkbWluID0gVXNlcih1dWlkLnV1aWQ0KCkuaGV4LCBULCBVc2VyS2luZC5JTlRFUk5BTCwgVXNlclN0YXR1cy5BQ1RJVkUsICLnrqHnkIblkZgiKQpnX2FkbWluLCBfID0gc3ZjX29yZy5zZWVkX2FkbWluKFQsIHVzZXI9YWRtaW4sIHJvbGU9YWRtaW5fcm9sZSwgbm9kZV9pZD1yb290LmlkKQoKZXhwZXJ0X3JvbGUgPSBSb2xlKHV1aWQudXVpZDQoKS5oZXgsIFQsICLkuJPlrrYv5oC75belIiwgREVGQVVMVF9ST0xFX1RFTVBMQVRFU1si5LiT5a62L+aAu+W3pSJdKTsgb3JnLmFkZF9yb2xlKGV4cGVydF9yb2xlKQptZW1iZXJfcm9sZSA9IFJvbGUodXVpZC51dWlkNCgpLmhleCwgVCwgIuaIkOWRmCIsIERFRkFVTFRfUk9MRV9URU1QTEFURVNbIuaIkOWRmCJdKTsgb3JnLmFkZF9yb2xlKG1lbWJlcl9yb2xlKQoKZXhwZXJ0ID0gc3ZjX29yZy5hZGRfdXNlcihULCBnX2FkbWluLmlkLCBob21lX25vZGVfaWQ9cHJvai5pZCwgZGlzcGxheV9uYW1lPSLlvKDmgLvlt6UiKQpnX2V4cGVydCA9IHN2Y19vcmcuZ3JhbnRfcm9sZShULCBnX2FkbWluLmlkLCB1c2VyX2lkPWV4cGVydC5pZCwgcm9sZV9pZD1leHBlcnRfcm9sZS5pZCwgb3JnX25vZGVfaWQ9cHJvai5pZCwgbGFiZWw9IuW8oOaAu+W3pUBBIikKbWVtYmVyID0gc3ZjX29yZy5hZGRfdXNlcihULCBnX2FkbWluLmlkLCBob21lX25vZGVfaWQ9cHJvai5pZCwgZGlzcGxheV9uYW1lPSLlsI/njosiKQpnX21lbWJlciA9IHN2Y19vcmcuZ3JhbnRfcm9sZShULCBnX2FkbWluLmlkLCB1c2VyX2lkPW1lbWJlci5pZCwgcm9sZV9pZD1tZW1iZXJfcm9sZS5pZCwgb3JnX25vZGVfaWQ9cHJvai5pZCwgbGFiZWw9IuWwj+eOi0BBIikKCmtiID0gS0JTZXJ2aWNlKG9yZywgU3FsaXRlS0JSZXBvKCI6bWVtb3J5OiIpKQoKIyA9PT09PSDmma7pgJrnlKjmiLfkuIrkvKAg4oaSIOm7mOiupOengeaciSA9PT09PQplMSA9IGtiLnVwbG9hZChULCBnX21lbWJlci5pZCwgdGl0bGU9IuaIkeeahOeOsOWcuueslOiusCIsIGNvbnRlbnQ9IkHljLrlm57loavms6jmhI/kuovpobkiLCBjbGFpbXM9eyLlm57loavljovlrp7luqYiOiAiMC45NSJ9KQpjaygi5pmu6YCa55So5oi35LiK5Lyg6buY6K6k6L+b56eB5pyJ5rGgIiwgZTEucG9vbCA9PSBQb29sLlBSSVZBVEUpCgojID09PT09IOWQjOaEj+WFseS6qyDihpIg5YWs5pyJ5L2O572u5L+hID09PT09CmUyID0ga2IudXBsb2FkKFQsIGdfbWVtYmVyLmlkLCB0aXRsZT0i5Li05pe25pSv5qih57uP6aqMIiwgY29udGVudD0i6auY5pSv5qih6KaB54K5Iiwgc2hhcmU9VHJ1ZSkKY2soIuWQjOaEj+WFseS6q+i/m+WFrOacieS9jue9ruS/oeaxoCIsIGUyLnBvb2wgPT0gUG9vbC5QVUJMSUNfTE9XKQoKIyA9PT09PSDmma7pgJrmiJDlkZjml6DmnYPmmYvljYfpq5jnva7kv6EgPT09PT0KdHJ5OgogICAga2IucHJvbW90ZV90b19oaWdoKFQsIGdfbWVtYmVyLmlkLCB0aXRsZT0i6KeE6IyDWCIsIGNvbnRlbnQ9Ii4uLiIsIGNsYWltcz17IuW8uuW6piI6ICJDMzAifSkKICAgIGNrKCLmma7pgJrmiJDlkZjkuI3og73mmYvljYfpq5jnva7kv6EiLCBGYWxzZSkKZXhjZXB0IFBlcm1pc3Npb25FcnJvcjoKICAgIGNrKCLmma7pgJrmiJDlkZjooqvmi5Io5pegIGNhbl9wcm9tb3RlX2tiKSIsIFRydWUpCgojID09PT09IOS4k+WutuaZi+WNhyDihpIgQUnkvZPmo4Dml6DlhrLnqoEg4oaSIOWFpemrmOe9ruS/oSA9PT09PQplMywgcmVwMyA9IGtiLnByb21vdGVfdG9faGlnaChULCBnX2V4cGVydC5pZCwgdGl0bGU9Iua3t+WHneWcn+W8uuW6puagh+WHhiIsIGNvbnRlbnQ9IuWfuuehgEMzMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYWltcz17IuWfuuehgOa3t+WHneWcn+W8uuW6piI6ICJDMzAifSwgZXh0ZXJuYWxfb2s9VHJ1ZSkKY2soIuS4k+WutuaZi+WNh+i/m+mrmOe9ruS/oeaxoCIsIGUzLnBvb2wgPT0gUG9vbC5QVUJMSUNfSElHSCBhbmQgbm90IHJlcDMuaGFzX2NvbmZsaWN0KQoKIyA9PT09PSBBSeS9k+ajgOWRveS4reWGsueqgSjlkIzplK7kuI3lkIzlgLwp4oaSIOmYu+aWrSzpnIDmi43mnb8gPT09PT0KdHJ5OgogICAga2IucHJvbW90ZV90b19oaWdoKFQsIGdfZXhwZXJ0LmlkLCB0aXRsZT0i5by65bqm5L+u5q2jIiwgY29udGVudD0i5Z+656GAQzM1IiwKICAgICAgICAgICAgICAgICAgICAgICBjbGFpbXM9eyLln7rnoYDmt7flh53lnJ/lvLrluqYiOiAiQzM1In0pCiAgICBjaygi5Yay56qB5bqU6KKrQUnkvZPmo4DpmLvmlq0iLCBGYWxzZSkKZXhjZXB0IEtCQ29uZmxpY3QgYXMgZToKICAgIGNrKCJBSeS9k+ajgOWPkeeOsGNsYWlt5Yay56qB5bm26Zi75patIiwgZS5pbnNwZWN0aW9uLmhhc19jb25mbGljdCkKCiMgPT09PT0g5LiT5a625ouN5p2/5o6o57+7QUkg4oaSIOWFpeW6k+S4lOeVmeeXlSA9PT09PQplNCwgcmVwNCA9IGtiLnByb21vdGVfdG9faGlnaChULCBnX2V4cGVydC5pZCwgdGl0bGU9IuW8uuW6puS/ruatoyIsIGNvbnRlbnQ9IueOsOWcuuWunua1i+aUuSBDMzUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFpbXM9eyLln7rnoYDmt7flh53lnJ/lvLrluqYiOiAiQzM1In0sIGRlY2lzaW9uX292ZXJyaWRlPVRydWUpCmNrKCLkuJPlrrblj6/mjqjnv7tBSeWFpeW6kyIsIGU0LnBvb2wgPT0gUG9vbC5QVUJMSUNfSElHSCkKY2soIuaOqOe/u0FJ5pyJ55WZ55eVIiwgIuS4k+WutuaOqOe/u0FJIiBpbiBlNC5haV92ZXJkaWN0KQoKIyA9PT09PSDouqvku73ov4fmu6Tmo4DntKIgPT09PT0KIyDlsI/njovmo4DntKI655yL5b6X5Yiw6Ieq5bex55qE56eB5pyJICsg5YWs5pyJCnJfbWVtYmVyID0ga2IucmV0cmlldmUoVCwgZ19tZW1iZXIuaWQsICIiKQpjaygi5oiQ5ZGY6IO955yL5Yiw6Ieq5bex55qE56eB5pyJ5p2h55uuIiwgYW55KHguaWQgPT0gZTEuaWQgZm9yIHggaW4gcl9tZW1iZXIpKQojIOS4k+WutuajgOe0ojrnnIvkuI3liLDlsI/njovnmoTnp4HmnIko5oyJIG93bmVyIOmalOemuykKcl9leHBlcnQgPSBrYi5yZXRyaWV2ZShULCBnX2V4cGVydC5pZCwgIiIpCmNrKCLkuJPlrrbnnIvkuI3liLDku5bkurrnp4HmnIko5ZyoQeeci+S4jeWIsOS7luS6uuengeaciSkiLCBub3QgYW55KHguaWQgPT0gZTEuaWQgZm9yIHggaW4gcl9leHBlcnQpKQpjaygi5LiT5a626IO955yL5Yiw5YWs5pyJ5L2OL+mrmCIsIGFueSh4LmlkID09IGUyLmlkIGZvciB4IGluIHJfZXhwZXJ0KSBhbmQgYW55KHguaWQgPT0gZTMuaWQgZm9yIHggaW4gcl9leHBlcnQpKQojIOWMv+WQjS/lpJbpg6g65Y+q6KeBIGV4dGVybmFsX29rIOeahOmrmOe9ruS/oQpyX2Fub24gPSBrYi5yZXRyaWV2ZShULCBOb25lLCAiIikKY2soIuWMv+WQjeWPquingSBleHRlcm5hbF9vayDnmoTpq5jnva7kv6EiLCBhbGwoeC5wb29sID09IFBvb2wuUFVCTElDX0hJR0ggYW5kIHguZXh0ZXJuYWxfb2sgZm9yIHggaW4gcl9hbm9uKSkKY2soIuWMv+WQjeeci+S4jeWIsOengeaciS/kvY7nva7kv6EiLCBub3QgYW55KHgucG9vbCAhPSBQb29sLlBVQkxJQ19ISUdIIGZvciB4IGluIHJfYW5vbikpCgojID09PT09IOetlOWkjee9ruS/oeagh+azqCA9PT09PQphbm4gPSBhbm5vdGF0ZV9zb3VyY2VzKHJfZXhwZXJ0KQpjaygi562U5aSN6IO95YiG6auYL+S9jue9ruS/oeW5tue7memjjumZqeaPkOekuiIsICJoaWdoIiBpbiBhbm4gYW5kIChhbm5bInJpc2tfaGludCJdICE9ICIiIGlmIGFublsibG93Il0gZWxzZSBUcnVlKSkKCiMgPT09PT0g5Zue5ruaID09PT09CmtiLnJvbGxiYWNrKFQsIGdfZXhwZXJ0LmlkLCBlNC5pZCkKcl9hZnRlciA9IGtiLnJldHJpZXZlKFQsIGdfZXhwZXJ0LmlkLCAiIikKY2soIumrmOe9ruS/oeadoeebruWbnua7muWQjuS4jeWGjeWPr+ingSIsIG5vdCBhbnkoeC5pZCA9PSBlNC5pZCBmb3IgeCBpbiByX2FmdGVyKSkKCnByaW50KGYiXG7nu5Pmnpw6e29rfSDpgJrov4cgLyB7ZmFpbH0g5aSx6LSlIikKc3lzLmV4aXQoMSBpZiBmYWlsIGVsc2UgMCkK
+"""自测:三池 + AI体检 + 专家拍板 + 身份过滤检索 + 回滚。可直接 python 运行。"""
+import sys
+sys.path.insert(0, ".")
+
+from org_core import (
+    OrgService, SqliteRepos, NodeType, User, UserKind, UserStatus, Role,
+    DEFAULT_ROLE_TEMPLATES, PermissionDenied,
+)
+import uuid
+from org_core import OrgNode
+from kb_core import (
+    KBService, SqliteKBRepo, KBEntry, Pool, KBConflict, annotate_sources, confidence_label,
+)
+
+ok = 0; fail = 0
+def ck(name, cond):
+    global ok, fail; print(("✓ " if cond else "✗ ") + name); ok += cond; fail += (not cond)
+
+# --- 组织 + 两个人:专家(can_promote_kb) 与 普通成员 ---
+org = SqliteRepos(":memory:")
+svc_org = OrgService(org)
+t, root = svc_org.bootstrap_tenant("示范建工", "集团")
+T = t.id
+proj = OrgNode(uuid.uuid4().hex, T, root.id, NodeType.PROJECT, "项目部A")
+org.add_node(proj)
+
+admin_role = Role(uuid.uuid4().hex, T, "组织管理员", DEFAULT_ROLE_TEMPLATES["组织管理员"])
+admin = User(uuid.uuid4().hex, T, UserKind.INTERNAL, UserStatus.ACTIVE, "管理员")
+g_admin, _ = svc_org.seed_admin(T, user=admin, role=admin_role, node_id=root.id)
+
+expert_role = Role(uuid.uuid4().hex, T, "专家/总工", DEFAULT_ROLE_TEMPLATES["专家/总工"]); org.add_role(expert_role)
+member_role = Role(uuid.uuid4().hex, T, "成员", DEFAULT_ROLE_TEMPLATES["成员"]); org.add_role(member_role)
+
+expert = svc_org.add_user(T, g_admin.id, home_node_id=proj.id, display_name="张总工")
+g_expert = svc_org.grant_role(T, g_admin.id, user_id=expert.id, role_id=expert_role.id, org_node_id=proj.id, label="张总工@A")
+member = svc_org.add_user(T, g_admin.id, home_node_id=proj.id, display_name="小王")
+g_member = svc_org.grant_role(T, g_admin.id, user_id=member.id, role_id=member_role.id, org_node_id=proj.id, label="小王@A")
+
+kb = KBService(org, SqliteKBRepo(":memory:"))
+
+# ===== 普通用户上传 → 默认私有 =====
+e1 = kb.upload(T, g_member.id, title="我的现场笔记", content="A区回填注意事项", claims={"回填压实度": "0.95"})
+ck("普通用户上传默认进私有池", e1.pool == Pool.PRIVATE)
+
+# ===== 同意共享 → 公有低置信 =====
+e2 = kb.upload(T, g_member.id, title="临时支模经验", content="高支模要点", share=True)
+ck("同意共享进公有低置信池", e2.pool == Pool.PUBLIC_LOW)
+
+# ===== 普通成员无权晋升高置信 =====
+try:
+    kb.promote_to_high(T, g_member.id, title="规范X", content="...", claims={"强度": "C30"})
+    ck("普通成员不能晋升高置信", False)
+except PermissionError:
+    ck("普通成员被拒(无 can_promote_kb)", True)
+
+# ===== 专家晋升 → AI体检无冲突 → 入高置信 =====
+e3, rep3 = kb.promote_to_high(T, g_expert.id, title="混凝土强度标准", content="基础C30",
+                              claims={"基础混凝土强度": "C30"}, external_ok=True)
+ck("专家晋升进高置信池", e3.pool == Pool.PUBLIC_HIGH and not rep3.has_conflict)
+
+# ===== AI体检命中冲突(同键不同值)→ 阻断,需拍板 =====
+try:
+    kb.promote_to_high(T, g_expert.id, title="强度修正", content="基础C35",
+                       claims={"基础混凝土强度": "C35"})
+    ck("冲突应被AI体检阻断", False)
+except KBConflict as e:
+    ck("AI体检发现claim冲突并阻断", e.inspection.has_conflict)
+
+# ===== 专家拍板推翻AI → 入库且留痕 =====
+e4, rep4 = kb.promote_to_high(T, g_expert.id, title="强度修正", content="现场实测改 C35",
+                              claims={"基础混凝土强度": "C35"}, decision_override=True)
+ck("专家可推翻AI入库", e4.pool == Pool.PUBLIC_HIGH)
+ck("推翻AI有留痕", "专家推翻AI" in e4.ai_verdict)
+
+# ===== 身份过滤检索 =====
+# 小王检索:看得到自己的私有 + 公有
+r_member = kb.retrieve(T, g_member.id, "")
+ck("成员能看到自己的私有条目", any(x.id == e1.id for x in r_member))
+# 专家检索:看不到小王的私有(按 owner 隔离)
+r_expert = kb.retrieve(T, g_expert.id, "")
+ck("专家看不到他人私有(在A看不到他人私有)", not any(x.id == e1.id for x in r_expert))
+ck("专家能看到公有低/高", any(x.id == e2.id for x in r_expert) and any(x.id == e3.id for x in r_expert))
+# 匿名/外部:只见 external_ok 的高置信
+r_anon = kb.retrieve(T, None, "")
+ck("匿名只见 external_ok 的高置信", all(x.pool == Pool.PUBLIC_HIGH and x.external_ok for x in r_anon))
+ck("匿名看不到私有/低置信", not any(x.pool != Pool.PUBLIC_HIGH for x in r_anon))
+
+# ===== 答复置信标注 =====
+ann = annotate_sources(r_expert)
+ck("答复能分高/低置信并给风险提示", "high" in ann and (ann["risk_hint"] != "" if ann["low"] else True))
+
+# ===== 回滚 =====
+kb.rollback(T, g_expert.id, e4.id)
+r_after = kb.retrieve(T, g_expert.id, "")
+ck("高置信条目回滚后不再可见", not any(x.id == e4.id for x in r_after))
+
+print(f"\n结果:{ok} 通过 / {fail} 失败")
+sys.exit(1 if fail else 0)

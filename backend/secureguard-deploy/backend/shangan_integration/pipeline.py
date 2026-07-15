@@ -1,1 +1,207 @@
-IiIiCnBpcGVsaW5lLnB5IOKAlCDkuIrlronkuK3lj7Dnu5/kuIDnvJbmjpLvvIg6OTAwMCBGYXN0QVBJ77yM5Lit6Ze05Lu25qih5byP77yJCgrlroPlsLHmmK8gc3BlYyDku7vliqExIOmHjOOAjOW3suacie+8jOmcgOaJqeWxleOAjeeahOmCo+S4querr+eCue+8mgogICAgUE9TVCAvdjEvb3BlbmFpL2NoYXQvY29tcGxldGlvbnMK5a+55aSW5L+d5oyBIE9wZW5BSSDlhbzlrrnvvIhLdW4g55qEIFByb3ZpZGVyIOebtOaOpeaMh+i/h+adpe+8jOmbtuaUueWKqO+8ie+8mwrlr7nlhoXmiorkuInmoLfog73lipvmjInpobrluo/kuLLotbfmnaXvvJoKCiAg5pS25Yiw6K+35rGCCiAgICDilIIKICAgIOKUnOKUgCBndWFyZF9pbnB1dCAgICAgICAgICAgdjEuMCBTZWN1cmVHdWFyZCDlhaXnq5nvvJrmlY/mhJ/or40vUElJIOKGkiDmi6bmiKrmiJbohLHmlY8KICAgIOKUnOKUgCBFeHBlcnRSb3V0ZXIucm91dGUgICAgTDHop4TliJkg4oaSIEwy6K+t5LmJIOKGkiBMM+ehruiupO+8jOazqOWFpSBTa2lsbCBTeXN0ZW0gUHJvbXB0CiAgICDilJzilIAgU2VtYW50aWNDYWNoZS5sb29rdXAgIOWRveS4rSjlkIzot6/nlLEr55u45Ly8PjAuOTUpIOKGkiDnm7TmjqXov5Tlm57vvIzkuI3osIPmqKHlnosKICAgIOKUnOKUgCBncm91bmRpbmcucmV0cmlldmUraW5qZWN0ICB2MS4wIFJBR++8muajgOe0ouWIh+eJhyvlrqrms5Xop4TliJnvvIzms6jlhaXmnaXmupBbUyNd77yM6KaB5rGC5byV55SoCiAgICDilJzilIAgVG9rZW5TYXZlci5wcmUgICAgICAgIEwz57uT5p6c5Y6L57ypIOKGkiBMNeS4iuS4i+aWh+WOi+e8qSDihpIgTDHliY3nvIDlm7rljJYg4oaSIEwy5bel5YW35pS26LW3CiAgICDilJzilIAgaW5mZXIoKSAgICAgICAgICAgICAgIOiwg+S4iua4uOecn+WunuaooeWei++8iE1lY2hEaXN0aWxsIDdCIC8gZGVlcHNlZWstdjQtKu+8iQogICAg4pSc4pSAIGd1YXJkX291dHB1dCAgICAgICAgICB2MS4wIFNlY3VyZUd1YXJkIOWHuuermeWuoeaguCDihpIg5oum5oiq5oiW6ISx5pWP77yI5Zyo5oq9IGFydGlmYWN0IOS5i+WJje+8iQogICAg4pSc4pSAIGFwcGVuZF9zb3VyY2VzICAgICAgICB2MS4wIOiHquWKqOW8leeUqO+8muWunumZheW8leeUqOeahOadpea6kOaVtOeQhuaIkOOAjOWPguiAg+adpea6kOOAjQogICAg4pSc4pSAIGV4dHJhY3RfYXJ0aWZhY3RzICAgICDmir3lj5YgYXJ0aWZhY3Qg5Yiw5omp5bGV5a2X5q61CiAgICDilJzilIAgU2VtYW50aWNDYWNoZS5zdG9yZSAgIOWGmeWbnue8k+WtmAogICAg4pSU4pSAIOi/lOWbniBPcGVuQUkg5YW85a655ZON5bqU77yIKyB4X3NoYW5nYW5fYXJ0aWZhY3Rz77yJCgrkuI3kv67mlLkgT3BlbkNsYXcg5rqQ56CB77ya6L+Z5LiA5bGC54us56uL6L+b56iL77yMT3BlbkNsYXcgR2F0ZXdheSg6MTg3ODkpIOS4jiBLdW4g6YO95oqKCmJhc2VfdXJsIOaMh+WIsOacrOacjeWKoeWNs+WPr+OAguS4iua4uOaooeWei+WcsOWdgOeUsSBNT0RFTF9VUFNUUkVBTSDmjIflkJHjgIzoo7jmqKHlnovmnI3liqHjgI3vvIwK6YG/5YWN5pys56uv54K56Ieq6LCD55So6YCg5oiQ6YCS5b2S44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgb3MKaW1wb3J0IHRpbWUKaW1wb3J0IHV1aWQKCmltcG9ydCBodHRweApmcm9tIGZhc3RhcGkgaW1wb3J0IEFQSVJvdXRlciwgUmVxdWVzdApmcm9tIGZhc3RhcGkucmVzcG9uc2VzIGltcG9ydCBKU09OUmVzcG9uc2UKCmZyb20gLmFydGlmYWN0cyBpbXBvcnQgYXR0YWNoX3RvX3Jlc3BvbnNlLCBleHRyYWN0X2FydGlmYWN0cwpmcm9tIC5leHBlcnRfcm91dGVyIGltcG9ydCBFeHBlcnRSZWdpc3RyeSwgRXhwZXJ0Um91dGVyCmZyb20gLnRva2VuX3NhdmVyIGltcG9ydCBEZXBzLCBTYXZlclN0YXRzLCBUb2tlblNhdmVyCmZyb20gLiBpbXBvcnQgZ3VhcmRzCmZyb20gLiBpbXBvcnQgZ3JvdW5kaW5nCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg6YWN572u77yI55So546v5aKD5Y+Y6YeP77yM5L6/5LqO5Y2V5py66YOo572y77yM5pegIERvY2tlcu+8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCk1PREVMX1VQU1RSRUFNID0gb3MuZ2V0ZW52KCJNT0RFTF9VUFNUUkVBTSIsICJodHRwOi8vMTI3LjAuMC4xOjgwMDEvdjEiKSAgIyDoo7jmqKHlnovmnI3liqEKU0tJTExfQkFTRSA9IG9zLmdldGVudigiU0tJTExfQkFTRSIsICIvZGF0YS9zdGFuZGFyZHNfZG93bmxvYWRzL3JhZy9leHBlcnRzIikKVVBTVFJFQU1fVElNRU9VVCA9IGZsb2F0KG9zLmdldGVudigiVVBTVFJFQU1fVElNRU9VVCIsICIxMjAiKSkKCiMg56ug6IqC4oaS5qih5Z6LIOS4jeWcqOi/memHjO+8m+i/meaYr+W5s+WPsOmXruetlOi3r+eUseOAguaooeWei+mAieaLqeaMiemavuW6puWIhue6p++8iOingeS4i++8ieOAggpESUZGSUNVTFRZX01PREVMID0gewogICAgImVhc3kiOiAgIG9zLmdldGVudigiTU9ERUxfRkxBU0giLCAiZGVlcHNlZWstdjQtZmxhc2giKSwKICAgICJtZWRpdW0iOiBvcy5nZXRlbnYoIk1PREVMX1BSTyIsICAgImRlZXBzZWVrLXY0LXBybyIpLAogICAgImhhcmQiOiAgIG9zLmdldGVudigiTU9ERUxfRVhQRVJUIiwibWVjaGFuaWNhbC1leHBlcnQiKSwgICAjIE1lY2hEaXN0aWxsIDdCIOa3seaOqAp9CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIOS+nei1luijhemFje+8muaKiuS9oOaWueecn+WunueahCBiZ2UtbTMgLyDlkJHph4/lupMgLyDmkZjopoHlmajmjqXov5vmnaXvvIjov5nph4znu5nlj6/mm7/mjaLljaDkvY3vvIkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpkZWYgYnVpbGRfZGVwcygpIC0+IERlcHM6CiAgICAjIFRPRE86IOabv+aNouS4uuS9oOaWueecn+WunuWunueOsAogICAgIyAgIGVtYmVkID0gbGFtYmRhIHQ6IGJnZV9tMy5lbmNvZGUodCkudG9saXN0KCkKICAgICMgICBzZW1hbnRpY19jYWNoZV9zdG9yZSA9IExhbmNlREJUYWJsZSgic2VtYW50aWNfY2FjaGUiKQogICAgIyAgIHN1bW1hcml6ZSA9IHlvdXJfc3VtbWFyaXplcgogICAgIwogICAgIyDlkIzml7bmioogdjEuMCDog73lipvnmoTlm57osIPmjqXkuIrvvIjkuI3mjqXliJnlronlhajpmY3nuqfvvInvvJoKICAgICMgICBndWFyZHMuU0VDVVJFR1VBUkRfQ0hFQ0sgPSBsYW1iZGEgdGV4dCwgc3RhZ2U6IHNlY3VyZWd1YXJkX2NsaWVudC5jaGVjayh0ZXh0LCBzdGFnZSkKICAgICMgICBncm91bmRpbmcuUkFHX1NFQVJDSCAgICAgPSBsYW1iZGEgcSwgZjogbGFuY2VkYl9yYWcuc2VhcmNoKHEsIGYpICAgIyAyMjA3NOWIh+eJhyvlrqrms5Ur5qCH5YeGCiAgICAjICAgbWNwX3NlcnZlci5SQUdfU0VBUkNIICAgID0gZ3JvdW5kaW5nLlJBR19TRUFSQ0ggICAgICAgICAgICAgICAgICAgICMg55+l6K+GTUNQ5YWx55So5ZCM5LiA5qOA57SiCiAgICAjICAgbWNwX3NlcnZlci5FVkFfVEFTS1MgICAgID0gZXZhX2VuZ2luZS5oYW5kbGUKICAgIHJldHVybiBEZXBzKGVtYmVkPU5vbmUsIHNlbWFudGljX2NhY2hlX3N0b3JlPU5vbmUsIHN1bW1hcml6ZT1Ob25lKQoKCmRlcHMgPSBidWlsZF9kZXBzKCkKc2F2ZXIgPSBUb2tlblNhdmVyKGRlcHMpCnJlZ2lzdHJ5ID0gRXhwZXJ0UmVnaXN0cnkoU0tJTExfQkFTRSwgZW1iZWQ9ZGVwcy5lbWJlZCkubG9hZCgpCnJvdXRlcl9lbmdpbmUgPSBFeHBlcnRSb3V0ZXIocmVnaXN0cnksIGVtYmVkPWRlcHMuZW1iZWQsIGxsbV9jb25maXJtPU5vbmUpCgphcGkgPSBBUElSb3V0ZXIoKQoKCmFzeW5jIGRlZiBpbmZlcihtb2RlbDogc3RyLCByZXF1ZXN0OiBkaWN0LCBleHRyYV9oZWFkZXJzOiBkaWN0KSAtPiBkaWN0OgogICAgIiIi6LCD5LiK5ri46KO45qih5Z6L77yMT3BlbkFJIOWFvOWuueOAgiIiIgogICAgcGF5bG9hZCA9IGRpY3QocmVxdWVzdCwgbW9kZWw9bW9kZWwsIHN0cmVhbT1GYWxzZSkKICAgIGFzeW5jIHdpdGggaHR0cHguQXN5bmNDbGllbnQodGltZW91dD1VUFNUUkVBTV9USU1FT1VUKSBhcyBjbGllbnQ6CiAgICAgICAgciA9IGF3YWl0IGNsaWVudC5wb3N0KAogICAgICAgICAgICBmIntNT0RFTF9VUFNUUkVBTX0vY2hhdC9jb21wbGV0aW9ucyIsCiAgICAgICAgICAgIGpzb249cGF5bG9hZCwKICAgICAgICAgICAgaGVhZGVycz17IkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIkF1dGhvcml6YXRpb24iOiAiQmVhcmVyICIgKyBvcy5lbnZpcm9uLmdldCgnREVFUFNFRUtfQVBJX0tFWScsICcnKSwgKipleHRyYV9oZWFkZXJzfSwKICAgICAgICApCiAgICAgICAgci5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICByZXR1cm4gci5qc29uKCkKCgpkZWYgX2xhc3RfdXNlcihtZXNzYWdlczogbGlzdFtkaWN0XSkgLT4gc3RyOgogICAgZm9yIG0gaW4gcmV2ZXJzZWQobWVzc2FnZXMpOgogICAgICAgIGlmIG0uZ2V0KCJyb2xlIikgPT0gInVzZXIiOgogICAgICAgICAgICByZXR1cm4gc3RyKG0uZ2V0KCJjb250ZW50IiwgIiIpKQogICAgcmV0dXJuICIiCgoKQGFwaS5wb3N0KCIvdjIvY2hhdC9jb21wbGV0aW9ucyIpCmFzeW5jIGRlZiBjaGF0X2NvbXBsZXRpb25zKHJlcXVlc3Q6IFJlcXVlc3QpIC0+IEpTT05SZXNwb25zZToKICAgIGJvZHkgPSBhd2FpdCByZXF1ZXN0Lmpzb24oKQogICAgY29udl9pZCA9IHJlcXVlc3QuaGVhZGVycy5nZXQoIlgtQ29udmVyc2F0aW9uLUlkIiwgImFub24iKQogICAgc3RhdHMgPSBTYXZlclN0YXRzKCkKICAgIG1lc3NhZ2VzID0gYm9keS5nZXQoIm1lc3NhZ2VzIiwgW10pCgogICAgIyAwKSBTZWN1cmVHdWFyZCDlhaXnq5nvvIh2MS4w77yJ77ya5pWP5oSf6K+NL1BJSSDihpIg5oum5oiq5oiW6ISx5pWPCiAgICBtZXNzYWdlcywgZ2luID0gZ3VhcmRzLmd1YXJkX2lucHV0KG1lc3NhZ2VzKQogICAgaWYgZ2luLmFjdGlvbiA9PSBndWFyZHMuQWN0aW9uLkJMT0NLOgogICAgICAgIHJldHVybiBKU09OUmVzcG9uc2UoZ3VhcmRzLmJsb2NrZWRfcmVzcG9uc2UoZ2luLnJlYXNvbiwgImlucHV0IikpCgogICAgIyAxKSDkuJPlrrbot6/nlLEgKyBTa2lsbCDms6jlhaXvvIjlhYjkuo7nnIEgVG9rZW7vvIzlm6DkuLrms6jlhaXkvJrmlLnlj5ggc3lzdGVtIOaute+8iQogICAgcm91dGUgPSByb3V0ZXJfZW5naW5lLnJvdXRlKF9sYXN0X3VzZXIobWVzc2FnZXMpKQogICAgcmtleSA9IHJvdXRlcl9lbmdpbmUucm91dGVfa2V5KHJvdXRlKQogICAgaWYgcm91dGUuaW5qZWN0ZWRfc3lzdGVtOgogICAgICAgIG1lc3NhZ2VzID0gW3sicm9sZSI6ICJzeXN0ZW0iLCAiY29udGVudCI6IHJvdXRlLmluamVjdGVkX3N5c3RlbX1dICsgWwogICAgICAgICAgICBtIGZvciBtIGluIG1lc3NhZ2VzIGlmIG0uZ2V0KCJyb2xlIikgIT0gInN5c3RlbSIKICAgICAgICBdCgogICAgIyAyKSDor63kuYnnvJPlrZjlkb3kuK3vvJ/vvIjlkIzot6/nlLEgKyDnm7jkvLzluqY+MC45Ne+8ieOAguWRveS4reWNs+ecgeaOieajgOe0ouS4juaOqOeQhgogICAgY2FjaGVkID0gc2F2ZXIuc2VtYW50aWMubG9va3VwKG1lc3NhZ2VzLCBya2V5LCBzdGF0cykKICAgIGlmIGNhY2hlZCBpcyBub3QgTm9uZToKICAgICAgICBjYWNoZWQgPSBkaWN0KGNhY2hlZCk7IGNhY2hlZFsieF9zaGFuZ2FuX2NhY2hlIl0gPSAiaGl0IgogICAgICAgIHJldHVybiBKU09OUmVzcG9uc2UoY2FjaGVkKQoKICAgICMgMykgUkFHIGdyb3VuZGluZ++8iHYxLjDvvInvvJrmo4DntKLliIfniYcr5a6q5rOV6KeE5YiZIOKGkiDms6jlhaXmnaXmupBbUyNd77yM6KaB5rGC5oyJ57yW5Y+35byV55SoCiAgICBzb3VyY2VzID0gZ3JvdW5kaW5nLnJldHJpZXZlKF9sYXN0X3VzZXIobWVzc2FnZXMpLCBbZS5pZCBmb3IgZSBpbiByb3V0ZS5leHBlcnRzXSkKICAgIG1lc3NhZ2VzID0gZ3JvdW5kaW5nLmluamVjdChtZXNzYWdlcywgc291cmNlcykKICAgIGJvZHkgPSBkaWN0KGJvZHksIG1lc3NhZ2VzPW1lc3NhZ2VzKQoKICAgICMgNCkg55yBIFRva2VuIOmihOWkhOeQhu+8iEwzL0w1L0wxL0wy77yJCiAgICBib2R5ID0gc2F2ZXIucHJlKGJvZHksIHN0YXRzKQoKICAgICMgNSkg6Zq+5bqm5YiG57qnIOKGkiDpgInmqKHlnovvvIhLaW1pIOa4kOi/m+aOqOeQhu+8mueugOWNlei1sCBmbGFzaO+8jOmavui1sOa3seaOqO+8iQogICAgX3NlbCA9IGJvZHkuZ2V0KCJtb2RlbCIpCiAgICBtb2RlbCA9IF9zZWwgaWYgX3NlbCBhbmQgX3NlbCAhPSAiYnVpbHRpbiIgZWxzZSBESUZGSUNVTFRZX01PREVMLmdldChyb3V0ZS5kaWZmaWN1bHR5LCBESUZGSUNVTFRZX01PREVMWyJtZWRpdW0iXSkKCiAgICAjIDYpIOiwg+S4iua4uOaooeWeiwogICAgaGVhZGVycyA9IHNhdmVyLnByZWZpeC51cHN0cmVhbV9oZWFkZXJzKHN0YXRzKQogICAgdHJ5OgogICAgICAgIHJlc3AgPSBhd2FpdCBpbmZlcihtb2RlbCwgYm9keSwgaGVhZGVycykKICAgIGV4Y2VwdCBodHRweC5IVFRQRXJyb3IgYXMgZToKICAgICAgICByZXR1cm4gSlNPTlJlc3BvbnNlKAogICAgICAgICAgICB7ImVycm9yIjogeyJtZXNzYWdlIjogZiJ1cHN0cmVhbSBtb2RlbCBlcnJvcjoge2V9IiwgInR5cGUiOiAidXBzdHJlYW1fZXJyb3IifX0sCiAgICAgICAgICAgIHN0YXR1c19jb2RlPTUwMiwKICAgICAgICApCgogICAgIyA3KSBTZWN1cmVHdWFyZCDlh7rnq5nlrqHmoLjvvIh2MS4w77yJ77ya5Zyo5oq9IGFydGlmYWN0IOS5i+WJje+8jOehruS/nSBhcnRpZmFjdCDkuZ/mnaXoh6rlkIjop4TmlofmnKwKICAgIGNvbnRlbnQgPSByZXNwLmdldCgiY2hvaWNlcyIsIFt7fV0pWzBdLmdldCgibWVzc2FnZSIsIHt9KS5nZXQoImNvbnRlbnQiLCAiIikgb3IgIiIKICAgIGdvdXQgPSBndWFyZHMuZ3VhcmRfb3V0cHV0KGNvbnRlbnQpCiAgICBpZiBnb3V0LmFjdGlvbiA9PSBndWFyZHMuQWN0aW9uLkJMT0NLOgogICAgICAgIHJldHVybiBKU09OUmVzcG9uc2UoZ3VhcmRzLmJsb2NrZWRfcmVzcG9uc2UoZ291dC5yZWFzb24sICJvdXRwdXQiKSkKICAgIGlmIGdvdXQuYWN0aW9uID09IGd1YXJkcy5BY3Rpb24uU0FOSVRJWkU6CiAgICAgICAgY29udGVudCA9IGdvdXQudGV4dAoKICAgICMgOCkg6Ieq5Yqo5byV55So77yIdjEuMO+8ie+8muaKiuWunumZheW8leeUqOWIsOeahOadpea6kOmZhOaIkOOAjOWPguiAg+adpea6kOOAjQogICAgY29udGVudCA9IGdyb3VuZGluZy5hcHBlbmRfc291cmNlcyhjb250ZW50LCBzb3VyY2VzKQoKICAgICMgOSkgQXJ0aWZhY3RzIOaKveWPlgogICAgY2xlYW5lZCwgYXJ0cyA9IGV4dHJhY3RfYXJ0aWZhY3RzKGNvbnRlbnQpCiAgICByZXNwID0gYXR0YWNoX3RvX3Jlc3BvbnNlKHJlc3AsIGFydHMsIGNsZWFuZWQpCgogICAgIyAxMCkg5YaZ5Zue6K+t5LmJ57yT5a2YICsg6Lev55Sx6KeC5rWLCiAgICBzYXZlci5zZW1hbnRpYy5zdG9yZShtZXNzYWdlcywgcmtleSwgcmVzcCwgc3RhdHMpCiAgICByZXNwWyJ4X3NoYW5nYW5fbWV0YSJdID0gewogICAgICAgICJyb3V0ZV9sZXZlbCI6IHJvdXRlLmxldmVsLAogICAgICAgICJleHBlcnRzIjogW2UuaWQgZm9yIGUgaW4gcm91dGUuZXhwZXJ0c10sCiAgICAgICAgImRpZmZpY3VsdHkiOiByb3V0ZS5kaWZmaWN1bHR5LAogICAgICAgICJtb2RlbCI6IG1vZGVsLAogICAgICAgICJwcmVmaXhfaGFzaCI6IHN0YXRzLnByZWZpeF9oYXNoLAogICAgICAgICJ0b29sX2NoYXJzX3NhdmVkIjogc3RhdHMudG9vbF9wYXlsb2FkX3NhdmVkX2NoYXJzLAogICAgICAgICJjdHhfY29tcHJlc3NlZCI6IGJvb2woc3RhdHMuY29udGV4dF9jb21wcmVzc2VkX2Zyb20pLAogICAgICAgICJzdG9ybV9ibG9ja2VkIjogc3RhdHMuc3Rvcm1fYmxvY2tlZCwKICAgICAgICAic291cmNlcyI6IGxlbihzb3VyY2VzKSwKICAgICAgICAic2VjdXJlZ3VhcmQiOiB7ImluIjogZ2luLmFjdGlvbi52YWx1ZSwgIm91dCI6IGdvdXQuYWN0aW9uLnZhbHVlLAogICAgICAgICAgICAgICAgICAgICAgICAiZGVncmFkZWQiOiBnaW4uZGVncmFkZWQgb3IgZ291dC5kZWdyYWRlZH0sCiAgICAgICAgImFydGlmYWN0cyI6IGxlbihhcnRzKSwKICAgIH0KICAgIHJldHVybiBKU09OUmVzcG9uc2UocmVzcCkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg5bel5YW35oyJ6ZyA5Yqg6L2955qE5Zue5aGr56uv54K577yITDIgTGF6eVRvb2xzIOmFjeWll++8jE9wZW5DbGF3IEFnZW50IOS8muiwg++8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCkBhcGkucG9zdCgiL3YyL3Rvb2xfc2VhcmNoIikKYXN5bmMgZGVmIHRvb2xfc2VhcmNoKHJlcXVlc3Q6IFJlcXVlc3QpIC0+IEpTT05SZXNwb25zZToKICAgIGJvZHkgPSBhd2FpdCByZXF1ZXN0Lmpzb24oKQogICAgcmV0dXJuIEpTT05SZXNwb25zZSh7InJlc3VsdHMiOiBzYXZlci5sYXp5LnNlYXJjaChib2R5LmdldCgia2V5d29yZHMiLCBbXSkpfSkKCgpAYXBpLnBvc3QoIi92Mi90b29sX2Rlc2NyaWJlIikKYXN5bmMgZGVmIHRvb2xfZGVzY3JpYmUocmVxdWVzdDogUmVxdWVzdCkgLT4gSlNPTlJlc3BvbnNlOgogICAgYm9keSA9IGF3YWl0IHJlcXVlc3QuanNvbigpCiAgICBzY2hlbWEgPSBzYXZlci5sYXp5LmRlc2NyaWJlKGJvZHkuZ2V0KCJuYW1lIiwgIiIpKQogICAgcmV0dXJuIEpTT05SZXNwb25zZShzY2hlbWEgb3IgeyJlcnJvciI6ICJub3QgZm91bmQifSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg5oyC6L295pa55byP77yI5Zyo5L2g546w5pyJIDo5MDAwIGFwcCDkuIrliqDkuIDooYzvvInvvJoKIyAgIGZyb20gc2hhbmdhbl9pbnRlZ3JhdGlvbi5waXBlbGluZSBpbXBvcnQgYXBpIGFzIHNoYW5nYW5fYXBpCiMgICBhcHAuaW5jbHVkZV9yb3V0ZXIoc2hhbmdhbl9hcGkpCiMg6Iul5bey5pyJ5ZCM5ZCNIC92MS9vcGVuYWkvY2hhdC9jb21wbGV0aW9uc++8jOaKiuaXpyBoYW5kbGVyIOaUueWQjeS4uuijuOi9rOWPke+8jAojIOeUsSBNT0RFTF9VUFNUUkVBTSDmjIflkJHlroPljbPlj6/vvIzml6DpnIDliKDpmaTml6fpgLvovpHjgIIKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwo=
+"""
+pipeline.py — 上安中台统一编排（:9000 FastAPI，中间件模式）
+
+它就是 spec 任务1 里「已有，需扩展」的那个端点：
+    POST /v1/openai/chat/completions
+对外保持 OpenAI 兼容（Kun 的 Provider 直接指过来，零改动）；
+对内把三样能力按顺序串起来：
+
+  收到请求
+    │
+    ├─ guard_input           v1.0 SecureGuard 入站：敏感词/PII → 拦截或脱敏
+    ├─ ExpertRouter.route    L1规则 → L2语义 → L3确认，注入 Skill System Prompt
+    ├─ SemanticCache.lookup  命中(同路由+相似>0.95) → 直接返回，不调模型
+    ├─ grounding.retrieve+inject  v1.0 RAG：检索切片+宪法规则，注入来源[S#]，要求引用
+    ├─ TokenSaver.pre        L3结果压缩 → L5上下文压缩 → L1前缀固化 → L2工具收起
+    ├─ infer()               调上游真实模型（MechDistill 7B / deepseek-v4-*）
+    ├─ guard_output          v1.0 SecureGuard 出站审核 → 拦截或脱敏（在抽 artifact 之前）
+    ├─ append_sources        v1.0 自动引用：实际引用的来源整理成「参考来源」
+    ├─ extract_artifacts     抽取 artifact 到扩展字段
+    ├─ SemanticCache.store   写回缓存
+    └─ 返回 OpenAI 兼容响应（+ x_shangan_artifacts）
+
+不修改 OpenClaw 源码：这一层独立进程，OpenClaw Gateway(:18789) 与 Kun 都把
+base_url 指到本服务即可。上游模型地址由 MODEL_UPSTREAM 指向「裸模型服务」，
+避免本端点自调用造成递归。
+"""
+from __future__ import annotations
+
+import os
+import time
+import uuid
+
+import httpx
+from fastapi import APIRouter, Request
+from fastapi.responses import JSONResponse
+
+from .artifacts import attach_to_response, extract_artifacts
+from .expert_router import ExpertRegistry, ExpertRouter
+from .token_saver import Deps, SaverStats, TokenSaver
+from . import guards
+from . import grounding
+
+# --------------------------------------------------------------------------- #
+# 配置（用环境变量，便于单机部署，无 Docker）
+# --------------------------------------------------------------------------- #
+MODEL_UPSTREAM = os.getenv("MODEL_UPSTREAM", "http://127.0.0.1:8001/v1")  # 裸模型服务
+SKILL_BASE = os.getenv("SKILL_BASE", "/data/standards_downloads/rag/experts")
+UPSTREAM_TIMEOUT = float(os.getenv("UPSTREAM_TIMEOUT", "120"))
+
+# 章节→模型 不在这里；这是平台问答路由。模型选择按难度分级（见下）。
+DIFFICULTY_MODEL = {
+    "easy":   os.getenv("MODEL_FLASH", "deepseek-v4-flash"),
+    "medium": os.getenv("MODEL_PRO",   "deepseek-v4-pro"),
+    "hard":   os.getenv("MODEL_EXPERT","mechanical-expert"),   # MechDistill 7B 深推
+}
+
+
+# --------------------------------------------------------------------------- #
+# 依赖装配：把你方真实的 bge-m3 / 向量库 / 摘要器接进来（这里给可替换占位）
+# --------------------------------------------------------------------------- #
+def build_deps() -> Deps:
+    # TODO: 替换为你方真实实现
+    #   embed = lambda t: bge_m3.encode(t).tolist()
+    #   semantic_cache_store = LanceDBTable("semantic_cache")
+    #   summarize = your_summarizer
+    #
+    # 同时把 v1.0 能力的回调接上（不接则安全降级）：
+    #   guards.SECUREGUARD_CHECK = lambda text, stage: secureguard_client.check(text, stage)
+    #   grounding.RAG_SEARCH     = lambda q, f: lancedb_rag.search(q, f)   # 22074切片+宪法+标准
+    #   mcp_server.RAG_SEARCH    = grounding.RAG_SEARCH                    # 知识MCP共用同一检索
+    #   mcp_server.EVA_TASKS     = eva_engine.handle
+    return Deps(embed=None, semantic_cache_store=None, summarize=None)
+
+
+deps = build_deps()
+saver = TokenSaver(deps)
+registry = ExpertRegistry(SKILL_BASE, embed=deps.embed).load()
+router_engine = ExpertRouter(registry, embed=deps.embed, llm_confirm=None)
+
+api = APIRouter()
+
+
+async def infer(model: str, request: dict, extra_headers: dict) -> dict:
+    """调上游裸模型，OpenAI 兼容。"""
+    payload = dict(request, model=model, stream=False)
+    async with httpx.AsyncClient(timeout=UPSTREAM_TIMEOUT) as client:
+        r = await client.post(
+            f"{MODEL_UPSTREAM}/chat/completions",
+            json=payload,
+            headers={"Content-Type": "application/json", "Authorization": "Bearer " + os.environ.get('DEEPSEEK_API_KEY', ''), **extra_headers},
+        )
+        r.raise_for_status()
+        return r.json()
+
+
+def _last_user(messages: list[dict]) -> str:
+    for m in reversed(messages):
+        if m.get("role") == "user":
+            return str(m.get("content", ""))
+    return ""
+
+
+@api.post("/v2/chat/completions")
+async def chat_completions(request: Request) -> JSONResponse:
+    body = await request.json()
+    conv_id = request.headers.get("X-Conversation-Id", "anon")
+    stats = SaverStats()
+    messages = body.get("messages", [])
+
+    # 0) SecureGuard 入站（v1.0）：敏感词/PII → 拦截或脱敏
+    messages, gin = guards.guard_input(messages)
+    if gin.action == guards.Action.BLOCK:
+        return JSONResponse(guards.blocked_response(gin.reason, "input"))
+
+    # 1) 专家路由 + Skill 注入（先于省 Token，因为注入会改变 system 段）
+    route = router_engine.route(_last_user(messages))
+    rkey = router_engine.route_key(route)
+    if route.injected_system:
+        messages = [{"role": "system", "content": route.injected_system}] + [
+            m for m in messages if m.get("role") != "system"
+        ]
+
+    # 2) 语义缓存命中？（同路由 + 相似度>0.95）。命中即省掉检索与推理
+    cached = saver.semantic.lookup(messages, rkey, stats)
+    if cached is not None:
+        cached = dict(cached); cached["x_shangan_cache"] = "hit"
+        return JSONResponse(cached)
+
+    # 3) RAG grounding（v1.0）：检索切片+宪法规则 → 注入来源[S#]，要求按编号引用
+    sources = grounding.retrieve(_last_user(messages), [e.id for e in route.experts])
+    messages = grounding.inject(messages, sources)
+    body = dict(body, messages=messages)
+
+    # 4) 省 Token 预处理（L3/L5/L1/L2）
+    body = saver.pre(body, stats)
+
+    # 5) 难度分级 → 选模型（Kimi 渐进推理：简单走 flash，难走深推）
+    _sel = body.get("model")
+    model = _sel if _sel and _sel != "builtin" else DIFFICULTY_MODEL.get(route.difficulty, DIFFICULTY_MODEL["medium"])
+
+    # 6) 调上游模型
+    headers = saver.prefix.upstream_headers(stats)
+    try:
+        resp = await infer(model, body, headers)
+    except httpx.HTTPError as e:
+        return JSONResponse(
+            {"error": {"message": f"upstream model error: {e}", "type": "upstream_error"}},
+            status_code=502,
+        )
+
+    # 7) SecureGuard 出站审核（v1.0）：在抽 artifact 之前，确保 artifact 也来自合规文本
+    content = resp.get("choices", [{}])[0].get("message", {}).get("content", "") or ""
+    gout = guards.guard_output(content)
+    if gout.action == guards.Action.BLOCK:
+        return JSONResponse(guards.blocked_response(gout.reason, "output"))
+    if gout.action == guards.Action.SANITIZE:
+        content = gout.text
+
+    # 8) 自动引用（v1.0）：把实际引用到的来源附成「参考来源」
+    content = grounding.append_sources(content, sources)
+
+    # 9) Artifacts 抽取
+    cleaned, arts = extract_artifacts(content)
+    resp = attach_to_response(resp, arts, cleaned)
+
+    # 10) 写回语义缓存 + 路由观测
+    saver.semantic.store(messages, rkey, resp, stats)
+    resp["x_shangan_meta"] = {
+        "route_level": route.level,
+        "experts": [e.id for e in route.experts],
+        "difficulty": route.difficulty,
+        "model": model,
+        "prefix_hash": stats.prefix_hash,
+        "tool_chars_saved": stats.tool_payload_saved_chars,
+        "ctx_compressed": bool(stats.context_compressed_from),
+        "storm_blocked": stats.storm_blocked,
+        "sources": len(sources),
+        "secureguard": {"in": gin.action.value, "out": gout.action.value,
+                        "degraded": gin.degraded or gout.degraded},
+        "artifacts": len(arts),
+    }
+    return JSONResponse(resp)
+
+
+# --------------------------------------------------------------------------- #
+# 工具按需加载的回填端点（L2 LazyTools 配套，OpenClaw Agent 会调）
+# --------------------------------------------------------------------------- #
+@api.post("/v2/tool_search")
+async def tool_search(request: Request) -> JSONResponse:
+    body = await request.json()
+    return JSONResponse({"results": saver.lazy.search(body.get("keywords", []))})
+
+
+@api.post("/v2/tool_describe")
+async def tool_describe(request: Request) -> JSONResponse:
+    body = await request.json()
+    schema = saver.lazy.describe(body.get("name", ""))
+    return JSONResponse(schema or {"error": "not found"})
+
+
+# --------------------------------------------------------------------------- #
+# 挂载方式（在你现有 :9000 app 上加一行）：
+#   from shangan_integration.pipeline import api as shangan_api
+#   app.include_router(shangan_api)
+# 若已有同名 /v1/openai/chat/completions，把旧 handler 改名为裸转发，
+# 由 MODEL_UPSTREAM 指向它即可，无需删除旧逻辑。
+# --------------------------------------------------------------------------- #

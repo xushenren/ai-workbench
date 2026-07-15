@@ -1,1 +1,54 @@
-IyDlip/og73pqozor4HnlKjkvos65q+P5p2hID0gKOWQjeensCwg5pa55rOVLCDot6/lvoQsIOivt+axguS9kywg5Yik5a6a5Ye95pWwKeOAgmp1ZGdlKHN0YXR1cywganNvbiktPihvaywgbXNnKeOAggojIOecn+iwg+aOpeWPo+OAgeeci+ecn+Wunui/lOWbnizmipMi5rKh5a6e546wL+Wdj+S6hi/oo4XkuIDljYoi44CC5Y+q6K+75oiW5Y+v5Zue5rua55qE5pON5L2c5LyY5YWIO+WGmeaTjeS9nOeUqOa1i+ivleWJjee8gOaVsOaNruOAggoKZGVmIG9rMnh4KHMsIGopOiByZXR1cm4gKDIwMCA8PSBzIDwgMzAwLCBmIkhUVFAge3N9IikKCmRlZiBoYXNfa2V5cygqa3MpOgogICAgZGVmIGYocywgaik6CiAgICAgICAgaWYgbm90ICgyMDAgPD0gcyA8IDMwMCk6IHJldHVybiAoRmFsc2UsIGYiSFRUUCB7c30iKQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGosIChkaWN0LCBsaXN0KSk6IHJldHVybiAoRmFsc2UsICLov5Tlm57pnZ5KU09OIikKICAgICAgICBkID0galswXSBpZiBpc2luc3RhbmNlKGosIGxpc3QpIGFuZCBqIGVsc2UgagogICAgICAgIG1pc3MgPSBbayBmb3IgayBpbiBrcyBpZiBpc2luc3RhbmNlKGQsIGRpY3QpIGFuZCBrIG5vdCBpbiBkXQogICAgICAgIHJldHVybiAobm90IG1pc3MsICLnvLrlrZfmrrU6IiArICIsIi5qb2luKG1pc3MpIGlmIG1pc3MgZWxzZSAib2siKQogICAgcmV0dXJuIGYKCmRlZiBpc19saXN0KHMsIGopOiByZXR1cm4gKDIwMCA8PSBzIDwgMzAwIGFuZCBpc2luc3RhbmNlKGosIGxpc3QpLCAi5bqU6L+U5Zue5YiX6KGoIiBpZiBub3QgaXNpbnN0YW5jZShqLCBsaXN0KSBlbHNlICJvayIpCgojIOavj+adoTpuYW1lLCBtZXRob2QsIHBhdGgsIGJvZHkoZGljdOaIlk5vbmUpLCBqdWRnZSwgW25lZWRfYWRtaW5dCkNIRUNLUyA9IFsKICAjIC0tLSDln7rnoYAv5YGl5bq3IC0tLQogICgi5YGl5bq35qOA5p+lIiwgIkdFVCIsICIvaGVhbHRoIiwgTm9uZSwgb2syeHgsIEZhbHNlKSwKICAoIuW9k+WJjeeUqOaItyIsICJHRVQiLCAiL3YxL21lIiwgTm9uZSwgb2syeHgsIEZhbHNlKSwKCiAgIyAtLS0g55+l6K+G5bqTIC0tLQogICgi55+l6K+G5bqT5YiX6KGoIiwgIkdFVCIsICIvdjEva25vd2xlZGdlIiwgTm9uZSwgb2syeHgsIEZhbHNlKSwKICAoIuW7uuefpeivhuW6kyIsICJQT1NUIiwgIi92MS9rYi9jcmVhdGUiLCB7Im5hbWUiOiJfX+mqjOivgeW6k19fIiwidmlzaWJpbGl0eSI6InByaXZhdGUifSwgaGFzX2tleXMoImlkIiksIEZhbHNlKSwKICAoIuefpeivhuW6k+ajgOe0oiIsICJQT1NUIiwgIi92MS9rYi9zZWFyY2giLCB7InF1ZXJ5Ijoi5rWL6K+VIiwiayI6M30sIGhhc19rZXlzKCJyZXN1bHRzIiksIEZhbHNlKSwKICAoIuWFpeW6k+mFjee9ruivu+WPliIsICJHRVQiLCAiL3YxL2tiL2luZ2VzdC1jb25maWciLCBOb25lLCBvazJ4eCwgVHJ1ZSksCiAgKCLop6PmnpDlmajmmKDlsITooagiLCAiR0VUIiwgIi92MS9rYi9wYXJzZXJzIiwgTm9uZSwgaXNfbGlzdCwgVHJ1ZSksCiAgKCLlrZfmrrXnsbvlnovlu7rorq4iLCAiUE9TVCIsICIvdjEva2IvZmllbGRzL3N1Z2dlc3QiLCB7Im5hbWUiOiLmmK/lkKbpmLLngasifSwgaGFzX2tleXMoInN1Z2dlc3RlZF90eXBlIiksIEZhbHNlKSwKCiAgIyAtLS0g5pm66IO95L2TIC0tLQogICgi5pm66IO95L2T5YiX6KGoIiwgIkdFVCIsICIvdjEvYWdlbnRzIiwgTm9uZSwgb2syeHgsIEZhbHNlKSwKCiAgIyAtLS0g5qih5Z6L566h55CGIC0tLQogICgi5qih5Z6L5YiX6KGoIiwgIkdFVCIsICIvdjEvbW9kZWxzL2FsbCIsIE5vbmUsIGlzX2xpc3QsIFRydWUpLAogICgi5qih5Z6L5Y6C5ZWG6aKE6K6+IiwgIkdFVCIsICIvdjEvbW9kZWxzL3Byb3ZpZGVycyIsIE5vbmUsIG9rMnh4LCBUcnVlKSwKCiAgIyAtLS0g55m95qCHIC0tLQogICgi55m95qCH6K+75Y+WIiwgIkdFVCIsICIvdjEvYnJhbmRpbmciLCBOb25lLCBoYXNfa2V5cygicGxhdGZvcm1fbmFtZSIpLCBGYWxzZSksCgogICMgLS0tIOeUqOaIty/nu4Tnu4cgLS0tCiAgKCLnlKjmiLflr7zlhaXmqKHmnb8iLCAiR0VUIiwgIi92MS91c2Vycy9pbXBvcnQvdGVtcGxhdGUiLCBOb25lLCBvazJ4eCwgVHJ1ZSksCiAgKCLnu4Tnu4fmoJEiLCAiR0VUIiwgIi92MS9vcmcvdHJlZSIsIE5vbmUsIG9rMnh4LCBUcnVlKSwKICAoIue7hOe7h+S6uuWRmCIsICJHRVQiLCAiL3YxL29yZy91c2VycyIsIE5vbmUsIGlzX2xpc3QsIFRydWUpLAogICgi57uE57uH5bKX5L2NIiwgIkdFVCIsICIvdjEvb3JnL3JvbGVzIiwgTm9uZSwgaXNfbGlzdCwgVHJ1ZSksCiAgKCLmnYPpmZDkvY3muIXljZUiLCAiR0VUIiwgIi92MS9vcmcvcGVybXMiLCBOb25lLCBpc19saXN0LCBUcnVlKSwKICAoIue7hOe7h+WvvOWFpeaooeadvyIsICJHRVQiLCAiL3YxL29yZy9pbXBvcnQvdGVtcGxhdGUiLCBOb25lLCBvazJ4eCwgVHJ1ZSksCgogICMgLS0tIOWtmOWCqC/mkKzov4EgLS0tCiAgKCLmlbTnq5nlr7zlh7oiLCAiUE9TVCIsICIvdjEvYWRtaW4vc2l0ZS9leHBvcnQiLCBOb25lLCBvazJ4eCwgVHJ1ZSksCgogICMgLS0tIENvemUg6J6N5YWlIC0tLQogICgiQ296ZSBTU08iLCAiUE9TVCIsICIvdjEvY296ZS9zc28iLCBOb25lLCBvazJ4eCwgRmFsc2UpLApdCg==
+# 功能验证用例:每条 = (名称, 方法, 路径, 请求体, 判定函数)。judge(status, json)->(ok, msg)。
+# 真调接口、看真实返回,抓"没实现/坏了/装一半"。只读或可回滚的操作优先;写操作用测试前缀数据。
+
+def ok2xx(s, j): return (200 <= s < 300, f"HTTP {s}")
+
+def has_keys(*ks):
+    def f(s, j):
+        if not (200 <= s < 300): return (False, f"HTTP {s}")
+        if not isinstance(j, (dict, list)): return (False, "返回非JSON")
+        d = j[0] if isinstance(j, list) and j else j
+        miss = [k for k in ks if isinstance(d, dict) and k not in d]
+        return (not miss, "缺字段:" + ",".join(miss) if miss else "ok")
+    return f
+
+def is_list(s, j): return (200 <= s < 300 and isinstance(j, list), "应返回列表" if not isinstance(j, list) else "ok")
+
+# 每条:name, method, path, body(dict或None), judge, [need_admin]
+CHECKS = [
+  # --- 基础/健康 ---
+  ("健康检查", "GET", "/health", None, ok2xx, False),
+  ("当前用户", "GET", "/v1/me", None, ok2xx, False),
+
+  # --- 知识库 ---
+  ("知识库列表", "GET", "/v1/knowledge", None, ok2xx, False),
+  ("建知识库", "POST", "/v1/kb/create", {"name":"__验证库__","visibility":"private"}, has_keys("id"), False),
+  ("知识库检索", "POST", "/v1/kb/search", {"query":"测试","k":3}, has_keys("results"), False),
+  ("入库配置读取", "GET", "/v1/kb/ingest-config", None, ok2xx, True),
+  ("解析器映射表", "GET", "/v1/kb/parsers", None, is_list, True),
+  ("字段类型建议", "POST", "/v1/kb/fields/suggest", {"name":"是否防火"}, has_keys("suggested_type"), False),
+
+  # --- 智能体 ---
+  ("智能体列表", "GET", "/v1/agents", None, ok2xx, False),
+
+  # --- 模型管理 ---
+  ("模型列表", "GET", "/v1/models/all", None, is_list, True),
+  ("模型厂商预设", "GET", "/v1/models/providers", None, ok2xx, True),
+
+  # --- 白标 ---
+  ("白标读取", "GET", "/v1/branding", None, has_keys("platform_name"), False),
+
+  # --- 用户/组织 ---
+  ("用户导入模板", "GET", "/v1/users/import/template", None, ok2xx, True),
+  ("组织树", "GET", "/v1/org/tree", None, ok2xx, True),
+  ("组织人员", "GET", "/v1/org/users", None, is_list, True),
+  ("组织岗位", "GET", "/v1/org/roles", None, is_list, True),
+  ("权限位清单", "GET", "/v1/org/perms", None, is_list, True),
+  ("组织导入模板", "GET", "/v1/org/import/template", None, ok2xx, True),
+
+  # --- 存储/搬迁 ---
+  ("整站导出", "POST", "/v1/admin/site/export", None, ok2xx, True),
+
+  # --- Coze 融入 ---
+  ("Coze SSO", "POST", "/v1/coze/sso", None, ok2xx, False),
+]

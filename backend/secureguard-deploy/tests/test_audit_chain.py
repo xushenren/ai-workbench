@@ -1,1 +1,92 @@
-IiIidGVzdHMvdGVzdF9hdWRpdF9jaGFpbi5weSDigJQgRDUg5a6h6K6h5ZOI5biM6ZO+5Y2V5rWL44CCIiIiCmltcG9ydCBzeXMsIG9zLCBqc29uLCB0ZW1wZmlsZSwgc2h1dGlsCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKCmZyb20gc2VjdXJlZ3VhcmQubDRfYXVkaXQgaW1wb3J0IEF1ZGl0TG9nZ2VyLCBBdWRpdEVudHJ5LCBHRU5FU0lTX0hBU0gKZnJvbSBzZWN1cmVndWFyZC5hdWRpdF9yb3RhdGlvbiBpbXBvcnQgUm90YXRpbmdBdWRpdExvZ2dlcgoKCmRlZiB0ZXN0X25vcm1hbF9jaGFpbl92ZXJpZmllcygpOgogICAgYSA9IEF1ZGl0TG9nZ2VyKCkKICAgIGZvciBpIGluIHJhbmdlKDUpOgogICAgICAgIGEubG9nX3N0YWdlKHN0YWdlPSJMMSIsIGRlY2lzaW9uPSJQQVNTIiwgcmVhc29uPWYic3RlcHtpfSIpCiAgICByZXMgPSBhLnZlcmlmeV9jaGFpbigpCiAgICBhc3NlcnQgcmVzWyJvayJdIGFuZCByZXNbImxlbmd0aCJdID09IDUKICAgICMg6aaW5p2hIHByZXZfaGFzaCDkuLogZ2VuZXNpcwogICAgYXNzZXJ0IGEuZW50cmllc1swXS5wcmV2X2hhc2ggPT0gR0VORVNJU19IQVNICgoKZGVmIHRlc3RfZWFjaF9lbnRyeV9saW5rc190b19wcmV2aW91cygpOgogICAgYSA9IEF1ZGl0TG9nZ2VyKCkKICAgIGUxID0gYS5sb2dfc3RhZ2Uoc3RhZ2U9IkwwIiwgZGVjaXNpb249IlBBU1MiKQogICAgZTIgPSBhLmxvZ19zdGFnZShzdGFnZT0iTDEiLCBkZWNpc2lvbj0iUEFTUyIpCiAgICBhc3NlcnQgZTIucHJldl9oYXNoID09IGUxLmVudHJ5X2hhc2ggICMg6ZO+5o6l5q2j56GuCgoKZGVmIHRlc3RfdGFtcGVyX2RldGVjdGVkKCk6CiAgICBhID0gQXVkaXRMb2dnZXIoKQogICAgZm9yIGkgaW4gcmFuZ2UoNSk6CiAgICAgICAgYS5sb2dfc3RhZ2Uoc3RhZ2U9IkwxIiwgZGVjaXNpb249IlBBU1MiLCByZWFzb249ZiJzdGVwe2l9IikKICAgICMg56+h5pS55Lit6Ze05LiA5p2h55qE5YaF5a6577yIcmVhc29u77yJ77yM5L2G5LiN6YeN566X5ZOI5biMIOKGkiDlv4Xpobvooqvmo4Dlh7oKICAgIGEuZW50cmllc1syXS5yZWFzb24gPSAiVEFNUEVSRUQiCiAgICByZXMgPSBhLnZlcmlmeV9jaGFpbigpCiAgICBhc3NlcnQgcmVzWyJvayJdIGlzIEZhbHNlIGFuZCByZXNbImJyb2tlbl9hdCJdID09IDIKCgpkZWYgdGVzdF9yZWxpbmtfdGFtcGVyX2Fsc29fZGV0ZWN0ZWQoKToKICAgICMg5Y2z5L6/5pS75Ye76ICF6YeN566X5LqG6KKr5pS55p2h55uu55qEIGVudHJ5X2hhc2jvvIzlkI7kuIDmnaHnmoQgcHJldl9oYXNoIOS7jeWvueS4jeS4iiDihpIg5pat6ZO+CiAgICBhID0gQXVkaXRMb2dnZXIoKQogICAgZm9yIGkgaW4gcmFuZ2UoNCk6CiAgICAgICAgYS5sb2dfc3RhZ2Uoc3RhZ2U9IkwxIiwgZGVjaXNpb249IlBBU1MiLCByZWFzb249ZiJze2l9IikKICAgIGEuZW50cmllc1sxXS5yZWFzb24gPSAiRVZJTCIKICAgIGEuZW50cmllc1sxXS5lbnRyeV9oYXNoID0gYS5lbnRyaWVzWzFdLmNvbXB1dGVfaGFzaCgpICAjIOmHjeeul+iHqui6qwogICAgcmVzID0gYS52ZXJpZnlfY2hhaW4oKQogICAgYXNzZXJ0IHJlc1sib2siXSBpcyBGYWxzZSBhbmQgcmVzWyJicm9rZW5fYXQiXSA9PSAyICAjIOS4i+S4gOadoemTvuaOpeaWreijggoKCmRlZiB0ZXN0X2Nyb3NzX2ZpbGVfY2hhaW5fYWZ0ZXJfcm90YXRpb24oKToKICAgIGQgPSB0ZW1wZmlsZS5ta2R0ZW1wKCkKICAgIHBhdGggPSBvcy5wYXRoLmpvaW4oZCwgImF1ZGl0Lmpzb25sIikKICAgICMgYmFja3VwX2NvdW50IOiwg+Wkp+S7peS/neeVmeWFqOmTvu+8iOWQqyBnZW5lc2lzIOWIhuWNt++8ie+8jOS+v+S6juS7juWktOagoemqjAogICAgbG9nID0gUm90YXRpbmdBdWRpdExvZ2dlcihwYXRoLCBtYXhfYnl0ZXM9NDAwLCBiYWNrdXBfY291bnQ9NTAsIHJldGVudGlvbl9kYXlzPU5vbmUpCiAgICBmb3IgaSBpbiByYW5nZSg0MCk6CiAgICAgICAgbG9nLmxvZyhBdWRpdEVudHJ5KHN0YWdlPSJMNCIsIGRlY2lzaW9uPSJQQVNTIiwgcmVhc29uPSJ4IiAqIDE1KSkKICAgIGFzc2VydCBvcy5wYXRoLmV4aXN0cyhwYXRoICsgIi4xIikgICMg56Gu5a6e6L2u6L2s5LqGCiAgICAjIOaMieaXtumXtOmhuuW6j++8muacgOaXp+WIhuWNtyjmnIDlpKfluo/lj7cpIOKGkiDigKYg4oaSIOW9k+WJjeaWh+S7tgogICAgaW1wb3J0IGdsb2IKICAgIHJvdGF0ZWQgPSBzb3J0ZWQoZ2xvYi5nbG9iKHBhdGggKyAiLioiKSwKICAgICAgICAgICAgICAgICAgICAga2V5PWxhbWJkYSBwOiBpbnQocC5yc3BsaXQoIi4iLCAxKVsxXSksIHJldmVyc2U9VHJ1ZSkKICAgIG9yZGVyZWQgPSByb3RhdGVkICsgW3BhdGhdCiAgICByZXMgPSBBdWRpdExvZ2dlci52ZXJpZnlfZmlsZXMob3JkZXJlZCkKICAgIGFzc2VydCByZXNbIm9rIl0sIHJlcwogICAgc2h1dGlsLnJtdHJlZShkKQoKCmRlZiB0ZXN0X3BydW5lZF9jaGFpbl92ZXJpZmllc19zdXJ2aXZvcl9zZWdtZW50KCk6CiAgICAjIOS/neeVmeetlueVpeijgeaOieacgOaXqeWIhuWNt+WQju+8jOW5uOWtmOS4reauteS7jeW6lOWGhemDqOi/nue7re+8iHJlcXVpcmVfZ2VuZXNpcz1GYWxzZe+8iQogICAgZCA9IHRlbXBmaWxlLm1rZHRlbXAoKQogICAgcGF0aCA9IG9zLnBhdGguam9pbihkLCAiYXVkaXQuanNvbmwiKQogICAgbG9nID0gUm90YXRpbmdBdWRpdExvZ2dlcihwYXRoLCBtYXhfYnl0ZXM9NDAwLCBiYWNrdXBfY291bnQ9MywgcmV0ZW50aW9uX2RheXM9Tm9uZSkKICAgIGZvciBpIGluIHJhbmdlKDQwKToKICAgICAgICBsb2cubG9nKEF1ZGl0RW50cnkoc3RhZ2U9Ikw0IiwgZGVjaXNpb249IlBBU1MiLCByZWFzb249InkiICogMTUpKQogICAgaW1wb3J0IGdsb2IKICAgIHJvdGF0ZWQgPSBzb3J0ZWQoZ2xvYi5nbG9iKHBhdGggKyAiLioiKSwKICAgICAgICAgICAgICAgICAgICAga2V5PWxhbWJkYSBwOiBpbnQocC5yc3BsaXQoIi4iLCAxKVsxXSksIHJldmVyc2U9VHJ1ZSkKICAgIHJlcyA9IEF1ZGl0TG9nZ2VyLnZlcmlmeV9maWxlcyhyb3RhdGVkICsgW3BhdGhdLCByZXF1aXJlX2dlbmVzaXM9RmFsc2UpCiAgICBhc3NlcnQgcmVzWyJvayJdLCByZXMKICAgIHNodXRpbC5ybXRyZWUoZCkKCgpkZWYgdGVzdF9nZW5lc2lzX3Jlc3RvcmVkX2Fjcm9zc19sb2dnZXJfcmVzdGFydCgpOgogICAgZCA9IHRlbXBmaWxlLm1rZHRlbXAoKQogICAgcGF0aCA9IG9zLnBhdGguam9pbihkLCAiYXVkaXQuanNvbmwiKQogICAgYTEgPSBBdWRpdExvZ2dlcihwYXRoPXBhdGgpCiAgICBhMS5sb2dfc3RhZ2Uoc3RhZ2U9IkwwIiwgZGVjaXNpb249IlBBU1MiKQogICAgbGFzdCA9IGExLmVudHJpZXNbLTFdLmVudHJ5X2hhc2gKICAgICMg5pawIGxvZ2dlciDlrp7kvovmiZPlvIDlkIzkuIDmlofku7bvvIzlupTku47mnKvooYzmgaLlpI3pk77lpLQKICAgIGEyID0gQXVkaXRMb2dnZXIocGF0aD1wYXRoKQogICAgZSA9IGEyLmxvZ19zdGFnZShzdGFnZT0iTDEiLCBkZWNpc2lvbj0iUEFTUyIpCiAgICBhc3NlcnQgZS5wcmV2X2hhc2ggPT0gbGFzdCAgIyDot6jph43lkK/pk77ov57nu60KICAgIHJlcyA9IEF1ZGl0TG9nZ2VyLnZlcmlmeV9maWxlcyhbcGF0aF0pCiAgICBhc3NlcnQgcmVzWyJvayJdCiAgICBzaHV0aWwucm10cmVlKGQpCg==
+"""tests/test_audit_chain.py — D5 审计哈希链单测。"""
+import sys, os, json, tempfile, shutil
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.l4_audit import AuditLogger, AuditEntry, GENESIS_HASH
+from secureguard.audit_rotation import RotatingAuditLogger
+
+
+def test_normal_chain_verifies():
+    a = AuditLogger()
+    for i in range(5):
+        a.log_stage(stage="L1", decision="PASS", reason=f"step{i}")
+    res = a.verify_chain()
+    assert res["ok"] and res["length"] == 5
+    # 首条 prev_hash 为 genesis
+    assert a.entries[0].prev_hash == GENESIS_HASH
+
+
+def test_each_entry_links_to_previous():
+    a = AuditLogger()
+    e1 = a.log_stage(stage="L0", decision="PASS")
+    e2 = a.log_stage(stage="L1", decision="PASS")
+    assert e2.prev_hash == e1.entry_hash  # 链接正确
+
+
+def test_tamper_detected():
+    a = AuditLogger()
+    for i in range(5):
+        a.log_stage(stage="L1", decision="PASS", reason=f"step{i}")
+    # 篡改中间一条的内容（reason），但不重算哈希 → 必须被检出
+    a.entries[2].reason = "TAMPERED"
+    res = a.verify_chain()
+    assert res["ok"] is False and res["broken_at"] == 2
+
+
+def test_relink_tamper_also_detected():
+    # 即便攻击者重算了被改条目的 entry_hash，后一条的 prev_hash 仍对不上 → 断链
+    a = AuditLogger()
+    for i in range(4):
+        a.log_stage(stage="L1", decision="PASS", reason=f"s{i}")
+    a.entries[1].reason = "EVIL"
+    a.entries[1].entry_hash = a.entries[1].compute_hash()  # 重算自身
+    res = a.verify_chain()
+    assert res["ok"] is False and res["broken_at"] == 2  # 下一条链接断裂
+
+
+def test_cross_file_chain_after_rotation():
+    d = tempfile.mkdtemp()
+    path = os.path.join(d, "audit.jsonl")
+    # backup_count 调大以保留全链（含 genesis 分卷），便于从头校验
+    log = RotatingAuditLogger(path, max_bytes=400, backup_count=50, retention_days=None)
+    for i in range(40):
+        log.log(AuditEntry(stage="L4", decision="PASS", reason="x" * 15))
+    assert os.path.exists(path + ".1")  # 确实轮转了
+    # 按时间顺序：最旧分卷(最大序号) → … → 当前文件
+    import glob
+    rotated = sorted(glob.glob(path + ".*"),
+                     key=lambda p: int(p.rsplit(".", 1)[1]), reverse=True)
+    ordered = rotated + [path]
+    res = AuditLogger.verify_files(ordered)
+    assert res["ok"], res
+    shutil.rmtree(d)
+
+
+def test_pruned_chain_verifies_survivor_segment():
+    # 保留策略裁掉最早分卷后，幸存中段仍应内部连续（require_genesis=False）
+    d = tempfile.mkdtemp()
+    path = os.path.join(d, "audit.jsonl")
+    log = RotatingAuditLogger(path, max_bytes=400, backup_count=3, retention_days=None)
+    for i in range(40):
+        log.log(AuditEntry(stage="L4", decision="PASS", reason="y" * 15))
+    import glob
+    rotated = sorted(glob.glob(path + ".*"),
+                     key=lambda p: int(p.rsplit(".", 1)[1]), reverse=True)
+    res = AuditLogger.verify_files(rotated + [path], require_genesis=False)
+    assert res["ok"], res
+    shutil.rmtree(d)
+
+
+def test_genesis_restored_across_logger_restart():
+    d = tempfile.mkdtemp()
+    path = os.path.join(d, "audit.jsonl")
+    a1 = AuditLogger(path=path)
+    a1.log_stage(stage="L0", decision="PASS")
+    last = a1.entries[-1].entry_hash
+    # 新 logger 实例打开同一文件，应从末行恢复链头
+    a2 = AuditLogger(path=path)
+    e = a2.log_stage(stage="L1", decision="PASS")
+    assert e.prev_hash == last  # 跨重启链连续
+    res = AuditLogger.verify_files([path])
+    assert res["ok"]
+    shutil.rmtree(d)

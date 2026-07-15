@@ -1,1 +1,67 @@
-IiIidGVzdHMvdGVzdF9wcm94eV9hbmRfcm90YXRpb24ucHkg4oCUIGZhaWwtY2xvc2VkIOS7o+eQhiArIOWuoeiuoei9rui9rOWNlea1i+OAgiIiIgppbXBvcnQgc3lzLCBvcywgYXN5bmNpbywgdGVtcGZpbGUsIHNodXRpbApzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCgpmcm9tIHNlY3VyZWd1YXJkLnNhZmV0eV9wcm94eSBpbXBvcnQgU2FmZXR5UHJveHksIFByb3h5Q29uZmlnCmZyb20gc2VjdXJlZ3VhcmQuYXVkaXRfcm90YXRpb24gaW1wb3J0IFJvdGF0aW5nQXVkaXRMb2dnZXIKZnJvbSBzZWN1cmVndWFyZC5sNF9hdWRpdCBpbXBvcnQgQXVkaXRFbnRyeQoKCmNsYXNzIF9Hb29kT3JjaDoKICAgIGFzeW5jIGRlZiBwcm9jZXNzKHNlbGYsICphLCAqKmspOgogICAgICAgIHJldHVybiB7ImJsb2NrZWQiOiBGYWxzZSwgImFuc3dlciI6ICJvayJ9CgoKY2xhc3MgX0Jvb21PcmNoOgogICAgYXN5bmMgZGVmIHByb2Nlc3Moc2VsZiwgKmEsICoqayk6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJndWFyZCBleHBsb2RlZCIpCgoKY2xhc3MgX1Nsb3dPcmNoOgogICAgYXN5bmMgZGVmIHByb2Nlc3Moc2VsZiwgKmEsICoqayk6CiAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxLjApCiAgICAgICAgcmV0dXJuIHsiYmxvY2tlZCI6IEZhbHNlfQoKCmRlZiB0ZXN0X2ZhaWxfY2xvc2VkX2Jsb2Nrc19vbl9lcnJvcigpOgogICAgcCA9IFNhZmV0eVByb3h5KF9Cb29tT3JjaCgpLCBQcm94eUNvbmZpZyhmYWlsX3BvbGljeT0iY2xvc2VkIikpCiAgICByZXMgPSBhc3luY2lvLnJ1bihwLnByb2Nlc3MoImhpIikpCiAgICBhc3NlcnQgcmVzWyJibG9ja2VkIl0gaXMgVHJ1ZSBhbmQgcmVzWyJkZWdyYWRlZCJdIGlzIFRydWUKCgpkZWYgdGVzdF9mYWlsX29wZW5fcGFzc2VzX29uX2Vycm9yX3doZW5fZXhwbGljaXQoKToKICAgIHAgPSBTYWZldHlQcm94eShfQm9vbU9yY2goKSwgUHJveHlDb25maWcoZmFpbF9wb2xpY3k9Im9wZW4iKSkKICAgIHJlcyA9IGFzeW5jaW8ucnVuKHAucHJvY2VzcygiaGkiKSkKICAgIGFzc2VydCByZXNbImJsb2NrZWQiXSBpcyBGYWxzZSBhbmQgcmVzWyJkZWdyYWRlZCJdIGlzIFRydWUKCgpkZWYgdGVzdF90aW1lb3V0X2ZhaWxzX2Nsb3NlZCgpOgogICAgcCA9IFNhZmV0eVByb3h5KF9TbG93T3JjaCgpLCBQcm94eUNvbmZpZyh0aW1lb3V0X3M9MC4wNSwgZmFpbF9wb2xpY3k9ImNsb3NlZCIpKQogICAgcmVzID0gYXN5bmNpby5ydW4ocC5wcm9jZXNzKCJoaSIpKQogICAgYXNzZXJ0IHJlc1siYmxvY2tlZCJdIGlzIFRydWUgYW5kIHJlc1sic3RhZ2UiXSA9PSAidGltZW91dCIKCgpkZWYgdGVzdF9jaXJjdWl0X2JyZWFrZXJfb3BlbnNfYWZ0ZXJfdGhyZXNob2xkKCk6CiAgICBwID0gU2FmZXR5UHJveHkoX0Jvb21PcmNoKCksIFByb3h5Q29uZmlnKGJyZWFrZXJfdGhyZXNob2xkPTMsIGJyZWFrZXJfY29vbGRvd25fcz05OTkpKQogICAgZm9yIF8gaW4gcmFuZ2UoMyk6CiAgICAgICAgYXN5bmNpby5ydW4ocC5wcm9jZXNzKCJoaSIpKQogICAgIyDnrKwgNCDmrKHlupTooqvmlq3ot6/lmajnn63ot68KICAgIHJlcyA9IGFzeW5jaW8ucnVuKHAucHJvY2VzcygiaGkiKSkKICAgIGFzc2VydCByZXNbInN0YWdlIl0gPT0gImJyZWFrZXJfb3BlbiIKCgpkZWYgdGVzdF9icmVha2VyX3JlY292ZXJzX29uX3N1Y2Nlc3MoKToKICAgIHAgPSBTYWZldHlQcm94eShfR29vZE9yY2goKSwgUHJveHlDb25maWcoKSkKICAgIHJlcyA9IGFzeW5jaW8ucnVuKHAucHJvY2VzcygiaGkiKSkKICAgIGFzc2VydCByZXNbImJsb2NrZWQiXSBpcyBGYWxzZSBhbmQgcC5icmVha2VyLnN0YXRlID09ICJjbG9zZWQiCgoKZGVmIHRlc3RfYXVkaXRfcm90YXRpb25fYnlfc2l6ZSgpOgogICAgZCA9IHRlbXBmaWxlLm1rZHRlbXAoKQogICAgcGF0aCA9IG9zLnBhdGguam9pbihkLCAiYXVkaXQuanNvbmwiKQogICAgbG9nID0gUm90YXRpbmdBdWRpdExvZ2dlcihwYXRoLCBtYXhfYnl0ZXM9MzAwLCBiYWNrdXBfY291bnQ9MywgcmV0ZW50aW9uX2RheXM9Tm9uZSkKICAgIGZvciBpIGluIHJhbmdlKDUwKToKICAgICAgICBsb2cubG9nKEF1ZGl0RW50cnkoc3RhZ2U9Ikw0IiwgZGVjaXNpb249IlBBU1MiLCByZWFzb249IngiICogMjApKQogICAgIyDlupTkuqfnlJ/oh7PlsJHkuIDkuKrova7ovazliIbljbcKICAgIGFzc2VydCBvcy5wYXRoLmV4aXN0cyhwYXRoICsgIi4xIikKICAgIHNodXRpbC5ybXRyZWUoZCkK
+"""tests/test_proxy_and_rotation.py — fail-closed 代理 + 审计轮转单测。"""
+import sys, os, asyncio, tempfile, shutil
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.safety_proxy import SafetyProxy, ProxyConfig
+from secureguard.audit_rotation import RotatingAuditLogger
+from secureguard.l4_audit import AuditEntry
+
+
+class _GoodOrch:
+    async def process(self, *a, **k):
+        return {"blocked": False, "answer": "ok"}
+
+
+class _BoomOrch:
+    async def process(self, *a, **k):
+        raise RuntimeError("guard exploded")
+
+
+class _SlowOrch:
+    async def process(self, *a, **k):
+        await asyncio.sleep(1.0)
+        return {"blocked": False}
+
+
+def test_fail_closed_blocks_on_error():
+    p = SafetyProxy(_BoomOrch(), ProxyConfig(fail_policy="closed"))
+    res = asyncio.run(p.process("hi"))
+    assert res["blocked"] is True and res["degraded"] is True
+
+
+def test_fail_open_passes_on_error_when_explicit():
+    p = SafetyProxy(_BoomOrch(), ProxyConfig(fail_policy="open"))
+    res = asyncio.run(p.process("hi"))
+    assert res["blocked"] is False and res["degraded"] is True
+
+
+def test_timeout_fails_closed():
+    p = SafetyProxy(_SlowOrch(), ProxyConfig(timeout_s=0.05, fail_policy="closed"))
+    res = asyncio.run(p.process("hi"))
+    assert res["blocked"] is True and res["stage"] == "timeout"
+
+
+def test_circuit_breaker_opens_after_threshold():
+    p = SafetyProxy(_BoomOrch(), ProxyConfig(breaker_threshold=3, breaker_cooldown_s=999))
+    for _ in range(3):
+        asyncio.run(p.process("hi"))
+    # 第 4 次应被断路器短路
+    res = asyncio.run(p.process("hi"))
+    assert res["stage"] == "breaker_open"
+
+
+def test_breaker_recovers_on_success():
+    p = SafetyProxy(_GoodOrch(), ProxyConfig())
+    res = asyncio.run(p.process("hi"))
+    assert res["blocked"] is False and p.breaker.state == "closed"
+
+
+def test_audit_rotation_by_size():
+    d = tempfile.mkdtemp()
+    path = os.path.join(d, "audit.jsonl")
+    log = RotatingAuditLogger(path, max_bytes=300, backup_count=3, retention_days=None)
+    for i in range(50):
+        log.log(AuditEntry(stage="L4", decision="PASS", reason="x" * 20))
+    # 应产生至少一个轮转分卷
+    assert os.path.exists(path + ".1")
+    shutil.rmtree(d)

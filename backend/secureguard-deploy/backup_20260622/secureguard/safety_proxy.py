@@ -1,1 +1,95 @@
-IiIic2VjdXJlZ3VhcmQuc2FmZXR5X3Byb3h5IOKAlCDlronlhajku6PnkIblj6/nlKjmgKfkv53pmpzvvIjlm57nrZTlkqjor6IgIzIg55qEIGZhaWwtb3Blbi9jbG9zZWTvvInjgIIKCuaKiiBPcmNoZXN0cmF0b3Ig5YyF5oiQ5LiA5Liq5a+55aSW55qE5a6J5YWo5Luj55CG77yM5bm26Kej5YazIuS7o+eQhuiHquW3seaMguS6huaAjuS5iOWKniLvvJoKCiAgLSBmYWlsLWNsb3NlZO+8iOm7mOiupO+8ie+8muWuiOWNq+i2heaXti/lvILluLgg4oaSIOm7mOiupCBCTE9DS+OAguWuieWFqOS7o+eQhueahOWtmOWcqOaEj+S5ieaYryLmjKHkvY/lnY/nmoQi77yMCiAgICDlroPlpLHmlYjml7boi6XmlL7ooYzvvIhmYWlsLW9wZW7vvInvvIznrYnkuo7miorpmLLnur/lhbPmjonjgILmiYDku6XlronlhajlnLrmma/pu5jorqQgZmFpbC1jbG9zZWTjgIIKICAtIOi2heaXtu+8muWNleasoeWkhOeQhuiuvuehrOi2heaXtu+8jOmBv+WFjeiiq+aFouivt+axguaLluWeruOAggogIC0g54aU5pat77ya6L+e57ut5aSx6LSl57Sv6K6h5Yiw6ZiI5YC8IOKGkiDmiZPlvIDmlq3ot6/lmajvvIzov5vlhaXlhrfljbTvvJvlhrfljbTlkI7ljYrlvIDor5XmjqLjgILmlq3ot6/lmajmiZPlvIDmnJ/pl7QKICAgIOebtOaOpeaMiSBmYWlsIOetlueVpeefrei3r++8jOS4jeWGjeaJk+W6leWxgu+8iOS/neaKpOS4i+a4uOOAgemBv+WFjembquW0qe+8ieOAggoK5L2V5pe25Y+v6YCJIGZhaWwtb3Blbu+8muS7heW9kyLlj6/nlKjmgKcgPiDlronlhagi5LiU5ZCO56uv5pys6Lqr5Y+v5L+h77yI5L6L5aaC5YaF6YOo5Y+q6K+76Zeu562U77yJ77yMCuWPr+aYvuW8j+mFjee9riBmYWlsX3BvbGljeT0ib3BlbiLvvIzkvYblv4XpobvmmK/mmI7noa7lhrPnrZbogIzpnZ7pu5jorqTjgILnuq/moIflh4blupMgKyBhc3luY2lv44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXN5bmNpbwppbXBvcnQgdGltZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgT3B0aW9uYWwKCgpAZGF0YWNsYXNzCmNsYXNzIFByb3h5Q29uZmlnOgogICAgdGltZW91dF9zOiBmbG9hdCA9IDUuMAogICAgZmFpbF9wb2xpY3k6IHN0ciA9ICJjbG9zZWQiICAgICAgICAjIGNsb3NlZD3lpLHotKXliJnmi5Lnu50gLyBvcGVuPeWksei0peWImeaUvuihjAogICAgYnJlYWtlcl90aHJlc2hvbGQ6IGludCA9IDUgICAgICAgICAjIOi/nue7reWksei0peWkmuWwkeasoeaJk+W8gOaWrei3r+WZqAogICAgYnJlYWtlcl9jb29sZG93bl9zOiBmbG9hdCA9IDMwLjAgICAjIOaWrei3r+WZqOWGt+WNtOaXtumVvwoKCmNsYXNzIF9DaXJjdWl0QnJlYWtlcjoKICAgICIiIuS4ieaAgeaWrei3r+WZqO+8mmNsb3NlZCDihpIgb3BlbiDihpIgaGFsZl9vcGVuIOKGkiBjbG9zZWTjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdGhyZXNob2xkOiBpbnQsIGNvb2xkb3duX3M6IGZsb2F0KSAtPiBOb25lOgogICAgICAgIHNlbGYudGhyZXNob2xkID0gdGhyZXNob2xkCiAgICAgICAgc2VsZi5jb29sZG93bl9zID0gY29vbGRvd25fcwogICAgICAgIHNlbGYuZmFpbHMgPSAwCiAgICAgICAgc2VsZi5zdGF0ZSA9ICJjbG9zZWQiCiAgICAgICAgc2VsZi5vcGVuZWRfYXQgPSAwLjAKCiAgICBkZWYgYWxsb3coc2VsZikgLT4gYm9vbDoKICAgICAgICBpZiBzZWxmLnN0YXRlID09ICJvcGVuIjoKICAgICAgICAgICAgaWYgdGltZS5tb25vdG9uaWMoKSAtIHNlbGYub3BlbmVkX2F0ID49IHNlbGYuY29vbGRvd25fczoKICAgICAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAiaGFsZl9vcGVuIgogICAgICAgICAgICAgICAgcmV0dXJuIFRydWUgICAgICAgIyDmlL7kuIDkuKror5XmjqLor7fmsYIKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgb25fc3VjY2VzcyhzZWxmKSAtPiBOb25lOgogICAgICAgIHNlbGYuZmFpbHMgPSAwCiAgICAgICAgc2VsZi5zdGF0ZSA9ICJjbG9zZWQiCgogICAgZGVmIG9uX2ZhaWx1cmUoc2VsZikgLT4gTm9uZToKICAgICAgICBzZWxmLmZhaWxzICs9IDEKICAgICAgICBpZiBzZWxmLmZhaWxzID49IHNlbGYudGhyZXNob2xkOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gIm9wZW4iCiAgICAgICAgICAgIHNlbGYub3BlbmVkX2F0ID0gdGltZS5tb25vdG9uaWMoKQoKCmNsYXNzIFNhZmV0eVByb3h5OgogICAgIiIi5a+55aSW5a6J5YWo5Luj55CG44CC5YyF6KO55Lu75oSP5oul5pyJIGFzeW5jIHByb2Nlc3MoLi4uKSDnmoTljY/osIPlmajjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgb3JjaGVzdHJhdG9yOiBBbnksIGNvbmZpZzogT3B0aW9uYWxbUHJveHlDb25maWddID0gTm9uZSkgLT4gTm9uZToKICAgICAgICBzZWxmLm9yY2ggPSBvcmNoZXN0cmF0b3IKICAgICAgICBzZWxmLmNmZyA9IGNvbmZpZyBvciBQcm94eUNvbmZpZygpCiAgICAgICAgc2VsZi5icmVha2VyID0gX0NpcmN1aXRCcmVha2VyKHNlbGYuY2ZnLmJyZWFrZXJfdGhyZXNob2xkLCBzZWxmLmNmZy5icmVha2VyX2Nvb2xkb3duX3MpCgogICAgZGVmIF9mYWlsX3Jlc3VsdChzZWxmLCBzdGFnZTogc3RyLCByZWFzb246IHN0cikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgaWYgc2VsZi5jZmcuZmFpbF9wb2xpY3kgPT0gIm9wZW4iOgogICAgICAgICAgICAjIOaYvuW8j+mAieaLqeeahOWPr+eUqOaAp+S8mOWFiO+8muaUvuihjOS9huagh+azqOmZjee6pwogICAgICAgICAgICByZXR1cm4geyJibG9ja2VkIjogRmFsc2UsICJkZWdyYWRlZCI6IFRydWUsICJzdGFnZSI6IHN0YWdlLAogICAgICAgICAgICAgICAgICAgICJyZWFzb24iOiByZWFzb24sICJhbnN3ZXIiOiAiIiwgIm5vdGUiOiAiZmFpbC1vcGVuIGRlZ3JhZGVkIHBhc3N0aHJvdWdoIn0KICAgICAgICAjIOm7mOiupCBmYWlsLWNsb3NlZO+8muaLkue7nQogICAgICAgIHJldHVybiB7ImJsb2NrZWQiOiBUcnVlLCAiZGVncmFkZWQiOiBUcnVlLCAic3RhZ2UiOiBzdGFnZSwKICAgICAgICAgICAgICAgICJyZWFzb24iOiByZWFzb24sICJtZXNzYWdlIjogIuWuieWFqOS7o+eQhuaaguS4jeWPr+eUqO+8jOW3suaMiSBmYWlsLWNsb3NlZCDmi5Lnu53jgIIifQoKICAgIGFzeW5jIGRlZiBwcm9jZXNzKHNlbGYsIHVzZXJfaW5wdXQ6IHN0ciwgc2Vzc2lvbl9pZDogc3RyID0gImFub24iLAogICAgICAgICAgICAgICAgICAgICAgYWN0aW9uOiBPcHRpb25hbFtEaWN0W3N0ciwgQW55XV0gPSBOb25lLAogICAgICAgICAgICAgICAgICAgICAgY3R4OiBPcHRpb25hbFtEaWN0W3N0ciwgQW55XV0gPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAjIOaWrei3r+WZqO+8muaJk+W8gOacn+mXtOebtOaOpeaMiSBmYWlsIOetlueVpeefrei3rwogICAgICAgIGlmIG5vdCBzZWxmLmJyZWFrZXIuYWxsb3coKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2ZhaWxfcmVzdWx0KCJicmVha2VyX29wZW4iLCAiY2lyY3VpdCBicmVha2VyIG9wZW4iKQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlcyA9IGF3YWl0IGFzeW5jaW8ud2FpdF9mb3IoCiAgICAgICAgICAgICAgICBzZWxmLm9yY2gucHJvY2Vzcyh1c2VyX2lucHV0LCBzZXNzaW9uX2lkLCBhY3Rpb24sIGN0eCksCiAgICAgICAgICAgICAgICB0aW1lb3V0PXNlbGYuY2ZnLnRpbWVvdXRfcywKICAgICAgICAgICAgKQogICAgICAgICAgICBzZWxmLmJyZWFrZXIub25fc3VjY2VzcygpCiAgICAgICAgICAgIHJldHVybiByZXMKICAgICAgICBleGNlcHQgYXN5bmNpby5UaW1lb3V0RXJyb3I6CiAgICAgICAgICAgIHNlbGYuYnJlYWtlci5vbl9mYWlsdXJlKCkKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2ZhaWxfcmVzdWx0KCJ0aW1lb3V0IiwgZiJleGNlZWRlZCB7c2VsZi5jZmcudGltZW91dF9zfXMiKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogICMg5a6I5Y2rL+WQjuerr+W8guW4uCDihpIg5oyJIGZhaWwg562W55WlCiAgICAgICAgICAgIHNlbGYuYnJlYWtlci5vbl9mYWlsdXJlKCkKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2ZhaWxfcmVzdWx0KCJlcnJvciIsIGYie3R5cGUoZSkuX19uYW1lX199OiB7ZX0iKQo=
+"""secureguard.safety_proxy — 安全代理可用性保障（回答咨询 #2 的 fail-open/closed）。
+
+把 Orchestrator 包成一个对外的安全代理，并解决"代理自己挂了怎么办"：
+
+  - fail-closed（默认）：守卫超时/异常 → 默认 BLOCK。安全代理的存在意义是"挡住坏的"，
+    它失效时若放行（fail-open），等于把防线关掉。所以安全场景默认 fail-closed。
+  - 超时：单次处理设硬超时，避免被慢请求拖垮。
+  - 熔断：连续失败累计到阈值 → 打开断路器，进入冷却；冷却后半开试探。断路器打开期间
+    直接按 fail 策略短路，不再打底层（保护下游、避免雪崩）。
+
+何时可选 fail-open：仅当"可用性 > 安全"且后端本身可信（例如内部只读问答），
+可显式配置 fail_policy="open"，但必须是明确决策而非默认。纯标准库 + asyncio。
+"""
+from __future__ import annotations
+
+import asyncio
+import time
+from dataclasses import dataclass
+from typing import Any, Dict, Optional
+
+
+@dataclass
+class ProxyConfig:
+    timeout_s: float = 5.0
+    fail_policy: str = "closed"        # closed=失败则拒绝 / open=失败则放行
+    breaker_threshold: int = 5         # 连续失败多少次打开断路器
+    breaker_cooldown_s: float = 30.0   # 断路器冷却时长
+
+
+class _CircuitBreaker:
+    """三态断路器：closed → open → half_open → closed。"""
+
+    def __init__(self, threshold: int, cooldown_s: float) -> None:
+        self.threshold = threshold
+        self.cooldown_s = cooldown_s
+        self.fails = 0
+        self.state = "closed"
+        self.opened_at = 0.0
+
+    def allow(self) -> bool:
+        if self.state == "open":
+            if time.monotonic() - self.opened_at >= self.cooldown_s:
+                self.state = "half_open"
+                return True       # 放一个试探请求
+            return False
+        return True
+
+    def on_success(self) -> None:
+        self.fails = 0
+        self.state = "closed"
+
+    def on_failure(self) -> None:
+        self.fails += 1
+        if self.fails >= self.threshold:
+            self.state = "open"
+            self.opened_at = time.monotonic()
+
+
+class SafetyProxy:
+    """对外安全代理。包裹任意拥有 async process(...) 的协调器。"""
+
+    def __init__(self, orchestrator: Any, config: Optional[ProxyConfig] = None) -> None:
+        self.orch = orchestrator
+        self.cfg = config or ProxyConfig()
+        self.breaker = _CircuitBreaker(self.cfg.breaker_threshold, self.cfg.breaker_cooldown_s)
+
+    def _fail_result(self, stage: str, reason: str) -> Dict[str, Any]:
+        if self.cfg.fail_policy == "open":
+            # 显式选择的可用性优先：放行但标注降级
+            return {"blocked": False, "degraded": True, "stage": stage,
+                    "reason": reason, "answer": "", "note": "fail-open degraded passthrough"}
+        # 默认 fail-closed：拒绝
+        return {"blocked": True, "degraded": True, "stage": stage,
+                "reason": reason, "message": "安全代理暂不可用，已按 fail-closed 拒绝。"}
+
+    async def process(self, user_input: str, session_id: str = "anon",
+                      action: Optional[Dict[str, Any]] = None,
+                      ctx: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+        # 断路器：打开期间直接按 fail 策略短路
+        if not self.breaker.allow():
+            return self._fail_result("breaker_open", "circuit breaker open")
+
+        try:
+            res = await asyncio.wait_for(
+                self.orch.process(user_input, session_id, action, ctx),
+                timeout=self.cfg.timeout_s,
+            )
+            self.breaker.on_success()
+            return res
+        except asyncio.TimeoutError:
+            self.breaker.on_failure()
+            return self._fail_result("timeout", f"exceeded {self.cfg.timeout_s}s")
+        except Exception as e:  # 守卫/后端异常 → 按 fail 策略
+            self.breaker.on_failure()
+            return self._fail_result("error", f"{type(e).__name__}: {e}")

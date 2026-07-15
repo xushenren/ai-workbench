@@ -1,1 +1,8 @@
-RlJPTSBweXRob246My4xMi1zbGltCldPUktESVIgL2FwcApDT1BZIHJlcXVpcmVtZW50cy50eHQgLgpSVU4gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgZmFzdGFwaSB1dmljb3JuW3N0YW5kYXJkXSBweWRhbnRpYyBQeVlBTUwKQ09QWSBzZWN1cmVndWFyZCAuL3NlY3VyZWd1YXJkCkNPUFkgY29uZmlnIC4vY29uZmlnCkVYUE9TRSA4MDAwIDkwMDAKQ01EIFsidXZpY29ybiIsICJzZWN1cmVndWFyZC5hcGk6YXBwIiwgIi0taG9zdCIsICIwLjAuMC4wIiwgIi0tcG9ydCIsICI5MDAwIl0K
+FROM python:3.12-slim
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install --no-cache-dir fastapi uvicorn[standard] pydantic PyYAML
+COPY secureguard ./secureguard
+COPY config ./config
+EXPOSE 8000 9000
+CMD ["uvicorn", "secureguard.api:app", "--host", "0.0.0.0", "--port", "9000"]

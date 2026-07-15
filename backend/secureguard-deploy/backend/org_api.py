@@ -1,1 +1,154 @@
-IiIib3JnX2FwaS5weSDigJQg57uE57uH5p2D6ZmQ566h55CGIFJFU1Qg5o6l5Y+jIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IG9zLCB1dWlkCgpmcm9tIGZhc3RhcGkgaW1wb3J0IEFQSVJvdXRlciwgSFRUUEV4Y2VwdGlvbgpmcm9tIHB5ZGFudGljIGltcG9ydCBCYXNlTW9kZWwKZnJvbSBvcmdfY29yZSBpbXBvcnQgT3JnU2VydmljZSwgU3FsaXRlUmVwb3MsIFAsIGF1dGhvcml6ZQpmcm9tIG9yZ19jb3JlLnBlcm1pc3Npb25zIGltcG9ydCBBTExfUEVSTVMKZnJvbSBvcmdfY29yZS5tb2RlbHMgaW1wb3J0IE5vZGVUeXBlLCBVc2VyLCBVc2VyS2luZCwgVXNlclN0YXR1cywgUm9sZSBhcyBPcmdSb2xlLCBHcmFudAoKcm91dGVyID0gQVBJUm91dGVyKHByZWZpeD0iL3YxL29yZyIpCl9yZXBvID0gU3FsaXRlUmVwb3Mob3MuZ2V0ZW52KCJPUkdfREIiLCAiL2RhdGEvb3JnX2NvcmUuZGIiKSkKc3ZjID0gT3JnU2VydmljZShfcmVwbykKCl9zZWVkX2dyYW50czogZGljdFtzdHIsIHN0cl0gPSB7fQoKZGVmIF9lbnN1cmVfc2VlZCh0aWQ6IHN0cikgLT4gc3RyOgogICAgIiIi56Gu5L+d56ef5oi35pyJ56eN5a2Q566h55CG5ZGY77yM6L+U5ZueIGdyYW50X2lkIiIiCiAgICBpZiB0aWQgaW4gX3NlZWRfZ3JhbnRzOgogICAgICAgIHJldHVybiBfc2VlZF9ncmFudHNbdGlkXQogICAgdCA9IF9yZXBvLmdldF90ZW5hbnQodGlkKQogICAgaWYgbm90IHQ6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDQsICLnp5/miLfkuI3lrZjlnKgiKQogICAgcm9vdHMgPSBfcmVwby5jaGlsZHJlbih0aWQsIE5vbmUpCiAgICBpZiBub3Qgcm9vdHM6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig1MDAsICLnp5/miLfml6DmoLnoioLngrkiKQogICAgcm9vdCA9IHJvb3RzWzBdCiAgICAjIOWIm+W7uuenjeWtkOeuoeeQhuWRmAogICAgdSA9IFVzZXIodXVpZC51dWlkNCgpLmhleCwgdGlkLCBVc2VyS2luZC5JTlRFUk5BTCwgVXNlclN0YXR1cy5BQ1RJVkUsICLlubPlj7DnrqHnkIblkZgiKQogICAgciA9IE9yZ1JvbGUodXVpZC51dWlkNCgpLmhleCwgdGlkLCAi5bmz5Y+w566h55CG5ZGYIiwgQUxMX1BFUk1TKQogICAgZywgXyA9IHN2Yy5zZWVkX2FkbWluKHRpZCwgdXNlcj11LCByb2xlPXIsIG5vZGVfaWQ9cm9vdC5pZCkKICAgIF9zZWVkX2dyYW50c1t0aWRdID0gZy5pZAogICAgcmV0dXJuIGcuaWQKCgpkZWYgX2FsbF9ub2Rlcyh0aWQ6IHN0cikgLT4gbGlzdDoKICAgIHJlc3VsdCA9IFtdCiAgICByb290cyA9IF9yZXBvLmNoaWxkcmVuKHRpZCwgTm9uZSkKICAgIGZvciByIGluIHJvb3RzOgogICAgICAgIHJlc3VsdC5hcHBlbmQocikKICAgICAgICBfY29sbGVjdCh0aWQsIHIuaWQsIHJlc3VsdCkKICAgIHJldHVybiByZXN1bHQKCmRlZiBfY29sbGVjdCh0aWQ6IHN0ciwgcGlkOiBzdHIsIGFjYzogbGlzdCk6CiAgICBmb3IgayBpbiBfcmVwby5jaGlsZHJlbih0aWQsIHBpZCk6CiAgICAgICAgYWNjLmFwcGVuZChrKQogICAgICAgIF9jb2xsZWN0KHRpZCwgay5pZCwgYWNjKQoKCiMgLS0tIHNjaGVtYXMgLS0tCmNsYXNzIFRlbmFudEluKEJhc2VNb2RlbCk6CiAgICBuYW1lOiBzdHIKICAgIHJvb3RfbmFtZTogc3RyID0gIumbhuWbouaAu+mDqCIKCmNsYXNzIE5vZGVJbihCYXNlTW9kZWwpOgogICAgcGFyZW50X2lkOiBzdHIKICAgIG5hbWU6IHN0cgogICAgbm9kZV90eXBlOiBzdHIgPSAiZGVwYXJ0bWVudCIKCmNsYXNzIFVzZXJJbihCYXNlTW9kZWwpOgogICAgaG9tZV9ub2RlX2lkOiBzdHIKICAgIG5hbWU6IHN0cgogICAgcGhvbmU6IHN0ciA9ICIiCiAgICBleHRlcm5hbF9pZDogc3RyID0gIiIKCmNsYXNzIFJvbGVJbihCYXNlTW9kZWwpOgogICAgYXRfbm9kZV9pZDogc3RyCiAgICBuYW1lOiBzdHIKICAgIHBlcm1fa2V5czogbGlzdFtzdHJdCgpjbGFzcyBHcmFudEluKEJhc2VNb2RlbCk6CiAgICB1c2VyX2lkOiBzdHIKICAgIHJvbGVfaWQ6IHN0cgogICAgb3JnX25vZGVfaWQ6IHN0cgoKY2xhc3MgQXV0aHpJbihCYXNlTW9kZWwpOgogICAgZ3JhbnRfaWQ6IHN0cgogICAgYWN0aW9uOiBzdHIKICAgIHRhcmdldF9ub2RlX2lkOiBzdHIgfCBOb25lID0gTm9uZQoKCiMgLS0tIHJvdXRlcyAtLS0KQHJvdXRlci5wb3N0KCIvdGVuYW50cyIpCmRlZiBib290c3RyYXAoYm9keTogVGVuYW50SW4pOgogICAgdCwgcm9vdCA9IHN2Yy5ib290c3RyYXBfdGVuYW50KGJvZHkubmFtZSwgYm9keS5yb290X25hbWUpCiAgICBnaWQgPSBfZW5zdXJlX3NlZWQodC5pZCkKICAgIHJldHVybiB7InRlbmFudCI6IHQuX19kaWN0X18sICJyb290X25vZGUiOiByb290Ll9fZGljdF9fLCAiYWRtaW5fZ3JhbnRfaWQiOiBnaWR9CgpAcm91dGVyLmdldCgiL3RlbmFudHMve3RpZH0iKQpkZWYgZ2V0X3RlbmFudCh0aWQ6IHN0cik6CiAgICB0ID0gX3JlcG8uZ2V0X3RlbmFudCh0aWQpCiAgICBpZiBub3QgdDogcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDQpCiAgICByZXR1cm4gdC5fX2RpY3RfXwoKQHJvdXRlci5wb3N0KCIvdGVuYW50cy97dGlkfS9ub2RlcyIpCmRlZiBjcmVhdGVfbm9kZSh0aWQ6IHN0ciwgYm9keTogTm9kZUluKToKICAgIGdpZCA9IF9lbnN1cmVfc2VlZCh0aWQpCiAgICBuID0gc3ZjLmNyZWF0ZV9ub2RlKHRpZCwgZ2lkLCBwYXJlbnRfaWQ9Ym9keS5wYXJlbnRfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXlfbmFtZT1ib2R5Lm5hbWUsIHR5cGU9Tm9kZVR5cGUoYm9keS5ub2RlX3R5cGUpKQogICAgcmV0dXJuIG4uX19kaWN0X18KCkByb3V0ZXIuZ2V0KCIvdGVuYW50cy97dGlkfS90cmVlIikKZGVmIGdldF90cmVlKHRpZDogc3RyKToKICAgIG5vZGVzID0gX2FsbF9ub2Rlcyh0aWQpCiAgICBub2RlX21hcCA9IHtuLmlkOiB7KipuLl9fZGljdF9fLCAiY2hpbGRyZW4iOiBbXX0gZm9yIG4gaW4gbm9kZXN9CiAgICByb290cyA9IFtdCiAgICBmb3IgbiBpbiBub2RlczoKICAgICAgICBpZiBuLnBhcmVudF9pZCBhbmQgbi5wYXJlbnRfaWQgaW4gbm9kZV9tYXA6CiAgICAgICAgICAgIG5vZGVfbWFwW24ucGFyZW50X2lkXVsiY2hpbGRyZW4iXS5hcHBlbmQobm9kZV9tYXBbbi5pZF0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcm9vdHMuYXBwZW5kKG5vZGVfbWFwW24uaWRdKQogICAgcmV0dXJuIHsidGVuYW50X2lkIjogdGlkLCAidHJlZSI6IHJvb3RzfQoKQHJvdXRlci5wb3N0KCIvdGVuYW50cy97dGlkfS91c2VycyIpCmRlZiBhZGRfdXNlcih0aWQ6IHN0ciwgYm9keTogVXNlckluKToKICAgIGdpZCA9IF9lbnN1cmVfc2VlZCh0aWQpCiAgICB1ID0gc3ZjLmFkZF91c2VyKHRpZCwgZ2lkLCBob21lX25vZGVfaWQ9Ym9keS5ob21lX25vZGVfaWQsCiAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXlfbmFtZT1ib2R5Lm5hbWUsIHBob25lPWJvZHkucGhvbmUsIGV4dGVybmFsX2lkPWJvZHkuZXh0ZXJuYWxfaWQpCiAgICByZXR1cm4gdS5fX2RpY3RfXwoKQHJvdXRlci5nZXQoIi90ZW5hbnRzL3t0aWR9L3VzZXJzIikKZGVmIGxpc3RfdXNlcnModGlkOiBzdHIpOgogICAgcmV0dXJuIFt1Ll9fZGljdF9fIGZvciB1IGluIF9yZXBvLl9saXN0X3VzZXJzKHRpZCldCgpAcm91dGVyLnBvc3QoIi90ZW5hbnRzL3t0aWR9L3JvbGVzIikKZGVmIGRlZmluZV9yb2xlKHRpZDogc3RyLCBib2R5OiBSb2xlSW4pOgogICAgZ2lkID0gX2Vuc3VyZV9zZWVkKHRpZCkKICAgIHIgPSBzdmMuZGVmaW5lX3JvbGUodGlkLCBnaWQsIGF0X25vZGVfaWQ9Ym9keS5hdF9ub2RlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBkaXNwbGF5X25hbWU9Ym9keS5uYW1lLCBwZXJtX2tleXM9c2V0KGJvZHkucGVybV9rZXlzKSkKICAgIHJldHVybiByLl9fZGljdF9fCgpAcm91dGVyLmdldCgiL3RlbmFudHMve3RpZH0vcm9sZXMiKQpkZWYgbGlzdF9yb2xlcyh0aWQ6IHN0cik6CiAgICByZXR1cm4gW3IuX19kaWN0X18gZm9yIHIgaW4gX3JlcG8uX2xpc3Rfcm9sZXModGlkKV0KCkByb3V0ZXIucG9zdCgiL3RlbmFudHMve3RpZH0vZ3JhbnRzIikKZGVmIGdyYW50X3JvbGUodGlkOiBzdHIsIGJvZHk6IEdyYW50SW4pOgogICAgZ2lkID0gX2Vuc3VyZV9zZWVkKHRpZCkKICAgIGcgPSBzdmMuZ3JhbnRfcm9sZSh0aWQsIGdpZCwgdXNlcl9pZD1ib2R5LnVzZXJfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgcm9sZV9pZD1ib2R5LnJvbGVfaWQsIG9yZ19ub2RlX2lkPWJvZHkub3JnX25vZGVfaWQpCiAgICByZXR1cm4gZy5fX2RpY3RfXwoKQHJvdXRlci5nZXQoIi90ZW5hbnRzL3t0aWR9L2dyYW50cyIpCmRlZiBsaXN0X2dyYW50cyh0aWQ6IHN0cik6CiAgICByZXR1cm4gW2cuX19kaWN0X18gZm9yIGcgaW4gX3JlcG8uX2xpc3RfZ3JhbnRzKHRpZCldCgpAcm91dGVyLnBvc3QoIi90ZW5hbnRzL3t0aWR9L2F1dGh6L2NoZWNrIikKZGVmIGNoZWNrX3Blcm1pc3Npb24odGlkOiBzdHIsIGJvZHk6IEF1dGh6SW4pOgogICAgb2ssIHJlYXNvbiA9IGF1dGhvcml6ZShfcmVwbywgdGlkLCBib2R5LmdyYW50X2lkLCBib2R5LmFjdGlvbiwgYm9keS50YXJnZXRfbm9kZV9pZCkKICAgIHJldHVybiB7ImFsbG93ZWQiOiBvaywgInJlYXNvbiI6IHJlYXNvbn0KCkByb3V0ZXIuZ2V0KCIvdGVuYW50cy97dGlkfS9wZXJtaXNzaW9ucyIpCmRlZiBsaXN0X3Blcm1pc3Npb25zKHRpZDogc3RyKToKICAgIHJldHVybiB7InBlcm1zIjogc29ydGVkKEFMTF9QRVJNUyl9Cg==
+"""org_api.py — 组织权限管理 REST 接口"""
+from __future__ import annotations
+import os, uuid
+
+from fastapi import APIRouter, HTTPException
+from pydantic import BaseModel
+from org_core import OrgService, SqliteRepos, P, authorize
+from org_core.permissions import ALL_PERMS
+from org_core.models import NodeType, User, UserKind, UserStatus, Role as OrgRole, Grant
+
+router = APIRouter(prefix="/v1/org")
+_repo = SqliteRepos(os.getenv("ORG_DB", "/data/org_core.db"))
+svc = OrgService(_repo)
+
+_seed_grants: dict[str, str] = {}
+
+def _ensure_seed(tid: str) -> str:
+    """确保租户有种子管理员，返回 grant_id"""
+    if tid in _seed_grants:
+        return _seed_grants[tid]
+    t = _repo.get_tenant(tid)
+    if not t:
+        raise HTTPException(404, "租户不存在")
+    roots = _repo.children(tid, None)
+    if not roots:
+        raise HTTPException(500, "租户无根节点")
+    root = roots[0]
+    # 创建种子管理员
+    u = User(uuid.uuid4().hex, tid, UserKind.INTERNAL, UserStatus.ACTIVE, "平台管理员")
+    r = OrgRole(uuid.uuid4().hex, tid, "平台管理员", ALL_PERMS)
+    g, _ = svc.seed_admin(tid, user=u, role=r, node_id=root.id)
+    _seed_grants[tid] = g.id
+    return g.id
+
+
+def _all_nodes(tid: str) -> list:
+    result = []
+    roots = _repo.children(tid, None)
+    for r in roots:
+        result.append(r)
+        _collect(tid, r.id, result)
+    return result
+
+def _collect(tid: str, pid: str, acc: list):
+    for k in _repo.children(tid, pid):
+        acc.append(k)
+        _collect(tid, k.id, acc)
+
+
+# --- schemas ---
+class TenantIn(BaseModel):
+    name: str
+    root_name: str = "集团总部"
+
+class NodeIn(BaseModel):
+    parent_id: str
+    name: str
+    node_type: str = "department"
+
+class UserIn(BaseModel):
+    home_node_id: str
+    name: str
+    phone: str = ""
+    external_id: str = ""
+
+class RoleIn(BaseModel):
+    at_node_id: str
+    name: str
+    perm_keys: list[str]
+
+class GrantIn(BaseModel):
+    user_id: str
+    role_id: str
+    org_node_id: str
+
+class AuthzIn(BaseModel):
+    grant_id: str
+    action: str
+    target_node_id: str | None = None
+
+
+# --- routes ---
+@router.post("/tenants")
+def bootstrap(body: TenantIn):
+    t, root = svc.bootstrap_tenant(body.name, body.root_name)
+    gid = _ensure_seed(t.id)
+    return {"tenant": t.__dict__, "root_node": root.__dict__, "admin_grant_id": gid}
+
+@router.get("/tenants/{tid}")
+def get_tenant(tid: str):
+    t = _repo.get_tenant(tid)
+    if not t: raise HTTPException(404)
+    return t.__dict__
+
+@router.post("/tenants/{tid}/nodes")
+def create_node(tid: str, body: NodeIn):
+    gid = _ensure_seed(tid)
+    n = svc.create_node(tid, gid, parent_id=body.parent_id,
+                        display_name=body.name, type=NodeType(body.node_type))
+    return n.__dict__
+
+@router.get("/tenants/{tid}/tree")
+def get_tree(tid: str):
+    nodes = _all_nodes(tid)
+    node_map = {n.id: {**n.__dict__, "children": []} for n in nodes}
+    roots = []
+    for n in nodes:
+        if n.parent_id and n.parent_id in node_map:
+            node_map[n.parent_id]["children"].append(node_map[n.id])
+        else:
+            roots.append(node_map[n.id])
+    return {"tenant_id": tid, "tree": roots}
+
+@router.post("/tenants/{tid}/users")
+def add_user(tid: str, body: UserIn):
+    gid = _ensure_seed(tid)
+    u = svc.add_user(tid, gid, home_node_id=body.home_node_id,
+                     display_name=body.name, phone=body.phone, external_id=body.external_id)
+    return u.__dict__
+
+@router.get("/tenants/{tid}/users")
+def list_users(tid: str):
+    return [u.__dict__ for u in _repo._list_users(tid)]
+
+@router.post("/tenants/{tid}/roles")
+def define_role(tid: str, body: RoleIn):
+    gid = _ensure_seed(tid)
+    r = svc.define_role(tid, gid, at_node_id=body.at_node_id,
+                        display_name=body.name, perm_keys=set(body.perm_keys))
+    return r.__dict__
+
+@router.get("/tenants/{tid}/roles")
+def list_roles(tid: str):
+    return [r.__dict__ for r in _repo._list_roles(tid)]
+
+@router.post("/tenants/{tid}/grants")
+def grant_role(tid: str, body: GrantIn):
+    gid = _ensure_seed(tid)
+    g = svc.grant_role(tid, gid, user_id=body.user_id,
+                       role_id=body.role_id, org_node_id=body.org_node_id)
+    return g.__dict__
+
+@router.get("/tenants/{tid}/grants")
+def list_grants(tid: str):
+    return [g.__dict__ for g in _repo._list_grants(tid)]
+
+@router.post("/tenants/{tid}/authz/check")
+def check_permission(tid: str, body: AuthzIn):
+    ok, reason = authorize(_repo, tid, body.grant_id, body.action, body.target_node_id)
+    return {"allowed": ok, "reason": reason}
+
+@router.get("/tenants/{tid}/permissions")
+def list_permissions(tid: str):
+    return {"perms": sorted(ALL_PERMS)}

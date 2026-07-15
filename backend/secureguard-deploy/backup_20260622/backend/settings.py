@@ -1,1 +1,55 @@
-IiIiYmFja2VuZC5zZXR0aW5ncyDigJQg546v5aKD6amx5Yqo6YWN572u77yIQjfvvInjgIIKCuivu+eOr+Wig+WPmOmHj+WGs+Wumuavj+S4quWQjuerr+eUqCLnnJ/lrp4i6L+Y5pivIuWGheWtmC9Nb2NrIuOAguayoeiuvueahOWwseWbnuiQveWGheWtmOeJiOKAlOKAlArov5nmoLflvIDlj5HmnJ8o5rKZ566xL+acrOacuuaXoOacjeWKoSnnhafluLjot5HvvIznlJ/kuqforr7kuIrnjq/looPlj5jph4/ljbPliIfnnJ/lrp7lkI7nq6/vvIwqKuS7o+eggeS4jeaUuSoq44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgb3MKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCgoKQGRhdGFjbGFzcwpjbGFzcyBTZXR0aW5nczoKICAgICMg5qih5Z6L77yIdkxMTSAvIExpdGVMTE3vvIxPcGVuQUkg5YW85a6577yJCiAgICBtb2RlbF9iYXNlX3VybDogc3RyID0gIiIKICAgIG1vZGVsX25hbWU6IHN0ciA9ICJ2ZXJ0aWNhbC03MGIiCiAgICBtb2RlbF9hcGlfa2V5OiBzdHIgPSAiIgogICAgIyDlkJHph4/lupPvvIhDaHJvbWHvvIkKICAgIGNocm9tYV9ob3N0OiBzdHIgPSAiIgogICAgY2hyb21hX3BvcnQ6IGludCA9IDgwMDAKICAgICMgUmVkaXPvvIjphY3pop3ljp/lrZDmiaPlh4/vvIkKICAgIHJlZGlzX3VybDogc3RyID0gIiIKICAgICMgUG9zdGdyZXPvvIjkuJrliqHmjIHkuYXljJbvvIkKICAgIGRhdGFiYXNlX3VybDogc3RyID0gIiIKICAgICMg5b6u5L+h5byA5pS+5bmz5Y+wCiAgICB3ZWNoYXRfYXBwaWQ6IHN0ciA9ICIiCiAgICB3ZWNoYXRfc2VjcmV0OiBzdHIgPSAiIgogICAgd2VjaGF0X3JlZGlyZWN0X3VyaTogc3RyID0gIiIKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBmcm9tX2VudihjbHMpIC0+ICJTZXR0aW5ncyI6CiAgICAgICAgcmV0dXJuIGNscygKICAgICAgICAgICAgbW9kZWxfYmFzZV91cmw9b3MuZW52aXJvbi5nZXQoIk1PREVMX0JBU0VfVVJMIiwgIiIpLAogICAgICAgICAgICBtb2RlbF9uYW1lPW9zLmVudmlyb24uZ2V0KCJNT0RFTF9OQU1FIiwgInZlcnRpY2FsLTcwYiIpLAogICAgICAgICAgICBtb2RlbF9hcGlfa2V5PW9zLmVudmlyb24uZ2V0KCJNT0RFTF9BUElfS0VZIiwgIiIpLAogICAgICAgICAgICBjaHJvbWFfaG9zdD1vcy5lbnZpcm9uLmdldCgiQ0hST01BX0hPU1QiLCAiIiksCiAgICAgICAgICAgIGNocm9tYV9wb3J0PWludChvcy5lbnZpcm9uLmdldCgiQ0hST01BX1BPUlQiLCAiODAwMCIpKSwKICAgICAgICAgICAgcmVkaXNfdXJsPW9zLmVudmlyb24uZ2V0KCJSRURJU19VUkwiLCAiIiksCiAgICAgICAgICAgIGRhdGFiYXNlX3VybD1vcy5lbnZpcm9uLmdldCgiREFUQUJBU0VfVVJMIiwgIiIpLAogICAgICAgICAgICB3ZWNoYXRfYXBwaWQ9b3MuZW52aXJvbi5nZXQoIldFQ0hBVF9BUFBJRCIsICIiKSwKICAgICAgICAgICAgd2VjaGF0X3NlY3JldD1vcy5lbnZpcm9uLmdldCgiV0VDSEFUX1NFQ1JFVCIsICIiKSwKICAgICAgICAgICAgd2VjaGF0X3JlZGlyZWN0X3VyaT1vcy5lbnZpcm9uLmdldCgiV0VDSEFUX1JFRElSRUNUX1VSSSIsICIiKSwKICAgICAgICApCgogICAgIyDlkITlkI7nq6/mmK/lkKblkK/nlKjnnJ/lrp7lrp7njrAKICAgIEBwcm9wZXJ0eQogICAgZGVmIHVzZV9yZWFsX21vZGVsKHNlbGYpIC0+IGJvb2w6IHJldHVybiBib29sKHNlbGYubW9kZWxfYmFzZV91cmwpCiAgICBAcHJvcGVydHkKICAgIGRlZiB1c2VfY2hyb21hKHNlbGYpIC0+IGJvb2w6IHJldHVybiBib29sKHNlbGYuY2hyb21hX2hvc3QpCiAgICBAcHJvcGVydHkKICAgIGRlZiB1c2VfcmVkaXMoc2VsZikgLT4gYm9vbDogcmV0dXJuIGJvb2woc2VsZi5yZWRpc191cmwpCiAgICBAcHJvcGVydHkKICAgIGRlZiB1c2VfcG9zdGdyZXMoc2VsZikgLT4gYm9vbDogcmV0dXJuIGJvb2woc2VsZi5kYXRhYmFzZV91cmwpCiAgICBAcHJvcGVydHkKICAgIGRlZiB1c2Vfd2VjaGF0KHNlbGYpIC0+IGJvb2w6IHJldHVybiBib29sKHNlbGYud2VjaGF0X2FwcGlkIGFuZCBzZWxmLndlY2hhdF9zZWNyZXQpCg==
+"""backend.settings — 环境驱动配置（B7）。
+
+读环境变量决定每个后端用"真实"还是"内存/Mock"。没设的就回落内存版——
+这样开发期(沙箱/本机无服务)照常跑，生产设上环境变量即切真实后端，**代码不改**。
+"""
+from __future__ import annotations
+
+import os
+from dataclasses import dataclass
+
+
+@dataclass
+class Settings:
+    # 模型（vLLM / LiteLLM，OpenAI 兼容）
+    model_base_url: str = ""
+    model_name: str = "vertical-70b"
+    model_api_key: str = ""
+    # 向量库（Chroma）
+    chroma_host: str = ""
+    chroma_port: int = 8000
+    # Redis（配额原子扣减）
+    redis_url: str = ""
+    # Postgres（业务持久化）
+    database_url: str = ""
+    # 微信开放平台
+    wechat_appid: str = ""
+    wechat_secret: str = ""
+    wechat_redirect_uri: str = ""
+
+    @classmethod
+    def from_env(cls) -> "Settings":
+        return cls(
+            model_base_url=os.environ.get("MODEL_BASE_URL", ""),
+            model_name=os.environ.get("MODEL_NAME", "vertical-70b"),
+            model_api_key=os.environ.get("MODEL_API_KEY", ""),
+            chroma_host=os.environ.get("CHROMA_HOST", ""),
+            chroma_port=int(os.environ.get("CHROMA_PORT", "8000")),
+            redis_url=os.environ.get("REDIS_URL", ""),
+            database_url=os.environ.get("DATABASE_URL", ""),
+            wechat_appid=os.environ.get("WECHAT_APPID", ""),
+            wechat_secret=os.environ.get("WECHAT_SECRET", ""),
+            wechat_redirect_uri=os.environ.get("WECHAT_REDIRECT_URI", ""),
+        )
+
+    # 各后端是否启用真实实现
+    @property
+    def use_real_model(self) -> bool: return bool(self.model_base_url)
+    @property
+    def use_chroma(self) -> bool: return bool(self.chroma_host)
+    @property
+    def use_redis(self) -> bool: return bool(self.redis_url)
+    @property
+    def use_postgres(self) -> bool: return bool(self.database_url)
+    @property
+    def use_wechat(self) -> bool: return bool(self.wechat_appid and self.wechat_secret)

@@ -1,1 +1,177 @@
-IiIiYmFja2VuZC5za19zZXJ2aWNlIOKAlCDlh7rnq5nosIPnlKjlr4bpkqXvvIhzay3vvInjgIIKCuiuqeWklumDqOW5s+WPsOeUqCBzay0g6LCD5L2g55qE5pm66IO95L2T77yIT3BlbkFJIOWFvOWuueaOpeWPo++8ieOAguiuvuiuoeaIkCLnjrDlnKjog73nlKjjgIHku6XlkI7og73ljZYi77yaCuS4gOS4qiBzayDnu5Hlrpoge+iDveiwg+WTquS6m+aZuuiDveS9kyArIOiuoemHj+WPo+W+hChjYWxscy90b2tlbnMpICsgUXVvdGFQb2xpY3kgKyDlvZLlsZ5944CCCgrllK7ljZbljbMi57uZ5Lmw5a625LiA5Liq5bim6aKd5bqm55qEIHNrIu+8mgotIOaMieasoeWNliAgIOKGkiBtZXRlcj0iY2FsbHMiCi0g5oyJ6YeP5Y2WICAg4oaSIG1ldGVyPSJ0b2tlbnMiCi0g5LiA5qyh5oCn5aWX6aSQIOKGkiBwb2xpY3kucmVzZXRfbW9kZT0ibm9uZSLvvIjnlKjlrozlgZzvvIzlj6/pgIkgYWxsb3dfcmVjaGFyZ2Ug57ut6LS577yJCi0g5pyI5bqm6K6i6ZiFICDihpIgcG9saWN5LnJlc2V0X21vZGU9InBlcmlvZCIsIHBlcmlvZD0ibW9udGhseSIKCuiuoemHj+WkjeeUqOeOsOaciSBRdW90YVBvbGljeSDlvJXmk47vvIjkuI3ph43pgKDvvInjgILmnKzlsYLlj6rlgZoi6K6h6YePK+mZkOminSLvvIjog73kuI3og73nlKjvvInvvJsKIue7k+eulyvmlLbmrL4i77yI566X6ZKxL+aUr+S7mO+8ieaYr+S7peWQjuesrCAyIOWxgu+8jOacrOWxgueahOeUqOmHj+aVsOaNruS4uuWug+Wkh+WlveOAggrnuq8gc3RkbGli77yM5Y+v56a757q/5rWL44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgdGltZQppbXBvcnQgdXVpZAppbXBvcnQgc2VjcmV0cwppbXBvcnQgaGFzaGxpYgpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsCgpmcm9tIGJhY2tlbmQucXVvdGFfc2VydmljZSBpbXBvcnQgUXVvdGFQb2xpY3kKCgpkZWYgX25vdygpIC0+IGZsb2F0OgogICAgcmV0dXJuIHRpbWUudGltZSgpCgoKQGRhdGFjbGFzcwpjbGFzcyBTa1JlY29yZDoKICAgIGlkOiBzdHIgICAgICAgICAgICAgICAgICAgICAgICAgICMgc2sg5YaF6YOoIGlk77yI6Z2e5a+G6ZKl5pys6Lqr77yJCiAgICBrZXlfaGFzaDogc3RyICAgICAgICAgICAgICAgICAgICAjIHNrIOaYjuaWh+eahCBoYXNo77yI5piO5paH5Y+q5Zyo562+5Y+R5pe26L+U5Zue5LiA5qyh77yM5LiN55WZ5a2Y77yJCiAgICBwcmVmaXg6IHN0ciAgICAgICAgICAgICAgICAgICAgICAjIHNrIOWJjee8gO+8iOS+v+S6juivhuWIq++8jOWmgiBzay1saXZlLXh4eHgg55qE5YmN5Yeg5L2N77yJCiAgICBvd25lcl9pZDogc3RyCiAgICBsYWJlbDogc3RyICAgICAgICAgICAgICAgICAgICAgICAjIOWkh+azqO+8muWNlue7meS6huiwgS/ku4DkuYjlpZfppJAKICAgIGFnZW50X2lkczogTGlzdFtzdHJdICAgICAgICAgICAgICMg6IO96LCD5ZOq5Lqb5pm66IO95L2T77yI56m6PeWFqOmDqCBvd25lciDoh6rlt7HnmoTvvIzosKjmhY7vvIkKICAgIG1ldGVyOiBzdHIgICAgICAgICAgICAgICAgICAgICAgICMgImNhbGxzIiB8ICJ0b2tlbnMiCiAgICBwb2xpY3k6IFF1b3RhUG9saWN5CiAgICBzdGF0dXM6IHN0ciA9ICJhY3RpdmUiICAgICAgICAgICAjIGFjdGl2ZSB8IHJldm9rZWQKICAgIHVzZWRfY2FsbHM6IGludCA9IDAKICAgIHVzZWRfdG9rZW5zOiBpbnQgPSAwCiAgICBjcmVhdGVkX2F0OiBmbG9hdCA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1fbm93KQogICAgbGFzdF91c2VkX2F0OiBPcHRpb25hbFtmbG9hdF0gPSBOb25lCiAgICByZXNldF9hdDogT3B0aW9uYWxbZmxvYXRdID0gTm9uZSAgIyDlkajmnJ/orqHph4/nmoTkuIvmrKHph43nva7ml7bpl7QKCiAgICBkZWYgcHVibGljKHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIuWbnuS8oOWJjeerr++8muS4jeWQqyBrZXlfaGFzaO+8jOWPquWQq+WPr+WxleekuuS/oeaBr+OAgiIiIgogICAgICAgIGxpbWl0ID0gc2VsZi5wb2xpY3lfbGltaXQoKQogICAgICAgIHVzZWQgPSBzZWxmLnVzZWRfdG9rZW5zIGlmIHNlbGYubWV0ZXIgPT0gInRva2VucyIgZWxzZSBzZWxmLnVzZWRfY2FsbHMKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAiaWQiOiBzZWxmLmlkLCAicHJlZml4Ijogc2VsZi5wcmVmaXgsICJsYWJlbCI6IHNlbGYubGFiZWwsCiAgICAgICAgICAgICJvd25lcl9pZCI6IHNlbGYub3duZXJfaWQsICJhZ2VudF9pZHMiOiBzZWxmLmFnZW50X2lkcywKICAgICAgICAgICAgIm1ldGVyIjogc2VsZi5tZXRlciwgInN0YXR1cyI6IHNlbGYuc3RhdHVzLAogICAgICAgICAgICAidXNlZCI6IHVzZWQsICJsaW1pdCI6IGxpbWl0LAogICAgICAgICAgICAicmVtYWluaW5nIjogKE5vbmUgaWYgbGltaXQgaXMgTm9uZSBlbHNlIG1heCgwLCBsaW1pdCAtIHVzZWQpKSwKICAgICAgICAgICAgInJlc2V0X21vZGUiOiBzZWxmLnBvbGljeS5yZXNldF9tb2RlLCAicGVyaW9kIjogc2VsZi5wb2xpY3kucGVyaW9kLAogICAgICAgICAgICAiYWxsb3dfcmVjaGFyZ2UiOiBzZWxmLnBvbGljeS5hbGxvd19yZWNoYXJnZSwKICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiBzZWxmLmNyZWF0ZWRfYXQsICJsYXN0X3VzZWRfYXQiOiBzZWxmLmxhc3RfdXNlZF9hdCwKICAgICAgICB9CgogICAgZGVmIHBvbGljeV9saW1pdChzZWxmKSAtPiBPcHRpb25hbFtpbnRdOgogICAgICAgICIiIuivpSBzayDnmoTpop3luqbkuIrpmZDvvIjmnaXoh6ogcG9saWN5LmxpbWl077ybTm9uZT3kuI3pmZDvvInjgIIiIiIKICAgICAgICByZXR1cm4gZ2V0YXR0cihzZWxmLnBvbGljeSwgImxpbWl0IiwgTm9uZSkKCgpkZWYgX2hhc2hfa2V5KHJhdzogc3RyKSAtPiBzdHI6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYocmF3LmVuY29kZSgpKS5oZXhkaWdlc3QoKQoKCmNsYXNzIFNrU2VydmljZToKICAgIGRlZiBfX2luaXRfXyhzZWxmKSAtPiBOb25lOgogICAgICAgIHNlbGYuX3NrczogRGljdFtzdHIsIFNrUmVjb3JkXSA9IHt9ICAgICAgICAjIGlkIC0+IHJlY29yZAogICAgICAgIHNlbGYuX2J5X2hhc2g6IERpY3Rbc3RyLCBzdHJdID0ge30gICAgICAgICAjIGtleV9oYXNoIC0+IGlk77yITygxKSDmoKHpqozvvIkKCiAgICAjIC0tLS0tLS0tLS0g562+5Y+RIC0tLS0tLS0tLS0KICAgIGRlZiBpc3N1ZShzZWxmLCBvd25lcl9pZDogc3RyLCBsYWJlbDogc3RyLCBhZ2VudF9pZHM6IExpc3Rbc3RyXSwKICAgICAgICAgICAgICBtZXRlcjogc3RyID0gImNhbGxzIiwgbGltaXQ6IE9wdGlvbmFsW2ludF0gPSBOb25lLAogICAgICAgICAgICAgIHJlc2V0X21vZGU6IHN0ciA9ICJub25lIiwgcGVyaW9kOiBzdHIgPSAibW9udGhseSIsCiAgICAgICAgICAgICAgYWxsb3dfcmVjaGFyZ2U6IGJvb2wgPSBUcnVlKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLnrb7lj5HkuIDkuKogc2vjgILov5Tlm57lkKsqKuaYjuaWhyBrZXnvvIjlj6rmraTkuIDmrKHvvIkqKisg6K6w5b2V5L+h5oGv44CCIiIiCiAgICAgICAgaWYgbWV0ZXIgbm90IGluICgiY2FsbHMiLCAidG9rZW5zIik6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIm1ldGVyIOWPquiDveaYryBjYWxscyDmiJYgdG9rZW5zIikKICAgICAgICAjIOeUn+aIkOaYjuaWhyBza++8mnNrLTxlbnY+LTxyYW5kb20+44CC5piO5paH5LiN55WZ5a2Y77yM5Y+q5a2YIGhhc2jjgIIKICAgICAgICByYXcgPSAic2stbGl2ZS0iICsgc2VjcmV0cy50b2tlbl91cmxzYWZlKDI0KQogICAgICAgIGtpZCA9ICJza2lkXyIgKyB1dWlkLnV1aWQ0KCkuaGV4WzoxMF0KICAgICAgICBwb2xpY3kgPSBRdW90YVBvbGljeShyZXNldF9tb2RlPXJlc2V0X21vZGUsIHBlcmlvZD1wZXJpb2QsIGFsbG93X3JlY2hhcmdlPWFsbG93X3JlY2hhcmdlKQogICAgICAgICMg5oqK6aKd5bqm5LiK6ZmQ5oyC5YiwIHBvbGljee+8iHF1b3RhIOW8leaTjuaMiSBsaW1pdCDliKTmlq3vvIkKICAgICAgICBzZXRhdHRyKHBvbGljeSwgImxpbWl0IiwgbGltaXQpCiAgICAgICAgcmVjID0gU2tSZWNvcmQoCiAgICAgICAgICAgIGlkPWtpZCwga2V5X2hhc2g9X2hhc2hfa2V5KHJhdyksIHByZWZpeD1yYXdbOjE0XSwKICAgICAgICAgICAgb3duZXJfaWQ9b3duZXJfaWQsIGxhYmVsPWxhYmVsLCBhZ2VudF9pZHM9bGlzdChhZ2VudF9pZHMgb3IgW10pLAogICAgICAgICAgICBtZXRlcj1tZXRlciwgcG9saWN5PXBvbGljeSwKICAgICAgICApCiAgICAgICAgaWYgcmVzZXRfbW9kZSA9PSAicGVyaW9kIjoKICAgICAgICAgICAgcmVjLnJlc2V0X2F0ID0gX25vdygpICsgKDMwICogODY0MDAgaWYgcGVyaW9kID09ICJtb250aGx5IiBlbHNlIDcgKiA4NjQwMCkKICAgICAgICBzZWxmLl9za3Nba2lkXSA9IHJlYwogICAgICAgIHNlbGYuX2J5X2hhc2hbcmVjLmtleV9oYXNoXSA9IGtpZAogICAgICAgIG91dCA9IHJlYy5wdWJsaWMoKQogICAgICAgIG91dFsia2V5Il0gPSByYXcgICAjIOaYjuaWh++8jOWPquatpOS4gOasoQogICAgICAgIG91dFsid2FybmluZyJdID0gIuivt+eri+WNs+S/neWtmOatpOWvhumSpe+8jOWug+WPquaYvuekuuS4gOasoe+8jOS5i+WQjuaXoOazleWGjeasoeafpeeci+OAgiIKICAgICAgICByZXR1cm4gb3V0CgogICAgIyAtLS0tLS0tLS0tIOagoemqjO+8iOWklumDqOiwg+eUqOWFpeWPo+eUqO+8iS0tLS0tLS0tLS0KICAgIGRlZiB2ZXJpZnkoc2VsZiwgcmF3X2tleTogc3RyKSAtPiBPcHRpb25hbFtTa1JlY29yZF06CiAgICAgICAgIiIi5qCh6aqMIHNrIOaYjuaWhyDihpIg6L+U5Zue6K6w5b2V77yI5peg5pWIL+WQiumUgOi/lOWbniBOb25l77yJ44CCIiIiCiAgICAgICAgaWYgbm90IHJhd19rZXkgb3Igbm90IHJhd19rZXkuc3RhcnRzd2l0aCgic2stIik6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAga2lkID0gc2VsZi5fYnlfaGFzaC5nZXQoX2hhc2hfa2V5KHJhd19rZXkpKQogICAgICAgIGlmIG5vdCBraWQ6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgcmVjID0gc2VsZi5fc2tzLmdldChraWQpCiAgICAgICAgaWYgbm90IHJlYyBvciByZWMuc3RhdHVzICE9ICJhY3RpdmUiOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiByZWMKCiAgICBkZWYgY2FuX2NhbGxfYWdlbnQoc2VsZiwgcmVjOiBTa1JlY29yZCwgYWdlbnRfaWQ6IHN0cikgLT4gYm9vbDoKICAgICAgICAiIiLor6Ugc2sg5piv5ZCm6KKr5o6I5p2D6LCD55So5q2k5pm66IO95L2T44CC56m6IGFnZW50X2lkcyA9IOS4jemZkO+8iOiwqOaFju+8ieOAgiIiIgogICAgICAgIHJldHVybiAobm90IHJlYy5hZ2VudF9pZHMpIG9yIChhZ2VudF9pZCBpbiByZWMuYWdlbnRfaWRzKQoKICAgICMgLS0tLS0tLS0tLSDphY3pop3mo4Dmn6UgKyDorqHph48gLS0tLS0tLS0tLQogICAgZGVmIGNoZWNrX3F1b3RhKHNlbGYsIHJlYzogU2tSZWNvcmQpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIuiwg+eUqOWJjeajgOafpe+8muaYr+WQpui/mOaciemineW6puOAgui/lOWbniB7b2ssIHJlbWFpbmluZywgcmVhc29ufeOAgiIiIgogICAgICAgIHNlbGYuX21heWJlX3Jlc2V0KHJlYykKICAgICAgICBsaW1pdCA9IHJlYy5wb2xpY3lfbGltaXQoKQogICAgICAgIGlmIGxpbWl0IGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgInJlbWFpbmluZyI6IE5vbmV9CiAgICAgICAgdXNlZCA9IHJlYy51c2VkX3Rva2VucyBpZiByZWMubWV0ZXIgPT0gInRva2VucyIgZWxzZSByZWMudXNlZF9jYWxscwogICAgICAgIGlmIHVzZWQgPj0gbGltaXQ6CiAgICAgICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICJyZW1haW5pbmciOiAwLCAicmVhc29uIjogIumineW6puW3sueUqOWwvSJ9CiAgICAgICAgcmV0dXJuIHsib2siOiBUcnVlLCAicmVtYWluaW5nIjogbGltaXQgLSB1c2VkfQoKICAgIGRlZiBjb25zdW1lKHNlbGYsIHJlYzogU2tSZWNvcmQsIGNhbGxzOiBpbnQgPSAxLCB0b2tlbnM6IGludCA9IDApIC0+IE5vbmU6CiAgICAgICAgIiIi6LCD55So5ZCO5omj5YeP55So6YeP44CCIiIiCiAgICAgICAgcmVjLnVzZWRfY2FsbHMgKz0gY2FsbHMKICAgICAgICByZWMudXNlZF90b2tlbnMgKz0gdG9rZW5zCiAgICAgICAgcmVjLmxhc3RfdXNlZF9hdCA9IF9ub3coKQoKICAgIGRlZiBfbWF5YmVfcmVzZXQoc2VsZiwgcmVjOiBTa1JlY29yZCkgLT4gTm9uZToKICAgICAgICAiIiLlkajmnJ/orqHph4/vvJrliLDmnJ/ph43nva7nlKjph4/jgIIiIiIKICAgICAgICBpZiByZWMucG9saWN5LnJlc2V0X21vZGUgPT0gInBlcmlvZCIgYW5kIHJlYy5yZXNldF9hdCBhbmQgX25vdygpID49IHJlYy5yZXNldF9hdDoKICAgICAgICAgICAgcmVjLnVzZWRfY2FsbHMgPSAwCiAgICAgICAgICAgIHJlYy51c2VkX3Rva2VucyA9IDAKICAgICAgICAgICAgcmVjLnJlc2V0X2F0ID0gX25vdygpICsgKDMwICogODY0MDAgaWYgcmVjLnBvbGljeS5wZXJpb2QgPT0gIm1vbnRobHkiIGVsc2UgNyAqIDg2NDAwKQoKICAgICMgLS0tLS0tLS0tLSDnrqHnkIYgLS0tLS0tLS0tLQogICAgZGVmIHJldm9rZShzZWxmLCBraWQ6IHN0ciwgb3duZXJfaWQ6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBib29sOgogICAgICAgIHJlYyA9IHNlbGYuX3Nrcy5nZXQoa2lkKQogICAgICAgIGlmIG5vdCByZWM6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIGlmIG93bmVyX2lkIGlzIG5vdCBOb25lIGFuZCByZWMub3duZXJfaWQgIT0gb3duZXJfaWQ6CiAgICAgICAgICAgIHJhaXNlIFBlcm1pc3Npb25FcnJvcigi5Y+q6IO95ZCK6ZSA6Ieq5bex562+5Y+R55qEIHNrIikKICAgICAgICByZWMuc3RhdHVzID0gInJldm9rZWQiCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgcmVjaGFyZ2Uoc2VsZiwga2lkOiBzdHIsIGFkZDogaW50LCBvd25lcl9pZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIue7rei0ue+8muWHj+WwkeW3sueUqOmHj++8iOetieaViOWinuWKoOWPr+eUqOmineW6pu+8ieOAgumcgCBwb2xpY3kuYWxsb3dfcmVjaGFyZ2XjgIIiIiIKICAgICAgICByZWMgPSBzZWxmLl9za3MuZ2V0KGtpZCkKICAgICAgICBpZiBub3QgcmVjOgogICAgICAgICAgICByYWlzZSBLZXlFcnJvcigic2sg5LiN5a2Y5ZyoIikKICAgICAgICBpZiBvd25lcl9pZCBpcyBub3QgTm9uZSBhbmQgcmVjLm93bmVyX2lkICE9IG93bmVyX2lkOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRXJyb3IoIuWPquiDveS4uuiHquW3seeahCBzayDlhYXlgLwiKQogICAgICAgIGlmIG5vdCByZWMucG9saWN5LmFsbG93X3JlY2hhcmdlOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLor6Ugc2sg5LiN5YWB6K6457ut6LS5IikKICAgICAgICBpZiByZWMubWV0ZXIgPT0gInRva2VucyI6CiAgICAgICAgICAgIHJlYy51c2VkX3Rva2VucyA9IG1heCgwLCByZWMudXNlZF90b2tlbnMgLSBhZGQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVjLnVzZWRfY2FsbHMgPSBtYXgoMCwgcmVjLnVzZWRfY2FsbHMgLSBhZGQpCiAgICAgICAgcmV0dXJuIHJlYy5wdWJsaWMoKQoKICAgIGRlZiBsaXN0X2Zvcl9vd25lcihzZWxmLCBvd25lcl9pZDogc3RyKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICByZXR1cm4gW3IucHVibGljKCkgZm9yIHIgaW4gc2VsZi5fc2tzLnZhbHVlcygpIGlmIHIub3duZXJfaWQgPT0gb3duZXJfaWRdCgogICAgZGVmIGdldChzZWxmLCBraWQ6IHN0cikgLT4gT3B0aW9uYWxbU2tSZWNvcmRdOgogICAgICAgIHJldHVybiBzZWxmLl9za3MuZ2V0KGtpZCkK
+"""backend.sk_service — 出站调用密钥（sk-）。
+
+让外部平台用 sk- 调你的智能体（OpenAI 兼容接口）。设计成"现在能用、以后能卖"：
+一个 sk 绑定 {能调哪些智能体 + 计量口径(calls/tokens) + QuotaPolicy + 归属}。
+
+售卖即"给买家一个带额度的 sk"：
+- 按次卖   → meter="calls"
+- 按量卖   → meter="tokens"
+- 一次性套餐 → policy.reset_mode="none"（用完停，可选 allow_recharge 续费）
+- 月度订阅  → policy.reset_mode="period", period="monthly"
+
+计量复用现有 QuotaPolicy 引擎（不重造）。本层只做"计量+限额"（能不能用）；
+"结算+收款"（算钱/支付）是以后第 2 层，本层的用量数据为它备好。
+纯 stdlib，可离线测。
+"""
+from __future__ import annotations
+
+import time
+import uuid
+import secrets
+import hashlib
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional
+
+from backend.quota_service import QuotaPolicy
+
+
+def _now() -> float:
+    return time.time()
+
+
+@dataclass
+class SkRecord:
+    id: str                          # sk 内部 id（非密钥本身）
+    key_hash: str                    # sk 明文的 hash（明文只在签发时返回一次，不留存）
+    prefix: str                      # sk 前缀（便于识别，如 sk-live-xxxx 的前几位）
+    owner_id: str
+    label: str                       # 备注：卖给了谁/什么套餐
+    agent_ids: List[str]             # 能调哪些智能体（空=全部 owner 自己的，谨慎）
+    meter: str                       # "calls" | "tokens"
+    policy: QuotaPolicy
+    status: str = "active"           # active | revoked
+    used_calls: int = 0
+    used_tokens: int = 0
+    created_at: float = field(default_factory=_now)
+    last_used_at: Optional[float] = None
+    reset_at: Optional[float] = None  # 周期计量的下次重置时间
+
+    def public(self) -> Dict[str, Any]:
+        """回传前端：不含 key_hash，只含可展示信息。"""
+        limit = self.policy_limit()
+        used = self.used_tokens if self.meter == "tokens" else self.used_calls
+        return {
+            "id": self.id, "prefix": self.prefix, "label": self.label,
+            "owner_id": self.owner_id, "agent_ids": self.agent_ids,
+            "meter": self.meter, "status": self.status,
+            "used": used, "limit": limit,
+            "remaining": (None if limit is None else max(0, limit - used)),
+            "reset_mode": self.policy.reset_mode, "period": self.policy.period,
+            "allow_recharge": self.policy.allow_recharge,
+            "created_at": self.created_at, "last_used_at": self.last_used_at,
+        }
+
+    def policy_limit(self) -> Optional[int]:
+        """该 sk 的额度上限（来自 policy.limit；None=不限）。"""
+        return getattr(self.policy, "limit", None)
+
+
+def _hash_key(raw: str) -> str:
+    return hashlib.sha256(raw.encode()).hexdigest()
+
+
+class SkService:
+    def __init__(self) -> None:
+        self._sks: Dict[str, SkRecord] = {}        # id -> record
+        self._by_hash: Dict[str, str] = {}         # key_hash -> id（O(1) 校验）
+
+    # ---------- 签发 ----------
+    def issue(self, owner_id: str, label: str, agent_ids: List[str],
+              meter: str = "calls", limit: Optional[int] = None,
+              reset_mode: str = "none", period: str = "monthly",
+              allow_recharge: bool = True) -> Dict[str, Any]:
+        """签发一个 sk。返回含**明文 key（只此一次）**+ 记录信息。"""
+        if meter not in ("calls", "tokens"):
+            raise ValueError("meter 只能是 calls 或 tokens")
+        # 生成明文 sk：sk-<env>-<random>。明文不留存，只存 hash。
+        raw = "sk-live-" + secrets.token_urlsafe(24)
+        kid = "skid_" + uuid.uuid4().hex[:10]
+        policy = QuotaPolicy(reset_mode=reset_mode, period=period, allow_recharge=allow_recharge)
+        # 把额度上限挂到 policy（quota 引擎按 limit 判断）
+        setattr(policy, "limit", limit)
+        rec = SkRecord(
+            id=kid, key_hash=_hash_key(raw), prefix=raw[:14],
+            owner_id=owner_id, label=label, agent_ids=list(agent_ids or []),
+            meter=meter, policy=policy,
+        )
+        if reset_mode == "period":
+            rec.reset_at = _now() + (30 * 86400 if period == "monthly" else 7 * 86400)
+        self._sks[kid] = rec
+        self._by_hash[rec.key_hash] = kid
+        out = rec.public()
+        out["key"] = raw   # 明文，只此一次
+        out["warning"] = "请立即保存此密钥，它只显示一次，之后无法再次查看。"
+        return out
+
+    # ---------- 校验（外部调用入口用）----------
+    def verify(self, raw_key: str) -> Optional[SkRecord]:
+        """校验 sk 明文 → 返回记录（无效/吊销返回 None）。"""
+        if not raw_key or not raw_key.startswith("sk-"):
+            return None
+        kid = self._by_hash.get(_hash_key(raw_key))
+        if not kid:
+            return None
+        rec = self._sks.get(kid)
+        if not rec or rec.status != "active":
+            return None
+        return rec
+
+    def can_call_agent(self, rec: SkRecord, agent_id: str) -> bool:
+        """该 sk 是否被授权调用此智能体。空 agent_ids = 不限（谨慎）。"""
+        return (not rec.agent_ids) or (agent_id in rec.agent_ids)
+
+    # ---------- 配额检查 + 计量 ----------
+    def check_quota(self, rec: SkRecord) -> Dict[str, Any]:
+        """调用前检查：是否还有额度。返回 {ok, remaining, reason}。"""
+        self._maybe_reset(rec)
+        limit = rec.policy_limit()
+        if limit is None:
+            return {"ok": True, "remaining": None}
+        used = rec.used_tokens if rec.meter == "tokens" else rec.used_calls
+        if used >= limit:
+            return {"ok": False, "remaining": 0, "reason": "额度已用尽"}
+        return {"ok": True, "remaining": limit - used}
+
+    def consume(self, rec: SkRecord, calls: int = 1, tokens: int = 0) -> None:
+        """调用后扣减用量。"""
+        rec.used_calls += calls
+        rec.used_tokens += tokens
+        rec.last_used_at = _now()
+
+    def _maybe_reset(self, rec: SkRecord) -> None:
+        """周期计量：到期重置用量。"""
+        if rec.policy.reset_mode == "period" and rec.reset_at and _now() >= rec.reset_at:
+            rec.used_calls = 0
+            rec.used_tokens = 0
+            rec.reset_at = _now() + (30 * 86400 if rec.policy.period == "monthly" else 7 * 86400)
+
+    # ---------- 管理 ----------
+    def revoke(self, kid: str, owner_id: Optional[str] = None) -> bool:
+        rec = self._sks.get(kid)
+        if not rec:
+            return False
+        if owner_id is not None and rec.owner_id != owner_id:
+            raise PermissionError("只能吊销自己签发的 sk")
+        rec.status = "revoked"
+        return True
+
+    def recharge(self, kid: str, add: int, owner_id: Optional[str] = None) -> Dict[str, Any]:
+        """续费：减少已用量（等效增加可用额度）。需 policy.allow_recharge。"""
+        rec = self._sks.get(kid)
+        if not rec:
+            raise KeyError("sk 不存在")
+        if owner_id is not None and rec.owner_id != owner_id:
+            raise PermissionError("只能为自己的 sk 充值")
+        if not rec.policy.allow_recharge:
+            raise ValueError("该 sk 不允许续费")
+        if rec.meter == "tokens":
+            rec.used_tokens = max(0, rec.used_tokens - add)
+        else:
+            rec.used_calls = max(0, rec.used_calls - add)
+        return rec.public()
+
+    def list_for_owner(self, owner_id: str) -> List[Dict[str, Any]]:
+        return [r.public() for r in self._sks.values() if r.owner_id == owner_id]
+
+    def get(self, kid: str) -> Optional[SkRecord]:
+        return self._sks.get(kid)

@@ -1,1 +1,204 @@
-IiIiYmFja2VuZC5tZF92ZXJzaW9uX3N0b3JlIOKAlCDmgJ3ogIMgTUQg54mI5pys566h55CGICsg5Zue5rua77yI6L+b5YyW57O757uf5Zyw5Z+677yJ44CCCgrorr7orqHvvJrniYjmnKzlupPmmK/nnJ/nm7jmupDvvJsi6K6+5Li65LiK57q/IuaXtuaKiuivpeeJiOWGheWuueOAkOWGmeWbnuWvueW6lCAubWQg5paH5Lu244CR77yMCuS6juaYr+eOsOacieeDreWKoOi9ve+8iGxvYWRfcHJvZmlsZSDmr4/mrKHph43or7vmlofku7bvvInlrozlhajkuI3nlKjmlLnigJTigJTlm57mu5o95oqK5pen54mI5YaZ5Zue5paH5Lu244CCCgrmr4/mnaEgTUTvvIhtYWluIC8gZG9tYWluLXNvZnR3YXJlIC8g4oCm77yJ5LiA5p2h54mI5pys57q/77yaCiAgLSDmr4/niYjlrZjmoaPvvJrlrozmlbTlhoXlrrkgKyDmnaXmupAobWFudWFsL2V2b2x2ZWQpICsgcGFyZW50ICsg6K+E5YiGICsg54q25oCBCiAgLSDkuIDkuKoi5LiK57q/5oyH6ZKIIuaMh+WQkeW9k+WJjee6v+S4iueJiAogIC0g5pON5L2c77ya5a2Y54mI5pysIC8g5YiX54mI5pysIC8g5Y+W54mI5pysIC8g6K6+5Li65LiK57q/KD3lhpnlm57mlofku7YpIC8g5Zue5ruaIC8gZGlmZiAvIOWuoeiuoQoK54us56uL5pyJ55So77ya5bCx566X5LiN6L+b5YyW77yM5omL5Yqo5pS5IE1EIOS5n+i1sOeJiOacrOe6v+OAgeiDveWbnua7muOAggrnuq8gc3RkbGli77yIanNvbiDmjIHkuYXljJYgKyDlhoXlrZjvvInvvIzlj6/nprvnur/mtYvjgILov5vljJbojIPlm7Tku4UgUGxhbmUtMe+8jOe7neS4jeeisCBQbGFuZS0w77yIUi0xMu+8ieOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG9zCmltcG9ydCBqc29uCmltcG9ydCB0aW1lCmltcG9ydCB1dWlkCmltcG9ydCBkaWZmbGliCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQsIGFzZGljdApmcm9tIHR5cGluZyBpbXBvcnQgRGljdCwgTGlzdCwgT3B0aW9uYWwsIEFueQoKCmRlZiBfbm93KCkgLT4gZmxvYXQ6CiAgICByZXR1cm4gdGltZS50aW1lKCkKCgpAZGF0YWNsYXNzCmNsYXNzIE1kVmVyc2lvbjoKICAgIGlkOiBzdHIKICAgIG1kX25hbWU6IHN0ciAgICAgICAgICAgICAgICAgICAgICAgICAjICJtYWluIiAvICJkb21haW4tc29mdHdhcmUiIC8gLi4uCiAgICB2ZXJzaW9uOiBpbnQgICAgICAgICAgICAgICAgICAgICAgICAgIyDor6UgbWRfbmFtZSDkuIvnmoTpgJLlop7niYjmnKzlj7cKICAgIGNvbnRlbnQ6IHN0ciAgICAgICAgICAgICAgICAgICAgICAgICAjIOWujOaVtCBNRCDmlofmnKwKICAgIG9yaWdpbjogc3RyID0gIm1hbnVhbCIgICAgICAgICAgICAgICAjIG1hbnVhbCjkurrmiYvmlLkpIC8gZXZvbHZlZCjov5vljJbkuqfnlJ8pCiAgICBwYXJlbnQ6IE9wdGlvbmFsW3N0cl0gPSBOb25lICAgICAgICAgIyDku47lk6rniYjmnaXvvIjov5vljJbml7bmjIflkJHkuIrkuIDniYjvvIkKICAgIHN0YXR1czogc3RyID0gImFyY2hpdmVkIiAgICAgICAgICAgICAjIGxpdmUgLyBjYW5kaWRhdGUgLyBhcmNoaXZlZCAvIHJlamVjdGVkCiAgICBzY29yZXM6IERpY3Rbc3RyLCBBbnldID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpICAgIyB7b2JqZWN0aXZlLCBodW1hbl93aW5yYXRlLCBzYW1wbGVfbn0KICAgIGNyZWF0ZWRfYXQ6IGZsb2F0ID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PV9ub3cpCiAgICBjcmVhdGVkX2J5OiBzdHIgPSAic3lzdGVtIgogICAgbm90ZTogc3RyID0gIiIKCiAgICBkZWYgcHVibGljKHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIGQgPSBhc2RpY3Qoc2VsZikKICAgICAgICBkWyJjb250ZW50X3ByZXZpZXciXSA9IChzZWxmLmNvbnRlbnRbOjIwMF0gKyAi4oCmIikgaWYgbGVuKHNlbGYuY29udGVudCkgPiAyMDAgZWxzZSBzZWxmLmNvbnRlbnQKICAgICAgICBkWyJjb250ZW50X2xlbiJdID0gbGVuKHNlbGYuY29udGVudCkKICAgICAgICByZXR1cm4gZAoKCmNsYXNzIE1kVmVyc2lvblN0b3JlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHRoaW5raW5nX2Rpcjogc3RyLCBkYl9wYXRoOiBPcHRpb25hbFtzdHJdID0gTm9uZSkgLT4gTm9uZToKICAgICAgICAjIHRoaW5raW5nX2Rpcu+8mi5tZCDmlofku7bmiYDlnKjnm67lvZXvvIjorr7kuLrkuIrnur/ml7blhpnlm57ov5nph4zvvIkKICAgICAgICBzZWxmLnRoaW5raW5nX2RpciA9IG9zLnBhdGguYWJzcGF0aCh0aGlua2luZ19kaXIpCiAgICAgICAgc2VsZi5kYl9wYXRoID0gZGJfcGF0aCAgICAgICAgICAgICAgICAgICAgICAgIyBqc29uIOaMgeS5heWMlui3r+W+hO+8iE5vbmU957qv5YaF5a2Y77yJCiAgICAgICAgc2VsZi5fdmVyc2lvbnM6IERpY3Rbc3RyLCBNZFZlcnNpb25dID0ge30gICAgIyB2ZXJzaW9uX2lkIC0+IE1kVmVyc2lvbgogICAgICAgIHNlbGYuX2xpdmU6IERpY3Rbc3RyLCBzdHJdID0ge30gICAgICAgICAgICAgICMgbWRfbmFtZSAtPiBsaXZlIHZlcnNpb25faWQKICAgICAgICBzZWxmLl9hdWRpdDogTGlzdFtEaWN0W3N0ciwgQW55XV0gPSBbXQogICAgICAgIHNlbGYuX2xvYWQoKQoKICAgICMgLS0tLS0tLS0tLSDmjIHkuYXljJYgLS0tLS0tLS0tLQogICAgZGVmIF9sb2FkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgaWYgc2VsZi5kYl9wYXRoIGFuZCBvcy5wYXRoLmV4aXN0cyhzZWxmLmRiX3BhdGgpOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oc2VsZi5kYl9wYXRoLCAiciIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZChmKQogICAgICAgICAgICAgICAgc2VsZi5fdmVyc2lvbnMgPSB7azogTWRWZXJzaW9uKCoqdikgZm9yIGssIHYgaW4gZGF0YS5nZXQoInZlcnNpb25zIiwge30pLml0ZW1zKCl9CiAgICAgICAgICAgICAgICBzZWxmLl9saXZlID0gZGF0YS5nZXQoImxpdmUiLCB7fSkKICAgICAgICAgICAgICAgIHNlbGYuX2F1ZGl0ID0gZGF0YS5nZXQoImF1ZGl0IiwgW10pCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBwYXNzCgogICAgZGVmIF9zYXZlKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgaWYgbm90IHNlbGYuZGJfcGF0aDoKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgdHJ5OgogICAgICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUoc2VsZi5kYl9wYXRoKSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICAgICAgd2l0aCBvcGVuKHNlbGYuZGJfcGF0aCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICAgICAganNvbi5kdW1wKHsKICAgICAgICAgICAgICAgICAgICAidmVyc2lvbnMiOiB7azogYXNkaWN0KHYpIGZvciBrLCB2IGluIHNlbGYuX3ZlcnNpb25zLml0ZW1zKCl9LAogICAgICAgICAgICAgICAgICAgICJsaXZlIjogc2VsZi5fbGl2ZSwgImF1ZGl0Ijogc2VsZi5fYXVkaXQsCiAgICAgICAgICAgICAgICB9LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MKCiAgICBkZWYgX2xvZyhzZWxmLCBhY3Rpb246IHN0ciwgKiprdzogQW55KSAtPiBOb25lOgogICAgICAgIHNlbGYuX2F1ZGl0LmFwcGVuZCh7InRzIjogX25vdygpLCAiYWN0aW9uIjogYWN0aW9uLCAqKmt3fSkKCiAgICAjIC0tLS0tLS0tLS0g5Yid5aeL5YyW77ya5LuO546w5pyJIC5tZCDmlofku7bmkq3np40gdjEgLS0tLS0tLS0tLQogICAgZGVmIGluaXRfZnJvbV9maWxlcyhzZWxmLCBtZF9uYW1lczogTGlzdFtzdHJdKSAtPiBOb25lOgogICAgICAgICIiIuaKiueOsOaciSBjb25maWcvdGhpbmtpbmcvKi5tZCDkvZzkuLrlkIToh6rnmoQgdjHvvIhsaXZl77yJ57qz5YWl54mI5pys5bqT44CCIiIiCiAgICAgICAgZm9yIG5hbWUgaW4gbWRfbmFtZXM6CiAgICAgICAgICAgIGlmIGFueSh2Lm1kX25hbWUgPT0gbmFtZSBmb3IgdiBpbiBzZWxmLl92ZXJzaW9ucy52YWx1ZXMoKSk6CiAgICAgICAgICAgICAgICBjb250aW51ZSAgIyDlt7LmnInniYjmnKznur/vvIzkuI3ph43lpI3mkq3np40KICAgICAgICAgICAgcGF0aCA9IG9zLnBhdGguam9pbihzZWxmLnRoaW5raW5nX2RpciwgZiJ7bmFtZX0ubWQiKQogICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocGF0aCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICB3aXRoIG9wZW4ocGF0aCwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICAgICAgY29udGVudCA9IGYucmVhZCgpCiAgICAgICAgICAgIHZpZCA9IHNlbGYuX25ld192ZXJzaW9uKG5hbWUsIGNvbnRlbnQsIG9yaWdpbj0ibWFudWFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9ieT0ic2VlZCIsIG5vdGU9IuS7jueOsOacieaWh+S7tuaSreenjSB2MSIsIHN0YXR1cz0ibGl2ZSIpCiAgICAgICAgICAgIHNlbGYuX2xpdmVbbmFtZV0gPSB2aWQKICAgICAgICAgICAgc2VsZi5fbG9nKCJzZWVkIiwgbWRfbmFtZT1uYW1lLCB2ZXJzaW9uX2lkPXZpZCkKICAgICAgICBzZWxmLl9zYXZlKCkKCiAgICAjIC0tLS0tLS0tLS0g5a2Y5paw54mI5pysIC0tLS0tLS0tLS0KICAgIGRlZiBfbmV3X3ZlcnNpb24oc2VsZiwgbWRfbmFtZTogc3RyLCBjb250ZW50OiBzdHIsIG9yaWdpbjogc3RyLAogICAgICAgICAgICAgICAgICAgICBwYXJlbnQ6IE9wdGlvbmFsW3N0cl0gPSBOb25lLCBjcmVhdGVkX2J5OiBzdHIgPSAic3lzdGVtIiwKICAgICAgICAgICAgICAgICAgICAgbm90ZTogc3RyID0gIiIsIHN0YXR1czogc3RyID0gImNhbmRpZGF0ZSIpIC0+IHN0cjoKICAgICAgICBleGlzdGluZyA9IFt2IGZvciB2IGluIHNlbGYuX3ZlcnNpb25zLnZhbHVlcygpIGlmIHYubWRfbmFtZSA9PSBtZF9uYW1lXQogICAgICAgIHZlcl9udW0gPSBtYXgoW3YudmVyc2lvbiBmb3IgdiBpbiBleGlzdGluZ10sIGRlZmF1bHQ9MCkgKyAxCiAgICAgICAgdmlkID0gZiJ7bWRfbmFtZX1fdnt2ZXJfbnVtfV97dXVpZC51dWlkNCgpLmhleFs6Nl19IgogICAgICAgIHNlbGYuX3ZlcnNpb25zW3ZpZF0gPSBNZFZlcnNpb24oCiAgICAgICAgICAgIGlkPXZpZCwgbWRfbmFtZT1tZF9uYW1lLCB2ZXJzaW9uPXZlcl9udW0sIGNvbnRlbnQ9Y29udGVudCwKICAgICAgICAgICAgb3JpZ2luPW9yaWdpbiwgcGFyZW50PXBhcmVudCwgc3RhdHVzPXN0YXR1cywKICAgICAgICAgICAgY3JlYXRlZF9ieT1jcmVhdGVkX2J5LCBub3RlPW5vdGUsCiAgICAgICAgKQogICAgICAgIHJldHVybiB2aWQKCiAgICBkZWYgc2F2ZV92ZXJzaW9uKHNlbGYsIG1kX25hbWU6IHN0ciwgY29udGVudDogc3RyLCBvcmlnaW46IHN0ciA9ICJtYW51YWwiLAogICAgICAgICAgICAgICAgICAgICBwYXJlbnQ6IE9wdGlvbmFsW3N0cl0gPSBOb25lLCBjcmVhdGVkX2J5OiBzdHIgPSAiYWRtaW4iLAogICAgICAgICAgICAgICAgICAgICBub3RlOiBzdHIgPSAiIikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIi5a2Y5LiA5Liq5paw54mI5pys77yI6buY6K6kIGNhbmRpZGF0ZSDnirbmgIHvvIzkuI3oh6rliqjkuIrnur/vvInjgIIiIiIKICAgICAgICB2aWQgPSBzZWxmLl9uZXdfdmVyc2lvbihtZF9uYW1lLCBjb250ZW50LCBvcmlnaW49b3JpZ2luLCBwYXJlbnQ9cGFyZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfYnk9Y3JlYXRlZF9ieSwgbm90ZT1ub3RlLCBzdGF0dXM9ImNhbmRpZGF0ZSIpCiAgICAgICAgc2VsZi5fbG9nKCJzYXZlX3ZlcnNpb24iLCBtZF9uYW1lPW1kX25hbWUsIHZlcnNpb25faWQ9dmlkLCBvcmlnaW49b3JpZ2luKQogICAgICAgIHNlbGYuX3NhdmUoKQogICAgICAgIHJldHVybiBzZWxmLl92ZXJzaW9uc1t2aWRdLnB1YmxpYygpCgogICAgIyAtLS0tLS0tLS0tIOiuvuS4uuS4iue6v++8iOaguOW/g++8muWGmeWbniAubWQg5paH5Lu277yM5aSN55So54Ot5Yqg6L2977yJLS0tLS0tLS0tLQogICAgZGVmIHNldF9saXZlKHNlbGYsIHZlcnNpb25faWQ6IHN0ciwgYnk6IHN0ciA9ICJhZG1pbiIpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHYgPSBzZWxmLl92ZXJzaW9ucy5nZXQodmVyc2lvbl9pZCkKICAgICAgICBpZiBub3QgdjoKICAgICAgICAgICAgcmFpc2UgS2V5RXJyb3IoIueJiOacrOS4jeWtmOWcqCIpCiAgICAgICAgIyDlhpnlm57lr7nlupQgLm1kIOaWh+S7tiDigJTigJQg6L+Z5LiA5q2l6K6p54Ot5Yqg6L295Y2z5pe255Sf5pWICiAgICAgICAgcGF0aCA9IG9zLnBhdGguam9pbihzZWxmLnRoaW5raW5nX2RpciwgZiJ7di5tZF9uYW1lfS5tZCIpCiAgICAgICAgb3MubWFrZWRpcnMoc2VsZi50aGlua2luZ19kaXIsIGV4aXN0X29rPVRydWUpCiAgICAgICAgd2l0aCBvcGVuKHBhdGgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZSh2LmNvbnRlbnQpCiAgICAgICAgIyDml6cgbGl2ZSDlvZLmoaMKICAgICAgICBvbGRfbGl2ZSA9IHNlbGYuX2xpdmUuZ2V0KHYubWRfbmFtZSkKICAgICAgICBpZiBvbGRfbGl2ZSBhbmQgb2xkX2xpdmUgaW4gc2VsZi5fdmVyc2lvbnM6CiAgICAgICAgICAgIHNlbGYuX3ZlcnNpb25zW29sZF9saXZlXS5zdGF0dXMgPSAiYXJjaGl2ZWQiCiAgICAgICAgdi5zdGF0dXMgPSAibGl2ZSIKICAgICAgICBzZWxmLl9saXZlW3YubWRfbmFtZV0gPSB2ZXJzaW9uX2lkCiAgICAgICAgc2VsZi5fbG9nKCJzZXRfbGl2ZSIsIG1kX25hbWU9di5tZF9uYW1lLCB2ZXJzaW9uX2lkPXZlcnNpb25faWQsCiAgICAgICAgICAgICAgICAgIGZyb21fdmVyc2lvbj1vbGRfbGl2ZSwgYnk9YnkpCiAgICAgICAgc2VsZi5fc2F2ZSgpCiAgICAgICAgcmV0dXJuIHYucHVibGljKCkKCiAgICBkZWYgcm9sbGJhY2soc2VsZiwgbWRfbmFtZTogc3RyLCB2ZXJzaW9uX2lkOiBzdHIsIGJ5OiBzdHIgPSAiYWRtaW4iKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLlm57mu5ogPSDmiormn5DkuKrljoblj7LniYjmnKzph43mlrDorr7kuLrkuIrnur/vvIjlhpnlm57mlofku7bvvInjgIIiIiIKICAgICAgICB2ID0gc2VsZi5fdmVyc2lvbnMuZ2V0KHZlcnNpb25faWQpCiAgICAgICAgaWYgbm90IHYgb3Igdi5tZF9uYW1lICE9IG1kX25hbWU6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKCLniYjmnKzkuI3lrZjlnKjmiJbkuI3lsZ7kuo7or6UgTUQiKQogICAgICAgIHJlc3VsdCA9IHNlbGYuc2V0X2xpdmUodmVyc2lvbl9pZCwgYnk9YnkpCiAgICAgICAgc2VsZi5fbG9nKCJyb2xsYmFjayIsIG1kX25hbWU9bWRfbmFtZSwgdmVyc2lvbl9pZD12ZXJzaW9uX2lkLCBieT1ieSkKICAgICAgICBzZWxmLl9zYXZlKCkKICAgICAgICByZXR1cm4gcmVzdWx0CgogICAgIyAtLS0tLS0tLS0tIOafpeivoiAtLS0tLS0tLS0tCiAgICBkZWYgbGlzdF92ZXJzaW9ucyhzZWxmLCBtZF9uYW1lOiBzdHIpIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgICAgIHZzID0gW3YgZm9yIHYgaW4gc2VsZi5fdmVyc2lvbnMudmFsdWVzKCkgaWYgdi5tZF9uYW1lID09IG1kX25hbWVdCiAgICAgICAgdnMuc29ydChrZXk9bGFtYmRhIHg6IHgudmVyc2lvbiwgcmV2ZXJzZT1UcnVlKQogICAgICAgIGxpdmVfaWQgPSBzZWxmLl9saXZlLmdldChtZF9uYW1lKQogICAgICAgIG91dCA9IFtdCiAgICAgICAgZm9yIHYgaW4gdnM6CiAgICAgICAgICAgIGQgPSB2LnB1YmxpYygpCiAgICAgICAgICAgIGRbImlzX2xpdmUiXSA9ICh2LmlkID09IGxpdmVfaWQpCiAgICAgICAgICAgIG91dC5hcHBlbmQoZCkKICAgICAgICByZXR1cm4gb3V0CgogICAgZGVmIGxpc3RfbWRfbmFtZXMoc2VsZikgLT4gTGlzdFtzdHJdOgogICAgICAgIHJldHVybiBzb3J0ZWQoe3YubWRfbmFtZSBmb3IgdiBpbiBzZWxmLl92ZXJzaW9ucy52YWx1ZXMoKX0pCgogICAgZGVmIGdldF9saXZlKHNlbGYsIG1kX25hbWU6IHN0cikgLT4gT3B0aW9uYWxbRGljdFtzdHIsIEFueV1dOgogICAgICAgIHZpZCA9IHNlbGYuX2xpdmUuZ2V0KG1kX25hbWUpCiAgICAgICAgcmV0dXJuIHNlbGYuX3ZlcnNpb25zW3ZpZF0ucHVibGljKCkgaWYgdmlkIGFuZCB2aWQgaW4gc2VsZi5fdmVyc2lvbnMgZWxzZSBOb25lCgogICAgZGVmIGdldF92ZXJzaW9uKHNlbGYsIHZlcnNpb25faWQ6IHN0cikgLT4gT3B0aW9uYWxbRGljdFtzdHIsIEFueV1dOgogICAgICAgIHYgPSBzZWxmLl92ZXJzaW9ucy5nZXQodmVyc2lvbl9pZCkKICAgICAgICByZXR1cm4gdi5wdWJsaWMoKSBpZiB2IGVsc2UgTm9uZQoKICAgIGRlZiBnZXRfY29udGVudChzZWxmLCB2ZXJzaW9uX2lkOiBzdHIpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAgICAgdiA9IHNlbGYuX3ZlcnNpb25zLmdldCh2ZXJzaW9uX2lkKQogICAgICAgIHJldHVybiB2LmNvbnRlbnQgaWYgdiBlbHNlIE5vbmUKCiAgICAjIC0tLS0tLS0tLS0gZGlmZiAtLS0tLS0tLS0tCiAgICBkZWYgZGlmZihzZWxmLCB2ZXJzaW9uX2E6IHN0ciwgdmVyc2lvbl9iOiBzdHIpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHZhLCB2YiA9IHNlbGYuX3ZlcnNpb25zLmdldCh2ZXJzaW9uX2EpLCBzZWxmLl92ZXJzaW9ucy5nZXQodmVyc2lvbl9iKQogICAgICAgIGlmIG5vdCB2YSBvciBub3QgdmI6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKCLniYjmnKzkuI3lrZjlnKgiKQogICAgICAgIGRpZmZfbGluZXMgPSBsaXN0KGRpZmZsaWIudW5pZmllZF9kaWZmKAogICAgICAgICAgICB2YS5jb250ZW50LnNwbGl0bGluZXMoKSwgdmIuY29udGVudC5zcGxpdGxpbmVzKCksCiAgICAgICAgICAgIGZyb21maWxlPWYie3ZhLm1kX25hbWV9IHZ7dmEudmVyc2lvbn0iLCB0b2ZpbGU9ZiJ7dmIubWRfbmFtZX0gdnt2Yi52ZXJzaW9ufSIsCiAgICAgICAgICAgIGxpbmV0ZXJtPSIiLAogICAgICAgICkpCiAgICAgICAgYWRkZWQgPSBzdW0oMSBmb3IgbCBpbiBkaWZmX2xpbmVzIGlmIGwuc3RhcnRzd2l0aCgiKyIpIGFuZCBub3QgbC5zdGFydHN3aXRoKCIrKysiKSkKICAgICAgICByZW1vdmVkID0gc3VtKDEgZm9yIGwgaW4gZGlmZl9saW5lcyBpZiBsLnN0YXJ0c3dpdGgoIi0iKSBhbmQgbm90IGwuc3RhcnRzd2l0aCgiLS0tIikpCiAgICAgICAgcmV0dXJuIHsiZGlmZiI6ICJcbiIuam9pbihkaWZmX2xpbmVzKSwgImFkZGVkIjogYWRkZWQsICJyZW1vdmVkIjogcmVtb3ZlZH0KCiAgICBkZWYgYXVkaXRfbG9nKHNlbGYsIG1kX25hbWU6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICBpZiBtZF9uYW1lOgogICAgICAgICAgICByZXR1cm4gW2EgZm9yIGEgaW4gc2VsZi5fYXVkaXQgaWYgYS5nZXQoIm1kX25hbWUiKSA9PSBtZF9uYW1lXQogICAgICAgIHJldHVybiBsaXN0KHNlbGYuX2F1ZGl0KQo=
+"""backend.md_version_store — 思考 MD 版本管理 + 回滚（进化系统地基）。
+
+设计：版本库是真相源；"设为上线"时把该版内容【写回对应 .md 文件】，
+于是现有热加载（load_profile 每次重读文件）完全不用改——回滚=把旧版写回文件。
+
+每条 MD（main / domain-software / …）一条版本线：
+  - 每版存档：完整内容 + 来源(manual/evolved) + parent + 评分 + 状态
+  - 一个"上线指针"指向当前线上版
+  - 操作：存版本 / 列版本 / 取版本 / 设为上线(=写回文件) / 回滚 / diff / 审计
+
+独立有用：就算不进化，手动改 MD 也走版本线、能回滚。
+纯 stdlib（json 持久化 + 内存），可离线测。进化范围仅 Plane-1，绝不碰 Plane-0（R-12）。
+"""
+from __future__ import annotations
+
+import os
+import json
+import time
+import uuid
+import difflib
+from dataclasses import dataclass, field, asdict
+from typing import Dict, List, Optional, Any
+
+
+def _now() -> float:
+    return time.time()
+
+
+@dataclass
+class MdVersion:
+    id: str
+    md_name: str                         # "main" / "domain-software" / ...
+    version: int                         # 该 md_name 下的递增版本号
+    content: str                         # 完整 MD 文本
+    origin: str = "manual"               # manual(人手改) / evolved(进化产生)
+    parent: Optional[str] = None         # 从哪版来（进化时指向上一版）
+    status: str = "archived"             # live / candidate / archived / rejected
+    scores: Dict[str, Any] = field(default_factory=dict)   # {objective, human_winrate, sample_n}
+    created_at: float = field(default_factory=_now)
+    created_by: str = "system"
+    note: str = ""
+
+    def public(self) -> Dict[str, Any]:
+        d = asdict(self)
+        d["content_preview"] = (self.content[:200] + "…") if len(self.content) > 200 else self.content
+        d["content_len"] = len(self.content)
+        return d
+
+
+class MdVersionStore:
+    def __init__(self, thinking_dir: str, db_path: Optional[str] = None) -> None:
+        # thinking_dir：.md 文件所在目录（设为上线时写回这里）
+        self.thinking_dir = os.path.abspath(thinking_dir)
+        self.db_path = db_path                       # json 持久化路径（None=纯内存）
+        self._versions: Dict[str, MdVersion] = {}    # version_id -> MdVersion
+        self._live: Dict[str, str] = {}              # md_name -> live version_id
+        self._audit: List[Dict[str, Any]] = []
+        self._load()
+
+    # ---------- 持久化 ----------
+    def _load(self) -> None:
+        if self.db_path and os.path.exists(self.db_path):
+            try:
+                with open(self.db_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                self._versions = {k: MdVersion(**v) for k, v in data.get("versions", {}).items()}
+                self._live = data.get("live", {})
+                self._audit = data.get("audit", [])
+            except Exception:
+                pass
+
+    def _save(self) -> None:
+        if not self.db_path:
+            return
+        try:
+            os.makedirs(os.path.dirname(self.db_path), exist_ok=True)
+            with open(self.db_path, "w", encoding="utf-8") as f:
+                json.dump({
+                    "versions": {k: asdict(v) for k, v in self._versions.items()},
+                    "live": self._live, "audit": self._audit,
+                }, f, ensure_ascii=False, indent=2)
+        except Exception:
+            pass
+
+    def _log(self, action: str, **kw: Any) -> None:
+        self._audit.append({"ts": _now(), "action": action, **kw})
+
+    # ---------- 初始化：从现有 .md 文件播种 v1 ----------
+    def init_from_files(self, md_names: List[str]) -> None:
+        """把现有 config/thinking/*.md 作为各自的 v1（live）纳入版本库。"""
+        for name in md_names:
+            if any(v.md_name == name for v in self._versions.values()):
+                continue  # 已有版本线，不重复播种
+            path = os.path.join(self.thinking_dir, f"{name}.md")
+            if not os.path.exists(path):
+                continue
+            with open(path, "r", encoding="utf-8") as f:
+                content = f.read()
+            vid = self._new_version(name, content, origin="manual",
+                                    created_by="seed", note="从现有文件播种 v1", status="live")
+            self._live[name] = vid
+            self._log("seed", md_name=name, version_id=vid)
+        self._save()
+
+    # ---------- 存新版本 ----------
+    def _new_version(self, md_name: str, content: str, origin: str,
+                     parent: Optional[str] = None, created_by: str = "system",
+                     note: str = "", status: str = "candidate") -> str:
+        existing = [v for v in self._versions.values() if v.md_name == md_name]
+        ver_num = max([v.version for v in existing], default=0) + 1
+        vid = f"{md_name}_v{ver_num}_{uuid.uuid4().hex[:6]}"
+        self._versions[vid] = MdVersion(
+            id=vid, md_name=md_name, version=ver_num, content=content,
+            origin=origin, parent=parent, status=status,
+            created_by=created_by, note=note,
+        )
+        return vid
+
+    def save_version(self, md_name: str, content: str, origin: str = "manual",
+                     parent: Optional[str] = None, created_by: str = "admin",
+                     note: str = "") -> Dict[str, Any]:
+        """存一个新版本（默认 candidate 状态，不自动上线）。"""
+        vid = self._new_version(md_name, content, origin=origin, parent=parent,
+                                created_by=created_by, note=note, status="candidate")
+        self._log("save_version", md_name=md_name, version_id=vid, origin=origin)
+        self._save()
+        return self._versions[vid].public()
+
+    # ---------- 设为上线（核心：写回 .md 文件，复用热加载）----------
+    def set_live(self, version_id: str, by: str = "admin") -> Dict[str, Any]:
+        v = self._versions.get(version_id)
+        if not v:
+            raise KeyError("版本不存在")
+        # 写回对应 .md 文件 —— 这一步让热加载即时生效
+        path = os.path.join(self.thinking_dir, f"{v.md_name}.md")
+        os.makedirs(self.thinking_dir, exist_ok=True)
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(v.content)
+        # 旧 live 归档
+        old_live = self._live.get(v.md_name)
+        if old_live and old_live in self._versions:
+            self._versions[old_live].status = "archived"
+        v.status = "live"
+        self._live[v.md_name] = version_id
+        self._log("set_live", md_name=v.md_name, version_id=version_id,
+                  from_version=old_live, by=by)
+        self._save()
+        return v.public()
+
+    def rollback(self, md_name: str, version_id: str, by: str = "admin") -> Dict[str, Any]:
+        """回滚 = 把某个历史版本重新设为上线（写回文件）。"""
+        v = self._versions.get(version_id)
+        if not v or v.md_name != md_name:
+            raise KeyError("版本不存在或不属于该 MD")
+        result = self.set_live(version_id, by=by)
+        self._log("rollback", md_name=md_name, version_id=version_id, by=by)
+        self._save()
+        return result
+
+    # ---------- 查询 ----------
+    def list_versions(self, md_name: str) -> List[Dict[str, Any]]:
+        vs = [v for v in self._versions.values() if v.md_name == md_name]
+        vs.sort(key=lambda x: x.version, reverse=True)
+        live_id = self._live.get(md_name)
+        out = []
+        for v in vs:
+            d = v.public()
+            d["is_live"] = (v.id == live_id)
+            out.append(d)
+        return out
+
+    def list_md_names(self) -> List[str]:
+        return sorted({v.md_name for v in self._versions.values()})
+
+    def get_live(self, md_name: str) -> Optional[Dict[str, Any]]:
+        vid = self._live.get(md_name)
+        return self._versions[vid].public() if vid and vid in self._versions else None
+
+    def get_version(self, version_id: str) -> Optional[Dict[str, Any]]:
+        v = self._versions.get(version_id)
+        return v.public() if v else None
+
+    def get_content(self, version_id: str) -> Optional[str]:
+        v = self._versions.get(version_id)
+        return v.content if v else None
+
+    # ---------- diff ----------
+    def diff(self, version_a: str, version_b: str) -> Dict[str, Any]:
+        va, vb = self._versions.get(version_a), self._versions.get(version_b)
+        if not va or not vb:
+            raise KeyError("版本不存在")
+        diff_lines = list(difflib.unified_diff(
+            va.content.splitlines(), vb.content.splitlines(),
+            fromfile=f"{va.md_name} v{va.version}", tofile=f"{vb.md_name} v{vb.version}",
+            lineterm="",
+        ))
+        added = sum(1 for l in diff_lines if l.startswith("+") and not l.startswith("+++"))
+        removed = sum(1 for l in diff_lines if l.startswith("-") and not l.startswith("---"))
+        return {"diff": "\n".join(diff_lines), "added": added, "removed": removed}
+
+    def audit_log(self, md_name: Optional[str] = None) -> List[Dict[str, Any]]:
+        if md_name:
+            return [a for a in self._audit if a.get("md_name") == md_name]
+        return list(self._audit)

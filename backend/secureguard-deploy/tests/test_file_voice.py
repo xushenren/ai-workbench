@@ -1,1 +1,87 @@
-IiIidGVzdHMvdGVzdF9maWxlX3ZvaWNlLnB5IOKAlCDmlofku7bkuIrkvKDvvIjikaHvvIkrIOivremfs++8iOKRouKRo+KRpO+8ieOAgiIiIgppbXBvcnQgc3lzLCBvcywgaW8sIHppcGZpbGUsIGpzb24Kc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQpmcm9tIGJhY2tlbmQuZmlsZV9zZXJ2aWNlIGltcG9ydCBGaWxlU2VydmljZQpmcm9tIGJhY2tlbmQudm9pY2Vfc2VydmljZSBpbXBvcnQgVm9pY2VTZXJ2aWNlLCBBU1JTZXJ2aWNlLCBUVFNTZXJ2aWNlCgoKIyAtLS0tLS0tLS0tIOaWh+S7tuS4iuS8oCAtLS0tLS0tLS0tCmRlZiB0ZXN0X3RleHRfZmlsZV9wYXJzZWQoKToKICAgIHMgPSBGaWxlU2VydmljZSgpCiAgICByID0gcy5pbmdlc3QoIm5vdGVzLnR4dCIsICLkvaDlpb3kuJbnlYwiLmVuY29kZSgidXRmLTgiKSwgc2Vzc2lvbl9pZD0iczEiKQogICAgYXNzZXJ0IHJbImtpbmQiXSA9PSAidGV4dCIgYW5kIHJbImhhc190ZXh0Il0KICAgIGFzc2VydCAi5L2g5aW95LiW55WMIiBpbiBzLmdldChyWyJpZCJdKS5wYXJzZWRfdGV4dAoKCmRlZiB0ZXN0X3NpemVfbGltaXQoKToKICAgIHMgPSBGaWxlU2VydmljZSgpCiAgICB0cnk6CiAgICAgICAgcy5pbmdlc3QoImJpZy50eHQiLCBiIngiICogKDIxICogMTAyNCAqIDEwMjQpKTsgYXNzZXJ0IEZhbHNlCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICBwYXNzCgoKZGVmIHRlc3RfZmlsZW5hbWVfc2FuaXRpemVkKCk6CiAgICBzID0gRmlsZVNlcnZpY2UoKQogICAgciA9IHMuaW5nZXN0KCIuLi8uLi9ldGMvcGFzc3dkIiwgYiJkYXRhIikKICAgIGFzc2VydCAiLyIgbm90IGluIHJbImZpbGVuYW1lIl0gYW5kICIuLiIgbm90IGluIHJbImZpbGVuYW1lIl0KCgpkZWYgdGVzdF96aXBfbGlzdHNfbWFuaWZlc3Rfbm90X2V4dHJhY3RlZCgpOgogICAgYnVmID0gaW8uQnl0ZXNJTygpCiAgICB3aXRoIHppcGZpbGUuWmlwRmlsZShidWYsICJ3IikgYXMgejoKICAgICAgICB6LndyaXRlc3RyKCJhLnR4dCIsICJhYWEiKTsgei53cml0ZXN0cigiYi9jLnB5IiwgInByaW50KDEpIikKICAgIHMgPSBGaWxlU2VydmljZSgpCiAgICByID0gcy5pbmdlc3QoInBrZy56aXAiLCBidWYuZ2V0dmFsdWUoKSkKICAgIGFzc2VydCByWyJraW5kIl0gPT0gImFyY2hpdmUiCiAgICB0eHQgPSBzLmdldChyWyJpZCJdKS5wYXJzZWRfdGV4dAogICAgYXNzZXJ0ICJhLnR4dCIgaW4gdHh0IGFuZCAiYy5weSIgaW4gdHh0IGFuZCAi5Y6L57yp5YyF5ZCrIiBpbiB0eHQKCgpkZWYgdGVzdF9wZGZfaW1hZ2Vfb25seV9zdG9yZWRfd2l0aF9ub3RlKCk6CiAgICBzID0gRmlsZVNlcnZpY2UoKQogICAgcGRmID0gcy5pbmdlc3QoImRvYy5wZGYiLCBiIiVQREYtMS40IGZha2UiKQogICAgaW1nID0gcy5pbmdlc3QoInBpYy5wbmciLCBiIlx4ODlQTkcgZmFrZSIpCiAgICBhc3NlcnQgcGRmWyJraW5kIl0gPT0gImRvY3VtZW50IiBhbmQgbm90IHBkZlsiaGFzX3RleHQiXSBhbmQgcGRmWyJub3RlIl0KICAgIGFzc2VydCBpbWdbImtpbmQiXSA9PSAiaW1hZ2UiIGFuZCBpbWdbIm5vdGUiXQoKCmRlZiB0ZXN0X2NvbnRleHRfdGV4dF9jb21iaW5lcygpOgogICAgcyA9IEZpbGVTZXJ2aWNlKCkKICAgIGEgPSBzLmluZ2VzdCgiYS50eHQiLCAiYWxwaGEiLmVuY29kZSgpLCBzZXNzaW9uX2lkPSJzMSIpCiAgICBiID0gcy5pbmdlc3QoImIucG5nIiwgYiJpbWciLCBzZXNzaW9uX2lkPSJzMSIpCiAgICBjdHggPSBzLmNvbnRleHRfdGV4dChbYVsiaWQiXSwgYlsiaWQiXV0pCiAgICBhc3NlcnQgImFscGhhIiBpbiBjdHggYW5kICJiLnBuZyIgaW4gY3R4CgoKZGVmIHRlc3RfbGlzdF9mb3Jfc2Vzc2lvbigpOgogICAgcyA9IEZpbGVTZXJ2aWNlKCkKICAgIHMuaW5nZXN0KCJhLnR4dCIsIGIieCIsIHNlc3Npb25faWQ9InMxIikKICAgIHMuaW5nZXN0KCJiLnR4dCIsIGIieSIsIHNlc3Npb25faWQ9InMyIikKICAgIGFzc2VydCBsZW4ocy5saXN0X2Zvcl9zZXNzaW9uKCJzMSIpKSA9PSAxCgoKIyAtLS0tLS0tLS0tIOivremfs++8muivmuWunumZjee6p++8iOacquaOpeecn+aooeWei+S4jeWBh+ijheaIkOWKn++8iS0tLS0tLS0tLS0KZGVmIHRlc3RfYXNyX21vY2tfZG9lc19ub3RfZmFrZV90cmFuc2NyaXB0aW9uKCk6CiAgICByID0gQVNSU2VydmljZShiYWNrZW5kPSJtb2NrIikudHJhbnNjcmliZShiImF1ZGlvYnl0ZXMiKQogICAgYXNzZXJ0IHJbInRleHQiXSA9PSAiIiBhbmQgIuacqiIgaW4gclsibm90ZSJdICAjIOS4jeWBh+ijheivhuWIq+WHuuWGheWuuQoKCmRlZiB0ZXN0X3R0c19tb2NrX2RvZXNfbm90X2Zha2VfYXVkaW8oKToKICAgIHIgPSBUVFNTZXJ2aWNlKGJhY2tlbmQ9Im1vY2siKS5zeW50aGVzaXplKCLkvaDlpb0iKQogICAgYXNzZXJ0IHJbImF2YWlsYWJsZSJdIGlzIEZhbHNlIGFuZCBub3QgclsiYXVkaW9fYjY0Il0KCgpkZWYgdGVzdF90dHNfZW1wdHlfdGV4dF9yZWplY3RlZCgpOgogICAgYXNzZXJ0IFRUU1NlcnZpY2UoYmFja2VuZD0ibW9jayIpLnN5bnRoZXNpemUoIiAgIilbImF2YWlsYWJsZSJdIGlzIEZhbHNlCgoKZGVmIHRlc3RfdHRzX3ZvaWNlc19wZXJfYmFja2VuZCgpOgogICAgYXNzZXJ0IGFueSgi5pmT5pmTIiBpbiB2WyJuYW1lIl0gZm9yIHYgaW4gVFRTU2VydmljZShiYWNrZW5kPSJlZGdlIikubGlzdF92b2ljZXMoKSkKICAgIGFzc2VydCBhbnkoIk1PU1MiIGluIHZbIm5hbWUiXSBmb3IgdiBpbiBUVFNTZXJ2aWNlKGJhY2tlbmQ9Im1vc3MiKS5saXN0X3ZvaWNlcygpKQoKCmRlZiB0ZXN0X3ZvaWNlX2NvbmZpZ19yZXBvcnRzX2F2YWlsYWJpbGl0eSgpOgogICAgY2ZnID0gVm9pY2VTZXJ2aWNlKCkuY29uZmlnKCkKICAgIGFzc2VydCBjZmdbImFzciJdWyJhdmFpbGFibGUiXSBpcyBGYWxzZSAgIyDpu5jorqQgbW9jayDmnKrmjqUKICAgIGFzc2VydCAidm9pY2VzIiBpbiBjZmdbInR0cyJdCg==
+"""tests/test_file_voice.py — 文件上传（②）+ 语音（③④⑤）。"""
+import sys, os, io, zipfile, json
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.file_service import FileService
+from backend.voice_service import VoiceService, ASRService, TTSService
+
+
+# ---------- 文件上传 ----------
+def test_text_file_parsed():
+    s = FileService()
+    r = s.ingest("notes.txt", "你好世界".encode("utf-8"), session_id="s1")
+    assert r["kind"] == "text" and r["has_text"]
+    assert "你好世界" in s.get(r["id"]).parsed_text
+
+
+def test_size_limit():
+    s = FileService()
+    try:
+        s.ingest("big.txt", b"x" * (21 * 1024 * 1024)); assert False
+    except ValueError:
+        pass
+
+
+def test_filename_sanitized():
+    s = FileService()
+    r = s.ingest("../../etc/passwd", b"data")
+    assert "/" not in r["filename"] and ".." not in r["filename"]
+
+
+def test_zip_lists_manifest_not_extracted():
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w") as z:
+        z.writestr("a.txt", "aaa"); z.writestr("b/c.py", "print(1)")
+    s = FileService()
+    r = s.ingest("pkg.zip", buf.getvalue())
+    assert r["kind"] == "archive"
+    txt = s.get(r["id"]).parsed_text
+    assert "a.txt" in txt and "c.py" in txt and "压缩包含" in txt
+
+
+def test_pdf_image_only_stored_with_note():
+    s = FileService()
+    pdf = s.ingest("doc.pdf", b"%PDF-1.4 fake")
+    img = s.ingest("pic.png", b"\x89PNG fake")
+    assert pdf["kind"] == "document" and not pdf["has_text"] and pdf["note"]
+    assert img["kind"] == "image" and img["note"]
+
+
+def test_context_text_combines():
+    s = FileService()
+    a = s.ingest("a.txt", "alpha".encode(), session_id="s1")
+    b = s.ingest("b.png", b"img", session_id="s1")
+    ctx = s.context_text([a["id"], b["id"]])
+    assert "alpha" in ctx and "b.png" in ctx
+
+
+def test_list_for_session():
+    s = FileService()
+    s.ingest("a.txt", b"x", session_id="s1")
+    s.ingest("b.txt", b"y", session_id="s2")
+    assert len(s.list_for_session("s1")) == 1
+
+
+# ---------- 语音：诚实降级（未接真模型不假装成功）----------
+def test_asr_mock_does_not_fake_transcription():
+    r = ASRService(backend="mock").transcribe(b"audiobytes")
+    assert r["text"] == "" and "未" in r["note"]  # 不假装识别出内容
+
+
+def test_tts_mock_does_not_fake_audio():
+    r = TTSService(backend="mock").synthesize("你好")
+    assert r["available"] is False and not r["audio_b64"]
+
+
+def test_tts_empty_text_rejected():
+    assert TTSService(backend="mock").synthesize("  ")["available"] is False
+
+
+def test_tts_voices_per_backend():
+    assert any("晓晓" in v["name"] for v in TTSService(backend="edge").list_voices())
+    assert any("MOSS" in v["name"] for v in TTSService(backend="moss").list_voices())
+
+
+def test_voice_config_reports_availability():
+    cfg = VoiceService().config()
+    assert cfg["asr"]["available"] is False  # 默认 mock 未接
+    assert "voices" in cfg["tts"]

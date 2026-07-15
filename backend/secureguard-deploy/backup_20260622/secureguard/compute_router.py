@@ -1,1 +1,272 @@
-IiIic2VjdXJlZ3VhcmQuY29tcHV0ZV9yb3V0ZXIg4oCUIOeul+WKm+S4iee6p+i3r+eUsSArIOaVsOaNruWIhue6p+mXqOOAggoK5Zue5bqU5LyB5Lia5bel5L2c5Y+w6KeE5qC86YeM5pyA5aSn55qE6ZqQ5oKj77yaVGllciAzIOaYryoq5aSW6YOoIEFQSSoq77yIT3BlbkFJL0RlZXBTZWVrL0NsYXVkZeKApu+8ie+8jArogIzkuqflk4HmmK8qKumDqOe9suWcqOS8geS4muiHquacieacjeWKoeWZqCoq44CC6Iul5pWP5oSfL1BJSSDmlbDmja7pmo8i6Ieq5Yqo6ZmN57qnIua1geWIsCBUaWVyIDPvvIwK5bCx562J5LqO5pWw5o2u5Ye65aKD77yM55u05o6l6L+d5Y+N57qi57q/IFItMTDvvIjmlbDmja7lpJbms4Tlh7rlt7Lmibnlh4bovrnnlYzvvInjgIIKCuWboOatpOi3r+eUseS4jeiDveWPqueciyLlj6/nlKjmgKcgKyDmiJDmnKwi77yM5b+F6aG75YWI6L+HKirmlbDmja7liIbnuqfpl6gqKu+8mgoKICAgIOWGheWuuSDihpIg5YiG57qnKFBVQkxJQy9JTlRFUk5BTC9DT05GSURFTlRJQUwvUkVTVFJJQ1RFRCkKICAgICAgICAg4oaSIOaMieWIhue6p+WGs+WumiLlhYHorrjlk6rkupsgVGllciIKICAgICAgICAg4oaSIOWGjeWcqOWFgeiuuOmbhuWQiOWGheaMiSDlj6/nlKjmgKcv5oiQ5pysL+W8uuWItuetlueVpSDpgIkgVGllcgoK5YWz6ZSu562W55Wl77yaCiAgLSBSRVNUUklDVEVE77yI5ZCr5Yet5o2uL1BJSe+8iS8gQ09ORklERU5USUFM77yaKirnpoHmraIqKiBUaWVyIDMg5aSW6YOoIEFQSeOAggogICAg6Iul5YaF572RIFRpZXIgMS8yIOmDveS4jeWPr+eUqCDihpIgZmFpbC1jbG9zZWQg5ouS57ud77yI5LiN5YG35YG36ZmN57qn5Ye65aKD77yJ44CCCiAgLSDmlY/mhJ/ku7vliqHvvIjnuqLnur8gUjAvUjEg5by65Yi25YaF572R77yJ77ya6ZSBIFRpZXIgMe+8jOS4jemZjee6p++8iOWvuem9kOinhOagvCLntKfmgKXlvLrliLYgVGllciAxIu+8ieOAggogIC0gVGllciAzIOmFjeminei2hemZkCDihpIg54aU5pat6K+lIFRpZXLjgIIKICAtIOWFtuS9me+8iFBVQkxJQy9JTlRFUk5BTCDkuJTml6DlvLrliLbvvInvvJpUaWVyIDHihpIy4oaSMyDmjInlj6/nlKjmgKfpmY3nuqfjgIIKCuWkjeeUqCBTZWN1cmVHdWFyZCDml6LmnInmlY/mhJ/mqKHlvI/vvIhMMC9MM++8ieWBmuWIhue6p++8jOe6r+agh+WHhuW6k++8jOWPr+emu+e6v+a1i+ivleOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHJlCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSBlbnVtIGltcG9ydCBJbnRFbnVtCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsCgpmcm9tIC5sMF9pbnB1dF9ndWFyZCBpbXBvcnQgSW5wdXRHdWFyZApmcm9tIC5sM19vdXRwdXRfZ3VhcmQgaW1wb3J0IE91dHB1dEd1YXJkCgoKY2xhc3MgVGllcihJbnRFbnVtKToKICAgIExPQ0FMID0gMSAgICAgICAgICAjIFRpZXIgMSDmnKzlnLAgR1BV77yI5YaF572R77yJCiAgICBQUklWQVRFX0NMT1VEID0gMiAgIyBUaWVyIDIg6Ieq5pyJ5LqR56uv77yI5LuN5bGe5Y+v5L+h6L6555WM77yJCiAgICBFWFRFUk5BTF9BUEkgPSAzICAgIyBUaWVyIDMg5aSW6YOoIEFQSe+8iOi+ueeVjOWklu+8ge+8iQoKCmNsYXNzIERhdGFDbGFzcyhJbnRFbnVtKToKICAgIFBVQkxJQyA9IDAKICAgIElOVEVSTkFMID0gMQogICAgQ09ORklERU5USUFMID0gMgogICAgUkVTVFJJQ1RFRCA9IDMgICAgICMg5ZCr5Yet5o2uIC8gUElJ77yM5pyA6auY5pWP5oSfCgoKIyDlkITmlbDmja7liIbnuqci5YWB6K645L2/55So55qE5pyA6auYIFRpZXIi44CCUkVTVFJJQ1RFRC9DT05GSURFTlRJQUwg56aB5q2i5aSW6YOoIEFQSeOAggpfQUxMT1dFRF9NQVhfVElFUiA9IHsKICAgIERhdGFDbGFzcy5QVUJMSUM6IFRpZXIuRVhURVJOQUxfQVBJLAogICAgRGF0YUNsYXNzLklOVEVSTkFMOiBUaWVyLkVYVEVSTkFMX0FQSSwgICAjIOWGhemDqOS/oeaBr+WPr+eUqOWklumDqCBBUEnvvIjmjInkvIHkuJrnrZbnlaXvvIzlj6/mlLbntKfvvIkKICAgIERhdGFDbGFzcy5DT05GSURFTlRJQUw6IFRpZXIuUFJJVkFURV9DTE9VRCwgICMg5LuF6ZmQ5Y+v5L+h6L6555WM5YaFCiAgICBEYXRhQ2xhc3MuUkVTVFJJQ1RFRDogVGllci5MT0NBTCwgICAgICAgICAgICAjIOWPquWFgeiuuOacrOWcsAp9CgojIOWGhemDqOS/oeaBr+agh+iusO+8iOWPr+aMieS8geS4muiHquWumuS5ieaJqeWxle+8jOW7uuiuruWklue9ruWIsCBQbGFuZS0xIOmFjee9ru+8iQpfSU5URVJOQUxfTUFSS0VSUyA9IHJlLmNvbXBpbGUoCiAgICByIijlhoXpg6h85py65a+GfOS/neWvhnxjb25maWRlbnRpYWx8aW50ZXJuYWxbXHNfLV0qb25seXzkuI3lr7nlpJZ85LuF6ZmQ5YaF6YOofOWVhuS4muenmOWvhikiLAogICAgcmUuSUdOT1JFQ0FTRSwKKQoKIyDmnKzlnLDljJYgUElJIOaooeW8j++8iOS8geS4muWcuuaZr+eahCBQSUkg5piv6Lqr5Lu96K+BL+aJi+acuuWPt++8jOiAjOmdnue+juW8jyBTU07vvIkKX1BJSV9QQVRURVJOUyA9IFsKICAgIHJlLmNvbXBpbGUociJcYlxkezE3fVtcZFh4XVxiIiksICAgICAgICAgICMg5Lit5Zu95bGF5rCR6Lqr5Lu96K+BIDE4IOS9jQogICAgcmUuY29tcGlsZShyIlxiMVszLTldXGR7OX1cYiIpLCAgICAgICAgICAgIyDkuK3lm73miYvmnLrlj7cgMTEg5L2NCiAgICByZS5jb21waWxlKHIiXGJcZHszfS1cZHsyfS1cZHs0fVxiIiksICAgICAjIFVTIFNTTgogICAgcmUuY29tcGlsZShyIlxiNjJcZHsxNCwxN31cYiIpLCAgICAgICAgICAgIyDpk7bogZTljaHlj7fvvIg2MiDlvIDlpLTvvIznm7jlr7nnsr7noa7vvIkKXQoKCkBkYXRhY2xhc3MKY2xhc3MgVGllclN0YXR1czoKICAgICIiIuafkCBUaWVyIOW9k+WJjeWPr+eUqOaAp+S4jumFjemineeKtuaAgeOAgiIiIgoKICAgIGF2YWlsYWJsZTogYm9vbCA9IFRydWUKICAgIHF1b3RhX2V4aGF1c3RlZDogYm9vbCA9IEZhbHNlICAjIOS7hSBUaWVyIDMg55u45YWzCgoKQGRhdGFjbGFzcwpjbGFzcyBSb3V0ZURlY2lzaW9uOgogICAgYWxsb3dlZDogYm9vbAogICAgdGllcjogT3B0aW9uYWxbVGllcl0KICAgIGRhdGFfY2xhc3M6IERhdGFDbGFzcwogICAgcmVhc29uOiBzdHIKICAgIGRvd25ncmFkZWQ6IGJvb2wgPSBGYWxzZQogICAgbm90ZXM6IExpc3Rbc3RyXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQoKICAgIGRlZiB0b19kaWN0KHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJhbGxvd2VkIjogc2VsZi5hbGxvd2VkLAogICAgICAgICAgICAidGllciI6IGludChzZWxmLnRpZXIpIGlmIHNlbGYudGllciBlbHNlIE5vbmUsCiAgICAgICAgICAgICJ0aWVyX25hbWUiOiBzZWxmLnRpZXIubmFtZSBpZiBzZWxmLnRpZXIgZWxzZSBOb25lLAogICAgICAgICAgICAiZGF0YV9jbGFzcyI6IHNlbGYuZGF0YV9jbGFzcy5uYW1lLAogICAgICAgICAgICAicmVhc29uIjogc2VsZi5yZWFzb24sCiAgICAgICAgICAgICJkb3duZ3JhZGVkIjogc2VsZi5kb3duZ3JhZGVkLAogICAgICAgICAgICAibm90ZXMiOiBzZWxmLm5vdGVzLAogICAgICAgIH0KCgojIFRpZXIg5ZCN56ew77yI5LiO5pm66IO95L2TIFlBTUwg6YWN572u6YeM55qEIHRpZXIxL3RpZXIyL3RpZXIzIOWvuem9kO+8iQpfVElFUl9CWV9OQU1FID0geyJ0aWVyMSI6IFRpZXIuTE9DQUwsICJ0aWVyMiI6IFRpZXIuUFJJVkFURV9DTE9VRCwgInRpZXIzIjogVGllci5FWFRFUk5BTF9BUEl9CgoKQGRhdGFjbGFzcwpjbGFzcyBBZ2VudENvbXB1dGVQb2xpY3k6CiAgICAiIiJEMiDnu4jnqL/vvJrmr4/kuKrmmbrog73kvZPnmoTnrpflipvnrZbnlaXvvIznlLHnrqHnkIblkZjmjInkuJrliqHlnLrmma/phY3nva7jgIIKCiAgICDnpLrkvovvvIhIUuWKqeaJi+S7heWGhee9kSAvIOmAmueUqOmXruetlOWPr+eUqOWklumDqCBBUEnvvInvvJoKICAgICAgICBBZ2VudENvbXB1dGVQb2xpY3koYWxsb3dlZF90aWVycz1bInRpZXIxIl0sIGZvcmNlX2xvY2FsX2Zvcj1bIlIwIiwiUjEiXSkKICAgICAgICBBZ2VudENvbXB1dGVQb2xpY3koYWxsb3dlZF90aWVycz1bInRpZXIxIiwidGllcjIiLCJ0aWVyMyJdKQogICAgIiIiCgogICAgYWxsb3dlZF90aWVyczogTGlzdFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxhbWJkYTogWyJ0aWVyMSJdKQogICAgcHJlZmVycmVkX29yZGVyOiBMaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkgICMg56m65YiZ5oyJIGFsbG93ZWRfdGllcnMg6aG65bqPCiAgICBmb3JjZV9sb2NhbF9mb3I6IExpc3Rbc3RyXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1sYW1iZGE6IFsiUjAiLCAiUjEiXSkKICAgIGZhaWxfc3RyYXRlZ3k6IHN0ciA9ICJjbG9zZWQiICAjIGNsb3NlZD3lhajmjILliJnmi5Lnu50gLyBvcGVuPeWFgeiuuOmZjee6p+WIsCBleHRlcm5hbAoKICAgIGRlZiBhbGxvd2VkX3NldChzZWxmKToKICAgICAgICByZXR1cm4ge19USUVSX0JZX05BTUVbdF0gZm9yIHQgaW4gc2VsZi5hbGxvd2VkX3RpZXJzIGlmIHQgaW4gX1RJRVJfQllfTkFNRX0KCgpjbGFzcyBEYXRhQ2xhc3NpZmllcjoKICAgICIiIuWGheWuueaVsOaNruWIhue6p+OAguWkjeeUqCBTZWN1cmVHdWFyZCDnmoTmlY/mhJ/mqKHlvI/mo4DmtYsgUElJL+WHreaNruOAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKSAtPiBOb25lOgogICAgICAgIHNlbGYuX2lucHV0X2d1YXJkID0gSW5wdXRHdWFyZCgpCiAgICAgICAgc2VsZi5fc2VucyA9IFtyZS5jb21waWxlKHAsIHJlLklHTk9SRUNBU0UpIGZvciBwLCBfIGluIE91dHB1dEd1YXJkLlNFTlNJVElWRV9QQVRURVJOU10KCiAgICBkZWYgY2xhc3NpZnkoc2VsZiwgY29udGVudDogc3RyLCBkZWNsYXJlZDogT3B0aW9uYWxbRGF0YUNsYXNzXSA9IE5vbmUpIC0+IERhdGFDbGFzczoKICAgICAgICAiIiLov5Tlm57lhoXlrrnliIbnuqfjgIJkZWNsYXJlZCDkuLrosIPnlKjmlrnlo7DmmI7nmoTkuIvpmZDvvIzlj5bmo4DmtYvkuI7lo7DmmI7nmoTovoPpq5jogIXjgIIiIiIKICAgICAgICBsZXZlbCA9IERhdGFDbGFzcy5QVUJMSUMKCiAgICAgICAgIyDlh63mja4vUElJIOWRveS4re+8iOWkjeeUqCBMMyDmlY/mhJ/mqKHlvI/vvInihpIgUkVTVFJJQ1RFRAogICAgICAgIGlmIGFueShwLnNlYXJjaChjb250ZW50KSBmb3IgcCBpbiBzZWxmLl9zZW5zKSBvciBhbnkocC5zZWFyY2goY29udGVudCkgZm9yIHAgaW4gX1BJSV9QQVRURVJOUyk6CiAgICAgICAgICAgIGxldmVsID0gRGF0YUNsYXNzLlJFU1RSSUNURUQKICAgICAgICBlbHNlOgogICAgICAgICAgICAjIOWHreaNrue0ouimgeexu+mZt+mYseS5n+inhuS4uumrmOaVj+aEnwogICAgICAgICAgICB0cmFwcyA9IHt0LnRyYXBfdHlwZSBmb3IgdCBpbiBzZWxmLl9pbnB1dF9ndWFyZC5zY2FuKGNvbnRlbnQpfQogICAgICAgICAgICBpZiAiY3JlZGVudGlhbF9sZWFrIiBpbiB0cmFwcyBvciAiZGF0YV9leGZpbCIgaW4gdHJhcHM6CiAgICAgICAgICAgICAgICBsZXZlbCA9IERhdGFDbGFzcy5SRVNUUklDVEVECiAgICAgICAgICAgIGVsaWYgX0lOVEVSTkFMX01BUktFUlMuc2VhcmNoKGNvbnRlbnQpOgogICAgICAgICAgICAgICAgbGV2ZWwgPSBEYXRhQ2xhc3MuQ09ORklERU5USUFMCgogICAgICAgIGlmIGRlY2xhcmVkIGlzIG5vdCBOb25lIGFuZCBkZWNsYXJlZCA+IGxldmVsOgogICAgICAgICAgICBsZXZlbCA9IGRlY2xhcmVkCiAgICAgICAgcmV0dXJuIGxldmVsCgoKY2xhc3MgQ29tcHV0ZVJvdXRlcjoKICAgICIiIueul+WKm+i3r+eUseWZqO+8muaVsOaNruWIhue6p+mXqCDihpIg5Y+v55So5oCnL+W8uuWItuetlueVpemAiSBUaWVy44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNsYXNzaWZpZXI6IE9wdGlvbmFsW0RhdGFDbGFzc2lmaWVyXSA9IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5jbGFzc2lmaWVyID0gY2xhc3NpZmllciBvciBEYXRhQ2xhc3NpZmllcigpCgogICAgZGVmIGNsYXNzaWZ5X2Zvcl9hdWRpdChzZWxmLCBjb250ZW50OiBzdHIpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIkQyIOe7iOeov++8muWIhue6p+mXqOS4jeWGjeWGs+Wumui3r+eUse+8jOWPquWcqOajgOWHuiBQSUkv5Yet5o2u5pe25Lqn5Ye65a6h6K6h5ZGK6K2m44CCIiIiCiAgICAgICAgZGMgPSBzZWxmLmNsYXNzaWZpZXIuY2xhc3NpZnkoY29udGVudCkKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAiZGF0YV9jbGFzcyI6IGRjLm5hbWUsCiAgICAgICAgICAgICJwaWlfYWxlcnQiOiBkYyA+PSBEYXRhQ2xhc3MuQ09ORklERU5USUFMLCAgIyDmnLrlr4blj4rku6XkuIrop6blj5HlkYroraYKICAgICAgICAgICAgInNldmVyaXR5IjogImhpZ2giIGlmIGRjID09IERhdGFDbGFzcy5SRVNUUklDVEVEIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgKCJtZWRpdW0iIGlmIGRjID09IERhdGFDbGFzcy5DT05GSURFTlRJQUwgZWxzZSAibm9uZSIpLAogICAgICAgIH0KCiAgICBkZWYgcm91dGVfYnlfcG9saWN5KAogICAgICAgIHNlbGYsCiAgICAgICAgY29udGVudDogc3RyLAogICAgICAgIHBvbGljeTogIkFnZW50Q29tcHV0ZVBvbGljeSIsCiAgICAgICAgdGllcl9zdGF0dXM6IERpY3RbVGllciwgVGllclN0YXR1c10sCiAgICAgICAgKiwKICAgICAgICByaXNrX2xldmVsOiBPcHRpb25hbFtzdHJdID0gTm9uZSwgICAjICJSMCIvIlIxIi8iUjIi77yM55So5LqOIGZvcmNlX2xvY2FsX2ZvcgogICAgKSAtPiBSb3V0ZURlY2lzaW9uOgogICAgICAgICIiIkQyIOe7iOeov+S4u+i3r+W+hO+8muaMieOAkOaZuuiDveS9k+eahCBjb21wdXRlX3BvbGljeeOAkeWGs+Wumueul+WKm++8jOWIhue6p+S7heS9nOWuoeiuoeWRiuitpuOAggoKICAgICAgICDnrqHnkIblkZjpgJrov4cgcG9saWN5LmFsbG93ZWRfdGllcnMg5Li65q+P5Liq5pm66IO95L2T5YiG6YWN566X5Yqb6L6555WM77yb6L+Z6YeM5LiN5YaN55SoCiAgICAgICAg5pWw5o2u5YiG57qn5Y675ZCm5Yaz6Lev55Sx77yISFLliqnmiYvlj6rphY0gdGllcjEg6L+Z56eN6ZqU56a755Sx566h55CG5ZGY5ZyoIHBvbGljeSDph4zooajovr7vvInjgIIKICAgICAgICAiIiIKICAgICAgICBhdWRpdCA9IHNlbGYuY2xhc3NpZnlfZm9yX2F1ZGl0KGNvbnRlbnQpCiAgICAgICAgbm90ZXMgPSBbZiJhdWRpdF9jbGFzcz17YXVkaXRbJ2RhdGFfY2xhc3MnXX0iLAogICAgICAgICAgICAgICAgIGYicGlpX2FsZXJ0PXthdWRpdFsncGlpX2FsZXJ0J119Il0KICAgICAgICBkYyA9IERhdGFDbGFzc1thdWRpdFsiZGF0YV9jbGFzcyJdXQoKICAgICAgICAjIDEpIOaVj+aEn+S7u+WKoeW8uuWItuacrOWcsO+8iHBvbGljeS5mb3JjZV9sb2NhbF9mb3Ig5ZG95Lit6aOO6Zmp57qn77yJCiAgICAgICAgaWYgcmlza19sZXZlbCBhbmQgcmlza19sZXZlbCBpbiBwb2xpY3kuZm9yY2VfbG9jYWxfZm9yOgogICAgICAgICAgICBzdCA9IHRpZXJfc3RhdHVzLmdldChUaWVyLkxPQ0FMLCBUaWVyU3RhdHVzKCkpCiAgICAgICAgICAgIGlmIHN0LmF2YWlsYWJsZToKICAgICAgICAgICAgICAgIHJldHVybiBSb3V0ZURlY2lzaW9uKFRydWUsIFRpZXIuTE9DQUwsIGRjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJmb3JjZV9sb2NhbF9mb3I9e3Jpc2tfbGV2ZWx9Iiwgbm90ZXM9bm90ZXMpCiAgICAgICAgICAgIGlmIHBvbGljeS5mYWlsX3N0cmF0ZWd5ID09ICJjbG9zZWQiOgogICAgICAgICAgICAgICAgcmV0dXJuIFJvdXRlRGVjaXNpb24oRmFsc2UsIE5vbmUsIGRjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZvcmNlX2xvY2FsIOS4lCBUaWVyMSDkuI3lj6/nlKgg4oaSIGZhaWwtY2xvc2VkIiwgbm90ZXM9bm90ZXMpCgogICAgICAgICMgMikg5oyJIHBvbGljeS5wcmVmZXJyZWRfb3JkZXIg5ZyoIGFsbG93ZWRfdGllcnMg5YaF6YCJ56ys5LiA5Liq5Y+v55So6ICFCiAgICAgICAgb3JkZXIgPSBwb2xpY3kucHJlZmVycmVkX29yZGVyIG9yIHBvbGljeS5hbGxvd2VkX3RpZXJzCiAgICAgICAgZG93bmdyYWRlZCA9IEZhbHNlCiAgICAgICAgZmlyc3QgPSBUcnVlCiAgICAgICAgZm9yIHRuYW1lIGluIG9yZGVyOgogICAgICAgICAgICB0aWVyID0gX1RJRVJfQllfTkFNRS5nZXQodG5hbWUpCiAgICAgICAgICAgIGlmIHRpZXIgaXMgTm9uZSBvciB0aWVyIG5vdCBpbiBwb2xpY3kuYWxsb3dlZF9zZXQoKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHN0ID0gdGllcl9zdGF0dXMuZ2V0KHRpZXIsIFRpZXJTdGF0dXMoKSkKICAgICAgICAgICAgaWYgbm90IHN0LmF2YWlsYWJsZSBvciAodGllciA9PSBUaWVyLkVYVEVSTkFMX0FQSSBhbmQgc3QucXVvdGFfZXhoYXVzdGVkKToKICAgICAgICAgICAgICAgIGRvd25ncmFkZWQgPSBUcnVlCiAgICAgICAgICAgICAgICBmaXJzdCA9IEZhbHNlCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICByZWFzb24gPSBmInBvbGljeV9zZWxlY3RlZD17dGllci5uYW1lfSIgKyAoIu+8iOW3sumZjee6p++8iSIgaWYgbm90IGZpcnN0IGVsc2UgIiIpCiAgICAgICAgICAgIHJldHVybiBSb3V0ZURlY2lzaW9uKFRydWUsIHRpZXIsIGRjLCByZWFzb24sIGRvd25ncmFkZWQ9ZG93bmdyYWRlZCwgbm90ZXM9bm90ZXMpCgogICAgICAgICMgMykgYWxsb3dlZF90aWVycyDlhoXml6Dlj6/nlKjnrpflipsg4oaSIOaMiSBmYWlsX3N0cmF0ZWd5CiAgICAgICAgaWYgcG9saWN5LmZhaWxfc3RyYXRlZ3kgPT0gIm9wZW4iIGFuZCBUaWVyLkVYVEVSTkFMX0FQSSBpbiBwb2xpY3kuYWxsb3dlZF9zZXQoKToKICAgICAgICAgICAgc3QgPSB0aWVyX3N0YXR1cy5nZXQoVGllci5FWFRFUk5BTF9BUEksIFRpZXJTdGF0dXMoKSkKICAgICAgICAgICAgaWYgc3QuYXZhaWxhYmxlIGFuZCBub3Qgc3QucXVvdGFfZXhoYXVzdGVkOgogICAgICAgICAgICAgICAgcmV0dXJuIFJvdXRlRGVjaXNpb24oVHJ1ZSwgVGllci5FWFRFUk5BTF9BUEksIGRjLCAiZmFpbF9vcGVu4oaSZXh0ZXJuYWwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG93bmdyYWRlZD1UcnVlLCBub3Rlcz1ub3RlcykKICAgICAgICByZXR1cm4gUm91dGVEZWNpc2lvbihGYWxzZSwgTm9uZSwgZGMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImFsbG93ZWRfdGllcnMg5YaF5peg5Y+v55So566X5YqbIOKGkiBmYWlsLWNsb3NlZCDmi5Lnu50iLCBub3Rlcz1ub3RlcykKCiAgICBkZWYgcm91dGUoCiAgICAgICAgc2VsZiwKICAgICAgICBjb250ZW50OiBzdHIsCiAgICAgICAgdGllcl9zdGF0dXM6IERpY3RbVGllciwgVGllclN0YXR1c10sCiAgICAgICAgKiwKICAgICAgICBkZWNsYXJlZF9jbGFzczogT3B0aW9uYWxbRGF0YUNsYXNzXSA9IE5vbmUsCiAgICAgICAgZm9yY2VfbG9jYWw6IGJvb2wgPSBGYWxzZSwgICAgICAgIyDmlY/mhJ/ku7vliqHvvIjnuqLnur8gUjAvUjHvvInlvLrliLYgVGllciAxCiAgICAgICAgbG9ja2VkX3RpZXI6IE9wdGlvbmFsW1RpZXJdID0gTm9uZSwgICMg566h55CG5ZGY5Li65pm66IO95L2T6ZSB5a6aIFRpZXIKICAgICkgLT4gUm91dGVEZWNpc2lvbjoKICAgICAgICBkYyA9IHNlbGYuY2xhc3NpZmllci5jbGFzc2lmeShjb250ZW50LCBkZWNsYXJlZF9jbGFzcykKICAgICAgICBub3RlczogTGlzdFtzdHJdID0gW2YiY2xhc3NpZmllZD17ZGMubmFtZX0iXQoKICAgICAgICAjIDEpIOW8uuWItuacrOWcsO+8iOaVj+aEn+S7u+WKoe+8ie+8muWPquiupCBUaWVyIDHvvIzkuI3pmY3nuqcKICAgICAgICBpZiBmb3JjZV9sb2NhbDoKICAgICAgICAgICAgc3QgPSB0aWVyX3N0YXR1cy5nZXQoVGllci5MT0NBTCwgVGllclN0YXR1cygpKQogICAgICAgICAgICBpZiBzdC5hdmFpbGFibGU6CiAgICAgICAgICAgICAgICByZXR1cm4gUm91dGVEZWNpc2lvbihUcnVlLCBUaWVyLkxPQ0FMLCBkYywgImZvcmNlX2xvY2FsOiDmlY/mhJ/ku7vliqHplIEgVGllcjEiLCBub3Rlcz1ub3RlcykKICAgICAgICAgICAgcmV0dXJuIFJvdXRlRGVjaXNpb24oRmFsc2UsIE5vbmUsIGRjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZm9yY2VfbG9jYWwg5L2GIFRpZXIxIOS4jeWPr+eUqCDihpIgZmFpbC1jbG9zZWQg5ouS57udIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90ZXM9bm90ZXMpCgogICAgICAgICMgMikg5pWw5o2u5YiG57qn6Zeo77ya566X5Ye66K+l5YiG57qn5YWB6K6455qE5pyA6auYIFRpZXIKICAgICAgICBtYXhfdGllciA9IF9BTExPV0VEX01BWF9USUVSW2RjXQogICAgICAgIG5vdGVzLmFwcGVuZChmIm1heF9hbGxvd2VkX3RpZXI9e21heF90aWVyLm5hbWV9IikKCiAgICAgICAgIyAzKSDnrqHnkIblkZjplIHlrpogVGllcu+8muW/hemhu+S7jeWcqOWIhue6p+WFgeiuuOiMg+WbtOWGhe+8jOWQpuWImeaLkue7ne+8iOWuieWFqOS8mOWFiOS6jumUgeWumu+8iQogICAgICAgIGlmIGxvY2tlZF90aWVyIGlzIG5vdCBOb25lOgogICAgICAgICAgICBpZiBsb2NrZWRfdGllciA+IG1heF90aWVyOgogICAgICAgICAgICAgICAgcmV0dXJuIFJvdXRlRGVjaXNpb24oRmFsc2UsIE5vbmUsIGRjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiLplIHlrpoge2xvY2tlZF90aWVyLm5hbWV9IOi2heWHuiB7ZGMubmFtZX0g5YWB6K6455qEIHttYXhfdGllci5uYW1lfSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3Rlcz1ub3RlcykKICAgICAgICAgICAgc3QgPSB0aWVyX3N0YXR1cy5nZXQobG9ja2VkX3RpZXIsIFRpZXJTdGF0dXMoKSkKICAgICAgICAgICAgaWYgbm90IHN0LmF2YWlsYWJsZSBvciAobG9ja2VkX3RpZXIgPT0gVGllci5FWFRFUk5BTF9BUEkgYW5kIHN0LnF1b3RhX2V4aGF1c3RlZCk6CiAgICAgICAgICAgICAgICByZXR1cm4gUm91dGVEZWNpc2lvbihGYWxzZSwgTm9uZSwgZGMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIumUgeWumueahCB7bG9ja2VkX3RpZXIubmFtZX0g5LiN5Y+v55SoL+i2heminSIsIG5vdGVzPW5vdGVzKQogICAgICAgICAgICByZXR1cm4gUm91dGVEZWNpc2lvbihUcnVlLCBsb2NrZWRfdGllciwgZGMsIGYibG9ja2VkPXtsb2NrZWRfdGllci5uYW1lfSIsIG5vdGVzPW5vdGVzKQoKICAgICAgICAjIDQpIOWcqOWFgeiuuOiMg+WbtOWGheaMiSBUaWVyMeKGkjLihpIzIOmZjee6p+mAieesrOS4gOS4quWPr+eUqOiAhQogICAgICAgIGRvd25ncmFkZWQgPSBGYWxzZQogICAgICAgIGZvciB0aWVyIGluIChUaWVyLkxPQ0FMLCBUaWVyLlBSSVZBVEVfQ0xPVUQsIFRpZXIuRVhURVJOQUxfQVBJKToKICAgICAgICAgICAgaWYgdGllciA+IG1heF90aWVyOgogICAgICAgICAgICAgICAgIyDop6blj4rliIbnuqfnuqLnur/vvJrkuI3lhYHorrjnmoTmm7Tpq5ggVGllciDkuIDlvovot7Pov4fvvIjnu53kuI3lh7rlooPvvIkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHN0ID0gdGllcl9zdGF0dXMuZ2V0KHRpZXIsIFRpZXJTdGF0dXMoKSkKICAgICAgICAgICAgaWYgbm90IHN0LmF2YWlsYWJsZToKICAgICAgICAgICAgICAgIGRvd25ncmFkZWQgPSBUcnVlCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZiB0aWVyID09IFRpZXIuRVhURVJOQUxfQVBJIGFuZCBzdC5xdW90YV9leGhhdXN0ZWQ6CiAgICAgICAgICAgICAgICBkb3duZ3JhZGVkID0gVHJ1ZQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgcmVhc29uID0gZiJzZWxlY3RlZD17dGllci5uYW1lfSIgKyAoIu+8iOW3sumZjee6p++8iSIgaWYgZG93bmdyYWRlZCBlbHNlICIiKQogICAgICAgICAgICByZXR1cm4gUm91dGVEZWNpc2lvbihUcnVlLCB0aWVyLCBkYywgcmVhc29uLCBkb3duZ3JhZGVkPWRvd25ncmFkZWQsIG5vdGVzPW5vdGVzKQoKICAgICAgICAjIDUpIOWFgeiuuOiMg+WbtOWGheaXoOWPr+eUqCBUaWVyIOKGkiBmYWlsLWNsb3NlZAogICAgICAgIHJldHVybiBSb3V0ZURlY2lzaW9uKEZhbHNlLCBOb25lLCBkYywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIntkYy5uYW1lfSDlhYHorrjojIPlm7TlhoXvvIjiiaR7bWF4X3RpZXIubmFtZX3vvInml6Dlj6/nlKjnrpflipsg4oaSIGZhaWwtY2xvc2VkIOaLkue7nSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90ZXM9bm90ZXMpCg==
+"""secureguard.compute_router — 算力三级路由 + 数据分级门。
+
+回应企业工作台规格里最大的隐患：Tier 3 是**外部 API**（OpenAI/DeepSeek/Claude…），
+而产品是**部署在企业自有服务器**。若敏感/PII 数据随"自动降级"流到 Tier 3，
+就等于数据出境，直接违反红线 R-10（数据外泄出已批准边界）。
+
+因此路由不能只看"可用性 + 成本"，必须先过**数据分级门**：
+
+    内容 → 分级(PUBLIC/INTERNAL/CONFIDENTIAL/RESTRICTED)
+         → 按分级决定"允许哪些 Tier"
+         → 再在允许集合内按 可用性/成本/强制策略 选 Tier
+
+关键策略：
+  - RESTRICTED（含凭据/PII）/ CONFIDENTIAL：**禁止** Tier 3 外部 API。
+    若内网 Tier 1/2 都不可用 → fail-closed 拒绝（不偷偷降级出境）。
+  - 敏感任务（红线 R0/R1 强制内网）：锁 Tier 1，不降级（对齐规格"紧急强制 Tier 1"）。
+  - Tier 3 配额超限 → 熔断该 Tier。
+  - 其余（PUBLIC/INTERNAL 且无强制）：Tier 1→2→3 按可用性降级。
+
+复用 SecureGuard 既有敏感模式（L0/L3）做分级，纯标准库，可离线测试。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from enum import IntEnum
+from typing import Any, Dict, List, Optional
+
+from .l0_input_guard import InputGuard
+from .l3_output_guard import OutputGuard
+
+
+class Tier(IntEnum):
+    LOCAL = 1          # Tier 1 本地 GPU（内网）
+    PRIVATE_CLOUD = 2  # Tier 2 自有云端（仍属可信边界）
+    EXTERNAL_API = 3   # Tier 3 外部 API（边界外！）
+
+
+class DataClass(IntEnum):
+    PUBLIC = 0
+    INTERNAL = 1
+    CONFIDENTIAL = 2
+    RESTRICTED = 3     # 含凭据 / PII，最高敏感
+
+
+# 各数据分级"允许使用的最高 Tier"。RESTRICTED/CONFIDENTIAL 禁止外部 API。
+_ALLOWED_MAX_TIER = {
+    DataClass.PUBLIC: Tier.EXTERNAL_API,
+    DataClass.INTERNAL: Tier.EXTERNAL_API,   # 内部信息可用外部 API（按企业策略，可收紧）
+    DataClass.CONFIDENTIAL: Tier.PRIVATE_CLOUD,  # 仅限可信边界内
+    DataClass.RESTRICTED: Tier.LOCAL,            # 只允许本地
+}
+
+# 内部信息标记（可按企业自定义扩展，建议外置到 Plane-1 配置）
+_INTERNAL_MARKERS = re.compile(
+    r"(内部|机密|保密|confidential|internal[\s_-]*only|不对外|仅限内部|商业秘密)",
+    re.IGNORECASE,
+)
+
+# 本地化 PII 模式（企业场景的 PII 是身份证/手机号，而非美式 SSN）
+_PII_PATTERNS = [
+    re.compile(r"\b\d{17}[\dXx]\b"),          # 中国居民身份证 18 位
+    re.compile(r"\b1[3-9]\d{9}\b"),           # 中国手机号 11 位
+    re.compile(r"\b\d{3}-\d{2}-\d{4}\b"),     # US SSN
+    re.compile(r"\b62\d{14,17}\b"),           # 银联卡号（62 开头，相对精确）
+]
+
+
+@dataclass
+class TierStatus:
+    """某 Tier 当前可用性与配额状态。"""
+
+    available: bool = True
+    quota_exhausted: bool = False  # 仅 Tier 3 相关
+
+
+@dataclass
+class RouteDecision:
+    allowed: bool
+    tier: Optional[Tier]
+    data_class: DataClass
+    reason: str
+    downgraded: bool = False
+    notes: List[str] = field(default_factory=list)
+
+    def to_dict(self) -> Dict[str, Any]:
+        return {
+            "allowed": self.allowed,
+            "tier": int(self.tier) if self.tier else None,
+            "tier_name": self.tier.name if self.tier else None,
+            "data_class": self.data_class.name,
+            "reason": self.reason,
+            "downgraded": self.downgraded,
+            "notes": self.notes,
+        }
+
+
+# Tier 名称（与智能体 YAML 配置里的 tier1/tier2/tier3 对齐）
+_TIER_BY_NAME = {"tier1": Tier.LOCAL, "tier2": Tier.PRIVATE_CLOUD, "tier3": Tier.EXTERNAL_API}
+
+
+@dataclass
+class AgentComputePolicy:
+    """D2 终稿：每个智能体的算力策略，由管理员按业务场景配置。
+
+    示例（HR助手仅内网 / 通用问答可用外部 API）：
+        AgentComputePolicy(allowed_tiers=["tier1"], force_local_for=["R0","R1"])
+        AgentComputePolicy(allowed_tiers=["tier1","tier2","tier3"])
+    """
+
+    allowed_tiers: List[str] = field(default_factory=lambda: ["tier1"])
+    preferred_order: List[str] = field(default_factory=list)  # 空则按 allowed_tiers 顺序
+    force_local_for: List[str] = field(default_factory=lambda: ["R0", "R1"])
+    fail_strategy: str = "closed"  # closed=全挂则拒绝 / open=允许降级到 external
+
+    def allowed_set(self):
+        return {_TIER_BY_NAME[t] for t in self.allowed_tiers if t in _TIER_BY_NAME}
+
+
+class DataClassifier:
+    """内容数据分级。复用 SecureGuard 的敏感模式检测 PII/凭据。"""
+
+    def __init__(self) -> None:
+        self._input_guard = InputGuard()
+        self._sens = [re.compile(p, re.IGNORECASE) for p, _ in OutputGuard.SENSITIVE_PATTERNS]
+
+    def classify(self, content: str, declared: Optional[DataClass] = None) -> DataClass:
+        """返回内容分级。declared 为调用方声明的下限，取检测与声明的较高者。"""
+        level = DataClass.PUBLIC
+
+        # 凭据/PII 命中（复用 L3 敏感模式）→ RESTRICTED
+        if any(p.search(content) for p in self._sens) or any(p.search(content) for p in _PII_PATTERNS):
+            level = DataClass.RESTRICTED
+        else:
+            # 凭据索要类陷阱也视为高敏感
+            traps = {t.trap_type for t in self._input_guard.scan(content)}
+            if "credential_leak" in traps or "data_exfil" in traps:
+                level = DataClass.RESTRICTED
+            elif _INTERNAL_MARKERS.search(content):
+                level = DataClass.CONFIDENTIAL
+
+        if declared is not None and declared > level:
+            level = declared
+        return level
+
+
+class ComputeRouter:
+    """算力路由器：数据分级门 → 可用性/强制策略选 Tier。"""
+
+    def __init__(self, classifier: Optional[DataClassifier] = None) -> None:
+        self.classifier = classifier or DataClassifier()
+
+    def classify_for_audit(self, content: str) -> Dict[str, Any]:
+        """D2 终稿：分级门不再决定路由，只在检出 PII/凭据时产出审计告警。"""
+        dc = self.classifier.classify(content)
+        return {
+            "data_class": dc.name,
+            "pii_alert": dc >= DataClass.CONFIDENTIAL,  # 机密及以上触发告警
+            "severity": "high" if dc == DataClass.RESTRICTED else
+                        ("medium" if dc == DataClass.CONFIDENTIAL else "none"),
+        }
+
+    def route_by_policy(
+        self,
+        content: str,
+        policy: "AgentComputePolicy",
+        tier_status: Dict[Tier, TierStatus],
+        *,
+        risk_level: Optional[str] = None,   # "R0"/"R1"/"R2"，用于 force_local_for
+    ) -> RouteDecision:
+        """D2 终稿主路径：按【智能体的 compute_policy】决定算力，分级仅作审计告警。
+
+        管理员通过 policy.allowed_tiers 为每个智能体分配算力边界；这里不再用
+        数据分级去否决路由（HR助手只配 tier1 这种隔离由管理员在 policy 里表达）。
+        """
+        audit = self.classify_for_audit(content)
+        notes = [f"audit_class={audit['data_class']}",
+                 f"pii_alert={audit['pii_alert']}"]
+        dc = DataClass[audit["data_class"]]
+
+        # 1) 敏感任务强制本地（policy.force_local_for 命中风险级）
+        if risk_level and risk_level in policy.force_local_for:
+            st = tier_status.get(Tier.LOCAL, TierStatus())
+            if st.available:
+                return RouteDecision(True, Tier.LOCAL, dc,
+                                     f"force_local_for={risk_level}", notes=notes)
+            if policy.fail_strategy == "closed":
+                return RouteDecision(False, None, dc,
+                                     "force_local 且 Tier1 不可用 → fail-closed", notes=notes)
+
+        # 2) 按 policy.preferred_order 在 allowed_tiers 内选第一个可用者
+        order = policy.preferred_order or policy.allowed_tiers
+        downgraded = False
+        first = True
+        for tname in order:
+            tier = _TIER_BY_NAME.get(tname)
+            if tier is None or tier not in policy.allowed_set():
+                continue
+            st = tier_status.get(tier, TierStatus())
+            if not st.available or (tier == Tier.EXTERNAL_API and st.quota_exhausted):
+                downgraded = True
+                first = False
+                continue
+            reason = f"policy_selected={tier.name}" + ("（已降级）" if not first else "")
+            return RouteDecision(True, tier, dc, reason, downgraded=downgraded, notes=notes)
+
+        # 3) allowed_tiers 内无可用算力 → 按 fail_strategy
+        if policy.fail_strategy == "open" and Tier.EXTERNAL_API in policy.allowed_set():
+            st = tier_status.get(Tier.EXTERNAL_API, TierStatus())
+            if st.available and not st.quota_exhausted:
+                return RouteDecision(True, Tier.EXTERNAL_API, dc, "fail_open→external",
+                                     downgraded=True, notes=notes)
+        return RouteDecision(False, None, dc,
+                             "allowed_tiers 内无可用算力 → fail-closed 拒绝", notes=notes)
+
+    def route(
+        self,
+        content: str,
+        tier_status: Dict[Tier, TierStatus],
+        *,
+        declared_class: Optional[DataClass] = None,
+        force_local: bool = False,       # 敏感任务（红线 R0/R1）强制 Tier 1
+        locked_tier: Optional[Tier] = None,  # 管理员为智能体锁定 Tier
+    ) -> RouteDecision:
+        dc = self.classifier.classify(content, declared_class)
+        notes: List[str] = [f"classified={dc.name}"]
+
+        # 1) 强制本地（敏感任务）：只认 Tier 1，不降级
+        if force_local:
+            st = tier_status.get(Tier.LOCAL, TierStatus())
+            if st.available:
+                return RouteDecision(True, Tier.LOCAL, dc, "force_local: 敏感任务锁 Tier1", notes=notes)
+            return RouteDecision(False, None, dc,
+                                 "force_local 但 Tier1 不可用 → fail-closed 拒绝",
+                                 notes=notes)
+
+        # 2) 数据分级门：算出该分级允许的最高 Tier
+        max_tier = _ALLOWED_MAX_TIER[dc]
+        notes.append(f"max_allowed_tier={max_tier.name}")
+
+        # 3) 管理员锁定 Tier：必须仍在分级允许范围内，否则拒绝（安全优先于锁定）
+        if locked_tier is not None:
+            if locked_tier > max_tier:
+                return RouteDecision(False, None, dc,
+                                     f"锁定 {locked_tier.name} 超出 {dc.name} 允许的 {max_tier.name}",
+                                     notes=notes)
+            st = tier_status.get(locked_tier, TierStatus())
+            if not st.available or (locked_tier == Tier.EXTERNAL_API and st.quota_exhausted):
+                return RouteDecision(False, None, dc,
+                                     f"锁定的 {locked_tier.name} 不可用/超额", notes=notes)
+            return RouteDecision(True, locked_tier, dc, f"locked={locked_tier.name}", notes=notes)
+
+        # 4) 在允许范围内按 Tier1→2→3 降级选第一个可用者
+        downgraded = False
+        for tier in (Tier.LOCAL, Tier.PRIVATE_CLOUD, Tier.EXTERNAL_API):
+            if tier > max_tier:
+                # 触及分级红线：不允许的更高 Tier 一律跳过（绝不出境）
+                continue
+            st = tier_status.get(tier, TierStatus())
+            if not st.available:
+                downgraded = True
+                continue
+            if tier == Tier.EXTERNAL_API and st.quota_exhausted:
+                downgraded = True
+                continue
+            reason = f"selected={tier.name}" + ("（已降级）" if downgraded else "")
+            return RouteDecision(True, tier, dc, reason, downgraded=downgraded, notes=notes)
+
+        # 5) 允许范围内无可用 Tier → fail-closed
+        return RouteDecision(False, None, dc,
+                             f"{dc.name} 允许范围内（≤{max_tier.name}）无可用算力 → fail-closed 拒绝",
+                             notes=notes)

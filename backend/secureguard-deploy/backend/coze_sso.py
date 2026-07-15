@@ -1,1 +1,80 @@
-IiIiYmFja2VuZC5jb3plX3NzbyDigJQg5bmz5Y+wIOKGlCBDb3plIOWNleeCueeZu+W9lSjlkIzmnLrlkIzmupAp44CCCgrljp/nkIY65L2g5bmz5Y+w55m75b2V5ZCOLOWQjuerr+eUqCLnoa7lrprmgKcgZW1haWwr5a+G56CBIuabv+ivpeeUqOaIt+WcqCBDb3plIOazqOWGjCvnmbvlvZUsCuWPluWbniBDb3plIOeahCBzZXNzaW9uX2tleSznp43liLDmtY/op4jlmago5ZCM5Z+fKeOAguS5i+WQjui/m+WGheW1jOeahCBDb3plIOaooeWdlywKQ296ZSDkuK3pl7Tku7bor7vliLAgc2Vzc2lvbl9rZXkg5Y2z6K6k6K+B6YCa6L+H4oCU4oCU55So5oi35peg6ZyA5YaN55m75LiA5qyh44CCCgpDb3plIOaOpeWPoyjlt7Llr7npvZDlhbbmupDnoIEpOgogIFBPU1QgL2FwaS9wYXNzcG9ydC93ZWIvZW1haWwvbG9naW4vICAgICAgICBmb3JtOiBlbWFpbCwgcGFzc3dvcmQgICDihpIgU2V0LUNvb2tpZSBzZXNzaW9uX2tleQogIFBPU1QgL2FwaS9wYXNzcG9ydC93ZWIvZW1haWwvcmVnaXN0ZXIvdjIvICBmb3JtOiBlbWFpbCwgcGFzc3dvcmQgICDihpIgU2V0LUNvb2tpZSBzZXNzaW9uX2tleQpIVFRQIOWxguWPr+azqOWFpShodHRwX3Bvc3QpLOS+v+S6juemu+e6v+a1izvpu5jorqTnlKggc3RkbGliIHVybGxpYijml6DmlrDkvp3otZYp44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgaGFzaGxpYgppbXBvcnQgaG1hYwppbXBvcnQgdXJsbGliLnBhcnNlCmltcG9ydCB1cmxsaWIucmVxdWVzdApmcm9tIHR5cGluZyBpbXBvcnQgQ2FsbGFibGUsIE9wdGlvbmFsLCBUdXBsZQoKU0VTU0lPTl9DT09LSUUgPSAic2Vzc2lvbl9rZXkiCgoKZGVmIF9kZWZhdWx0X2h0dHBfcG9zdCh1cmw6IHN0ciwgZm9ybTogZGljdCkgLT4gVHVwbGVbaW50LCBzdHIsIE9wdGlvbmFsW3N0cl1dOgogICAgZGF0YSA9IHVybGxpYi5wYXJzZS51cmxlbmNvZGUoZm9ybSkuZW5jb2RlKCkKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBkYXRhPWRhdGEsIG1ldGhvZD0iUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnM9eyJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0pCiAgICB0cnk6CiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD0xMCkgYXMgcmVzcDoKICAgICAgICAgICAgYm9keSA9IHJlc3AucmVhZCgpLmRlY29kZSgidXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpCiAgICAgICAgICAgIHNrID0gX2V4dHJhY3Rfc2Vzc2lvbihyZXNwLmhlYWRlcnMuZ2V0X2FsbCgiU2V0LUNvb2tpZSIpIG9yIFtdKQogICAgICAgICAgICByZXR1cm4gcmVzcC5zdGF0dXMsIGJvZHksIHNrCiAgICBleGNlcHQgdXJsbGliLmVycm9yLkhUVFBFcnJvciBhcyBlOgogICAgICAgIHJldHVybiBlLmNvZGUsIGUucmVhZCgpLmRlY29kZSgidXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpLCBOb25lCgoKZGVmIF9leHRyYWN0X3Nlc3Npb24oc2V0X2Nvb2tpZXMpIC0+IE9wdGlvbmFsW3N0cl06CiAgICBmb3IgYyBpbiBzZXRfY29va2llczoKICAgICAgICBmb3IgcGFydCBpbiBjLnNwbGl0KCI7Iik6CiAgICAgICAgICAgIHBhcnQgPSBwYXJ0LnN0cmlwKCkKICAgICAgICAgICAgaWYgcGFydC5zdGFydHN3aXRoKFNFU1NJT05fQ09PS0lFICsgIj0iKToKICAgICAgICAgICAgICAgIHJldHVybiBwYXJ0W2xlbihTRVNTSU9OX0NPT0tJRSkgKyAxOl0KICAgIHJldHVybiBOb25lCgoKY2xhc3MgQ296ZVNTTzoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBiYXNlX3VybDogc3RyLCBzaGFyZWRfc2VjcmV0OiBzdHIsCiAgICAgICAgICAgICAgICAgZW1haWxfZG9tYWluOiBzdHIgPSAiY296ZS5sb2NhbCIsCiAgICAgICAgICAgICAgICAgaHR0cF9wb3N0OiBDYWxsYWJsZVtbc3RyLCBkaWN0XSwgVHVwbGVbaW50LCBzdHIsIE9wdGlvbmFsW3N0cl1dXSA9IF9kZWZhdWx0X2h0dHBfcG9zdCkgLT4gTm9uZToKICAgICAgICBzZWxmLmJhc2UgPSBiYXNlX3VybC5yc3RyaXAoIi8iKSAgICAgICAgICAgIyDlpoIgaHR0cDovLzEyNy4wLjAuMTo4ODg4CiAgICAgICAgc2VsZi5zZWNyZXQgPSBzaGFyZWRfc2VjcmV0LmVuY29kZSgpCiAgICAgICAgc2VsZi5lbWFpbF9kb21haW4gPSBlbWFpbF9kb21haW4KICAgICAgICBzZWxmLmh0dHBfcG9zdCA9IGh0dHBfcG9zdAoKICAgIGRlZiBlbWFpbF9mb3Ioc2VsZiwgdXNlcl9pZDogc3RyKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIGYidXt1c2VyX2lkfUB7c2VsZi5lbWFpbF9kb21haW59IgoKICAgIGRlZiBwYXNzd29yZF9mb3Ioc2VsZiwgdXNlcl9pZDogc3RyKSAtPiBzdHI6CiAgICAgICAgIyDnoa7lrprmgKflr4bnoIE65bmz5Y+w5a+G6ZKl5rS+55SfLOS4jeWPr+iiq+WklumDqOeMnOWHugogICAgICAgIHJldHVybiAiQ3oiICsgaG1hYy5uZXcoc2VsZi5zZWNyZXQsIHN0cih1c2VyX2lkKS5lbmNvZGUoKSwgaGFzaGxpYi5zaGEyNTYpLmhleGRpZ2VzdCgpWzoyMl0KCiAgICBkZWYgX2xvZ2luKHNlbGYsIGVtYWlsOiBzdHIsIHB3ZDogc3RyKSAtPiBPcHRpb25hbFtzdHJdOgogICAgICAgIHN0LCBfLCBzayA9IHNlbGYuaHR0cF9wb3N0KHNlbGYuYmFzZSArICIvYXBpL3Bhc3Nwb3J0L3dlYi9lbWFpbC9sb2dpbi8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsiZW1haWwiOiBlbWFpbCwgInBhc3N3b3JkIjogcHdkfSkKICAgICAgICByZXR1cm4gc2sgaWYgKHN0ID09IDIwMCBhbmQgc2spIGVsc2UgTm9uZQoKICAgIGRlZiBfcmVnaXN0ZXIoc2VsZiwgZW1haWw6IHN0ciwgcHdkOiBzdHIpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAgICAgc3QsIF8sIHNrID0gc2VsZi5odHRwX3Bvc3Qoc2VsZi5iYXNlICsgIi9hcGkvcGFzc3BvcnQvd2ViL2VtYWlsL3JlZ2lzdGVyL3YyLyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyJlbWFpbCI6IGVtYWlsLCAicGFzc3dvcmQiOiBwd2R9KQogICAgICAgIHJldHVybiBzayBpZiAoc3QgPT0gMjAwIGFuZCBzaykgZWxzZSBOb25lCgogICAgZGVmIG1pbnRfc2Vzc2lvbihzZWxmLCB1c2VyX2lkOiBzdHIpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAgICAgIiIi5Y+W6K+l55So5oi355qEIENvemUgc2Vzc2lvbl9rZXk65YWI55m75b2VLOWksei0peWImeazqOWGjCjms6jlhozljbPnmbvlvZUp44CCIiIiCiAgICAgICAgZW1haWwsIHB3ZCA9IHNlbGYuZW1haWxfZm9yKHVzZXJfaWQpLCBzZWxmLnBhc3N3b3JkX2Zvcih1c2VyX2lkKQogICAgICAgIHNrID0gc2VsZi5fbG9naW4oZW1haWwsIHB3ZCkKICAgICAgICBpZiBzazoKICAgICAgICAgICAgcmV0dXJuIHNrCiAgICAgICAgc2sgPSBzZWxmLl9yZWdpc3RlcihlbWFpbCwgcHdkKSAgICAgICMg6aaW5qyhOuazqOWGjOW5tuaLv+WIsCBzZXNzaW9uCiAgICAgICAgaWYgc2s6CiAgICAgICAgICAgIHJldHVybiBzawogICAgICAgIHJldHVybiBzZWxmLl9sb2dpbihlbWFpbCwgcHdkKSAgICAgICAjIOazqOWGjOaIkOWKn+S9huacqui/lOWbnmNvb2tpZeaXtuWGjeeZu+S4gOasoQo=
+"""backend.coze_sso — 平台 ↔ Coze 单点登录(同机同源)。
+
+原理:你平台登录后,后端用"确定性 email+密码"替该用户在 Coze 注册+登录,
+取回 Coze 的 session_key,种到浏览器(同域)。之后进内嵌的 Coze 模块,
+Coze 中间件读到 session_key 即认证通过——用户无需再登一次。
+
+Coze 接口(已对齐其源码):
+  POST /api/passport/web/email/login/        form: email, password   → Set-Cookie session_key
+  POST /api/passport/web/email/register/v2/  form: email, password   → Set-Cookie session_key
+HTTP 层可注入(http_post),便于离线测;默认用 stdlib urllib(无新依赖)。
+"""
+from __future__ import annotations
+
+import hashlib
+import hmac
+import urllib.parse
+import urllib.request
+from typing import Callable, Optional, Tuple
+
+SESSION_COOKIE = "session_key"
+
+
+def _default_http_post(url: str, form: dict) -> Tuple[int, str, Optional[str]]:
+    data = urllib.parse.urlencode(form).encode()
+    req = urllib.request.Request(url, data=data, method="POST",
+                                 headers={"Content-Type": "application/x-www-form-urlencoded"})
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            body = resp.read().decode("utf-8", errors="ignore")
+            sk = _extract_session(resp.headers.get_all("Set-Cookie") or [])
+            return resp.status, body, sk
+    except urllib.error.HTTPError as e:
+        return e.code, e.read().decode("utf-8", errors="ignore"), None
+
+
+def _extract_session(set_cookies) -> Optional[str]:
+    for c in set_cookies:
+        for part in c.split(";"):
+            part = part.strip()
+            if part.startswith(SESSION_COOKIE + "="):
+                return part[len(SESSION_COOKIE) + 1:]
+    return None
+
+
+class CozeSSO:
+    def __init__(self, base_url: str, shared_secret: str,
+                 email_domain: str = "coze.local",
+                 http_post: Callable[[str, dict], Tuple[int, str, Optional[str]]] = _default_http_post) -> None:
+        self.base = base_url.rstrip("/")           # 如 http://127.0.0.1:8888
+        self.secret = shared_secret.encode()
+        self.email_domain = email_domain
+        self.http_post = http_post
+
+    def email_for(self, user_id: str) -> str:
+        return f"u{user_id}@{self.email_domain}"
+
+    def password_for(self, user_id: str) -> str:
+        # 确定性密码:平台密钥派生,不可被外部猜出
+        return "Cz" + hmac.new(self.secret, str(user_id).encode(), hashlib.sha256).hexdigest()[:22]
+
+    def _login(self, email: str, pwd: str) -> Optional[str]:
+        st, _, sk = self.http_post(self.base + "/api/passport/web/email/login/",
+                                   {"email": email, "password": pwd})
+        return sk if (st == 200 and sk) else None
+
+    def _register(self, email: str, pwd: str) -> Optional[str]:
+        st, _, sk = self.http_post(self.base + "/api/passport/web/email/register/v2/",
+                                   {"email": email, "password": pwd})
+        return sk if (st == 200 and sk) else None
+
+    def mint_session(self, user_id: str) -> Optional[str]:
+        """取该用户的 Coze session_key:先登录,失败则注册(注册即登录)。"""
+        email, pwd = self.email_for(user_id), self.password_for(user_id)
+        sk = self._login(email, pwd)
+        if sk:
+            return sk
+        sk = self._register(email, pwd)      # 首次:注册并拿到 session
+        if sk:
+            return sk
+        return self._login(email, pwd)       # 注册成功但未返回cookie时再登一次

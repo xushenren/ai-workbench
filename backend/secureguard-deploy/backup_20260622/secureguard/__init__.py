@@ -1,1 +1,58 @@
-IiIic2VjdXJlZ3VhcmQg4oCUIOS8geS4muWeguexu+aooeWei+S6lOWxguWuieWFqOmXqOaOp+ezu+e7n+OAggoK5bGC5qyh77yaCiAgICBMMCBJbnB1dEd1YXJkICAgICAgIOi+k+WFpeWuiOWNq++8iOmZt+mYseajgOa1iyArIHNhbml0aXplICsgaW5zdHJ1Y3Rpb24gc2FuZHdpY2jvvIkKICAgIEwxIGdhdGUvYXJiaXRyYXRlICAg5Luy6KOB6Zeo5o6n77yIMTIg57qi57q/ICsgNiDpoobln5/miqTmoI8gKyDoh6rnnIEgKyDlhrLnqoHoo4HlhrPvvIkKICAgIEwyIFJBR1BpcGVsaW5lICAgICAg5o6o55CGICsg5qOA57Si5aKe5by677yI56a757q/IE1vY2sgLyDnlJ/kuqcgdkxMTStDaHJvbWEg6YCC6YWN77yJCiAgICBMMyBPdXRwdXRHdWFyZCAgICAgIOi+k+WHuuWuiOWNq++8iOW5u+inieS/oeWPtyArIDEyKyDlh63mja7ohLHmlY8gKyDotKjph4/or4TliIbvvIkKICAgIEw0IEF1ZGl0TG9nZ2VyICAgICAg5a6h6K6h77yI5ZOI5biM5YyW44CB5LiN5a2Y5Y6f5paH44CB5Yay56qB5Y+v6KeB77yJCiAgICBPcmNoZXN0cmF0b3IgICAgICAgIOWNj+iwg+WZqO+8jOW8guatpeS4suiBlOS6lOWxggoiIiIKZnJvbSAudHlwZXMgaW1wb3J0IFRva2VuLCBHYXRlUmVzdWx0LCBSdWxlLCBDb25mbGljdCwgVHJhcFJlc3VsdCwgTEFEREVSCmZyb20gLmwwX2lucHV0X2d1YXJkIGltcG9ydCBJbnB1dEd1YXJkCmZyb20gLmwxX2dhdGUgaW1wb3J0IGdhdGUsIGFyYml0cmF0ZSwgc2VsZl9tb25pdG9yLCBsb2FkX2RvbWFpbl9ndWFyZCwgUkVETElORVMKZnJvbSAubDJfcmVhc29uaW5nIGltcG9ydCAoCiAgICBEb2MsIE1vZGVsQmFja2VuZCwgVmVjdG9yU3RvcmUsIE1vY2tNb2RlbCwgSW5NZW1vcnlWZWN0b3JTdG9yZSwKICAgIFJBR1BpcGVsaW5lLCBTdGVwd2lzZVJlYXNvbmVyLCBWTExNTW9kZWwsIENocm9tYVZlY3RvclN0b3JlLAopCmZyb20gLmwzX291dHB1dF9ndWFyZCBpbXBvcnQgT3V0cHV0R3VhcmQsIE91dHB1dFF1YWxpdHkKZnJvbSAubDRfYXVkaXQgaW1wb3J0IEF1ZGl0TG9nZ2VyLCBBdWRpdEVudHJ5CmZyb20gLmF1ZGl0X3JvdGF0aW9uIGltcG9ydCBSb3RhdGluZ0F1ZGl0TG9nZ2VyCmZyb20gLnJldHJpZXZhbF9ndWFyZCBpbXBvcnQgUmV0cmlldmFsR3VhcmQsIFJldHJpZXZhbFJlcG9ydCwgUmV0cmlldmFsVmlvbGF0aW9uCmZyb20gLmV2b2x1dGlvbl9nYXRlcyBpbXBvcnQgRXZvbHV0aW9uR2F0ZXMsIFBhdGNoLCBHYXRlT3V0Y29tZQpmcm9tIC5zYWZldHlfcHJveHkgaW1wb3J0IFNhZmV0eVByb3h5LCBQcm94eUNvbmZpZwpmcm9tIC5jb21wdXRlX3JvdXRlciBpbXBvcnQgKAogICAgQ29tcHV0ZVJvdXRlciwgRGF0YUNsYXNzaWZpZXIsIERhdGFDbGFzcywgVGllciwgVGllclN0YXR1cywgUm91dGVEZWNpc2lvbiwgQWdlbnRDb21wdXRlUG9saWN5LAopCmZyb20gLnRyYWNlIGltcG9ydCBUcmFjZUZyYW1lLCBidWlsZF9wdWJsaWNfdHJhY2UsIGJ1aWxkX2F1ZGl0X3RyYWNlLCBzcGxpdF9mcmFtZQpmcm9tIC5wZXJtaXNzaW9ucyBpbXBvcnQgKAogICAgUm9sZSwgVmlzaWJpbGl0eSwgQWdlbnRTdGF0dXMsIFBlcm1pc3Npb25EZW5pZWQsIFVzZXIgYXMgUkJBQ1VzZXIsIEFnZW50IGFzIFJCQUNBZ2VudCwKICAgIEtub3dsZWRnZUJhc2UsIGNhbl9jcmVhdGVfYWdlbnQsIGNyZWF0ZV9hZ2VudCwgc3VibWl0X2Zvcl9yZXZpZXcsIGFwcHJvdmUsIHJlamVjdCwKICAgIGNhbl91c2VfYWdlbnQsIGNhbl9hY2Nlc3Nfa2IsIGNhbl9yZWFkX2tiX2NvbnRlbnQsIGNhbl9tYW5hZ2Vfa2IsIGNhbl9tYW5hZ2VfcXVvdGEsCikKZnJvbSAub3V0cHV0X2NvbnRyYWN0IGltcG9ydCBPdXRwdXRDb250cmFjdCwgQ29udHJhY3RSZXN1bHQsIFJFUVVJUkVEX1NFQ1RJT05TCmZyb20gLm9yY2hlc3RyYXRvciBpbXBvcnQgT3JjaGVzdHJhdG9yCgpfX3ZlcnNpb25fXyA9ICIxLjUuMCIKCl9fYWxsX18gPSBbCiAgICAiVG9rZW4iLCAiR2F0ZVJlc3VsdCIsICJSdWxlIiwgIkNvbmZsaWN0IiwgIlRyYXBSZXN1bHQiLCAiTEFEREVSIiwKICAgICJJbnB1dEd1YXJkIiwKICAgICJnYXRlIiwgImFyYml0cmF0ZSIsICJzZWxmX21vbml0b3IiLCAibG9hZF9kb21haW5fZ3VhcmQiLCAiUkVETElORVMiLAogICAgIkRvYyIsICJNb2RlbEJhY2tlbmQiLCAiVmVjdG9yU3RvcmUiLCAiTW9ja01vZGVsIiwgIkluTWVtb3J5VmVjdG9yU3RvcmUiLAogICAgIlJBR1BpcGVsaW5lIiwgIlN0ZXB3aXNlUmVhc29uZXIiLCAiVkxMTU1vZGVsIiwgIkNocm9tYVZlY3RvclN0b3JlIiwKICAgICJPdXRwdXRHdWFyZCIsICJPdXRwdXRRdWFsaXR5IiwKICAgICJBdWRpdExvZ2dlciIsICJBdWRpdEVudHJ5IiwgIlJvdGF0aW5nQXVkaXRMb2dnZXIiLAogICAgIlJldHJpZXZhbEd1YXJkIiwgIlJldHJpZXZhbFJlcG9ydCIsICJSZXRyaWV2YWxWaW9sYXRpb24iLAogICAgIkV2b2x1dGlvbkdhdGVzIiwgIlBhdGNoIiwgIkdhdGVPdXRjb21lIiwKICAgICJTYWZldHlQcm94eSIsICJQcm94eUNvbmZpZyIsCiAgICAiQ29tcHV0ZVJvdXRlciIsICJEYXRhQ2xhc3NpZmllciIsICJEYXRhQ2xhc3MiLCAiVGllciIsICJUaWVyU3RhdHVzIiwgIlJvdXRlRGVjaXNpb24iLAogICAgIkFnZW50Q29tcHV0ZVBvbGljeSIsCiAgICAiVHJhY2VGcmFtZSIsICJidWlsZF9wdWJsaWNfdHJhY2UiLCAiYnVpbGRfYXVkaXRfdHJhY2UiLCAic3BsaXRfZnJhbWUiLAogICAgIlJvbGUiLCAiVmlzaWJpbGl0eSIsICJBZ2VudFN0YXR1cyIsICJQZXJtaXNzaW9uRGVuaWVkIiwgIlJCQUNVc2VyIiwgIlJCQUNBZ2VudCIsCiAgICAiS25vd2xlZGdlQmFzZSIsICJjYW5fY3JlYXRlX2FnZW50IiwgImNyZWF0ZV9hZ2VudCIsICJzdWJtaXRfZm9yX3JldmlldyIsICJhcHByb3ZlIiwKICAgICJyZWplY3QiLCAiY2FuX3VzZV9hZ2VudCIsICJjYW5fYWNjZXNzX2tiIiwgImNhbl9yZWFkX2tiX2NvbnRlbnQiLCAiY2FuX21hbmFnZV9rYiIsCiAgICAiY2FuX21hbmFnZV9xdW90YSIsCiAgICAiT3V0cHV0Q29udHJhY3QiLCAiQ29udHJhY3RSZXN1bHQiLCAiUkVRVUlSRURfU0VDVElPTlMiLAogICAgIk9yY2hlc3RyYXRvciIsCl0K
+"""secureguard — 企业垂类模型五层安全门控系统。
+
+层次：
+    L0 InputGuard       输入守卫（陷阱检测 + sanitize + instruction sandwich）
+    L1 gate/arbitrate   仲裁门控（12 红线 + 6 领域护栏 + 自省 + 冲突裁决）
+    L2 RAGPipeline      推理 + 检索增强（离线 Mock / 生产 vLLM+Chroma 适配）
+    L3 OutputGuard      输出守卫（幻觉信号 + 12+ 凭据脱敏 + 质量评分）
+    L4 AuditLogger      审计（哈希化、不存原文、冲突可见）
+    Orchestrator        协调器，异步串联五层
+"""
+from .types import Token, GateResult, Rule, Conflict, TrapResult, LADDER
+from .l0_input_guard import InputGuard
+from .l1_gate import gate, arbitrate, self_monitor, load_domain_guard, REDLINES
+from .l2_reasoning import (
+    Doc, ModelBackend, VectorStore, MockModel, InMemoryVectorStore,
+    RAGPipeline, StepwiseReasoner, VLLMModel, ChromaVectorStore,
+)
+from .l3_output_guard import OutputGuard, OutputQuality
+from .l4_audit import AuditLogger, AuditEntry
+from .audit_rotation import RotatingAuditLogger
+from .retrieval_guard import RetrievalGuard, RetrievalReport, RetrievalViolation
+from .evolution_gates import EvolutionGates, Patch, GateOutcome
+from .safety_proxy import SafetyProxy, ProxyConfig
+from .compute_router import (
+    ComputeRouter, DataClassifier, DataClass, Tier, TierStatus, RouteDecision, AgentComputePolicy,
+)
+from .trace import TraceFrame, build_public_trace, build_audit_trace, split_frame
+from .permissions import (
+    Role, Visibility, AgentStatus, PermissionDenied, User as RBACUser, Agent as RBACAgent,
+    KnowledgeBase, can_create_agent, create_agent, submit_for_review, approve, reject,
+    can_use_agent, can_access_kb, can_read_kb_content, can_manage_kb, can_manage_quota,
+)
+from .output_contract import OutputContract, ContractResult, REQUIRED_SECTIONS
+from .orchestrator import Orchestrator
+
+__version__ = "1.5.0"
+
+__all__ = [
+    "Token", "GateResult", "Rule", "Conflict", "TrapResult", "LADDER",
+    "InputGuard",
+    "gate", "arbitrate", "self_monitor", "load_domain_guard", "REDLINES",
+    "Doc", "ModelBackend", "VectorStore", "MockModel", "InMemoryVectorStore",
+    "RAGPipeline", "StepwiseReasoner", "VLLMModel", "ChromaVectorStore",
+    "OutputGuard", "OutputQuality",
+    "AuditLogger", "AuditEntry", "RotatingAuditLogger",
+    "RetrievalGuard", "RetrievalReport", "RetrievalViolation",
+    "EvolutionGates", "Patch", "GateOutcome",
+    "SafetyProxy", "ProxyConfig",
+    "ComputeRouter", "DataClassifier", "DataClass", "Tier", "TierStatus", "RouteDecision",
+    "AgentComputePolicy",
+    "TraceFrame", "build_public_trace", "build_audit_trace", "split_frame",
+    "Role", "Visibility", "AgentStatus", "PermissionDenied", "RBACUser", "RBACAgent",
+    "KnowledgeBase", "can_create_agent", "create_agent", "submit_for_review", "approve",
+    "reject", "can_use_agent", "can_access_kb", "can_read_kb_content", "can_manage_kb",
+    "can_manage_quota",
+    "OutputContract", "ContractResult", "REQUIRED_SECTIONS",
+    "Orchestrator",
+]

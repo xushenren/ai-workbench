@@ -1,1 +1,81 @@
-IiIiCmtiX2NvcmUucmVwb3NpdG9yeSAvIHNxbGl0ZSDigJQg55+l6K+G5bqT5a2Y5YKoKOaOpeWPoyArIFNRTGl0ZSDlrp7njrAp44CCCuWQjCBvcmdfY29yZTrmjqXlj6PkuI7lrp7njrDliIbnprss5bCP5YWs5Y+4IFNRTGl0ZSzlpKflhazlj7jmjaIgUEcs5pyN5Yqh5bGC5LiN5Y+Y44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgc3FsaXRlMwpmcm9tIHR5cGluZyBpbXBvcnQgT3B0aW9uYWwsIFByb3RvY29sCgpmcm9tIC5tb2RlbHMgaW1wb3J0IEVudHJ5U3RhdHVzLCBLQkVudHJ5LCBQb29sCgoKY2xhc3MgS0JSZXBvKFByb3RvY29sKToKICAgIGRlZiBhZGQoc2VsZiwgZTogS0JFbnRyeSkgLT4gTm9uZTogLi4uCiAgICBkZWYgZ2V0KHNlbGYsIHRlbmFudF9pZDogc3RyLCBlbnRyeV9pZDogc3RyKSAtPiBPcHRpb25hbFtLQkVudHJ5XTogLi4uCiAgICBkZWYgdXBkYXRlKHNlbGYsIGU6IEtCRW50cnkpIC0+IE5vbmU6IC4uLgogICAgZGVmIGJ5X3Bvb2woc2VsZiwgdGVuYW50X2lkOiBzdHIsIHBvb2w6IFBvb2wpIC0+IGxpc3RbS0JFbnRyeV06IC4uLgogICAgZGVmIGFsbF9hY3RpdmUoc2VsZiwgdGVuYW50X2lkOiBzdHIpIC0+IGxpc3RbS0JFbnRyeV06IC4uLgoKClNDSEVNQSA9ICIiIgpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBrYl9lbnRyaWVzICgKICBpZCBURVhUIFBSSU1BUlkgS0VZLCB0ZW5hbnRfaWQgVEVYVCBOT1QgTlVMTCwgcG9vbCBURVhUIE5PVCBOVUxMLAogIG93bmVyX3VzZXJfaWQgVEVYVCBOT1QgTlVMTCwgb3duZXJfZ3JhbnRfaWQgVEVYVCBOT1QgTlVMTCwgb3JnX25vZGVfaWQgVEVYVCBOT1QgTlVMTCwKICB0aXRsZSBURVhULCBjb250ZW50IFRFWFQsIGNsYWltcyBURVhULCBzaGFyZWQgSU5URUdFUiwgZXh0ZXJuYWxfb2sgSU5URUdFUiwKICBzb3VyY2UgVEVYVCwgc3RhdHVzIFRFWFQgTk9UIE5VTEwsIGFpX3ZlcmRpY3QgVEVYVCwgcHJvbW90ZWRfYnkgVEVYVCwgY3JlYXRlZF9hdCBSRUFMCik7CkNSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGl4X2tiX3Bvb2wgT04ga2JfZW50cmllcyh0ZW5hbnRfaWQsIHBvb2wsIHN0YXR1cyk7CkNSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGl4X2tiX293bmVyIE9OIGtiX2VudHJpZXModGVuYW50X2lkLCBvd25lcl91c2VyX2lkKTsKIiIiCgoKY2xhc3MgU3FsaXRlS0JSZXBvOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhdGg6IHN0ciA9ICI6bWVtb3J5OiIpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5kYiA9IHNxbGl0ZTMuY29ubmVjdChwYXRoLCBjaGVja19zYW1lX3RocmVhZD1GYWxzZSkKICAgICAgICBzZWxmLmRiLnJvd19mYWN0b3J5ID0gc3FsaXRlMy5Sb3cKICAgICAgICBzZWxmLmRiLmV4ZWN1dGUoIlBSQUdNQSBqb3VybmFsX21vZGU9V0FMIikKICAgICAgICBzZWxmLmRiLnJvd19mYWN0b3J5ID0gc3FsaXRlMy5Sb3cKICAgICAgICBzZWxmLmRiLmV4ZWN1dGVzY3JpcHQoU0NIRU1BKQogICAgICAgIHNlbGYuZGIuY29tbWl0KCkKCiAgICBkZWYgX3JvdyhzZWxmLCByOiBzcWxpdGUzLlJvdykgLT4gS0JFbnRyeToKICAgICAgICByZXR1cm4gS0JFbnRyeSgKICAgICAgICAgICAgaWQ9clsiaWQiXSwgdGVuYW50X2lkPXJbInRlbmFudF9pZCJdLCBwb29sPVBvb2woclsicG9vbCJdKSwKICAgICAgICAgICAgb3duZXJfdXNlcl9pZD1yWyJvd25lcl91c2VyX2lkIl0sIG93bmVyX2dyYW50X2lkPXJbIm93bmVyX2dyYW50X2lkIl0sCiAgICAgICAgICAgIG9yZ19ub2RlX2lkPXJbIm9yZ19ub2RlX2lkIl0sIHRpdGxlPXJbInRpdGxlIl0gb3IgIiIsIGNvbnRlbnQ9clsiY29udGVudCJdIG9yICIiLAogICAgICAgICAgICBjbGFpbXM9anNvbi5sb2FkcyhyWyJjbGFpbXMiXSBvciAie30iKSwgc2hhcmVkPWJvb2woclsic2hhcmVkIl0pLAogICAgICAgICAgICBleHRlcm5hbF9vaz1ib29sKHJbImV4dGVybmFsX29rIl0pLCBzb3VyY2U9clsic291cmNlIl0gb3IgIiIsCiAgICAgICAgICAgIHN0YXR1cz1FbnRyeVN0YXR1cyhyWyJzdGF0dXMiXSksIGFpX3ZlcmRpY3Q9clsiYWlfdmVyZGljdCJdIG9yICIiLAogICAgICAgICAgICBwcm9tb3RlZF9ieT1yWyJwcm9tb3RlZF9ieSJdLCBjcmVhdGVkX2F0PXJbImNyZWF0ZWRfYXQiXSBvciAwLjAsCiAgICAgICAgKQoKICAgIGRlZiBhZGQoc2VsZiwgZTogS0JFbnRyeSkgLT4gTm9uZToKICAgICAgICBzZWxmLmRiLmV4ZWN1dGUoCiAgICAgICAgICAgICJJTlNFUlQgSU5UTyBrYl9lbnRyaWVzIFZBTFVFUyg/LD8sPyw/LD8sPyw/LD8sPyw/LD8sPyw/LD8sPyw/KSIsCiAgICAgICAgICAgIChlLmlkLCBlLnRlbmFudF9pZCwgZS5wb29sLnZhbHVlLCBlLm93bmVyX3VzZXJfaWQsIGUub3duZXJfZ3JhbnRfaWQsIGUub3JnX25vZGVfaWQsCiAgICAgICAgICAgICBlLnRpdGxlLCBlLmNvbnRlbnQsIGpzb24uZHVtcHMoZS5jbGFpbXMsIGVuc3VyZV9hc2NpaT1GYWxzZSksIGludChlLnNoYXJlZCksCiAgICAgICAgICAgICBpbnQoZS5leHRlcm5hbF9vayksIGUuc291cmNlLCBlLnN0YXR1cy52YWx1ZSwgZS5haV92ZXJkaWN0LCBlLnByb21vdGVkX2J5LCBlLmNyZWF0ZWRfYXQpKQogICAgICAgIHNlbGYuZGIuY29tbWl0KCkKCiAgICBkZWYgZ2V0KHNlbGYsIHRlbmFudF9pZDogc3RyLCBlbnRyeV9pZDogc3RyKSAtPiBPcHRpb25hbFtLQkVudHJ5XToKICAgICAgICByID0gc2VsZi5kYi5leGVjdXRlKCJTRUxFQ1QgKiBGUk9NIGtiX2VudHJpZXMgV0hFUkUgdGVuYW50X2lkPT8gQU5EIGlkPT8iLCAodGVuYW50X2lkLCBlbnRyeV9pZCkpLmZldGNob25lKCkKICAgICAgICByZXR1cm4gc2VsZi5fcm93KHIpIGlmIHIgZWxzZSBOb25lCgogICAgZGVmIHVwZGF0ZShzZWxmLCBlOiBLQkVudHJ5KSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIuZXhlY3V0ZSgKICAgICAgICAgICAgIlVQREFURSBrYl9lbnRyaWVzIFNFVCBwb29sPT8sIHNoYXJlZD0/LCBleHRlcm5hbF9vaz0/LCBzdGF0dXM9PywgYWlfdmVyZGljdD0/LCBwcm9tb3RlZF9ieT0/ICIKICAgICAgICAgICAgIldIRVJFIHRlbmFudF9pZD0/IEFORCBpZD0/IiwKICAgICAgICAgICAgKGUucG9vbC52YWx1ZSwgaW50KGUuc2hhcmVkKSwgaW50KGUuZXh0ZXJuYWxfb2spLCBlLnN0YXR1cy52YWx1ZSwgZS5haV92ZXJkaWN0LCBlLnByb21vdGVkX2J5LAogICAgICAgICAgICAgZS50ZW5hbnRfaWQsIGUuaWQpKQogICAgICAgIHNlbGYuZGIuY29tbWl0KCkKCiAgICBkZWYgYnlfcG9vbChzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwgcG9vbDogUG9vbCkgLT4gbGlzdFtLQkVudHJ5XToKICAgICAgICByb3dzID0gc2VsZi5kYi5leGVjdXRlKAogICAgICAgICAgICAiU0VMRUNUICogRlJPTSBrYl9lbnRyaWVzIFdIRVJFIHRlbmFudF9pZD0/IEFORCBwb29sPT8gQU5EIHN0YXR1cz0nYWN0aXZlJyIsICh0ZW5hbnRfaWQsIHBvb2wudmFsdWUpKS5mZXRjaGFsbCgpCiAgICAgICAgcmV0dXJuIFtzZWxmLl9yb3cocikgZm9yIHIgaW4gcm93c10KCiAgICBkZWYgYWxsX2FjdGl2ZShzZWxmLCB0ZW5hbnRfaWQ6IHN0cikgLT4gbGlzdFtLQkVudHJ5XToKICAgICAgICByb3dzID0gc2VsZi5kYi5leGVjdXRlKCJTRUxFQ1QgKiBGUk9NIGtiX2VudHJpZXMgV0hFUkUgdGVuYW50X2lkPT8gQU5EIHN0YXR1cz0nYWN0aXZlJyIsICh0ZW5hbnRfaWQsKSkuZmV0Y2hhbGwoKQogICAgICAgIHJldHVybiBbc2VsZi5fcm93KHIpIGZvciByIGluIHJvd3NdCg==
+"""
+kb_core.repository / sqlite — 知识库存储(接口 + SQLite 实现)。
+同 org_core:接口与实现分离,小公司 SQLite,大公司换 PG,服务层不变。
+"""
+from __future__ import annotations
+
+import json
+import sqlite3
+from typing import Optional, Protocol
+
+from .models import EntryStatus, KBEntry, Pool
+
+
+class KBRepo(Protocol):
+    def add(self, e: KBEntry) -> None: ...
+    def get(self, tenant_id: str, entry_id: str) -> Optional[KBEntry]: ...
+    def update(self, e: KBEntry) -> None: ...
+    def by_pool(self, tenant_id: str, pool: Pool) -> list[KBEntry]: ...
+    def all_active(self, tenant_id: str) -> list[KBEntry]: ...
+
+
+SCHEMA = """
+CREATE TABLE IF NOT EXISTS kb_entries (
+  id TEXT PRIMARY KEY, tenant_id TEXT NOT NULL, pool TEXT NOT NULL,
+  owner_user_id TEXT NOT NULL, owner_grant_id TEXT NOT NULL, org_node_id TEXT NOT NULL,
+  title TEXT, content TEXT, claims TEXT, shared INTEGER, external_ok INTEGER,
+  source TEXT, status TEXT NOT NULL, ai_verdict TEXT, promoted_by TEXT, created_at REAL
+);
+CREATE INDEX IF NOT EXISTS ix_kb_pool ON kb_entries(tenant_id, pool, status);
+CREATE INDEX IF NOT EXISTS ix_kb_owner ON kb_entries(tenant_id, owner_user_id);
+"""
+
+
+class SqliteKBRepo:
+    def __init__(self, path: str = ":memory:") -> None:
+        self.db = sqlite3.connect(path, check_same_thread=False)
+        self.db.row_factory = sqlite3.Row
+        self.db.execute("PRAGMA journal_mode=WAL")
+        self.db.row_factory = sqlite3.Row
+        self.db.executescript(SCHEMA)
+        self.db.commit()
+
+    def _row(self, r: sqlite3.Row) -> KBEntry:
+        return KBEntry(
+            id=r["id"], tenant_id=r["tenant_id"], pool=Pool(r["pool"]),
+            owner_user_id=r["owner_user_id"], owner_grant_id=r["owner_grant_id"],
+            org_node_id=r["org_node_id"], title=r["title"] or "", content=r["content"] or "",
+            claims=json.loads(r["claims"] or "{}"), shared=bool(r["shared"]),
+            external_ok=bool(r["external_ok"]), source=r["source"] or "",
+            status=EntryStatus(r["status"]), ai_verdict=r["ai_verdict"] or "",
+            promoted_by=r["promoted_by"], created_at=r["created_at"] or 0.0,
+        )
+
+    def add(self, e: KBEntry) -> None:
+        self.db.execute(
+            "INSERT INTO kb_entries VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            (e.id, e.tenant_id, e.pool.value, e.owner_user_id, e.owner_grant_id, e.org_node_id,
+             e.title, e.content, json.dumps(e.claims, ensure_ascii=False), int(e.shared),
+             int(e.external_ok), e.source, e.status.value, e.ai_verdict, e.promoted_by, e.created_at))
+        self.db.commit()
+
+    def get(self, tenant_id: str, entry_id: str) -> Optional[KBEntry]:
+        r = self.db.execute("SELECT * FROM kb_entries WHERE tenant_id=? AND id=?", (tenant_id, entry_id)).fetchone()
+        return self._row(r) if r else None
+
+    def update(self, e: KBEntry) -> None:
+        self.db.execute(
+            "UPDATE kb_entries SET pool=?, shared=?, external_ok=?, status=?, ai_verdict=?, promoted_by=? "
+            "WHERE tenant_id=? AND id=?",
+            (e.pool.value, int(e.shared), int(e.external_ok), e.status.value, e.ai_verdict, e.promoted_by,
+             e.tenant_id, e.id))
+        self.db.commit()
+
+    def by_pool(self, tenant_id: str, pool: Pool) -> list[KBEntry]:
+        rows = self.db.execute(
+            "SELECT * FROM kb_entries WHERE tenant_id=? AND pool=? AND status='active'", (tenant_id, pool.value)).fetchall()
+        return [self._row(r) for r in rows]
+
+    def all_active(self, tenant_id: str) -> list[KBEntry]:
+        rows = self.db.execute("SELECT * FROM kb_entries WHERE tenant_id=? AND status='active'", (tenant_id,)).fetchall()
+        return [self._row(r) for r in rows]

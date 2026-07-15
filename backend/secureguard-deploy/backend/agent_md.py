@@ -1,1 +1,122 @@
-IiIiYmFja2VuZC5hZ2VudF9tZCDigJQg55SoIE1EIOaWh+S7tuWumuS5iS/lr7zlhaUv5a+85Ye65pm66IO95L2T44CCCgrkuIDkuKrmmbrog73kvZMgPSDkuIDkuKogTUQg5paH5Lu277yaCiAgLSBmcm9udG1hdHRlcu+8iC0tLSDkuYvpl7TvvInvvJrlhYPkv6Hmga/vvIjlkI3lrZcv6aKG5Z+fL+Wbvuaghy/lj6/op4HmgKcv6IyD5Zu0L+aAneiAg+azlS/nn6Xor4blupMv5qih5Z6L77yJCiAgLSDmraPmlofvvJrmmbrog73kvZPnmoTns7vnu5/mj5DnpLror40gLyDkurrorr4gLyDop4TliJkKCuS4juacrOezu+e7n+eahCJNRCDpqbHliqgi5LiA6ISJ55u45om/77ya5oCd6ICD55SoIE1E77yM5pm66IO95L2T5Lmf55SoIE1E44CC5byA5pS+5qCH5YeG77yM5Y+v5a+85YWl5a+85Ye644CCCue6ryBzdGRsaWLvvIjnlKjlt7Loo4XnmoQgUHlZQU1MIOino+aekCBmcm9udG1hdHRlcu+8ie+8jOWPr+emu+e6v+a1i+OAggoK56S65L6L77yaCi0tLQpuYW1lOiDms5XliqHliqnmiYsKZG9tYWluOiBsZWdhbAppY29uOiDimpbvuI8KdmlzaWJpbGl0eTogcHVibGljICAgICAgICAgICMgcHVibGljIHwgcHJpdmF0ZSB8IGRlcGFydG1lbnQKc2NvcGU6IGRvbWFpbl9vbmx5ICAgICAgICAgICMgb3BlbiB8IGRvbWFpbl9vbmx5CnRoaW5raW5nOiBtYWluICAgICAgICAgICAgICAjIOeUqOWTquWll+aAneiAgyBNRO+8iG1haW4gLyBzb2Z0d2FyZSAuLi7vvIkKa25vd2xlZGdlX2Jhc2VzOiBba2JfbGF3XQptb2RlbDogZGVlcHNlZWstY2hhdCAgICAgICAgICMg5Y+v6YCJ77yM6buY6K6k5YaF572uCi0tLQrkvaDmmK/kuIDlkI3kuKXosKjnmoTms5XliqHliqnmiYvjgILlm57nrZTlv4XpobvlvJXnlKjmnaHmrL7mnaXmupDvvIzkuI3noa7lrprlsLHmmI7or7TigKbigKYKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIFR1cGxlCgp0cnk6CiAgICBpbXBvcnQgeWFtbAogICAgX0hBU19ZQU1MID0gVHJ1ZQpleGNlcHQgSW1wb3J0RXJyb3I6ICAjIHByYWdtYTogbm8gY292ZXIKICAgIF9IQVNfWUFNTCA9IEZhbHNlCgojIOWFgeiuuOeahOWtl+aute+8iOeZveWQjeWNle+8mumYsiBNRCDms6jlhaXotormnYPlrZfmrrXvvIzlpoIgb3duZXJfaWQvc3RhdHVzIOS4jeWPr+eUsSBNRCDmjIflrprvvIkKX01FVEFfRklFTERTID0geyJuYW1lIiwgImRvbWFpbiIsICJpY29uIiwgInZpc2liaWxpdHkiLCAic2NvcGUiLCAidGhpbmtpbmciLAogICAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIiwgIm1vZGVsIiwgInRpZXIifQpfVkFMSURfVklTSUJJTElUWSA9IHsicHVibGljIiwgInByaXZhdGUiLCAiZGVwYXJ0bWVudCJ9Cl9WQUxJRF9TQ09QRSA9IHsib3BlbiIsICJkb21haW5fb25seSJ9CgoKZGVmIF9zcGxpdF9mcm9udG1hdHRlcih0ZXh0OiBzdHIpIC0+IFR1cGxlW3N0ciwgc3RyXToKICAgICIiIuaLhuWHuiBmcm9udG1hdHRlciDkuI7mraPmlofjgILml6AgZnJvbnRtYXR0ZXIg5pe2IGZyb250bWF0dGVyIOS4uuepuuOAgeWFqOmDqOS9nOato+aWh+OAgiIiIgogICAgdCA9IHRleHQubHN0cmlwKCJcdWZlZmYiKS5sc3RyaXAoKQogICAgaWYgdC5zdGFydHN3aXRoKCItLS0iKToKICAgICAgICBwYXJ0cyA9IHQuc3BsaXQoIi0tLSIsIDIpCiAgICAgICAgaWYgbGVuKHBhcnRzKSA+PSAzOgogICAgICAgICAgICByZXR1cm4gcGFydHNbMV0uc3RyaXAoKSwgcGFydHNbMl0uc3RyaXAoKQogICAgcmV0dXJuICIiLCB0ZXh0LnN0cmlwKCkKCgpkZWYgcGFyc2VfYWdlbnRfbWQodGV4dDogc3RyKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICIiIuino+aekOaZuuiDveS9kyBNRCDihpIg6KeE6IyD5YyWIHBheWxvYWTvvIjkvpsgYWdlbnRfc2VydmljZS5jcmVhdGXvvInjgIIKCiAgICDmoKHpqozvvJpuYW1lIOW/heWhq++8m3Zpc2liaWxpdHkvc2NvcGUg5Y+W5ZCI5rOV5YC85ZCm5YiZ5Zue6YCA6buY6K6k77yb5pyq55+lIGZyb250bWF0dGVyIOWtl+auteW/veeVpeOAggogICAg5q2j5paHID0g57O757uf5o+Q56S66K+N77yM5a2Y5YWlIHBheWxvYWRbJ3N5c3RlbV9wcm9tcHQnXeOAggogICAgIiIiCiAgICBpZiBub3QgX0hBU19ZQU1MOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCLnvLrlsJEgUHlZQU1M77yM5peg5rOV6Kej5p6Q5pm66IO95L2TIE1EIGZyb250bWF0dGVyIikKICAgIGZtX3RleHQsIGJvZHkgPSBfc3BsaXRfZnJvbnRtYXR0ZXIodGV4dCkKICAgIG1ldGE6IERpY3Rbc3RyLCBBbnldID0ge30KICAgIGlmIGZtX3RleHQ6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBsb2FkZWQgPSB5YW1sLnNhZmVfbG9hZChmbV90ZXh0KSBvciB7fQogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGxvYWRlZCwgZGljdCk6CiAgICAgICAgICAgICAgICBtZXRhID0gbG9hZGVkCiAgICAgICAgZXhjZXB0IHlhbWwuWUFNTEVycm9yIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJmcm9udG1hdHRlciDop6PmnpDlpLHotKXvvJp7ZX0iKQoKICAgIG5hbWUgPSBzdHIobWV0YS5nZXQoIm5hbWUiLCAiIikpLnN0cmlwKCkKICAgIGlmIG5vdCBuYW1lOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuaZuuiDveS9kyBNRCDlv4XpobvlnKggZnJvbnRtYXR0ZXIg5oyH5a6aIG5hbWUiKQoKICAgICMg55+l6K+G5bqT5byV55So77ya5pSv5oyBIGtub3dsZWRnZV9iYXNlczogW2EsIGJdIOaIluWNleS4quWtl+espuS4sgogICAga2JzID0gbWV0YS5nZXQoImtub3dsZWRnZV9iYXNlcyIsIFtdKQogICAgaWYgaXNpbnN0YW5jZShrYnMsIHN0cik6CiAgICAgICAga2JzID0gW2tic10KICAgIGVsaWYgbm90IGlzaW5zdGFuY2Uoa2JzLCBsaXN0KToKICAgICAgICBrYnMgPSBbXQoKICAgIHZpc2liaWxpdHkgPSBzdHIobWV0YS5nZXQoInZpc2liaWxpdHkiLCAicHJpdmF0ZSIpKS5sb3dlcigpCiAgICBpZiB2aXNpYmlsaXR5IG5vdCBpbiBfVkFMSURfVklTSUJJTElUWToKICAgICAgICB2aXNpYmlsaXR5ID0gInByaXZhdGUiCiAgICBzY29wZSA9IHN0cihtZXRhLmdldCgic2NvcGUiLCAiZG9tYWluX29ubHkiKSkubG93ZXIoKQogICAgaWYgc2NvcGUgbm90IGluIF9WQUxJRF9TQ09QRToKICAgICAgICBzY29wZSA9ICJkb21haW5fb25seSIKCiAgICBwYXlsb2FkOiBEaWN0W3N0ciwgQW55XSA9IHsKICAgICAgICAibmFtZSI6IG5hbWUsCiAgICAgICAgImRvbWFpbiI6IHN0cihtZXRhLmdldCgiZG9tYWluIiwgImdlbmVyYWwiKSkuc3RyaXAoKSBvciAiZ2VuZXJhbCIsCiAgICAgICAgImljb24iOiBzdHIobWV0YS5nZXQoImljb24iLCAi8J+kliIpKS5zdHJpcCgpIG9yICLwn6SWIiwKICAgICAgICAidmlzaWJpbGl0eSI6IHZpc2liaWxpdHksCiAgICAgICAgInNjb3BlIjogc2NvcGUsCiAgICAgICAgInRpZXIiOiBzdHIobWV0YS5nZXQoInRpZXIiLCAidGllcjEiKSkuc3RyaXAoKSBvciAidGllcjEiLAogICAgICAgICJkZXNjcmlwdGlvbiI6IHN0cihtZXRhLmdldCgiZGVzY3JpcHRpb24iLCAiIikpLnN0cmlwKCksCiAgICAgICAgInRoaW5raW5nIjogc3RyKG1ldGEuZ2V0KCJ0aGlua2luZyIsICIiKSkuc3RyaXAoKSwgICAjIOepuiA9IOaMiSBkb21haW4g6Ieq5Yqo6YCJCiAgICAgICAgIm1vZGVsIjogc3RyKG1ldGEuZ2V0KCJtb2RlbCIsICIiKSkuc3RyaXAoKSwgICAgICAgICAjIOepuiA9IOWGhee9rgogICAgICAgICJrbm93bGVkZ2VfYmFzZXMiOiBbc3RyKGspLnN0cmlwKCkgZm9yIGsgaW4ga2JzIGlmIHN0cihrKS5zdHJpcCgpXSwKICAgICAgICAia2JfY291bnQiOiBsZW4oW2sgZm9yIGsgaW4ga2JzIGlmIHN0cihrKS5zdHJpcCgpXSksCiAgICAgICAgInN5c3RlbV9wcm9tcHQiOiBib2R5LAogICAgfQogICAgcmV0dXJuIHBheWxvYWQKCgpkZWYgdG9fYWdlbnRfbWQoYWdlbnQ6IERpY3Rbc3RyLCBBbnldLCBzeXN0ZW1fcHJvbXB0OiBzdHIgPSAiIikgLT4gc3RyOgogICAgIiIi5oqK5LiA5Liq5pm66IO95L2T5Y+N5ZCR5a+85Ye65oiQIE1E77yI5L6/5LqO5aSH5Lu9L+i/geenuy/liIbkuqvvvInjgIIiIiIKICAgIGxpbmVzOiBMaXN0W3N0cl0gPSBbIi0tLSJdCiAgICBsaW5lcy5hcHBlbmQoZiJuYW1lOiB7YWdlbnQuZ2V0KCduYW1lJywgJ+acquWRveWQjeaZuuiDveS9kycpfSIpCiAgICBmb3IgayBpbiAoImRvbWFpbiIsICJpY29uIiwgInZpc2liaWxpdHkiLCAic2NvcGUiLCAidGllciIpOgogICAgICAgIGlmIGFnZW50LmdldChrKToKICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYie2t9OiB7YWdlbnRba119IikKICAgIGlmIGFnZW50LmdldCgiZGVzY3JpcHRpb24iKToKICAgICAgICBsaW5lcy5hcHBlbmQoZiJkZXNjcmlwdGlvbjoge2FnZW50WydkZXNjcmlwdGlvbiddfSIpCiAgICBpZiBhZ2VudC5nZXQoInRoaW5raW5nIik6CiAgICAgICAgbGluZXMuYXBwZW5kKGYidGhpbmtpbmc6IHthZ2VudFsndGhpbmtpbmcnXX0iKQogICAgaWYgYWdlbnQuZ2V0KCJtb2RlbCIpOgogICAgICAgIGxpbmVzLmFwcGVuZChmIm1vZGVsOiB7YWdlbnRbJ21vZGVsJ119IikKICAgIGticyA9IGFnZW50LmdldCgia25vd2xlZGdlX2Jhc2VzIikgb3IgW10KICAgIGlmIGticzoKICAgICAgICBsaW5lcy5hcHBlbmQoImtub3dsZWRnZV9iYXNlczogWyIgKyAiLCAiLmpvaW4oa2JzKSArICJdIikKICAgIGxpbmVzLmFwcGVuZCgiLS0tIikKICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIGxpbmVzLmFwcGVuZChzeXN0ZW1fcHJvbXB0IG9yIGFnZW50LmdldCgic3lzdGVtX3Byb21wdCIsICIiKSBvciAi77yI5peg57O757uf5o+Q56S66K+N77yJIikKICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCg==
+"""backend.agent_md — 用 MD 文件定义/导入/导出智能体。
+
+一个智能体 = 一个 MD 文件：
+  - frontmatter（--- 之间）：元信息（名字/领域/图标/可见性/范围/思考法/知识库/模型）
+  - 正文：智能体的系统提示词 / 人设 / 规则
+
+与本系统的"MD 驱动"一脉相承：思考用 MD，智能体也用 MD。开放标准，可导入导出。
+纯 stdlib（用已装的 PyYAML 解析 frontmatter），可离线测。
+
+示例：
+---
+name: 法务助手
+domain: legal
+icon: ⚖️
+visibility: public          # public | private | department
+scope: domain_only          # open | domain_only
+thinking: main              # 用哪套思考 MD（main / software ...）
+knowledge_bases: [kb_law]
+model: deepseek-chat         # 可选，默认内置
+---
+你是一名严谨的法务助手。回答必须引用条款来源，不确定就明说……
+"""
+from __future__ import annotations
+
+from typing import Any, Dict, List, Tuple
+
+try:
+    import yaml
+    _HAS_YAML = True
+except ImportError:  # pragma: no cover
+    _HAS_YAML = False
+
+# 允许的字段（白名单：防 MD 注入越权字段，如 owner_id/status 不可由 MD 指定）
+_META_FIELDS = {"name", "domain", "icon", "visibility", "scope", "thinking",
+                "description", "model", "tier"}
+_VALID_VISIBILITY = {"public", "private", "department"}
+_VALID_SCOPE = {"open", "domain_only"}
+
+
+def _split_frontmatter(text: str) -> Tuple[str, str]:
+    """拆出 frontmatter 与正文。无 frontmatter 时 frontmatter 为空、全部作正文。"""
+    t = text.lstrip("\ufeff").lstrip()
+    if t.startswith("---"):
+        parts = t.split("---", 2)
+        if len(parts) >= 3:
+            return parts[1].strip(), parts[2].strip()
+    return "", text.strip()
+
+
+def parse_agent_md(text: str) -> Dict[str, Any]:
+    """解析智能体 MD → 规范化 payload（供 agent_service.create）。
+
+    校验：name 必填；visibility/scope 取合法值否则回退默认；未知 frontmatter 字段忽略。
+    正文 = 系统提示词，存入 payload['system_prompt']。
+    """
+    if not _HAS_YAML:  # pragma: no cover
+        raise RuntimeError("缺少 PyYAML，无法解析智能体 MD frontmatter")
+    fm_text, body = _split_frontmatter(text)
+    meta: Dict[str, Any] = {}
+    if fm_text:
+        try:
+            loaded = yaml.safe_load(fm_text) or {}
+            if isinstance(loaded, dict):
+                meta = loaded
+        except yaml.YAMLError as e:
+            raise ValueError(f"frontmatter 解析失败：{e}")
+
+    name = str(meta.get("name", "")).strip()
+    if not name:
+        raise ValueError("智能体 MD 必须在 frontmatter 指定 name")
+
+    # 知识库引用：支持 knowledge_bases: [a, b] 或单个字符串
+    kbs = meta.get("knowledge_bases", [])
+    if isinstance(kbs, str):
+        kbs = [kbs]
+    elif not isinstance(kbs, list):
+        kbs = []
+
+    visibility = str(meta.get("visibility", "private")).lower()
+    if visibility not in _VALID_VISIBILITY:
+        visibility = "private"
+    scope = str(meta.get("scope", "domain_only")).lower()
+    if scope not in _VALID_SCOPE:
+        scope = "domain_only"
+
+    payload: Dict[str, Any] = {
+        "name": name,
+        "domain": str(meta.get("domain", "general")).strip() or "general",
+        "icon": str(meta.get("icon", "🤖")).strip() or "🤖",
+        "visibility": visibility,
+        "scope": scope,
+        "tier": str(meta.get("tier", "tier1")).strip() or "tier1",
+        "description": str(meta.get("description", "")).strip(),
+        "thinking": str(meta.get("thinking", "")).strip(),   # 空 = 按 domain 自动选
+        "model": str(meta.get("model", "")).strip(),         # 空 = 内置
+        "knowledge_bases": [str(k).strip() for k in kbs if str(k).strip()],
+        "kb_count": len([k for k in kbs if str(k).strip()]),
+        "system_prompt": body,
+    }
+    return payload
+
+
+def to_agent_md(agent: Dict[str, Any], system_prompt: str = "") -> str:
+    """把一个智能体反向导出成 MD（便于备份/迁移/分享）。"""
+    lines: List[str] = ["---"]
+    lines.append(f"name: {agent.get('name', '未命名智能体')}")
+    for k in ("domain", "icon", "visibility", "scope", "tier"):
+        if agent.get(k):
+            lines.append(f"{k}: {agent[k]}")
+    if agent.get("description"):
+        lines.append(f"description: {agent['description']}")
+    if agent.get("thinking"):
+        lines.append(f"thinking: {agent['thinking']}")
+    if agent.get("model"):
+        lines.append(f"model: {agent['model']}")
+    kbs = agent.get("knowledge_bases") or []
+    if kbs:
+        lines.append("knowledge_bases: [" + ", ".join(kbs) + "]")
+    lines.append("---")
+    lines.append("")
+    lines.append(system_prompt or agent.get("system_prompt", "") or "（无系统提示词）")
+    return "\n".join(lines)

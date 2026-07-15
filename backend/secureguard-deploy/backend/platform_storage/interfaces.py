@@ -1,1 +1,36 @@
-IiIicGxhdGZvcm1fc3RvcmFnZS5pbnRlcmZhY2VzIOKAlCDkuInnsbvlrZjlgqjnmoTnu5/kuIDmjqXlj6Mo5Li66ZuG5Zui6K6+6K6hLOWunueOsOWFiOWBmuWwj+WFrOWPuCnjgIIKCuKRoCDlhbPns7vlnos65rK/55SoIG9yZ19jb3JlIOeahCBSZXBvcyhTUUxpdGXkuLsvUEflj6/mjaIsU1FM5pa56KiA5Lit56uLKeKAlOKAlOS4jeWcqOatpOmHjeWkjeWumuS5ieOAggrikaEg5ZCR6YePIFZlY3RvclN0b3JlOmFkZC9zZWFyY2go5bimIGZpbHRlcnMpL2RlbGV0ZS9jb3VudCDigJTigJQg5pys5ZywU1FMaXRl6JC955uYIOaIliBRZHJhbnTjgIIK4pGiIOWvueixoSBCbG9iU3RvcmU6cHV0L2dldC9kZWxldGUvbGlzdCDigJTigJQg5pys5Zyw56OB55uYIOaIliBNaW5JTy9TM+OAggrmiYDmnInmlbDmja7luKYgdGVuYW50X2lkO3NlYXJjaCDku47nrKzkuIDlpKnlsLHluKYgZmlsdGVycyjpm4blm6LmjaIgUWRyYW50IOaXtuS4i+aOqCBwYXlsb2FkIGZpbHRlcinjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdCwgT3B0aW9uYWwsIFByb3RvY29sLCBydW50aW1lX2NoZWNrYWJsZQoKCkBkYXRhY2xhc3MKY2xhc3MgVmVjdG9ySGl0OgogICAgaWQ6IHN0cgogICAgc2NvcmU6IGZsb2F0CiAgICBwYXlsb2FkOiBEaWN0W3N0ciwgQW55XSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1kaWN0KQoKCkBydW50aW1lX2NoZWNrYWJsZQpjbGFzcyBWZWN0b3JTdG9yZShQcm90b2NvbCk6CiAgICBkZWYgYWRkKHNlbGYsIGlkOiBzdHIsIHZlY3RvcjogTGlzdFtmbG9hdF0sIHBheWxvYWQ6IERpY3Rbc3RyLCBBbnldKSAtPiBOb25lOiAuLi4KICAgIGRlZiBzZWFyY2goc2VsZiwgdmVjdG9yOiBMaXN0W2Zsb2F0XSwgazogaW50ID0gNSwKICAgICAgICAgICAgICAgZmlsdGVyczogT3B0aW9uYWxbRGljdFtzdHIsIEFueV1dID0gTm9uZSkgLT4gTGlzdFtWZWN0b3JIaXRdOiAuLi4KICAgIGRlZiBkZWxldGUoc2VsZiwgaWRzOiBPcHRpb25hbFtMaXN0W3N0cl1dID0gTm9uZSwKICAgICAgICAgICAgICAgZmlsdGVyczogT3B0aW9uYWxbRGljdFtzdHIsIEFueV1dID0gTm9uZSkgLT4gaW50OiAuLi4KICAgIGRlZiBjb3VudChzZWxmLCBmaWx0ZXJzOiBPcHRpb25hbFtEaWN0W3N0ciwgQW55XV0gPSBOb25lKSAtPiBpbnQ6IC4uLgoKCkBydW50aW1lX2NoZWNrYWJsZQpjbGFzcyBCbG9iU3RvcmUoUHJvdG9jb2wpOgogICAgZGVmIHB1dChzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwga2V5OiBzdHIsIGRhdGE6IGJ5dGVzKSAtPiBzdHI6IC4uLiAgICMg6L+U5Zue5Y+v5Y+W5Zue55qE5a6a5L2N5LiyCiAgICBkZWYgZ2V0KHNlbGYsIHRlbmFudF9pZDogc3RyLCBrZXk6IHN0cikgLT4gYnl0ZXM6IC4uLgogICAgZGVmIGRlbGV0ZShzZWxmLCB0ZW5hbnRfaWQ6IHN0ciwga2V5OiBzdHIpIC0+IGJvb2w6IC4uLgogICAgZGVmIGxpc3Qoc2VsZiwgdGVuYW50X2lkOiBzdHIsIHByZWZpeDogc3RyID0gIiIpIC0+IExpc3Rbc3RyXTogLi4uCg==
+"""platform_storage.interfaces — 三类存储的统一接口(为集团设计,实现先做小公司)。
+
+① 关系型:沿用 org_core 的 Repos(SQLite主/PG可换,SQL方言中立)——不在此重复定义。
+② 向量 VectorStore:add/search(带 filters)/delete/count —— 本地SQLite落盘 或 Qdrant。
+③ 对象 BlobStore:put/get/delete/list —— 本地磁盘 或 MinIO/S3。
+所有数据带 tenant_id;search 从第一天就带 filters(集团换 Qdrant 时下推 payload filter)。
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional, Protocol, runtime_checkable
+
+
+@dataclass
+class VectorHit:
+    id: str
+    score: float
+    payload: Dict[str, Any] = field(default_factory=dict)
+
+
+@runtime_checkable
+class VectorStore(Protocol):
+    def add(self, id: str, vector: List[float], payload: Dict[str, Any]) -> None: ...
+    def search(self, vector: List[float], k: int = 5,
+               filters: Optional[Dict[str, Any]] = None) -> List[VectorHit]: ...
+    def delete(self, ids: Optional[List[str]] = None,
+               filters: Optional[Dict[str, Any]] = None) -> int: ...
+    def count(self, filters: Optional[Dict[str, Any]] = None) -> int: ...
+
+
+@runtime_checkable
+class BlobStore(Protocol):
+    def put(self, tenant_id: str, key: str, data: bytes) -> str: ...   # 返回可取回的定位串
+    def get(self, tenant_id: str, key: str) -> bytes: ...
+    def delete(self, tenant_id: str, key: str) -> bool: ...
+    def list(self, tenant_id: str, prefix: str = "") -> List[str]: ...

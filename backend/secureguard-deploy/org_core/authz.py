@@ -1,1 +1,92 @@
-IiIiCm9yZ19jb3JlLmF1dGh6IOKAlCDml6DnirbmgIHpibTmnYPlvJXmk44o5LqU5p2h56Gs6KeE5YiZ55qE5omn6KGM54K5KeOAggoK57qv5Ye95pWw5byPOui+k+WFpSByZXBvICsg5b2T5YmN5a2Q6LSm5Y+3KGdyYW50KSsg5Yqo5L2cICsg55uu5qCH6IqC54K5LOi+k+WHuiAoYWxsb3dlZCwgcmVhc29uKeOAggrkuI3nvJPlrZjnirbmgIEg4oaSIOWkp+WFrOWPuOWkmuWJr+acrOaXtuavj+S4quWJr+acrOeLrOeri+mJtOadgyjlj6/msLTlubPmianlsZUp44CCCgrkupTmnaHnoazop4TliJk6CiAgUjEg56ef5oi36ZqU56a7ICAgICAg5omA5pyJ6K+75Y+W5oyJIHRlbmFudF9pZDvot6jnp5/miLflr7nosaHkuIDlvovkuI3lj6/op4HjgIIKICBSMiDkuJrliqHmnYPpmZDkuI3nu6fmib8g5Lia5Yqh5Yqo5L2c55qEIHNjb3BlID0gZ3JhbnQub3JnX25vZGUg5pys6LqrKOS4jeWQq+WQjuS7oynjgIIKICBSMyDnrqHnkIbmnYPpmZDmsr/lrZDmoJEg566h55CG5Yqo5L2c6KaB5rGC55uu5qCHIOKIiCDmk43kvZzogIXmn5DmnaEgYWRtaW5fc2NvcGUg55qE5a2Q5qCR44CCCiAgUjQg5oyJ5b2T5YmN5a2Q6LSm5Y+3ICAg5p2D6ZmQL+iMg+WbtOWFqOWPliBjdXJyZW50X2dyYW50LOS4jeWPluecn+S6uuiBmuWQiOOAggogIFI1IOWuoeiuoemUmuWumuecn+S6uivlrZDotKblj7co55SxIHNlcnZpY2Ug6JC95a6eKeOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsLCBUdXBsZQoKZnJvbSAubW9kZWxzIGltcG9ydCBHcmFudCwgVXNlclN0YXR1cwpmcm9tIC5wZXJtaXNzaW9ucyBpbXBvcnQgTUFOQUdFTUVOVF9QRVJNUwpmcm9tIC5yZXBvc2l0b3J5IGltcG9ydCBSZXBvcwoKRGVjaXNpb24gPSBUdXBsZVtib29sLCBzdHJdCgoKZGVmIGlzX2Rlc2NlbmRhbnRfb3Jfc2VsZihyZXBvOiBSZXBvcywgdGVuYW50X2lkOiBzdHIsIG5vZGVfaWQ6IHN0ciwgYW5jZXN0b3JfaWQ6IHN0cikgLT4gYm9vbDoKICAgICIiIm5vZGVfaWQg5piv5ZCmID09IGFuY2VzdG9yX2lkIOaIluWcqOWFtuWtkOagkeWGhSjmsr8gcGFyZW50IOmTvuS4iua6rynjgIIiIiIKICAgIGN1cjogT3B0aW9uYWxbc3RyXSA9IG5vZGVfaWQKICAgIHNlZW4gPSBzZXQoKSAgIyDpmLLnjq8KICAgIHdoaWxlIGN1ciBpcyBub3QgTm9uZSBhbmQgY3VyIG5vdCBpbiBzZWVuOgogICAgICAgIGlmIGN1ciA9PSBhbmNlc3Rvcl9pZDoKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBzZWVuLmFkZChjdXIpCiAgICAgICAgbiA9IHJlcG8uZ2V0X25vZGUodGVuYW50X2lkLCBjdXIpCiAgICAgICAgY3VyID0gbi5wYXJlbnRfaWQgaWYgbiBlbHNlIE5vbmUKICAgIHJldHVybiBGYWxzZQoKCmRlZiByZXNvbHZlX2dyYW50KHJlcG86IFJlcG9zLCB0ZW5hbnRfaWQ6IHN0ciwgZ3JhbnRfaWQ6IHN0cikgLT4gR3JhbnQ6CiAgICAiIiLlj5blvZPliY3lrZDotKblj7cs5qCh6aqMOuWtmOWcqOOAgeWxnuacrOenn+aIt+OAgWFjdGl2ZeOAgeS4lOecn+S6uuacquWBnOeUqOOAguWQpuWImeaYvuW8j+Wksei0peOAgiIiIgogICAgZyA9IHJlcG8uZ2V0X2dyYW50KHRlbmFudF9pZCwgZ3JhbnRfaWQpCiAgICBpZiBnIGlzIE5vbmU6CiAgICAgICAgcmFpc2UgTG9va3VwRXJyb3IoIuWtkOi0puWPt+S4jeWtmOWcqOaIluS4jeWxnuS6juacrOenn+aItyIpCiAgICBpZiBub3QgZy5hY3RpdmU6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKCLor6XlrZDotKblj7co5Lu76IGMKeW3suWBnOeUqCIpCiAgICB1ID0gcmVwby5nZXRfdXNlcih0ZW5hbnRfaWQsIGcudXNlcl9pZCkKICAgIGlmIHUgaXMgTm9uZSBvciB1LnN0YXR1cyAhPSBVc2VyU3RhdHVzLkFDVElWRToKICAgICAgICByYWlzZSBQZXJtaXNzaW9uRXJyb3IoIueUqOaIt+W3suemu+iBjC/lgZznlKgs5omA5pyJ5Lu76IGM5aSx5pWIIikKICAgIHJldHVybiBnCgoKZGVmIGdyYW50X3Blcm1zKHJlcG86IFJlcG9zLCBnOiBHcmFudCkgLT4gZnJvemVuc2V0W3N0cl06CiAgICByb2xlID0gcmVwby5nZXRfcm9sZShnLnRlbmFudF9pZCwgZy5yb2xlX2lkKQogICAgcmV0dXJuIHJvbGUucGVybV9rZXlzIGlmIHJvbGUgZWxzZSBmcm96ZW5zZXQoKQoKCmRlZiBpbl9hZG1pbl9zY29wZShyZXBvOiBSZXBvcywgdGVuYW50X2lkOiBzdHIsIHVzZXJfaWQ6IHN0ciwgdGFyZ2V0X25vZGVfaWQ6IHN0cikgLT4gYm9vbDoKICAgICIiIuebruagh+iKgueCueaYr+WQpuiQveWcqOivpeeUqOaIt+afkOadoeeuoeeQhuWtkOagkeWGhShSMynjgIIiIiIKICAgIGZvciBzIGluIHJlcG8uYWRtaW5fc2NvcGVzX29mKHRlbmFudF9pZCwgdXNlcl9pZCk6CiAgICAgICAgaWYgaXNfZGVzY2VuZGFudF9vcl9zZWxmKHJlcG8sIHRlbmFudF9pZCwgdGFyZ2V0X25vZGVfaWQsIHMub3JnX25vZGVfaWQpOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCgoKZGVmIGF1dGhvcml6ZSgKICAgIHJlcG86IFJlcG9zLAogICAgdGVuYW50X2lkOiBzdHIsCiAgICBjdXJyZW50X2dyYW50X2lkOiBzdHIsCiAgICBhY3Rpb246IHN0ciwKICAgIHRhcmdldF9ub2RlX2lkOiBPcHRpb25hbFtzdHJdID0gTm9uZSwKKSAtPiBEZWNpc2lvbjoKICAgICIiIuS4gOasoeivt+axgueahOWbuuWumumJtOadg+a1geeoi+OAgnRhcmdldF9ub2RlX2lkIOS4uuS4muWKoS/nrqHnkIbmk43kvZznmoTnm67moIfnu4Tnu4foioLngrnjgIIiIiIKICAgIHRyeToKICAgICAgICBnID0gcmVzb2x2ZV9ncmFudChyZXBvLCB0ZW5hbnRfaWQsIGN1cnJlbnRfZ3JhbnRfaWQpCiAgICBleGNlcHQgKExvb2t1cEVycm9yLCBQZXJtaXNzaW9uRXJyb3IpIGFzIGU6CiAgICAgICAgcmV0dXJuIEZhbHNlLCBzdHIoZSkKCiAgICBwZXJtcyA9IGdyYW50X3Blcm1zKHJlcG8sIGcpCiAgICBpZiBhY3Rpb24gbm90IGluIHBlcm1zOgogICAgICAgIHJldHVybiBGYWxzZSwgZiLlspfkvY3kuI3lhbflpIfmnYPpmZDkvY0ge2FjdGlvbn0iCgogICAgIyDnrqHnkIbliqjkvZw65rK/566h55CG5a2Q5qCRKFIzKTvnm67moIflv4XpobvlnKjmk43kvZzogIXnrqHnkIblrZDmoJHlhoUKICAgIGlmIGFjdGlvbiBpbiBNQU5BR0VNRU5UX1BFUk1TOgogICAgICAgIGlmIHRhcmdldF9ub2RlX2lkIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBGYWxzZSwgIueuoeeQhuaTjeS9nOW/hemhu+aMh+Wumuebruagh+e7hOe7h+iKgueCuSIKICAgICAgICBpZiBub3QgaW5fYWRtaW5fc2NvcGUocmVwbywgdGVuYW50X2lkLCBnLnVzZXJfaWQsIHRhcmdldF9ub2RlX2lkKToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlLCAi55uu5qCH5LiN5Zyo5L2g55qE566h55CG5a2Q5qCR5YaFKOS4jeiDveeuoeS4iue6py/lubPnuqcpIgogICAgICAgIHJldHVybiBUcnVlLCAib2so566h55CGOuWtkOagkeWGhSkiCgogICAgIyDkuJrliqHliqjkvZw65LiN5ZCR5LiL57un5om/KFIyKTvkvZznlKjln58gPT0g5b2T5YmN5a2Q6LSm5Y+35omA5Zyo6IqC54K5CiAgICBpZiB0YXJnZXRfbm9kZV9pZCBpcyBub3QgTm9uZSBhbmQgdGFyZ2V0X25vZGVfaWQgIT0gZy5vcmdfbm9kZV9pZDoKICAgICAgICByZXR1cm4gRmFsc2UsICLkuJrliqHmnYPpmZDkuI3nu6fmib865LuF5Zyo5L2g5b2T5YmN5Lu76IGM5omA5Zyo55qE57uE57uH6IqC54K555Sf5pWIIgogICAgcmV0dXJuIFRydWUsICJvayjkuJrliqE65pys6IqC54K5KSIK
+"""
+org_core.authz — 无状态鉴权引擎(五条硬规则的执行点)。
+
+纯函数式:输入 repo + 当前子账号(grant)+ 动作 + 目标节点,输出 (allowed, reason)。
+不缓存状态 → 大公司多副本时每个副本独立鉴权(可水平扩展)。
+
+五条硬规则:
+  R1 租户隔离      所有读取按 tenant_id;跨租户对象一律不可见。
+  R2 业务权限不继承 业务动作的 scope = grant.org_node 本身(不含后代)。
+  R3 管理权限沿子树 管理动作要求目标 ∈ 操作者某条 admin_scope 的子树。
+  R4 按当前子账号   权限/范围全取 current_grant,不取真人聚合。
+  R5 审计锚定真人+子账号(由 service 落实)。
+"""
+from __future__ import annotations
+
+from typing import Optional, Tuple
+
+from .models import Grant, UserStatus
+from .permissions import MANAGEMENT_PERMS
+from .repository import Repos
+
+Decision = Tuple[bool, str]
+
+
+def is_descendant_or_self(repo: Repos, tenant_id: str, node_id: str, ancestor_id: str) -> bool:
+    """node_id 是否 == ancestor_id 或在其子树内(沿 parent 链上溯)。"""
+    cur: Optional[str] = node_id
+    seen = set()  # 防环
+    while cur is not None and cur not in seen:
+        if cur == ancestor_id:
+            return True
+        seen.add(cur)
+        n = repo.get_node(tenant_id, cur)
+        cur = n.parent_id if n else None
+    return False
+
+
+def resolve_grant(repo: Repos, tenant_id: str, grant_id: str) -> Grant:
+    """取当前子账号,校验:存在、属本租户、active、且真人未停用。否则显式失败。"""
+    g = repo.get_grant(tenant_id, grant_id)
+    if g is None:
+        raise LookupError("子账号不存在或不属于本租户")
+    if not g.active:
+        raise PermissionError("该子账号(任职)已停用")
+    u = repo.get_user(tenant_id, g.user_id)
+    if u is None or u.status != UserStatus.ACTIVE:
+        raise PermissionError("用户已离职/停用,所有任职失效")
+    return g
+
+
+def grant_perms(repo: Repos, g: Grant) -> frozenset[str]:
+    role = repo.get_role(g.tenant_id, g.role_id)
+    return role.perm_keys if role else frozenset()
+
+
+def in_admin_scope(repo: Repos, tenant_id: str, user_id: str, target_node_id: str) -> bool:
+    """目标节点是否落在该用户某条管理子树内(R3)。"""
+    for s in repo.admin_scopes_of(tenant_id, user_id):
+        if is_descendant_or_self(repo, tenant_id, target_node_id, s.org_node_id):
+            return True
+    return False
+
+
+def authorize(
+    repo: Repos,
+    tenant_id: str,
+    current_grant_id: str,
+    action: str,
+    target_node_id: Optional[str] = None,
+) -> Decision:
+    """一次请求的固定鉴权流程。target_node_id 为业务/管理操作的目标组织节点。"""
+    try:
+        g = resolve_grant(repo, tenant_id, current_grant_id)
+    except (LookupError, PermissionError) as e:
+        return False, str(e)
+
+    perms = grant_perms(repo, g)
+    if action not in perms:
+        return False, f"岗位不具备权限位 {action}"
+
+    # 管理动作:沿管理子树(R3);目标必须在操作者管理子树内
+    if action in MANAGEMENT_PERMS:
+        if target_node_id is None:
+            return False, "管理操作必须指定目标组织节点"
+        if not in_admin_scope(repo, tenant_id, g.user_id, target_node_id):
+            return False, "目标不在你的管理子树内(不能管上级/平级)"
+        return True, "ok(管理:子树内)"
+
+    # 业务动作:不向下继承(R2);作用域 == 当前子账号所在节点
+    if target_node_id is not None and target_node_id != g.org_node_id:
+        return False, "业务权限不继承:仅在你当前任职所在的组织节点生效"
+    return True, "ok(业务:本节点)"

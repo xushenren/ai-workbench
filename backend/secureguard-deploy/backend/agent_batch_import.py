@@ -1,1 +1,101 @@
-IiIiYmFja2VuZC5hZ2VudF9iYXRjaF9pbXBvcnQg4oCUIOaZuuiDveS9kyB6aXAg5om56YeP5a+85YWlKOino+aekOWZqOaXoOWFsyznuq8gc3RkbGliKeOAggoK5LiA5LiqIHppcCDph4zkuIDnvqTmmbrog73kvZMo5q+P5LiqIC5tZCDkuIDkuKop44CC5pys5qih5Z2X5Y+q6LSf6LSjOuino+WMhSDihpIg6YGN5Y6GIC5tZCDihpIK6YCQ5Liq6LCD5rOo5YWl55qEIHBhcnNlX2ZuIOino+aekCDihpIg5Yay56qB5aSE55CGIOKGkiDosIPms6jlhaXnmoQgY3JlYXRlX2ZuIOWIm+W7uiDihpIg5Lqn5Ye65oql5ZGK44CCCuWNleS4quaWh+S7tueahOino+aekOagvOW8j+eUsSBwYXJzZV9mbiDlhrPlrpoo5Y+v5rOo5YWl5L2g546w5pyJ55qEIHBhcnNlX2FnZW50X21kKeOAggoK5a6J5YWoOumZkOWItiB6aXAg5aSn5bCP5LiO5paH5Lu25pWwO+W/veeVpeebruW9leepv+i2ii/pnZ4gLm1kO+WNleS4quaWh+S7tuWksei0peS4jeW9seWTjeaVtOS9k+OAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGlvCmltcG9ydCB6aXBmaWxlCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQ2FsbGFibGUsIERpY3QsIExpc3QsIE9wdGlvbmFsCgpNQVhfWklQX0JZVEVTID0gMjAgKiAxMDI0ICogMTAyNCAgICAgIyAyME1CCk1BWF9GSUxFUyA9IDIwMApNQVhfRklMRV9CWVRFUyA9IDUxMiAqIDEwMjQgICAgICAgICAgIyDljZXkuKogbWQg4omkNTEyS0IKClBhcnNlRm4gPSBDYWxsYWJsZVtbc3RyXSwgRGljdFtzdHIsIEFueV1dCkNyZWF0ZUZuID0gQ2FsbGFibGVbW0RpY3Rbc3RyLCBBbnldXSwgRGljdFtzdHIsIEFueV1dICAgIyBwYXlsb2FkIC0+IOW3suW7uuiusOW9lSjlkKsgaWQpCkV4aXN0c0ZuID0gQ2FsbGFibGVbW3N0cl0sIGJvb2xdICAgICAgICAgICAgICAgICAgICAgICAgICAjIG5hbWUgLT4g5piv5ZCm5bey5a2Y5ZyoCkRlbGV0ZUZuID0gT3B0aW9uYWxbQ2FsbGFibGVbW3N0cl0sIE5vbmVdXSAgICAgICAgICAgICAgICMgbmFtZSAtPiDliKDpmaQo6KaG55uW562W55Wl55SoKQoKCkBkYXRhY2xhc3MKY2xhc3MgSW1wb3J0UmVwb3J0OgogICAgY3JlYXRlZDogTGlzdFtEaWN0W3N0ciwgc3RyXV0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkgICAjIHtmaWxlLCBuYW1lLCBpZH0KICAgIHNraXBwZWQ6IExpc3RbRGljdFtzdHIsIHN0cl1dID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpICAgIyB7ZmlsZSwgbmFtZSwgcmVhc29ufQogICAgZmFpbGVkOiBMaXN0W0RpY3Rbc3RyLCBzdHJdXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KSAgICAjIHtmaWxlLCByZWFzb259CgogICAgZGVmIHN1bW1hcnkoc2VsZikgLT4gRGljdFtzdHIsIGludF06CiAgICAgICAgcmV0dXJuIHsiY3JlYXRlZCI6IGxlbihzZWxmLmNyZWF0ZWQpLCAic2tpcHBlZCI6IGxlbihzZWxmLnNraXBwZWQpLCAiZmFpbGVkIjogbGVuKHNlbGYuZmFpbGVkKX0KCiAgICBkZWYgcHVibGljKHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIHJldHVybiB7InN1bW1hcnkiOiBzZWxmLnN1bW1hcnkoKSwgImNyZWF0ZWQiOiBzZWxmLmNyZWF0ZWQsCiAgICAgICAgICAgICAgICAic2tpcHBlZCI6IHNlbGYuc2tpcHBlZCwgImZhaWxlZCI6IHNlbGYuZmFpbGVkfQoKCmRlZiBpbXBvcnRfemlwKAogICAgemlwX2J5dGVzOiBieXRlcywKICAgICosCiAgICBwYXJzZV9mbjogUGFyc2VGbiwKICAgIGNyZWF0ZV9mbjogQ3JlYXRlRm4sCiAgICBleGlzdHNfZm46IEV4aXN0c0ZuLAogICAgZGVsZXRlX2ZuOiBEZWxldGVGbiA9IE5vbmUsCiAgICBjb25mbGljdDogc3RyID0gInNraXAiLCAgICAgICAgICAjIHNraXAgfCByZW5hbWUgfCBvdmVyd3JpdGUKKSAtPiBJbXBvcnRSZXBvcnQ6CiAgICByZXAgPSBJbXBvcnRSZXBvcnQoKQogICAgaWYgbGVuKHppcF9ieXRlcykgPiBNQVhfWklQX0JZVEVTOgogICAgICAgIHJlcC5mYWlsZWQuYXBwZW5kKHsiZmlsZSI6ICIoemlwKSIsICJyZWFzb24iOiBmIui2hei/h+Wkp+Wwj+S4iumZkCB7TUFYX1pJUF9CWVRFUy8vMTAyNC8vMTAyNH1NQiJ9KQogICAgICAgIHJldHVybiByZXAKICAgIHRyeToKICAgICAgICB6ZiA9IHppcGZpbGUuWmlwRmlsZShpby5CeXRlc0lPKHppcF9ieXRlcykpCiAgICBleGNlcHQgemlwZmlsZS5CYWRaaXBGaWxlOgogICAgICAgIHJlcC5mYWlsZWQuYXBwZW5kKHsiZmlsZSI6ICIoemlwKSIsICJyZWFzb24iOiAi5LiN5piv5ZCI5rOV55qEIHppcCJ9KQogICAgICAgIHJldHVybiByZXAKCiAgICBuYW1lcyA9IFtuIGZvciBuIGluIHpmLm5hbWVsaXN0KCkgaWYgbi5sb3dlcigpLmVuZHN3aXRoKCIubWQiKSBhbmQgbm90IG4uZW5kc3dpdGgoIi8iKV0KICAgIGlmIGxlbihuYW1lcykgPiBNQVhfRklMRVM6CiAgICAgICAgcmVwLmZhaWxlZC5hcHBlbmQoeyJmaWxlIjogIih6aXApIiwgInJlYXNvbiI6IGYi5paH5Lu25pWw6LaF5LiK6ZmQIHtNQVhfRklMRVN9In0pCiAgICAgICAgcmV0dXJuIHJlcAoKICAgIGZvciBuIGluIG5hbWVzOgogICAgICAgIGJhc2UgPSBuLnNwbGl0KCIvIilbLTFdCiAgICAgICAgdHJ5OgogICAgICAgICAgICBpbmZvID0gemYuZ2V0aW5mbyhuKQogICAgICAgICAgICBpZiBpbmZvLmZpbGVfc2l6ZSA+IE1BWF9GSUxFX0JZVEVTOgogICAgICAgICAgICAgICAgcmVwLmZhaWxlZC5hcHBlbmQoeyJmaWxlIjogYmFzZSwgInJlYXNvbiI6ICLljZXmlofku7bov4flpKcifSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGNvbnRlbnQgPSB6Zi5yZWFkKG4pLmRlY29kZSgidXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQogICAgICAgICAgICBwYXlsb2FkID0gcGFyc2VfZm4oY29udGVudCkKICAgICAgICAgICAgbmFtZSA9IChwYXlsb2FkLmdldCgibmFtZSIpIG9yIGJhc2UpLnN0cmlwKCkKCiAgICAgICAgICAgIGlmIGV4aXN0c19mbihuYW1lKToKICAgICAgICAgICAgICAgIGlmIGNvbmZsaWN0ID09ICJza2lwIjoKICAgICAgICAgICAgICAgICAgICByZXAuc2tpcHBlZC5hcHBlbmQoeyJmaWxlIjogYmFzZSwgIm5hbWUiOiBuYW1lLCAicmVhc29uIjogIuWQjOWQjeW3suWtmOWcqCJ9KQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBpZiBjb25mbGljdCA9PSAicmVuYW1lIjoKICAgICAgICAgICAgICAgICAgICBwYXlsb2FkWyJuYW1lIl0gPSBfdW5pcXVlX25hbWUobmFtZSwgZXhpc3RzX2ZuKQogICAgICAgICAgICAgICAgZWxpZiBjb25mbGljdCA9PSAib3ZlcndyaXRlIjoKICAgICAgICAgICAgICAgICAgICBpZiBkZWxldGVfZm4gaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICAgICAgcmVwLnNraXBwZWQuYXBwZW5kKHsiZmlsZSI6IGJhc2UsICJuYW1lIjogbmFtZSwgInJlYXNvbiI6ICLkuI3mlK/mjIHopobnm5YifSkKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBkZWxldGVfZm4obmFtZSkKCiAgICAgICAgICAgIHJlYyA9IGNyZWF0ZV9mbihwYXlsb2FkKQogICAgICAgICAgICByZXAuY3JlYXRlZC5hcHBlbmQoeyJmaWxlIjogYmFzZSwgIm5hbWUiOiBwYXlsb2FkLmdldCgibmFtZSIsIG5hbWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpZCI6IHN0cihyZWMuZ2V0KCJpZCIsICIiKSl9KQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogICAjIOWNleS4quWksei0peS4jeW9seWTjeaVtOS9kwogICAgICAgICAgICByZXAuZmFpbGVkLmFwcGVuZCh7ImZpbGUiOiBiYXNlLCAicmVhc29uIjogc3RyKGUpWzoyMDBdfSkKICAgIHJldHVybiByZXAKCgpkZWYgX3VuaXF1ZV9uYW1lKG5hbWU6IHN0ciwgZXhpc3RzX2ZuOiBFeGlzdHNGbikgLT4gc3RyOgogICAgaSA9IDIKICAgIHdoaWxlIGV4aXN0c19mbihmIntuYW1lfSAoe2l9KSIpOgogICAgICAgIGkgKz0gMQogICAgICAgIGlmIGkgPiA5OTk6CiAgICAgICAgICAgIGJyZWFrCiAgICByZXR1cm4gZiJ7bmFtZX0gKHtpfSkiCg==
+"""backend.agent_batch_import — 智能体 zip 批量导入(解析器无关,纯 stdlib)。
+
+一个 zip 里一群智能体(每个 .md 一个)。本模块只负责:解包 → 遍历 .md →
+逐个调注入的 parse_fn 解析 → 冲突处理 → 调注入的 create_fn 创建 → 产出报告。
+单个文件的解析格式由 parse_fn 决定(可注入你现有的 parse_agent_md)。
+
+安全:限制 zip 大小与文件数;忽略目录穿越/非 .md;单个文件失败不影响整体。
+"""
+from __future__ import annotations
+
+import io
+import zipfile
+from dataclasses import dataclass, field
+from typing import Any, Callable, Dict, List, Optional
+
+MAX_ZIP_BYTES = 20 * 1024 * 1024     # 20MB
+MAX_FILES = 200
+MAX_FILE_BYTES = 512 * 1024          # 单个 md ≤512KB
+
+ParseFn = Callable[[str], Dict[str, Any]]
+CreateFn = Callable[[Dict[str, Any]], Dict[str, Any]]   # payload -> 已建记录(含 id)
+ExistsFn = Callable[[str], bool]                          # name -> 是否已存在
+DeleteFn = Optional[Callable[[str], None]]               # name -> 删除(覆盖策略用)
+
+
+@dataclass
+class ImportReport:
+    created: List[Dict[str, str]] = field(default_factory=list)   # {file, name, id}
+    skipped: List[Dict[str, str]] = field(default_factory=list)   # {file, name, reason}
+    failed: List[Dict[str, str]] = field(default_factory=list)    # {file, reason}
+
+    def summary(self) -> Dict[str, int]:
+        return {"created": len(self.created), "skipped": len(self.skipped), "failed": len(self.failed)}
+
+    def public(self) -> Dict[str, Any]:
+        return {"summary": self.summary(), "created": self.created,
+                "skipped": self.skipped, "failed": self.failed}
+
+
+def import_zip(
+    zip_bytes: bytes,
+    *,
+    parse_fn: ParseFn,
+    create_fn: CreateFn,
+    exists_fn: ExistsFn,
+    delete_fn: DeleteFn = None,
+    conflict: str = "skip",          # skip | rename | overwrite
+) -> ImportReport:
+    rep = ImportReport()
+    if len(zip_bytes) > MAX_ZIP_BYTES:
+        rep.failed.append({"file": "(zip)", "reason": f"超过大小上限 {MAX_ZIP_BYTES//1024//1024}MB"})
+        return rep
+    try:
+        zf = zipfile.ZipFile(io.BytesIO(zip_bytes))
+    except zipfile.BadZipFile:
+        rep.failed.append({"file": "(zip)", "reason": "不是合法的 zip"})
+        return rep
+
+    names = [n for n in zf.namelist() if n.lower().endswith(".md") and not n.endswith("/")]
+    if len(names) > MAX_FILES:
+        rep.failed.append({"file": "(zip)", "reason": f"文件数超上限 {MAX_FILES}"})
+        return rep
+
+    for n in names:
+        base = n.split("/")[-1]
+        try:
+            info = zf.getinfo(n)
+            if info.file_size > MAX_FILE_BYTES:
+                rep.failed.append({"file": base, "reason": "单文件过大"})
+                continue
+            content = zf.read(n).decode("utf-8", errors="replace")
+            payload = parse_fn(content)
+            name = (payload.get("name") or base).strip()
+
+            if exists_fn(name):
+                if conflict == "skip":
+                    rep.skipped.append({"file": base, "name": name, "reason": "同名已存在"})
+                    continue
+                if conflict == "rename":
+                    payload["name"] = _unique_name(name, exists_fn)
+                elif conflict == "overwrite":
+                    if delete_fn is None:
+                        rep.skipped.append({"file": base, "name": name, "reason": "不支持覆盖"})
+                        continue
+                    delete_fn(name)
+
+            rec = create_fn(payload)
+            rep.created.append({"file": base, "name": payload.get("name", name),
+                                "id": str(rec.get("id", ""))})
+        except Exception as e:   # 单个失败不影响整体
+            rep.failed.append({"file": base, "reason": str(e)[:200]})
+    return rep
+
+
+def _unique_name(name: str, exists_fn: ExistsFn) -> str:
+    i = 2
+    while exists_fn(f"{name} ({i})"):
+        i += 1
+        if i > 999:
+            break
+    return f"{name} ({i})"

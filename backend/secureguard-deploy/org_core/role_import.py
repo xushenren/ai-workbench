@@ -1,1 +1,50 @@
-IiIiCm9yZ19jb3JlLnJvbGVfaW1wb3J0IOKAlCDlspfkvY3mibnph4/lr7zlhaUo5qCH5YeG5qih5p2/OkV4Y2VsL0NTViDihpIg5bKX5L2NK+adg+mZkOS9jSnjgIIKCuaooeadv+WIlzogIHJvbGVfbmFtZSB8IHBlcm1fa2V5cyjliIblj7fmiJbpgJflj7fliIbpmpQpCumAkOihjDrmoKHpqozmnYPpmZDkvY3lkIjms5Ug4oaSIOW7uiBSb2xl44CC5pyq55+l5p2D6ZmQ5L2N5pW06KGM5oql6ZSZKOaYvuW8j+Wksei0pSzkuI3pnZnpu5jot7Pov4cp44CCCgp4bHN4IOino+aekOaYr+iWhOmAgumFjTrnlKggb3BlbnB5eGwg5oqK5q+P6KGM6K+75oiQIGRpY3Qg5YaN6LCDIGltcG9ydF9yb2xlcyDljbPlj68o6KeBIFJFQURNRSnjgIIK5pys5qih5Z2X5Y+q5L6d6LWWIHN0ZGxpYihjc3YpLOS/neivgeWPr+emu+e6v+a1i+OAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGNzdgppbXBvcnQgaW8KaW1wb3J0IHV1aWQKZnJvbSB0eXBpbmcgaW1wb3J0IEl0ZXJhYmxlCgpmcm9tIC5tb2RlbHMgaW1wb3J0IFJvbGUKZnJvbSAucGVybWlzc2lvbnMgaW1wb3J0IEFMTF9QRVJNUywgdmFsaWRhdGVfcGVybV9rZXlzCmZyb20gLnJlcG9zaXRvcnkgaW1wb3J0IFJlcG9zCgoKZGVmIF9zcGxpdF9wZXJtcyhjZWxsOiBzdHIpIC0+IGZyb3plbnNldFtzdHJdOgogICAgcGFydHMgPSBbcC5zdHJpcCgpIGZvciBwIGluIGNlbGwucmVwbGFjZSgiOyIsICIsIikucmVwbGFjZSgi77ybIiwgIiwiKS5yZXBsYWNlKCLvvIwiLCAiLCIpLnNwbGl0KCIsIildCiAgICByZXR1cm4gZnJvemVuc2V0KHAgZm9yIHAgaW4gcGFydHMgaWYgcCkKCgpkZWYgaW1wb3J0X3JvbGVzKHJlcG86IFJlcG9zLCB0ZW5hbnRfaWQ6IHN0ciwgcm93czogSXRlcmFibGVbZGljdF0pIC0+IGxpc3RbUm9sZV06CiAgICAiIiJyb3dzOiDmr4/ooYwgeydyb2xlX25hbWUnOi4uLiwgJ3Blcm1fa2V5cyc6J2tiLnJlYWQ7a2IucHJvbW90ZSd944CC6L+U5Zue5bey5bu65bKX5L2N44CCIiIiCiAgICBjcmVhdGVkOiBsaXN0W1JvbGVdID0gW10KICAgIGZvciBpLCByb3cgaW4gZW51bWVyYXRlKHJvd3MsIDEpOgogICAgICAgIG5hbWUgPSAocm93LmdldCgicm9sZV9uYW1lIikgb3Igcm93LmdldCgi5bKX5L2NIikgb3IgIiIpLnN0cmlwKCkKICAgICAgICBpZiBub3QgbmFtZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIuesrCB7aX0g6KGM57y65bCRIHJvbGVfbmFtZSIpCiAgICAgICAgcGVybXMgPSB2YWxpZGF0ZV9wZXJtX2tleXMoX3NwbGl0X3Blcm1zKHJvdy5nZXQoInBlcm1fa2V5cyIpIG9yIHJvdy5nZXQoIuadg+mZkOS9jSIpIG9yICIiKSkKICAgICAgICByID0gUm9sZSh1dWlkLnV1aWQ0KCkuaGV4LCB0ZW5hbnRfaWQsIG5hbWUsIHBlcm1zKQogICAgICAgIHJlcG8uYWRkX3JvbGUocikKICAgICAgICBjcmVhdGVkLmFwcGVuZChyKQogICAgcmV0dXJuIGNyZWF0ZWQKCgpkZWYgaW1wb3J0X3JvbGVzX2NzdihyZXBvOiBSZXBvcywgdGVuYW50X2lkOiBzdHIsIGNzdl90ZXh0OiBzdHIpIC0+IGxpc3RbUm9sZV06CiAgICByZXR1cm4gaW1wb3J0X3JvbGVzKHJlcG8sIHRlbmFudF9pZCwgY3N2LkRpY3RSZWFkZXIoaW8uU3RyaW5nSU8oY3N2X3RleHQpKSkKCgpkZWYgdGVtcGxhdGVfY3N2KCkgLT4gc3RyOgogICAgIiIi55Sf5oiQ5qCH5YeG5a+85YWl5qih5p2/KOWQq+WFqOmDqOWPr+eUqOadg+mZkOS9jeivtOaYjuihjCnjgIIiIiIKICAgIGhlYWRlciA9ICJyb2xlX25hbWUscGVybV9rZXlzXG4iCiAgICBleGFtcGxlID0gIumhueebrumDqOe7j+eQhixrYi5yZWFkO2FnZW50LmNyZWF0ZV9wcml2YXRlXG7kuJPlrrYsa2IucmVhZDtrYi53cml0ZV9wcml2YXRlO2tiLnByb21vdGVcbiIKICAgIGxlZ2VuZCA9ICIjIOWPr+eUqOadg+mZkOS9jTogIiArICIgIi5qb2luKHNvcnRlZChBTExfUEVSTVMpKSArICJcbiIKICAgIHJldHVybiBoZWFkZXIgKyBleGFtcGxlICsgbGVnZW5kCg==
+"""
+org_core.role_import — 岗位批量导入(标准模板:Excel/CSV → 岗位+权限位)。
+
+模板列:  role_name | perm_keys(分号或逗号分隔)
+逐行:校验权限位合法 → 建 Role。未知权限位整行报错(显式失败,不静默跳过)。
+
+xlsx 解析是薄适配:用 openpyxl 把每行读成 dict 再调 import_roles 即可(见 README)。
+本模块只依赖 stdlib(csv),保证可离线测。
+"""
+from __future__ import annotations
+
+import csv
+import io
+import uuid
+from typing import Iterable
+
+from .models import Role
+from .permissions import ALL_PERMS, validate_perm_keys
+from .repository import Repos
+
+
+def _split_perms(cell: str) -> frozenset[str]:
+    parts = [p.strip() for p in cell.replace(";", ",").replace("；", ",").replace("，", ",").split(",")]
+    return frozenset(p for p in parts if p)
+
+
+def import_roles(repo: Repos, tenant_id: str, rows: Iterable[dict]) -> list[Role]:
+    """rows: 每行 {'role_name':..., 'perm_keys':'kb.read;kb.promote'}。返回已建岗位。"""
+    created: list[Role] = []
+    for i, row in enumerate(rows, 1):
+        name = (row.get("role_name") or row.get("岗位") or "").strip()
+        if not name:
+            raise ValueError(f"第 {i} 行缺少 role_name")
+        perms = validate_perm_keys(_split_perms(row.get("perm_keys") or row.get("权限位") or ""))
+        r = Role(uuid.uuid4().hex, tenant_id, name, perms)
+        repo.add_role(r)
+        created.append(r)
+    return created
+
+
+def import_roles_csv(repo: Repos, tenant_id: str, csv_text: str) -> list[Role]:
+    return import_roles(repo, tenant_id, csv.DictReader(io.StringIO(csv_text)))
+
+
+def template_csv() -> str:
+    """生成标准导入模板(含全部可用权限位说明行)。"""
+    header = "role_name,perm_keys\n"
+    example = "项目部经理,kb.read;agent.create_private\n专家,kb.read;kb.write_private;kb.promote\n"
+    legend = "# 可用权限位: " + " ".join(sorted(ALL_PERMS)) + "\n"
+    return header + example + legend

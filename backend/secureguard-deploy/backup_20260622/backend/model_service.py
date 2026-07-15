@@ -1,1 +1,103 @@
-IiIiYmFja2VuZC5tb2RlbF9zZXJ2aWNlIOKAlCDmqKHlnovphY3nva7vvIjikaDvvInjgIIKCueuoeeQhuWRmOe7tOaKpCLlj6/nlKjmqKHlnosi5YiX6KGo77ya5pi+56S65ZCNICsgQVBJIOWcsOWdgCArIEFQSSBrZXkgKyDmqKHlnovmoIfor4YgKyDmmK/lkKblkK/nlKjjgIIK6IGK5aSp5pe25oyJIG1vZGVsX2lkIOmAieeUqOOAgue6ryBzdGRsaWLvvIzlj6/nprvnur/mtYvjgIIKCuivmuWunui+ueeVjO+8muacrOacjeWKoeWPqueuoSLphY3nva7kuI7pgInmi6ki44CC6YWN572u5p+Q5qih5Z6L5ZCOKirnnJ/og73lkKbosIPpgJoqKuWPluWGs+S6juS9oOWhq+eahArnnJ/lrp4gQVBJIOWcsOWdgC9rZXnvvIzkuJTlm57nrZTotKjph4/nlLHor6XmqKHlnovlhrPlrprigJTigJTnnJ/lrp7osIPnlKjlnKggQjcg5o6l77yI5q2k5aSE5LuF5a2Y6YWN572uICsKbW9jayDot6/nlLHpqozor4HmtYHnqIvvvInjgIJBUEkga2V5IOi/lOWbnue7meWJjeerr+aXtioq5omT56CBKirvvIzkuI3mmI7mlofkuIvlj5HjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCB0aW1lCmltcG9ydCB1dWlkCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdCwgT3B0aW9uYWwKCgpkZWYgX21hc2soa2V5OiBzdHIpIC0+IHN0cjoKICAgICIiIkFQSSBrZXkg5omT56CB77ya5Y+q55WZ5pyrIDQg5L2N77yM6YG/5YWN5piO5paH5Zue5Lyg5YmN56uv44CCIiIiCiAgICBpZiBub3Qga2V5OgogICAgICAgIHJldHVybiAiIgogICAgcmV0dXJuICgi4oCiIiAqIDgpICsga2V5Wy00Ol0gaWYgbGVuKGtleSkgPiA0IGVsc2UgIuKAouKAouKAouKAoiIKCgpAZGF0YWNsYXNzCmNsYXNzIE1vZGVsQ29uZmlnOgogICAgaWQ6IHN0cgogICAgbmFtZTogc3RyICAgICAgICAgICAgICAgICAjIOaYvuekuuWQje+8jOWmgiAiRGVlcFNlZWstVjMiCiAgICBhcGlfYmFzZTogc3RyICAgICAgICAgICAgICMgQVBJIOWcsOWdgO+8jOWmgiBodHRwczovL2FwaS5kZWVwc2Vlay5jb20vdjEKICAgIGFwaV9rZXk6IHN0ciAgICAgICAgICAgICAgIyDmmI7mloflrZjlkI7nq6/vvIzkuI3lm57kvKDliY3nq68KICAgIG1vZGVsOiBzdHIgICAgICAgICAgICAgICAgIyDmqKHlnovmoIfor4bvvIzlpoIgImRlZXBzZWVrLWNoYXQiCiAgICBlbmFibGVkOiBib29sID0gVHJ1ZQogICAgY3JlYXRlZF9hdDogZmxvYXQgPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9dGltZS50aW1lKQoKICAgIGRlZiBwdWJsaWMoc2VsZikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIi5Zue5Lyg5YmN56uv77yaa2V5IOaJk+eggeOAgiIiIgogICAgICAgIHJldHVybiB7ImlkIjogc2VsZi5pZCwgIm5hbWUiOiBzZWxmLm5hbWUsICJhcGlfYmFzZSI6IHNlbGYuYXBpX2Jhc2UsCiAgICAgICAgICAgICAgICAiYXBpX2tleV9tYXNrZWQiOiBfbWFzayhzZWxmLmFwaV9rZXkpLCAibW9kZWwiOiBzZWxmLm1vZGVsLAogICAgICAgICAgICAgICAgImVuYWJsZWQiOiBzZWxmLmVuYWJsZWQsICJjcmVhdGVkX2F0Ijogc2VsZi5jcmVhdGVkX2F0fQoKCmNsYXNzIE1vZGVsU2VydmljZToKICAgIGRlZiBfX2luaXRfXyhzZWxmKSAtPiBOb25lOgogICAgICAgIHNlbGYuX21vZGVsczogRGljdFtzdHIsIE1vZGVsQ29uZmlnXSA9IHt9CiAgICAgICAgc2VsZi5fc2VlZCgpCgogICAgZGVmIF9zZWVkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIyDpooTnva7kuIDkuKoi5YaF572u5Y2g5L2N5qih5Z6LIu+8iOWvueW6lOW9k+WJjSBNb2NrTW9kZWzvvInvvIzkv53or4HliY3nq6/msLjov5zmnInlj6/pgInpobnjgIIKICAgICAgICBzZWxmLl9tb2RlbHNbImJ1aWx0aW4iXSA9IE1vZGVsQ29uZmlnKAogICAgICAgICAgICBpZD0iYnVpbHRpbiIsIG5hbWU9IuWGhee9ruaooeWei++8iOWNoOS9je+8iSIsIGFwaV9iYXNlPSIiLCBhcGlfa2V5PSIiLAogICAgICAgICAgICBtb2RlbD0ibW9jayIsIGVuYWJsZWQ9VHJ1ZSkKCiAgICAjIC0tLS0tLS0tLS0g5p+l6K+iIC0tLS0tLS0tLS0KICAgIGRlZiBsaXN0X21vZGVscyhzZWxmLCBpbmNsdWRlX2Rpc2FibGVkOiBib29sID0gVHJ1ZSkgLT4gTGlzdFtEaWN0W3N0ciwgQW55XV06CiAgICAgICAgbXMgPSBzZWxmLl9tb2RlbHMudmFsdWVzKCkKICAgICAgICBvdXQgPSBbbS5wdWJsaWMoKSBmb3IgbSBpbiBtcyBpZiBpbmNsdWRlX2Rpc2FibGVkIG9yIG0uZW5hYmxlZF0KICAgICAgICByZXR1cm4gc29ydGVkKG91dCwga2V5PWxhbWJkYSBtOiBtWyJjcmVhdGVkX2F0Il0pCgogICAgZGVmIGxpc3Rfc2VsZWN0YWJsZShzZWxmKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICAiIiLogYrlpKnmoYbkuIvmi4nnlKjvvJrlj6rliJflkK/nlKjnmoTjgIIiIiIKICAgICAgICByZXR1cm4gc2VsZi5saXN0X21vZGVscyhpbmNsdWRlX2Rpc2FibGVkPUZhbHNlKQoKICAgIGRlZiBnZXQoc2VsZiwgbW9kZWxfaWQ6IHN0cikgLT4gT3B0aW9uYWxbTW9kZWxDb25maWddOgogICAgICAgIHJldHVybiBzZWxmLl9tb2RlbHMuZ2V0KG1vZGVsX2lkKQoKICAgIGRlZiByZXNvbHZlKHNlbGYsIG1vZGVsX2lkOiBPcHRpb25hbFtzdHJdKSAtPiBNb2RlbENvbmZpZzoKICAgICAgICAiIiLpgInmqKHlnovvvJrnu5nlrpogaWQg55So5LmL77yM5ZCm5YiZ5Zue6YCA5Yiw56ys5LiA5Liq5ZCv55So55qE77yI5oiW5YaF572u77yJ44CCIiIiCiAgICAgICAgaWYgbW9kZWxfaWQgYW5kIG1vZGVsX2lkIGluIHNlbGYuX21vZGVscyBhbmQgc2VsZi5fbW9kZWxzW21vZGVsX2lkXS5lbmFibGVkOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fbW9kZWxzW21vZGVsX2lkXQogICAgICAgIGZvciBtIGluIHNlbGYuX21vZGVscy52YWx1ZXMoKToKICAgICAgICAgICAgaWYgbS5lbmFibGVkOgogICAgICAgICAgICAgICAgcmV0dXJuIG0KICAgICAgICByZXR1cm4gc2VsZi5fbW9kZWxzWyJidWlsdGluIl0KCiAgICAjIC0tLS0tLS0tLS0g5aKe5Yig5pS577yI566h55CG5ZGY77yJIC0tLS0tLS0tLS0KICAgIGRlZiBjcmVhdGUoc2VsZiwgbmFtZTogc3RyLCBhcGlfYmFzZTogc3RyLCBhcGlfa2V5OiBzdHIsIG1vZGVsOiBzdHIsCiAgICAgICAgICAgICAgIGVuYWJsZWQ6IGJvb2wgPSBUcnVlKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICBpZiBub3QgbmFtZS5zdHJpcCgpIG9yIG5vdCBtb2RlbC5zdHJpcCgpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLmqKHlnovmmL7npLrlkI3kuI7mqKHlnovmoIfor4bkuI3og73kuLrnqboiKQogICAgICAgIG1pZCA9ICJtXyIgKyB1dWlkLnV1aWQ0KCkuaGV4Wzo4XQogICAgICAgIHNlbGYuX21vZGVsc1ttaWRdID0gTW9kZWxDb25maWcoaWQ9bWlkLCBuYW1lPW5hbWUuc3RyaXAoKSwKICAgICAgICAgICAgYXBpX2Jhc2U9YXBpX2Jhc2Uuc3RyaXAoKSwgYXBpX2tleT1hcGlfa2V5LnN0cmlwKCksCiAgICAgICAgICAgIG1vZGVsPW1vZGVsLnN0cmlwKCksIGVuYWJsZWQ9ZW5hYmxlZCkKICAgICAgICByZXR1cm4gc2VsZi5fbW9kZWxzW21pZF0ucHVibGljKCkKCiAgICBkZWYgdXBkYXRlKHNlbGYsIG1vZGVsX2lkOiBzdHIsICoqZmllbGRzOiBBbnkpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgIG0gPSBzZWxmLl9tb2RlbHMuZ2V0KG1vZGVsX2lkKQogICAgICAgIGlmIG5vdCBtOgogICAgICAgICAgICByYWlzZSBLZXlFcnJvcigi5qih5Z6L5LiN5a2Y5ZyoIikKICAgICAgICBpZiBtb2RlbF9pZCA9PSAiYnVpbHRpbiI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuWGhee9ruWNoOS9jeaooeWei+S4jeWPr+S/ruaUuSIpCiAgICAgICAgZm9yIGsgaW4gKCJuYW1lIiwgImFwaV9iYXNlIiwgIm1vZGVsIiwgImVuYWJsZWQiKToKICAgICAgICAgICAgaWYgayBpbiBmaWVsZHMgYW5kIGZpZWxkc1trXSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHNldGF0dHIobSwgaywgZmllbGRzW2tdKQogICAgICAgICMgYXBpX2tleSDku4XlnKjkvKDkuobpnZ7nqbrlgLzml7bmm7TmlrDvvIjpgb/lhY3liY3nq6/lm57kvKDmiZPnoIHlgLzopobnm5bnnJ8ga2V577yJCiAgICAgICAgaWYgZmllbGRzLmdldCgiYXBpX2tleSIpOgogICAgICAgICAgICBtLmFwaV9rZXkgPSBmaWVsZHNbImFwaV9rZXkiXS5zdHJpcCgpCiAgICAgICAgcmV0dXJuIG0ucHVibGljKCkKCiAgICBkZWYgZGVsZXRlKHNlbGYsIG1vZGVsX2lkOiBzdHIpIC0+IGJvb2w6CiAgICAgICAgaWYgbW9kZWxfaWQgPT0gImJ1aWx0aW4iOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLlhoXnva7ljaDkvY3mqKHlnovkuI3lj6/liKDpmaQiKQogICAgICAgIHJldHVybiBzZWxmLl9tb2RlbHMucG9wKG1vZGVsX2lkLCBOb25lKSBpcyBub3QgTm9uZQo=
+"""backend.model_service — 模型配置（①）。
+
+管理员维护"可用模型"列表：显示名 + API 地址 + API key + 模型标识 + 是否启用。
+聊天时按 model_id 选用。纯 stdlib，可离线测。
+
+诚实边界：本服务只管"配置与选择"。配置某模型后**真能否调通**取决于你填的
+真实 API 地址/key，且回答质量由该模型决定——真实调用在 B7 接（此处仅存配置 +
+mock 路由验证流程）。API key 返回给前端时**打码**，不明文下发。
+"""
+from __future__ import annotations
+
+import time
+import uuid
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional
+
+
+def _mask(key: str) -> str:
+    """API key 打码：只留末 4 位，避免明文回传前端。"""
+    if not key:
+        return ""
+    return ("•" * 8) + key[-4:] if len(key) > 4 else "••••"
+
+
+@dataclass
+class ModelConfig:
+    id: str
+    name: str                 # 显示名，如 "DeepSeek-V3"
+    api_base: str             # API 地址，如 https://api.deepseek.com/v1
+    api_key: str              # 明文存后端，不回传前端
+    model: str                # 模型标识，如 "deepseek-chat"
+    enabled: bool = True
+    created_at: float = field(default_factory=time.time)
+
+    def public(self) -> Dict[str, Any]:
+        """回传前端：key 打码。"""
+        return {"id": self.id, "name": self.name, "api_base": self.api_base,
+                "api_key_masked": _mask(self.api_key), "model": self.model,
+                "enabled": self.enabled, "created_at": self.created_at}
+
+
+class ModelService:
+    def __init__(self) -> None:
+        self._models: Dict[str, ModelConfig] = {}
+        self._seed()
+
+    def _seed(self) -> None:
+        # 预置一个"内置占位模型"（对应当前 MockModel），保证前端永远有可选项。
+        self._models["builtin"] = ModelConfig(
+            id="builtin", name="内置模型（占位）", api_base="", api_key="",
+            model="mock", enabled=True)
+
+    # ---------- 查询 ----------
+    def list_models(self, include_disabled: bool = True) -> List[Dict[str, Any]]:
+        ms = self._models.values()
+        out = [m.public() for m in ms if include_disabled or m.enabled]
+        return sorted(out, key=lambda m: m["created_at"])
+
+    def list_selectable(self) -> List[Dict[str, Any]]:
+        """聊天框下拉用：只列启用的。"""
+        return self.list_models(include_disabled=False)
+
+    def get(self, model_id: str) -> Optional[ModelConfig]:
+        return self._models.get(model_id)
+
+    def resolve(self, model_id: Optional[str]) -> ModelConfig:
+        """选模型：给定 id 用之，否则回退到第一个启用的（或内置）。"""
+        if model_id and model_id in self._models and self._models[model_id].enabled:
+            return self._models[model_id]
+        for m in self._models.values():
+            if m.enabled:
+                return m
+        return self._models["builtin"]
+
+    # ---------- 增删改（管理员） ----------
+    def create(self, name: str, api_base: str, api_key: str, model: str,
+               enabled: bool = True) -> Dict[str, Any]:
+        if not name.strip() or not model.strip():
+            raise ValueError("模型显示名与模型标识不能为空")
+        mid = "m_" + uuid.uuid4().hex[:8]
+        self._models[mid] = ModelConfig(id=mid, name=name.strip(),
+            api_base=api_base.strip(), api_key=api_key.strip(),
+            model=model.strip(), enabled=enabled)
+        return self._models[mid].public()
+
+    def update(self, model_id: str, **fields: Any) -> Dict[str, Any]:
+        m = self._models.get(model_id)
+        if not m:
+            raise KeyError("模型不存在")
+        if model_id == "builtin":
+            raise ValueError("内置占位模型不可修改")
+        for k in ("name", "api_base", "model", "enabled"):
+            if k in fields and fields[k] is not None:
+                setattr(m, k, fields[k])
+        # api_key 仅在传了非空值时更新（避免前端回传打码值覆盖真 key）
+        if fields.get("api_key"):
+            m.api_key = fields["api_key"].strip()
+        return m.public()
+
+    def delete(self, model_id: str) -> bool:
+        if model_id == "builtin":
+            raise ValueError("内置占位模型不可删除")
+        return self._models.pop(model_id, None) is not None

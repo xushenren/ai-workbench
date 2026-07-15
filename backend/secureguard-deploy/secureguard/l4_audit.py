@@ -1,1 +1,208 @@
-IiIic2VjdXJlZ3VhcmQubDRfYXVkaXQg4oCUIEw0IOWuoeiuoeaXpeW/l+OAggoK6K6+6K6h5Y6f5YiZ77yaCiAgLSDkuI3lrZjljp/mlofjgILovpPlhaUv6L6T5Ye65Y+q5a2YIFNIQTI1NiDmkZjopoHvvIzmu6HotrPlj6/ov73muq/kvYbkuI3ms4Tlr4bjgIIKICAtIOWFqOmTvui3r++8muavj+WxgihMMC4uTDQp55qE5Yik5a6a6YO96K6w5LiA5p2hIEF1ZGl0RW50cnnjgIIKICAtIOWGsueqgeWPr+inge+8muavj+asoSBhcmJpdHJhdGUoKSDosIPnlKjpg73lhpkgQ29uZmxpY3RMb2fvvIjCpzAg56ysIDIg5p2h4oCc5rC45LiN6Z2Z6buY4oCd77yJ44CCCiAgLSDnuqLnur/lkb3kuK3ljZXni6zpq5jkuq7orrDlvZXvvIzkvr/kuo7kuovlkI7lrqHorqHigJznuqLnur/ov53op4TmrKHmlbA9MOKAneOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCB0aHJlYWRpbmcKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZCwgYXNkaWN0CmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lem9uZQpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKCmRlZiBfc2hhMjU2KHRleHQ6IHN0cikgLT4gc3RyOgogICAgcmV0dXJuIGhhc2hsaWIuc2hhMjU2KCh0ZXh0IG9yICIiKS5lbmNvZGUoInV0Zi04IikpLmhleGRpZ2VzdCgpCgoKZGVmIF9ub3coKSAtPiBzdHI6CiAgICByZXR1cm4gZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0YykuaXNvZm9ybWF0KCkKCgojIOmTvummlu+8iGdlbmVzaXPvvInnmoQgcHJldl9oYXNo77yaNjQg5LiqIDDvvIznuqblrprlgLzvvIzkvr/kuo7moKHpqozotbfngrnjgIIKR0VORVNJU19IQVNIID0gIjAiICogNjQKCgpAZGF0YWNsYXNzCmNsYXNzIEF1ZGl0RW50cnk6CiAgICAiIiLljZXmnaHlrqHorqHorrDlvZXjgIJpbnB1dC9vdXRwdXQg5Y+q5a2Y5ZOI5biM77ybcHJldl9oYXNoL2VudHJ5X2hhc2gg5p6E5oiQ6Ziy56+h5pS56ZO+44CCIiIiCgogICAgc3RhZ2U6IHN0ciAgICAgICAgICAgICAgICAgICAgICAgIyBMMCAvIEwxIC8gTDIgLyBMMyAvIEw0CiAgICBkZWNpc2lvbjogc3RyICAgICAgICAgICAgICAgICAgICAjIFBBU1MgLyBBU0sgLyBCTE9DSyAvIEVTQ0FMQVRFCiAgICByZWFzb246IHN0ciA9ICIiCiAgICBzZXNzaW9uX2lkOiBzdHIgPSAiIgogICAgYWN0aW9uX3R5cGU6IHN0ciA9ICIiCiAgICBpbnB1dF9oYXNoOiBzdHIgPSAiIgogICAgb3V0cHV0X2hhc2g6IHN0ciA9ICIiCiAgICBsYXRlbmN5X21zOiBpbnQgPSAwCiAgICB0aW1lc3RhbXA6IHN0ciA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1fbm93KQogICAgZXh0cmE6IERpY3Rbc3RyLCBBbnldID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCiAgICBwcmV2X2hhc2g6IHN0ciA9ICIiICAgICAgICAgICAgICAjIOS4iuS4gOadoeeahCBlbnRyeV9oYXNo77yI6ZO+5o6l5a2X5q6177yJCiAgICBlbnRyeV9oYXNoOiBzdHIgPSAiIiAgICAgICAgICAgICAjIOacrOadoeWGheWuuSArIHByZXZfaGFzaCDnmoQgU0hBMjU277yI6Ziy56+h5pS55oyH57q577yJCgogICAgZGVmIHRvX2RpY3Qoc2VsZikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgcmV0dXJuIGFzZGljdChzZWxmKQoKICAgIGRlZiBjYW5vbmljYWwoc2VsZikgLT4gc3RyOgogICAgICAgICIiIuinhOiMg+WMluW6j+WIl+WMlu+8iOaOkumZpCBlbnRyeV9oYXNoIOiHqui6q++8ie+8jOeUqOS6juiuoeeulyBlbnRyeV9oYXNo44CCCgogICAgICAgIOaOkumZpCBlbnRyeV9oYXNoIOaYr+WboOS4uuWug+ato+aYr+i/meauteWGheWuueeahOWTiOW4jOe7k+aenO+8m+WMheWQqyBwcmV2X2hhc2jvvIwKICAgICAgICDku47ogIzmiooi5pys5p2h5YaF5a65IuS4jiLkuIrkuIDmnaHmjIfnurki57uR5q274oCU4oCU5pS55Lu75oSP5Y6G5Y+y5p2h55uu6YO95Lya5pat6ZO+44CCCiAgICAgICAgIiIiCiAgICAgICAgZCA9IHNlbGYudG9fZGljdCgpCiAgICAgICAgZC5wb3AoImVudHJ5X2hhc2giLCBOb25lKQogICAgICAgIHJldHVybiBqc29uLmR1bXBzKGQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpCgogICAgZGVmIGNvbXB1dGVfaGFzaChzZWxmKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIF9zaGEyNTYoc2VsZi5jYW5vbmljYWwoKSkKCgpjbGFzcyBBdWRpdExvZ2dlcjoKICAgICIiIue6v+eoi+WuieWFqOeahOWuoeiuoeiusOW9leWZqOOAguWQjOaXtuiQvSBKU09OTCDmlofku7bkuI7lhoXlrZjnvJPlhrLjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcGF0aDogT3B0aW9uYWxbc3RyXSA9IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5wYXRoID0gcGF0aAogICAgICAgIHNlbGYuZW50cmllczogTGlzdFtBdWRpdEVudHJ5XSA9IFtdCiAgICAgICAgc2VsZi5jb25mbGljdHM6IExpc3RbRGljdFtzdHIsIEFueV1dID0gW10KICAgICAgICBzZWxmLnJlZGxpbmVfaGl0czogTGlzdFtEaWN0W3N0ciwgQW55XV0gPSBbXQogICAgICAgIHNlbGYuX2xvY2sgPSB0aHJlYWRpbmcuTG9jaygpCiAgICAgICAgc2VsZi5fbGFzdF9oYXNoID0gR0VORVNJU19IQVNIICAjIOmTvuWktO+8muWIneWni+S4uiBnZW5lc2lzCiAgICAgICAgaWYgc2VsZi5wYXRoOgogICAgICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKHNlbGYucGF0aCkpLCBleGlzdF9vaz1UcnVlKQogICAgICAgICAgICBzZWxmLl9yZXN0b3JlX2xhc3RfaGFzaCgpCgogICAgZGVmIF9yZXN0b3JlX2xhc3RfaGFzaChzZWxmKSAtPiBOb25lOgogICAgICAgICIiIumHjeWQry/ova7ovazlkI7vvIzku47ml6LmnInmlofku7bmnKvooYzmgaLlpI3pk77lpLTvvIzkv53or4Hpk77ot6jov5vnqIsv6Leo5paH5Lu26L+e57ut44CCIiIiCiAgICAgICAgdHJ5OgogICAgICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhzZWxmLnBhdGgpIGFuZCBvcy5wYXRoLmdldHNpemUoc2VsZi5wYXRoKSA+IDA6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oc2VsZi5wYXRoLCAicmIiKSBhcyBmOgogICAgICAgICAgICAgICAgICAgIGxhc3RfbGluZSA9IGYucmVhZGxpbmVzKClbLTFdLmRlY29kZSgidXRmLTgiKQogICAgICAgICAgICAgICAgc2VsZi5fbGFzdF9oYXNoID0ganNvbi5sb2FkcyhsYXN0X2xpbmUpLmdldCgiZW50cnlfaGFzaCIsIEdFTkVTSVNfSEFTSCkKICAgICAgICBleGNlcHQgKE9TRXJyb3IsIEluZGV4RXJyb3IsIGpzb24uSlNPTkRlY29kZUVycm9yKToKICAgICAgICAgICAgcGFzcyAgIyDmlofku7bnvLrlpLEv5o2f5Z2P5pe26YCA5ZueIGdlbmVzaXPvvIx2ZXJpZnkg5Lya5pq06Zyy5pat6KOCCgogICAgIyAtLS0tIOS4u+WuoeiuoeWGmeWFpSAtLS0tCiAgICBkZWYgbG9nKHNlbGYsIGVudHJ5OiBBdWRpdEVudHJ5KSAtPiBBdWRpdEVudHJ5OgogICAgICAgICIiIuiusOW9leS4gOadoeWuoeiuoeadoeebru+8iOWGheWtmCArIOWPr+mAiSBKU09OTO+8ie+8jOW5tuaOpeWFpeWTiOW4jOmTvuOAgiIiIgogICAgICAgIHdpdGggc2VsZi5fbG9jazoKICAgICAgICAgICAgZW50cnkucHJldl9oYXNoID0gc2VsZi5fbGFzdF9oYXNoCiAgICAgICAgICAgIGVudHJ5LmVudHJ5X2hhc2ggPSBlbnRyeS5jb21wdXRlX2hhc2goKQogICAgICAgICAgICBzZWxmLl9sYXN0X2hhc2ggPSBlbnRyeS5lbnRyeV9oYXNoCiAgICAgICAgICAgIHNlbGYuZW50cmllcy5hcHBlbmQoZW50cnkpCiAgICAgICAgICAgIGlmIHNlbGYucGF0aDoKICAgICAgICAgICAgICAgIHdpdGggb3BlbihzZWxmLnBhdGgsICJhIiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMoZW50cnkudG9fZGljdCgpLCBlbnN1cmVfYXNjaWk9RmFsc2UpICsgIlxuIikKICAgICAgICByZXR1cm4gZW50cnkKCiAgICBkZWYgbG9nX3N0YWdlKHNlbGYsICosIHN0YWdlOiBzdHIsIGRlY2lzaW9uOiBzdHIsIHJlYXNvbjogc3RyID0gIiIsCiAgICAgICAgICAgICAgICAgIHNlc3Npb25faWQ6IHN0ciA9ICIiLCBhY3Rpb25fdHlwZTogc3RyID0gIiIsCiAgICAgICAgICAgICAgICAgIHJhd19pbnB1dDogc3RyID0gIiIsIHJhd19vdXRwdXQ6IHN0ciA9ICIiLAogICAgICAgICAgICAgICAgICBsYXRlbmN5X21zOiBpbnQgPSAwLCBleHRyYTogT3B0aW9uYWxbRGljdFtzdHIsIEFueV1dID0gTm9uZSkgLT4gQXVkaXRFbnRyeToKICAgICAgICAiIiLkvr/mjbflsIHoo4XvvJroh6rliqjlr7nljp/mloflgZrlk4jluIzvvIznu53kuI3lrZjmmI7mlofjgIIiIiIKICAgICAgICByZXR1cm4gc2VsZi5sb2coQXVkaXRFbnRyeSgKICAgICAgICAgICAgc3RhZ2U9c3RhZ2UsCiAgICAgICAgICAgIGRlY2lzaW9uPWRlY2lzaW9uLAogICAgICAgICAgICByZWFzb249cmVhc29uLAogICAgICAgICAgICBzZXNzaW9uX2lkPXNlc3Npb25faWQsCiAgICAgICAgICAgIGFjdGlvbl90eXBlPWFjdGlvbl90eXBlLAogICAgICAgICAgICBpbnB1dF9oYXNoPV9zaGEyNTYocmF3X2lucHV0KSBpZiByYXdfaW5wdXQgZWxzZSAiIiwKICAgICAgICAgICAgb3V0cHV0X2hhc2g9X3NoYTI1NihyYXdfb3V0cHV0KSBpZiByYXdfb3V0cHV0IGVsc2UgIiIsCiAgICAgICAgICAgIGxhdGVuY3lfbXM9bGF0ZW5jeV9tcywKICAgICAgICAgICAgZXh0cmE9ZXh0cmEgb3Ige30sCiAgICAgICAgKSkKCiAgICAjIC0tLS0g5ZOI5biM6ZO+5qCh6aqM77yIRDXvvIktLS0tCiAgICBkZWYgdmVyaWZ5X2NoYWluKHNlbGYsIGVudHJpZXM6IE9wdGlvbmFsW0xpc3RbQXVkaXRFbnRyeV1dID0gTm9uZSwKICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZV9nZW5lc2lzOiBib29sID0gVHJ1ZSkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIi5qCh6aqM5YaF5a2Y5Lit55qE5a6h6K6h6ZO+5a6M5pW05oCn44CC6L+U5ZueIHtvaywgYnJva2VuX2F0LCByZWFzb25944CCCgogICAgICAgIOmAkOadoemHjeeulyBlbnRyeV9oYXNoIOW5tuajgOafpSBwcmV2X2hhc2gg6ZO+5o6l77yb5Lu75LiA5aSE5LiN56ym5Y2z5a6a5L2N5pat6KOC5L2N572u44CCCiAgICAgICAgcmVxdWlyZV9nZW5lc2lzPVRydWUg5pe26aaW5p2hIHByZXZfaGFzaCDlv4XpobvkuLogZ2VuZXNpc++8m+i9rui9rOijgeWJquWQjuWPquWJqQogICAgICAgIOS4reautemTvuaXtuS8oCBGYWxzZe+8jOWImeS7jummluadoeiHqui6q+WjsOaYjueahCBwcmV2X2hhc2gg6LW36aqM5YaF6YOo6L+e57ut5oCnCiAgICAgICAg77yI5LuN6IO95qOA5Ye65Lu75L2V5q615YaF56+h5pS577yJ44CCCiAgICAgICAgIiIiCiAgICAgICAgaXRlbXMgPSBlbnRyaWVzIGlmIGVudHJpZXMgaXMgbm90IE5vbmUgZWxzZSBzZWxmLmVudHJpZXMKICAgICAgICBpZiBub3QgaXRlbXM6CiAgICAgICAgICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgImJyb2tlbl9hdCI6IC0xLCAicmVhc29uIjogImVtcHR5IiwgImxlbmd0aCI6IDB9CiAgICAgICAgZXhwZWN0ZWRfcHJldiA9IEdFTkVTSVNfSEFTSCBpZiByZXF1aXJlX2dlbmVzaXMgZWxzZSBpdGVtc1swXS5wcmV2X2hhc2gKICAgICAgICBmb3IgaSwgZSBpbiBlbnVtZXJhdGUoaXRlbXMpOgogICAgICAgICAgICBpZiBlLnByZXZfaGFzaCAhPSBleHBlY3RlZF9wcmV2OgogICAgICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImJyb2tlbl9hdCI6IGksCiAgICAgICAgICAgICAgICAgICAgICAgICJyZWFzb24iOiBmInByZXZfaGFzaCDpk77mjqXmlq3oo4LvvJrmnJ/mnJsge2V4cGVjdGVkX3ByZXZbOjEyXX3igKYg5a6e6ZmFIHtlLnByZXZfaGFzaFs6MTJdfeKApiJ9CiAgICAgICAgICAgIHJlY29tcHV0ZWQgPSBlLmNvbXB1dGVfaGFzaCgpCiAgICAgICAgICAgIGlmIHJlY29tcHV0ZWQgIT0gZS5lbnRyeV9oYXNoOgogICAgICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImJyb2tlbl9hdCI6IGksCiAgICAgICAgICAgICAgICAgICAgICAgICJyZWFzb24iOiBmIuesrCB7aX0g5p2h5YaF5a656KKr56+h5pS577yaZW50cnlfaGFzaCDkuI3ljLnphY0ifQogICAgICAgICAgICBleHBlY3RlZF9wcmV2ID0gZS5lbnRyeV9oYXNoCiAgICAgICAgcmV0dXJuIHsib2siOiBUcnVlLCAiYnJva2VuX2F0IjogLTEsICJyZWFzb24iOiAiY2hhaW4gaW50YWN0IiwgImxlbmd0aCI6IGxlbihpdGVtcyl9CgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9sb2FkX2VudHJpZXMocGF0aDogc3RyKSAtPiBMaXN0W0F1ZGl0RW50cnldOgogICAgICAgIG91dDogTGlzdFtBdWRpdEVudHJ5XSA9IFtdCiAgICAgICAgd2l0aCBvcGVuKHBhdGgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIGZvciBsaW5lIGluIGY6CiAgICAgICAgICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICAgICAgICAgICAgICBpZiBsaW5lOgogICAgICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoQXVkaXRFbnRyeSgqKmpzb24ubG9hZHMobGluZSkpKQogICAgICAgIHJldHVybiBvdXQKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiB2ZXJpZnlfZmlsZXMoY2xzLCBwYXRoc19pbl9vcmRlcjogTGlzdFtzdHJdLAogICAgICAgICAgICAgICAgICAgICByZXF1aXJlX2dlbmVzaXM6IGJvb2wgPSBUcnVlKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLot6jmlofku7bmoKHpqozvvJrmjInml7bpl7Tpobrluo/vvIjmnIDml6fihpLmnIDmlrDvvInkvKDlhaXova7ovazliIbljbfvvIzmoKHpqozmlbTmnaHpk77ov57nu63jgIIKCiAgICAgICAg6L2u6L2s5ZCO6ZO+5LiN5Zyo5Y2V5paH5Lu25YaF6Zet5ZCI4oCU4oCU5LiK5LiA5Y235pyA5ZCO5LiA5p2h55qEIGVudHJ5X2hhc2gg5b+F6aG7562J5LqOCiAgICAgICAg5LiL5LiA5Y2356ys5LiA5p2h55qEIHByZXZfaGFzaOOAguacrOaWueazleaKiuWkmuWNt+aLvOaIkOS4gOadoemAu+i+kemTvue7n+S4gOagoemqjOOAggogICAgICAgIOiLpeacgOaXqeWIhuWNt+W3suiiq+S/neeVmeetlueVpeijgeWJqu+8jOS8oCByZXF1aXJlX2dlbmVzaXM9RmFsc2Ug5Y+q6aqM5bm45a2Y5q6144CCCiAgICAgICAgIiIiCiAgICAgICAgYWxsX2VudHJpZXM6IExpc3RbQXVkaXRFbnRyeV0gPSBbXQogICAgICAgIGZvciBwIGluIHBhdGhzX2luX29yZGVyOgogICAgICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhwKToKICAgICAgICAgICAgICAgIGFsbF9lbnRyaWVzLmV4dGVuZChjbHMuX2xvYWRfZW50cmllcyhwKSkKICAgICAgICBkdW1teSA9IGNscy5fX25ld19fKGNscykgICMg5LiN6Kem5Y+RIF9faW5pdF9f77yM5LuF5YCf55SoIHZlcmlmeSDpgLvovpEKICAgICAgICByZXR1cm4gY2xzLnZlcmlmeV9jaGFpbihkdW1teSwgYWxsX2VudHJpZXMsIHJlcXVpcmVfZ2VuZXNpcz1yZXF1aXJlX2dlbmVzaXMpCgogICAgIyAtLS0tIOWGsueqgeiusOW9le+8iGFyYml0cmF0ZSDosIPnlKjvvIkgLS0tLQogICAgZGVmIHJlY29yZF9jb25mbGljdChzZWxmLCBjb25mbGljdDogQW55LCB3aW5uZXI6IEFueSwKICAgICAgICAgICAgICAgICAgICAgICAgaHVtYW5fZmVlZGJhY2s6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBOb25lOgogICAgICAgICIiIuiusOW9leS4gOasoeS7suijgeWGsueqgeWPiuijgeWGs+e7k+aenO+8iMKnMCDmsLjkuI3pnZnpu5jvvInjgIIiIiIKICAgICAgICByZWMgPSB7CiAgICAgICAgICAgICJ0aW1lc3RhbXAiOiBfbm93KCksCiAgICAgICAgICAgICJjb25mbGljdCI6IFsoci50aWVyLCByLmRlc2NyaXB0aW9uKSBmb3IgciBpbiBjb25mbGljdC5ydWxlc10sCiAgICAgICAgICAgICJ3aW5uZXIiOiAod2lubmVyLnRpZXIsIHdpbm5lci5kZXNjcmlwdGlvbiksCiAgICAgICAgICAgICJzdXJmYWNlZF90b19odW1hbiI6IFRydWUsCiAgICAgICAgICAgICJodW1hbl9mZWVkYmFjayI6IGh1bWFuX2ZlZWRiYWNrLAogICAgICAgIH0KICAgICAgICB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIHNlbGYuY29uZmxpY3RzLmFwcGVuZChyZWMpCgogICAgIyAtLS0tIOe6oue6v+WRveS4re+8iGdhdGUg6LCD55So77yJIC0tLS0KICAgIGRlZiBub3RlX3JlZGxpbmUoc2VsZiwgcmVkbGluZV9pZDogc3RyLCBhY3Rpb246IERpY3Rbc3RyLCBBbnldKSAtPiBOb25lOgogICAgICAgICIiIumrmOS6ruiusOW9lee6oue6v+WRveS4re+8jOS+v+S6juWuoeiuoee6oue6v+i/neinhOasoeaVsOOAgiIiIgogICAgICAgIHJlYyA9IHsKICAgICAgICAgICAgInRpbWVzdGFtcCI6IF9ub3coKSwKICAgICAgICAgICAgInJlZGxpbmVfaWQiOiByZWRsaW5lX2lkLAogICAgICAgICAgICAiYWN0aW9uX3R5cGUiOiBhY3Rpb24uZ2V0KCJ0eXBlIiwgIiIpLAogICAgICAgICAgICAiYWN0aW9uX2hhc2giOiBfc2hhMjU2KGpzb24uZHVtcHMoYWN0aW9uLCBzb3J0X2tleXM9VHJ1ZSwgZW5zdXJlX2FzY2lpPUZhbHNlKSksCiAgICAgICAgfQogICAgICAgIHdpdGggc2VsZi5fbG9jazoKICAgICAgICAgICAgc2VsZi5yZWRsaW5lX2hpdHMuYXBwZW5kKHJlYykKCiAgICAjIC0tLS0g5p+l6K+i6L6F5YqpIC0tLS0KICAgIGRlZiBzdW1tYXJ5KHNlbGYpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIui/lOWbnuWuoeiuoeamguiniO+8jGJlbmNobWFyayDkuI7ov5Dnu7Tlj6/nm7TmjqXmtojotLnjgIIiIiIKICAgICAgICBkZWNpc2lvbnM6IERpY3Rbc3RyLCBpbnRdID0ge30KICAgICAgICBmb3IgZSBpbiBzZWxmLmVudHJpZXM6CiAgICAgICAgICAgIGRlY2lzaW9uc1tlLmRlY2lzaW9uXSA9IGRlY2lzaW9ucy5nZXQoZS5kZWNpc2lvbiwgMCkgKyAxCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgInRvdGFsX2VudHJpZXMiOiBsZW4oc2VsZi5lbnRyaWVzKSwKICAgICAgICAgICAgImRlY2lzaW9ucyI6IGRlY2lzaW9ucywKICAgICAgICAgICAgImNvbmZsaWN0cyI6IGxlbihzZWxmLmNvbmZsaWN0cyksCiAgICAgICAgICAgICJyZWRsaW5lX2hpdHMiOiBsZW4oc2VsZi5yZWRsaW5lX2hpdHMpLAogICAgICAgIH0K
+"""secureguard.l4_audit — L4 审计日志。
+
+设计原则：
+  - 不存原文。输入/输出只存 SHA256 摘要，满足可追溯但不泄密。
+  - 全链路：每层(L0..L4)的判定都记一条 AuditEntry。
+  - 冲突可见：每次 arbitrate() 调用都写 ConflictLog（§0 第 2 条“永不静默”）。
+  - 红线命中单独高亮记录，便于事后审计“红线违规次数=0”。
+"""
+from __future__ import annotations
+
+import hashlib
+import json
+import os
+import threading
+from dataclasses import dataclass, field, asdict
+from datetime import datetime, timezone
+from typing import Any, Dict, List, Optional
+
+
+def _sha256(text: str) -> str:
+    return hashlib.sha256((text or "").encode("utf-8")).hexdigest()
+
+
+def _now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+# 链首（genesis）的 prev_hash：64 个 0，约定值，便于校验起点。
+GENESIS_HASH = "0" * 64
+
+
+@dataclass
+class AuditEntry:
+    """单条审计记录。input/output 只存哈希；prev_hash/entry_hash 构成防篡改链。"""
+
+    stage: str                       # L0 / L1 / L2 / L3 / L4
+    decision: str                    # PASS / ASK / BLOCK / ESCALATE
+    reason: str = ""
+    session_id: str = ""
+    action_type: str = ""
+    input_hash: str = ""
+    output_hash: str = ""
+    latency_ms: int = 0
+    timestamp: str = field(default_factory=_now)
+    extra: Dict[str, Any] = field(default_factory=dict)
+    prev_hash: str = ""              # 上一条的 entry_hash（链接字段）
+    entry_hash: str = ""             # 本条内容 + prev_hash 的 SHA256（防篡改指纹）
+
+    def to_dict(self) -> Dict[str, Any]:
+        return asdict(self)
+
+    def canonical(self) -> str:
+        """规范化序列化（排除 entry_hash 自身），用于计算 entry_hash。
+
+        排除 entry_hash 是因为它正是这段内容的哈希结果；包含 prev_hash，
+        从而把"本条内容"与"上一条指纹"绑死——改任意历史条目都会断链。
+        """
+        d = self.to_dict()
+        d.pop("entry_hash", None)
+        return json.dumps(d, sort_keys=True, ensure_ascii=False)
+
+    def compute_hash(self) -> str:
+        return _sha256(self.canonical())
+
+
+class AuditLogger:
+    """线程安全的审计记录器。同时落 JSONL 文件与内存缓冲。"""
+
+    def __init__(self, path: Optional[str] = None) -> None:
+        self.path = path
+        self.entries: List[AuditEntry] = []
+        self.conflicts: List[Dict[str, Any]] = []
+        self.redline_hits: List[Dict[str, Any]] = []
+        self._lock = threading.Lock()
+        self._last_hash = GENESIS_HASH  # 链头：初始为 genesis
+        if self.path:
+            os.makedirs(os.path.dirname(os.path.abspath(self.path)), exist_ok=True)
+            self._restore_last_hash()
+
+    def _restore_last_hash(self) -> None:
+        """重启/轮转后，从既有文件末行恢复链头，保证链跨进程/跨文件连续。"""
+        try:
+            if os.path.exists(self.path) and os.path.getsize(self.path) > 0:
+                with open(self.path, "rb") as f:
+                    last_line = f.readlines()[-1].decode("utf-8")
+                self._last_hash = json.loads(last_line).get("entry_hash", GENESIS_HASH)
+        except (OSError, IndexError, json.JSONDecodeError):
+            pass  # 文件缺失/损坏时退回 genesis，verify 会暴露断裂
+
+    # ---- 主审计写入 ----
+    def log(self, entry: AuditEntry) -> AuditEntry:
+        """记录一条审计条目（内存 + 可选 JSONL），并接入哈希链。"""
+        with self._lock:
+            entry.prev_hash = self._last_hash
+            entry.entry_hash = entry.compute_hash()
+            self._last_hash = entry.entry_hash
+            self.entries.append(entry)
+            if self.path:
+                with open(self.path, "a", encoding="utf-8") as f:
+                    f.write(json.dumps(entry.to_dict(), ensure_ascii=False) + "\n")
+        return entry
+
+    def log_stage(self, *, stage: str, decision: str, reason: str = "",
+                  session_id: str = "", action_type: str = "",
+                  raw_input: str = "", raw_output: str = "",
+                  latency_ms: int = 0, extra: Optional[Dict[str, Any]] = None) -> AuditEntry:
+        """便捷封装：自动对原文做哈希，绝不存明文。"""
+        return self.log(AuditEntry(
+            stage=stage,
+            decision=decision,
+            reason=reason,
+            session_id=session_id,
+            action_type=action_type,
+            input_hash=_sha256(raw_input) if raw_input else "",
+            output_hash=_sha256(raw_output) if raw_output else "",
+            latency_ms=latency_ms,
+            extra=extra or {},
+        ))
+
+    # ---- 哈希链校验（D5）----
+    def verify_chain(self, entries: Optional[List[AuditEntry]] = None,
+                     require_genesis: bool = True) -> Dict[str, Any]:
+        """校验内存中的审计链完整性。返回 {ok, broken_at, reason}。
+
+        逐条重算 entry_hash 并检查 prev_hash 链接；任一处不符即定位断裂位置。
+        require_genesis=True 时首条 prev_hash 必须为 genesis；轮转裁剪后只剩
+        中段链时传 False，则从首条自身声明的 prev_hash 起验内部连续性
+        （仍能检出任何段内篡改）。
+        """
+        items = entries if entries is not None else self.entries
+        if not items:
+            return {"ok": True, "broken_at": -1, "reason": "empty", "length": 0}
+        expected_prev = GENESIS_HASH if require_genesis else items[0].prev_hash
+        for i, e in enumerate(items):
+            if e.prev_hash != expected_prev:
+                return {"ok": False, "broken_at": i,
+                        "reason": f"prev_hash 链接断裂：期望 {expected_prev[:12]}… 实际 {e.prev_hash[:12]}…"}
+            recomputed = e.compute_hash()
+            if recomputed != e.entry_hash:
+                return {"ok": False, "broken_at": i,
+                        "reason": f"第 {i} 条内容被篡改：entry_hash 不匹配"}
+            expected_prev = e.entry_hash
+        return {"ok": True, "broken_at": -1, "reason": "chain intact", "length": len(items)}
+
+    @staticmethod
+    def _load_entries(path: str) -> List[AuditEntry]:
+        out: List[AuditEntry] = []
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    out.append(AuditEntry(**json.loads(line)))
+        return out
+
+    @classmethod
+    def verify_files(cls, paths_in_order: List[str],
+                     require_genesis: bool = True) -> Dict[str, Any]:
+        """跨文件校验：按时间顺序（最旧→最新）传入轮转分卷，校验整条链连续。
+
+        轮转后链不在单文件内闭合——上一卷最后一条的 entry_hash 必须等于
+        下一卷第一条的 prev_hash。本方法把多卷拼成一条逻辑链统一校验。
+        若最早分卷已被保留策略裁剪，传 require_genesis=False 只验幸存段。
+        """
+        all_entries: List[AuditEntry] = []
+        for p in paths_in_order:
+            if os.path.exists(p):
+                all_entries.extend(cls._load_entries(p))
+        dummy = cls.__new__(cls)  # 不触发 __init__，仅借用 verify 逻辑
+        return cls.verify_chain(dummy, all_entries, require_genesis=require_genesis)
+
+    # ---- 冲突记录（arbitrate 调用） ----
+    def record_conflict(self, conflict: Any, winner: Any,
+                        human_feedback: Optional[str] = None) -> None:
+        """记录一次仲裁冲突及裁决结果（§0 永不静默）。"""
+        rec = {
+            "timestamp": _now(),
+            "conflict": [(r.tier, r.description) for r in conflict.rules],
+            "winner": (winner.tier, winner.description),
+            "surfaced_to_human": True,
+            "human_feedback": human_feedback,
+        }
+        with self._lock:
+            self.conflicts.append(rec)
+
+    # ---- 红线命中（gate 调用） ----
+    def note_redline(self, redline_id: str, action: Dict[str, Any]) -> None:
+        """高亮记录红线命中，便于审计红线违规次数。"""
+        rec = {
+            "timestamp": _now(),
+            "redline_id": redline_id,
+            "action_type": action.get("type", ""),
+            "action_hash": _sha256(json.dumps(action, sort_keys=True, ensure_ascii=False)),
+        }
+        with self._lock:
+            self.redline_hits.append(rec)
+
+    # ---- 查询辅助 ----
+    def summary(self) -> Dict[str, Any]:
+        """返回审计概览，benchmark 与运维可直接消费。"""
+        decisions: Dict[str, int] = {}
+        for e in self.entries:
+            decisions[e.decision] = decisions.get(e.decision, 0) + 1
+        return {
+            "total_entries": len(self.entries),
+            "decisions": decisions,
+            "conflicts": len(self.conflicts),
+            "redline_hits": len(self.redline_hits),
+        }

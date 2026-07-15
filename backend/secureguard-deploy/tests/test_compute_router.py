@@ -1,1 +1,130 @@
-IiIidGVzdHMvdGVzdF9jb21wdXRlX3JvdXRlci5weSDigJQg566X5Yqb6Lev55SxICsg5pWw5o2u5YiG57qn6Zeo5Y2V5rWL44CCIiIiCmltcG9ydCBzeXMsIG9zCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKCmZyb20gc2VjdXJlZ3VhcmQuY29tcHV0ZV9yb3V0ZXIgaW1wb3J0ICgKICAgIENvbXB1dGVSb3V0ZXIsIERhdGFDbGFzc2lmaWVyLCBEYXRhQ2xhc3MsIFRpZXIsIFRpZXJTdGF0dXMsCikKClIgPSBDb21wdXRlUm91dGVyKCkKQUxMX1VQID0ge1RpZXIuTE9DQUw6IFRpZXJTdGF0dXMoVHJ1ZSksIFRpZXIuUFJJVkFURV9DTE9VRDogVGllclN0YXR1cyhUcnVlKSwKICAgICAgICAgIFRpZXIuRVhURVJOQUxfQVBJOiBUaWVyU3RhdHVzKFRydWUpfQoKCmRlZiB0ZXN0X2NsYXNzaWZ5X3BpaV9hc19yZXN0cmljdGVkKCk6CiAgICBjID0gRGF0YUNsYXNzaWZpZXIoKQogICAgYXNzZXJ0IGMuY2xhc3NpZnkoIuWRmOW3pei6q+S7veivgSAxMTAxMDExOTkwMDMwNzg4ODjvvIzlr4bpkqUgc2stQUJDREVGR0hJSktMTU5PUDEyMzQ1Njc4OTAiKSA9PSBEYXRhQ2xhc3MuUkVTVFJJQ1RFRAoKCmRlZiB0ZXN0X2NsYXNzaWZ5X2ludGVybmFsX21hcmtlcigpOgogICAgYyA9IERhdGFDbGFzc2lmaWVyKCkKICAgIGFzc2VydCBjLmNsYXNzaWZ5KCLmnKzmlofku7bkuLrlhazlj7jlhoXpg6jmnLrlr4botYTmlpnvvIzkuI3lr7nlpJYiKSA9PSBEYXRhQ2xhc3MuQ09ORklERU5USUFMCgoKZGVmIHRlc3RfY2xhc3NpZnlfcHVibGljKCk6CiAgICBjID0gRGF0YUNsYXNzaWZpZXIoKQogICAgYXNzZXJ0IGMuY2xhc3NpZnkoIuS7gOS5iOaYr+W5guetieaAp++8nyIpID09IERhdGFDbGFzcy5QVUJMSUMKCgpkZWYgdGVzdF9yZXN0cmljdGVkX25ldmVyX3JvdXRlc19leHRlcm5hbF9ldmVuX2lmX29ubHlfdGllcjNfdXAoKToKICAgICMg5YWz6ZSu5a6J5YWo5pat6KiA77ya5pWP5oSf5pWw5o2u77yM5Y+q5pyJ5aSW6YOoIFRpZXIzIOWcqOe6vyDihpIg5b+F6aG75ouS57ud77yM57ud5LiN5Ye65aKDCiAgICBzdGF0dXMgPSB7VGllci5MT0NBTDogVGllclN0YXR1cyhGYWxzZSksIFRpZXIuUFJJVkFURV9DTE9VRDogVGllclN0YXR1cyhGYWxzZSksCiAgICAgICAgICAgICAgVGllci5FWFRFUk5BTF9BUEk6IFRpZXJTdGF0dXMoVHJ1ZSl9CiAgICBkID0gUi5yb3V0ZSgi5a+G6ZKlIHNrLUFCQ0RFRkdISUpLTE1OT1AxMjM0NTY3ODkwIOivt+WkhOeQhiIsIHN0YXR1cykKICAgIGFzc2VydCBkLmFsbG93ZWQgaXMgRmFsc2UgYW5kIGQuZGF0YV9jbGFzcyA9PSBEYXRhQ2xhc3MuUkVTVFJJQ1RFRAoKCmRlZiB0ZXN0X3Jlc3RyaWN0ZWRfdXNlc19sb2NhbF93aGVuX3VwKCk6CiAgICBzdGF0dXMgPSB7VGllci5MT0NBTDogVGllclN0YXR1cyhUcnVlKSwgVGllci5QUklWQVRFX0NMT1VEOiBUaWVyU3RhdHVzKFRydWUpLAogICAgICAgICAgICAgIFRpZXIuRVhURVJOQUxfQVBJOiBUaWVyU3RhdHVzKFRydWUpfQogICAgZCA9IFIucm91dGUoIui6q+S7veivgSAxMTAxMDExOTkwMDMwNzg4ODgiLCBzdGF0dXMpCiAgICBhc3NlcnQgZC5hbGxvd2VkIGFuZCBkLnRpZXIgPT0gVGllci5MT0NBTCBhbmQgZC5kYXRhX2NsYXNzID09IERhdGFDbGFzcy5SRVNUUklDVEVECgoKZGVmIHRlc3RfY29uZmlkZW50aWFsX2NhcHNfYXRfcHJpdmF0ZV9jbG91ZCgpOgogICAgIyDmnLrlr4bmlbDmja7vvJpUaWVyMSDmjILkuoblj6/pmY3liLAgVGllcjLvvIzkvYbnu53kuI3liLAgVGllcjMKICAgIHN0YXR1cyA9IHtUaWVyLkxPQ0FMOiBUaWVyU3RhdHVzKEZhbHNlKSwgVGllci5QUklWQVRFX0NMT1VEOiBUaWVyU3RhdHVzKFRydWUpLAogICAgICAgICAgICAgIFRpZXIuRVhURVJOQUxfQVBJOiBUaWVyU3RhdHVzKFRydWUpfQogICAgZCA9IFIucm91dGUoIuWGhemDqOacuuWvhu+8mumhueebrumihOeul+aYjue7hiIsIHN0YXR1cykKICAgIGFzc2VydCBkLmFsbG93ZWQgYW5kIGQudGllciA9PSBUaWVyLlBSSVZBVEVfQ0xPVUQgYW5kIGQuZG93bmdyYWRlZAoKCmRlZiB0ZXN0X3B1YmxpY19kb3duZ3JhZGVzX3RvX2V4dGVybmFsX3doZW5fbG9jYWxfZG93bigpOgogICAgc3RhdHVzID0ge1RpZXIuTE9DQUw6IFRpZXJTdGF0dXMoRmFsc2UpLCBUaWVyLlBSSVZBVEVfQ0xPVUQ6IFRpZXJTdGF0dXMoRmFsc2UpLAogICAgICAgICAgICAgIFRpZXIuRVhURVJOQUxfQVBJOiBUaWVyU3RhdHVzKFRydWUpfQogICAgZCA9IFIucm91dGUoIuS7gOS5iOaYr+W5guetieaAp++8nyIsIHN0YXR1cykKICAgIGFzc2VydCBkLmFsbG93ZWQgYW5kIGQudGllciA9PSBUaWVyLkVYVEVSTkFMX0FQSSBhbmQgZC5kb3duZ3JhZGVkCgoKZGVmIHRlc3RfZm9yY2VfbG9jYWxfZm9yX3NlbnNpdGl2ZV90YXNrKCk6CiAgICBkID0gUi5yb3V0ZSgi5q2j5bi45YaF5a65IiwgQUxMX1VQLCBmb3JjZV9sb2NhbD1UcnVlKQogICAgYXNzZXJ0IGQuYWxsb3dlZCBhbmQgZC50aWVyID09IFRpZXIuTE9DQUwKCgpkZWYgdGVzdF9mb3JjZV9sb2NhbF9mYWlsc19jbG9zZWRfd2hlbl9sb2NhbF9kb3duKCk6CiAgICBzdGF0dXMgPSB7VGllci5MT0NBTDogVGllclN0YXR1cyhGYWxzZSksIFRpZXIuUFJJVkFURV9DTE9VRDogVGllclN0YXR1cyhUcnVlKX0KICAgIGQgPSBSLnJvdXRlKCLmraPluLjlhoXlrrkiLCBzdGF0dXMsIGZvcmNlX2xvY2FsPVRydWUpCiAgICBhc3NlcnQgZC5hbGxvd2VkIGlzIEZhbHNlCgoKZGVmIHRlc3RfdGllcjNfcXVvdGFfZXhoYXVzdGVkX2Jsb2Nrc19leHRlcm5hbCgpOgogICAgc3RhdHVzID0ge1RpZXIuTE9DQUw6IFRpZXJTdGF0dXMoRmFsc2UpLCBUaWVyLlBSSVZBVEVfQ0xPVUQ6IFRpZXJTdGF0dXMoRmFsc2UpLAogICAgICAgICAgICAgIFRpZXIuRVhURVJOQUxfQVBJOiBUaWVyU3RhdHVzKFRydWUsIHF1b3RhX2V4aGF1c3RlZD1UcnVlKX0KICAgIGQgPSBSLnJvdXRlKCLku4DkuYjmmK/luYLnrYnmgKfvvJ8iLCBzdGF0dXMpCiAgICBhc3NlcnQgZC5hbGxvd2VkIGlzIEZhbHNlICAjIOWFrOWFseaVsOaNruS9hiBUaWVyMyDotoXpop3kuJTlhoXnvZHlhajmjIIg4oaSIOaLkue7nQoKCmRlZiB0ZXN0X2FkbWluX2xvY2tfcmVqZWN0ZWRfaWZfdmlvbGF0ZXNfY2xhc3NpZmljYXRpb24oKToKICAgICMg566h55CG5ZGY5oqK5pWP5oSf5pm66IO95L2T6ZSB5YiwIFRpZXIzIOKGkiDlronlhajkvJjlhYjvvIzmi5Lnu50KICAgIGQgPSBSLnJvdXRlKCLouqvku73or4EgMTEwMTAxMTk5MDAzMDc4ODg4IiwgQUxMX1VQLCBsb2NrZWRfdGllcj1UaWVyLkVYVEVSTkFMX0FQSSkKICAgIGFzc2VydCBkLmFsbG93ZWQgaXMgRmFsc2UKCgojID09PT09IEQyIOe7iOeov++8muWfuuS6jiBjb21wdXRlX3BvbGljeSDnmoTot6/nlLHvvIjliIbnuqfku4XlkYrorabvvIzkuI3lkKblhrPot6/nlLHvvIkgPT09PT0KZnJvbSBzZWN1cmVndWFyZC5jb21wdXRlX3JvdXRlciBpbXBvcnQgQWdlbnRDb21wdXRlUG9saWN5CgoKZGVmIHRlc3RfcG9saWN5X2hyX2FnZW50X2xvY2FsX29ubHkoKToKICAgICMgSFLliqnmiYvku4UgdGllcjHvvJvljbPkvr/lkKsgUElJ77yM6Lev55Sx5LuN5oyJIHBvbGljee+8jOS9huS6p+WHuuWuoeiuoeWRiuitpgogICAgcG9sID0gQWdlbnRDb21wdXRlUG9saWN5KGFsbG93ZWRfdGllcnM9WyJ0aWVyMSJdKQogICAgZCA9IFIucm91dGVfYnlfcG9saWN5KCLlkZjlt6Xouqvku73or4EgMTEwMTAxMTk5MDAzMDc4ODg4IiwgcG9sLCBBTExfVVApCiAgICBhc3NlcnQgZC5hbGxvd2VkIGFuZCBkLnRpZXIgPT0gVGllci5MT0NBTAogICAgYXNzZXJ0ICJwaWlfYWxlcnQ9VHJ1ZSIgaW4gZC5ub3RlcwoKCmRlZiB0ZXN0X3BvbGljeV9nZW5lcmFsX2FnZW50X2Nhbl91c2VfZXh0ZXJuYWwoKToKICAgICMg6YCa55So6Zeu562U5Y+v55SoIHRpZXIz77yb6Z2e5pWP5oSf5YaF5a655q2j5bi46LWw77yM5peg5ZGK6K2mCiAgICBwb2wgPSBBZ2VudENvbXB1dGVQb2xpY3koYWxsb3dlZF90aWVycz1bInRpZXIxIiwgInRpZXIyIiwgInRpZXIzIl0pCiAgICBzdGF0dXMgPSB7VGllci5MT0NBTDogVGllclN0YXR1cyhGYWxzZSksIFRpZXIuUFJJVkFURV9DTE9VRDogVGllclN0YXR1cyhGYWxzZSksCiAgICAgICAgICAgICAgVGllci5FWFRFUk5BTF9BUEk6IFRpZXJTdGF0dXMoVHJ1ZSl9CiAgICBkID0gUi5yb3V0ZV9ieV9wb2xpY3koIuS7gOS5iOaYr+W5guetieaAp++8nyIsIHBvbCwgc3RhdHVzKQogICAgYXNzZXJ0IGQuYWxsb3dlZCBhbmQgZC50aWVyID09IFRpZXIuRVhURVJOQUxfQVBJCgoKZGVmIHRlc3RfcG9saWN5X3NraXBfdGllcjJfb3JkZXIoKToKICAgICMg5Luj56CB5Yqp5omLIHRpZXIxK3RpZXIzIOi3syB0aWVyMgogICAgcG9sID0gQWdlbnRDb21wdXRlUG9saWN5KGFsbG93ZWRfdGllcnM9WyJ0aWVyMSIsICJ0aWVyMyJdLCBwcmVmZXJyZWRfb3JkZXI9WyJ0aWVyMSIsICJ0aWVyMyJdKQogICAgc3RhdHVzID0ge1RpZXIuTE9DQUw6IFRpZXJTdGF0dXMoRmFsc2UpLCBUaWVyLlBSSVZBVEVfQ0xPVUQ6IFRpZXJTdGF0dXMoVHJ1ZSksCiAgICAgICAgICAgICAgVGllci5FWFRFUk5BTF9BUEk6IFRpZXJTdGF0dXMoVHJ1ZSl9CiAgICBkID0gUi5yb3V0ZV9ieV9wb2xpY3koIuWGmeS4quaOkuW6jyIsIHBvbCwgc3RhdHVzKQogICAgYXNzZXJ0IGQuYWxsb3dlZCBhbmQgZC50aWVyID09IFRpZXIuRVhURVJOQUxfQVBJICAjIOi3s+i/hyB0aWVyMiDljbPkvr/lroPlnKjnur8KCgpkZWYgdGVzdF9wb2xpY3lfZm9yY2VfbG9jYWxfZm9yX3Jpc2soKToKICAgIHBvbCA9IEFnZW50Q29tcHV0ZVBvbGljeShhbGxvd2VkX3RpZXJzPVsidGllcjEiLCAidGllcjIiXSwgZm9yY2VfbG9jYWxfZm9yPVsiUjAiLCAiUjEiXSkKICAgIGQgPSBSLnJvdXRlX2J5X3BvbGljeSgi5pWP5oSf5pON5L2cIiwgcG9sLCBBTExfVVAsIHJpc2tfbGV2ZWw9IlIxIikKICAgIGFzc2VydCBkLmFsbG93ZWQgYW5kIGQudGllciA9PSBUaWVyLkxPQ0FMCgoKZGVmIHRlc3RfcG9saWN5X2ZhaWxfY2xvc2VkX3doZW5fYWxsX2FsbG93ZWRfZG93bigpOgogICAgcG9sID0gQWdlbnRDb21wdXRlUG9saWN5KGFsbG93ZWRfdGllcnM9WyJ0aWVyMSIsICJ0aWVyMiJdLCBmYWlsX3N0cmF0ZWd5PSJjbG9zZWQiKQogICAgc3RhdHVzID0ge1RpZXIuTE9DQUw6IFRpZXJTdGF0dXMoRmFsc2UpLCBUaWVyLlBSSVZBVEVfQ0xPVUQ6IFRpZXJTdGF0dXMoRmFsc2UpfQogICAgZCA9IFIucm91dGVfYnlfcG9saWN5KCLku7vmhI8iLCBwb2wsIHN0YXR1cykKICAgIGFzc2VydCBkLmFsbG93ZWQgaXMgRmFsc2UKCgpkZWYgdGVzdF9jbGFzc2lmeV9mb3JfYXVkaXRfb25seV9hbGVydHMoKToKICAgIGEgPSBSLmNsYXNzaWZ5X2Zvcl9hdWRpdCgi5a+G6ZKlIHNrLUFCQ0RFRkdISUpLTE1OT1AxMjM0NTY3ODkwIikKICAgIGFzc2VydCBhWyJwaWlfYWxlcnQiXSBpcyBUcnVlIGFuZCBhWyJzZXZlcml0eSJdID09ICJoaWdoIgogICAgYiA9IFIuY2xhc3NpZnlfZm9yX2F1ZGl0KCLku4DkuYjmmK/luYLnrYnmgKciKQogICAgYXNzZXJ0IGJbInBpaV9hbGVydCJdIGlzIEZhbHNlCg==
+"""tests/test_compute_router.py — 算力路由 + 数据分级门单测。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.compute_router import (
+    ComputeRouter, DataClassifier, DataClass, Tier, TierStatus,
+)
+
+R = ComputeRouter()
+ALL_UP = {Tier.LOCAL: TierStatus(True), Tier.PRIVATE_CLOUD: TierStatus(True),
+          Tier.EXTERNAL_API: TierStatus(True)}
+
+
+def test_classify_pii_as_restricted():
+    c = DataClassifier()
+    assert c.classify("员工身份证 110101199003078888，密钥 sk-ABCDEFGHIJKLMNOP1234567890") == DataClass.RESTRICTED
+
+
+def test_classify_internal_marker():
+    c = DataClassifier()
+    assert c.classify("本文件为公司内部机密资料，不对外") == DataClass.CONFIDENTIAL
+
+
+def test_classify_public():
+    c = DataClassifier()
+    assert c.classify("什么是幂等性？") == DataClass.PUBLIC
+
+
+def test_restricted_never_routes_external_even_if_only_tier3_up():
+    # 关键安全断言：敏感数据，只有外部 Tier3 在线 → 必须拒绝，绝不出境
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(False),
+              Tier.EXTERNAL_API: TierStatus(True)}
+    d = R.route("密钥 sk-ABCDEFGHIJKLMNOP1234567890 请处理", status)
+    assert d.allowed is False and d.data_class == DataClass.RESTRICTED
+
+
+def test_restricted_uses_local_when_up():
+    status = {Tier.LOCAL: TierStatus(True), Tier.PRIVATE_CLOUD: TierStatus(True),
+              Tier.EXTERNAL_API: TierStatus(True)}
+    d = R.route("身份证 110101199003078888", status)
+    assert d.allowed and d.tier == Tier.LOCAL and d.data_class == DataClass.RESTRICTED
+
+
+def test_confidential_caps_at_private_cloud():
+    # 机密数据：Tier1 挂了可降到 Tier2，但绝不到 Tier3
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(True),
+              Tier.EXTERNAL_API: TierStatus(True)}
+    d = R.route("内部机密：项目预算明细", status)
+    assert d.allowed and d.tier == Tier.PRIVATE_CLOUD and d.downgraded
+
+
+def test_public_downgrades_to_external_when_local_down():
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(False),
+              Tier.EXTERNAL_API: TierStatus(True)}
+    d = R.route("什么是幂等性？", status)
+    assert d.allowed and d.tier == Tier.EXTERNAL_API and d.downgraded
+
+
+def test_force_local_for_sensitive_task():
+    d = R.route("正常内容", ALL_UP, force_local=True)
+    assert d.allowed and d.tier == Tier.LOCAL
+
+
+def test_force_local_fails_closed_when_local_down():
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(True)}
+    d = R.route("正常内容", status, force_local=True)
+    assert d.allowed is False
+
+
+def test_tier3_quota_exhausted_blocks_external():
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(False),
+              Tier.EXTERNAL_API: TierStatus(True, quota_exhausted=True)}
+    d = R.route("什么是幂等性？", status)
+    assert d.allowed is False  # 公共数据但 Tier3 超额且内网全挂 → 拒绝
+
+
+def test_admin_lock_rejected_if_violates_classification():
+    # 管理员把敏感智能体锁到 Tier3 → 安全优先，拒绝
+    d = R.route("身份证 110101199003078888", ALL_UP, locked_tier=Tier.EXTERNAL_API)
+    assert d.allowed is False
+
+
+# ===== D2 终稿：基于 compute_policy 的路由（分级仅告警，不否决路由） =====
+from secureguard.compute_router import AgentComputePolicy
+
+
+def test_policy_hr_agent_local_only():
+    # HR助手仅 tier1；即便含 PII，路由仍按 policy，但产出审计告警
+    pol = AgentComputePolicy(allowed_tiers=["tier1"])
+    d = R.route_by_policy("员工身份证 110101199003078888", pol, ALL_UP)
+    assert d.allowed and d.tier == Tier.LOCAL
+    assert "pii_alert=True" in d.notes
+
+
+def test_policy_general_agent_can_use_external():
+    # 通用问答可用 tier3；非敏感内容正常走，无告警
+    pol = AgentComputePolicy(allowed_tiers=["tier1", "tier2", "tier3"])
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(False),
+              Tier.EXTERNAL_API: TierStatus(True)}
+    d = R.route_by_policy("什么是幂等性？", pol, status)
+    assert d.allowed and d.tier == Tier.EXTERNAL_API
+
+
+def test_policy_skip_tier2_order():
+    # 代码助手 tier1+tier3 跳 tier2
+    pol = AgentComputePolicy(allowed_tiers=["tier1", "tier3"], preferred_order=["tier1", "tier3"])
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(True),
+              Tier.EXTERNAL_API: TierStatus(True)}
+    d = R.route_by_policy("写个排序", pol, status)
+    assert d.allowed and d.tier == Tier.EXTERNAL_API  # 跳过 tier2 即便它在线
+
+
+def test_policy_force_local_for_risk():
+    pol = AgentComputePolicy(allowed_tiers=["tier1", "tier2"], force_local_for=["R0", "R1"])
+    d = R.route_by_policy("敏感操作", pol, ALL_UP, risk_level="R1")
+    assert d.allowed and d.tier == Tier.LOCAL
+
+
+def test_policy_fail_closed_when_all_allowed_down():
+    pol = AgentComputePolicy(allowed_tiers=["tier1", "tier2"], fail_strategy="closed")
+    status = {Tier.LOCAL: TierStatus(False), Tier.PRIVATE_CLOUD: TierStatus(False)}
+    d = R.route_by_policy("任意", pol, status)
+    assert d.allowed is False
+
+
+def test_classify_for_audit_only_alerts():
+    a = R.classify_for_audit("密钥 sk-ABCDEFGHIJKLMNOP1234567890")
+    assert a["pii_alert"] is True and a["severity"] == "high"
+    b = R.classify_for_audit("什么是幂等性")
+    assert b["pii_alert"] is False

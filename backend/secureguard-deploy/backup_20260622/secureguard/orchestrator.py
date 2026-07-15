@@ -1,1 +1,268 @@
-IiIic2VjdXJlZ3VhcmQub3JjaGVzdHJhdG9yIOKAlCDljY/osIPlmajvvIjkupTlsYLkuLLogZTvvInjgIIKCuaVsOaNrua1ge+8mgogICAg6L6T5YWlIOKGkiBMMCDovpPlhaXlrojljasg4oaSIEwxIOS7suijgemXqOaOpyDihpIgTDIg5qih5Z6LK1JBRyDihpIgTDMg6L6T5Ye65a6I5Y2rIOKGkiBMNCDlrqHorqEg4oaSIOeUqOaItwoK5Lu75LiA5YmN572u5bGCIEJMT0NLL0VTQ0FMQVRFIOmDveS8muefrei3r++8jOW5tuWGmeWuoeiuoeOAgkwyIOm7mOiupOeUqOemu+e6vyBNb2Nr77yMCuS8oOWFpeecn+WuniBiYWNrZW5kIOWNs+WIh+aNouS4uueUn+S6p+aOqOeQhu+8jOWNj+iwg+mAu+i+keS4jeWPmOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFzeW5jaW8KaW1wb3J0IHJlCmltcG9ydCB0aW1lCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIEFzeW5jSXRlcmF0b3IsIERpY3QsIE9wdGlvbmFsCgpmcm9tIC5sMF9pbnB1dF9ndWFyZCBpbXBvcnQgSW5wdXRHdWFyZApmcm9tIC5sMV9nYXRlIGltcG9ydCBnYXRlCmZyb20gLmwyX3JlYXNvbmluZyBpbXBvcnQgSW5NZW1vcnlWZWN0b3JTdG9yZSwgTW9ja01vZGVsLCBNb2RlbEJhY2tlbmQsIFJBR1BpcGVsaW5lLCBWZWN0b3JTdG9yZQpmcm9tIC5sM19vdXRwdXRfZ3VhcmQgaW1wb3J0IE91dHB1dEd1YXJkCmZyb20gLmw0X2F1ZGl0IGltcG9ydCBBdWRpdExvZ2dlcgpmcm9tIC50eXBlcyBpbXBvcnQgVG9rZW4KCgpkZWYgbWtfZnJhbWUoc3RhZ2U6IHN0ciwgZnR5cGU6IHN0ciwgZGlzcGxheTogc3RyLCBzdGF0dXM6IHN0ciA9ICJkb25lIiwKICAgICAgICAgICAgIHRvb2xfbmFtZTogT3B0aW9uYWxbc3RyXSA9IE5vbmUsIHRpZXI6IE9wdGlvbmFsW3N0cl0gPSBOb25lLAogICAgICAgICAgICAgbGF0ZW5jeV9tczogT3B0aW9uYWxbaW50XSA9IE5vbmUsIHN0ZXA6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICIiIuaehOmAoOS4gOW4pyBwdWJsaWNfdHJhY2Ug55qEIFdTIOS6i+S7tuOAggoKICAgIOWPquaUvuWFpeWJjeerryBQdWJsaWNUcmFjZUZyYW1lIOWFgeiuuOeahOWtl+auteKAlOKAlCoq5rC45LiN5YyF5ZCrIHJ1bGVfaWQgLyDlhoXpg6jlj4LmlbAqKuOAggogICAg57uT5p6E5LiK5L+d6K+B5a6J5YWo57qm5p2f77yacnVsZV9pZCDlj6rov5vlrqHorqHvvIzkuI3ov5vov5nph4zjgIIKICAgIHN0ZXDvvJrmgJ3ogIPmraXpqqTnmoTnqLPlrprmoIfor4bvvJvliY3nq6/mja7mraTlr7nlkIzkuIDmraXlgZoi6L+b6KGM5Lit4oaS5a6M5oiQIuWOn+WcsOabtOaWsO+8jOiAjOmdnui/veWKoOaWsOihjOOAggogICAgIiIiCiAgICBmcmFtZTogRGljdFtzdHIsIEFueV0gPSB7InN0YWdlIjogc3RhZ2UsICJ0eXBlIjogZnR5cGUsICJkaXNwbGF5IjogZGlzcGxheSwgInN0YXR1cyI6IHN0YXR1c30KICAgIGlmIHRvb2xfbmFtZToKICAgICAgICBmcmFtZVsidG9vbF9uYW1lIl0gPSB0b29sX25hbWUKICAgIGlmIHRpZXI6CiAgICAgICAgZnJhbWVbInRpZXIiXSA9IHRpZXIKICAgIGlmIGxhdGVuY3lfbXMgaXMgbm90IE5vbmU6CiAgICAgICAgZnJhbWVbImxhdGVuY3lfbXMiXSA9IGxhdGVuY3lfbXMKICAgIGlmIHN0ZXA6CiAgICAgICAgZnJhbWVbInN0ZXAiXSA9IHN0ZXAKICAgIHJldHVybiB7ImV2ZW50IjogInRyYWNlIiwgImZyYW1lIjogZnJhbWV9CgoKZGVmIF9zcGxpdF9tZF9zZWN0aW9ucyh0ZXh0OiBzdHIsIHN0ZXBzOiBsaXN0KSAtPiBEaWN0W3N0ciwgc3RyXToKICAgICIiIuaMiSBzdGVwLmtleSDlr7nlupTnmoTlpKflhpnmoIfnrb7vvIhhc3Nlc3PihpI8QVNTRVNTPu+8ieaKveWPluaooeWei+i+k+WHuueahOWQhOauteOAguaguOW/g+WGhee9ru+8jOS4jeS+nei1liBiYWNrZW5k44CCIiIiCiAgICBvdXQ6IERpY3Rbc3RyLCBzdHJdID0ge30KICAgIGZvciBzdCBpbiBzdGVwczoKICAgICAgICBrZXkgPSBzdFsia2V5Il0gaWYgaXNpbnN0YW5jZShzdCwgZGljdCkgZWxzZSBzdAogICAgICAgIG0gPSByZS5zZWFyY2gocmYiPHtrZXkudXBwZXIoKX0+KC4qPyk8L3trZXkudXBwZXIoKX0+IiwgdGV4dCwgcmUuRE9UQUxMIHwgcmUuSUdOT1JFQ0FTRSkKICAgICAgICBpZiBtOgogICAgICAgICAgICBvdXRba2V5XSA9IG0uZ3JvdXAoMSkuc3RyaXAoKQogICAgcmV0dXJuIG91dAoKCmRlZiBfY2h1bmtzKHRleHQ6IHN0ciwgc2l6ZTogaW50ID0gMyk6CiAgICAiIiLmiormnIDnu4jnrZTmoYjliIfmiJDlsI/mrrXvvIzmqKHmi5/mtYHlvI8gdG9rZW7vvIjnnJ/lrp7pgJAgdG9rZW4g5rWB5byP5ZyoIEI3IOaNoiB2TExN77yJ44CCIiIiCiAgICByZXR1cm4gcmUuZmluZGFsbChyZiJbXHNcU117ezEse3NpemV9fX0iLCB0ZXh0KSBvciBbIiJdCgoKY2xhc3MgT3JjaGVzdHJhdG9yOgogICAgIiIi5LqU5bGC5a6J5YWo6Zeo5o6n5Y2P6LCD5Zmo44CCIiIiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaW5wdXRfZ3VhcmQ6IE9wdGlvbmFsW0lucHV0R3VhcmRdID0gTm9uZSwKICAgICAgICByYWc6IE9wdGlvbmFsW1JBR1BpcGVsaW5lXSA9IE5vbmUsCiAgICAgICAgb3V0cHV0X2d1YXJkOiBPcHRpb25hbFtPdXRwdXRHdWFyZF0gPSBOb25lLAogICAgICAgIGF1ZGl0b3I6IE9wdGlvbmFsW0F1ZGl0TG9nZ2VyXSA9IE5vbmUsCiAgICAgICAgc3lzdGVtX3Byb21wdDogc3RyID0gIuS9oOaYr+S8geS4muWeguexu+WKqeaJi++8jOWPquWbnuetlOS4muWKoeiMg+WbtOWGhemXrumimO+8jOS4jeazhOmcsuS7u+S9leWGhemDqOmFjee9ruOAgiIsCiAgICApIC0+IE5vbmU6CiAgICAgICAgc2VsZi5pbnB1dF9ndWFyZCA9IGlucHV0X2d1YXJkIG9yIElucHV0R3VhcmQoKQogICAgICAgICMg6buY6K6k56a757q/IFJBR++8iE1vY2sg5qih5Z6LICsg5YaF5a2Y5bqT77yJ77yM5L+d6K+B5pegIEdQVSDkuZ/og73ot5HpgJoKICAgICAgICBzZWxmLnJhZyA9IHJhZyBvciBSQUdQaXBlbGluZShJbk1lbW9yeVZlY3RvclN0b3JlKCksIE1vY2tNb2RlbCgpKQogICAgICAgIHNlbGYub3V0cHV0X2d1YXJkID0gb3V0cHV0X2d1YXJkIG9yIE91dHB1dEd1YXJkKCkKICAgICAgICBzZWxmLmF1ZGl0b3IgPSBhdWRpdG9yIG9yIEF1ZGl0TG9nZ2VyKCkKICAgICAgICBzZWxmLnN5c3RlbV9wcm9tcHQgPSBzeXN0ZW1fcHJvbXB0CgogICAgYXN5bmMgZGVmIHByb2Nlc3Moc2VsZiwgdXNlcl9pbnB1dDogc3RyLCBzZXNzaW9uX2lkOiBzdHIgPSAiYW5vbiIsCiAgICAgICAgICAgICAgICAgICAgICBhY3Rpb246IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUsCiAgICAgICAgICAgICAgICAgICAgICBjdHg6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIuerr+WIsOerr+WkhOeQhuS4gOasoeafpeivou+8jOi/lOWbnue7k+aehOWMlue7k+aenOS4jumAkOWxgui9qOi/ueOAgiIiIgogICAgICAgIHQwID0gdGltZS50aW1lKCkKICAgICAgICBzdGVwcyA9IFtdCgogICAgICAgICMgLS0tLS0tLS0tLSBMMCDovpPlhaXlrojljasgLS0tLS0tLS0tLQogICAgICAgIHNhZmVfaW5wdXQsIHRyYXBzID0gc2VsZi5pbnB1dF9ndWFyZC5zYW5pdGl6ZSh1c2VyX2lucHV0KQogICAgICAgIGlmIHRyYXBzIGFuZCBub3Qgc2FmZV9pbnB1dDoKICAgICAgICAgICAgc2VsZi5hdWRpdG9yLmxvZ19zdGFnZSgKICAgICAgICAgICAgICAgIHN0YWdlPSJMMCIsIGRlY2lzaW9uPSJCTE9DSyIsIHNlc3Npb25faWQ9c2Vzc2lvbl9pZCwKICAgICAgICAgICAgICAgIHJlYXNvbj0iLCIuam9pbih0LnRyYXBfdHlwZSBmb3IgdCBpbiB0cmFwcyksCiAgICAgICAgICAgICAgICByYXdfaW5wdXQ9dXNlcl9pbnB1dCwKICAgICAgICAgICAgICAgIGV4dHJhPXsidHJhcHMiOiBbdC50b19kaWN0KCkgZm9yIHQgaW4gdHJhcHNdfSwKICAgICAgICAgICAgKQogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgImJsb2NrZWQiOiBUcnVlLCAic3RhZ2UiOiAiTDAiLAogICAgICAgICAgICAgICAgInJlYXNvbiI6IFt0LnRyYXBfdHlwZSBmb3IgdCBpbiB0cmFwc10sCiAgICAgICAgICAgICAgICAibWVzc2FnZSI6ICLmgqjnmoTovpPlhaXljIXlkKvmlY/mhJ8v6LaK5p2D6K+35rGC77yM5bey6KKr5oum5oiq44CCIiwKICAgICAgICAgICAgICAgICJsYXRlbmN5X21zIjogaW50KCh0aW1lLnRpbWUoKSAtIHQwKSAqIDEwMDApLAogICAgICAgICAgICB9CiAgICAgICAgc3RlcHMuYXBwZW5kKHsic3RhZ2UiOiAiTDAiLCAicmVzdWx0IjogIlBBU1MiLAogICAgICAgICAgICAgICAgICAgICAgInNhbml0aXplZCI6IHNhZmVfaW5wdXQgIT0gdXNlcl9pbnB1dH0pCiAgICAgICAgc2VsZi5hdWRpdG9yLmxvZ19zdGFnZShzdGFnZT0iTDAiLCBkZWNpc2lvbj0iUEFTUyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXNzaW9uX2lkPXNlc3Npb25faWQsIHJhd19pbnB1dD11c2VyX2lucHV0KQoKICAgICAgICAjIC0tLS0tLS0tLS0gTDEg5Luy6KOB6Zeo5o6nIC0tLS0tLS0tLS0KICAgICAgICBhY3Rpb24gPSBhY3Rpb24gb3IgeyJ0eXBlIjogInF1ZXJ5IiwgInJpc2tfbGV2ZWwiOiAiUjAiLCAiZG9tYWluIjogImdlbmVyYWwiLCAiZmxhZ3MiOiBbXX0KICAgICAgICBjdHggPSBjdHggb3IgeyJpc19lbWVyZ2VuY3kiOiBGYWxzZSwgImludGVybmFsX3Rob3VnaHQiOiAiIn0KICAgICAgICBnYXRlX3JlcyA9IGdhdGUoYWN0aW9uLCBjdHgsIGF1ZGl0PXNlbGYuYXVkaXRvcikKICAgICAgICBzdGVwcy5hcHBlbmQoeyJzdGFnZSI6ICJMMSIsICJyZXN1bHQiOiBnYXRlX3Jlcy50b2tlbi52YWx1ZSwgInJlYXNvbiI6IGdhdGVfcmVzLnJlYXNvbn0pCiAgICAgICAgc2VsZi5hdWRpdG9yLmxvZ19zdGFnZShzdGFnZT0iTDEiLCBkZWNpc2lvbj1nYXRlX3Jlcy50b2tlbi52YWx1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlc3Npb25faWQ9c2Vzc2lvbl9pZCwgYWN0aW9uX3R5cGU9YWN0aW9uLmdldCgidHlwZSIsICIiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYXNvbj1nYXRlX3Jlcy5yZWFzb24pCiAgICAgICAgaWYgZ2F0ZV9yZXMudG9rZW4gIT0gVG9rZW4uUEFTUzoKICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgICJibG9ja2VkIjogVHJ1ZSwgInN0YWdlIjogIkwxIiwKICAgICAgICAgICAgICAgICJyZWFzb24iOiBnYXRlX3Jlcy5yZWFzb24sICJ0b2tlbiI6IGdhdGVfcmVzLnRva2VuLnZhbHVlLAogICAgICAgICAgICAgICAgIm5vdGlmeSI6IGdhdGVfcmVzLm5vdGlmeSwgIm5vdGUiOiBnYXRlX3Jlcy5ub3RlLAogICAgICAgICAgICAgICAgImxhdGVuY3lfbXMiOiBpbnQoKHRpbWUudGltZSgpIC0gdDApICogMTAwMCksCiAgICAgICAgICAgIH0KCiAgICAgICAgIyAtLS0tLS0tLS0tIEwyIOaOqOeQhiArIFJBRyAtLS0tLS0tLS0tCiAgICAgICAgIyDnlKggc2FuZHdpY2gg5YyF6KO55ZCO55qE5a6J5YWo6L6T5YWl5Lqk57uZ5qih5Z6L77yI5q2k5aSE57uPIFJBRyDnrqHnur/vvIkKICAgICAgICByYWdfb3V0ID0gc2VsZi5yYWcucXVlcnkoc2FmZV9pbnB1dCkKICAgICAgICBzdGVwcy5hcHBlbmQoeyJzdGFnZSI6ICJMMiIsICJyZXN1bHQiOiAiUEFTUyIsCiAgICAgICAgICAgICAgICAgICAgICAiY2l0YXRpb25zIjogcmFnX291dFsiY2l0YXRpb25zIl0sCiAgICAgICAgICAgICAgICAgICAgICAiaGFzX2dyb3VuZGluZyI6IHJhZ19vdXRbImhhc19ncm91bmRpbmciXX0pCgogICAgICAgICMgLS0tLS0tLS0tLSBMMyDovpPlh7rlrojljasgLS0tLS0tLS0tLQogICAgICAgIGwzID0gc2VsZi5vdXRwdXRfZ3VhcmQuY2hlY2soCiAgICAgICAgICAgIHJhZ19vdXRbImFuc3dlciJdLAogICAgICAgICAgICB7InJlcXVpcmVfY2l0YXRpb24iOiBib29sKHJhZ19vdXRbInNvdXJjZXMiXSl9LAogICAgICAgICkKICAgICAgICBzdGVwcy5hcHBlbmQoeyJzdGFnZSI6ICJMMyIsCiAgICAgICAgICAgICAgICAgICAgICAicmVzdWx0IjogIlBBU1MiIGlmIGwzWyJvdmVyYWxsX3Bhc3MiXSBlbHNlICJJU1NVRVMiLAogICAgICAgICAgICAgICAgICAgICAgImlzc3VlcyI6IGwzWyJpc3N1ZXMiXX0pCiAgICAgICAgc2VsZi5hdWRpdG9yLmxvZ19zdGFnZSgKICAgICAgICAgICAgc3RhZ2U9IkwzIiwgZGVjaXNpb249IlBBU1MiIGlmIGwzWyJzYWZlIl0gZWxzZSAiU0FOSVRJWkVEIiwKICAgICAgICAgICAgc2Vzc2lvbl9pZD1zZXNzaW9uX2lkLCByYXdfb3V0cHV0PXJhZ19vdXRbImFuc3dlciJdLAogICAgICAgICAgICBleHRyYT17InF1YWxpdHkiOiBsM1sicXVhbGl0eSJdfSwKICAgICAgICApCgogICAgICAgICMgLS0tLS0tLS0tLSBMNCDlrqHorqHvvIjmgLvnu5PmnaHnm67vvIkgLS0tLS0tLS0tLQogICAgICAgIGxhdGVuY3kgPSBpbnQoKHRpbWUudGltZSgpIC0gdDApICogMTAwMCkKICAgICAgICBzZWxmLmF1ZGl0b3IubG9nX3N0YWdlKHN0YWdlPSJMNCIsIGRlY2lzaW9uPSJQQVNTIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlc3Npb25faWQ9c2Vzc2lvbl9pZCwgbGF0ZW5jeV9tcz1sYXRlbmN5KQoKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAiYmxvY2tlZCI6IEZhbHNlLAogICAgICAgICAgICAiYW5zd2VyIjogbDNbInNhbml0aXplZF9vdXRwdXQiXSwKICAgICAgICAgICAgImNpdGF0aW9ucyI6IGwzWyJjaXRhdGlvbnMiXSwKICAgICAgICAgICAgInNvdXJjZXMiOiByYWdfb3V0WyJzb3VyY2VzIl0sCiAgICAgICAgICAgICJxdWFsaXR5IjogbDNbInF1YWxpdHkiXSwKICAgICAgICAgICAgInN0ZXBzIjogc3RlcHMsCiAgICAgICAgICAgICJsYXRlbmN5X21zIjogbGF0ZW5jeSwKICAgICAgICB9CgogICAgYXN5bmMgZGVmIHN0cmVhbShzZWxmLCB1c2VyX2lucHV0OiBzdHIsIHNlc3Npb25faWQ6IHN0ciA9ICJhbm9uIiwKICAgICAgICAgICAgICAgICAgICAgYWN0aW9uOiBPcHRpb25hbFtEaWN0W3N0ciwgQW55XV0gPSBOb25lLAogICAgICAgICAgICAgICAgICAgICBjdHg6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUpIC0+IEFzeW5jSXRlcmF0b3JbRGljdFtzdHIsIEFueV1dOgogICAgICAgICIiIua1geW8j+eJiO+8mui+uei/h+S6lOWxgui+uSB5aWVsZCBXUyDkuovku7bvvIh0cmFjZSAvIGRlbHRhIC8gZG9uZe+8ieOAggoKICAgICAgICDkuI4gcHJvY2VzcygpIOeahOW3ruWIq+aYryLovrnot5Hovrnlh7rluKci6ICM6Z2e6LeR5a6M5LiA5qyh5oCn6L+U5Zue4oCU4oCU6L+Z5q2j5piv5oCd6ICD6Z2i5p2/CiAgICAgICAg5a6e5pe25bGV56S66ZyA6KaB55qE6K+t5LmJ44CCTDAvTDEgQkxPQ0sg56uL5Y2z55+t6Lev44CC5omA5pyJIHRyYWNlIOW4p+e7jyBta19mcmFtZSDnlJ/miJDvvIwKICAgICAgICDnu5PmnoTkuIrkuI3lkKsgcnVsZV9pZO+8m3J1bGUg5Y+q5YaZ5a6h6K6h44CCCiAgICAgICAgIiIiCiAgICAgICAgdDAgPSB0aW1lLnRpbWUoKQogICAgICAgIHRpZXIgPSAoY3R4IG9yIHt9KS5nZXQoInRpZXIiKQoKICAgICAgICAjIC0tLS0tLS0tLS0gTDAg6L6T5YWl5a6I5Y2rIC0tLS0tLS0tLS0KICAgICAgICBzYWZlX2lucHV0LCB0cmFwcyA9IHNlbGYuaW5wdXRfZ3VhcmQuc2FuaXRpemUodXNlcl9pbnB1dCkKICAgICAgICBpZiB0cmFwcyBhbmQgbm90IHNhZmVfaW5wdXQ6CiAgICAgICAgICAgIHNlbGYuYXVkaXRvci5sb2dfc3RhZ2UoCiAgICAgICAgICAgICAgICBzdGFnZT0iTDAiLCBkZWNpc2lvbj0iQkxPQ0siLCBzZXNzaW9uX2lkPXNlc3Npb25faWQsCiAgICAgICAgICAgICAgICByZWFzb249IiwiLmpvaW4odC50cmFwX3R5cGUgZm9yIHQgaW4gdHJhcHMpLCByYXdfaW5wdXQ9dXNlcl9pbnB1dCwKICAgICAgICAgICAgICAgIGV4dHJhPXsidHJhcHMiOiBbdC50b19kaWN0KCkgZm9yIHQgaW4gdHJhcHNdfSwKICAgICAgICAgICAgKQogICAgICAgICAgICB5aWVsZCBta19mcmFtZSgiaGFybmVzcyIsICJnYXRlIiwgIuKblCDlt7LooqvlronlhajnrZbnlaXmi6bmiKoiLCBzdGF0dXM9ImJsb2NrZWQiKQogICAgICAgICAgICB5aWVsZCB7ImV2ZW50IjogImRlbHRhIiwgInRleHQiOiAi5bey6KKr5a6J5YWo562W55Wl5oum5oiqIn0KICAgICAgICAgICAgeWllbGQgbWtfZnJhbWUoImF1ZGl0IiwgImF1ZGl0IiwgIuWuoeiuoeW3suiusOW9le+8iOWTiOW4jOmTvu+8iSIsIHN0YXR1cz0iZG9uZSIpCiAgICAgICAgICAgIHlpZWxkIHsiZXZlbnQiOiAiZG9uZSIsICJibG9ja2VkIjogVHJ1ZSwgImxhdGVuY3lfbXMiOiBpbnQoKHRpbWUudGltZSgpIC0gdDApICogMTAwMCl9CiAgICAgICAgICAgIHJldHVybgogICAgICAgIHNlbGYuYXVkaXRvci5sb2dfc3RhZ2Uoc3RhZ2U9IkwwIiwgZGVjaXNpb249IlBBU1MiLCBzZXNzaW9uX2lkPXNlc3Npb25faWQsIHJhd19pbnB1dD11c2VyX2lucHV0KQogICAgICAgIHlpZWxkIG1rX2ZyYW1lKCJoYXJuZXNzIiwgImdhdGUiLCAi4pyTIOWuieWFqOajgOafpemAmui/hyIsIHN0YXR1cz0iZG9uZSIpCgogICAgICAgICMgLS0tLS0tLS0tLSBMMSDku7Loo4Hpl6jmjqcgLS0tLS0tLS0tLQogICAgICAgIGFjdGlvbiA9IGFjdGlvbiBvciB7InR5cGUiOiAicXVlcnkiLCAicmlza19sZXZlbCI6ICJSMCIsICJkb21haW4iOiAiZ2VuZXJhbCIsICJmbGFncyI6IFtdfQogICAgICAgIGN0eCA9IGN0eCBvciB7ImlzX2VtZXJnZW5jeSI6IEZhbHNlLCAiaW50ZXJuYWxfdGhvdWdodCI6ICIifQogICAgICAgIGdhdGVfcmVzID0gZ2F0ZShhY3Rpb24sIGN0eCwgYXVkaXQ9c2VsZi5hdWRpdG9yKQogICAgICAgIHNlbGYuYXVkaXRvci5sb2dfc3RhZ2Uoc3RhZ2U9IkwxIiwgZGVjaXNpb249Z2F0ZV9yZXMudG9rZW4udmFsdWUsIHNlc3Npb25faWQ9c2Vzc2lvbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGlvbl90eXBlPWFjdGlvbi5nZXQoInR5cGUiLCAiIiksIHJlYXNvbj1nYXRlX3Jlcy5yZWFzb24pCiAgICAgICAgaWYgZ2F0ZV9yZXMudG9rZW4gIT0gVG9rZW4uUEFTUzoKICAgICAgICAgICAgIyDlrqHorqHnlZkgcnVsZe+8iGdhdGVfcmVzLnJlYXNvbu+8ie+8jOS9hiBwdWJsaWMg5bin5Y+q57uZ57KX57KS5bqm77yM5LiN5Zue5pi+IHJ1bGVfaWQKICAgICAgICAgICAgeWllbGQgbWtfZnJhbWUoImhhcm5lc3MiLCAiZ2F0ZSIsICLim5Qg5bey6KKr5a6J5YWo562W55Wl5oum5oiqIiwgc3RhdHVzPSJibG9ja2VkIikKICAgICAgICAgICAgeWllbGQgeyJldmVudCI6ICJkZWx0YSIsICJ0ZXh0IjogIuW3suiiq+WuieWFqOetlueVpeaLpuaIqiJ9CiAgICAgICAgICAgIHlpZWxkIG1rX2ZyYW1lKCJhdWRpdCIsICJhdWRpdCIsICLlrqHorqHlt7LorrDlvZXvvIjlk4jluIzpk77vvIkiLCBzdGF0dXM9ImRvbmUiKQogICAgICAgICAgICB5aWVsZCB7ImV2ZW50IjogImRvbmUiLCAiYmxvY2tlZCI6IFRydWUsICJ0b2tlbiI6IGdhdGVfcmVzLnRva2VuLnZhbHVlLAogICAgICAgICAgICAgICAgICAgImxhdGVuY3lfbXMiOiBpbnQoKHRpbWUudGltZSgpIC0gdDApICogMTAwMCl9CiAgICAgICAgICAgIHJldHVybgoKICAgICAgICAjIC0tLS0tLS0tLS0gTDIg5o6o55CGICsgUkFHIC0tLS0tLS0tLS0KICAgICAgICB0aGlua19zdGVwcyA9IChjdHggb3Ige30pLmdldCgidGhpbmtfc3RlcHMiKQogICAgICAgIHRoaW5rX3Byb21wdCA9IChjdHggb3Ige30pLmdldCgidGhpbmtfcHJvbXB0IikKICAgICAgICBpZiB0aGlua19zdGVwcyBhbmQgdGhpbmtfcHJvbXB0OgogICAgICAgICAgICAjIE1EIOmpseWKqCArIOWIhuatpea1geW8j++8muavj+atpeWFiOWHuiLov5vooYzkuK0i5bin77yM5YaN5Y6f5Zyw5aGrIuWujOaIkCLvvIzmraXpl7Torqnlh7rkuovku7blvqrnjq8KICAgICAgICAgICAgIyDihpIg6Z2i5p2/6YCQ5q2l6ZW/5Ye65p2l77yM6ICM6Z2e5LiA5qyh5oCn5YWo5Ye644CC5qC45b+D5LiNIGltcG9ydCBiYWNrZW5k77yI5q2l6aqk57uPIGN0eCDms6jlhaXvvInjgIIKICAgICAgICAgICAgIyDnn6Xor4blupPot6/nlLHvvJrmjInnm7jlhbPluqbov4fmu6TigJTigJTlj6rmiorkuI7pl67popjnm7jlhbPnmoTmlofmoaPngYzov5sgY29udGV4dO+8jAogICAgICAgICAgICAjIOS9juS6jumYiOWAvOeahO+8iOWmgumXrue8lueoi+WNtOWRveS4reacuueUteinhOiMg++8ieS4gOW+i+WJlOmZpO+8jOmBv+WFjeS5seaLieS4jeebuOW5suaWh+aho+OAggogICAgICAgICAgICBjYW5kaWRhdGVzID0gc2VsZi5yYWcuZGIuc2VhcmNoKHNhZmVfaW5wdXQsIGs9NSkKICAgICAgICAgICAgdGhyID0gZ2V0YXR0cihzZWxmLnJhZywgIlJFTEVWQU5DRV9USFJFU0hPTEQiLCAwLjIpCiAgICAgICAgICAgIGRvY3MgPSBbZCBmb3IgZCBpbiBjYW5kaWRhdGVzIGlmIHNlbGYucmFnLl9yZWxldmFuY2Uoc2FmZV9pbnB1dCwgW2RdKSA+PSB0aHJdCiAgICAgICAgICAgIGNvbnRleHQgPSAiXG4iLmpvaW4oZiJbe2QuaWR9XSB7ZC5jb250ZW50fSIgZm9yIGQgaW4gZG9jcykgb3IgIijml6Dnm7jlhbPmlofmoaMpIgogICAgICAgICAgICBoaXN0b3J5ID0gKGN0eCBvciB7fSkuZ2V0KCJoaXN0b3J5Iikgb3IgIiIKICAgICAgICAgICAgaGlzdF9ibG9jayA9IGYiPT09IOWvueivneWOhuWPsiA9PT1cbntoaXN0b3J5fVxuXG4iIGlmIGhpc3RvcnkgZWxzZSAiIgogICAgICAgICAgICByZWZlcmVuY2VzID0gKGN0eCBvciB7fSkuZ2V0KCJyZWZlcmVuY2VzIikgb3IgIiIKICAgICAgICAgICAgcmVmX2Jsb2NrID0gZiI9PT0g5byV55So55qE5YW25a6D5Lya6K+d77yI5LuF5L6b5Y+C6ICD77yM5rOo5oSP5Yy65YiG77yJPT09XG57cmVmZXJlbmNlc31cblxuIiBpZiByZWZlcmVuY2VzIGVsc2UgIiIKICAgICAgICAgICAgZnVsbF9wcm9tcHQgPSAoZiJ7dGhpbmtfcHJvbXB0fVxuXG57cmVmX2Jsb2NrfXtoaXN0X2Jsb2NrfT09PSDlj6/kv6HmlofmoaMgPT09XG57Y29udGV4dH1cblxuIgogICAgICAgICAgICAgICAgICAgICAgICAgICBmIj09PSDnlKjmiLfpl67popggPT09XG57c2FmZV9pbnB1dH1cbiIpCiAgICAgICAgICAgICMg55yf5a6e5qih5Z6L5o6l5YWl77yaY3R4IOazqOWFpeS6hiBtb2RlbF9vdmVycmlkZSDlsLHnlKjkuYvvvIjlkIwgZ2VuZXJhdGUg5o6l5Y+j77yJ77yM5ZCm5YiZ5YaF572u44CCCiAgICAgICAgICAgICMg5qC45b+D5LiNIGltcG9ydCBiYWNrZW5k4oCU4oCU6YCC6YWN5Zmo55SxIGNoYXRfc2VydmljZSDnu48gY3R4IOazqOWFpeOAggogICAgICAgICAgICBtb2RlbCA9IChjdHggb3Ige30pLmdldCgibW9kZWxfb3ZlcnJpZGUiKSBvciBzZWxmLnJhZy5tb2RlbAogICAgICAgICAgICByYXcgPSBtb2RlbC5nZW5lcmF0ZShmdWxsX3Byb21wdCkKICAgICAgICAgICAgc2VjdGlvbnMgPSBfc3BsaXRfbWRfc2VjdGlvbnMocmF3LCB0aGlua19zdGVwcykKICAgICAgICAgICAgYW5zd2VyX3RleHQgPSBzZWN0aW9ucy5nZXQoImFuc3dlciIpIG9yIHJhdwogICAgICAgICAgICBmb3Igc3QgaW4gdGhpbmtfc3RlcHM6CiAgICAgICAgICAgICAgICBpZiBzdFsia2V5Il0gPT0gImFuc3dlciI6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICMgMSkg6K+l5q2lIui/m+ihjOS4rSLigJTigJTpnaLmnb/lh7rnjrDov5nkuIDmraXlubbovazlnIgKICAgICAgICAgICAgICAgIHlpZWxkIG1rX2ZyYW1lKCJ0aGluayIsICJyZWFzb24iLCBzdC5nZXQoImhpbnQiKSBvciBzdFsibGFiZWwiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz0icnVubmluZyIsIHRpZXI9dGllciwgc3RlcD1zdFsia2V5Il0pCiAgICAgICAgICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDApICAjIOiuqeWHuuKGkuivpeW4p+eri+WNs+S4i+WPke+8iOecn+aooeWei+aXtuatpOWkhOS4uuivpeatpeecn+WunueUn+aIkOiAl+aXtu+8iQogICAgICAgICAgICAgICAgIyAyKSDor6XmraUi5a6M5oiQIuKAlOKAlOWQjOS4gCBzdGVwIOWOn+WcsOWhq+WFpeWGheWuuQogICAgICAgICAgICAgICAgY29udGVudCA9IHNlY3Rpb25zLmdldChzdFsia2V5Il0sICIiKQogICAgICAgICAgICAgICAgIyBWRVJJRlkg5q2l77ya6Iul5rOo5YWl5LqG5rKZ566x5Zue6LCD77yM55So55yf5a6e5omn6KGM57uT5p6c5pu/5o2i5Y2g5L2N77yI5qC45b+D5LiN5L6d6LWWIGJhY2tlbmTvvIkKICAgICAgICAgICAgICAgIGlmIHN0WyJrZXkiXSA9PSAidmVyaWZ5IiBhbmQgKGN0eCBvciB7fSkuZ2V0KCJ2ZXJpZnlfZm4iKToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgPSBjdHhbInZlcmlmeV9mbiJdKHJhdykKICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAjIHByYWdtYTogbm8gY292ZXIKICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudCA9IGYi5omn6KGM6aqM6K+B5Ye66ZSZ77yae2V9IgogICAgICAgICAgICAgICAgZGlzcCA9IGYie3N0WydsYWJlbCddfe+8mntjb250ZW50fSIgaWYgY29udGVudCBlbHNlIHN0WyJsYWJlbCJdCiAgICAgICAgICAgICAgICB5aWVsZCBta19mcmFtZSgidGhpbmsiLCAicmVhc29uIiwgZGlzcCwgc3RhdHVzPSJkb25lIiwgdGllcj10aWVyLCBzdGVwPXN0WyJrZXkiXSkKICAgICAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMCkKICAgICAgICAgICAgcmFnX291dCA9IHsiYW5zd2VyIjogYW5zd2VyX3RleHQsICJzb3VyY2VzIjogW2QubWV0YWRhdGEgfCB7ImlkIjogZC5pZH0gZm9yIGQgaW4gZG9jc10sCiAgICAgICAgICAgICAgICAgICAgICAgImNpdGF0aW9ucyI6IHJlLmZpbmRhbGwociJcW2RvY19cZCtcXSIsIGFuc3dlcl90ZXh0KX0KICAgICAgICBlbHNlOgogICAgICAgICAgICB5aWVsZCBta19mcmFtZSgibGxtIiwgInJvdXRlIiwgIuato+WcqOajgOe0ouWPr+S/oeaWh+aho+W5tuaOqOeQhuKApiIsIHN0YXR1cz0icnVubmluZyIsIHRpZXI9dGllcikKICAgICAgICAgICAgcmFnX291dCA9IHNlbGYucmFnLnF1ZXJ5KHNhZmVfaW5wdXQpCiAgICAgICAgaWYgcmFnX291dC5nZXQoImNpdGF0aW9ucyIpOgogICAgICAgICAgICB5aWVsZCBta19mcmFtZSgidG9vbCIsICJ0b29sX2NhbGwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICBmIuKckyDmo4DntKLlrozmiJDvvIzov5Tlm54ge2xlbihyYWdfb3V0LmdldCgnc291cmNlcycsIFtdKSl9IOadoeadpea6kCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz0iZG9uZSIsIHRvb2xfbmFtZT0icmFnX3NlYXJjaCIsIHRpZXI9dGllcikKCiAgICAgICAgIyAtLS0tLS0tLS0tIEwzIOi+k+WHuuWuiOWNq++8iOWFiOiEseaVj++8jOWGjea1geW8j+WQkOiEseaVj+WQjueahOaWh+acrO+8iSAtLS0tLS0tLS0tCiAgICAgICAgbDMgPSBzZWxmLm91dHB1dF9ndWFyZC5jaGVjayhyYWdfb3V0WyJhbnN3ZXIiXSwgeyJyZXF1aXJlX2NpdGF0aW9uIjogYm9vbChyYWdfb3V0WyJzb3VyY2VzIl0pfSkKICAgICAgICBhbnN3ZXIgPSBsM1sic2FuaXRpemVkX291dHB1dCJdCiAgICAgICAgc2VsZi5hdWRpdG9yLmxvZ19zdGFnZShzdGFnZT0iTDMiLCBkZWNpc2lvbj0iUEFTUyIgaWYgbDNbInNhZmUiXSBlbHNlICJTQU5JVElaRUQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbl9pZD1zZXNzaW9uX2lkLCByYXdfb3V0cHV0PXJhZ19vdXRbImFuc3dlciJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXh0cmE9eyJxdWFsaXR5IjogbDNbInF1YWxpdHkiXX0pCiAgICAgICAgZm9yIGNodW5rIGluIF9jaHVua3MoYW5zd2VyKToKICAgICAgICAgICAgeWllbGQgeyJldmVudCI6ICJkZWx0YSIsICJ0ZXh0IjogY2h1bmt9CiAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMCkgICMg6K6p5Ye65LqL5Lu25b6q546v77yM55yf5a6e5Zy65pmv5LiL6IOM5Y6L55SxIFdTIOWkhOeQhgoKICAgICAgICAjIC0tLS0tLS0tLS0gTDQg5a6h6K6hIC0tLS0tLS0tLS0KICAgICAgICBsYXRlbmN5ID0gaW50KCh0aW1lLnRpbWUoKSAtIHQwKSAqIDEwMDApCiAgICAgICAgc2VsZi5hdWRpdG9yLmxvZ19zdGFnZShzdGFnZT0iTDQiLCBkZWNpc2lvbj0iUEFTUyIsIHNlc3Npb25faWQ9c2Vzc2lvbl9pZCwgbGF0ZW5jeV9tcz1sYXRlbmN5KQogICAgICAgIHlpZWxkIG1rX2ZyYW1lKCJhdWRpdCIsICJhdWRpdCIsICLlrqHorqHlt7LorrDlvZXvvIjlk4jluIzpk77vvIkiLCBzdGF0dXM9ImRvbmUiKQogICAgICAgIHlpZWxkIHsiZXZlbnQiOiAiZG9uZSIsICJibG9ja2VkIjogRmFsc2UsICJ0aWVyIjogdGllciwKICAgICAgICAgICAgICAgImxhdGVuY3lfbXMiOiBsYXRlbmN5LCAiY2l0YXRpb25zIjogbDNbImNpdGF0aW9ucyJdfQo=
+"""secureguard.orchestrator — 协调器（五层串联）。
+
+数据流：
+    输入 → L0 输入守卫 → L1 仲裁门控 → L2 模型+RAG → L3 输出守卫 → L4 审计 → 用户
+
+任一前置层 BLOCK/ESCALATE 都会短路，并写审计。L2 默认用离线 Mock，
+传入真实 backend 即切换为生产推理，协调逻辑不变。
+"""
+from __future__ import annotations
+
+import asyncio
+import re
+import time
+from typing import Any, AsyncIterator, Dict, Optional
+
+from .l0_input_guard import InputGuard
+from .l1_gate import gate
+from .l2_reasoning import InMemoryVectorStore, MockModel, ModelBackend, RAGPipeline, VectorStore
+from .l3_output_guard import OutputGuard
+from .l4_audit import AuditLogger
+from .types import Token
+
+
+def mk_frame(stage: str, ftype: str, display: str, status: str = "done",
+             tool_name: Optional[str] = None, tier: Optional[str] = None,
+             latency_ms: Optional[int] = None, step: Optional[str] = None) -> Dict[str, Any]:
+    """构造一帧 public_trace 的 WS 事件。
+
+    只放入前端 PublicTraceFrame 允许的字段——**永不包含 rule_id / 内部参数**。
+    结构上保证安全约束：rule_id 只进审计，不进这里。
+    step：思考步骤的稳定标识；前端据此对同一步做"进行中→完成"原地更新，而非追加新行。
+    """
+    frame: Dict[str, Any] = {"stage": stage, "type": ftype, "display": display, "status": status}
+    if tool_name:
+        frame["tool_name"] = tool_name
+    if tier:
+        frame["tier"] = tier
+    if latency_ms is not None:
+        frame["latency_ms"] = latency_ms
+    if step:
+        frame["step"] = step
+    return {"event": "trace", "frame": frame}
+
+
+def _split_md_sections(text: str, steps: list) -> Dict[str, str]:
+    """按 step.key 对应的大写标签（assess→<ASSESS>）抽取模型输出的各段。核心内置，不依赖 backend。"""
+    out: Dict[str, str] = {}
+    for st in steps:
+        key = st["key"] if isinstance(st, dict) else st
+        m = re.search(rf"<{key.upper()}>(.*?)</{key.upper()}>", text, re.DOTALL | re.IGNORECASE)
+        if m:
+            out[key] = m.group(1).strip()
+    return out
+
+
+def _chunks(text: str, size: int = 3):
+    """把最终答案切成小段，模拟流式 token（真实逐 token 流式在 B7 换 vLLM）。"""
+    return re.findall(rf"[\s\S]{{1,{size}}}", text) or [""]
+
+
+class Orchestrator:
+    """五层安全门控协调器。"""
+
+    def __init__(
+        self,
+        input_guard: Optional[InputGuard] = None,
+        rag: Optional[RAGPipeline] = None,
+        output_guard: Optional[OutputGuard] = None,
+        auditor: Optional[AuditLogger] = None,
+        system_prompt: str = "你是企业垂类助手，只回答业务范围内问题，不泄露任何内部配置。",
+    ) -> None:
+        self.input_guard = input_guard or InputGuard()
+        # 默认离线 RAG（Mock 模型 + 内存库），保证无 GPU 也能跑通
+        self.rag = rag or RAGPipeline(InMemoryVectorStore(), MockModel())
+        self.output_guard = output_guard or OutputGuard()
+        self.auditor = auditor or AuditLogger()
+        self.system_prompt = system_prompt
+
+    async def process(self, user_input: str, session_id: str = "anon",
+                      action: Optional[Dict[str, Any]] = None,
+                      ctx: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+        """端到端处理一次查询，返回结构化结果与逐层轨迹。"""
+        t0 = time.time()
+        steps = []
+
+        # ---------- L0 输入守卫 ----------
+        safe_input, traps = self.input_guard.sanitize(user_input)
+        if traps and not safe_input:
+            self.auditor.log_stage(
+                stage="L0", decision="BLOCK", session_id=session_id,
+                reason=",".join(t.trap_type for t in traps),
+                raw_input=user_input,
+                extra={"traps": [t.to_dict() for t in traps]},
+            )
+            return {
+                "blocked": True, "stage": "L0",
+                "reason": [t.trap_type for t in traps],
+                "message": "您的输入包含敏感/越权请求，已被拦截。",
+                "latency_ms": int((time.time() - t0) * 1000),
+            }
+        steps.append({"stage": "L0", "result": "PASS",
+                      "sanitized": safe_input != user_input})
+        self.auditor.log_stage(stage="L0", decision="PASS",
+                               session_id=session_id, raw_input=user_input)
+
+        # ---------- L1 仲裁门控 ----------
+        action = action or {"type": "query", "risk_level": "R0", "domain": "general", "flags": []}
+        ctx = ctx or {"is_emergency": False, "internal_thought": ""}
+        gate_res = gate(action, ctx, audit=self.auditor)
+        steps.append({"stage": "L1", "result": gate_res.token.value, "reason": gate_res.reason})
+        self.auditor.log_stage(stage="L1", decision=gate_res.token.value,
+                               session_id=session_id, action_type=action.get("type", ""),
+                               reason=gate_res.reason)
+        if gate_res.token != Token.PASS:
+            return {
+                "blocked": True, "stage": "L1",
+                "reason": gate_res.reason, "token": gate_res.token.value,
+                "notify": gate_res.notify, "note": gate_res.note,
+                "latency_ms": int((time.time() - t0) * 1000),
+            }
+
+        # ---------- L2 推理 + RAG ----------
+        # 用 sandwich 包裹后的安全输入交给模型（此处经 RAG 管线）
+        rag_out = self.rag.query(safe_input)
+        steps.append({"stage": "L2", "result": "PASS",
+                      "citations": rag_out["citations"],
+                      "has_grounding": rag_out["has_grounding"]})
+
+        # ---------- L3 输出守卫 ----------
+        l3 = self.output_guard.check(
+            rag_out["answer"],
+            {"require_citation": bool(rag_out["sources"])},
+        )
+        steps.append({"stage": "L3",
+                      "result": "PASS" if l3["overall_pass"] else "ISSUES",
+                      "issues": l3["issues"]})
+        self.auditor.log_stage(
+            stage="L3", decision="PASS" if l3["safe"] else "SANITIZED",
+            session_id=session_id, raw_output=rag_out["answer"],
+            extra={"quality": l3["quality"]},
+        )
+
+        # ---------- L4 审计（总结条目） ----------
+        latency = int((time.time() - t0) * 1000)
+        self.auditor.log_stage(stage="L4", decision="PASS",
+                               session_id=session_id, latency_ms=latency)
+
+        return {
+            "blocked": False,
+            "answer": l3["sanitized_output"],
+            "citations": l3["citations"],
+            "sources": rag_out["sources"],
+            "quality": l3["quality"],
+            "steps": steps,
+            "latency_ms": latency,
+        }
+
+    async def stream(self, user_input: str, session_id: str = "anon",
+                     action: Optional[Dict[str, Any]] = None,
+                     ctx: Optional[Dict[str, Any]] = None) -> AsyncIterator[Dict[str, Any]]:
+        """流式版：边过五层边 yield WS 事件（trace / delta / done）。
+
+        与 process() 的差别是"边跑边出帧"而非跑完一次性返回——这正是思考面板
+        实时展示需要的语义。L0/L1 BLOCK 立即短路。所有 trace 帧经 mk_frame 生成，
+        结构上不含 rule_id；rule 只写审计。
+        """
+        t0 = time.time()
+        tier = (ctx or {}).get("tier")
+
+        # ---------- L0 输入守卫 ----------
+        safe_input, traps = self.input_guard.sanitize(user_input)
+        if traps and not safe_input:
+            self.auditor.log_stage(
+                stage="L0", decision="BLOCK", session_id=session_id,
+                reason=",".join(t.trap_type for t in traps), raw_input=user_input,
+                extra={"traps": [t.to_dict() for t in traps]},
+            )
+            yield mk_frame("harness", "gate", "⛔ 已被安全策略拦截", status="blocked")
+            yield {"event": "delta", "text": "已被安全策略拦截"}
+            yield mk_frame("audit", "audit", "审计已记录（哈希链）", status="done")
+            yield {"event": "done", "blocked": True, "latency_ms": int((time.time() - t0) * 1000)}
+            return
+        self.auditor.log_stage(stage="L0", decision="PASS", session_id=session_id, raw_input=user_input)
+        yield mk_frame("harness", "gate", "✓ 安全检查通过", status="done")
+
+        # ---------- L1 仲裁门控 ----------
+        action = action or {"type": "query", "risk_level": "R0", "domain": "general", "flags": []}
+        ctx = ctx or {"is_emergency": False, "internal_thought": ""}
+        gate_res = gate(action, ctx, audit=self.auditor)
+        self.auditor.log_stage(stage="L1", decision=gate_res.token.value, session_id=session_id,
+                               action_type=action.get("type", ""), reason=gate_res.reason)
+        if gate_res.token != Token.PASS:
+            # 审计留 rule（gate_res.reason），但 public 帧只给粗粒度，不回显 rule_id
+            yield mk_frame("harness", "gate", "⛔ 已被安全策略拦截", status="blocked")
+            yield {"event": "delta", "text": "已被安全策略拦截"}
+            yield mk_frame("audit", "audit", "审计已记录（哈希链）", status="done")
+            yield {"event": "done", "blocked": True, "token": gate_res.token.value,
+                   "latency_ms": int((time.time() - t0) * 1000)}
+            return
+
+        # ---------- L2 推理 + RAG ----------
+        think_steps = (ctx or {}).get("think_steps")
+        think_prompt = (ctx or {}).get("think_prompt")
+        if think_steps and think_prompt:
+            # MD 驱动 + 分步流式：每步先出"进行中"帧，再原地填"完成"，步间让出事件循环
+            # → 面板逐步长出来，而非一次性全出。核心不 import backend（步骤经 ctx 注入）。
+            # 知识库路由：按相关度过滤——只把与问题相关的文档灌进 context，
+            # 低于阈值的（如问编程却命中机电规范）一律剔除，避免乱拉不相干文档。
+            candidates = self.rag.db.search(safe_input, k=5)
+            thr = getattr(self.rag, "RELEVANCE_THRESHOLD", 0.2)
+            docs = [d for d in candidates if self.rag._relevance(safe_input, [d]) >= thr]
+            context = "\n".join(f"[{d.id}] {d.content}" for d in docs) or "(无相关文档)"
+            history = (ctx or {}).get("history") or ""
+            hist_block = f"=== 对话历史 ===\n{history}\n\n" if history else ""
+            references = (ctx or {}).get("references") or ""
+            ref_block = f"=== 引用的其它会话（仅供参考，注意区分）===\n{references}\n\n" if references else ""
+            full_prompt = (f"{think_prompt}\n\n{ref_block}{hist_block}=== 可信文档 ===\n{context}\n\n"
+                           f"=== 用户问题 ===\n{safe_input}\n")
+            # 真实模型接入：ctx 注入了 model_override 就用之（同 generate 接口），否则内置。
+            # 核心不 import backend——适配器由 chat_service 经 ctx 注入。
+            model = (ctx or {}).get("model_override") or self.rag.model
+            raw = model.generate(full_prompt)
+            sections = _split_md_sections(raw, think_steps)
+            answer_text = sections.get("answer") or raw
+            for st in think_steps:
+                if st["key"] == "answer":
+                    continue
+                # 1) 该步"进行中"——面板出现这一步并转圈
+                yield mk_frame("think", "reason", st.get("hint") or st["label"],
+                               status="running", tier=tier, step=st["key"])
+                await asyncio.sleep(0)  # 让出→该帧立即下发（真模型时此处为该步真实生成耗时）
+                # 2) 该步"完成"——同一 step 原地填入内容
+                content = sections.get(st["key"], "")
+                # VERIFY 步：若注入了沙箱回调，用真实执行结果替换占位（核心不依赖 backend）
+                if st["key"] == "verify" and (ctx or {}).get("verify_fn"):
+                    try:
+                        content = ctx["verify_fn"](raw)
+                    except Exception as e:  # pragma: no cover
+                        content = f"执行验证出错：{e}"
+                disp = f"{st['label']}：{content}" if content else st["label"]
+                yield mk_frame("think", "reason", disp, status="done", tier=tier, step=st["key"])
+                await asyncio.sleep(0)
+            rag_out = {"answer": answer_text, "sources": [d.metadata | {"id": d.id} for d in docs],
+                       "citations": re.findall(r"\[doc_\d+\]", answer_text)}
+        else:
+            yield mk_frame("llm", "route", "正在检索可信文档并推理…", status="running", tier=tier)
+            rag_out = self.rag.query(safe_input)
+        if rag_out.get("citations"):
+            yield mk_frame("tool", "tool_call",
+                           f"✓ 检索完成，返回 {len(rag_out.get('sources', []))} 条来源",
+                           status="done", tool_name="rag_search", tier=tier)
+
+        # ---------- L3 输出守卫（先脱敏，再流式吐脱敏后的文本） ----------
+        l3 = self.output_guard.check(rag_out["answer"], {"require_citation": bool(rag_out["sources"])})
+        answer = l3["sanitized_output"]
+        self.auditor.log_stage(stage="L3", decision="PASS" if l3["safe"] else "SANITIZED",
+                               session_id=session_id, raw_output=rag_out["answer"],
+                               extra={"quality": l3["quality"]})
+        for chunk in _chunks(answer):
+            yield {"event": "delta", "text": chunk}
+            await asyncio.sleep(0)  # 让出事件循环，真实场景下背压由 WS 处理
+
+        # ---------- L4 审计 ----------
+        latency = int((time.time() - t0) * 1000)
+        self.auditor.log_stage(stage="L4", decision="PASS", session_id=session_id, latency_ms=latency)
+        yield mk_frame("audit", "audit", "审计已记录（哈希链）", status="done")
+        yield {"event": "done", "blocked": False, "tier": tier,
+               "latency_ms": latency, "citations": l3["citations"]}

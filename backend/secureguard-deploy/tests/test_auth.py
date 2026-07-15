@@ -1,1 +1,165 @@
-IiIidGVzdHMvdGVzdF9hdXRoLnB5IOKAlCBCMiDorqTor4HkuI7mjojmnYPljZXmtYvvvIjnuq8gc3RkbGli77yJ44CCIiIiCmltcG9ydCBzeXMsIG9zLCB0aW1lCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKSkKCmZyb20gYmFja2VuZC5hdXRoIGltcG9ydCBBdXRoU2VydmljZSwgYXV0aG9yaXplX3JvbGUsIHdlY2hhdF9xciwgd2VjaGF0X2NhbGxiYWNrCmZyb20gc2VjdXJlZ3VhcmQucGVybWlzc2lvbnMgaW1wb3J0IFJvbGUKCgpkZWYgdGVzdF9sb2dpbl9zdWNjZXNzX3JldHVybnNfdG9rZW4oKToKICAgIGEgPSBBdXRoU2VydmljZSgpCiAgICB0b2tlbiwgbXNnID0gYS5sb2dpbigiMTM4MDAwMDAwMDAiLCAiYWRtaW4xMjMiKQogICAgYXNzZXJ0IHRva2VuIGFuZCBtc2cgPT0gIueZu+W9leaIkOWKnyIKCgpkZWYgdGVzdF9sb2dpbl93cm9uZ19wYXNzd29yZF9mYWlscygpOgogICAgYSA9IEF1dGhTZXJ2aWNlKCkKICAgIHRva2VuLCBtc2cgPSBhLmxvZ2luKCIxMzgwMDAwMDAwMCIsICJ3cm9uZyIpCiAgICBhc3NlcnQgdG9rZW4gaXMgTm9uZSBhbmQgIuWvhueggSIgaW4gbXNnCgoKZGVmIHRlc3RfbG9naW5fdW5rbm93bl91c2VyX2ZhaWxzKCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgdG9rZW4sIF8gPSBhLmxvZ2luKCIxOTkwMDAwMDAwMCIsICJ4IikKICAgIGFzc2VydCB0b2tlbiBpcyBOb25lCgoKZGVmIHRlc3RfcGFzc3dvcmRfbmV2ZXJfc3RvcmVkX3BsYWludGV4dCgpOgogICAgYSA9IEF1dGhTZXJ2aWNlKCkKICAgIHJlYyA9IGEuX3VzZXJzWyIxMzgwMDAwMDAwMCJdCiAgICBhc3NlcnQgImFkbWluMTIzIiBub3QgaW4gc3RyKHJlYykgICAgICAgICAgICAjIOaYjuaWh+S4jeiQveW6kwogICAgYXNzZXJ0IGxlbihyZWNbImhhc2giXSkgPT0gNjQgYW5kICJzYWx0IiBpbiByZWMgICMgcGJrZGYyIOWTiOW4jCArIOebkAoKCmRlZiB0ZXN0X3Rva2VuX3Jlc29sdmVzX3RvX2NvcnJlY3RfdXNlcigpOgogICAgYSA9IEF1dGhTZXJ2aWNlKCkKICAgIHRva2VuLCBfID0gYS5sb2dpbigiMTM4MDAwMDAwMDEiLCAiZGV2MTIzIikgICAjIGRldmVsb3BlciBAIGQxCiAgICB1c2VyID0gYS5yZXNvbHZlKHRva2VuKQogICAgYXNzZXJ0IHVzZXIuaWQgPT0gInVfZGV2IiBhbmQgdXNlci5yb2xlID09IFJvbGUuREVWRUxPUEVSIGFuZCB1c2VyLmRlcHRfaWQgPT0gImQxIgoKCmRlZiB0ZXN0X2ludmFsaWRfdG9rZW5fcmV0dXJuc19ub25lKCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgYXNzZXJ0IGEucmVzb2x2ZSgiZ2FyYmFnZSIpIGlzIE5vbmUKICAgIGFzc2VydCBhLnJlc29sdmUoTm9uZSkgaXMgTm9uZQoKCmRlZiB0ZXN0X2V4cGlyZWRfdG9rZW5fcmVqZWN0ZWQoKToKICAgIGEgPSBBdXRoU2VydmljZShzZXNzaW9uX3R0bD0tMSkgICAgICAgICAgICAgICAjIOeri+WNs+i/h+acnwogICAgdG9rZW4sIF8gPSBhLmxvZ2luKCIxMzgwMDAwMDAwMCIsICJhZG1pbjEyMyIpCiAgICBhc3NlcnQgYS5yZXNvbHZlKHRva2VuKSBpcyBOb25lCgoKZGVmIHRlc3RfbG9nb3V0X2ludmFsaWRhdGVzX3Rva2VuKCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgdG9rZW4sIF8gPSBhLmxvZ2luKCIxMzgwMDAwMDAwMCIsICJhZG1pbjEyMyIpCiAgICBhLmxvZ291dCh0b2tlbikKICAgIGFzc2VydCBhLnJlc29sdmUodG9rZW4pIGlzIE5vbmUKCgojIC0tLS0tLS0tLS0g6KeS6Imy6ZeoIC0tLS0tLS0tLS0KZGVmIHRlc3RfYXV0aG9yaXplX3JvbGVfYWRtaW5fcGFzc2VzKCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgdXNlciA9IGEucmVzb2x2ZShhLmxvZ2luKCIxMzgwMDAwMDAwMCIsICJhZG1pbjEyMyIpWzBdKQogICAgb2ssIF8gPSBhdXRob3JpemVfcm9sZSh1c2VyLCBbUm9sZS5BRE1JTl0pCiAgICBhc3NlcnQgb2sgaXMgVHJ1ZQoKCmRlZiB0ZXN0X2F1dGhvcml6ZV9yb2xlX3VzZXJfZGVuaWVkX2FkbWluX2VuZHBvaW50KCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgdXNlciA9IGEucmVzb2x2ZShhLmxvZ2luKCIxMzgwMDAwMDAwMyIsICJ1c2VyMTIzIilbMF0pICAjIOaZrumAmiB1c2VyCiAgICBvaywgcmVhc29uID0gYXV0aG9yaXplX3JvbGUodXNlciwgW1JvbGUuQURNSU5dKQogICAgYXNzZXJ0IG9rIGlzIEZhbHNlIGFuZCAi6ZyA6KaB6KeS6ImyIiBpbiByZWFzb24KCgpkZWYgdGVzdF9hdXRob3JpemVfcm9sZV91bmF1dGhlbnRpY2F0ZWRfZGVuaWVkKCk6CiAgICBvaywgcmVhc29uID0gYXV0aG9yaXplX3JvbGUoTm9uZSwgW1JvbGUuQURNSU5dKQogICAgYXNzZXJ0IG9rIGlzIEZhbHNlIGFuZCByZWFzb24gPT0gIuacquiupOivgSIKCgpkZWYgdGVzdF9kZXB0X2FkbWluX3JvbGVfcmVzb2x2ZWQoKToKICAgIGEgPSBBdXRoU2VydmljZSgpCiAgICB1c2VyID0gYS5yZXNvbHZlKGEubG9naW4oIjEzODAwMDAwMDAyIiwgImRhMTIzIilbMF0pCiAgICBhc3NlcnQgdXNlci5yb2xlID09IFJvbGUuREVQQVJUTUVOVF9BRE1JTiBhbmQgdXNlci5kZXB0X2lkID09ICJkMSIKCgojIC0tLS0tLS0tLS0g5b6u5L+h5qGpIC0tLS0tLS0tLS0KZGVmIHRlc3Rfd2VjaGF0X3FyX25vdF9jb25maWd1cmVkX3dpdGhvdXRfYXBwaWQoKToKICAgICMg56Gu5L+d5pyq6YWN572u5pe25LyY6ZuF6L+U5Zue6ICM6Z2e5bSp5rqDCiAgICBvbGQgPSBvcy5lbnZpcm9uLnBvcCgiV0VDSEFUX0FQUElEIiwgTm9uZSkKICAgIHRyeToKICAgICAgICByZXMgPSB3ZWNoYXRfcXIoKQogICAgICAgIGFzc2VydCByZXNbInN0YXR1cyJdID09ICJub3RfY29uZmlndXJlZCIKICAgIGZpbmFsbHk6CiAgICAgICAgaWYgb2xkOgogICAgICAgICAgICBvcy5lbnZpcm9uWyJXRUNIQVRfQVBQSUQiXSA9IG9sZAoKCmRlZiB0ZXN0X3dlY2hhdF9jYWxsYmFja19yYWlzZXNfbm90X2ltcGxlbWVudGVkKCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgdHJ5OgogICAgICAgIHdlY2hhdF9jYWxsYmFjaygiY29kZSIsIGEpCiAgICAgICAgYXNzZXJ0IEZhbHNlLCAi5bqU5oqbIE5vdEltcGxlbWVudGVkRXJyb3IiCiAgICBleGNlcHQgTm90SW1wbGVtZW50ZWRFcnJvcjoKICAgICAgICBwYXNzCgoKZGVmIHRlc3RfYXV0aF9lbmRwb2ludHNfaWZfZmFzdGFwaV9hdmFpbGFibGUoKToKICAgICIiIuerr+eCuee6pyBSQkFDIOa1i+ivle+8muijheS6hiBmYXN0YXBpIOaJjei3ke+8iOecn+acuu+8ie+8jOaymeeuseiHquWKqOi3s+i/h+OAgiIiIgogICAgdHJ5OgogICAgICAgIGZyb20gZmFzdGFwaS50ZXN0Y2xpZW50IGltcG9ydCBUZXN0Q2xpZW50ICAjIHR5cGU6IGlnbm9yZQogICAgICAgIGZyb20gYmFja2VuZC5hcHAgaW1wb3J0IGFwcAogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4KICAgIGlmIGFwcCBpcyBOb25lOgogICAgICAgIHJldHVybgogICAgY2xpZW50ID0gVGVzdENsaWVudChhcHApCiAgICAjIOeZu+W9leaLvyB0b2tlbgogICAgciA9IGNsaWVudC5wb3N0KCIvdjEvYXV0aC9sb2dpbiIsIGpzb249eyJwaG9uZSI6ICIxMzgwMDAwMDAwMyIsICJwYXNzd29yZCI6ICJ1c2VyMTIzIn0pCiAgICBhc3NlcnQgci5zdGF0dXNfY29kZSA9PSAyMDAKICAgIHRva2VuID0gci5qc29uKClbInRva2VuIl0KICAgICMg5bimIHRva2VuIOiuv+mXriAvdjEvbWUKICAgIG1lID0gY2xpZW50LmdldCgiL3YxL21lIiwgaGVhZGVycz17IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59In0pCiAgICBhc3NlcnQgbWUuc3RhdHVzX2NvZGUgPT0gMjAwIGFuZCBtZS5qc29uKClbInJvbGUiXSA9PSAidXNlciIKICAgICMg5pmu6YCaIHVzZXIg6K6/6ZeuIGFkbWluIOS4k+Wxnuerr+eCuSDihpIgNDAzCiAgICBhdiA9IGNsaWVudC5nZXQoIi92MS9hdWRpdC92ZXJpZnkiLCBoZWFkZXJzPXsiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHt0b2tlbn0ifSkKICAgIGFzc2VydCBhdi5zdGF0dXNfY29kZSA9PSA0MDMKICAgICMg5pyq6K6k6K+B6K6/6ZeuIC92MS9tZSDihpIgNDAxCiAgICBhc3NlcnQgY2xpZW50LmdldCgiL3YxL21lIikuc3RhdHVzX2NvZGUgPT0gNDAxCiAgICAjIGFkbWluIOeZu+W9leWQjuWPr+iuv+mXriBhdWRpdC92ZXJpZnkKICAgIGF0ID0gY2xpZW50LnBvc3QoIi92MS9hdXRoL2xvZ2luIiwganNvbj17InBob25lIjogIjEzODAwMDAwMDAwIiwgInBhc3N3b3JkIjogImFkbWluMTIzIn0pLmpzb24oKVsidG9rZW4iXQogICAgYXNzZXJ0IGNsaWVudC5nZXQoIi92MS9hdWRpdC92ZXJpZnkiLCBoZWFkZXJzPXsiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHthdH0ifSkuc3RhdHVzX2NvZGUgPT0gMjAwCgoKIyAtLS0tLS0tLS0tIOiHquWKqeazqOWGjO+8iOW8uuWItiB1c2VyIOinkuiJsu+8iSAtLS0tLS0tLS0tCmRlZiB0ZXN0X3JlZ2lzdGVyX3NlbGZfc3VjY2Vzc19yZXR1cm5zX3Rva2VuKCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgdG9rZW4sIG1zZyA9IGEucmVnaXN0ZXJfc2VsZigiMTM5MDAwMDAwMDEiLCAic2VjcmV0NiIpCiAgICBhc3NlcnQgdG9rZW4gYW5kIGEucmVzb2x2ZSh0b2tlbikucm9sZSA9PSBSb2xlLlVTRVIgICMg5by65Yi2IHVzZXIKCgpkZWYgdGVzdF9yZWdpc3Rlcl9zZWxmX2ZvcmNlc191c2VyX3JvbGUoKToKICAgIGEgPSBBdXRoU2VydmljZSgpCiAgICB0b2tlbiwgXyA9IGEucmVnaXN0ZXJfc2VsZigiMTM5MDAwMDAwMDIiLCAic2VjcmV0NiIpCiAgICB1ID0gYS5yZXNvbHZlKHRva2VuKQogICAgYXNzZXJ0IHUucm9sZSA9PSBSb2xlLlVTRVIgICMg5Y2z5L6/5bCG5p2l5a6i5oi356uv5oOz5LygIGFkbWlu77yM5Lmf5Y+q5Lya5pivIHVzZXIKCgpkZWYgdGVzdF9yZWdpc3Rlcl9kdXBsaWNhdGVfcGhvbmVfcmVqZWN0ZWQoKToKICAgIGEgPSBBdXRoU2VydmljZSgpCiAgICBhLnJlZ2lzdGVyX3NlbGYoIjEzOTAwMDAwMDAzIiwgInNlY3JldDYiKQogICAgdG9rZW4sIG1zZyA9IGEucmVnaXN0ZXJfc2VsZigiMTM5MDAwMDAwMDMiLCAic2VjcmV0NiIpCiAgICBhc3NlcnQgdG9rZW4gaXMgTm9uZSBhbmQgIuW3suazqOWGjCIgaW4gbXNnCgoKZGVmIHRlc3RfcmVnaXN0ZXJfdmFsaWRhdGVzX3Bob25lX2FuZF9wYXNzd29yZCgpOgogICAgYSA9IEF1dGhTZXJ2aWNlKCkKICAgIGFzc2VydCBhLnJlZ2lzdGVyX3NlbGYoImFiYyIsICJzZWNyZXQ2IilbMF0gaXMgTm9uZSAgICAgICAgIyDmiYvmnLrlj7fpnZ7ms5UKICAgIGFzc2VydCBhLnJlZ2lzdGVyX3NlbGYoIjEzOTAwMDAwMDA0IiwgIjEyMyIpWzBdIGlzIE5vbmUgICAgIyDlr4bnoIHlpKrnn60KCgpkZWYgdGVzdF9yZWdpc3Rlcl90aGVuX2xvZ2luX3dvcmtzKCk6CiAgICBhID0gQXV0aFNlcnZpY2UoKQogICAgYS5yZWdpc3Rlcl9zZWxmKCIxMzkwMDAwMDAwNSIsICJzZWNyZXQ2IikKICAgIHRva2VuLCBfID0gYS5sb2dpbigiMTM5MDAwMDAwMDUiLCAic2VjcmV0NiIpCiAgICBhc3NlcnQgdG9rZW4gaXMgbm90IE5vbmUK
+"""tests/test_auth.py — B2 认证与授权单测（纯 stdlib）。"""
+import sys, os, time
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.auth import AuthService, authorize_role, wechat_qr, wechat_callback
+from secureguard.permissions import Role
+
+
+def test_login_success_returns_token():
+    a = AuthService()
+    token, msg = a.login("13800000000", "admin123")
+    assert token and msg == "登录成功"
+
+
+def test_login_wrong_password_fails():
+    a = AuthService()
+    token, msg = a.login("13800000000", "wrong")
+    assert token is None and "密码" in msg
+
+
+def test_login_unknown_user_fails():
+    a = AuthService()
+    token, _ = a.login("19900000000", "x")
+    assert token is None
+
+
+def test_password_never_stored_plaintext():
+    a = AuthService()
+    rec = a._users["13800000000"]
+    assert "admin123" not in str(rec)            # 明文不落库
+    assert len(rec["hash"]) == 64 and "salt" in rec  # pbkdf2 哈希 + 盐
+
+
+def test_token_resolves_to_correct_user():
+    a = AuthService()
+    token, _ = a.login("13800000001", "dev123")   # developer @ d1
+    user = a.resolve(token)
+    assert user.id == "u_dev" and user.role == Role.DEVELOPER and user.dept_id == "d1"
+
+
+def test_invalid_token_returns_none():
+    a = AuthService()
+    assert a.resolve("garbage") is None
+    assert a.resolve(None) is None
+
+
+def test_expired_token_rejected():
+    a = AuthService(session_ttl=-1)               # 立即过期
+    token, _ = a.login("13800000000", "admin123")
+    assert a.resolve(token) is None
+
+
+def test_logout_invalidates_token():
+    a = AuthService()
+    token, _ = a.login("13800000000", "admin123")
+    a.logout(token)
+    assert a.resolve(token) is None
+
+
+# ---------- 角色门 ----------
+def test_authorize_role_admin_passes():
+    a = AuthService()
+    user = a.resolve(a.login("13800000000", "admin123")[0])
+    ok, _ = authorize_role(user, [Role.ADMIN])
+    assert ok is True
+
+
+def test_authorize_role_user_denied_admin_endpoint():
+    a = AuthService()
+    user = a.resolve(a.login("13800000003", "user123")[0])  # 普通 user
+    ok, reason = authorize_role(user, [Role.ADMIN])
+    assert ok is False and "需要角色" in reason
+
+
+def test_authorize_role_unauthenticated_denied():
+    ok, reason = authorize_role(None, [Role.ADMIN])
+    assert ok is False and reason == "未认证"
+
+
+def test_dept_admin_role_resolved():
+    a = AuthService()
+    user = a.resolve(a.login("13800000002", "da123")[0])
+    assert user.role == Role.DEPARTMENT_ADMIN and user.dept_id == "d1"
+
+
+# ---------- 微信桩 ----------
+def test_wechat_qr_not_configured_without_appid():
+    # 确保未配置时优雅返回而非崩溃
+    old = os.environ.pop("WECHAT_APPID", None)
+    try:
+        res = wechat_qr()
+        assert res["status"] == "not_configured"
+    finally:
+        if old:
+            os.environ["WECHAT_APPID"] = old
+
+
+def test_wechat_callback_raises_not_implemented():
+    a = AuthService()
+    try:
+        wechat_callback("code", a)
+        assert False, "应抛 NotImplementedError"
+    except NotImplementedError:
+        pass
+
+
+def test_auth_endpoints_if_fastapi_available():
+    """端点级 RBAC 测试：装了 fastapi 才跑（真机），沙箱自动跳过。"""
+    try:
+        from fastapi.testclient import TestClient  # type: ignore
+        from backend.app import app
+    except Exception:
+        return
+    if app is None:
+        return
+    client = TestClient(app)
+    # 登录拿 token
+    r = client.post("/v1/auth/login", json={"phone": "13800000003", "password": "user123"})
+    assert r.status_code == 200
+    token = r.json()["token"]
+    # 带 token 访问 /v1/me
+    me = client.get("/v1/me", headers={"Authorization": f"Bearer {token}"})
+    assert me.status_code == 200 and me.json()["role"] == "user"
+    # 普通 user 访问 admin 专属端点 → 403
+    av = client.get("/v1/audit/verify", headers={"Authorization": f"Bearer {token}"})
+    assert av.status_code == 403
+    # 未认证访问 /v1/me → 401
+    assert client.get("/v1/me").status_code == 401
+    # admin 登录后可访问 audit/verify
+    at = client.post("/v1/auth/login", json={"phone": "13800000000", "password": "admin123"}).json()["token"]
+    assert client.get("/v1/audit/verify", headers={"Authorization": f"Bearer {at}"}).status_code == 200
+
+
+# ---------- 自助注册（强制 user 角色） ----------
+def test_register_self_success_returns_token():
+    a = AuthService()
+    token, msg = a.register_self("13900000001", "secret6")
+    assert token and a.resolve(token).role == Role.USER  # 强制 user
+
+
+def test_register_self_forces_user_role():
+    a = AuthService()
+    token, _ = a.register_self("13900000002", "secret6")
+    u = a.resolve(token)
+    assert u.role == Role.USER  # 即便将来客户端想传 admin，也只会是 user
+
+
+def test_register_duplicate_phone_rejected():
+    a = AuthService()
+    a.register_self("13900000003", "secret6")
+    token, msg = a.register_self("13900000003", "secret6")
+    assert token is None and "已注册" in msg
+
+
+def test_register_validates_phone_and_password():
+    a = AuthService()
+    assert a.register_self("abc", "secret6")[0] is None        # 手机号非法
+    assert a.register_self("13900000004", "123")[0] is None    # 密码太短
+
+
+def test_register_then_login_works():
+    a = AuthService()
+    a.register_self("13900000005", "secret6")
+    token, _ = a.login("13900000005", "secret6")
+    assert token is not None

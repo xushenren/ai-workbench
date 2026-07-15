@@ -1,1 +1,201 @@
-IiIiCmV4cGVydF9yb3V0ZXIucHkg4oCUIEtpbWkg5aSa5LiT5a6257O757uf5pa55rOV6K6655qE6JC95Zyw77yI5LiT5a626Lev55SxIC8g6Zq+5bqm5YiG57qnIC8gU2tpbGwg5rOo5YWl77yJCgrkuInnuqflj6zlm57vvIjlr7nlupQgc3BlYyDku7vliqEz77yJ77yaCiAgTDEg6KeE5YiZ5Yy56YWNICAgVEYtSURGL+WFs+mUruivjSAgIDwxbXMgICDlkb3kuK3ljbPlrprot6/nlLEKICBMMiDor63kuYnot6/nlLEgICBiZ2UtbTMgKyDkvZnlvKYgICAgfjEwbXMgIOWPliB0b3AgU2tpbGzvvJvkuI3noa7lrprliJnlpJogU2tpbGwg5bm26KGMCiAgTDMgTExNIOehruiupCAgIOWwj+aooeWei+S4gOasoeWIpOWumiAgIH4zMDBtcyDku4XlnKggTDEvTDIg572u5L+h5bqm5LiN6Laz5pe26Kem5Y+RCgrovpPlh7rvvJrpgInkuK3nmoQgc2tpbGxfaWQg5YiX6KGoICsg5rOo5YWl55So55qEIFN5c3RlbSBQcm9tcHTvvIjlkKsgQXJ0aWZhY3RzIOS6p+WHuue6puWumu+8ieOAggrkuJPlrrblupMgPSAxNCDkuJPkuJrln7rluqcgU2tpbGwgw5cgMTQg6KGM5Lia6YCC6YWNIMOXIDE1IOS6pOWPieS4k+mhue+8jOe7n+S4gOaKveixoeS4uiBFeHBlcnTjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCBtYXRoCmltcG9ydCByZQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBDYWxsYWJsZSwgT3B0aW9uYWwKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg5LiT5a625a6a5LmJ77ya5oqKIFNraWxsIC8g6KGM5LiaIC8g5Lqk5Y+J57uf5LiA5oiQIEV4cGVydAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCkBkYXRhY2xhc3MKY2xhc3MgRXhwZXJ0OgogICAgaWQ6IHN0cgogICAgbmFtZTogc3RyCiAgICBraW5kOiBzdHIgICAgICAgICAgICAgICAgICAgICAjICJza2lsbCIgfCAiaW5kdXN0cnkiIHwgImNyb3NzIgogICAga2V5d29yZHM6IGxpc3Rbc3RyXSAgICAgICAgICAgIyBMMSDop4TliJnljLnphY3nlKgKICAgIHN5c3RlbV9wcm9tcHQ6IHN0ciAgICAgICAgICAgICMg5ZG95Lit5ZCO5rOo5YWlCiAgICBkZXB0aDogaW50ID0gMyAgICAgICAgICAgICAgICAjIOKXj+KXj+KXjz0zIC8g4peP4peL4peLPTHvvIzpmr7luqbliIbnuqfkuI7otKjph4/pooTmnJ/nlKgKICAgIGVtYmVkZGluZzogT3B0aW9uYWxbbGlzdFtmbG9hdF1dID0gTm9uZSAgIyBMMiDor63kuYnljLnphY3nlKjvvIjlu7bov5/orqHnrpfvvIkKCgpAZGF0YWNsYXNzCmNsYXNzIFJvdXRlUmVzdWx0OgogICAgZXhwZXJ0czogbGlzdFtFeHBlcnRdCiAgICBsZXZlbDogc3RyICAgICAgICAgICAgICAgICAgICAjICJMMSIgfCAiTDIiIHwgIkwzIiB8ICJmYWxsYmFjayIKICAgIGNvbmZpZGVuY2U6IGZsb2F0CiAgICBkaWZmaWN1bHR5OiBzdHIgICAgICAgICAgICAgICAjICJlYXN5IiB8ICJtZWRpdW0iIHwgImhhcmQiCiAgICBpbmplY3RlZF9zeXN0ZW06IHN0cgoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKIyDkuJPlrrblupPliqDovb3vvJrku44gc3BlYyDnrKzlha3oioLnu5nnmoTot6/lvoTor7vlj5YgU2tpbGwg5paH5Lu2CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKY2xhc3MgRXhwZXJ0UmVnaXN0cnk6CiAgICAiIiIKICAgIOe6puWumuebruW9lee7k+aehO+8iOaMieS9oOaWueWunumZhei3r+W+hOiwg+aVtCBiYXNl77yJ77yaCiAgICAgIGJhc2Uvc2tpbGxzLzAxLeeuoemBk+aWveW3pS5tZCAuLi4gMTQt5Zut5p6X57u/5YyWLm1kCiAgICAgIGJhc2UvaW5kdXN0cnkvKi5tZAogICAgICBiYXNlL2Nyb3NzLyoubWQKICAgIOavj+S4quaWh+S7tiBmcm9udG1hdHRlciDlj6/lkKsga2V5d29yZHPvvJvnvLrnnIHml7bnlKjmlofku7blkI0gKyDmoIfpopjmir3lj5blhbPplK7or43jgIIKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBiYXNlOiBzdHIgfCBQYXRoLCBlbWJlZDogT3B0aW9uYWxbQ2FsbGFibGVbW3N0cl0sIGxpc3RbZmxvYXRdXV0gPSBOb25lKToKICAgICAgICBzZWxmLmJhc2UgPSBQYXRoKGJhc2UpCiAgICAgICAgc2VsZi5lbWJlZCA9IGVtYmVkCiAgICAgICAgc2VsZi5leHBlcnRzOiBkaWN0W3N0ciwgRXhwZXJ0XSA9IHt9CgogICAgZGVmIGxvYWQoc2VsZikgLT4gIkV4cGVydFJlZ2lzdHJ5IjoKICAgICAgICBmb3Iga2luZCwgc3ViIGluICgoInNraWxsIiwgInNraWxscyIpLCAoImluZHVzdHJ5IiwgImluZHVzdHJ5IiksICgiY3Jvc3MiLCAiY3Jvc3MiKSk6CiAgICAgICAgICAgIGQgPSBzZWxmLmJhc2UgLyBzdWIKICAgICAgICAgICAgaWYgbm90IGQuZXhpc3RzKCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBmb3IgZiBpbiBzb3J0ZWQoZC5nbG9iKCIqLm1kIikpOgogICAgICAgICAgICAgICAgbWV0YSwgYm9keSA9IHNlbGYuX3BhcnNlKGYucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgICAgICAgICAgICAgZWlkID0gbWV0YS5nZXQoImlkIikgb3IgZi5zdGVtCiAgICAgICAgICAgICAgICBzZWxmLmV4cGVydHNbZWlkXSA9IEV4cGVydCgKICAgICAgICAgICAgICAgICAgICBpZD1laWQsCiAgICAgICAgICAgICAgICAgICAgbmFtZT1tZXRhLmdldCgibmFtZSIsIGYuc3RlbSksCiAgICAgICAgICAgICAgICAgICAga2luZD1raW5kLAogICAgICAgICAgICAgICAgICAgIGtleXdvcmRzPW1ldGEuZ2V0KCJrZXl3b3JkcyIpIG9yIHNlbGYuX2F1dG9fa2V5d29yZHMoZi5zdGVtLCBib2R5KSwKICAgICAgICAgICAgICAgICAgICBzeXN0ZW1fcHJvbXB0PWJvZHkuc3RyaXAoKSwKICAgICAgICAgICAgICAgICAgICBkZXB0aD1pbnQobWV0YS5nZXQoImRlcHRoIiwgMykpLAogICAgICAgICAgICAgICAgKQogICAgICAgICMg6aKE6K6h566XIGVtYmVkZGluZ++8iOiLpeazqOWFpeS6hiBiZ2UtbTPvvIkKICAgICAgICBpZiBzZWxmLmVtYmVkOgogICAgICAgICAgICBmb3IgZSBpbiBzZWxmLmV4cGVydHMudmFsdWVzKCk6CiAgICAgICAgICAgICAgICBlLmVtYmVkZGluZyA9IHNlbGYuZW1iZWQoZS5uYW1lICsgIiAiICsgIiAiLmpvaW4oZS5rZXl3b3JkcykpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX3BhcnNlKHRleHQ6IHN0cikgLT4gdHVwbGVbZGljdCwgc3RyXToKICAgICAgICBpZiB0ZXh0LnN0YXJ0c3dpdGgoIi0tLSIpOgogICAgICAgICAgICBfLCBmbSwgYm9keSA9IHRleHQuc3BsaXQoIi0tLSIsIDIpCiAgICAgICAgICAgIG1ldGEgPSB7fQogICAgICAgICAgICBmb3IgbGluZSBpbiBmbS5zdHJpcCgpLnNwbGl0bGluZXMoKToKICAgICAgICAgICAgICAgIGlmICI6IiBpbiBsaW5lOgogICAgICAgICAgICAgICAgICAgIGssIHYgPSBsaW5lLnNwbGl0KCI6IiwgMSkKICAgICAgICAgICAgICAgICAgICB2ID0gdi5zdHJpcCgpCiAgICAgICAgICAgICAgICAgICAgbWV0YVtrLnN0cmlwKCldID0ganNvbi5sb2Fkcyh2KSBpZiB2LnN0YXJ0c3dpdGgoIlsiKSBlbHNlIHYKICAgICAgICAgICAgcmV0dXJuIG1ldGEsIGJvZHkKICAgICAgICByZXR1cm4ge30sIHRleHQKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2F1dG9fa2V5d29yZHMoc3RlbTogc3RyLCBib2R5OiBzdHIpIC0+IGxpc3Rbc3RyXToKICAgICAgICAjIOWPluaWh+S7tuWQjeWIhuivjSArIOato+aWh+mrmOmikeS4reaWh+WPjOWtl+ivje+8jOS9nOS4uuWFnOW6leWFs+mUruivjQogICAgICAgIGJhc2UgPSByZS5maW5kYWxsKHIiW1x1NGUwMC1cdTlmYTVdezIsfSIsIHN0ZW0pCiAgICAgICAgZ3JhbXMgPSByZS5maW5kYWxsKHIiW1x1NGUwMC1cdTlmYTVdezIsNH0iLCBib2R5WzoyMDAwXSkKICAgICAgICBjb21tb24gPSBbdyBmb3IgdywgXyBpbiBDb3VudGVyKGdyYW1zKS5tb3N0X2NvbW1vbigxMildCiAgICAgICAgcmV0dXJuIGxpc3QoZGljdC5mcm9ta2V5cyhiYXNlICsgY29tbW9uKSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg5LiJ57qn5Y+s5Zue6Lev55SxCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKZGVmIF9jb3NpbmUoYSwgYikgLT4gZmxvYXQ6CiAgICBpZiBub3QgYSBvciBub3QgYjoKICAgICAgICByZXR1cm4gMC4wCiAgICBkb3QgPSBzdW0oeCAqIHkgZm9yIHgsIHkgaW4gemlwKGEsIGIpKQogICAgbmEgPSBtYXRoLnNxcnQoc3VtKHggKiB4IGZvciB4IGluIGEpKTsgbmIgPSBtYXRoLnNxcnQoc3VtKHkgKiB5IGZvciB5IGluIGIpKQogICAgcmV0dXJuIGRvdCAvIChuYSAqIG5iKSBpZiBuYSBhbmQgbmIgZWxzZSAwLjAKCgojIEFydGlmYWN0cyDkuqflh7rnuqblrprvvJrms6jlhaXliLDmr4/kuKrkuJPlrrYgU3lzdGVtIFByb21wdCDmnKvlsL7vvIzorqnmqKHlnovnn6XpgZPkvZXml7bkuqflh7ogYXJ0aWZhY3QKQVJUSUZBQ1RfUFJPVE9DT0wgPSAiIiIKCuOAkOS6p+WHuuinhOiMg+OAkeW9k+WbnuetlOWMheWQq+WPr+eLrOeri+S/neWtmC/lpI3nlKjnmoTmiJDmnpzvvIg+MjAg6KGM5Luj56CB44CB5pa95bel5pa55qGI44CB6K6h566X5Lmm44CB6KGo5qC844CB5rWB56iL5Zu+44CB5riF5Y2V77yJ77yMCueUqOWmguS4i+WbtOagj+WMheijue+8jOS+v+S6juW5s+WPsOaKveWPluS4uiBBcnRpZmFjdO+8m+aZrumAmuino+mHiuaAp+aWh+Wtl+S/neaMgeato+aWh++8jOS4jeimgeWMheijue+8mgpgYGBhcnRpZmFjdDp7dHlwZX0gdGl0bGU9Iuagh+mimCIKPOWGheWuuT4KYGBgCnR5cGUg4oiIIGNvZGV8bWFya2Rvd258dGFibGV8bWVybWFpZHxjYWxj44CC5q+P5LiqIGFydGlmYWN0IOiHquW4puWujOaVtOS4iuS4i+aWh++8jOWPr+iEseemu+WvueivneeLrOeri+mYheivu+OAggoiIiIKCgpAZGF0YWNsYXNzCmNsYXNzIEV4cGVydFJvdXRlcjoKICAgIHJlZ2lzdHJ5OiBFeHBlcnRSZWdpc3RyeQogICAgZW1iZWQ6IE9wdGlvbmFsW0NhbGxhYmxlW1tzdHJdLCBsaXN0W2Zsb2F0XV1dID0gTm9uZSAgICAgICMgYmdlLW0zCiAgICBsbG1fY29uZmlybTogT3B0aW9uYWxbQ2FsbGFibGVbW3N0ciwgbGlzdFtFeHBlcnRdXSwgc3RyXV0gPSBOb25lICAjIOWwj+aooeWei+ehruiupO+8jOi/lOWbniBleHBlcnRfaWQKICAgIGwxX21pbl9oaXRzOiBpbnQgPSAyCiAgICBsMl90aHJlc2hvbGQ6IGZsb2F0ID0gMC41NQogICAgbDJfYW1iaWd1b3VzX2dhcDogZmxvYXQgPSAwLjA4ICAgIyB0b3AxIOS4jiB0b3AyIOW3rui3neWwj+S6juatpOWAvCDihpIg6KeG5Li65LiN56Gu5a6aCiAgICBmaWVsZF9jYWNoZTogZGljdCA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1kaWN0KQoKICAgIGRlZiByb3V0ZShzZWxmLCBxdWVyeTogc3RyLCBpbmR1c3RyeV9oaW50OiBPcHRpb25hbFtzdHJdID0gTm9uZSkgLT4gUm91dGVSZXN1bHQ6CiAgICAgICAgZXhwZXJ0cyA9IGxpc3Qoc2VsZi5yZWdpc3RyeS5leHBlcnRzLnZhbHVlcygpKQoKICAgICAgICAjIC0tLS0gTDEg6KeE5YiZ5Yy56YWNIC0tLS0KICAgICAgICBxID0gcXVlcnkubG93ZXIoKQogICAgICAgIGwxID0gW10KICAgICAgICBmb3IgZSBpbiBleHBlcnRzOgogICAgICAgICAgICBoaXRzID0gc3VtKDEgZm9yIGsgaW4gZS5rZXl3b3JkcyBpZiBrLmxvd2VyKCkgaW4gcSkKICAgICAgICAgICAgaWYgaGl0czoKICAgICAgICAgICAgICAgIGwxLmFwcGVuZCgoaGl0cywgZSkpCiAgICAgICAgbDEuc29ydChrZXk9bGFtYmRhIHg6IHhbMF0sIHJldmVyc2U9VHJ1ZSkKICAgICAgICBpZiBsMSBhbmQgbDFbMF1bMF0gPj0gc2VsZi5sMV9taW5faGl0cyBhbmQgKGxlbihsMSkgPT0gMSBvciBsMVswXVswXSA+IGwxWzFdWzBdKToKICAgICAgICAgICAgY2hvc2VuID0gW2wxWzBdWzFdXQogICAgICAgICAgICByZXR1cm4gc2VsZi5fZmluaXNoKGNob3NlbiwgIkwxIiwgbWluKDEuMCwgbDFbMF1bMF0gLyA0KSwgcXVlcnkpCgogICAgICAgICMgLS0tLSBMMiDor63kuYnot6/nlLEgLS0tLQogICAgICAgIGlmIHNlbGYuZW1iZWQ6CiAgICAgICAgICAgIHF2ID0gc2VsZi5lbWJlZChxdWVyeSkKICAgICAgICAgICAgc2NvcmVkID0gc29ydGVkKAogICAgICAgICAgICAgICAgKChfY29zaW5lKHF2LCBlLmVtYmVkZGluZyksIGUpIGZvciBlIGluIGV4cGVydHMgaWYgZS5lbWJlZGRpbmcpLAogICAgICAgICAgICAgICAga2V5PWxhbWJkYSB4OiB4WzBdLCByZXZlcnNlPVRydWUsCiAgICAgICAgICAgICkKICAgICAgICAgICAgaWYgc2NvcmVkIGFuZCBzY29yZWRbMF1bMF0gPj0gc2VsZi5sMl90aHJlc2hvbGQ6CiAgICAgICAgICAgICAgICB0b3AgPSBzY29yZWRbMF0KICAgICAgICAgICAgICAgIGdhcCA9IHRvcFswXSAtIChzY29yZWRbMV1bMF0gaWYgbGVuKHNjb3JlZCkgPiAxIGVsc2UgMCkKICAgICAgICAgICAgICAgIGlmIGdhcCA+PSBzZWxmLmwyX2FtYmlndW91c19nYXA6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2ZpbmlzaChbdG9wWzFdXSwgIkwyIiwgdG9wWzBdLCBxdWVyeSkKICAgICAgICAgICAgICAgICMg5LiN56Gu5a6aIOKGkiDlj5blubbliJcgdG9w77yI5aSa5LiT5a625bm26KGM77yJ77yM5Lqk57uZIEwzIOaIluebtOaOpeWQiOW5tgogICAgICAgICAgICAgICAgY2FuZGlkYXRlcyA9IFtlIGZvciBzLCBlIGluIHNjb3JlZFs6M10gaWYgcyA+PSBzZWxmLmwyX3RocmVzaG9sZCAtIDAuMDVdCiAgICAgICAgICAgICAgICBpZiBzZWxmLmxsbV9jb25maXJtOgogICAgICAgICAgICAgICAgICAgIGVpZCA9IHNlbGYubGxtX2NvbmZpcm0ocXVlcnksIGNhbmRpZGF0ZXMpCiAgICAgICAgICAgICAgICAgICAgcGljayA9IHNlbGYucmVnaXN0cnkuZXhwZXJ0cy5nZXQoZWlkLCBjYW5kaWRhdGVzWzBdKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLl9maW5pc2goW3BpY2tdLCAiTDMiLCB0b3BbMF0sIHF1ZXJ5KQogICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2ZpbmlzaChjYW5kaWRhdGVzWzoyXSwgIkwyIiwgdG9wWzBdLCBxdWVyeSkgICMg5aSaIFNraWxsIOW5tuihjAoKICAgICAgICAjIC0tLS0gZmFsbGJhY2vvvJrpgJrnlKjvvIzml6DkuJPlrrbms6jlhaUgLS0tLQogICAgICAgIHJldHVybiBzZWxmLl9maW5pc2goW10sICJmYWxsYmFjayIsIDAuMCwgcXVlcnkpCgogICAgZGVmIF9kaWZmaWN1bHR5KHNlbGYsIHF1ZXJ5OiBzdHIsIGV4cGVydHM6IGxpc3RbRXhwZXJ0XSkgLT4gc3RyOgogICAgICAgICMg6Zq+5bqm5YiG57qn77yIS2ltaSDmuJDov5vmjqjnkIbnlKjvvInvvJrplb/luqYgKyDlpJrkuJPlrrYgKyDmt7HluqbkuJPlrrYg4oaSIOaPkOWNh+mavuW6puahowogICAgICAgIG4gPSBsZW4ocXVlcnkpCiAgICAgICAgbXVsdGkgPSBsZW4oZXhwZXJ0cykgPiAxCiAgICAgICAgZGVlcCA9IGFueShlLmRlcHRoID49IDMgZm9yIGUgaW4gZXhwZXJ0cykKICAgICAgICBzY29yZSA9IChuID4gMTIwKSArIG11bHRpICsgZGVlcCArIGJvb2wocmUuc2VhcmNoKHIi6K6h566XfOagoeaguHzlr7nmr5R85pa55qGIfOS4uuS7gOS5iHzlpoLkvZUiLCBxdWVyeSkpCiAgICAgICAgcmV0dXJuICJoYXJkIiBpZiBzY29yZSA+PSAzIGVsc2UgIm1lZGl1bSIgaWYgc2NvcmUgPj0gMSBlbHNlICJlYXN5IgoKICAgIGRlZiBfZmluaXNoKHNlbGYsIGV4cGVydHM6IGxpc3RbRXhwZXJ0XSwgbGV2ZWw6IHN0ciwgY29uZjogZmxvYXQsIHF1ZXJ5OiBzdHIpIC0+IFJvdXRlUmVzdWx0OgogICAgICAgIGlmIGV4cGVydHM6CiAgICAgICAgICAgIGpvaW5lZCA9ICJcblxuLS0tXG5cbiIuam9pbihmIiMg5LiT5a6277yae2UubmFtZX1cbntlLnN5c3RlbV9wcm9tcHR9IiBmb3IgZSBpbiBleHBlcnRzKQogICAgICAgICAgICBoZWFkZXIgPSBmIuS9oOeOsOWcqOS7peOAjHsgJ+OAgScuam9pbihlLm5hbWUgZm9yIGUgaW4gZXhwZXJ0cykgfeOAjeS4k+Wutui6q+S7veS9nOetlO+8jOWPquWcqOivpeS4k+S4muiMg+WbtOWGhee7meehruWumue7k+iuuuOAgiIKICAgICAgICBlbHNlOgogICAgICAgICAgICBqb2luZWQsIGhlYWRlciA9ICIiLCAi5L2g5piv5py655S15a6J6KOF6aKG5Z+f6YCa55So5Yqp5omL77yM5oyJ6YCa55So5bel56iL6KeE6IyD5L2c562U44CCIgogICAgICAgIGluamVjdGVkID0gZiJ7aGVhZGVyfVxuXG57am9pbmVkfXtBUlRJRkFDVF9QUk9UT0NPTH0iCiAgICAgICAgcmV0dXJuIFJvdXRlUmVzdWx0KAogICAgICAgICAgICBleHBlcnRzPWV4cGVydHMsIGxldmVsPWxldmVsLCBjb25maWRlbmNlPWNvbmYsCiAgICAgICAgICAgIGRpZmZpY3VsdHk9c2VsZi5fZGlmZmljdWx0eShxdWVyeSwgZXhwZXJ0cyksIGluamVjdGVkX3N5c3RlbT1pbmplY3RlZCwKICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHJvdXRlX2tleShyZXN1bHQ6IFJvdXRlUmVzdWx0KSAtPiBzdHI6CiAgICAgICAgIiIi57uZ6K+t5LmJ57yT5a2Y55So55qE6Lev55Sx6ZSu77ya5ZCM6Lev55Sx5omN5YWB6K645aSN55So57yT5a2Y44CCIiIiCiAgICAgICAgcmV0dXJuICJ8Ii5qb2luKHNvcnRlZChlLmlkIGZvciBlIGluIHJlc3VsdC5leHBlcnRzKSkgb3IgImZhbGxiYWNrIgo=
+"""
+expert_router.py — Kimi 多专家系统方法论的落地（专家路由 / 难度分级 / Skill 注入）
+
+三级召回（对应 spec 任务3）：
+  L1 规则匹配   TF-IDF/关键词   <1ms   命中即定路由
+  L2 语义路由   bge-m3 + 余弦    ~10ms  取 top Skill；不确定则多 Skill 并行
+  L3 LLM 确认   小模型一次判定   ~300ms 仅在 L1/L2 置信度不足时触发
+
+输出：选中的 skill_id 列表 + 注入用的 System Prompt（含 Artifacts 产出约定）。
+专家库 = 14 专业基座 Skill × 14 行业适配 × 15 交叉专项，统一抽象为 Expert。
+"""
+from __future__ import annotations
+
+import json
+import math
+import re
+from collections import Counter
+from dataclasses import dataclass, field
+from pathlib import Path
+from typing import Callable, Optional
+
+
+# --------------------------------------------------------------------------- #
+# 专家定义：把 Skill / 行业 / 交叉统一成 Expert
+# --------------------------------------------------------------------------- #
+@dataclass
+class Expert:
+    id: str
+    name: str
+    kind: str                     # "skill" | "industry" | "cross"
+    keywords: list[str]           # L1 规则匹配用
+    system_prompt: str            # 命中后注入
+    depth: int = 3                # ●●●=3 / ●○○=1，难度分级与质量预期用
+    embedding: Optional[list[float]] = None  # L2 语义匹配用（延迟计算）
+
+
+@dataclass
+class RouteResult:
+    experts: list[Expert]
+    level: str                    # "L1" | "L2" | "L3" | "fallback"
+    confidence: float
+    difficulty: str               # "easy" | "medium" | "hard"
+    injected_system: str
+
+
+# --------------------------------------------------------------------------- #
+# 专家库加载：从 spec 第六节给的路径读取 Skill 文件
+# --------------------------------------------------------------------------- #
+class ExpertRegistry:
+    """
+    约定目录结构（按你方实际路径调整 base）：
+      base/skills/01-管道施工.md ... 14-园林绿化.md
+      base/industry/*.md
+      base/cross/*.md
+    每个文件 frontmatter 可含 keywords；缺省时用文件名 + 标题抽取关键词。
+    """
+
+    def __init__(self, base: str | Path, embed: Optional[Callable[[str], list[float]]] = None):
+        self.base = Path(base)
+        self.embed = embed
+        self.experts: dict[str, Expert] = {}
+
+    def load(self) -> "ExpertRegistry":
+        for kind, sub in (("skill", "skills"), ("industry", "industry"), ("cross", "cross")):
+            d = self.base / sub
+            if not d.exists():
+                continue
+            for f in sorted(d.glob("*.md")):
+                meta, body = self._parse(f.read_text(encoding="utf-8"))
+                eid = meta.get("id") or f.stem
+                self.experts[eid] = Expert(
+                    id=eid,
+                    name=meta.get("name", f.stem),
+                    kind=kind,
+                    keywords=meta.get("keywords") or self._auto_keywords(f.stem, body),
+                    system_prompt=body.strip(),
+                    depth=int(meta.get("depth", 3)),
+                )
+        # 预计算 embedding（若注入了 bge-m3）
+        if self.embed:
+            for e in self.experts.values():
+                e.embedding = self.embed(e.name + " " + " ".join(e.keywords))
+        return self
+
+    @staticmethod
+    def _parse(text: str) -> tuple[dict, str]:
+        if text.startswith("---"):
+            _, fm, body = text.split("---", 2)
+            meta = {}
+            for line in fm.strip().splitlines():
+                if ":" in line:
+                    k, v = line.split(":", 1)
+                    v = v.strip()
+                    meta[k.strip()] = json.loads(v) if v.startswith("[") else v
+            return meta, body
+        return {}, text
+
+    @staticmethod
+    def _auto_keywords(stem: str, body: str) -> list[str]:
+        # 取文件名分词 + 正文高频中文双字词，作为兜底关键词
+        base = re.findall(r"[\u4e00-\u9fa5]{2,}", stem)
+        grams = re.findall(r"[\u4e00-\u9fa5]{2,4}", body[:2000])
+        common = [w for w, _ in Counter(grams).most_common(12)]
+        return list(dict.fromkeys(base + common))
+
+
+# --------------------------------------------------------------------------- #
+# 三级召回路由
+# --------------------------------------------------------------------------- #
+def _cosine(a, b) -> float:
+    if not a or not b:
+        return 0.0
+    dot = sum(x * y for x, y in zip(a, b))
+    na = math.sqrt(sum(x * x for x in a)); nb = math.sqrt(sum(y * y for y in b))
+    return dot / (na * nb) if na and nb else 0.0
+
+
+# Artifacts 产出约定：注入到每个专家 System Prompt 末尾，让模型知道何时产出 artifact
+ARTIFACT_PROTOCOL = """
+
+【产出规范】当回答包含可独立保存/复用的成果（>20 行代码、施工方案、计算书、表格、流程图、清单），
+用如下围栏包裹，便于平台抽取为 Artifact；普通解释性文字保持正文，不要包裹：
+```artifact:{type} title="标题"
+<内容>
+```
+type ∈ code|markdown|table|mermaid|calc。每个 artifact 自带完整上下文，可脱离对话独立阅读。
+"""
+
+
+@dataclass
+class ExpertRouter:
+    registry: ExpertRegistry
+    embed: Optional[Callable[[str], list[float]]] = None      # bge-m3
+    llm_confirm: Optional[Callable[[str, list[Expert]], str]] = None  # 小模型确认，返回 expert_id
+    l1_min_hits: int = 2
+    l2_threshold: float = 0.55
+    l2_ambiguous_gap: float = 0.08   # top1 与 top2 差距小于此值 → 视为不确定
+    field_cache: dict = field(default_factory=dict)
+
+    def route(self, query: str, industry_hint: Optional[str] = None) -> RouteResult:
+        experts = list(self.registry.experts.values())
+
+        # ---- L1 规则匹配 ----
+        q = query.lower()
+        l1 = []
+        for e in experts:
+            hits = sum(1 for k in e.keywords if k.lower() in q)
+            if hits:
+                l1.append((hits, e))
+        l1.sort(key=lambda x: x[0], reverse=True)
+        if l1 and l1[0][0] >= self.l1_min_hits and (len(l1) == 1 or l1[0][0] > l1[1][0]):
+            chosen = [l1[0][1]]
+            return self._finish(chosen, "L1", min(1.0, l1[0][0] / 4), query)
+
+        # ---- L2 语义路由 ----
+        if self.embed:
+            qv = self.embed(query)
+            scored = sorted(
+                ((_cosine(qv, e.embedding), e) for e in experts if e.embedding),
+                key=lambda x: x[0], reverse=True,
+            )
+            if scored and scored[0][0] >= self.l2_threshold:
+                top = scored[0]
+                gap = top[0] - (scored[1][0] if len(scored) > 1 else 0)
+                if gap >= self.l2_ambiguous_gap:
+                    return self._finish([top[1]], "L2", top[0], query)
+                # 不确定 → 取并列 top（多专家并行），交给 L3 或直接合并
+                candidates = [e for s, e in scored[:3] if s >= self.l2_threshold - 0.05]
+                if self.llm_confirm:
+                    eid = self.llm_confirm(query, candidates)
+                    pick = self.registry.experts.get(eid, candidates[0])
+                    return self._finish([pick], "L3", top[0], query)
+                return self._finish(candidates[:2], "L2", top[0], query)  # 多 Skill 并行
+
+        # ---- fallback：通用，无专家注入 ----
+        return self._finish([], "fallback", 0.0, query)
+
+    def _difficulty(self, query: str, experts: list[Expert]) -> str:
+        # 难度分级（Kimi 渐进推理用）：长度 + 多专家 + 深度专家 → 提升难度档
+        n = len(query)
+        multi = len(experts) > 1
+        deep = any(e.depth >= 3 for e in experts)
+        score = (n > 120) + multi + deep + bool(re.search(r"计算|校核|对比|方案|为什么|如何", query))
+        return "hard" if score >= 3 else "medium" if score >= 1 else "easy"
+
+    def _finish(self, experts: list[Expert], level: str, conf: float, query: str) -> RouteResult:
+        if experts:
+            joined = "\n\n---\n\n".join(f"# 专家：{e.name}\n{e.system_prompt}" for e in experts)
+            header = f"你现在以「{ '、'.join(e.name for e in experts) }」专家身份作答，只在该专业范围内给确定结论。"
+        else:
+            joined, header = "", "你是机电安装领域通用助手，按通用工程规范作答。"
+        injected = f"{header}\n\n{joined}{ARTIFACT_PROTOCOL}"
+        return RouteResult(
+            experts=experts, level=level, confidence=conf,
+            difficulty=self._difficulty(query, experts), injected_system=injected,
+        )
+
+    @staticmethod
+    def route_key(result: RouteResult) -> str:
+        """给语义缓存用的路由键：同路由才允许复用缓存。"""
+        return "|".join(sorted(e.id for e in result.experts)) or "fallback"

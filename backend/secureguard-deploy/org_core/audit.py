@@ -1,1 +1,41 @@
-IiIiCm9yZ19jb3JlLmF1ZGl0IOKAlCDlrqHorqHlk4jluIzpk74o5YWo5bGA5Y+v6KeB44CB5LiN5Y+v56+h5pS544CB6ZSa5a6a55yf5Lq6K+WtkOi0puWPtynjgIIKCuavj+adoeWuoeiuoeeahCBoYXNoID0gc2hhMjU2KHByZXZfaGFzaCArIOWFs+mUruWtl+autSks6ZO+5byP5Liy6IGUOuaUueS7u+S4gOadoSzlkI7nu63lhajlr7nkuI3kuIrjgIIK5a6h6K6h5piv5bqV5bqn6IO95YqbLOawuOi/nOW8gCzkuI3ov5vlj6/phY3pobnjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBoYXNobGliCmltcG9ydCB1dWlkCgpmcm9tIC5tb2RlbHMgaW1wb3J0IEF1ZGl0RW50cnkKZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgUmVwb3MKCgpkZWYgX2RpZ2VzdChwcmV2OiBzdHIsIGU6IEF1ZGl0RW50cnkpIC0+IHN0cjoKICAgIHJhdyA9IGYie3ByZXZ9fHtlLnRlbmFudF9pZH18e2UudXNlcl9pZH18e2UuZ3JhbnRfaWR9fHtlLmFjdGlvbn18e2UudGFyZ2V0fXx7ZS5va318e2UudHN9IgogICAgcmV0dXJuIGhhc2hsaWIuc2hhMjU2KHJhdy5lbmNvZGUoInV0Zi04IikpLmhleGRpZ2VzdCgpCgoKZGVmIHdyaXRlX2F1ZGl0KHJlcG86IFJlcG9zLCAqLCB0ZW5hbnRfaWQ6IHN0ciwgdXNlcl9pZDogc3RyLCBncmFudF9pZDogc3RyIHwgTm9uZSwKICAgICAgICAgICAgICAgIGFjdGlvbjogc3RyLCB0YXJnZXQ6IHN0ciwgb2s6IGJvb2wsIHJlYXNvbjogc3RyID0gIiIpIC0+IEF1ZGl0RW50cnk6CiAgICBwcmV2ID0gcmVwby5sYXN0X2F1ZGl0X2hhc2godGVuYW50X2lkKQogICAgZSA9IEF1ZGl0RW50cnkoCiAgICAgICAgaWQ9dXVpZC51dWlkNCgpLmhleCwgdGVuYW50X2lkPXRlbmFudF9pZCwgdXNlcl9pZD11c2VyX2lkLCBncmFudF9pZD1ncmFudF9pZCwKICAgICAgICBhY3Rpb249YWN0aW9uLCB0YXJnZXQ9dGFyZ2V0LCBvaz1vaywgcmVhc29uPXJlYXNvbiwgcHJldl9oYXNoPXByZXYsCiAgICApCiAgICBlLmhhc2ggPSBfZGlnZXN0KHByZXYsIGUpCiAgICByZXBvLmFwcGVuZF9hdWRpdChlKQogICAgcmV0dXJuIGUKCgpkZWYgdmVyaWZ5X2NoYWluKHJlcG86IFJlcG9zLCB0ZW5hbnRfaWQ6IHN0cikgLT4gYm9vbDoKICAgICIiIuagoemqjOWuoeiuoemTvuWujOaVtOaApyjpgIbluo/mi4nlj5blkI7mraPluo/pqozor4Ep44CCIiIiCiAgICBlbnRyaWVzID0gbGlzdChyZXZlcnNlZChyZXBvLmxpc3RfYXVkaXQodGVuYW50X2lkLCBsaW1pdD0xMF8wMDApKSkKICAgIHByZXYgPSAiIgogICAgZm9yIGUgaW4gZW50cmllczoKICAgICAgICBpZiBlLnByZXZfaGFzaCAhPSBwcmV2IG9yIGUuaGFzaCAhPSBfZGlnZXN0KHByZXYsIGUpOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBwcmV2ID0gZS5oYXNoCiAgICByZXR1cm4gVHJ1ZQo=
+"""
+org_core.audit — 审计哈希链(全局可见、不可篡改、锚定真人+子账号)。
+
+每条审计的 hash = sha256(prev_hash + 关键字段),链式串联:改任一条,后续全对不上。
+审计是底座能力,永远开,不进可配项。
+"""
+from __future__ import annotations
+
+import hashlib
+import uuid
+
+from .models import AuditEntry
+from .repository import Repos
+
+
+def _digest(prev: str, e: AuditEntry) -> str:
+    raw = f"{prev}|{e.tenant_id}|{e.user_id}|{e.grant_id}|{e.action}|{e.target}|{e.ok}|{e.ts}"
+    return hashlib.sha256(raw.encode("utf-8")).hexdigest()
+
+
+def write_audit(repo: Repos, *, tenant_id: str, user_id: str, grant_id: str | None,
+                action: str, target: str, ok: bool, reason: str = "") -> AuditEntry:
+    prev = repo.last_audit_hash(tenant_id)
+    e = AuditEntry(
+        id=uuid.uuid4().hex, tenant_id=tenant_id, user_id=user_id, grant_id=grant_id,
+        action=action, target=target, ok=ok, reason=reason, prev_hash=prev,
+    )
+    e.hash = _digest(prev, e)
+    repo.append_audit(e)
+    return e
+
+
+def verify_chain(repo: Repos, tenant_id: str) -> bool:
+    """校验审计链完整性(逆序拉取后正序验证)。"""
+    entries = list(reversed(repo.list_audit(tenant_id, limit=10_000)))
+    prev = ""
+    for e in entries:
+        if e.prev_hash != prev or e.hash != _digest(prev, e):
+            return False
+        prev = e.hash
+    return True

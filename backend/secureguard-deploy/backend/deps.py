@@ -1,1 +1,62 @@
-IiIiYmFja2VuZC5kZXBzIOKAlCBGYXN0QVBJIOiupOivgS/mjojmnYPkvp3otZbvvIhCMiDnmoQgV2ViIOe7keWumuWxgu+8ieOAggoKaW1wb3J0LWd1YXJkZWTvvJrml6AgZmFzdGFwaSDml7bmnKzmqKHlnZfku43lj6/lr7zlhaXjgILnnJ/mraPnmoTorqTor4HpgLvovpHlnKggYXV0aC5wee+8iOW3sua1i++8ie+8jArov5nph4zlj6rmmK/miorlroPmjqXmiJAgRmFzdEFQSSDnmoQgRGVwZW5kc+OAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCgpmcm9tIHNlY3VyZWd1YXJkLnBlcm1pc3Npb25zIGltcG9ydCBVc2VyLCBSb2xlCmZyb20gLmF1dGggaW1wb3J0IGF1dGhvcml6ZV9yb2xlCgp0cnk6CiAgICBmcm9tIGZhc3RhcGkgaW1wb3J0IEhlYWRlciwgSFRUUEV4Y2VwdGlvbiwgRGVwZW5kcyAgIyB0eXBlOiBpZ25vcmUKICAgIF9GQVNUQVBJID0gVHJ1ZQpleGNlcHQgRXhjZXB0aW9uOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICBfRkFTVEFQSSA9IEZhbHNlCgoKZGVmIF90b2tlbl9mcm9tX2hlYWRlcihhdXRob3JpemF0aW9uOiBPcHRpb25hbFtzdHJdKSAtPiBPcHRpb25hbFtzdHJdOgogICAgIiIi5LuOICdBdXRob3JpemF0aW9uOiBCZWFyZXIgeHh4JyDlj5blh7rku6TniYzjgIIiIiIKICAgIGlmIG5vdCBhdXRob3JpemF0aW9uOgogICAgICAgIHJldHVybiBOb25lCiAgICBwYXJ0cyA9IGF1dGhvcml6YXRpb24uc3BsaXQoKQogICAgaWYgbGVuKHBhcnRzKSA9PSAyIGFuZCBwYXJ0c1swXS5sb3dlcigpID09ICJiZWFyZXIiOgogICAgICAgIHJldHVybiBwYXJ0c1sxXQogICAgcmV0dXJuIGF1dGhvcml6YXRpb24gICMg5a655b+N55u05o6l5Lyg6KO4IHRva2VuCgoKaWYgX0ZBU1RBUEk6ICAjIHByYWdtYTogbm8gY292ZXIgLSDpnIAgZmFzdGFwaQogICAgZnJvbSAuYXBwIGltcG9ydCBzdGF0ZQoKICAgIGFzeW5jIGRlZiBnZXRfY2FsbGVyKGF1dGhvcml6YXRpb246IE9wdGlvbmFsW3N0cl0gPSBIZWFkZXIoZGVmYXVsdD1Ob25lKSkgLT4gVXNlcjoKICAgICAgICAiIiLop6PmnpDlvZPliY3nlKjmiLfvvJvmnKrorqTor4HmipsgNDAx44CCIiIiCiAgICAgICAgdXNlciA9IHN0YXRlLmF1dGgucmVzb2x2ZShfdG9rZW5fZnJvbV9oZWFkZXIoYXV0aG9yaXphdGlvbikpCiAgICAgICAgaWYgdXNlciBpcyBOb25lOgogICAgICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKHN0YXR1c19jb2RlPTQwMSwgZGV0YWlsPSLmnKrorqTor4HmiJbkvJror53lt7Lov4fmnJ8iKQogICAgICAgIHJldHVybiB1c2VyCgogICAgYXN5bmMgZGVmIGdldF9jYWxsZXJfb3B0aW9uYWwoYXV0aG9yaXphdGlvbjogT3B0aW9uYWxbc3RyXSA9IEhlYWRlcihkZWZhdWx0PU5vbmUpKSAtPiBPcHRpb25hbFtVc2VyXToKICAgICAgICAiIiLlj6/pgInorqTor4HvvJrmi7/kuI3liLDkuZ/kuI3miqXplJnvvIjlpoLljL/lkI3lj6/nlKjnmoTlr7nor53vvInjgIIiIiIKICAgICAgICByZXR1cm4gc3RhdGUuYXV0aC5yZXNvbHZlKF90b2tlbl9mcm9tX2hlYWRlcihhdXRob3JpemF0aW9uKSkKCiAgICBhc3luYyBkZWYgZ2V0X2NhbGxlcl9ncmFudChhdXRob3JpemF0aW9uOiBPcHRpb25hbFtzdHJdID0gSGVhZGVyKGRlZmF1bHQ9Tm9uZSkpOgogICAgICAgICIiInRva2VuIOKGkiBvcmdfY29yZSDouqvku73vvIh0ZW5hbnQvZ3JhbnQvcGVyc29uL3JvbGUvZGVwdO+8ieOAguaWsOerr+eCueeUqOOAguacquiupOivgeaKmyA0MDHjgIIiIiIKICAgICAgICBpZGVudCA9IHN0YXRlLmlkZW50aXR5LnJlc29sdmVfZ3JhbnQoX3Rva2VuX2Zyb21faGVhZGVyKGF1dGhvcml6YXRpb24pKQogICAgICAgIGlmIGlkZW50IGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oc3RhdHVzX2NvZGU9NDAxLCBkZXRhaWw9IuacquiupOivgeaIluS8muivneW3sui/h+acnyIpCiAgICAgICAgcmV0dXJuIGlkZW50CgogICAgYXN5bmMgZGVmIGdldF9jYWxsZXJfZ3JhbnRfb3B0aW9uYWwoYXV0aG9yaXphdGlvbjogT3B0aW9uYWxbc3RyXSA9IEhlYWRlcihkZWZhdWx0PU5vbmUpKToKICAgICAgICAiIiLlj6/pgInvvJrljL/lkI3vvIjlpoLlr7nlpJYgYm9077yJ6L+U5ZueIE5vbmXjgIIiIiIKICAgICAgICByZXR1cm4gc3RhdGUuaWRlbnRpdHkucmVzb2x2ZV9ncmFudChfdG9rZW5fZnJvbV9oZWFkZXIoYXV0aG9yaXphdGlvbikpCgogICAgZGVmIHJlcXVpcmVfcm9sZSgqYWxsb3dlZDogUm9sZSk6CiAgICAgICAgIiIi5L6d6LWW5bel5Y6C77ya6KaB5rGC6LCD55So6ICF5bGe5LqO5oyH5a6a6KeS6Imy5LmL5LiA44CCIiIiCiAgICAgICAgYXN5bmMgZGVmIF9kZXAodXNlcjogVXNlciA9IERlcGVuZHMoZ2V0X2NhbGxlcikpIC0+IFVzZXI6CiAgICAgICAgICAgIG9rLCByZWFzb24gPSBhdXRob3JpemVfcm9sZSh1c2VyLCBsaXN0KGFsbG93ZWQpKQogICAgICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKHN0YXR1c19jb2RlPTQwMywgZGV0YWlsPXJlYXNvbikKICAgICAgICAgICAgcmV0dXJuIHVzZXIKICAgICAgICByZXR1cm4gX2RlcAo=
+"""backend.deps — FastAPI 认证/授权依赖（B2 的 Web 绑定层）。
+
+import-guarded：无 fastapi 时本模块仍可导入。真正的认证逻辑在 auth.py（已测），
+这里只是把它接成 FastAPI 的 Depends。
+"""
+from __future__ import annotations
+
+from typing import List, Optional
+
+from secureguard.permissions import User, Role
+from .auth import authorize_role
+
+try:
+    from fastapi import Header, HTTPException, Depends  # type: ignore
+    _FASTAPI = True
+except Exception:  # pragma: no cover
+    _FASTAPI = False
+
+
+def _token_from_header(authorization: Optional[str]) -> Optional[str]:
+    """从 'Authorization: Bearer xxx' 取出令牌。"""
+    if not authorization:
+        return None
+    parts = authorization.split()
+    if len(parts) == 2 and parts[0].lower() == "bearer":
+        return parts[1]
+    return authorization  # 容忍直接传裸 token
+
+
+if _FASTAPI:  # pragma: no cover - 需 fastapi
+    from .app import state
+
+    async def get_caller(authorization: Optional[str] = Header(default=None)) -> User:
+        """解析当前用户；未认证抛 401。"""
+        user = state.auth.resolve(_token_from_header(authorization))
+        if user is None:
+            raise HTTPException(status_code=401, detail="未认证或会话已过期")
+        return user
+
+    async def get_caller_optional(authorization: Optional[str] = Header(default=None)) -> Optional[User]:
+        """可选认证：拿不到也不报错（如匿名可用的对话）。"""
+        return state.auth.resolve(_token_from_header(authorization))
+
+    async def get_caller_grant(authorization: Optional[str] = Header(default=None)):
+        """token → org_core 身份（tenant/grant/person/role/dept）。新端点用。未认证抛 401。"""
+        ident = state.identity.resolve_grant(_token_from_header(authorization))
+        if ident is None:
+            raise HTTPException(status_code=401, detail="未认证或会话已过期")
+        return ident
+
+    async def get_caller_grant_optional(authorization: Optional[str] = Header(default=None)):
+        """可选：匿名（如对外 bot）返回 None。"""
+        return state.identity.resolve_grant(_token_from_header(authorization))
+
+    def require_role(*allowed: Role):
+        """依赖工厂：要求调用者属于指定角色之一。"""
+        async def _dep(user: User = Depends(get_caller)) -> User:
+            ok, reason = authorize_role(user, list(allowed))
+            if not ok:
+                raise HTTPException(status_code=403, detail=reason)
+            return user
+        return _dep

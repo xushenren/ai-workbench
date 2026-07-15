@@ -1,1 +1,158 @@
-IiIidGVzdHMvdGVzdF9yZXN0cmljdGVkX2FkbWluX3BvbGljeS5weSDigJQg5Y+X6ZmQ566h55CG5ZGY5oqk5qCPICsg5Y+v57uE5ZCIIFRva2VuIOetlueVpeOAgiIiIgppbXBvcnQgc3lzLCBvcywgYXN5bmNpbwpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCgpmcm9tIGJhY2tlbmQuc3RhdGUgaW1wb3J0IEFwcFN0YXRlCmZyb20gYmFja2VuZC5xdW90YV9zZXJ2aWNlIGltcG9ydCBRdW90YVNlcnZpY2UsIFF1b3RhUG9saWN5CmZyb20gc2VjdXJlZ3VhcmQucGVybWlzc2lvbnMgaW1wb3J0ICgKICAgIFVzZXIsIFJvbGUsIGNhbl9zZXRfcm9sZSwgY2FuX2RlbGV0ZV91c2VyLCBjYW5fbWFuYWdlX2FkbWlucywgY2FuX21hbmFnZV91c2VycywKICAgIGNhbl9tYW5hZ2Vfa2IsIGNhbl9hcHByb3ZlLCBLbm93bGVkZ2VCYXNlLCBWaXNpYmlsaXR5LCBBZ2VudCwgQWdlbnRTdGF0dXMsIFBlcm1pc3Npb25EZW5pZWQsCikKCkFETUlOID0gVXNlcigidV9hZG1pbiIsIFJvbGUuQURNSU4pClJBRE1JTiA9IFVzZXIoInVfcmFkbWluIiwgUm9sZS5SRVNUUklDVEVEX0FETUlOKQpVU0VSID0gVXNlcigidV91c2VyIiwgUm9sZS5VU0VSLCBkZXB0X2lkPSJkMSIpCkFVRElUT1IgPSBVc2VyKCJ1X2F1ZGl0b3IiLCBSb2xlLkFVRElUT1IpCgoKIyAtLS0tLS0tLS0tIOWPl+mZkOeuoeeQhuWRmOaKpOagjyAtLS0tLS0tLS0tCmRlZiB0ZXN0X3Jlc3RyaWN0ZWRfYWRtaW5fY2FuX21hbmFnZV91c2VycygpOgogICAgYXNzZXJ0IGNhbl9tYW5hZ2VfdXNlcnMoUkFETUlOKVswXSBpcyBUcnVlCgoKZGVmIHRlc3RfcmVzdHJpY3RlZF9hZG1pbl9jYW5ub3RfY3JlYXRlX2FkbWluKCk6CiAgICBhc3NlcnQgY2FuX3NldF9yb2xlKFJBRE1JTiwgVVNFUiwgUm9sZS5BRE1JTilbMF0gaXMgRmFsc2UKICAgIGFzc2VydCBjYW5fc2V0X3JvbGUoUkFETUlOLCBVU0VSLCBSb2xlLlJFU1RSSUNURURfQURNSU4pWzBdIGlzIEZhbHNlCgoKZGVmIHRlc3RfcmVzdHJpY3RlZF9hZG1pbl9jYW5ub3RfYXBwb2ludF9hdWRpdG9yKCk6CiAgICBhc3NlcnQgY2FuX3NldF9yb2xlKFJBRE1JTiwgVVNFUiwgUm9sZS5BVURJVE9SKVswXSBpcyBGYWxzZQogICAgYXNzZXJ0IGNhbl9zZXRfcm9sZShBRE1JTiwgVVNFUiwgUm9sZS5BVURJVE9SKVswXSBpcyBUcnVlICAjIOWPquaciSBhZG1pbiDog73ku7vlkb3lrqHorqHlkZgKCgpkZWYgdGVzdF9yZXN0cmljdGVkX2FkbWluX2Nhbm5vdF90b3VjaF9hZG1pbigpOgogICAgYXNzZXJ0IGNhbl9zZXRfcm9sZShSQURNSU4sIEFETUlOLCBSb2xlLlVTRVIpWzBdIGlzIEZhbHNlCiAgICBhc3NlcnQgY2FuX2RlbGV0ZV91c2VyKFJBRE1JTiwgQURNSU4pWzBdIGlzIEZhbHNlCgoKZGVmIHRlc3RfcmVzdHJpY3RlZF9hZG1pbl9jYW5ub3RfZGVsZXRlX3ByaXZpbGVnZWQoKToKICAgIGFzc2VydCBjYW5fZGVsZXRlX3VzZXIoUkFETUlOLCBBVURJVE9SKVswXSBpcyBGYWxzZQogICAgYXNzZXJ0IGNhbl9kZWxldGVfdXNlcihSQURNSU4sIFJBRE1JTilbMF0gaXMgRmFsc2UKICAgIGFzc2VydCBjYW5fZGVsZXRlX3VzZXIoUkFETUlOLCBVU0VSKVswXSBpcyBUcnVlICAjIOaZrumAmueUqOaIt+WPr+WIoAoKCmRlZiB0ZXN0X29ubHlfYWRtaW5fbWFuYWdlc19hZG1pbnMoKToKICAgIGFzc2VydCBjYW5fbWFuYWdlX2FkbWlucyhBRE1JTilbMF0gaXMgVHJ1ZQogICAgYXNzZXJ0IGNhbl9tYW5hZ2VfYWRtaW5zKFJBRE1JTilbMF0gaXMgRmFsc2UKCgpkZWYgdGVzdF9yZXN0cmljdGVkX2FkbWluX2Nhbm5vdF9zZWVfcHJpdmF0ZV9jb250ZW50KCk6CiAgICBmcm9tIHNlY3VyZWd1YXJkLnBlcm1pc3Npb25zIGltcG9ydCBjYW5fYXVkaXRfcmVhZF9rYiwgY2FuX3JlYWRfa2JfY29udGVudAogICAga2IgPSBLbm93bGVkZ2VCYXNlKCJrIiwgVmlzaWJpbGl0eS5QUklWQVRFLCBvd25lcl9pZD0ic29tZW9uZV9lbHNlIikKICAgIGFzc2VydCBjYW5fYXVkaXRfcmVhZF9rYihSQURNSU4sIGtiKVswXSBpcyBGYWxzZSAgICMg5a6h6K6h6K+75Y+W5LuFIGF1ZGl0b3IKICAgIGFzc2VydCBjYW5fcmVhZF9rYl9jb250ZW50KFJBRE1JTiwga2IpWzBdIGlzIEZhbHNlICAjIOengeacieWOn+aWh+S7hSBvd25lcgoKCmRlZiB0ZXN0X3Jlc3RyaWN0ZWRfYWRtaW5faGFzX2FkbWluX3N1YnNldF9wb3dlcnMoKToKICAgICIiIuWPl+mZkOeuoeeQhuWRmOiDveeuoSBLQiDnlJ/lkb3lkajmnJ/jgIHlrqHmibnmmbrog73kvZPvvIhhZG1pbiDlrZDpm4bvvInjgIIiIiIKICAgIGtiID0gS25vd2xlZGdlQmFzZSgiayIsIFZpc2liaWxpdHkuREVQQVJUTUVOVCwgZGVwdF9pZD0iZDEiKQogICAgYXNzZXJ0IGNhbl9tYW5hZ2Vfa2IoUkFETUlOLCBrYilbMF0gaXMgVHJ1ZQogICAgYWcgPSBBZ2VudCgiYSIsICJvd25lciIsIFZpc2liaWxpdHkuUFVCTElDLCBBZ2VudFN0YXR1cy5QRU5ESU5HX1JFVklFVykKICAgIGFzc2VydCBjYW5fYXBwcm92ZShSQURNSU4sIGFnKVswXSBpcyBUcnVlCgoKZGVmIHRlc3Rfc2VydmljZV9zZXRfcm9sZV9lbmZvcmNlc19ndWFyZCgpOgogICAgIiIi56uv5Yiw56uv77ya5Y+X6ZmQ566h55CG5ZGY6YCa6L+HIHNlcnZpY2Ug5pS56KeS6Imy77yM5oqk5qCP55Sf5pWI44CCIiIiCiAgICBzdCA9IEFwcFN0YXRlKCkKICAgICMg5Y+X6ZmQ566h55CG5ZGY5oqK5pmu6YCa55So5oi35o+Q5oiQIGRldmVsb3BlciDihpIg5YWB6K64CiAgICBzdC51c2VyX2FkbWluLnNldF9yb2xlKFJBRE1JTiwgInVfdXNlciIsICJkZXZlbG9wZXIiKQogICAgYXNzZXJ0IHN0LmF1dGguZ2V0X3VzZXIoInVfdXNlciIpLnJvbGUgPT0gUm9sZS5ERVZFTE9QRVIKICAgICMg5Y+X6ZmQ566h55CG5ZGY5oOz6YCgIGFkbWluIOKGkiDooqvmi5IKICAgIHRyeToKICAgICAgICBzdC51c2VyX2FkbWluLnNldF9yb2xlKFJBRE1JTiwgInVfdXNlciIsICJhZG1pbiIpOyBhc3NlcnQgRmFsc2UKICAgIGV4Y2VwdCBQZXJtaXNzaW9uRGVuaWVkOgogICAgICAgIHBhc3MKCgojIC0tLS0tLS0tLS0g5Y+v57uE5ZCIIFRva2VuIOetlueVpSAtLS0tLS0tLS0tCksgPSAoInUxIiwgImFnWCIpCgoKZGVmIHRlc3RfcG9saWN5X2Nvb2xkb3duX2F1dG9fdW5sb2NrcygpOgogICAgY2xrID0gWzEwMDAuMF0KICAgIHEgPSBRdW90YVNlcnZpY2UoY2xvY2s9bGFtYmRhOiBjbGtbMF0pCiAgICBxLnNldF9wb2xpY3koImFnWCIsIFF1b3RhUG9saWN5KHJlc2V0X21vZGU9ImNvb2xkb3duIiwgY29vbGRvd25fc2Vjb25kcz03MjAwKSkKCiAgICBhc3luYyBkZWYgcnVuKCk6CiAgICAgICAgYXdhaXQgcS5jb25zdW1lKEssIDEwMDAsIGxpbWl0PTEwMDApCiAgICAgICAgczEgPSBhd2FpdCBxLnN0YXR1cyhLLCBsaW1pdD0xMDAwKQogICAgICAgIGNsa1swXSArPSA3MjAxCiAgICAgICAgczIgPSBhd2FpdCBxLnN0YXR1cyhLLCBsaW1pdD0xMDAwKQogICAgICAgIHJldHVybiBzMSwgczIKCiAgICBzMSwgczIgPSBhc3luY2lvLnJ1bihydW4oKSkKICAgIGFzc2VydCBzMVsibG9ja2VkIl0gaXMgVHJ1ZQogICAgYXNzZXJ0IHMyWyJsb2NrZWQiXSBpcyBGYWxzZSBhbmQgczJbInVzZWQiXSA9PSAwCgoKZGVmIHRlc3RfcG9saWN5X2hhcmRzdG9wX2Jsb2Nrc19yZWNoYXJnZSgpOgogICAgcSA9IFF1b3RhU2VydmljZSgpCiAgICBxLnNldF9wb2xpY3koImFnWCIsIFF1b3RhUG9saWN5KHJlc2V0X21vZGU9Im5vbmUiLCBhbGxvd19yZWNoYXJnZT1GYWxzZSkpCgogICAgYXN5bmMgZGVmIHJ1bigpOgogICAgICAgIGF3YWl0IHEuY29uc3VtZShLLCAxMDAwLCBsaW1pdD0xMDAwKQogICAgICAgIHJldHVybiBhd2FpdCBxLnJlY2hhcmdlKEssIDUwMDApCgogICAgciA9IGFzeW5jaW8ucnVuKHJ1bigpKQogICAgYXNzZXJ0IHJbImFsbG93ZWQiXSBpcyBGYWxzZSBhbmQgclsicmVhc29uIl0gPT0gInJlY2hhcmdlX2Rpc2FibGVkIgoKCmRlZiB0ZXN0X3BvbGljeV9oYXJkc3RvcF9hbGxvd3NfcGFpZF9yZWNoYXJnZSgpOgogICAgcSA9IFF1b3RhU2VydmljZSgpCiAgICBxLnNldF9wb2xpY3koImFnWCIsIFF1b3RhUG9saWN5KHJlc2V0X21vZGU9Im5vbmUiLCBhbGxvd19yZWNoYXJnZT1UcnVlKSkKCiAgICBhc3luYyBkZWYgcnVuKCk6CiAgICAgICAgYXdhaXQgcS5jb25zdW1lKEssIDEwMDAsIGxpbWl0PTEwMDApCiAgICAgICAgcmV0dXJuIGF3YWl0IHEucmVjaGFyZ2UoSywgNTAwMCkKCiAgICByID0gYXN5bmNpby5ydW4ocnVuKCkpCiAgICBhc3NlcnQgclsiYWxsb3dlZCJdIGlzIFRydWUgYW5kIHJbImxvY2tlZCJdIGlzIEZhbHNlCgoKZGVmIHRlc3RfcG9saWN5X3BlcmlvZF9zdGlsbF9kZWZhdWx0KCk6CiAgICAiIiLml6DnrZbnlaXml7blm57okL3lkajmnJ/mqKHlvI/vvIjlkJHlkI7lhbzlrrnvvInjgIIiIiIKICAgIHEgPSBRdW90YVNlcnZpY2UoKQoKICAgIGFzeW5jIGRlZiBydW4oKToKICAgICAgICBhd2FpdCBxLmNvbnN1bWUoSywgMTAwMCwgbGltaXQ9MTAwMCwgZnJlZXplX3BlcmlvZD0ibW9udGhseSIpCiAgICAgICAgcmV0dXJuIGF3YWl0IHEuc3RhdHVzKEssIGxpbWl0PTEwMDApCgogICAgcyA9IGFzeW5jaW8ucnVuKHJ1bigpKQogICAgYXNzZXJ0IHNbImxvY2tlZCJdIGlzIFRydWUgYW5kIHNbImZyZWV6ZV91bnRpbCJdIGlzIG5vdCBOb25lICAjIOmUgeWIsOS4i+aciAoKCmRlZiB0ZXN0X3Jlc3RyaWN0ZWRfYWRtaW5fZW5kcG9pbnRzX2lmX2Zhc3RhcGlfYXZhaWxhYmxlKCk6CiAgICB0cnk6CiAgICAgICAgZnJvbSBmYXN0YXBpLnRlc3RjbGllbnQgaW1wb3J0IFRlc3RDbGllbnQgICMgdHlwZTogaWdub3JlCiAgICAgICAgZnJvbSBiYWNrZW5kLmFwcCBpbXBvcnQgYXBwLCBzdGF0ZQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4KICAgIGlmIGFwcCBpcyBOb25lOgogICAgICAgIHJldHVybgogICAgYyA9IFRlc3RDbGllbnQoYXBwKQogICAgcnRvayA9IHN0YXRlLmF1dGgubG9naW4oIjEzODAwMDAwMDA1IiwgInJhZG1pbjEyMyIpWzBdICAgIyDlj5fpmZDnrqHnkIblkZgKICAgIGF0b2sgPSBzdGF0ZS5hdXRoLmxvZ2luKCIxMzgwMDAwMDAwMCIsICJhZG1pbjEyMyIpWzBdCiAgICBSSCA9IHsiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHtydG9rfSJ9CiAgICBBSCA9IHsiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHthdG9rfSJ9CiAgICAjIOWPl+mZkOeuoeeQhuWRmOiDveWIl+eUqOaItwogICAgYXNzZXJ0IGMuZ2V0KCIvdjEvYWRtaW4vdXNlcnMiLCBoZWFkZXJzPVJIKS5zdGF0dXNfY29kZSA9PSAyMDAKICAgICMg5Y+X6ZmQ566h55CG5ZGY6YCgIGFkbWluIOKGkiA0MDMKICAgIGFzc2VydCBjLnBvc3QoIi92MS9hZG1pbi91c2Vycy91X3VzZXIvcm9sZSIsIGpzb249eyJyb2xlIjogImFkbWluIn0sIGhlYWRlcnM9UkgpLnN0YXR1c19jb2RlID09IDQwMwogICAgIyDlj5fpmZDnrqHnkIblkZjku7vlkb3lrqHorqHlkZgg4oaSIDQwM++8m2FkbWluIOWPr+S7pQogICAgYXNzZXJ0IGMucG9zdCgiL3YxL2FkbWluL3VzZXJzL3VfZGV2L3JvbGUiLCBqc29uPXsicm9sZSI6ICJhdWRpdG9yIn0sIGhlYWRlcnM9UkgpLnN0YXR1c19jb2RlID09IDQwMwogICAgYXNzZXJ0IGMucG9zdCgiL3YxL2FkbWluL3VzZXJzL3VfZGV2L3JvbGUiLCBqc29uPXsicm9sZSI6ICJhdWRpdG9yIn0sIGhlYWRlcnM9QUgpLnN0YXR1c19jb2RlID09IDIwMAogICAgIyDphY3pop3nrZbnlaXvvJphZG1pbi/lj5fpmZDnrqHnkIblkZjlj6/orr4KICAgIHByID0gYy5wb3N0KCIvdjEvYWRtaW4vcXVvdGEvcG9saWN5IiwKICAgICAgICAgICAgICAgIGpzb249eyJhZ2VudF9pZCI6ICJnZW5lcmFsIiwgInJlc2V0X21vZGUiOiAiY29vbGRvd24iLCAiY29vbGRvd25fc2Vjb25kcyI6IDE4MDB9LAogICAgICAgICAgICAgICAgaGVhZGVycz1SSCkKICAgIGFzc2VydCBwci5zdGF0dXNfY29kZSA9PSAyMDAgYW5kIHByLmpzb24oKVsicG9saWN5Il1bInJlc2V0X21vZGUiXSA9PSAiY29vbGRvd24iCg==
+"""tests/test_restricted_admin_policy.py — 受限管理员护栏 + 可组合 Token 策略。"""
+import sys, os, asyncio
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.state import AppState
+from backend.quota_service import QuotaService, QuotaPolicy
+from secureguard.permissions import (
+    User, Role, can_set_role, can_delete_user, can_manage_admins, can_manage_users,
+    can_manage_kb, can_approve, KnowledgeBase, Visibility, Agent, AgentStatus, PermissionDenied,
+)
+
+ADMIN = User("u_admin", Role.ADMIN)
+RADMIN = User("u_radmin", Role.RESTRICTED_ADMIN)
+USER = User("u_user", Role.USER, dept_id="d1")
+AUDITOR = User("u_auditor", Role.AUDITOR)
+
+
+# ---------- 受限管理员护栏 ----------
+def test_restricted_admin_can_manage_users():
+    assert can_manage_users(RADMIN)[0] is True
+
+
+def test_restricted_admin_cannot_create_admin():
+    assert can_set_role(RADMIN, USER, Role.ADMIN)[0] is False
+    assert can_set_role(RADMIN, USER, Role.RESTRICTED_ADMIN)[0] is False
+
+
+def test_restricted_admin_cannot_appoint_auditor():
+    assert can_set_role(RADMIN, USER, Role.AUDITOR)[0] is False
+    assert can_set_role(ADMIN, USER, Role.AUDITOR)[0] is True  # 只有 admin 能任命审计员
+
+
+def test_restricted_admin_cannot_touch_admin():
+    assert can_set_role(RADMIN, ADMIN, Role.USER)[0] is False
+    assert can_delete_user(RADMIN, ADMIN)[0] is False
+
+
+def test_restricted_admin_cannot_delete_privileged():
+    assert can_delete_user(RADMIN, AUDITOR)[0] is False
+    assert can_delete_user(RADMIN, RADMIN)[0] is False
+    assert can_delete_user(RADMIN, USER)[0] is True  # 普通用户可删
+
+
+def test_only_admin_manages_admins():
+    assert can_manage_admins(ADMIN)[0] is True
+    assert can_manage_admins(RADMIN)[0] is False
+
+
+def test_restricted_admin_cannot_see_private_content():
+    from secureguard.permissions import can_audit_read_kb, can_read_kb_content
+    kb = KnowledgeBase("k", Visibility.PRIVATE, owner_id="someone_else")
+    assert can_audit_read_kb(RADMIN, kb)[0] is False   # 审计读取仅 auditor
+    assert can_read_kb_content(RADMIN, kb)[0] is False  # 私有原文仅 owner
+
+
+def test_restricted_admin_has_admin_subset_powers():
+    """受限管理员能管 KB 生命周期、审批智能体（admin 子集）。"""
+    kb = KnowledgeBase("k", Visibility.DEPARTMENT, dept_id="d1")
+    assert can_manage_kb(RADMIN, kb)[0] is True
+    ag = Agent("a", "owner", Visibility.PUBLIC, AgentStatus.PENDING_REVIEW)
+    assert can_approve(RADMIN, ag)[0] is True
+
+
+def test_service_set_role_enforces_guard():
+    """端到端：受限管理员通过 service 改角色，护栏生效。"""
+    st = AppState()
+    # 受限管理员把普通用户提成 developer → 允许
+    st.user_admin.set_role(RADMIN, "u_user", "developer")
+    assert st.auth.get_user("u_user").role == Role.DEVELOPER
+    # 受限管理员想造 admin → 被拒
+    try:
+        st.user_admin.set_role(RADMIN, "u_user", "admin"); assert False
+    except PermissionDenied:
+        pass
+
+
+# ---------- 可组合 Token 策略 ----------
+K = ("u1", "agX")
+
+
+def test_policy_cooldown_auto_unlocks():
+    clk = [1000.0]
+    q = QuotaService(clock=lambda: clk[0])
+    q.set_policy("agX", QuotaPolicy(reset_mode="cooldown", cooldown_seconds=7200))
+
+    async def run():
+        await q.consume(K, 1000, limit=1000)
+        s1 = await q.status(K, limit=1000)
+        clk[0] += 7201
+        s2 = await q.status(K, limit=1000)
+        return s1, s2
+
+    s1, s2 = asyncio.run(run())
+    assert s1["locked"] is True
+    assert s2["locked"] is False and s2["used"] == 0
+
+
+def test_policy_hardstop_blocks_recharge():
+    q = QuotaService()
+    q.set_policy("agX", QuotaPolicy(reset_mode="none", allow_recharge=False))
+
+    async def run():
+        await q.consume(K, 1000, limit=1000)
+        return await q.recharge(K, 5000)
+
+    r = asyncio.run(run())
+    assert r["allowed"] is False and r["reason"] == "recharge_disabled"
+
+
+def test_policy_hardstop_allows_paid_recharge():
+    q = QuotaService()
+    q.set_policy("agX", QuotaPolicy(reset_mode="none", allow_recharge=True))
+
+    async def run():
+        await q.consume(K, 1000, limit=1000)
+        return await q.recharge(K, 5000)
+
+    r = asyncio.run(run())
+    assert r["allowed"] is True and r["locked"] is False
+
+
+def test_policy_period_still_default():
+    """无策略时回落周期模式（向后兼容）。"""
+    q = QuotaService()
+
+    async def run():
+        await q.consume(K, 1000, limit=1000, freeze_period="monthly")
+        return await q.status(K, limit=1000)
+
+    s = asyncio.run(run())
+    assert s["locked"] is True and s["freeze_until"] is not None  # 锁到下月
+
+
+def test_restricted_admin_endpoints_if_fastapi_available():
+    try:
+        from fastapi.testclient import TestClient  # type: ignore
+        from backend.app import app, state
+    except Exception:
+        return
+    if app is None:
+        return
+    c = TestClient(app)
+    rtok = state.auth.login("13800000005", "radmin123")[0]   # 受限管理员
+    atok = state.auth.login("13800000000", "admin123")[0]
+    RH = {"Authorization": f"Bearer {rtok}"}
+    AH = {"Authorization": f"Bearer {atok}"}
+    # 受限管理员能列用户
+    assert c.get("/v1/admin/users", headers=RH).status_code == 200
+    # 受限管理员造 admin → 403
+    assert c.post("/v1/admin/users/u_user/role", json={"role": "admin"}, headers=RH).status_code == 403
+    # 受限管理员任命审计员 → 403；admin 可以
+    assert c.post("/v1/admin/users/u_dev/role", json={"role": "auditor"}, headers=RH).status_code == 403
+    assert c.post("/v1/admin/users/u_dev/role", json={"role": "auditor"}, headers=AH).status_code == 200
+    # 配额策略：admin/受限管理员可设
+    pr = c.post("/v1/admin/quota/policy",
+                json={"agent_id": "general", "reset_mode": "cooldown", "cooldown_seconds": 1800},
+                headers=RH)
+    assert pr.status_code == 200 and pr.json()["policy"]["reset_mode"] == "cooldown"

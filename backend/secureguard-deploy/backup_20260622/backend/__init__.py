@@ -1,1 +1,5 @@
-IiIiYmFja2VuZCDigJQg5LyB5LiaIEFJIOW3peS9nOWPsOS4muWKoeWQjuerr++8iOWMheijhSBTZWN1cmVHdWFyZCDlhoXmoLjvvInjgIIiIiIKZnJvbSAuc3RhdGUgaW1wb3J0IEFwcFN0YXRlCmZyb20gLmNoYXRfc2VydmljZSBpbXBvcnQgcnVuX2NoYXQsIGNvbGxlY3RfYW5zd2VyLCBzY29wZV9jaGVjawoKX19hbGxfXyA9IFsiQXBwU3RhdGUiLCAicnVuX2NoYXQiLCAiY29sbGVjdF9hbnN3ZXIiLCAic2NvcGVfY2hlY2siXQo=
+"""backend — 企业 AI 工作台业务后端（包装 SecureGuard 内核）。"""
+from .state import AppState
+from .chat_service import run_chat, collect_answer, scope_check
+
+__all__ = ["AppState", "run_chat", "collect_answer", "scope_check"]

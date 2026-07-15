@@ -1,1 +1,147 @@
-IiIiYmFja2VuZC5vcmdfZXhjZWxfaW1wb3J0IOKAlCDlpJrnuqfnu4Tnu4fmnrbmnoQgRXhjZWwg5a+85YWlKOaOpSBvcmdfY29yZSnjgIIKCuS4pOW8oOihqDoKICDnu4Tnu4fooaggb3JnOiAgIOiKgueCueWQjSB8IOS4iue6p+iKgueCuSB8IOexu+Weiyhjb21wYW55L2RlcGFydG1lbnQvcHJvamVjdC90ZWFtKQogIOS6uuWRmOihqCBwZW9wbGU6IOaJi+acuuWPtyB8IOWnk+WQjSB8IOWyl+S9jSB8IOaJgOWxnuiKgueCuSB8IOWIneWni+WvhueggSjlj6/nqbopCua1geeoizrlhYjlu7rlpJrnuqfmoJEo5aSa6Laf5ouT5omRLOaMieWQjeWOu+mHjSnihpIg5bu655m75b2V6LSm5Y+3K29yZ19jb3Jl55yf5Lq6IOKGkiDmjInlspfkvY0r6IqC54K55rS+5Lu76IGMKGdyYW50KeOAggrlhpnmk43kvZznu48gT3JnU2VydmljZSjlj5fnrqHnkIblrZDmoJHnuqbmnZ8r5a6h6K6hKeOAguaUr+aMgSBkcnlfcnVuIOmihOa8lCjlj6rlh7rmiqXlkYrkuI3okL3lupMp44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgc2VjcmV0cwpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIENhbGxhYmxlLCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKZnJvbSBvcmdfY29yZSBpbXBvcnQgTm9kZVR5cGUsIFBlcm1pc3Npb25EZW5pZWQKCl9UWVBFID0geyLlhazlj7giOiAiY29tcGFueSIsICLlrZDlhazlj7giOiAiY29tcGFueSIsICLpg6jpl6giOiAiZGVwYXJ0bWVudCIsCiAgICAgICAgICLpobnnm67pg6giOiAicHJvamVjdCIsICLnj63nu4QiOiAidGVhbSIsCiAgICAgICAgICJjb21wYW55IjogImNvbXBhbnkiLCAiZGVwYXJ0bWVudCI6ICJkZXBhcnRtZW50IiwgInByb2plY3QiOiAicHJvamVjdCIsICJ0ZWFtIjogInRlYW0ifQoKCkBkYXRhY2xhc3MKY2xhc3MgT3JnSW1wb3J0UmVwb3J0OgogICAgbm9kZXNfY3JlYXRlZDogTGlzdFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICBub2Rlc19yZXVzZWQ6IExpc3Rbc3RyXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQogICAgdXNlcnNfY3JlYXRlZDogTGlzdFtEaWN0W3N0ciwgc3RyXV0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkgICAjIHtwaG9uZSwgaW5pdF9wYXNzd29yZH0KICAgIGdyYW50c19jcmVhdGVkOiBMaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkgICAgICAgICAgICAgICMgIuWnk+WQjUDlspfkvY1A6IqC54K5IgogICAgZXJyb3JzOiBMaXN0W0RpY3Rbc3RyLCBzdHJdXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KSAgICAgICAgICAjIHtpdGVtLCByZWFzb259CiAgICBkcnlfcnVuOiBib29sID0gRmFsc2UKICAgIGRlZiBzdW1tYXJ5KHNlbGYpOgogICAgICAgIHJldHVybiB7Im5vZGVzX2NyZWF0ZWQiOiBsZW4oc2VsZi5ub2Rlc19jcmVhdGVkKSwgIm5vZGVzX3JldXNlZCI6IGxlbihzZWxmLm5vZGVzX3JldXNlZCksCiAgICAgICAgICAgICAgICAidXNlcnNfY3JlYXRlZCI6IGxlbihzZWxmLnVzZXJzX2NyZWF0ZWQpLCAiZ3JhbnRzX2NyZWF0ZWQiOiBsZW4oc2VsZi5ncmFudHNfY3JlYXRlZCksCiAgICAgICAgICAgICAgICAiZXJyb3JzIjogbGVuKHNlbGYuZXJyb3JzKSwgImRyeV9ydW4iOiBzZWxmLmRyeV9ydW59CiAgICBkZWYgcHVibGljKHNlbGYpOiByZXR1cm4geyJzdW1tYXJ5Ijogc2VsZi5zdW1tYXJ5KCksICoqc2VsZi5fX2RpY3RfX30KCgpkZWYgX2dlbl9wd2QoKSAtPiBzdHI6IHJldHVybiAiQWEiICsgc2VjcmV0cy50b2tlbl9oZXgoMykKCgpkZWYgaW1wb3J0X29yZygKICAgIG9yZ19yb3dzOiBMaXN0W0RpY3Rbc3RyLCBBbnldXSwKICAgIHBlb3BsZV9yb3dzOiBMaXN0W0RpY3Rbc3RyLCBBbnldXSwKICAgICosCiAgICBzdmMsIHJlcG8sIHRlbmFudF9pZDogc3RyLCByb290X2lkOiBzdHIsIGltcG9ydGVyX2dyYW50X2lkOiBzdHIsCiAgICByZWdpc3Rlcl9mbjogQ2FsbGFibGVbW3N0ciwgc3RyLCBzdHIsIE9wdGlvbmFsW3N0cl1dLCBzdHJdLCAgICMgYXV0aCDlu7rnmbvlvZXotKblj7cgLT4gdXNlcl9pZAogICAgcHJvdmlzaW9uX3BlcnNvbjogQ2FsbGFibGVbW3N0cl0sIHN0cl0sICAgICAgICAgICAgICAgICAgICAgICAjIHVzZXJfaWQgLT4gb3JnX2NvcmUgcGVyc29uX2lkCiAgICBleGlzdHNfcGhvbmU6IENhbGxhYmxlW1tzdHJdLCBib29sXSwKICAgIGRyeV9ydW46IGJvb2wgPSBGYWxzZSwKKSAtPiBPcmdJbXBvcnRSZXBvcnQ6CiAgICByZXAgPSBPcmdJbXBvcnRSZXBvcnQoZHJ5X3J1bj1kcnlfcnVuKQoKICAgICMg546w5pyJ6IqC54K55ZCN4oaSaWQo5Y676YeNL+WkjeeUqCk75bKX5L2N5ZCN4oaSaWQKICAgIG5hbWUybm9kZTogRGljdFtzdHIsIHN0cl0gPSB7fQogICAgZm9yIG4gaW4gcmVwby5kYi5leGVjdXRlKCJTRUxFQ1QgaWQsbmFtZSBGUk9NIG9yZ19ub2RlcyBXSEVSRSB0ZW5hbnRfaWQ9PyIsICh0ZW5hbnRfaWQsKSkuZmV0Y2hhbGwoKToKICAgICAgICBuYW1lMm5vZGVbblsibmFtZSJdXSA9IG5bImlkIl0KICAgIG5hbWUycm9sZTogRGljdFtzdHIsIHN0cl0gPSB7fQogICAgZm9yIHIgaW4gcmVwby5kYi5leGVjdXRlKCJTRUxFQ1QgaWQsbmFtZSBGUk9NIHJvbGVzIFdIRVJFIHRlbmFudF9pZD0/IiwgKHRlbmFudF9pZCwpKS5mZXRjaGFsbCgpOgogICAgICAgIG5hbWUycm9sZVtyWyJuYW1lIl1dID0gclsiaWQiXQoKICAgICMgLS0tLS0tLS0tLSAxKSDlu7rlpJrnuqfmoJEo5aSa6LafOueItuWwsee7quaJjeW7uuWtkCktLS0tLS0tLS0tCiAgICBwZW5kaW5nID0gW10KICAgIGZvciByb3cgaW4gb3JnX3Jvd3M6CiAgICAgICAgbm0gPSBzdHIocm93LmdldCgi6IqC54K55ZCNIikgb3Igcm93LmdldCgibmFtZSIpIG9yICIiKS5zdHJpcCgpCiAgICAgICAgcGFyZW50ID0gc3RyKHJvdy5nZXQoIuS4iue6p+iKgueCuSIpIG9yIHJvdy5nZXQoInBhcmVudCIpIG9yICIiKS5zdHJpcCgpCiAgICAgICAgdHlwID0gX1RZUEUuZ2V0KHN0cihyb3cuZ2V0KCLnsbvlnosiKSBvciByb3cuZ2V0KCJ0eXBlIikgb3IgImRlcGFydG1lbnQiKS5zdHJpcCgpLCAiZGVwYXJ0bWVudCIpCiAgICAgICAgaWYgbm90IG5tOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIG5tIGluIG5hbWUybm9kZToKICAgICAgICAgICAgcmVwLm5vZGVzX3JldXNlZC5hcHBlbmQobm0pOyBjb250aW51ZQogICAgICAgIHBlbmRpbmcuYXBwZW5kKHsibmFtZSI6IG5tLCAicGFyZW50IjogcGFyZW50LCAidHlwZSI6IHR5cH0pCgogICAgcHJvZ3Jlc3MgPSBUcnVlCiAgICB3aGlsZSBwZW5kaW5nIGFuZCBwcm9ncmVzczoKICAgICAgICBwcm9ncmVzcyA9IEZhbHNlCiAgICAgICAgZm9yIGl0ZW0gaW4gcGVuZGluZ1s6XToKICAgICAgICAgICAgcGFyZW50ID0gaXRlbVsicGFyZW50Il0KICAgICAgICAgICAgcGFyZW50X2lkID0gcm9vdF9pZCBpZiAobm90IHBhcmVudCBvciBwYXJlbnQgaW4gKCLmgLvpg6giLCAi5qC5IiwgInJvb3QiKSkgZWxzZSBuYW1lMm5vZGUuZ2V0KHBhcmVudCkKICAgICAgICAgICAgaWYgcGFyZW50X2lkIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBjb250aW51ZSAgIyDniLbov5jmsqHlu7os5LiL5LiA6LafCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGlmIG5vdCBkcnlfcnVuOgogICAgICAgICAgICAgICAgICAgIG4gPSBzdmMuY3JlYXRlX25vZGUodGVuYW50X2lkLCBpbXBvcnRlcl9ncmFudF9pZCwgcGFyZW50X2lkPXBhcmVudF9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9Tm9kZVR5cGUoaXRlbVsidHlwZSJdKSwgbmFtZT1pdGVtWyJuYW1lIl0pCiAgICAgICAgICAgICAgICAgICAgbmFtZTJub2RlW2l0ZW1bIm5hbWUiXV0gPSBuLmlkCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIG5hbWUybm9kZVtpdGVtWyJuYW1lIl1dID0gImRyeV8iICsgaXRlbVsibmFtZSJdCiAgICAgICAgICAgICAgICByZXAubm9kZXNfY3JlYXRlZC5hcHBlbmQoaXRlbVsibmFtZSJdKQogICAgICAgICAgICBleGNlcHQgUGVybWlzc2lvbkRlbmllZCBhcyBlOgogICAgICAgICAgICAgICAgcmVwLmVycm9ycy5hcHBlbmQoeyJpdGVtIjogZiLoioLngrkge2l0ZW1bJ25hbWUnXX0iLCAicmVhc29uIjogc3RyKGUpfSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcmVwLmVycm9ycy5hcHBlbmQoeyJpdGVtIjogZiLoioLngrkge2l0ZW1bJ25hbWUnXX0iLCAicmVhc29uIjogc3RyKGUpWzoxMjBdfSkKICAgICAgICAgICAgcGVuZGluZy5yZW1vdmUoaXRlbSk7IHByb2dyZXNzID0gVHJ1ZQogICAgZm9yIGl0ZW0gaW4gcGVuZGluZzogICMg54i25aeL57uI5pyq5Ye6546wCiAgICAgICAgcmVwLmVycm9ycy5hcHBlbmQoeyJpdGVtIjogZiLoioLngrkge2l0ZW1bJ25hbWUnXX0iLCAicmVhc29uIjogZiLkuIrnuqfjgI57aXRlbVsncGFyZW50J11944CP5LiN5a2Y5ZyoIn0pCgogICAgIyAtLS0tLS0tLS0tIDIpIOW7uuS6uiArIOa0vuS7u+iBjCjkuIDkurrlpJrooYw95aSa5Lu76IGMKS0tLS0tLS0tLS0KICAgIHBlcnNvbl9jYWNoZTogRGljdFtzdHIsIHN0cl0gPSB7fSAgICAjIHBob25lIC0+IHBlcnNvbl9pZAogICAgaW1wb3J0IHJlCiAgICBmb3Igcm93IGluIHBlb3BsZV9yb3dzOgogICAgICAgIHBob25lID0gc3RyKHJvdy5nZXQoIuaJi+acuuWPtyIpIG9yIHJvdy5nZXQoInBob25lIikgb3IgIiIpLnN0cmlwKCkKICAgICAgICBuYW1lID0gc3RyKHJvdy5nZXQoIuWnk+WQjSIpIG9yIHJvdy5nZXQoIm5hbWUiKSBvciAiIikuc3RyaXAoKQogICAgICAgIHJvbGVfbmFtZSA9IHN0cihyb3cuZ2V0KCLlspfkvY0iKSBvciByb3cuZ2V0KCJyb2xlIikgb3IgIiIpLnN0cmlwKCkKICAgICAgICBub2RlX25hbWUgPSBzdHIocm93LmdldCgi5omA5bGe6IqC54K5Iikgb3Igcm93LmdldCgibm9kZSIpIG9yICIiKS5zdHJpcCgpCiAgICAgICAgcHdkID0gc3RyKHJvdy5nZXQoIuWIneWni+WvhueggSIpIG9yIHJvdy5nZXQoInBhc3N3b3JkIikgb3IgIiIpLnN0cmlwKCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIG5vdCByZS5mdWxsbWF0Y2gociIxWzMtOV1cZHs5fSIsIHBob25lKToKICAgICAgICAgICAgICAgIHJlcC5lcnJvcnMuYXBwZW5kKHsiaXRlbSI6IGYi5Lq65ZGYIHtuYW1lIG9yIHBob25lfSIsICJyZWFzb24iOiAi5omL5py65Y+35peg5pWIIn0pOyBjb250aW51ZQogICAgICAgICAgICByb2xlX2lkID0gbmFtZTJyb2xlLmdldChyb2xlX25hbWUpCiAgICAgICAgICAgIGlmIG5vdCByb2xlX2lkOgogICAgICAgICAgICAgICAgcmVwLmVycm9ycy5hcHBlbmQoeyJpdGVtIjogZiJ7bmFtZX1Ae3JvbGVfbmFtZX0iLCAicmVhc29uIjogZiLlspfkvY3jgI57cm9sZV9uYW1lfeOAj+S4jeWtmOWcqCzor7flhYjlnKjlspfkvY3nrqHnkIbliJvlu7oifSk7IGNvbnRpbnVlCiAgICAgICAgICAgIG5vZGVfaWQgPSBuYW1lMm5vZGUuZ2V0KG5vZGVfbmFtZSkKICAgICAgICAgICAgaWYgbm90IG5vZGVfaWQ6CiAgICAgICAgICAgICAgICByZXAuZXJyb3JzLmFwcGVuZCh7Iml0ZW0iOiBmIntuYW1lfUB7bm9kZV9uYW1lfSIsICJyZWFzb24iOiBmIuiKgueCueOAjntub2RlX25hbWV944CP5LiN5a2Y5ZyoIn0pOyBjb250aW51ZQoKICAgICAgICAgICAgIyDlu7rnmbvlvZXotKblj7cgKyBvcmdfY29yZSDnnJ/kuroo5q+P5LiqIHBob25lIOS4gOasoSkKICAgICAgICAgICAgaWYgcGhvbmUgbm90IGluIHBlcnNvbl9jYWNoZToKICAgICAgICAgICAgICAgIGlmIG5vdCBleGlzdHNfcGhvbmUocGhvbmUpOgogICAgICAgICAgICAgICAgICAgIGluaXQgPSBwd2QgaWYgbGVuKHB3ZCkgPj0gNiBlbHNlIF9nZW5fcHdkKCkKICAgICAgICAgICAgICAgICAgICBpZiBub3QgZHJ5X3J1bjoKICAgICAgICAgICAgICAgICAgICAgICAgdWlkID0gcmVnaXN0ZXJfZm4ocGhvbmUsIGluaXQsICJ1c2VyIiwgTm9uZSkKICAgICAgICAgICAgICAgICAgICAgICAgcGlkID0gcHJvdmlzaW9uX3BlcnNvbih1aWQpCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgcGlkID0gImRyeV9wZXJzb25fIiArIHBob25lCiAgICAgICAgICAgICAgICAgICAgcmVwLnVzZXJzX2NyZWF0ZWQuYXBwZW5kKHsicGhvbmUiOiBwaG9uZSwgImluaXRfcGFzc3dvcmQiOiBpbml0fSkKICAgICAgICAgICAgICAgICAgICBwZXJzb25fY2FjaGVbcGhvbmVdID0gcGlkCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICMg5bey5pyJ6LSm5Y+3OuS7jemcgOaLv+WIsCBwZXJzb25faWQg5rS+5bKXCiAgICAgICAgICAgICAgICAgICAgcGVyc29uX2NhY2hlW3Bob25lXSA9ICJleGlzdGluZ18iICsgcGhvbmUgaWYgZHJ5X3J1biBlbHNlIHByb3Zpc2lvbl9wZXJzb25fYnlfcGhvbmUocmVwbywgdGVuYW50X2lkLCBwaG9uZSwgcHJvdmlzaW9uX3BlcnNvbikKICAgICAgICAgICAgcGVyc29uX2lkID0gcGVyc29uX2NhY2hlW3Bob25lXQoKICAgICAgICAgICAgIyDmtL7ku7vogYwoZ3JhbnQp4oCU4oCU57uPIE9yZ1NlcnZpY2Us5Y+X566h55CG5a2Q5qCR57qm5p2fCiAgICAgICAgICAgIGlmIG5vdCBkcnlfcnVuOgogICAgICAgICAgICAgICAgc3ZjLmdyYW50X3JvbGUodGVuYW50X2lkLCBpbXBvcnRlcl9ncmFudF9pZCwgdXNlcl9pZD1wZXJzb25faWQsIHJvbGVfaWQ9cm9sZV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yZ19ub2RlX2lkPW5vZGVfaWQsIGxhYmVsPWYie25hbWV9QHtub2RlX25hbWV9LXtyb2xlX25hbWV9IikKICAgICAgICAgICAgcmVwLmdyYW50c19jcmVhdGVkLmFwcGVuZChmIntuYW1lfUB7cm9sZV9uYW1lfUB7bm9kZV9uYW1lfSIpCiAgICAgICAgZXhjZXB0IFBlcm1pc3Npb25EZW5pZWQgYXMgZToKICAgICAgICAgICAgcmVwLmVycm9ycy5hcHBlbmQoeyJpdGVtIjogZiJ7bmFtZX0iLCAicmVhc29uIjogc3RyKGUpfSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJlcC5lcnJvcnMuYXBwZW5kKHsiaXRlbSI6IGYie25hbWV9IiwgInJlYXNvbiI6IHN0cihlKVs6MTIwXX0pCiAgICByZXR1cm4gcmVwCgoKZGVmIHByb3Zpc2lvbl9wZXJzb25fYnlfcGhvbmUocmVwbywgdGVuYW50X2lkLCBwaG9uZSwgcHJvdmlzaW9uX3BlcnNvbik6CiAgICAiIiLlt7LmnInnmbvlvZXotKblj7fkvYbpnIAgcGVyc29uOueUqCBkaXNwbGF5X25hbWU9cGhvbmUg5Y+N5p+l5oiW5paw5bu644CC5Y2g5L2N5a6e546w44CCIiIiCiAgICByb3cgPSByZXBvLmRiLmV4ZWN1dGUoIlNFTEVDVCBpZCBGUk9NIHVzZXJzIFdIRVJFIHRlbmFudF9pZD0/IEFORCBkaXNwbGF5X25hbWU9PyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRlbmFudF9pZCwgcGhvbmUpKS5mZXRjaG9uZSgpCiAgICByZXR1cm4gcm93WyJpZCJdIGlmIHJvdyBlbHNlIHByb3Zpc2lvbl9wZXJzb24ocGhvbmUpCg==
+"""backend.org_excel_import — 多级组织架构 Excel 导入(接 org_core)。
+
+两张表:
+  组织表 org:   节点名 | 上级节点 | 类型(company/department/project/team)
+  人员表 people: 手机号 | 姓名 | 岗位 | 所属节点 | 初始密码(可空)
+流程:先建多级树(多趟拓扑,按名去重)→ 建登录账号+org_core真人 → 按岗位+节点派任职(grant)。
+写操作经 OrgService(受管理子树约束+审计)。支持 dry_run 预演(只出报告不落库)。
+"""
+from __future__ import annotations
+
+import secrets
+from dataclasses import dataclass, field
+from typing import Any, Callable, Dict, List, Optional
+
+from org_core import NodeType, PermissionDenied
+
+_TYPE = {"公司": "company", "子公司": "company", "部门": "department",
+         "项目部": "project", "班组": "team",
+         "company": "company", "department": "department", "project": "project", "team": "team"}
+
+
+@dataclass
+class OrgImportReport:
+    nodes_created: List[str] = field(default_factory=list)
+    nodes_reused: List[str] = field(default_factory=list)
+    users_created: List[Dict[str, str]] = field(default_factory=list)   # {phone, init_password}
+    grants_created: List[str] = field(default_factory=list)              # "姓名@岗位@节点"
+    errors: List[Dict[str, str]] = field(default_factory=list)          # {item, reason}
+    dry_run: bool = False
+    def summary(self):
+        return {"nodes_created": len(self.nodes_created), "nodes_reused": len(self.nodes_reused),
+                "users_created": len(self.users_created), "grants_created": len(self.grants_created),
+                "errors": len(self.errors), "dry_run": self.dry_run}
+    def public(self): return {"summary": self.summary(), **self.__dict__}
+
+
+def _gen_pwd() -> str: return "Aa" + secrets.token_hex(3)
+
+
+def import_org(
+    org_rows: List[Dict[str, Any]],
+    people_rows: List[Dict[str, Any]],
+    *,
+    svc, repo, tenant_id: str, root_id: str, importer_grant_id: str,
+    register_fn: Callable[[str, str, str, Optional[str]], str],   # auth 建登录账号 -> user_id
+    provision_person: Callable[[str], str],                       # user_id -> org_core person_id
+    exists_phone: Callable[[str], bool],
+    dry_run: bool = False,
+) -> OrgImportReport:
+    rep = OrgImportReport(dry_run=dry_run)
+
+    # 现有节点名→id(去重/复用);岗位名→id
+    name2node: Dict[str, str] = {}
+    for n in repo.db.execute("SELECT id,name FROM org_nodes WHERE tenant_id=?", (tenant_id,)).fetchall():
+        name2node[n["name"]] = n["id"]
+    name2role: Dict[str, str] = {}
+    for r in repo.db.execute("SELECT id,name FROM roles WHERE tenant_id=?", (tenant_id,)).fetchall():
+        name2role[r["name"]] = r["id"]
+
+    # ---------- 1) 建多级树(多趟:父就绪才建子)----------
+    pending = []
+    for row in org_rows:
+        nm = str(row.get("节点名") or row.get("name") or "").strip()
+        parent = str(row.get("上级节点") or row.get("parent") or "").strip()
+        typ = _TYPE.get(str(row.get("类型") or row.get("type") or "department").strip(), "department")
+        if not nm:
+            continue
+        if nm in name2node:
+            rep.nodes_reused.append(nm); continue
+        pending.append({"name": nm, "parent": parent, "type": typ})
+
+    progress = True
+    while pending and progress:
+        progress = False
+        for item in pending[:]:
+            parent = item["parent"]
+            parent_id = root_id if (not parent or parent in ("总部", "根", "root")) else name2node.get(parent)
+            if parent_id is None:
+                continue  # 父还没建,下一趟
+            try:
+                if not dry_run:
+                    n = svc.create_node(tenant_id, importer_grant_id, parent_id=parent_id,
+                                        type=NodeType(item["type"]), name=item["name"])
+                    name2node[item["name"]] = n.id
+                else:
+                    name2node[item["name"]] = "dry_" + item["name"]
+                rep.nodes_created.append(item["name"])
+            except PermissionDenied as e:
+                rep.errors.append({"item": f"节点 {item['name']}", "reason": str(e)})
+            except Exception as e:
+                rep.errors.append({"item": f"节点 {item['name']}", "reason": str(e)[:120]})
+            pending.remove(item); progress = True
+    for item in pending:  # 父始终未出现
+        rep.errors.append({"item": f"节点 {item['name']}", "reason": f"上级『{item['parent']}』不存在"})
+
+    # ---------- 2) 建人 + 派任职(一人多行=多任职)----------
+    person_cache: Dict[str, str] = {}    # phone -> person_id
+    import re
+    for row in people_rows:
+        phone = str(row.get("手机号") or row.get("phone") or "").strip()
+        name = str(row.get("姓名") or row.get("name") or "").strip()
+        role_name = str(row.get("岗位") or row.get("role") or "").strip()
+        node_name = str(row.get("所属节点") or row.get("node") or "").strip()
+        pwd = str(row.get("初始密码") or row.get("password") or "").strip()
+        try:
+            if not re.fullmatch(r"1[3-9]\d{9}", phone):
+                rep.errors.append({"item": f"人员 {name or phone}", "reason": "手机号无效"}); continue
+            role_id = name2role.get(role_name)
+            if not role_id:
+                rep.errors.append({"item": f"{name}@{role_name}", "reason": f"岗位『{role_name}』不存在,请先在岗位管理创建"}); continue
+            node_id = name2node.get(node_name)
+            if not node_id:
+                rep.errors.append({"item": f"{name}@{node_name}", "reason": f"节点『{node_name}』不存在"}); continue
+
+            # 建登录账号 + org_core 真人(每个 phone 一次)
+            if phone not in person_cache:
+                if not exists_phone(phone):
+                    init = pwd if len(pwd) >= 6 else _gen_pwd()
+                    if not dry_run:
+                        uid = register_fn(phone, init, "user", None)
+                        pid = provision_person(uid)
+                    else:
+                        pid = "dry_person_" + phone
+                    rep.users_created.append({"phone": phone, "init_password": init})
+                    person_cache[phone] = pid
+                else:
+                    # 已有账号:仍需拿到 person_id 派岗
+                    person_cache[phone] = "existing_" + phone if dry_run else provision_person_by_phone(repo, tenant_id, phone, provision_person)
+            person_id = person_cache[phone]
+
+            # 派任职(grant)——经 OrgService,受管理子树约束
+            if not dry_run:
+                svc.grant_role(tenant_id, importer_grant_id, user_id=person_id, role_id=role_id,
+                               org_node_id=node_id, label=f"{name}@{node_name}-{role_name}")
+            rep.grants_created.append(f"{name}@{role_name}@{node_name}")
+        except PermissionDenied as e:
+            rep.errors.append({"item": f"{name}", "reason": str(e)})
+        except Exception as e:
+            rep.errors.append({"item": f"{name}", "reason": str(e)[:120]})
+    return rep
+
+
+def provision_person_by_phone(repo, tenant_id, phone, provision_person):
+    """已有登录账号但需 person:用 display_name=phone 反查或新建。占位实现。"""
+    row = repo.db.execute("SELECT id FROM users WHERE tenant_id=? AND display_name=?",
+                          (tenant_id, phone)).fetchone()
+    return row["id"] if row else provision_person(phone)

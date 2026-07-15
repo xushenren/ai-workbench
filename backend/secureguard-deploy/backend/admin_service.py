@@ -1,1 +1,75 @@
-IiIiYmFja2VuZC5hZG1pbl9zZXJ2aWNlIOKAlCDnrpflipvnirbmgIEgKyDnrqHnkIbnu5/orqHogZrlkIjvvIhCNu+8jOahhuaetuaXoOWFs++8ieOAggoK5oqK5ZCE5pyN5Yqh55qE5pWw5o2u6IGa5ZCI5oiQ5YmN56uvIEFkbWluU3RhdHMg5b2i54q244CC566X5YqbIFRpZXIg5Zyo57q/54q25oCB5byA5Y+R5pyf5Li66Z2Z5oCBL+aOoua1i+ahqe+8jArnnJ/lrp7mjqLmtYsocGluZyB2TExNIC8g5LqR56uvIC8gTGl0ZUxMTSnlnKggQjfjgILnuq/ogZrlkIjvvIzlj6/nprvnur/mtYvjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QKCiMg5byA5Y+R5pyfIFRpZXIg6YWN572u77yIQjcg5o2i5oiQ55yf5a6e5o6i5rWL57uT5p6c77yJCl9USUVSUzogTGlzdFtEaWN0W3N0ciwgQW55XV0gPSBbCiAgICB7InRpZXIiOiAidGllcjEiLCAibGFiZWwiOiAi5pys5ZywIEdQVSIsICJvbmxpbmUiOiBUcnVlLAogICAgICJlbmRwb2ludCI6ICJodHRwOi8vZ3B1LTAxOjgwMDEiLCAibW9kZWwiOiAidmVydGljYWwtNzBiIn0sCiAgICB7InRpZXIiOiAidGllcjIiLCAibGFiZWwiOiAi6Ieq5pyJ5LqR56uvIiwgIm9ubGluZSI6IFRydWUsCiAgICAgImVuZHBvaW50IjogImh0dHA6Ly9jbG91ZDo4MDAxIiwgIm1vZGVsIjogInF3ZW4tNzJiIn0sCiAgICB7InRpZXIiOiAidGllcjMiLCAibGFiZWwiOiAi5aSW6YOoIEFQSSIsICJvbmxpbmUiOiBGYWxzZSwKICAgICAiZW5kcG9pbnQiOiAibGl0ZWxsbTovL2dhdGV3YXkiLCAibW9kZWwiOiAiZGVlcHNlZWsgLyBjbGF1ZGUifSwKXQoKCmRlZiBjb21wdXRlX3N0YXR1cygpIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgIiIi566X5Yqb5LiJ57qn5Zyo57q/54q25oCB44CC5byA5Y+R5pyf6Z2Z5oCB77ybQjcg5o2i55yf5a6e5o6i5rWL44CCIiIiCiAgICByZXR1cm4gW2RpY3QodCkgZm9yIHQgaW4gX1RJRVJTXQoKCmRlZiBhZG1pbl9zdGF0cyhzdGF0ZTogQW55KSAtPiBEaWN0W3N0ciwgQW55XToKICAgICIiIuiBmuWQiCA2IOe7n+iuoeWNoSArIDQg6Z2i5p2/5pWw5o2u77yM5a+56b2Q5YmN56uvIEFkbWluU3RhdHPjgIIiIiIKICAgIGFnZW50cyA9IGxpc3Qoc3RhdGUuYWdlbnRfc2VydmljZS5fYWdlbnRzLnZhbHVlcygpKQogICAga2JzID0gbGlzdChnZXRhdHRyKHN0YXRlLCAia2Jfc2VydmljZSIsIE5vbmUpLl9rYnMudmFsdWVzKCkpIGlmIGdldGF0dHIoc3RhdGUsICJrYl9zZXJ2aWNlIiwgTm9uZSkgZWxzZSBbXQogICAgYXVkaXRvciA9IHN0YXRlLmF1ZGl0b3IKCiAgICAjIOe6oue6v+inpuWPkeasoeaVsO+8muWuoeiuoemHjCBCTE9DSyDlhrPnrZYgKyDorrDlvZXnmoQgcmVkbGluZV9oaXRzCiAgICByZWRsaW5lX2hpdHMgPSBzdW0oMSBmb3IgZSBpbiBhdWRpdG9yLmVudHJpZXMgaWYgZS5kZWNpc2lvbiA9PSAiQkxPQ0siKQogICAgcmVkbGluZV9oaXRzICs9IGxlbihnZXRhdHRyKGF1ZGl0b3IsICJyZWRsaW5lX2hpdHMiLCBbXSkpCgogICAgIyDmnKzmnIggdG9rZW7vvJrphY3pop3lt7LnlKjkuYvlkozvvIjlhoXlrZjov5HkvLzvvIkKICAgIG1vbnRobHlfdG9rZW5zID0gMAogICAgcSA9IGdldGF0dHIoc3RhdGUsICJxdW90YSIsIE5vbmUpCiAgICBpZiBxIGlzIG5vdCBOb25lOgogICAgICAgIG1vbnRobHlfdG9rZW5zID0gc3VtKHJlYy5nZXQoInVzZWQiLCAwKSBmb3IgcmVjIGluIHEuX3JlYy52YWx1ZXMoKSkKCiAgICAjIOeUqOaIt+aVsO+8mmF1dGgg5YaF5a2Y6KGoCiAgICB1c2VycyA9IGxlbihnZXRhdHRyKHN0YXRlLmF1dGgsICJfdXNlcnMiLCB7fSkpCgogICAgcXVvdGFzX3BhbmVsID0gW10KICAgIGZvciBhIGluIGFnZW50czoKICAgICAgICBpZiBxIGlzIG5vdCBOb25lOgogICAgICAgICAgICAjIOaxh+aAu+ivpeaZuuiDveS9k+aJgOacieeUqOaIt+eahOWNoOeUqO+8iOa8lOekuueUqOWPlummluadoe+8m+ecn+WunuaMiee7tOW6pue7n+iuoe+8iQogICAgICAgICAgICByZWNzID0gW3IgZm9yICh1aWQsIGFpZCksIHIgaW4gcS5fcmVjLml0ZW1zKCkgaWYgYWlkID09IGFbImlkIl1dCiAgICAgICAgICAgIHVzZWQgPSBzdW0oclsidXNlZCJdIGZvciByIGluIHJlY3MpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdXNlZCA9IDAKICAgICAgICBxdW90YXNfcGFuZWwuYXBwZW5kKHsKICAgICAgICAgICAgImFnZW50IjogYVsibmFtZSJdLCAidXNlZCI6IHVzZWQsCiAgICAgICAgICAgICJsaW1pdCI6IGludChhLmdldCgiZnJlZV9xdW90YV90b2tlbnMiLCAxMDAwMCkpLAogICAgICAgICAgICAiZnJlZXplIjogIui2hemineWGu+e7k+iHs+S4i+aciCAxIOaXpSIsCiAgICAgICAgfSkKCiAgICByZWNlbnRfYXVkaXQgPSBbCiAgICAgICAgeyJoYXNoIjogZS5lbnRyeV9oYXNoWzo3XSwgInRpbWUiOiBlLnRpbWVzdGFtcFsxMToxOV0sICJkZWNpc2lvbiI6IGUuZGVjaXNpb259CiAgICAgICAgZm9yIGUgaW4gYXVkaXRvci5lbnRyaWVzWy01Ol0KICAgIF0KCiAgICByZXR1cm4gewogICAgICAgICJ1c2VycyI6IHVzZXJzLAogICAgICAgICJhZ2VudHMiOiBsZW4oYWdlbnRzKSwKICAgICAgICAiY29tcHV0ZV9ub2RlcyI6IGxlbihfVElFUlMpLAogICAgICAgICJtb250aGx5X3Rva2VucyI6IG1vbnRobHlfdG9rZW5zLAogICAgICAgICJrbm93bGVkZ2VfYmFzZXMiOiBsZW4oa2JzKSwKICAgICAgICAicmVkbGluZV9oaXRzIjogcmVkbGluZV9oaXRzLAogICAgICAgICJ0aWVycyI6IGNvbXB1dGVfc3RhdHVzKCksCiAgICAgICAgInF1b3RhcyI6IHF1b3Rhc19wYW5lbCwKICAgICAgICAiZ3VhcmRzIjogeyJyZWRsaW5lcyI6IDE5LCAic2VsZl9tb25pdG9yIjogMTgsICJkb21haW5fZ3VhcmRzIjogNiwgImF1ZGl0X3JldGVudGlvbl9kYXlzIjogMzB9LAogICAgICAgICJyZWNlbnRfYXVkaXQiOiByZWNlbnRfYXVkaXQsCiAgICB9Cg==
+"""backend.admin_service — 算力状态 + 管理统计聚合（B6，框架无关）。
+
+把各服务的数据聚合成前端 AdminStats 形状。算力 Tier 在线状态开发期为静态/探测桩，
+真实探测(ping vLLM / 云端 / LiteLLM)在 B7。纯聚合，可离线测。
+"""
+from __future__ import annotations
+
+from typing import Any, Dict, List
+
+# 开发期 Tier 配置（B7 换成真实探测结果）
+_TIERS: List[Dict[str, Any]] = [
+    {"tier": "tier1", "label": "本地 GPU", "online": True,
+     "endpoint": "http://gpu-01:8001", "model": "vertical-70b"},
+    {"tier": "tier2", "label": "自有云端", "online": True,
+     "endpoint": "http://cloud:8001", "model": "qwen-72b"},
+    {"tier": "tier3", "label": "外部 API", "online": False,
+     "endpoint": "litellm://gateway", "model": "deepseek / claude"},
+]
+
+
+def compute_status() -> List[Dict[str, Any]]:
+    """算力三级在线状态。开发期静态；B7 换真实探测。"""
+    return [dict(t) for t in _TIERS]
+
+
+def admin_stats(state: Any) -> Dict[str, Any]:
+    """聚合 6 统计卡 + 4 面板数据，对齐前端 AdminStats。"""
+    agents = list(state.agent_service._agents.values())
+    kbs = list(getattr(state, "kb_service", None)._kbs.values()) if getattr(state, "kb_service", None) else []
+    auditor = state.auditor
+
+    # 红线触发次数：审计里 BLOCK 决策 + 记录的 redline_hits
+    redline_hits = sum(1 for e in auditor.entries if e.decision == "BLOCK")
+    redline_hits += len(getattr(auditor, "redline_hits", []))
+
+    # 本月 token：配额已用之和（内存近似）
+    monthly_tokens = 0
+    q = getattr(state, "quota", None)
+    if q is not None:
+        monthly_tokens = sum(rec.get("used", 0) for rec in q._rec.values())
+
+    # 用户数：auth 内存表
+    users = len(getattr(state.auth, "_users", {}))
+
+    quotas_panel = []
+    for a in agents:
+        if q is not None:
+            # 汇总该智能体所有用户的占用（演示用取首条；真实按维度统计）
+            recs = [r for (uid, aid), r in q._rec.items() if aid == a["id"]]
+            used = sum(r["used"] for r in recs)
+        else:
+            used = 0
+        quotas_panel.append({
+            "agent": a["name"], "used": used,
+            "limit": int(a.get("free_quota_tokens", 10000)),
+            "freeze": "超额冻结至下月 1 日",
+        })
+
+    recent_audit = [
+        {"hash": e.entry_hash[:7], "time": e.timestamp[11:19], "decision": e.decision}
+        for e in auditor.entries[-5:]
+    ]
+
+    return {
+        "users": users,
+        "agents": len(agents),
+        "compute_nodes": len(_TIERS),
+        "monthly_tokens": monthly_tokens,
+        "knowledge_bases": len(kbs),
+        "redline_hits": redline_hits,
+        "tiers": compute_status(),
+        "quotas": quotas_panel,
+        "guards": {"redlines": 19, "self_monitor": 18, "domain_guards": 6, "audit_retention_days": 30},
+        "recent_audit": recent_audit,
+    }

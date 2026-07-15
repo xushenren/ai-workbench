@@ -1,1 +1,181 @@
-IiIiYmFja2VuZC5hdXRoIOKAlCDorqTor4HkuI7mjojmnYPvvIhCMu+8jOahhuaetuaXoOWFs+aguOW/g++8ieOAggoK5YyF5ZCr77yaCiAgLSBBdXRoU2VydmljZe+8muWGheWtmOeUqOaIt+ihqCArIOS8muivneS7pOeJjOOAguWvhueggeeUqCBwYmtkZjIg5ZOI5biM5a2Y5YKo77yMKirnu53kuI3lrZjmmI7mlocqKuOAggogIC0gYXV0aG9yaXplX3JvbGXvvJrnuq/lh73mlbDop5LoibLpl6jvvIzphY3lkIggcGVybWlzc2lvbnMucHkg55qE57uG57KS5bqm5Yik5a6a44CCCiAgLSDlvq7kv6EgT0F1dGjvvJrnu5nlh7rmoakgKyDmjqXlhaXor7TmmI7vvIzpnIDnnJ/lrp4gQXBwSUQvU2VjcmV077yMKirmspnnrrHkuI3lj6/mtYvvvIzmoIfms6jmuIXmpZoqKuOAggoK5LiN5L6d6LWWIEZhc3RBUEnvvIzlj6/nuq8gc3RkbGliIOa1i+ivleOAgkZhc3RBUEkg55qE5L6d6LWW5rOo5YWl5ZyoIGRlcHMvYXBwIOmHjOiWhOWwgeijheOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IGhtYWMKaW1wb3J0IG9zCmltcG9ydCBzZWNyZXRzCmltcG9ydCB0aW1lCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBMaXN0LCBPcHRpb25hbCwgVHVwbGUKCmZyb20gc2VjdXJlZ3VhcmQucGVybWlzc2lvbnMgaW1wb3J0IFVzZXIsIFJvbGUKCl9QQktERjJfUk9VTkRTID0gMTAwXzAwMAoKCmNsYXNzIEF1dGhTZXJ2aWNlOgogICAgIiIi5YaF5a2Y6K6k6K+B5pyN5Yqh44CC55Sf5Lqn5oqKIF91c2Vycy9fc2Vzc2lvbnMg5o2i5oiQIFBvc3RncmVzL1JlZGlz77yIQjfvvInvvIzmjqXlj6PkuI3lj5jjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgc2Vzc2lvbl90dGw6IGludCA9IDApIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fdXNlcnM6IERpY3Rbc3RyLCBEaWN0XSA9IHt9ICAgICAgIyBwaG9uZSAtPiByZWNvcmQKICAgICAgICBzZWxmLl9zZXNzaW9uczogRGljdFtzdHIsIFR1cGxlW3N0ciwgZmxvYXRdXSA9IHt9ICAjIHRva2VuIC0+ICh1c2VyX2lkLCBleHBpcnkpCiAgICAgICAgIyDkvJror53mnInmlYjmnJ/pu5jorqQgMTIg5bCP5pe277yI5Y+v55So546v5aKD5Y+Y6YePIFNFU1NJT05fVFRMIOimhueblu+8jOWNleS9jeenku+8ieOAggogICAgICAgICMg5Y6fIDEg5bCP5pe25aSq55+t77yM5bel5L2c5Lit6aKR57mB5o6J57q/IOKGkiA0MDEg5pyq6K6k6K+B44CCCiAgICAgICAgaW1wb3J0IG9zCiAgICAgICAgc2VsZi5zZXNzaW9uX3R0bCA9IHNlc3Npb25fdHRsIG9yIGludChvcy5lbnZpcm9uLmdldCgiU0VTU0lPTl9UVEwiLCAiNDMyMDAiKSkKICAgICAgICBzZWxmLl9zZWVkKCkKCiAgICAjIC0tLS0tLS0tLS0g5a+G56CB5ZOI5biM77yIcGJrZGYy77yM5Yqg55uQ77yM5LiN5a2Y5piO5paH77yJIC0tLS0tLS0tLS0KICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfaGFzaChwYXNzd29yZDogc3RyLCBzYWx0OiBieXRlcykgLT4gc3RyOgogICAgICAgIHJldHVybiBoYXNobGliLnBia2RmMl9obWFjKCJzaGEyNTYiLCBwYXNzd29yZC5lbmNvZGUoInV0Zi04IiksIHNhbHQsIF9QQktERjJfUk9VTkRTKS5oZXgoKQoKICAgIGRlZiByZWdpc3RlcihzZWxmLCBwaG9uZTogc3RyLCBwYXNzd29yZDogc3RyLCByb2xlOiBzdHIsCiAgICAgICAgICAgICAgICAgZGVwdF9pZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUsIHVzZXJfaWQ6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBzdHI6CiAgICAgICAgc2FsdCA9IG9zLnVyYW5kb20oMTYpCiAgICAgICAgdWlkID0gdXNlcl9pZCBvciAoInVfIiArIHNlY3JldHMudG9rZW5faGV4KDQpKQogICAgICAgIHNlbGYuX3VzZXJzW3Bob25lXSA9IHsKICAgICAgICAgICAgImlkIjogdWlkLCAicGhvbmUiOiBwaG9uZSwgInNhbHQiOiBzYWx0LAogICAgICAgICAgICAiaGFzaCI6IHNlbGYuX2hhc2gocGFzc3dvcmQsIHNhbHQpLCAicm9sZSI6IHJvbGUsICJkZXB0X2lkIjogZGVwdF9pZCwKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHVpZAoKICAgICMgLS0tLS0tLS0tLSDnmbvlvZUgLyDkvJror50gLS0tLS0tLS0tLQogICAgZGVmIGxvZ2luKHNlbGYsIHBob25lOiBzdHIsIHBhc3N3b3JkOiBzdHIpIC0+IFR1cGxlW09wdGlvbmFsW3N0cl0sIHN0cl06CiAgICAgICAgIiIi6L+U5ZueICh0b2tlbiwgbWVzc2FnZSnjgILlpLHotKUgdG9rZW4g5Li6IE5vbmXjgIIiIiIKICAgICAgICByZWMgPSBzZWxmLl91c2Vycy5nZXQocGhvbmUpCiAgICAgICAgaWYgbm90IHJlYzoKICAgICAgICAgICAgcmV0dXJuIE5vbmUsICLnlKjmiLfkuI3lrZjlnKgiCiAgICAgICAgIyDmgZLlrprml7bpl7Tmr5TovoPvvIzpmLLml7bluo/kvqfkv6HpgZMKICAgICAgICBpZiBub3QgaG1hYy5jb21wYXJlX2RpZ2VzdChyZWNbImhhc2giXSwgc2VsZi5faGFzaChwYXNzd29yZCwgcmVjWyJzYWx0Il0pKToKICAgICAgICAgICAgcmV0dXJuIE5vbmUsICLmiYvmnLrlj7fmiJblr4bnoIHplJnor68iCiAgICAgICAgdG9rZW4gPSBzZWNyZXRzLnRva2VuX3VybHNhZmUoMjQpCiAgICAgICAgc2VsZi5fc2Vzc2lvbnNbdG9rZW5dID0gKHJlY1siaWQiXSwgdGltZS50aW1lKCkgKyBzZWxmLnNlc3Npb25fdHRsKQogICAgICAgIHJldHVybiB0b2tlbiwgIueZu+W9leaIkOWKnyIKCiAgICBkZWYgcmVzb2x2ZShzZWxmLCB0b2tlbjogT3B0aW9uYWxbc3RyXSkgLT4gT3B0aW9uYWxbVXNlcl06CiAgICAgICAgIiIi5Luk54mMIOKGkiBVc2Vy44CC5peg5pWIL+i/h+acn+i/lOWbniBOb25l44CCIiIiCiAgICAgICAgaWYgbm90IHRva2VuOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHNlc3MgPSBzZWxmLl9zZXNzaW9ucy5nZXQodG9rZW4pCiAgICAgICAgaWYgbm90IHNlc3M6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgdWlkLCBleHAgPSBzZXNzCiAgICAgICAgaWYgdGltZS50aW1lKCkgPiBleHA6CiAgICAgICAgICAgIHNlbGYuX3Nlc3Npb25zLnBvcCh0b2tlbiwgTm9uZSkKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICByZWMgPSBuZXh0KChyIGZvciByIGluIHNlbGYuX3VzZXJzLnZhbHVlcygpIGlmIHJbImlkIl0gPT0gdWlkKSwgTm9uZSkKICAgICAgICBpZiBub3QgcmVjOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiBVc2VyKGlkPXJlY1siaWQiXSwgcm9sZT1Sb2xlKHJlY1sicm9sZSJdKSwgZGVwdF9pZD1yZWNbImRlcHRfaWQiXSkKCiAgICBkZWYgbG9nb3V0KHNlbGYsIHRva2VuOiBzdHIpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fc2Vzc2lvbnMucG9wKHRva2VuLCBOb25lKQoKICAgIGRlZiBnZXRfdXNlcihzZWxmLCB1c2VyX2lkOiBzdHIpIC0+IE9wdGlvbmFsW1VzZXJdOgogICAgICAgICIiIuaMiSBpZCDlj5YgVXNlcu+8iOS+m+mFjemineeuoeeQhuetiemcgOimgSB0YXJnZXQg6Lqr5Lu955qE5Zy65pmv77yJ44CCIiIiCiAgICAgICAgcmVjID0gbmV4dCgociBmb3IgciBpbiBzZWxmLl91c2Vycy52YWx1ZXMoKSBpZiByWyJpZCJdID09IHVzZXJfaWQpLCBOb25lKQogICAgICAgIGlmIG5vdCByZWM6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgcmV0dXJuIFVzZXIoaWQ9cmVjWyJpZCJdLCByb2xlPVJvbGUocmVjWyJyb2xlIl0pLCBkZXB0X2lkPXJlY1siZGVwdF9pZCJdKQoKICAgICMgLS0tLS0tLS0tLSDnlKjmiLfnrqHnkIbvvIjkvpsgYWRtaW4g5ZCO5Y+w77yb5pS55Yqo5Y2z5pe25a+55ZCO57ut6K+35rGC55Sf5pWI77yM5ZugIHJlc29sdmUg5a6e5pe26K+76K6w5b2V77yJIC0tLS0tLS0tLS0KICAgIGRlZiBsaXN0X3VzZXJzKHNlbGYpIC0+IExpc3RbRGljdF06CiAgICAgICAgcmV0dXJuIFt7ImlkIjogclsiaWQiXSwgInBob25lIjogclsicGhvbmUiXSwgInJvbGUiOiByWyJyb2xlIl0sICJkZXB0X2lkIjogclsiZGVwdF9pZCJdfQogICAgICAgICAgICAgICAgZm9yIHIgaW4gc2VsZi5fdXNlcnMudmFsdWVzKCldCgogICAgZGVmIF9yZWNfYnlfaWQoc2VsZiwgdXNlcl9pZDogc3RyKSAtPiBPcHRpb25hbFtEaWN0XToKICAgICAgICByZXR1cm4gbmV4dCgociBmb3IgciBpbiBzZWxmLl91c2Vycy52YWx1ZXMoKSBpZiByWyJpZCJdID09IHVzZXJfaWQpLCBOb25lKQoKICAgIGRlZiBzZXRfcm9sZShzZWxmLCB1c2VyX2lkOiBzdHIsIHJvbGU6IHN0cikgLT4gYm9vbDoKICAgICAgICByZWMgPSBzZWxmLl9yZWNfYnlfaWQodXNlcl9pZCkKICAgICAgICBpZiBub3QgcmVjIG9yIHJvbGUgbm90IGluIHtyLnZhbHVlIGZvciByIGluIFJvbGV9OgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICByZWNbInJvbGUiXSA9IHJvbGUKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIGRlZiBzZXRfZGVwYXJ0bWVudChzZWxmLCB1c2VyX2lkOiBzdHIsIGRlcHRfaWQ6IE9wdGlvbmFsW3N0cl0pIC0+IGJvb2w6CiAgICAgICAgcmVjID0gc2VsZi5fcmVjX2J5X2lkKHVzZXJfaWQpCiAgICAgICAgaWYgbm90IHJlYzoKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmVjWyJkZXB0X2lkIl0gPSBkZXB0X2lkCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgZGVsZXRlX3VzZXIoc2VsZiwgdXNlcl9pZDogc3RyKSAtPiBib29sOgogICAgICAgIHBob25lID0gbmV4dCgocCBmb3IgcCwgciBpbiBzZWxmLl91c2Vycy5pdGVtcygpIGlmIHJbImlkIl0gPT0gdXNlcl9pZCksIE5vbmUpCiAgICAgICAgaWYgcGhvbmUgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgZGVsIHNlbGYuX3VzZXJzW3Bob25lXQogICAgICAgIHJldHVybiBUcnVlCgogICAgZGVmIHJlZ2lzdGVyX3NlbGYoc2VsZiwgcGhvbmU6IHN0ciwgcGFzc3dvcmQ6IHN0cikgLT4gVHVwbGVbT3B0aW9uYWxbc3RyXSwgc3RyXToKICAgICAgICAiIiLoh6rliqnms6jlhozjgIIqKuW8uuWItiByb2xlPXVzZXIqKu+8iOe7neS4jeiuqeWuouaIt+err+mAiSBhZG1pbi9kZXZlbG9wZXLvvIzpmLLmj5DmnYPvvInjgIIKCiAgICAgICAg5oiQ5Yqf6L+U5ZueICh0b2tlbiwgbXNnKSDnm7TmjqXnmbvlvZXmgIHvvJvlpLHotKUgdG9rZW4g5Li6IE5vbmXjgIIKICAgICAgICAiIiIKICAgICAgICBpbXBvcnQgcmUgYXMgX3JlCiAgICAgICAgaWYgbm90IF9yZS5mdWxsbWF0Y2gociIxWzMtOV1cZHs5fSIsIHBob25lIG9yICIiKToKICAgICAgICAgICAgcmV0dXJuIE5vbmUsICLmiYvmnLrlj7fmoLzlvI/kuI3mraPnoa4iCiAgICAgICAgaWYgbGVuKHBhc3N3b3JkIG9yICIiKSA8IDY6CiAgICAgICAgICAgIHJldHVybiBOb25lLCAi5a+G56CB6Iez5bCRIDYg5L2NIgogICAgICAgIGlmIHBob25lIGluIHNlbGYuX3VzZXJzOgogICAgICAgICAgICByZXR1cm4gTm9uZSwgIuivpeaJi+acuuWPt+W3suazqOWGjCIKICAgICAgICBzZWxmLnJlZ2lzdGVyKHBob25lLCBwYXNzd29yZCwgcm9sZT0idXNlciIsIGRlcHRfaWQ9Tm9uZSkgICMg6KeS6Imy5YaZ5q27IHVzZXIKICAgICAgICByZXR1cm4gc2VsZi5sb2dpbihwaG9uZSwgcGFzc3dvcmQpICAjIOazqOWGjOWNs+eZu+W9lQoKICAgIGRlZiBfc2VlZChzZWxmKSAtPiBOb25lOgogICAgICAgICIiIuW8gOWPkeacn+enjeWtkOi0puWPt++8iOeUn+S6p+WIoOmZpO+8ieOAguWvhueggeS7heekuuS+i+OAgiIiIgogICAgICAgIHNlbGYucmVnaXN0ZXIoIjEzODAwMDAwMDAwIiwgImFkbWluMTIzIiwgImFkbWluIiwgTm9uZSwgInVfYWRtaW4iKQogICAgICAgIHNlbGYucmVnaXN0ZXIoIjEzODAwMDAwMDAxIiwgImRldjEyMyIsICJkZXZlbG9wZXIiLCAiZDEiLCAidV9kZXYiKQogICAgICAgIHNlbGYucmVnaXN0ZXIoIjEzODAwMDAwMDAyIiwgImRhMTIzIiwgImRlcGFydG1lbnRfYWRtaW4iLCAiZDEiLCAidV9kYSIpCiAgICAgICAgc2VsZi5yZWdpc3RlcigiMTM4MDAwMDAwMDMiLCAidXNlcjEyMyIsICJ1c2VyIiwgImQxIiwgInVfdXNlciIpCiAgICAgICAgc2VsZi5yZWdpc3RlcigiMTM4MDAwMDAwMDQiLCAiYXVkaXQxMjMiLCAiYXVkaXRvciIsIE5vbmUsICJ1X2F1ZGl0b3IiKSAgIyDlj5fmjqflrqHorqHlkZgKICAgICAgICBzZWxmLnJlZ2lzdGVyKCIxMzgwMDAwMDAwNSIsICJyYWRtaW4xMjMiLCAicmVzdHJpY3RlZF9hZG1pbiIsIE5vbmUsICJ1X3JhZG1pbiIpICAjIOWPl+mZkOeuoeeQhuWRmAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCiMg6KeS6Imy6Zeo77yI57qv5Ye95pWw77yM6YWN5ZCIIHBlcm1pc3Npb25zLnB5IOeahOe7hueykuW6puWIpOWumu+8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwpkZWYgYXV0aG9yaXplX3JvbGUodXNlcjogT3B0aW9uYWxbVXNlcl0sIGFsbG93ZWQ6IExpc3RbUm9sZV0pIC0+IFR1cGxlW2Jvb2wsIHN0cl06CiAgICAiIiLnspfnspLluqbop5LoibLpl6jvvJp1c2VyIOinkuiJsuaYr+WQpuWcqCBhbGxvd2VkIOWGheOAgue7hueykuW6puW9kuWxnuWIpOWumui1sCBwZXJtaXNzaW9ucy5weeOAgiIiIgogICAgaWYgdXNlciBpcyBOb25lOgogICAgICAgIHJldHVybiBGYWxzZSwgIuacquiupOivgSIKICAgIGlmIHVzZXIucm9sZSBpbiBhbGxvd2VkOgogICAgICAgIHJldHVybiBUcnVlLCAib2siCiAgICByZXR1cm4gRmFsc2UsIGYi6ZyA6KaB6KeS6ImyIHtbci52YWx1ZSBmb3IgciBpbiBhbGxvd2VkXX3vvIzlvZPliY0ge3VzZXIucm9sZS52YWx1ZX0iCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICMKIyDlvq7kv6HmiavnoIHnmbvlvZXvvIjmoanvvInigJTigJQg6ZyA55yf5a6eIEFwcElEL1NlY3JldO+8jOaymeeuseS4jeWPr+a1i++8jOecn+acuuaOpeWFpQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwpkZWYgd2VjaGF0X3FyKCkgLT4gRGljdFtzdHIsIHN0cl06ICAjIHByYWdtYTogbm8gY292ZXIgLSDpnIDnnJ/lrp7lvq7kv6HlvIDmlL7lubPlj7AKICAgICIiIui/lOWbnuaJq+eggeeZu+W9leaJgOmcgOeahOS6jOe7tOeggSBVUkzjgIIKCiAgICDnnJ/lrp7lrp7njrDvvJrnlKggV0VDSEFUX0FQUElEIOaLvCBodHRwczovL29wZW4ud2VpeGluLnFxLmNvbS9jb25uZWN0L3FyY29ubmVjdAogICAg5bimIHJlZGlyZWN0X3VyaSAvIHN0YXRl77yM5YmN56uv5riy5p+T5LqM57u056CB44CC5q2k5aSE5LuF5qGp44CCCiAgICAiIiIKICAgIGFwcGlkID0gb3MuZW52aXJvbi5nZXQoIldFQ0hBVF9BUFBJRCIpCiAgICBpZiBub3QgYXBwaWQ6CiAgICAgICAgcmV0dXJuIHsic3RhdHVzIjogIm5vdF9jb25maWd1cmVkIiwgIm1lc3NhZ2UiOiAi5pyq6YWN572uIFdFQ0hBVF9BUFBJRO+8jOW+ruS/oeeZu+W9leS4jeWPr+eUqCJ9CiAgICBzdGF0ZSA9IHNlY3JldHMudG9rZW5fdXJsc2FmZSgxMikKICAgIHJlZGlyZWN0ID0gb3MuZW52aXJvbi5nZXQoIldFQ0hBVF9SRURJUkVDVF9VUkkiLCAiIikKICAgIHVybCA9IChmImh0dHBzOi8vb3Blbi53ZWl4aW4ucXEuY29tL2Nvbm5lY3QvcXJjb25uZWN0P2FwcGlkPXthcHBpZH0iCiAgICAgICAgICAgZiImcmVkaXJlY3RfdXJpPXtyZWRpcmVjdH0mcmVzcG9uc2VfdHlwZT1jb2RlJnNjb3BlPXNuc2FwaV9sb2dpbiZzdGF0ZT17c3RhdGV9IikKICAgIHJldHVybiB7InN0YXR1cyI6ICJvayIsICJxcl91cmwiOiB1cmwsICJzdGF0ZSI6IHN0YXRlfQoKCmRlZiB3ZWNoYXRfY2FsbGJhY2soY29kZTogc3RyLCBhdXRoOiBBdXRoU2VydmljZSkgLT4gVHVwbGVbT3B0aW9uYWxbc3RyXSwgc3RyXTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgIiIi5b6u5L+h5Zue6LCD77yaY29kZSDmjaIgYWNjZXNzX3Rva2VuK29wZW5pZO+8jOWGjeaNoi/lu7rmnKzlnLDotKblj7flj5HkvJror50gdG9rZW7jgIIKCiAgICDnnJ/lrp7lrp7njrDpnIDlkJEgaHR0cHM6Ly9hcGkud2VpeGluLnFxLmNvbS9zbnMvb2F1dGgyL2FjY2Vzc190b2tlbiDlj5Hor7fmsYLvvIjpnIDogZTnvZEr5a+G6ZKl77yJ44CCCiAgICDmspnnrrHml6DnvZHnu5zml6Dlr4bpkqXvvIzmraTlpITku4Xor7TmmI7mtYHnqIvvvIzkuI3lj6/ov5DooYzjgIIKICAgICIiIgogICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigi5b6u5L+hIE9BdXRoIOmcgOecn+WuniBBcHBJRC9TZWNyZXQg5LiO5aSW572R77yM55yf5py65o6l5YWlIikK
+"""backend.auth — 认证与授权（B2，框架无关核心）。
+
+包含：
+  - AuthService：内存用户表 + 会话令牌。密码用 pbkdf2 哈希存储，**绝不存明文**。
+  - authorize_role：纯函数角色门，配合 permissions.py 的细粒度判定。
+  - 微信 OAuth：给出桩 + 接入说明，需真实 AppID/Secret，**沙箱不可测，标注清楚**。
+
+不依赖 FastAPI，可纯 stdlib 测试。FastAPI 的依赖注入在 deps/app 里薄封装。
+"""
+from __future__ import annotations
+
+import hashlib
+import hmac
+import os
+import secrets
+import time
+from typing import Dict, List, Optional, Tuple
+
+from secureguard.permissions import User, Role
+
+_PBKDF2_ROUNDS = 100_000
+
+
+class AuthService:
+    """内存认证服务。生产把 _users/_sessions 换成 Postgres/Redis（B7），接口不变。"""
+
+    def __init__(self, session_ttl: int = 0) -> None:
+        self._users: Dict[str, Dict] = {}      # phone -> record
+        self._sessions: Dict[str, Tuple[str, float]] = {}  # token -> (user_id, expiry)
+        # 会话有效期默认 12 小时（可用环境变量 SESSION_TTL 覆盖，单位秒）。
+        # 原 1 小时太短，工作中频繁掉线 → 401 未认证。
+        import os
+        self.session_ttl = session_ttl or int(os.environ.get("SESSION_TTL", "43200"))
+        self._seed()
+
+    # ---------- 密码哈希（pbkdf2，加盐，不存明文） ----------
+    @staticmethod
+    def _hash(password: str, salt: bytes) -> str:
+        return hashlib.pbkdf2_hmac("sha256", password.encode("utf-8"), salt, _PBKDF2_ROUNDS).hex()
+
+    def register(self, phone: str, password: str, role: str,
+                 dept_id: Optional[str] = None, user_id: Optional[str] = None) -> str:
+        salt = os.urandom(16)
+        uid = user_id or ("u_" + secrets.token_hex(4))
+        self._users[phone] = {
+            "id": uid, "phone": phone, "salt": salt,
+            "hash": self._hash(password, salt), "role": role, "dept_id": dept_id,
+        }
+        return uid
+
+    # ---------- 登录 / 会话 ----------
+    def login(self, phone: str, password: str) -> Tuple[Optional[str], str]:
+        """返回 (token, message)。失败 token 为 None。"""
+        rec = self._users.get(phone)
+        if not rec:
+            return None, "用户不存在"
+        # 恒定时间比较，防时序侧信道
+        if not hmac.compare_digest(rec["hash"], self._hash(password, rec["salt"])):
+            return None, "手机号或密码错误"
+        token = secrets.token_urlsafe(24)
+        self._sessions[token] = (rec["id"], time.time() + self.session_ttl)
+        return token, "登录成功"
+
+    def resolve(self, token: Optional[str]) -> Optional[User]:
+        """令牌 → User。无效/过期返回 None。"""
+        if not token:
+            return None
+        sess = self._sessions.get(token)
+        if not sess:
+            return None
+        uid, exp = sess
+        if time.time() > exp:
+            self._sessions.pop(token, None)
+            return None
+        rec = next((r for r in self._users.values() if r["id"] == uid), None)
+        if not rec:
+            return None
+        return User(id=rec["id"], role=Role(rec["role"]), dept_id=rec["dept_id"])
+
+    def logout(self, token: str) -> None:
+        self._sessions.pop(token, None)
+
+    def get_user(self, user_id: str) -> Optional[User]:
+        """按 id 取 User（供配额管理等需要 target 身份的场景）。"""
+        rec = next((r for r in self._users.values() if r["id"] == user_id), None)
+        if not rec:
+            return None
+        return User(id=rec["id"], role=Role(rec["role"]), dept_id=rec["dept_id"])
+
+    # ---------- 用户管理（供 admin 后台；改动即时对后续请求生效，因 resolve 实时读记录） ----------
+    def list_users(self) -> List[Dict]:
+        return [{"id": r["id"], "phone": r["phone"], "role": r["role"], "dept_id": r["dept_id"]}
+                for r in self._users.values()]
+
+    def _rec_by_id(self, user_id: str) -> Optional[Dict]:
+        return next((r for r in self._users.values() if r["id"] == user_id), None)
+
+    def set_role(self, user_id: str, role: str) -> bool:
+        rec = self._rec_by_id(user_id)
+        if not rec or role not in {r.value for r in Role}:
+            return False
+        rec["role"] = role
+        return True
+
+    def set_department(self, user_id: str, dept_id: Optional[str]) -> bool:
+        rec = self._rec_by_id(user_id)
+        if not rec:
+            return False
+        rec["dept_id"] = dept_id
+        return True
+
+    def delete_user(self, user_id: str) -> bool:
+        phone = next((p for p, r in self._users.items() if r["id"] == user_id), None)
+        if phone is None:
+            return False
+        del self._users[phone]
+        return True
+
+    def register_self(self, phone: str, password: str) -> Tuple[Optional[str], str]:
+        """自助注册。**强制 role=user**（绝不让客户端选 admin/developer，防提权）。
+
+        成功返回 (token, msg) 直接登录态；失败 token 为 None。
+        """
+        import re as _re
+        if not _re.fullmatch(r"1[3-9]\d{9}", phone or ""):
+            return None, "手机号格式不正确"
+        if len(password or "") < 6:
+            return None, "密码至少 6 位"
+        if phone in self._users:
+            return None, "该手机号已注册"
+        self.register(phone, password, role="user", dept_id=None)  # 角色写死 user
+        return self.login(phone, password)  # 注册即登录
+
+    def _seed(self) -> None:
+        """开发期种子账号（生产删除）。密码仅示例。"""
+        self.register("13800000000", "admin123", "admin", None, "u_admin")
+        self.register("13800000001", "dev123", "developer", "d1", "u_dev")
+        self.register("13800000002", "da123", "department_admin", "d1", "u_da")
+        self.register("13800000003", "user123", "user", "d1", "u_user")
+        self.register("13800000004", "audit123", "auditor", None, "u_auditor")  # 受控审计员
+        self.register("13800000005", "radmin123", "restricted_admin", None, "u_radmin")  # 受限管理员
+
+
+# ====================================================================== #
+# 角色门（纯函数，配合 permissions.py 的细粒度判定）
+# ====================================================================== #
+def authorize_role(user: Optional[User], allowed: List[Role]) -> Tuple[bool, str]:
+    """粗粒度角色门：user 角色是否在 allowed 内。细粒度归属判定走 permissions.py。"""
+    if user is None:
+        return False, "未认证"
+    if user.role in allowed:
+        return True, "ok"
+    return False, f"需要角色 {[r.value for r in allowed]}，当前 {user.role.value}"
+
+
+# ====================================================================== #
+# 微信扫码登录（桩）—— 需真实 AppID/Secret，沙箱不可测，真机接入
+# ====================================================================== #
+def wechat_qr() -> Dict[str, str]:  # pragma: no cover - 需真实微信开放平台
+    """返回扫码登录所需的二维码 URL。
+
+    真实实现：用 WECHAT_APPID 拼 https://open.weixin.qq.com/connect/qrconnect
+    带 redirect_uri / state，前端渲染二维码。此处仅桩。
+    """
+    appid = os.environ.get("WECHAT_APPID")
+    if not appid:
+        return {"status": "not_configured", "message": "未配置 WECHAT_APPID，微信登录不可用"}
+    state = secrets.token_urlsafe(12)
+    redirect = os.environ.get("WECHAT_REDIRECT_URI", "")
+    url = (f"https://open.weixin.qq.com/connect/qrconnect?appid={appid}"
+           f"&redirect_uri={redirect}&response_type=code&scope=snsapi_login&state={state}")
+    return {"status": "ok", "qr_url": url, "state": state}
+
+
+def wechat_callback(code: str, auth: AuthService) -> Tuple[Optional[str], str]:  # pragma: no cover
+    """微信回调：code 换 access_token+openid，再换/建本地账号发会话 token。
+
+    真实实现需向 https://api.weixin.qq.com/sns/oauth2/access_token 发请求（需联网+密钥）。
+    沙箱无网络无密钥，此处仅说明流程，不可运行。
+    """
+    raise NotImplementedError("微信 OAuth 需真实 AppID/Secret 与外网，真机接入")

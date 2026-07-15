@@ -1,1 +1,112 @@
-IiIiCmJhY2tlbmQua2JfYmF0Y2hfaW5nZXN0IOKAlCDnn6Xor4blupPmibnph4/lhaXlupPnvJbmjpIo5Y+v56a757q/5rWLKeOAggoK5aSa5paH5Lu2L3ppcCDihpIg6YCS5b2S6Kej5Y6LIOKGkiDmjInmianlsZXlkI3mn6XmmKDlsITooajot6/nlLHop6PmnpDlmagg4oaSIOaKveaWh+acrCDihpIg5YWl5oyH5a6a55+l6K+G5bqTIOKGkiDmiqXlkYrjgIIK6ZmQ5Yi2KOaWh+S7tuaVsC/ljZXmlofku7ZNQi/mgLtNQi9PQ1LlvIDlhbMv6K+t6KiAKeeUseeuoeeQhuWQjuWPsOmFjee9ruS8oOWFpSzkuI3lhpnmrbvjgIIK6Kej5p6Q5Zmo5LiOIGluZ2VzdCDpg73ms6jlhaUs5pWF5pys5qih5Z2X5Y+v55So5qGp56a757q/5rWLO+ecn+Wunuino+aekOWcqOijheW6k+eahOacjeWKoeWZqOi3keOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGlvCmltcG9ydCBvcwppbXBvcnQgemlwZmlsZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIENhbGxhYmxlLCBPcHRpb25hbAoKZnJvbSAua2JfcGFyc2VyX3JlZ2lzdHJ5IGltcG9ydCBQYXJzZXJSZWdpc3RyeQoKIyAoZmlsZW5hbWUsIGRhdGE6Ynl0ZXMsIHJlZ2lzdHJ5LCBjZmcpIC0+IHRleHQgO+eUseS4iuWxgueUqCBkb2NfcGFyc2VycyDlrp7njrDlubbms6jlhaUKRXh0cmFjdEZuID0gQ2FsbGFibGVbW3N0ciwgYnl0ZXMsIFBhcnNlclJlZ2lzdHJ5LCAiSW5nZXN0Q29uZmlnIl0sIHN0cl0KIyAoa2JfaWQsIGRvY19pZCwgdGV4dCkgLT4gTm9uZSA75rOo5YWl546w5pyJIGtiX3NlcnZpY2UuaW5nZXN0X3RleHQKSW5nZXN0Rm4gPSBDYWxsYWJsZVtbc3RyLCBzdHIsIHN0cl0sIE5vbmVdCgoKQGRhdGFjbGFzcwpjbGFzcyBJbmdlc3RDb25maWc6CiAgICBtYXhfZmlsZXM6IGludCA9IDUwCiAgICBtYXhfZmlsZV9tYjogaW50ID0gMjAKICAgIG1heF90b3RhbF9tYjogaW50ID0gMTAwCiAgICBvY3JfZW5hYmxlZDogYm9vbCA9IEZhbHNlCiAgICBvY3JfbGFuZzogc3RyID0gImNoIgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1heF9maWxlX2J5dGVzKHNlbGYpIC0+IGludDogcmV0dXJuIHNlbGYubWF4X2ZpbGVfbWIgKiAxMDI0ICogMTAyNAogICAgQHByb3BlcnR5CiAgICBkZWYgbWF4X3RvdGFsX2J5dGVzKHNlbGYpIC0+IGludDogcmV0dXJuIHNlbGYubWF4X3RvdGFsX21iICogMTAyNCAqIDEwMjQKCgpAZGF0YWNsYXNzCmNsYXNzIEluZ2VzdFJlcG9ydDoKICAgIGluZ2VzdGVkOiBsaXN0W2RpY3RdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpICAgIyB7ZmlsZSwgY2hhcnN9CiAgICBza2lwcGVkOiBsaXN0W2RpY3RdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpICAgICMge2ZpbGUsIHJlYXNvbn0KICAgIGZhaWxlZDogbGlzdFtkaWN0XSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KSAgICAgIyB7ZmlsZSwgcmVhc29ufQoKICAgIGRlZiBzdW1tYXJ5KHNlbGYpOiByZXR1cm4geyJpbmdlc3RlZCI6IGxlbihzZWxmLmluZ2VzdGVkKSwgInNraXBwZWQiOiBsZW4oc2VsZi5za2lwcGVkKSwgImZhaWxlZCI6IGxlbihzZWxmLmZhaWxlZCl9CiAgICBkZWYgcHVibGljKHNlbGYpOiByZXR1cm4geyJzdW1tYXJ5Ijogc2VsZi5zdW1tYXJ5KCksICJpbmdlc3RlZCI6IHNlbGYuaW5nZXN0ZWQsICJza2lwcGVkIjogc2VsZi5za2lwcGVkLCAiZmFpbGVkIjogc2VsZi5mYWlsZWR9CgoKZGVmIF9pdGVyX2ZpbGVzKGZpbGVuYW1lOiBzdHIsIGRhdGE6IGJ5dGVzKToKICAgICIiIuiLpeaYryB6aXAs6YCS5b2S5ZCQ5Ye6ICjlhoXpg6jlkI0sIGJ5dGVzKTvlkKbliJnlkJDlh7roh6rouqvjgILlv73nlaXnm67lvZXkuI4gX19NQUNPU1jjgIIiIiIKICAgIGlmIGZpbGVuYW1lLmxvd2VyKCkuZW5kc3dpdGgoIi56aXAiKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHpmID0gemlwZmlsZS5aaXBGaWxlKGlvLkJ5dGVzSU8oZGF0YSkpCiAgICAgICAgZXhjZXB0IHppcGZpbGUuQmFkWmlwRmlsZToKICAgICAgICAgICAgeWllbGQgKGZpbGVuYW1lLCBOb25lKTsgcmV0dXJuCiAgICAgICAgZm9yIG4gaW4gemYubmFtZWxpc3QoKToKICAgICAgICAgICAgaWYgbi5lbmRzd2l0aCgiLyIpIG9yICJfX01BQ09TWCIgaW4gbjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlubmVyID0gemYucmVhZChuKQogICAgICAgICAgICBpZiBuLmxvd2VyKCkuZW5kc3dpdGgoIi56aXAiKTogICAgICAgIyDpgJLlvZLltYzlpZcgemlwCiAgICAgICAgICAgICAgICB5aWVsZCBmcm9tIF9pdGVyX2ZpbGVzKG4sIGlubmVyKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgeWllbGQgKG4uc3BsaXQoIi8iKVstMV0sIGlubmVyKQogICAgZWxzZToKICAgICAgICB5aWVsZCAoZmlsZW5hbWUsIGRhdGEpCgoKZGVmIGluZ2VzdF9iYXRjaCgKICAgIHVwbG9hZHM6IGxpc3RbdHVwbGVbc3RyLCBieXRlc11dLCAgICAgICAgICAjIFsoZmlsZW5hbWUsIGRhdGEpLCAuLi5dCiAgICAqLAogICAga2JfaWQ6IHN0ciwKICAgIHJlZ2lzdHJ5OiBQYXJzZXJSZWdpc3RyeSwKICAgIGV4dHJhY3RfZm46IEV4dHJhY3RGbiwKICAgIGluZ2VzdF9mbjogSW5nZXN0Rm4sCiAgICBjZmc6IEluZ2VzdENvbmZpZywKKSAtPiBJbmdlc3RSZXBvcnQ6CiAgICByZXAgPSBJbmdlc3RSZXBvcnQoKQogICAgdG90YWwgPSAwCiAgICBjb3VudCA9IDAKCiAgICBmbGF0OiBsaXN0W3R1cGxlW3N0ciwgT3B0aW9uYWxbYnl0ZXNdXV0gPSBbXQogICAgZm9yIGZuLCBkYXRhIGluIHVwbG9hZHM6CiAgICAgICAgZmxhdC5leHRlbmQoX2l0ZXJfZmlsZXMoZm4sIGRhdGEpKQoKICAgIGZvciBuYW1lLCBkYXRhIGluIGZsYXQ6CiAgICAgICAgaWYgY291bnQgPj0gY2ZnLm1heF9maWxlczoKICAgICAgICAgICAgcmVwLnNraXBwZWQuYXBwZW5kKHsiZmlsZSI6IG5hbWUsICJyZWFzb24iOiBmIui2hei/h+WNleasoeaWh+S7tuaVsOS4iumZkCB7Y2ZnLm1heF9maWxlc30ifSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBkYXRhIGlzIE5vbmU6CiAgICAgICAgICAgIHJlcC5mYWlsZWQuYXBwZW5kKHsiZmlsZSI6IG5hbWUsICJyZWFzb24iOiAi5peg5rOV6K+75Y+WL+aNn+Wdj+eahOWOi+e8qeWMhSJ9KQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGV4dCA9IG9zLnBhdGguc3BsaXRleHQobmFtZSlbMV0ubG93ZXIoKQogICAgICAgIG1hcHBpbmcgPSByZWdpc3RyeS5yZXNvbHZlKGV4dCkKICAgICAgICBpZiBub3QgbWFwcGluZzoKICAgICAgICAgICAgcmVwLnNraXBwZWQuYXBwZW5kKHsiZmlsZSI6IG5hbWUsICJyZWFzb24iOiBmIuS4jeaUr+aMgeeahOexu+WeiyB7ZXh0fSjlj6/lnKjmmKDlsITooajmt7vliqApIn0pCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgbGVuKGRhdGEpID4gY2ZnLm1heF9maWxlX2J5dGVzOgogICAgICAgICAgICByZXAuc2tpcHBlZC5hcHBlbmQoeyJmaWxlIjogbmFtZSwgInJlYXNvbiI6IGYi5Y2V5paH5Lu26LaFIHtjZmcubWF4X2ZpbGVfbWJ9TUIifSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiB0b3RhbCArIGxlbihkYXRhKSA+IGNmZy5tYXhfdG90YWxfYnl0ZXM6CiAgICAgICAgICAgIHJlcC5za2lwcGVkLmFwcGVuZCh7ImZpbGUiOiBuYW1lLCAicmVhc29uIjogZiLntK/orqHotoUge2NmZy5tYXhfdG90YWxfbWJ9TUIs5L2Z5LiL5pyq5aSE55CGIn0pCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgdHJ5OgogICAgICAgICAgICB0ZXh0ID0gZXh0cmFjdF9mbihuYW1lLCBkYXRhLCByZWdpc3RyeSwgY2ZnKQogICAgICAgICAgICBpZiBub3QgdGV4dC5zdHJpcCgpOgogICAgICAgICAgICAgICAgcmVwLnNraXBwZWQuYXBwZW5kKHsiZmlsZSI6IG5hbWUsICJyZWFzb24iOiAi5pyq5oq95Y+W5Yiw5paH5pysKOWPr+iDveaYr+aJq+aPj+S7tizpnIDlvIAgT0NSKSJ9KQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaW5nZXN0X2ZuKGtiX2lkLCBuYW1lLCB0ZXh0KQogICAgICAgICAgICByZXAuaW5nZXN0ZWQuYXBwZW5kKHsiZmlsZSI6IG5hbWUsICJjaGFycyI6IGxlbih0ZXh0KX0pCiAgICAgICAgICAgIHRvdGFsICs9IGxlbihkYXRhKTsgY291bnQgKz0gMQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmVwLmZhaWxlZC5hcHBlbmQoeyJmaWxlIjogbmFtZSwgInJlYXNvbiI6IHN0cihlKVs6MjAwXX0pCiAgICByZXR1cm4gcmVwCg==
+"""
+backend.kb_batch_ingest — 知识库批量入库编排(可离线测)。
+
+多文件/zip → 递归解压 → 按扩展名查映射表路由解析器 → 抽文本 → 入指定知识库 → 报告。
+限制(文件数/单文件MB/总MB/OCR开关/语言)由管理后台配置传入,不写死。
+解析器与 ingest 都注入,故本模块可用桩离线测;真实解析在装库的服务器跑。
+"""
+from __future__ import annotations
+
+import io
+import os
+import zipfile
+from dataclasses import dataclass, field
+from typing import Any, Callable, Optional
+
+from .kb_parser_registry import ParserRegistry
+
+# (filename, data:bytes, registry, cfg) -> text ;由上层用 doc_parsers 实现并注入
+ExtractFn = Callable[[str, bytes, ParserRegistry, "IngestConfig"], str]
+# (kb_id, doc_id, text) -> None ;注入现有 kb_service.ingest_text
+IngestFn = Callable[[str, str, str], None]
+
+
+@dataclass
+class IngestConfig:
+    max_files: int = 50
+    max_file_mb: int = 20
+    max_total_mb: int = 100
+    ocr_enabled: bool = False
+    ocr_lang: str = "ch"
+
+    @property
+    def max_file_bytes(self) -> int: return self.max_file_mb * 1024 * 1024
+    @property
+    def max_total_bytes(self) -> int: return self.max_total_mb * 1024 * 1024
+
+
+@dataclass
+class IngestReport:
+    ingested: list[dict] = field(default_factory=list)   # {file, chars}
+    skipped: list[dict] = field(default_factory=list)    # {file, reason}
+    failed: list[dict] = field(default_factory=list)     # {file, reason}
+
+    def summary(self): return {"ingested": len(self.ingested), "skipped": len(self.skipped), "failed": len(self.failed)}
+    def public(self): return {"summary": self.summary(), "ingested": self.ingested, "skipped": self.skipped, "failed": self.failed}
+
+
+def _iter_files(filename: str, data: bytes):
+    """若是 zip,递归吐出 (内部名, bytes);否则吐出自身。忽略目录与 __MACOSX。"""
+    if filename.lower().endswith(".zip"):
+        try:
+            zf = zipfile.ZipFile(io.BytesIO(data))
+        except zipfile.BadZipFile:
+            yield (filename, None); return
+        for n in zf.namelist():
+            if n.endswith("/") or "__MACOSX" in n:
+                continue
+            inner = zf.read(n)
+            if n.lower().endswith(".zip"):       # 递归嵌套 zip
+                yield from _iter_files(n, inner)
+            else:
+                yield (n.split("/")[-1], inner)
+    else:
+        yield (filename, data)
+
+
+def ingest_batch(
+    uploads: list[tuple[str, bytes]],          # [(filename, data), ...]
+    *,
+    kb_id: str,
+    registry: ParserRegistry,
+    extract_fn: ExtractFn,
+    ingest_fn: IngestFn,
+    cfg: IngestConfig,
+) -> IngestReport:
+    rep = IngestReport()
+    total = 0
+    count = 0
+
+    flat: list[tuple[str, Optional[bytes]]] = []
+    for fn, data in uploads:
+        flat.extend(_iter_files(fn, data))
+
+    for name, data in flat:
+        if count >= cfg.max_files:
+            rep.skipped.append({"file": name, "reason": f"超过单次文件数上限 {cfg.max_files}"})
+            continue
+        if data is None:
+            rep.failed.append({"file": name, "reason": "无法读取/损坏的压缩包"})
+            continue
+        ext = os.path.splitext(name)[1].lower()
+        mapping = registry.resolve(ext)
+        if not mapping:
+            rep.skipped.append({"file": name, "reason": f"不支持的类型 {ext}(可在映射表添加)"})
+            continue
+        if len(data) > cfg.max_file_bytes:
+            rep.skipped.append({"file": name, "reason": f"单文件超 {cfg.max_file_mb}MB"})
+            continue
+        if total + len(data) > cfg.max_total_bytes:
+            rep.skipped.append({"file": name, "reason": f"累计超 {cfg.max_total_mb}MB,余下未处理"})
+            break
+        try:
+            text = extract_fn(name, data, registry, cfg)
+            if not text.strip():
+                rep.skipped.append({"file": name, "reason": "未抽取到文本(可能是扫描件,需开 OCR)"})
+                continue
+            ingest_fn(kb_id, name, text)
+            rep.ingested.append({"file": name, "chars": len(text)})
+            total += len(data); count += 1
+        except Exception as e:
+            rep.failed.append({"file": name, "reason": str(e)[:200]})
+    return rep

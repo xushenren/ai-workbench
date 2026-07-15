@@ -1,1 +1,307 @@
-IiIiCnRva2VuX3NhdmVyLnB5IOKAlCBLdW4g55yBVG9rZW4g5pa55rOV6K6655qEIDYg5bGC5a6e546w77yI5Lit6Ze05Lu25qih5byP77yM5LiN5pS5IE9wZW5DbGF3IOa6kOegge+8iQoK6JC954K577ya5raI5oGv6L+b5YWl5qih5Z6L5YmNL+WHuuaooeWei+WQju+8jOeUsSBwaXBlbGluZS5weSDkuLLogZTosIPnlKjjgIIK5q+P5bGC6YO95piv54us56uL44CB5Y+v5Y2V54us5byA5YWz55qEIFN0YWdl77yM5L6/5LqO5oyJIHNwZWMg55qE44CM6Zi25q61MSDlhYjkuIrliY0z5bGC44CN5YiG5om56JC95Zyw44CCCgrkvp3otZbvvIjkvaDmlrnlupTlt7LlhbflpIfvvInvvJoKICAtIGh0dHB477yI5byC5q2l6LCD5LiK5ri45qih5Z6L77yJCiAgLSDkuIDkuKogZW1iZWRkaW5nIOWHveaVsCBlbWJlZCh0ZXh0KS0+bGlzdFtmbG9hdF3vvIhiZ2UtbTPvvInvvIznlLEgZGVwcyDms6jlhaUKICAtIOS4gOS4quWQkemHj+WtmOWCqO+8iExhbmNlREIvQ2hyb21h77yJ77yM6L+Z6YeM55So5Y+v5pu/5o2i55qEIFZlY3RvclN0b3JlIOWNj+iurgrmiYDmnInlpJbpg6jkvp3otZbpg73pgJrov4cgRGVwcyDms6jlhaXvvIzmnKrmjqXpgJrml7bpmY3nuqfkuLrlronlhaggbm8tb3DvvIzkuI3kvJrpmLvmlq3kuLvpk77ot6/jgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBoYXNobGliCmltcG9ydCBtYXRoCmltcG9ydCB0aW1lCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQ2FsbGFibGUsIE9wdGlvbmFsLCBQcm90b2NvbAoKTWVzc2FnZSA9IGRpY3Rbc3RyLCBBbnldCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIOS+nei1luazqOWFpe+8muaKiuS9oOaWueecn+WunueahCBlbWJlZGRpbmcgLyDlkJHph4/lupMgLyDmkZjopoHmqKHlnovmjqXov5vmnaUKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpjbGFzcyBWZWN0b3JTdG9yZShQcm90b2NvbCk6CiAgICBkZWYgcXVlcnkoc2VsZiwgdmVjdG9yOiBsaXN0W2Zsb2F0XSwgdG9wX2s6IGludCkgLT4gbGlzdFtkaWN0XTogLi4uCiAgICBkZWYgYWRkKHNlbGYsIHZlY3RvcjogbGlzdFtmbG9hdF0sIHBheWxvYWQ6IGRpY3QpIC0+IE5vbmU6IC4uLgoKCkBkYXRhY2xhc3MKY2xhc3MgRGVwczoKICAgIGVtYmVkOiBPcHRpb25hbFtDYWxsYWJsZVtbc3RyXSwgbGlzdFtmbG9hdF1dXSA9IE5vbmUgICAgICAgICMgYmdlLW0zCiAgICBzZW1hbnRpY19jYWNoZV9zdG9yZTogT3B0aW9uYWxbVmVjdG9yU3RvcmVdID0gTm9uZSAgICAgICAgICAjIExhbmNlREIgdGFibGUKICAgIHN1bW1hcml6ZTogT3B0aW9uYWxbQ2FsbGFibGVbW2xpc3RbTWVzc2FnZV1dLCBzdHJdXSA9IE5vbmUgICMg6ZW/5Lya6K+d5pGY6KaB5Zmo77yI5bCP5qih5Z6L77yJCiAgICBub3c6IENhbGxhYmxlW1tdLCBmbG9hdF0gPSB0aW1lLnRpbWUKCgpkZWYgX2Nvc2luZShhOiBsaXN0W2Zsb2F0XSwgYjogbGlzdFtmbG9hdF0pIC0+IGZsb2F0OgogICAgaWYgbm90IGEgb3Igbm90IGI6CiAgICAgICAgcmV0dXJuIDAuMAogICAgZG90ID0gc3VtKHggKiB5IGZvciB4LCB5IGluIHppcChhLCBiKSkKICAgIG5hID0gbWF0aC5zcXJ0KHN1bSh4ICogeCBmb3IgeCBpbiBhKSkKICAgIG5iID0gbWF0aC5zcXJ0KHN1bSh5ICogeSBmb3IgeSBpbiBiKSkKICAgIHJldHVybiBkb3QgLyAobmEgKiBuYikgaWYgbmEgYW5kIG5iIGVsc2UgMC4wCgoKZGVmIF9lc3RfdG9rZW5zKG1lc3NhZ2VzOiBsaXN0W01lc3NhZ2VdKSAtPiBpbnQ6CiAgICAjIOeyl+S8sO+8muS4reaWh+aMiSB+MS42IGNoYXIvdG9rZW7vvIzoi7HmlofmjIkgfjQgY2hhci90b2tlbu+8jOa3t+WQiOWPluS4reWAvCAyLjAKICAgIGNoYXJzID0gc3VtKGxlbihzdHIobS5nZXQoImNvbnRlbnQiLCAiIikpKSBmb3IgbSBpbiBtZXNzYWdlcykKICAgIHJldHVybiBpbnQoY2hhcnMgLyAyLjApCgoKQGRhdGFjbGFzcwpjbGFzcyBTYXZlclN0YXRzOgogICAgcHJlZml4X2hhc2g6IE9wdGlvbmFsW3N0cl0gPSBOb25lCiAgICBzZW1hbnRpY19jYWNoZV9oaXQ6IGJvb2wgPSBGYWxzZQogICAgY29udGV4dF9jb21wcmVzc2VkX2Zyb206IGludCA9IDAKICAgIGNvbnRleHRfY29tcHJlc3NlZF90bzogaW50ID0gMAogICAgc3Rvcm1fYmxvY2tlZDogYm9vbCA9IEZhbHNlCiAgICB0b29sX3BheWxvYWRfc2F2ZWRfY2hhcnM6IGludCA9IDAKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMgTDEg5YmN57yA5Zu65YyW77yaU3lzdGVtIFByb21wdCBTSEEyNTYg4oaSIOWRveS4reS4iua4uCBwcm9tcHQgY2FjaGluZwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCmNsYXNzIFByZWZpeENhY2hlOgogICAgIiIi5LiN6Ieq5bex57yT5a2Y77yM6ICM5piv5oqKIHN5c3RlbSDmrrXnqLPlrprljJYgKyDmiZPmoIfvvIzorqnkuIrmuLjvvIh2TExNL3NnbGFuZ++8ieeahAogICAgcHJlZml4IGNhY2hpbmcg5ZG95Lit44CC5Yik5o2u77yac3lzdGVtIOWGheWuueWtl+iKgue6p+S4jeWPmCDihpIg5ZCM5LiAIGhhc2gg4oaSIOS4iua4uOWkjeeUqCBLVuOAgiIiIgoKICAgIGRlZiBzdGFiaWxpemUoc2VsZiwgbWVzc2FnZXM6IGxpc3RbTWVzc2FnZV0sIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBsaXN0W01lc3NhZ2VdOgogICAgICAgIHN5c19tc2dzID0gW20gZm9yIG0gaW4gbWVzc2FnZXMgaWYgbS5nZXQoInJvbGUiKSA9PSAic3lzdGVtIl0KICAgICAgICBpZiBub3Qgc3lzX21zZ3M6CiAgICAgICAgICAgIHJldHVybiBtZXNzYWdlcwogICAgICAgIGpvaW5lZCA9ICJcbiIuam9pbihzdHIobS5nZXQoImNvbnRlbnQiLCAiIikpIGZvciBtIGluIHN5c19tc2dzKQogICAgICAgIHN0YXRzLnByZWZpeF9oYXNoID0gaGFzaGxpYi5zaGEyNTYoam9pbmVkLmVuY29kZSgidXRmLTgiKSkuaGV4ZGlnZXN0KClbOjE2XQogICAgICAgICMg5YWz6ZSu77yac3lzdGVtIOawuOi/nOaOkuWcqOacgOWJjeS4lOmhuuW6j+WbuuWumu+8jOmBv+WFjeWboOmhuuW6j+aKluWKqOWvvOiHtCBLViDlpLHphY0KICAgICAgICBub25fc3lzID0gW20gZm9yIG0gaW4gbWVzc2FnZXMgaWYgbS5nZXQoInJvbGUiKSAhPSAic3lzdGVtIl0KICAgICAgICByZXR1cm4gc3lzX21zZ3MgKyBub25fc3lzCgogICAgZGVmIHVwc3RyZWFtX2hlYWRlcnMoc2VsZiwgc3RhdHM6IFNhdmVyU3RhdHMpIC0+IGRpY3Rbc3RyLCBzdHJdOgogICAgICAgICMg57uZ5LiK5ri45LiA5Liq56iz5a6aIGNhY2hlIGtlee+8iOiLpeS4iua4uOaUr+aMgeaYvuW8jyBwcmVmaXgga2V577yJCiAgICAgICAgcmV0dXJuIHsiWC1QcmVmaXgtQ2FjaGUtS2V5Ijogc3RhdHMucHJlZml4X2hhc2h9IGlmIHN0YXRzLnByZWZpeF9oYXNoIGVsc2Uge30KCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMgTDIg5bel5YW35oyJ6ZyA5Yqg6L2977yadG9vbF9zZWFyY2ggLT4gdG9vbF9kZXNjcmliZSAtPiB0b29sX2NhbGwKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpjbGFzcyBMYXp5VG9vbHM6CiAgICAiIiLor7fmsYLph4zoi6XmjILkuobkuIDlpKfloIblrozmlbQgdG9vbCBzY2hlbWHvvIzlhYjlhajpg6jmkqTkuIvvvIzlj6rmmrTpnLLkuIDkuKogdG9vbF9zZWFyY2jjgIIKICAgIOaooeWei+mcgOimgeaXtuajgOe0oiDihpIgZGVzY3JpYmUg5ou/5Yiw5Y2V5LiqIHNjaGVtYSDihpIg5YaNIGNhbGzjgILnnIHmjonmr4/ova7ph43lpI3nmoTlhajph48gc2NoZW1h44CCIiIiCgogICAgU0VBUkNIX1RPT0wgPSB7CiAgICAgICAgInR5cGUiOiAiZnVuY3Rpb24iLAogICAgICAgICJmdW5jdGlvbiI6IHsKICAgICAgICAgICAgIm5hbWUiOiAidG9vbF9zZWFyY2giLAogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi5oyJ5YWz6ZSu6K+N5qOA57Si5Y+v55So5bel5YW377yM6L+U5Zue5bel5YW35ZCN5LiO5LiA5Y+l6K+d55So6YCU44CC6ZyA6KaB5p+Q5bel5YW35pe25YWI5pCc77yM5YaN55SoIHRvb2xfZGVzY3JpYmUg5Y+W5YW25Y+C5pWw44CCIiwKICAgICAgICAgICAgInBhcmFtZXRlcnMiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAgICAgInByb3BlcnRpZXMiOiB7ImtleXdvcmRzIjogeyJ0eXBlIjogImFycmF5IiwgIml0ZW1zIjogeyJ0eXBlIjogInN0cmluZyJ9fX0sCiAgICAgICAgICAgICAgICAicmVxdWlyZWQiOiBbImtleXdvcmRzIl0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgIH0KCiAgICBkZWYgX19pbml0X18oc2VsZiwgZnVsbF90b29sczogbGlzdFtkaWN0XSB8IE5vbmUgPSBOb25lKToKICAgICAgICAjIGZ1bGxfdG9vbHM6IOS9oOaWueWujOaVtOW3peWFt+azqOWGjOihqO+8m+e8uuecgeS4uuepuuihqO+8jHN0YWdlIOiHquWKqCBuby1vcAogICAgICAgIHNlbGYuX3JlZ2lzdHJ5ID0ge3RbImZ1bmN0aW9uIl1bIm5hbWUiXTogdCBmb3IgdCBpbiAoZnVsbF90b29scyBvciBbXSl9CgogICAgZGVmIGNvbGxhcHNlKHNlbGYsIHJlcXVlc3Q6IGRpY3QsIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBkaWN0OgogICAgICAgIHRvb2xzID0gcmVxdWVzdC5nZXQoInRvb2xzIikgb3IgW10KICAgICAgICBpZiBsZW4odG9vbHMpIDw9IDE6CiAgICAgICAgICAgIHJldHVybiByZXF1ZXN0CiAgICAgICAgc2F2ZWQgPSBzdW0obGVuKHN0cih0KSkgZm9yIHQgaW4gdG9vbHMpCiAgICAgICAgc3RhdHMudG9vbF9wYXlsb2FkX3NhdmVkX2NoYXJzICs9IHNhdmVkCiAgICAgICAgIyDmiorms6jlhozooajlubblhaXmnKzlnLDvvIzmm7/mjaLkuLrljZXkuKogc2VhcmNoIOW3peWFtwogICAgICAgIGZvciB0IGluIHRvb2xzOgogICAgICAgICAgICBzZWxmLl9yZWdpc3RyeS5zZXRkZWZhdWx0KHRbImZ1bmN0aW9uIl1bIm5hbWUiXSwgdCkKICAgICAgICByZXF1ZXN0ID0gZGljdChyZXF1ZXN0KQogICAgICAgIHJlcXVlc3RbInRvb2xzIl0gPSBbc2VsZi5TRUFSQ0hfVE9PTF0KICAgICAgICByZXR1cm4gcmVxdWVzdAoKICAgICMg55SxIHBpcGVsaW5lIOWcqOaUtuWIsOaooeWei+eahCB0b29sX3NlYXJjaC90b29sX2Rlc2NyaWJlIOiwg+eUqOaXtuWbnuWhqwogICAgZGVmIHNlYXJjaChzZWxmLCBrZXl3b3JkczogbGlzdFtzdHJdLCB0b3A6IGludCA9IDUpIC0+IGxpc3RbZGljdF06CiAgICAgICAga3dzID0gW2subG93ZXIoKSBmb3IgayBpbiBrZXl3b3Jkc10KICAgICAgICBzY29yZWQgPSBbXQogICAgICAgIGZvciBuYW1lLCB0IGluIHNlbGYuX3JlZ2lzdHJ5Lml0ZW1zKCk6CiAgICAgICAgICAgIGJsb2IgPSAobmFtZSArICIgIiArIHRbImZ1bmN0aW9uIl0uZ2V0KCJkZXNjcmlwdGlvbiIsICIiKSkubG93ZXIoKQogICAgICAgICAgICBzY29yZWQuYXBwZW5kKChzdW0oYmxvYi5jb3VudChrKSBmb3IgayBpbiBrd3MpLCBuYW1lLCB0WyJmdW5jdGlvbiJdLmdldCgiZGVzY3JpcHRpb24iLCAiIikpKQogICAgICAgIHNjb3JlZC5zb3J0KHJldmVyc2U9VHJ1ZSkKICAgICAgICByZXR1cm4gW3sibmFtZSI6IG4sICJkZXNjcmlwdGlvbiI6IGR9IGZvciBzLCBuLCBkIGluIHNjb3JlZFs6dG9wXSBpZiBzID4gMF0KCiAgICBkZWYgZGVzY3JpYmUoc2VsZiwgbmFtZTogc3RyKSAtPiBkaWN0IHwgTm9uZToKICAgICAgICByZXR1cm4gc2VsZi5fcmVnaXN0cnkuZ2V0KG5hbWUpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIEwzIOe7k+aenOWOi+e8qe+8muW3peWFt+i+k+WHuuaIquaWrSArIOWOu+mHjQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCmNsYXNzIFJlc3VsdENvbXByZXNzOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1heF9jaGFyczogaW50ID0gNDAwMCk6CiAgICAgICAgc2VsZi5tYXhfY2hhcnMgPSBtYXhfY2hhcnMKCiAgICBkZWYgY29tcHJlc3Moc2VsZiwgbWVzc2FnZXM6IGxpc3RbTWVzc2FnZV0sIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBsaXN0W01lc3NhZ2VdOgogICAgICAgIHNlZW46IHNldFtzdHJdID0gc2V0KCkKICAgICAgICBvdXQ6IGxpc3RbTWVzc2FnZV0gPSBbXQogICAgICAgIGZvciBtIGluIG1lc3NhZ2VzOgogICAgICAgICAgICBpZiBtLmdldCgicm9sZSIpICE9ICJ0b29sIjoKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQobSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGNvbnRlbnQgPSBzdHIobS5nZXQoImNvbnRlbnQiLCAiIikpCiAgICAgICAgICAgICMg5Y676YeN77ya5ZCM5LiA5bel5YW357uT5p6c6YeN5aSN5Ye6546w5Y+q55WZ5LiA5qyhCiAgICAgICAgICAgIHNpZyA9IGhhc2hsaWIubWQ1KGNvbnRlbnQuZW5jb2RlKCJ1dGYtOCIpKS5oZXhkaWdlc3QoKQogICAgICAgICAgICBpZiBzaWcgaW4gc2VlbjoKICAgICAgICAgICAgICAgIHN0YXRzLnRvb2xfcGF5bG9hZF9zYXZlZF9jaGFycyArPSBsZW4oY29udGVudCkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHNlZW4uYWRkKHNpZykKICAgICAgICAgICAgaWYgbGVuKGNvbnRlbnQpID4gc2VsZi5tYXhfY2hhcnM6CiAgICAgICAgICAgICAgICBzdGF0cy50b29sX3BheWxvYWRfc2F2ZWRfY2hhcnMgKz0gbGVuKGNvbnRlbnQpIC0gc2VsZi5tYXhfY2hhcnMKICAgICAgICAgICAgICAgIGhlYWQgPSBjb250ZW50Wzogc2VsZi5tYXhfY2hhcnMgLSAyMDBdCiAgICAgICAgICAgICAgICB0YWlsID0gY29udGVudFstMjAwOl0KICAgICAgICAgICAgICAgIGNvbnRlbnQgPSBmIntoZWFkfVxu4oCmW+W3suaIquaWrSB7bGVuKGNvbnRlbnQpIC0gc2VsZi5tYXhfY2hhcnN9IOWtl13igKZcbnt0YWlsfSIKICAgICAgICAgICAgbSA9IGRpY3QobSwgY29udGVudD1jb250ZW50KQogICAgICAgICAgICBvdXQuYXBwZW5kKG0pCiAgICAgICAgcmV0dXJuIG91dAoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKIyBMNCBTdG9ybSDmipHliLbvvJrlkIzlj4LmlbAgMyDmrKHmi6bmiKog4oaSIOW8uuWItuaUueetlueVpQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCmNsYXNzIFN0b3JtU3VwcHJlc3NvcjoKICAgICIiIuaMiSAo5Lya6K+dLCDlt6XlhbflkI0sIOWPguaVsCkg6K6h5pWw77yM56ysIDMg5qyh5ZCM5Y+C6LCD55So5oum5oiq77yM5rOo5YWl5LiA5p2h57O757uf5o+Q56S66KaB5rGC5o2i562W55Wl44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHRocmVzaG9sZDogaW50ID0gMyk6CiAgICAgICAgc2VsZi50aHJlc2hvbGQgPSB0aHJlc2hvbGQKICAgICAgICBzZWxmLl9jb3VudGVyOiBkaWN0W3N0ciwgaW50XSA9IHt9CgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9rZXkoY29udl9pZDogc3RyLCB0b29sOiBzdHIsIGFyZ3M6IEFueSkgLT4gc3RyOgogICAgICAgIHJldHVybiBoYXNobGliLm1kNShmIntjb252X2lkfXx7dG9vbH18e2FyZ3N9Ii5lbmNvZGUoInV0Zi04IikpLmhleGRpZ2VzdCgpCgogICAgZGVmIGNoZWNrKHNlbGYsIGNvbnZfaWQ6IHN0ciwgdG9vbDogc3RyLCBhcmdzOiBBbnksIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBPcHRpb25hbFtNZXNzYWdlXToKICAgICAgICBrID0gc2VsZi5fa2V5KGNvbnZfaWQsIHRvb2wsIGFyZ3MpCiAgICAgICAgc2VsZi5fY291bnRlcltrXSA9IHNlbGYuX2NvdW50ZXIuZ2V0KGssIDApICsgMQogICAgICAgIGlmIHNlbGYuX2NvdW50ZXJba10gPj0gc2VsZi50aHJlc2hvbGQ6CiAgICAgICAgICAgIHN0YXRzLnN0b3JtX2Jsb2NrZWQgPSBUcnVlCiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAicm9sZSI6ICJzeXN0ZW0iLAogICAgICAgICAgICAgICAgImNvbnRlbnQiOiAoCiAgICAgICAgICAgICAgICAgICAgZiLmo4DmtYvliLDlr7kgYHt0b29sfWAg55qE55u45ZCM5Y+C5pWw6YeN5aSN6LCD55So5bey6L6+IHtzZWxmLl9jb3VudGVyW2tdfSDmrKHkuJTmnKrlj5blvpfov5vlsZXjgIIiCiAgICAgICAgICAgICAgICAgICAgIuWBnOatoumHjeWkje+8jOaUueWPmOetlueVpe+8muaNouajgOe0ouWFs+mUruivjeOAgeaLhuino+WtkOmXrumimO+8jOaIluebtOaOpeWfuuS6juW3suacieS/oeaBr+S9nOetlOOAgiIKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgIH0KICAgICAgICByZXR1cm4gTm9uZQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKIyBMNSDkuIrkuIvmlofljovnvKnvvJrplb/kvJror53mkZjopoHvvIg5NkvihpIxMDhLIOWMuumXtOinpuWPke+8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCmNsYXNzIENvbnRleHRDb21wcmVzc29yOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGRlcHM6IERlcHMsIHRyaWdnZXJfdG9rZW5zOiBpbnQgPSA5Nl8wMDAsIGtlZXBfcmVjZW50OiBpbnQgPSA2KToKICAgICAgICBzZWxmLmRlcHMgPSBkZXBzCiAgICAgICAgc2VsZi50cmlnZ2VyID0gdHJpZ2dlcl90b2tlbnMKICAgICAgICBzZWxmLmtlZXBfcmVjZW50ID0ga2VlcF9yZWNlbnQKCiAgICBkZWYgbWF5YmVfY29tcHJlc3Moc2VsZiwgbWVzc2FnZXM6IGxpc3RbTWVzc2FnZV0sIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBsaXN0W01lc3NhZ2VdOgogICAgICAgIHRvdGFsID0gX2VzdF90b2tlbnMobWVzc2FnZXMpCiAgICAgICAgaWYgdG90YWwgPCBzZWxmLnRyaWdnZXIgb3Igbm90IHNlbGYuZGVwcy5zdW1tYXJpemU6CiAgICAgICAgICAgIHJldHVybiBtZXNzYWdlcwogICAgICAgIHN5c19tc2dzID0gW20gZm9yIG0gaW4gbWVzc2FnZXMgaWYgbS5nZXQoInJvbGUiKSA9PSAic3lzdGVtIl0KICAgICAgICBib2R5ID0gW20gZm9yIG0gaW4gbWVzc2FnZXMgaWYgbS5nZXQoInJvbGUiKSAhPSAic3lzdGVtIl0KICAgICAgICBpZiBsZW4oYm9keSkgPD0gc2VsZi5rZWVwX3JlY2VudDoKICAgICAgICAgICAgcmV0dXJuIG1lc3NhZ2VzCiAgICAgICAgb2xkLCByZWNlbnQgPSBib2R5WzogLXNlbGYua2VlcF9yZWNlbnRdLCBib2R5Wy1zZWxmLmtlZXBfcmVjZW50IDpdCiAgICAgICAgc3VtbWFyeSA9IHNlbGYuZGVwcy5zdW1tYXJpemUob2xkKSAgIyDkvaDmlrnlsI/mqKHlnovmkZjopoHlmagKICAgICAgICBzdGF0cy5jb250ZXh0X2NvbXByZXNzZWRfZnJvbSA9IHRvdGFsCiAgICAgICAgY29tcHJlc3NlZCA9IHN5c19tc2dzICsgWwogICAgICAgICAgICB7InJvbGUiOiAic3lzdGVtIiwgImNvbnRlbnQiOiBmIlvml6nmnJ/lr7nor53mkZjopoFdXG57c3VtbWFyeX0ifQogICAgICAgIF0gKyByZWNlbnQKICAgICAgICBzdGF0cy5jb250ZXh0X2NvbXByZXNzZWRfdG8gPSBfZXN0X3Rva2Vucyhjb21wcmVzc2VkKQogICAgICAgIHJldHVybiBjb21wcmVzc2VkCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIEw2IOivreS5iee8k+WtmO+8mmVtYmVkZGluZyDnm7jkvLzluqYgPjAuOTUg55u05o6l5aSN55SoCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKY2xhc3MgU2VtYW50aWNDYWNoZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkZXBzOiBEZXBzLCB0aHJlc2hvbGQ6IGZsb2F0ID0gMC45NSwgdHRsX3NlYzogaW50ID0gNyAqIDg2NDAwKToKICAgICAgICBzZWxmLmRlcHMgPSBkZXBzCiAgICAgICAgc2VsZi50aHJlc2hvbGQgPSB0aHJlc2hvbGQKICAgICAgICBzZWxmLnR0bCA9IHR0bF9zZWMKICAgICAgICBzZWxmLl9tZW06IGxpc3RbdHVwbGVbbGlzdFtmbG9hdF0sIGRpY3RdXSA9IFtdICAjIOaXoOWklumDqOW6k+aXtueahOWFnOW6lQoKICAgIGRlZiBfbGFzdF91c2VyKHNlbGYsIG1lc3NhZ2VzOiBsaXN0W01lc3NhZ2VdKSAtPiBPcHRpb25hbFtzdHJdOgogICAgICAgIGZvciBtIGluIHJldmVyc2VkKG1lc3NhZ2VzKToKICAgICAgICAgICAgaWYgbS5nZXQoInJvbGUiKSA9PSAidXNlciI6CiAgICAgICAgICAgICAgICByZXR1cm4gc3RyKG0uZ2V0KCJjb250ZW50IiwgIiIpKQogICAgICAgIHJldHVybiBOb25lCgogICAgZGVmIGxvb2t1cChzZWxmLCBtZXNzYWdlczogbGlzdFtNZXNzYWdlXSwgcm91dGVfa2V5OiBzdHIsIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBPcHRpb25hbFtkaWN0XToKICAgICAgICBpZiBub3Qgc2VsZi5kZXBzLmVtYmVkOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHEgPSBzZWxmLl9sYXN0X3VzZXIobWVzc2FnZXMpCiAgICAgICAgaWYgbm90IHE6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgdmVjID0gc2VsZi5kZXBzLmVtYmVkKHEpCiAgICAgICAgY2FuZGlkYXRlcyA9ICgKICAgICAgICAgICAgc2VsZi5kZXBzLnNlbWFudGljX2NhY2hlX3N0b3JlLnF1ZXJ5KHZlYywgdG9wX2s9MSkKICAgICAgICAgICAgaWYgc2VsZi5kZXBzLnNlbWFudGljX2NhY2hlX3N0b3JlCiAgICAgICAgICAgIGVsc2UgW3sicGF5bG9hZCI6IHAsICJzY29yZSI6IF9jb3NpbmUodmVjLCB2KX0gZm9yIHYsIHAgaW4gc2VsZi5fbWVtXQogICAgICAgICkKICAgICAgICBiZXN0ID0gbWF4KGNhbmRpZGF0ZXMsIGtleT1sYW1iZGEgYzogYy5nZXQoInNjb3JlIiwgMCksIGRlZmF1bHQ9Tm9uZSkgaWYgY2FuZGlkYXRlcyBlbHNlIE5vbmUKICAgICAgICBpZiBiZXN0IGFuZCBiZXN0LmdldCgic2NvcmUiLCAwKSA+PSBzZWxmLnRocmVzaG9sZDoKICAgICAgICAgICAgcCA9IGJlc3RbInBheWxvYWQiXQogICAgICAgICAgICAjIOWQjOS4gOS4k+Wutui3r+eUseS4i+aJjeWkjeeUqO+8jOmBv+WFjei3qCBTa2lsbCDkuLLnrZQKICAgICAgICAgICAgaWYgcC5nZXQoInJvdXRlX2tleSIpID09IHJvdXRlX2tleSBhbmQgKHNlbGYuZGVwcy5ub3coKSAtIHAuZ2V0KCJ0cyIsIDApKSA8IHNlbGYudHRsOgogICAgICAgICAgICAgICAgc3RhdHMuc2VtYW50aWNfY2FjaGVfaGl0ID0gVHJ1ZQogICAgICAgICAgICAgICAgcmV0dXJuIHAuZ2V0KCJjb21wbGV0aW9uIikKICAgICAgICByZXR1cm4gTm9uZQoKICAgIGRlZiBzdG9yZShzZWxmLCBtZXNzYWdlczogbGlzdFtNZXNzYWdlXSwgcm91dGVfa2V5OiBzdHIsIGNvbXBsZXRpb246IGRpY3QsIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBOb25lOgogICAgICAgIGlmIG5vdCBzZWxmLmRlcHMuZW1iZWQgb3Igc3RhdHMuc2VtYW50aWNfY2FjaGVfaGl0OgogICAgICAgICAgICByZXR1cm4KICAgICAgICBxID0gc2VsZi5fbGFzdF91c2VyKG1lc3NhZ2VzKQogICAgICAgIGlmIG5vdCBxOgogICAgICAgICAgICByZXR1cm4KICAgICAgICB2ZWMgPSBzZWxmLmRlcHMuZW1iZWQocSkKICAgICAgICBwYXlsb2FkID0geyJyb3V0ZV9rZXkiOiByb3V0ZV9rZXksICJjb21wbGV0aW9uIjogY29tcGxldGlvbiwgInRzIjogc2VsZi5kZXBzLm5vdygpfQogICAgICAgIGlmIHNlbGYuZGVwcy5zZW1hbnRpY19jYWNoZV9zdG9yZToKICAgICAgICAgICAgc2VsZi5kZXBzLnNlbWFudGljX2NhY2hlX3N0b3JlLmFkZCh2ZWMsIHBheWxvYWQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5fbWVtLmFwcGVuZCgodmVjLCBwYXlsb2FkKSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCiMg57uE5ZCI5Zmo77yacGlwZWxpbmUucHkg5Y+q6ZyA5oyB5pyJ5LiA5LiqIFRva2VuU2F2ZXIKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpAZGF0YWNsYXNzCmNsYXNzIFRva2VuU2F2ZXI6CiAgICBkZXBzOiBEZXBzCiAgICBlbmFibGU6IGRpY3Rbc3RyLCBib29sXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1sYW1iZGE6IHsKICAgICAgICAiTDFfcHJlZml4IjogVHJ1ZSwgIkwyX2xhenlfdG9vbHMiOiBUcnVlLCAiTDNfcmVzdWx0IjogVHJ1ZSwKICAgICAgICAiTDRfc3Rvcm0iOiBUcnVlLCAiTDVfY29udGV4dCI6IFRydWUsICJMNl9zZW1hbnRpYyI6IFRydWUsCiAgICB9KQoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYucHJlZml4ID0gUHJlZml4Q2FjaGUoKQogICAgICAgIHNlbGYubGF6eSA9IExhenlUb29scygpCiAgICAgICAgc2VsZi5yZXN1bHQgPSBSZXN1bHRDb21wcmVzcygpCiAgICAgICAgc2VsZi5zdG9ybSA9IFN0b3JtU3VwcHJlc3NvcigpCiAgICAgICAgc2VsZi5jb250ZXh0ID0gQ29udGV4dENvbXByZXNzb3Ioc2VsZi5kZXBzKQogICAgICAgIHNlbGYuc2VtYW50aWMgPSBTZW1hbnRpY0NhY2hlKHNlbGYuZGVwcykKCiAgICBkZWYgcHJlKHNlbGYsIHJlcXVlc3Q6IGRpY3QsIHN0YXRzOiBTYXZlclN0YXRzKSAtPiBkaWN0OgogICAgICAgICIiIuaooeWei+iwg+eUqOWJjeeahOecgSBUb2tlbiDlpITnkIbvvIhMMS9MMi9MMy9MNe+8ieOAgkw2IOWNleeLrOWcqCBwaXBlbGluZSDmn6XnvJPlrZjjgIIiIiIKICAgICAgICBtc2dzID0gcmVxdWVzdC5nZXQoIm1lc3NhZ2VzIiwgW10pCiAgICAgICAgaWYgc2VsZi5lbmFibGVbIkwzX3Jlc3VsdCJdOgogICAgICAgICAgICBtc2dzID0gc2VsZi5yZXN1bHQuY29tcHJlc3MobXNncywgc3RhdHMpCiAgICAgICAgaWYgc2VsZi5lbmFibGVbIkw1X2NvbnRleHQiXToKICAgICAgICAgICAgbXNncyA9IHNlbGYuY29udGV4dC5tYXliZV9jb21wcmVzcyhtc2dzLCBzdGF0cykKICAgICAgICBpZiBzZWxmLmVuYWJsZVsiTDFfcHJlZml4Il06CiAgICAgICAgICAgIG1zZ3MgPSBzZWxmLnByZWZpeC5zdGFiaWxpemUobXNncywgc3RhdHMpCiAgICAgICAgcmVxdWVzdCA9IGRpY3QocmVxdWVzdCwgbWVzc2FnZXM9bXNncykKICAgICAgICBpZiBzZWxmLmVuYWJsZVsiTDJfbGF6eV90b29scyJdOgogICAgICAgICAgICByZXF1ZXN0ID0gc2VsZi5sYXp5LmNvbGxhcHNlKHJlcXVlc3QsIHN0YXRzKQogICAgICAgIHJldHVybiByZXF1ZXN0Cg==
+"""
+token_saver.py — Kun 省Token 方法论的 6 层实现（中间件模式，不改 OpenClaw 源码）
+
+落点：消息进入模型前/出模型后，由 pipeline.py 串联调用。
+每层都是独立、可单独开关的 Stage，便于按 spec 的「阶段1 先上前3层」分批落地。
+
+依赖（你方应已具备）：
+  - httpx（异步调上游模型）
+  - 一个 embedding 函数 embed(text)->list[float]（bge-m3），由 deps 注入
+  - 一个向量存储（LanceDB/Chroma），这里用可替换的 VectorStore 协议
+所有外部依赖都通过 Deps 注入，未接通时降级为安全 no-op，不会阻断主链路。
+"""
+from __future__ import annotations
+
+import hashlib
+import math
+import time
+from dataclasses import dataclass, field
+from typing import Any, Callable, Optional, Protocol
+
+Message = dict[str, Any]
+
+
+# --------------------------------------------------------------------------- #
+# 依赖注入：把你方真实的 embedding / 向量库 / 摘要模型接进来
+# --------------------------------------------------------------------------- #
+class VectorStore(Protocol):
+    def query(self, vector: list[float], top_k: int) -> list[dict]: ...
+    def add(self, vector: list[float], payload: dict) -> None: ...
+
+
+@dataclass
+class Deps:
+    embed: Optional[Callable[[str], list[float]]] = None        # bge-m3
+    semantic_cache_store: Optional[VectorStore] = None          # LanceDB table
+    summarize: Optional[Callable[[list[Message]], str]] = None  # 长会话摘要器（小模型）
+    now: Callable[[], float] = time.time
+
+
+def _cosine(a: list[float], b: list[float]) -> float:
+    if not a or not b:
+        return 0.0
+    dot = sum(x * y for x, y in zip(a, b))
+    na = math.sqrt(sum(x * x for x in a))
+    nb = math.sqrt(sum(y * y for y in b))
+    return dot / (na * nb) if na and nb else 0.0
+
+
+def _est_tokens(messages: list[Message]) -> int:
+    # 粗估：中文按 ~1.6 char/token，英文按 ~4 char/token，混合取中值 2.0
+    chars = sum(len(str(m.get("content", ""))) for m in messages)
+    return int(chars / 2.0)
+
+
+@dataclass
+class SaverStats:
+    prefix_hash: Optional[str] = None
+    semantic_cache_hit: bool = False
+    context_compressed_from: int = 0
+    context_compressed_to: int = 0
+    storm_blocked: bool = False
+    tool_payload_saved_chars: int = 0
+
+
+# --------------------------------------------------------------------------- #
+# L1 前缀固化：System Prompt SHA256 → 命中上游 prompt caching
+# --------------------------------------------------------------------------- #
+class PrefixCache:
+    """不自己缓存，而是把 system 段稳定化 + 打标，让上游（vLLM/sglang）的
+    prefix caching 命中。判据：system 内容字节级不变 → 同一 hash → 上游复用 KV。"""
+
+    def stabilize(self, messages: list[Message], stats: SaverStats) -> list[Message]:
+        sys_msgs = [m for m in messages if m.get("role") == "system"]
+        if not sys_msgs:
+            return messages
+        joined = "\n".join(str(m.get("content", "")) for m in sys_msgs)
+        stats.prefix_hash = hashlib.sha256(joined.encode("utf-8")).hexdigest()[:16]
+        # 关键：system 永远排在最前且顺序固定，避免因顺序抖动导致 KV 失配
+        non_sys = [m for m in messages if m.get("role") != "system"]
+        return sys_msgs + non_sys
+
+    def upstream_headers(self, stats: SaverStats) -> dict[str, str]:
+        # 给上游一个稳定 cache key（若上游支持显式 prefix key）
+        return {"X-Prefix-Cache-Key": stats.prefix_hash} if stats.prefix_hash else {}
+
+
+# --------------------------------------------------------------------------- #
+# L2 工具按需加载：tool_search -> tool_describe -> tool_call
+# --------------------------------------------------------------------------- #
+class LazyTools:
+    """请求里若挂了一大堆完整 tool schema，先全部撤下，只暴露一个 tool_search。
+    模型需要时检索 → describe 拿到单个 schema → 再 call。省掉每轮重复的全量 schema。"""
+
+    SEARCH_TOOL = {
+        "type": "function",
+        "function": {
+            "name": "tool_search",
+            "description": "按关键词检索可用工具，返回工具名与一句话用途。需要某工具时先搜，再用 tool_describe 取其参数。",
+            "parameters": {
+                "type": "object",
+                "properties": {"keywords": {"type": "array", "items": {"type": "string"}}},
+                "required": ["keywords"],
+            },
+        },
+    }
+
+    def __init__(self, full_tools: list[dict] | None = None):
+        # full_tools: 你方完整工具注册表；缺省为空表，stage 自动 no-op
+        self._registry = {t["function"]["name"]: t for t in (full_tools or [])}
+
+    def collapse(self, request: dict, stats: SaverStats) -> dict:
+        tools = request.get("tools") or []
+        if len(tools) <= 1:
+            return request
+        saved = sum(len(str(t)) for t in tools)
+        stats.tool_payload_saved_chars += saved
+        # 把注册表并入本地，替换为单个 search 工具
+        for t in tools:
+            self._registry.setdefault(t["function"]["name"], t)
+        request = dict(request)
+        request["tools"] = [self.SEARCH_TOOL]
+        return request
+
+    # 由 pipeline 在收到模型的 tool_search/tool_describe 调用时回填
+    def search(self, keywords: list[str], top: int = 5) -> list[dict]:
+        kws = [k.lower() for k in keywords]
+        scored = []
+        for name, t in self._registry.items():
+            blob = (name + " " + t["function"].get("description", "")).lower()
+            scored.append((sum(blob.count(k) for k in kws), name, t["function"].get("description", "")))
+        scored.sort(reverse=True)
+        return [{"name": n, "description": d} for s, n, d in scored[:top] if s > 0]
+
+    def describe(self, name: str) -> dict | None:
+        return self._registry.get(name)
+
+
+# --------------------------------------------------------------------------- #
+# L3 结果压缩：工具输出截断 + 去重
+# --------------------------------------------------------------------------- #
+class ResultCompress:
+    def __init__(self, max_chars: int = 4000):
+        self.max_chars = max_chars
+
+    def compress(self, messages: list[Message], stats: SaverStats) -> list[Message]:
+        seen: set[str] = set()
+        out: list[Message] = []
+        for m in messages:
+            if m.get("role") != "tool":
+                out.append(m)
+                continue
+            content = str(m.get("content", ""))
+            # 去重：同一工具结果重复出现只留一次
+            sig = hashlib.md5(content.encode("utf-8")).hexdigest()
+            if sig in seen:
+                stats.tool_payload_saved_chars += len(content)
+                continue
+            seen.add(sig)
+            if len(content) > self.max_chars:
+                stats.tool_payload_saved_chars += len(content) - self.max_chars
+                head = content[: self.max_chars - 200]
+                tail = content[-200:]
+                content = f"{head}\n…[已截断 {len(content) - self.max_chars} 字]…\n{tail}"
+            m = dict(m, content=content)
+            out.append(m)
+        return out
+
+
+# --------------------------------------------------------------------------- #
+# L4 Storm 抑制：同参数 3 次拦截 → 强制改策略
+# --------------------------------------------------------------------------- #
+class StormSuppressor:
+    """按 (会话, 工具名, 参数) 计数，第 3 次同参调用拦截，注入一条系统提示要求换策略。"""
+
+    def __init__(self, threshold: int = 3):
+        self.threshold = threshold
+        self._counter: dict[str, int] = {}
+
+    @staticmethod
+    def _key(conv_id: str, tool: str, args: Any) -> str:
+        return hashlib.md5(f"{conv_id}|{tool}|{args}".encode("utf-8")).hexdigest()
+
+    def check(self, conv_id: str, tool: str, args: Any, stats: SaverStats) -> Optional[Message]:
+        k = self._key(conv_id, tool, args)
+        self._counter[k] = self._counter.get(k, 0) + 1
+        if self._counter[k] >= self.threshold:
+            stats.storm_blocked = True
+            return {
+                "role": "system",
+                "content": (
+                    f"检测到对 `{tool}` 的相同参数重复调用已达 {self._counter[k]} 次且未取得进展。"
+                    "停止重复，改变策略：换检索关键词、拆解子问题，或直接基于已有信息作答。"
+                ),
+            }
+        return None
+
+
+# --------------------------------------------------------------------------- #
+# L5 上下文压缩：长会话摘要（96K→108K 区间触发）
+# --------------------------------------------------------------------------- #
+class ContextCompressor:
+    def __init__(self, deps: Deps, trigger_tokens: int = 96_000, keep_recent: int = 6):
+        self.deps = deps
+        self.trigger = trigger_tokens
+        self.keep_recent = keep_recent
+
+    def maybe_compress(self, messages: list[Message], stats: SaverStats) -> list[Message]:
+        total = _est_tokens(messages)
+        if total < self.trigger or not self.deps.summarize:
+            return messages
+        sys_msgs = [m for m in messages if m.get("role") == "system"]
+        body = [m for m in messages if m.get("role") != "system"]
+        if len(body) <= self.keep_recent:
+            return messages
+        old, recent = body[: -self.keep_recent], body[-self.keep_recent :]
+        summary = self.deps.summarize(old)  # 你方小模型摘要器
+        stats.context_compressed_from = total
+        compressed = sys_msgs + [
+            {"role": "system", "content": f"[早期对话摘要]\n{summary}"}
+        ] + recent
+        stats.context_compressed_to = _est_tokens(compressed)
+        return compressed
+
+
+# --------------------------------------------------------------------------- #
+# L6 语义缓存：embedding 相似度 >0.95 直接复用
+# --------------------------------------------------------------------------- #
+class SemanticCache:
+    def __init__(self, deps: Deps, threshold: float = 0.95, ttl_sec: int = 7 * 86400):
+        self.deps = deps
+        self.threshold = threshold
+        self.ttl = ttl_sec
+        self._mem: list[tuple[list[float], dict]] = []  # 无外部库时的兜底
+
+    def _last_user(self, messages: list[Message]) -> Optional[str]:
+        for m in reversed(messages):
+            if m.get("role") == "user":
+                return str(m.get("content", ""))
+        return None
+
+    def lookup(self, messages: list[Message], route_key: str, stats: SaverStats) -> Optional[dict]:
+        if not self.deps.embed:
+            return None
+        q = self._last_user(messages)
+        if not q:
+            return None
+        vec = self.deps.embed(q)
+        candidates = (
+            self.deps.semantic_cache_store.query(vec, top_k=1)
+            if self.deps.semantic_cache_store
+            else [{"payload": p, "score": _cosine(vec, v)} for v, p in self._mem]
+        )
+        best = max(candidates, key=lambda c: c.get("score", 0), default=None) if candidates else None
+        if best and best.get("score", 0) >= self.threshold:
+            p = best["payload"]
+            # 同一专家路由下才复用，避免跨 Skill 串答
+            if p.get("route_key") == route_key and (self.deps.now() - p.get("ts", 0)) < self.ttl:
+                stats.semantic_cache_hit = True
+                return p.get("completion")
+        return None
+
+    def store(self, messages: list[Message], route_key: str, completion: dict, stats: SaverStats) -> None:
+        if not self.deps.embed or stats.semantic_cache_hit:
+            return
+        q = self._last_user(messages)
+        if not q:
+            return
+        vec = self.deps.embed(q)
+        payload = {"route_key": route_key, "completion": completion, "ts": self.deps.now()}
+        if self.deps.semantic_cache_store:
+            self.deps.semantic_cache_store.add(vec, payload)
+        else:
+            self._mem.append((vec, payload))
+
+
+# --------------------------------------------------------------------------- #
+# 组合器：pipeline.py 只需持有一个 TokenSaver
+# --------------------------------------------------------------------------- #
+@dataclass
+class TokenSaver:
+    deps: Deps
+    enable: dict[str, bool] = field(default_factory=lambda: {
+        "L1_prefix": True, "L2_lazy_tools": True, "L3_result": True,
+        "L4_storm": True, "L5_context": True, "L6_semantic": True,
+    })
+
+    def __post_init__(self):
+        self.prefix = PrefixCache()
+        self.lazy = LazyTools()
+        self.result = ResultCompress()
+        self.storm = StormSuppressor()
+        self.context = ContextCompressor(self.deps)
+        self.semantic = SemanticCache(self.deps)
+
+    def pre(self, request: dict, stats: SaverStats) -> dict:
+        """模型调用前的省 Token 处理（L1/L2/L3/L5）。L6 单独在 pipeline 查缓存。"""
+        msgs = request.get("messages", [])
+        if self.enable["L3_result"]:
+            msgs = self.result.compress(msgs, stats)
+        if self.enable["L5_context"]:
+            msgs = self.context.maybe_compress(msgs, stats)
+        if self.enable["L1_prefix"]:
+            msgs = self.prefix.stabilize(msgs, stats)
+        request = dict(request, messages=msgs)
+        if self.enable["L2_lazy_tools"]:
+            request = self.lazy.collapse(request, stats)
+        return request

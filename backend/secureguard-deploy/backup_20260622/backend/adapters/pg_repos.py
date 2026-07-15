@@ -1,1 +1,139 @@
-IiIiYmFja2VuZC5hZGFwdGVycy5wZ19yZXBvcyDigJQgUG9zdGdyZXMg5oyB5LmF5YyW77yIRERMICsg5LuT5YKo77yJ44CCCgrimqDvuI8g5pyq5Zyo5rKZ566x5rWL6K+V77ya6ZyAIFBvc3RncmVzICsgYXN5bmNwZ+OAguacrOaWh+S7tue7meWHuu+8mgogIDEpIOW7uuihqCBEREzvvIjkuI4gQ09OVFJBQ1QubWQgwqc1IOS4gOiHtO+8ie+8mwogIDIpIERhdGFiYXNlIOi/nuaOpeaxoOWwgeijhe+8mwogIDMpIOS4pOS4quS7o+ihqOaAp+S7k+WCqO+8iEF1ZGl0UmVwbyAvIFF1b3RhUmVwb++8ieS9nOS4uuiMg+W8j+OAggoK5o6l5YWl5oyH5byV77yIQjcr77yJ77ya5oqKIEF1dGhTZXJ2aWNlL0FnZW50U2VydmljZS9LQlNlcnZpY2Ug5YaF6YOo55qE5YaF5a2YIGRpY3Qg5pu/5o2i5Li65a+55bqU5LuT5YKo6LCD55So77yMCioq5a+55aSW5pa55rOV562+5ZCN5LiN5Y+YKirvvIzlm6DmraQgY2hhdF9zZXJ2aWNlIC8g56uv54K55bGC5peg6ZyA5pS55Yqo44CC5YW25L2Z6KGoKHVzZXJzL2FnZW50cy9rYinmjInlkIzmoLcK6IyD5byP6KGl5LuT5YKo5Y2z5Y+v44CCYXN5bmNwZyDmh5LliqDovb3jgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIExpc3QsIE9wdGlvbmFsCgpEREwgPSAiIiIKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgdXNlcnMgKAogIGlkIFRFWFQgUFJJTUFSWSBLRVksIHBob25lIFRFWFQgVU5JUVVFLCB3ZWNoYXRfb3BlbmlkIFRFWFQsCiAgcm9sZSBURVhUIE5PVCBOVUxMLCBkZXB0X2lkIFRFWFQsIGRlcHRfYWRtaW4gQk9PTEVBTiBERUZBVUxUIEZBTFNFLAogIHB3ZF9zYWx0IEJZVEVBLCBwd2RfaGFzaCBURVhULCBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIERFRkFVTFQgbm93KCkKKTsKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYWdlbnRzICgKICBpZCBURVhUIFBSSU1BUlkgS0VZLCBuYW1lIFRFWFQsIGRlc2NyaXB0aW9uIFRFWFQsIGRvbWFpbiBURVhULAogIHN5c3RlbV9wcm9tcHQgVEVYVCwgbW9kZWwgVEVYVCwgZmFsbGJhY2tfbW9kZWwgVEVYVCwKICBjb21wdXRlX3BvbGljeSBKU09OQiwgc2NvcGUgVEVYVCwgZnJlZV9xdW90YSBKU09OQiwKICB2aXNpYmlsaXR5IFRFWFQsIG93bmVyX2lkIFRFWFQsIHN0YXR1cyBURVhULCBkZXB0X2lkIFRFWFQsCiAgY3JlYXRlZF9hdCBUSU1FU1RBTVBUWiBERUZBVUxUIG5vdygpCik7CkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIHF1b3RhcyAoCiAgdXNlcl9pZCBURVhULCBhZ2VudF9pZCBURVhULCBwZXJpb2QgVEVYVCwKICB1c2VkX3Rva2VucyBCSUdJTlQgREVGQVVMVCAwLCBsaW1pdF90b2tlbnMgQklHSU5ULAogIGxvY2tlZCBCT09MRUFOIERFRkFVTFQgRkFMU0UsIGZyZWV6ZV91bnRpbCBUSU1FU1RBTVBUWiwKICBQUklNQVJZIEtFWSAodXNlcl9pZCwgYWdlbnRfaWQsIHBlcmlvZCkKKTsKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYXVkaXQgKAogIGlkIEJJR1NFUklBTCBQUklNQVJZIEtFWSwgc2Vzc2lvbl9pZCBURVhULCBzdGFnZSBURVhULCBkZWNpc2lvbiBURVhULAogIHJlYXNvbiBURVhULCBpbnB1dF9oYXNoIFRFWFQsIG91dHB1dF9oYXNoIFRFWFQsIHJ1bGVfaWQgVEVYVCwgdGllciBURVhULAogIGxhdGVuY3lfbXMgSU5ULCBwcmV2X2hhc2ggQ0hBUig2NCksIGVudHJ5X2hhc2ggQ0hBUig2NCksCiAgY3JlYXRlZF9hdCBUSU1FU1RBTVBUWiBERUZBVUxUIG5vdygpCik7CkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGtub3dsZWRnZV9iYXNlcyAoCiAgaWQgVEVYVCBQUklNQVJZIEtFWSwgbmFtZSBURVhULCB0eXBlIFRFWFQsIHRlbmFudF9pZCBURVhULAogIHZpc2liaWxpdHkgVEVYVCwgb3duZXJfaWQgVEVYVCwgYWxsb3dlZF9yb2xlcyBKU09OQiwgZGVwdF9pZCBURVhULAogIGNyZWF0ZWRfYXQgVElNRVNUQU1QVFogREVGQVVMVCBub3coKQopOwoiIiIKCgpjbGFzcyBEYXRhYmFzZToKICAgICIiImFzeW5jcGcg6L+e5o6l5rGg5bCB6KOF44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGRzbjogc3RyKSAtPiBOb25lOgogICAgICAgIHNlbGYuZHNuID0gZHNuCiAgICAgICAgc2VsZi5fcG9vbDogT3B0aW9uYWxbQW55XSA9IE5vbmUKCiAgICBhc3luYyBkZWYgY29ubmVjdChzZWxmKSAtPiBOb25lOiAgIyBwcmFnbWE6IG5vIGNvdmVyIC0g6ZyA55yf5a6eIFBHCiAgICAgICAgdHJ5OgogICAgICAgICAgICBpbXBvcnQgYXN5bmNwZyAgIyDmh5LliqDovb0KICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiUG9zdGdyZXMg5LuT5YKo6ZyA6KaBIGFzeW5jcGfvvJpwaXAgaW5zdGFsbCBhc3luY3BnIikgZnJvbSBlCiAgICAgICAgc2VsZi5fcG9vbCA9IGF3YWl0IGFzeW5jcGcuY3JlYXRlX3Bvb2woc2VsZi5kc24pCiAgICAgICAgYXN5bmMgd2l0aCBzZWxmLl9wb29sLmFjcXVpcmUoKSBhcyBjb246CiAgICAgICAgICAgIGF3YWl0IGNvbi5leGVjdXRlKERETCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBwb29sKHNlbGYpIC0+IEFueTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIGlmIHNlbGYuX3Bvb2wgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJEYXRhYmFzZSDmnKrov57mjqXvvIzlhYggYXdhaXQgY29ubmVjdCgpIikKICAgICAgICByZXR1cm4gc2VsZi5fcG9vbAoKCmNsYXNzIEF1ZGl0UmVwbzoKICAgICIiIuWuoeiuoeiQvSBQR+OAgmFwcGVuZCDml7bmkLrluKblk4jluIzpk77lrZfmrrXvvIjkuI4gbDRfYXVkaXQg5LiA6Ie077yJ44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGRiOiBEYXRhYmFzZSkgLT4gTm9uZToKICAgICAgICBzZWxmLmRiID0gZGIKCiAgICBhc3luYyBkZWYgYXBwZW5kKHNlbGYsIGU6IEFueSkgLT4gTm9uZTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIGFzeW5jIHdpdGggc2VsZi5kYi5wb29sLmFjcXVpcmUoKSBhcyBjb246CiAgICAgICAgICAgIGF3YWl0IGNvbi5leGVjdXRlKAogICAgICAgICAgICAgICAgIiIiSU5TRVJUIElOVE8gYXVkaXQoc2Vzc2lvbl9pZCxzdGFnZSxkZWNpc2lvbixyZWFzb24saW5wdXRfaGFzaCwKICAgICAgICAgICAgICAgICAgIG91dHB1dF9oYXNoLHJ1bGVfaWQsdGllcixsYXRlbmN5X21zLHByZXZfaGFzaCxlbnRyeV9oYXNoKQogICAgICAgICAgICAgICAgICAgVkFMVUVTKCQxLCQyLCQzLCQ0LCQ1LCQ2LCQ3LCQ4LCQ5LCQxMCwkMTEpIiIiLAogICAgICAgICAgICAgICAgZS5zZXNzaW9uX2lkLCBlLnN0YWdlLCBlLmRlY2lzaW9uLCBlLnJlYXNvbiwgZS5pbnB1dF9oYXNoLAogICAgICAgICAgICAgICAgZS5vdXRwdXRfaGFzaCwgZS5leHRyYS5nZXQoInJ1bGVfaWQiLCAiIiksIGUuZXh0cmEuZ2V0KCJ0aWVyIiwgIiIpLAogICAgICAgICAgICAgICAgZS5sYXRlbmN5X21zLCBlLnByZXZfaGFzaCwgZS5lbnRyeV9oYXNoLAogICAgICAgICAgICApCgogICAgYXN5bmMgZGVmIHJlY2VudChzZWxmLCBuOiBpbnQgPSAxMCkgLT4gTGlzdFtkaWN0XTogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIGFzeW5jIHdpdGggc2VsZi5kYi5wb29sLmFjcXVpcmUoKSBhcyBjb246CiAgICAgICAgICAgIHJvd3MgPSBhd2FpdCBjb24uZmV0Y2goCiAgICAgICAgICAgICAgICAiU0VMRUNUIGVudHJ5X2hhc2gsc3RhZ2UsZGVjaXNpb24sY3JlYXRlZF9hdCBGUk9NIGF1ZGl0IE9SREVSIEJZIGlkIERFU0MgTElNSVQgJDEiLCBuKQogICAgICAgICAgICByZXR1cm4gW2RpY3QocikgZm9yIHIgaW4gcm93c10KCgpjbGFzcyBRdW90YVJlcG86CiAgICAiIiLphY3pop3okL0gUEfvvIjljp/lrZDmiaPlh4/nlKjooYzplIEgLyBVUERBVEUuLi5SRVRVUk5JTkfvvInjgIJSZWRpcyDniYjmm7TpgILlkIjpq5jlubblj5HjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZGI6IERhdGFiYXNlKSAtPiBOb25lOgogICAgICAgIHNlbGYuZGIgPSBkYgoKICAgIGFzeW5jIGRlZiBjb25zdW1lKHNlbGYsIHVzZXJfaWQ6IHN0ciwgYWdlbnRfaWQ6IHN0ciwgcGVyaW9kOiBzdHIsCiAgICAgICAgICAgICAgICAgICAgICB0b2tlbnM6IGludCwgbGltaXQ6IGludCkgLT4gZGljdDogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIGFzeW5jIHdpdGggc2VsZi5kYi5wb29sLmFjcXVpcmUoKSBhcyBjb246CiAgICAgICAgICAgIGFzeW5jIHdpdGggY29uLnRyYW5zYWN0aW9uKCk6CiAgICAgICAgICAgICAgICByb3cgPSBhd2FpdCBjb24uZmV0Y2hyb3coCiAgICAgICAgICAgICAgICAgICAgIiIiSU5TRVJUIElOVE8gcXVvdGFzKHVzZXJfaWQsYWdlbnRfaWQscGVyaW9kLHVzZWRfdG9rZW5zLGxpbWl0X3Rva2VucykKICAgICAgICAgICAgICAgICAgICAgICBWQUxVRVMoJDEsJDIsJDMsJDQsJDUpCiAgICAgICAgICAgICAgICAgICAgICAgT04gQ09ORkxJQ1QgKHVzZXJfaWQsYWdlbnRfaWQscGVyaW9kKSBETyBVUERBVEUKICAgICAgICAgICAgICAgICAgICAgICAgIFNFVCB1c2VkX3Rva2VucyA9IHF1b3Rhcy51c2VkX3Rva2VucyArIEVYQ0xVREVELnVzZWRfdG9rZW5zCiAgICAgICAgICAgICAgICAgICAgICAgUkVUVVJOSU5HIHVzZWRfdG9rZW5zLCBsaW1pdF90b2tlbnMsIGxvY2tlZCIiIiwKICAgICAgICAgICAgICAgICAgICB1c2VyX2lkLCBhZ2VudF9pZCwgcGVyaW9kLCB0b2tlbnMsIGxpbWl0KQogICAgICAgICAgICAgICAgdXNlZCwgbGltLCBsb2NrZWQgPSByb3dbInVzZWRfdG9rZW5zIl0sIHJvd1sibGltaXRfdG9rZW5zIl0sIHJvd1sibG9ja2VkIl0KICAgICAgICAgICAgICAgIGlmIHVzZWQgPj0gbGltIGFuZCBub3QgbG9ja2VkOgogICAgICAgICAgICAgICAgICAgIGF3YWl0IGNvbi5leGVjdXRlKAogICAgICAgICAgICAgICAgICAgICAgICAiVVBEQVRFIHF1b3RhcyBTRVQgbG9ja2VkPVRSVUUgV0hFUkUgdXNlcl9pZD0kMSBBTkQgYWdlbnRfaWQ9JDIgQU5EIHBlcmlvZD0kMyIsCiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQsIGFnZW50X2lkLCBwZXJpb2QpCiAgICAgICAgICAgICAgICAgICAgbG9ja2VkID0gVHJ1ZQogICAgICAgICAgICAgICAgcmV0dXJuIHsidXNlZCI6IHVzZWQsICJsaW1pdCI6IGxpbSwgImxvY2tlZCI6IGxvY2tlZH0KCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gIwojIOW+ruS/oSBPQXV0aCDnnJ/lrp7lrp7njrDvvIjmm7/mjaIgYXV0aC53ZWNoYXRfY2FsbGJhY2sg55qE5qGp77yJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAjCmFzeW5jIGRlZiB3ZWNoYXRfZXhjaGFuZ2UoY29kZTogc3RyLCBhcHBpZDogc3RyLCBzZWNyZXQ6IHN0cikgLT4gZGljdDogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgIiIiY29kZSDihpIgYWNjZXNzX3Rva2VuICsgb3Blbmlk44CC6ZyA6IGU572RICsg55yf5a6e5a+G6ZKl44CCIiIiCiAgICB0cnk6CiAgICAgICAgaW1wb3J0IGh0dHB4CiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCLlvq7kv6EgT0F1dGgg6ZyA6KaBIGh0dHB4IikgZnJvbSBlCiAgICBhc3luYyB3aXRoIGh0dHB4LkFzeW5jQ2xpZW50KHRpbWVvdXQ9MTAuMCkgYXMgYzoKICAgICAgICByID0gYXdhaXQgYy5nZXQoImh0dHBzOi8vYXBpLndlaXhpbi5xcS5jb20vc25zL29hdXRoMi9hY2Nlc3NfdG9rZW4iLCBwYXJhbXM9ewogICAgICAgICAgICAiYXBwaWQiOiBhcHBpZCwgInNlY3JldCI6IHNlY3JldCwgImNvZGUiOiBjb2RlLCAiZ3JhbnRfdHlwZSI6ICJhdXRob3JpemF0aW9uX2NvZGUiLAogICAgICAgIH0pCiAgICAgICAgci5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICBkYXRhID0gci5qc29uKCkKICAgICAgICBpZiAib3BlbmlkIiBub3QgaW4gZGF0YToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYi5b6u5L+h5o2i5Y+W5aSx6LSlOiB7ZGF0YX0iKQogICAgICAgIHJldHVybiB7Im9wZW5pZCI6IGRhdGFbIm9wZW5pZCJdLCAiYWNjZXNzX3Rva2VuIjogZGF0YS5nZXQoImFjY2Vzc190b2tlbiIsICIiKX0K
+"""backend.adapters.pg_repos — Postgres 持久化（DDL + 仓储）。
+
+⚠️ 未在沙箱测试：需 Postgres + asyncpg。本文件给出：
+  1) 建表 DDL（与 CONTRACT.md §5 一致）；
+  2) Database 连接池封装；
+  3) 两个代表性仓储（AuditRepo / QuotaRepo）作为范式。
+
+接入指引（B7+）：把 AuthService/AgentService/KBService 内部的内存 dict 替换为对应仓储调用，
+**对外方法签名不变**，因此 chat_service / 端点层无需改动。其余表(users/agents/kb)按同样
+范式补仓储即可。asyncpg 懒加载。
+"""
+from __future__ import annotations
+
+from typing import Any, List, Optional
+
+DDL = """
+CREATE TABLE IF NOT EXISTS users (
+  id TEXT PRIMARY KEY, phone TEXT UNIQUE, wechat_openid TEXT,
+  role TEXT NOT NULL, dept_id TEXT, dept_admin BOOLEAN DEFAULT FALSE,
+  pwd_salt BYTEA, pwd_hash TEXT, created_at TIMESTAMPTZ DEFAULT now()
+);
+CREATE TABLE IF NOT EXISTS agents (
+  id TEXT PRIMARY KEY, name TEXT, description TEXT, domain TEXT,
+  system_prompt TEXT, model TEXT, fallback_model TEXT,
+  compute_policy JSONB, scope TEXT, free_quota JSONB,
+  visibility TEXT, owner_id TEXT, status TEXT, dept_id TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+CREATE TABLE IF NOT EXISTS quotas (
+  user_id TEXT, agent_id TEXT, period TEXT,
+  used_tokens BIGINT DEFAULT 0, limit_tokens BIGINT,
+  locked BOOLEAN DEFAULT FALSE, freeze_until TIMESTAMPTZ,
+  PRIMARY KEY (user_id, agent_id, period)
+);
+CREATE TABLE IF NOT EXISTS audit (
+  id BIGSERIAL PRIMARY KEY, session_id TEXT, stage TEXT, decision TEXT,
+  reason TEXT, input_hash TEXT, output_hash TEXT, rule_id TEXT, tier TEXT,
+  latency_ms INT, prev_hash CHAR(64), entry_hash CHAR(64),
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+CREATE TABLE IF NOT EXISTS knowledge_bases (
+  id TEXT PRIMARY KEY, name TEXT, type TEXT, tenant_id TEXT,
+  visibility TEXT, owner_id TEXT, allowed_roles JSONB, dept_id TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+"""
+
+
+class Database:
+    """asyncpg 连接池封装。"""
+
+    def __init__(self, dsn: str) -> None:
+        self.dsn = dsn
+        self._pool: Optional[Any] = None
+
+    async def connect(self) -> None:  # pragma: no cover - 需真实 PG
+        try:
+            import asyncpg  # 懒加载
+        except Exception as e:
+            raise RuntimeError("Postgres 仓储需要 asyncpg：pip install asyncpg") from e
+        self._pool = await asyncpg.create_pool(self.dsn)
+        async with self._pool.acquire() as con:
+            await con.execute(DDL)
+
+    @property
+    def pool(self) -> Any:  # pragma: no cover
+        if self._pool is None:
+            raise RuntimeError("Database 未连接，先 await connect()")
+        return self._pool
+
+
+class AuditRepo:
+    """审计落 PG。append 时携带哈希链字段（与 l4_audit 一致）。"""
+
+    def __init__(self, db: Database) -> None:
+        self.db = db
+
+    async def append(self, e: Any) -> None:  # pragma: no cover
+        async with self.db.pool.acquire() as con:
+            await con.execute(
+                """INSERT INTO audit(session_id,stage,decision,reason,input_hash,
+                   output_hash,rule_id,tier,latency_ms,prev_hash,entry_hash)
+                   VALUES($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11)""",
+                e.session_id, e.stage, e.decision, e.reason, e.input_hash,
+                e.output_hash, e.extra.get("rule_id", ""), e.extra.get("tier", ""),
+                e.latency_ms, e.prev_hash, e.entry_hash,
+            )
+
+    async def recent(self, n: int = 10) -> List[dict]:  # pragma: no cover
+        async with self.db.pool.acquire() as con:
+            rows = await con.fetch(
+                "SELECT entry_hash,stage,decision,created_at FROM audit ORDER BY id DESC LIMIT $1", n)
+            return [dict(r) for r in rows]
+
+
+class QuotaRepo:
+    """配额落 PG（原子扣减用行锁 / UPDATE...RETURNING）。Redis 版更适合高并发。"""
+
+    def __init__(self, db: Database) -> None:
+        self.db = db
+
+    async def consume(self, user_id: str, agent_id: str, period: str,
+                      tokens: int, limit: int) -> dict:  # pragma: no cover
+        async with self.db.pool.acquire() as con:
+            async with con.transaction():
+                row = await con.fetchrow(
+                    """INSERT INTO quotas(user_id,agent_id,period,used_tokens,limit_tokens)
+                       VALUES($1,$2,$3,$4,$5)
+                       ON CONFLICT (user_id,agent_id,period) DO UPDATE
+                         SET used_tokens = quotas.used_tokens + EXCLUDED.used_tokens
+                       RETURNING used_tokens, limit_tokens, locked""",
+                    user_id, agent_id, period, tokens, limit)
+                used, lim, locked = row["used_tokens"], row["limit_tokens"], row["locked"]
+                if used >= lim and not locked:
+                    await con.execute(
+                        "UPDATE quotas SET locked=TRUE WHERE user_id=$1 AND agent_id=$2 AND period=$3",
+                        user_id, agent_id, period)
+                    locked = True
+                return {"used": used, "limit": lim, "locked": locked}
+
+
+# ====================================================================== #
+# 微信 OAuth 真实实现（替换 auth.wechat_callback 的桩）
+# ====================================================================== #
+async def wechat_exchange(code: str, appid: str, secret: str) -> dict:  # pragma: no cover
+    """code → access_token + openid。需联网 + 真实密钥。"""
+    try:
+        import httpx
+    except Exception as e:
+        raise RuntimeError("微信 OAuth 需要 httpx") from e
+    async with httpx.AsyncClient(timeout=10.0) as c:
+        r = await c.get("https://api.weixin.qq.com/sns/oauth2/access_token", params={
+            "appid": appid, "secret": secret, "code": code, "grant_type": "authorization_code",
+        })
+        r.raise_for_status()
+        data = r.json()
+        if "openid" not in data:
+            raise RuntimeError(f"微信换取失败: {data}")
+        return {"openid": data["openid"], "access_token": data.get("access_token", "")}

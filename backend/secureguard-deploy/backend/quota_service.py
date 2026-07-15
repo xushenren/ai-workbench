@@ -1,1 +1,169 @@
-IiIiYmFja2VuZC5xdW90YV9zZXJ2aWNlIOKAlCDphY3pop3kuI7orqHotLnvvIhCNO+8jOahhuaetuaXoOWFs+aguOW/g++8ieOAggoKRDYg6YWN6aKd5qih5Z6L77yaCiAgICDlhY3otLnpop3luqYo5aaCIDEwSy/mnIgpCiAgICAgIOKGkyDnlKjlrowKICAgIOWFgeiuuOi0n+aVsCjkuI3kuK3mlq3lvZPliY3or7fmsYIpIOKAlOKAlCDot6jov4fpmIjlgLznmoTpgqPkuIDmrKHor7fmsYLnhafluLjlrozmiJAKICAgICAg4oaTIOS9meminSDiiaQgMAogICAg6ZSB5a6a6K+l5pm66IO95L2TKOWvueatpOeUqOaItykKICAgICAg4oaTCiAgICDnrYnlhrvnu5Pml7bpl7TliLAo5LiL5pyI6YeN572uKSDmiJYg5YWF5YC8IOKGkiDnq4vljbPop6PplIEKCuW5tuWPkeWuieWFqO+8mueUqCBhc3luY2lvLkxvY2sg5L+d5oqkIuivuy3mlLkt5YaZIuS4tOeVjOWMuuOAguS4tOeVjOWMuuWGheaVheaEj+eVmeS4gOS4qiBhd2FpdCDorqnlh7rngrnvvIwK6K+B5piOKirmnInplIHliJnkuI3kuKLmm7TmlrAqKijml6DplIHkvJrpgI/mlK8p44CC55Sf5Lqn5o2iIFJlZGlzIERFQ1JCWSArIEx1YSDohJrmnKzvvIzor63kuYnkuIDoh7TjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhc3luY2lvCmltcG9ydCB0aW1lCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIENhbGxhYmxlLCBEaWN0LCBPcHRpb25hbCwgVHVwbGUKCktleSA9IFR1cGxlW3N0ciwgc3RyXSAgIyAodXNlcl9pZCwgYWdlbnRfaWQpCgoKQGRhdGFjbGFzcwpjbGFzcyBRdW90YVBvbGljeToKICAgICIiIuWPr+e7hOWQiOeahOmFjemineetlueVpe+8iGFkbWluIOiuvu+8jOS6p+WTgee6p++8ieOAguS4ieS4que7tOW6puiHqueUsee7hOWQiO+8mgoKICAgIHJlc2V0X21vZGUg4oCU4oCUIOmineW6pueUqOWwveWQjuaAjuS5iOaBouWkje+8mgogICAgICAgICJwZXJpb2QiICAg5oyJ5ZGo5pyf6YeN572u77yIbW9udGhseS93ZWVrbHnvvInigJTigJTlhY3otLnpop3luqbmr4/mnIgv5ZGo5Zue5ruhCiAgICAgICAgImNvb2xkb3duIiDlhrfljbTplIHlrpogY29vbGRvd25fc2Vjb25kcyDlkI7oh6rliqjop6PplIHvvIjnsbsgQ2xhdWRlIOS4tOaXtumUge+8jOaXtumVvyBhZG1pbiDlrprvvIkKICAgICAgICAibm9uZSIgICAgIOehrOWBnO+8jOS4jeiHquWKqOaBouWkje+8jOWPquiDvemdoOWFheWAvO+8iOexuyBEZWVwU2VlayDnlKjlrozljbPlgZzvvIkKICAgIGFsbG93X3JlY2hhcmdlIOKAlOKAlCDmmK/lkKblhYHorrjlhYXlgLznu63lkb3vvIhGYWxzZT3lhY3otLnpop3luqbnlKjlrozlvbvlupXlgZzvvIzml6Dms5XlhYXlgLznu63vvIkKICAgICIiIgogICAgcmVzZXRfbW9kZTogc3RyID0gInBlcmlvZCIgICAgICMgcGVyaW9kIHwgY29vbGRvd24gfCBub25lCiAgICBwZXJpb2Q6IHN0ciA9ICJtb250aGx5IiAgICAgICAgIyBwZXJpb2Qg5qih5byP77yabW9udGhseSB8IHdlZWtseQogICAgY29vbGRvd25fc2Vjb25kczogaW50ID0gMzYwMCAgICMgY29vbGRvd24g5qih5byP77ya6ZSB5a6a5pe26ZW/CiAgICBhbGxvd19yZWNoYXJnZTogYm9vbCA9IFRydWUKCiAgICBkZWYgdG9fZGljdChzZWxmKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4gc2VsZi5fX2RpY3RfXy5jb3B5KCkKCgpAZGF0YWNsYXNzCmNsYXNzIENvbnN1bWVSZXN1bHQ6CiAgICBhbGxvd2VkOiBib29sCiAgICByZW1haW5pbmc6IGludAogICAgdXNlZDogaW50CiAgICBsb2NrZWQ6IGJvb2wKICAgIHJlYXNvbjogc3RyID0gIiIKCiAgICBkZWYgdG9fZGljdChzZWxmKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4gc2VsZi5fX2RpY3RfXy5jb3B5KCkKCgpkZWYgX25leHRfbW9udGhfZmlyc3Qobm93X2Vwb2NoOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiLkuIvmnIggMSDml6UgMDA6MDAgVVRDIOeahOaXtumXtOaIs++8iCLkuIvmnIgx5pel6YeN572uIu+8ieOAgiIiIgogICAgZHQgPSBkYXRldGltZS5mcm9tdGltZXN0YW1wKG5vd19lcG9jaCwgdHo9dGltZXpvbmUudXRjKQogICAgeWVhciwgbW9udGggPSAoZHQueWVhciArIDEsIDEpIGlmIGR0Lm1vbnRoID09IDEyIGVsc2UgKGR0LnllYXIsIGR0Lm1vbnRoICsgMSkKICAgIHJldHVybiBkYXRldGltZSh5ZWFyLCBtb250aCwgMSwgdHppbmZvPXRpbWV6b25lLnV0YykudGltZXN0YW1wKCkKCgpjbGFzcyBRdW90YVNlcnZpY2U6CiAgICAiIiLlhoXlrZjphY3pop3mnI3liqHjgIJjbG9jayDlj6/ms6jlhaXkvr/kuo7mtYvor5Xlhrvnu5Mv6YeN572u44CC55Sf5Lqn5o2iIFJlZGlz44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNsb2NrOiBDYWxsYWJsZVtbXSwgZmxvYXRdID0gdGltZS50aW1lKSAtPiBOb25lOgogICAgICAgIHNlbGYuX3JlYzogRGljdFtLZXksIERpY3Rbc3RyLCBBbnldXSA9IHt9CiAgICAgICAgc2VsZi5fbG9jayA9IGFzeW5jaW8uTG9jaygpCiAgICAgICAgc2VsZi5fY2xvY2sgPSBjbG9jawogICAgICAgIHNlbGYuX3BvbGljaWVzOiBEaWN0W3N0ciwgUXVvdGFQb2xpY3ldID0ge30gICMgYWdlbnRfaWQgLT4g562W55WlCgogICAgIyAtLS0tLS0tLS0tIOetlueVpeazqOWGjO+8iGFkbWluIOiuvu+8jOavj+S4quaZuuiDveS9k+S4gOWll++8iSAtLS0tLS0tLS0tCiAgICBkZWYgc2V0X3BvbGljeShzZWxmLCBhZ2VudF9pZDogc3RyLCBwb2xpY3k6IFF1b3RhUG9saWN5KSAtPiBOb25lOgogICAgICAgIHNlbGYuX3BvbGljaWVzW2FnZW50X2lkXSA9IHBvbGljeQoKICAgIGRlZiBnZXRfcG9saWN5KHNlbGYsIGFnZW50X2lkOiBzdHIpIC0+IE9wdGlvbmFsW1F1b3RhUG9saWN5XToKICAgICAgICByZXR1cm4gc2VsZi5fcG9saWNpZXMuZ2V0KGFnZW50X2lkKQoKICAgIGRlZiBfcmVzb2x2ZV9wb2xpY3koc2VsZiwga2V5OiBLZXksIGZyZWV6ZV9wZXJpb2Q6IHN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgcG9saWN5OiBPcHRpb25hbFtRdW90YVBvbGljeV0pIC0+IFF1b3RhUG9saWN5OgogICAgICAgIGlmIHBvbGljeSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIHBvbGljeQogICAgICAgIGlmIGtleVsxXSBpbiBzZWxmLl9wb2xpY2llczoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3BvbGljaWVzW2tleVsxXV0KICAgICAgICAjIOWQkeWQjuWFvOWuueaXp+eahCBmcmVlemVfcGVyaW9kIOWtl+espuS4sgogICAgICAgIGlmIGZyZWV6ZV9wZXJpb2QgaW4gKCJtb250aGx5IiwgIndlZWtseSIpOgogICAgICAgICAgICByZXR1cm4gUXVvdGFQb2xpY3kocmVzZXRfbW9kZT0icGVyaW9kIiwgcGVyaW9kPWZyZWV6ZV9wZXJpb2QpCiAgICAgICAgaWYgZnJlZXplX3BlcmlvZCA9PSAibm9uZSI6CiAgICAgICAgICAgIHJldHVybiBRdW90YVBvbGljeShyZXNldF9tb2RlPSJub25lIikKICAgICAgICByZXR1cm4gUXVvdGFQb2xpY3koKQoKICAgIGRlZiBfZW5zdXJlKHNlbGYsIGtleTogS2V5LCBsaW1pdDogaW50KSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICBpZiBrZXkgbm90IGluIHNlbGYuX3JlYzoKICAgICAgICAgICAgc2VsZi5fcmVjW2tleV0gPSB7InVzZWQiOiAwLCAibGltaXQiOiBsaW1pdCwgImxvY2tlZCI6IEZhbHNlLCAiZnJlZXplX3VudGlsIjogTm9uZX0KICAgICAgICByZXR1cm4gc2VsZi5fcmVjW2tleV0KCiAgICBkZWYgX21heWJlX3Jlc2V0KHNlbGYsIHJlYzogRGljdFtzdHIsIEFueV0pIC0+IE5vbmU6CiAgICAgICAgIiIi5Yiw5LqG5Ya757uTL+WGt+WNtOmHjee9rueCuSDihpIg5riF6Zu25bm26Kej6ZSB44CCIiIiCiAgICAgICAgZnUgPSByZWNbImZyZWV6ZV91bnRpbCJdCiAgICAgICAgaWYgZnUgaXMgbm90IE5vbmUgYW5kIHNlbGYuX2Nsb2NrKCkgPj0gZnU6CiAgICAgICAgICAgIHJlY1sidXNlZCJdID0gMAogICAgICAgICAgICByZWNbImxvY2tlZCJdID0gRmFsc2UKICAgICAgICAgICAgcmVjWyJmcmVlemVfdW50aWwiXSA9IE5vbmUKCiAgICBkZWYgX2ZyZWV6ZV90YXJnZXQoc2VsZiwgcG9sOiBRdW90YVBvbGljeSkgLT4gT3B0aW9uYWxbZmxvYXRdOgogICAgICAgICIiIuaMieetlueVpeeulyLkvZXml7boh6rliqjop6PplIEi44CCcGVyaW9kPeWRqOacn+i+ueeVjO+8m2Nvb2xkb3duPW5vdyvml7bplb/vvJtub25lPeawuOS4je+8iOS7heWFheWAvO+8ieOAgiIiIgogICAgICAgIGlmIHBvbC5yZXNldF9tb2RlID09ICJwZXJpb2QiOgogICAgICAgICAgICByZXR1cm4gX25leHRfbW9udGhfZmlyc3Qoc2VsZi5fY2xvY2soKSkgaWYgcG9sLnBlcmlvZCA9PSAibW9udGhseSIgZWxzZSBzZWxmLl9jbG9jaygpICsgNyAqIDg2NDAwCiAgICAgICAgaWYgcG9sLnJlc2V0X21vZGUgPT0gImNvb2xkb3duIjoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2Nsb2NrKCkgKyBwb2wuY29vbGRvd25fc2Vjb25kcwogICAgICAgIHJldHVybiBOb25lICAjIG5vbmXvvJrnoazlgZzvvIzkuI3oh6rliqjmgaLlpI0KCiAgICAjIC0tLS0tLS0tLS0g5omj5YeP77yI5Y6f5a2Q77yJIC0tLS0tLS0tLS0KICAgIGFzeW5jIGRlZiBjb25zdW1lKHNlbGYsIGtleTogS2V5LCB0b2tlbnM6IGludCwgbGltaXQ6IGludCA9IDEwMDAwLAogICAgICAgICAgICAgICAgICAgICAgZnJlZXplX3BlcmlvZDogc3RyID0gIm1vbnRobHkiLAogICAgICAgICAgICAgICAgICAgICAgcG9saWN5OiBPcHRpb25hbFtRdW90YVBvbGljeV0gPSBOb25lKSAtPiBDb25zdW1lUmVzdWx0OgogICAgICAgIGFzeW5jIHdpdGggc2VsZi5fbG9jazoKICAgICAgICAgICAgcG9sID0gc2VsZi5fcmVzb2x2ZV9wb2xpY3koa2V5LCBmcmVlemVfcGVyaW9kLCBwb2xpY3kpCiAgICAgICAgICAgIHJlYyA9IHNlbGYuX2Vuc3VyZShrZXksIGxpbWl0KQogICAgICAgICAgICBzZWxmLl9tYXliZV9yZXNldChyZWMpCiAgICAgICAgICAgIGlmIHJlY1sibG9ja2VkIl06CiAgICAgICAgICAgICAgICByZXR1cm4gQ29uc3VtZVJlc3VsdChGYWxzZSwgcmVjWyJsaW1pdCJdIC0gcmVjWyJ1c2VkIl0sIHJlY1sidXNlZCJdLCBUcnVlLCAicXVvdGFfbG9ja2VkIikKICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgwKSAgICAgICAgICAgICMg6K6p5Ye654K54oCU4oCU5pyJ6ZSB5omN5LiN5Lya5Zyo5q2k6KKr5bm25Y+R5o+S6ZifCiAgICAgICAgICAgIHJlY1sidXNlZCJdICs9IHRva2VucwogICAgICAgICAgICBpZiByZWNbInVzZWQiXSA+PSByZWNbImxpbWl0Il06CiAgICAgICAgICAgICAgICByZWNbImxvY2tlZCJdID0gVHJ1ZQogICAgICAgICAgICAgICAgcmVjWyJmcmVlemVfdW50aWwiXSA9IHNlbGYuX2ZyZWV6ZV90YXJnZXQocG9sKQogICAgICAgICAgICByZXR1cm4gQ29uc3VtZVJlc3VsdChUcnVlLCByZWNbImxpbWl0Il0gLSByZWNbInVzZWQiXSwgcmVjWyJ1c2VkIl0sIHJlY1sibG9ja2VkIl0pCgogICAgIyAtLS0tLS0tLS0tIOafpeivoiAtLS0tLS0tLS0tCiAgICBhc3luYyBkZWYgc3RhdHVzKHNlbGYsIGtleTogS2V5LCBsaW1pdDogaW50ID0gMTAwMDAsCiAgICAgICAgICAgICAgICAgICAgIGZyZWV6ZV9wZXJpb2Q6IHN0ciA9ICJtb250aGx5IiwKICAgICAgICAgICAgICAgICAgICAgcG9saWN5OiBPcHRpb25hbFtRdW90YVBvbGljeV0gPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICBhc3luYyB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIHBvbCA9IHNlbGYuX3Jlc29sdmVfcG9saWN5KGtleSwgZnJlZXplX3BlcmlvZCwgcG9saWN5KQogICAgICAgICAgICByZWMgPSBzZWxmLl9lbnN1cmUoa2V5LCBsaW1pdCkKICAgICAgICAgICAgc2VsZi5fbWF5YmVfcmVzZXQocmVjKQogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgInVzZWQiOiByZWNbInVzZWQiXSwgImxpbWl0IjogcmVjWyJsaW1pdCJdLAogICAgICAgICAgICAgICAgInJlbWFpbmluZyI6IHJlY1sibGltaXQiXSAtIHJlY1sidXNlZCJdLAogICAgICAgICAgICAgICAgImxvY2tlZCI6IHJlY1sibG9ja2VkIl0sICJmcmVlemVfdW50aWwiOiByZWNbImZyZWV6ZV91bnRpbCJdLAogICAgICAgICAgICAgICAgImZyZWV6ZV9wZXJpb2QiOiBwb2wucGVyaW9kIGlmIHBvbC5yZXNldF9tb2RlID09ICJwZXJpb2QiIGVsc2UgcG9sLnJlc2V0X21vZGUsCiAgICAgICAgICAgICAgICAicG9saWN5IjogcG9sLnRvX2RpY3QoKSwKICAgICAgICAgICAgfQoKICAgICMgLS0tLS0tLS0tLSDlhYXlgLwgLyDop6PplIEgLyDnrqHnkIbosIPmlbQgLS0tLS0tLS0tLQogICAgYXN5bmMgZGVmIHJlY2hhcmdlKHNlbGYsIGtleTogS2V5LCBhZGRfdG9rZW5zOiBpbnQsCiAgICAgICAgICAgICAgICAgICAgICAgcG9saWN5OiBPcHRpb25hbFtRdW90YVBvbGljeV0gPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLlhYXlgLzvvJrmj5Dpq5jpop3luqblubbnq4vljbPop6PplIHjgILoi6XnrZbnlaUgYWxsb3dfcmVjaGFyZ2U9RmFsc2XvvIjlpoLnuq/lhY3otLnmoaPvvInihpIg5ouS57ud44CCIiIiCiAgICAgICAgYXN5bmMgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICBwb2wgPSBzZWxmLl9yZXNvbHZlX3BvbGljeShrZXksICJtb250aGx5IiwgcG9saWN5KQogICAgICAgICAgICByZWMgPSBzZWxmLl9lbnN1cmUoa2V5LCBhZGRfdG9rZW5zKQogICAgICAgICAgICBpZiBub3QgcG9sLmFsbG93X3JlY2hhcmdlOgogICAgICAgICAgICAgICAgcmV0dXJuIHsibGltaXQiOiByZWNbImxpbWl0Il0sICJyZW1haW5pbmciOiByZWNbImxpbWl0Il0gLSByZWNbInVzZWQiXSwKICAgICAgICAgICAgICAgICAgICAgICAgImxvY2tlZCI6IHJlY1sibG9ja2VkIl0sICJhbGxvd2VkIjogRmFsc2UsICJyZWFzb24iOiAicmVjaGFyZ2VfZGlzYWJsZWQifQogICAgICAgICAgICByZWNbImxpbWl0Il0gKz0gYWRkX3Rva2VucwogICAgICAgICAgICByZWNbImxvY2tlZCJdID0gRmFsc2UKICAgICAgICAgICAgcmVjWyJmcmVlemVfdW50aWwiXSA9IE5vbmUKICAgICAgICAgICAgcmV0dXJuIHsibGltaXQiOiByZWNbImxpbWl0Il0sICJyZW1haW5pbmciOiByZWNbImxpbWl0Il0gLSByZWNbInVzZWQiXSwKICAgICAgICAgICAgICAgICAgICAibG9ja2VkIjogRmFsc2UsICJhbGxvd2VkIjogVHJ1ZX0KCiAgICBhc3luYyBkZWYgc2V0X2xpbWl0KHNlbGYsIGtleTogS2V5LCBuZXdfbGltaXQ6IGludCkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIi566h55CG5ZGY6LCD5pW06aKd5bqm77yI5p2D6ZmQ5qCh6aqM5Zyo56uv54K55bGC55SoIHBlcm1pc3Npb25zLmNhbl9tYW5hZ2VfcXVvdGHvvInjgIIiIiIKICAgICAgICBhc3luYyB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIHJlYyA9IHNlbGYuX2Vuc3VyZShrZXksIG5ld19saW1pdCkKICAgICAgICAgICAgcmVjWyJsaW1pdCJdID0gbmV3X2xpbWl0CiAgICAgICAgICAgIHJlY1sibG9ja2VkIl0gPSByZWNbInVzZWQiXSA+PSBuZXdfbGltaXQKICAgICAgICAgICAgcmV0dXJuIHsibGltaXQiOiByZWNbImxpbWl0Il0sICJyZW1haW5pbmciOiByZWNbImxpbWl0Il0gLSByZWNbInVzZWQiXSwgImxvY2tlZCI6IHJlY1sibG9ja2VkIl19Cg==
+"""backend.quota_service — 配额与计费（B4，框架无关核心）。
+
+D6 配额模型：
+    免费额度(如 10K/月)
+      ↓ 用完
+    允许负数(不中断当前请求) —— 跨过阈值的那一次请求照常完成
+      ↓ 余额 ≤ 0
+    锁定该智能体(对此用户)
+      ↓
+    等冻结时间到(下月重置) 或 充值 → 立即解锁
+
+并发安全：用 asyncio.Lock 保护"读-改-写"临界区。临界区内故意留一个 await 让出点，
+证明**有锁则不丢更新**(无锁会透支)。生产换 Redis DECRBY + Lua 脚本，语义一致。
+"""
+from __future__ import annotations
+
+import asyncio
+import time
+from dataclasses import dataclass, field
+from datetime import datetime, timezone
+from typing import Any, Callable, Dict, Optional, Tuple
+
+Key = Tuple[str, str]  # (user_id, agent_id)
+
+
+@dataclass
+class QuotaPolicy:
+    """可组合的配额策略（admin 设，产品级）。三个维度自由组合：
+
+    reset_mode —— 额度用尽后怎么恢复：
+        "period"   按周期重置（monthly/weekly）——免费额度每月/周回满
+        "cooldown" 冷却锁定 cooldown_seconds 后自动解锁（类 Claude 临时锁，时长 admin 定）
+        "none"     硬停，不自动恢复，只能靠充值（类 DeepSeek 用完即停）
+    allow_recharge —— 是否允许充值续命（False=免费额度用完彻底停，无法充值续）
+    """
+    reset_mode: str = "period"     # period | cooldown | none
+    period: str = "monthly"        # period 模式：monthly | weekly
+    cooldown_seconds: int = 3600   # cooldown 模式：锁定时长
+    allow_recharge: bool = True
+
+    def to_dict(self) -> Dict[str, Any]:
+        return self.__dict__.copy()
+
+
+@dataclass
+class ConsumeResult:
+    allowed: bool
+    remaining: int
+    used: int
+    locked: bool
+    reason: str = ""
+
+    def to_dict(self) -> Dict[str, Any]:
+        return self.__dict__.copy()
+
+
+def _next_month_first(now_epoch: float) -> float:
+    """下月 1 日 00:00 UTC 的时间戳（"下月1日重置"）。"""
+    dt = datetime.fromtimestamp(now_epoch, tz=timezone.utc)
+    year, month = (dt.year + 1, 1) if dt.month == 12 else (dt.year, dt.month + 1)
+    return datetime(year, month, 1, tzinfo=timezone.utc).timestamp()
+
+
+class QuotaService:
+    """内存配额服务。clock 可注入便于测试冻结/重置。生产换 Redis。"""
+
+    def __init__(self, clock: Callable[[], float] = time.time) -> None:
+        self._rec: Dict[Key, Dict[str, Any]] = {}
+        self._lock = asyncio.Lock()
+        self._clock = clock
+        self._policies: Dict[str, QuotaPolicy] = {}  # agent_id -> 策略
+
+    # ---------- 策略注册（admin 设，每个智能体一套） ----------
+    def set_policy(self, agent_id: str, policy: QuotaPolicy) -> None:
+        self._policies[agent_id] = policy
+
+    def get_policy(self, agent_id: str) -> Optional[QuotaPolicy]:
+        return self._policies.get(agent_id)
+
+    def _resolve_policy(self, key: Key, freeze_period: str,
+                        policy: Optional[QuotaPolicy]) -> QuotaPolicy:
+        if policy is not None:
+            return policy
+        if key[1] in self._policies:
+            return self._policies[key[1]]
+        # 向后兼容旧的 freeze_period 字符串
+        if freeze_period in ("monthly", "weekly"):
+            return QuotaPolicy(reset_mode="period", period=freeze_period)
+        if freeze_period == "none":
+            return QuotaPolicy(reset_mode="none")
+        return QuotaPolicy()
+
+    def _ensure(self, key: Key, limit: int) -> Dict[str, Any]:
+        if key not in self._rec:
+            self._rec[key] = {"used": 0, "limit": limit, "locked": False, "freeze_until": None}
+        return self._rec[key]
+
+    def _maybe_reset(self, rec: Dict[str, Any]) -> None:
+        """到了冻结/冷却重置点 → 清零并解锁。"""
+        fu = rec["freeze_until"]
+        if fu is not None and self._clock() >= fu:
+            rec["used"] = 0
+            rec["locked"] = False
+            rec["freeze_until"] = None
+
+    def _freeze_target(self, pol: QuotaPolicy) -> Optional[float]:
+        """按策略算"何时自动解锁"。period=周期边界；cooldown=now+时长；none=永不（仅充值）。"""
+        if pol.reset_mode == "period":
+            return _next_month_first(self._clock()) if pol.period == "monthly" else self._clock() + 7 * 86400
+        if pol.reset_mode == "cooldown":
+            return self._clock() + pol.cooldown_seconds
+        return None  # none：硬停，不自动恢复
+
+    # ---------- 扣减（原子） ----------
+    async def consume(self, key: Key, tokens: int, limit: int = 10000,
+                      freeze_period: str = "monthly",
+                      policy: Optional[QuotaPolicy] = None) -> ConsumeResult:
+        async with self._lock:
+            pol = self._resolve_policy(key, freeze_period, policy)
+            rec = self._ensure(key, limit)
+            self._maybe_reset(rec)
+            if rec["locked"]:
+                return ConsumeResult(False, rec["limit"] - rec["used"], rec["used"], True, "quota_locked")
+            await asyncio.sleep(0)            # 让出点——有锁才不会在此被并发插队
+            rec["used"] += tokens
+            if rec["used"] >= rec["limit"]:
+                rec["locked"] = True
+                rec["freeze_until"] = self._freeze_target(pol)
+            return ConsumeResult(True, rec["limit"] - rec["used"], rec["used"], rec["locked"])
+
+    # ---------- 查询 ----------
+    async def status(self, key: Key, limit: int = 10000,
+                     freeze_period: str = "monthly",
+                     policy: Optional[QuotaPolicy] = None) -> Dict[str, Any]:
+        async with self._lock:
+            pol = self._resolve_policy(key, freeze_period, policy)
+            rec = self._ensure(key, limit)
+            self._maybe_reset(rec)
+            return {
+                "used": rec["used"], "limit": rec["limit"],
+                "remaining": rec["limit"] - rec["used"],
+                "locked": rec["locked"], "freeze_until": rec["freeze_until"],
+                "freeze_period": pol.period if pol.reset_mode == "period" else pol.reset_mode,
+                "policy": pol.to_dict(),
+            }
+
+    # ---------- 充值 / 解锁 / 管理调整 ----------
+    async def recharge(self, key: Key, add_tokens: int,
+                       policy: Optional[QuotaPolicy] = None) -> Dict[str, Any]:
+        """充值：提高额度并立即解锁。若策略 allow_recharge=False（如纯免费档）→ 拒绝。"""
+        async with self._lock:
+            pol = self._resolve_policy(key, "monthly", policy)
+            rec = self._ensure(key, add_tokens)
+            if not pol.allow_recharge:
+                return {"limit": rec["limit"], "remaining": rec["limit"] - rec["used"],
+                        "locked": rec["locked"], "allowed": False, "reason": "recharge_disabled"}
+            rec["limit"] += add_tokens
+            rec["locked"] = False
+            rec["freeze_until"] = None
+            return {"limit": rec["limit"], "remaining": rec["limit"] - rec["used"],
+                    "locked": False, "allowed": True}
+
+    async def set_limit(self, key: Key, new_limit: int) -> Dict[str, Any]:
+        """管理员调整额度（权限校验在端点层用 permissions.can_manage_quota）。"""
+        async with self._lock:
+            rec = self._ensure(key, new_limit)
+            rec["limit"] = new_limit
+            rec["locked"] = rec["used"] >= new_limit
+            return {"limit": rec["limit"], "remaining": rec["limit"] - rec["used"], "locked": rec["locked"]}

@@ -1,1 +1,67 @@
-IiIiCm9yZ19jb3JlLnBlcm1pc3Npb25zIOKAlCDmnYPpmZDkvY0ocGVybV9rZXkp5a6a5LmJICsg6aKE572u5bKX5L2N5qih5p2/44CCCgrlspfkvY0gPSDmnYPpmZDkvY3nmoTnu4TlkIgs5LyB5Lia5Y+v6Ieq5a6a5LmJLOS5n+WPr+eUqCBFeGNlbCDmibnph4/lr7zlhaUo6KeBIHJvbGVfaW1wb3J0KeOAggrov5nph4znu5nlh7rmnYPpmZDkvY3luLjph48o5Luj56CB6YeM5ZSv5LiA55yf5rqQKeS4juS4gOaJuem7mOiupOaooeadvyzmlrnkvr/lvIDnrrHljbPnlKjjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIOadg+mZkOS9jShhY3Rpb24g57u05bqmKeOAguWRveWQjTo85Z+fPi485Yqo5L2cPgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKY2xhc3MgUDoKICAgICMg57uE57uHL+S6uuWRmC/lspfkvY3nrqHnkIYo566h55CG5p2D6ZmQOuayv+euoeeQhuWtkOagkeeUn+aViCkKICAgIE9SR19NQU5BR0UgPSAib3JnLm1hbmFnZSIgICAgICAgICAgICAjIOW7ui/mlLnlkI0v5ZCI5bm2L+aLhuWIhue7hOe7h+iKgueCuQogICAgVVNFUl9NQU5BR0UgPSAidXNlci5tYW5hZ2UiICAgICAgICAgICMg5bu6L+WBnOeUqC/osIPliqjkurrlkZgKICAgIEdSQU5UX01BTkFHRSA9ICJncmFudC5tYW5hZ2UiICAgICAgICAjIOa0vuWyly/lu7rlrZDotKblj7cKICAgIFJPTEVfTUFOQUdFID0gInJvbGUubWFuYWdlIiAgICAgICAgICAjIOW7uuWyl+S9jS/phY3mnYPpmZDkvY0vRXhjZWwg5a+85YWlCgogICAgIyDnn6Xor4blupMo5Lia5Yqh5p2D6ZmQOuS4jeWQkeS4i+e7p+aJvyzmjIkgZ3JhbnQub3JnX25vZGUg55Sf5pWIKQogICAgS0JfUkVBRCA9ICJrYi5yZWFkIgogICAgS0JfV1JJVEVfUFJJVkFURSA9ICJrYi53cml0ZV9wcml2YXRlIgogICAgS0JfUFJPTU9URSA9ICJrYi5wcm9tb3RlIiAgICAgICAgICAgICMg4piFIGNhbl9wcm9tb3RlX2tiOuaKiuaVsOaNruaZi+WNh+i/m+WFrOaciemrmOe9ruS/oSjkuJPlrrYv5oC75belKQoKICAgICMg5pm66IO95L2TCiAgICBBR0VOVF9DUkVBVEVfUFJJVkFURSA9ICJhZ2VudC5jcmVhdGVfcHJpdmF0ZSIKICAgIEFHRU5UX1BVQkxJU0ggPSAiYWdlbnQucHVibGlzaCIgICAgICAjIOWIm+W7uuWkmuS6uuWPr+ingSjpg6jpl6gv5YWs5YWxKSzpobvlrqHmibkKICAgIEFHRU5UX0FQUFJPVkUgPSAiYWdlbnQuYXBwcm92ZSIgICAgICAjIOWuoeaJueS4iue6vwoKICAgICMg5rig6YGTIGJvdAogICAgQk9UX1BVQkxJU0ggPSAiYm90LnB1Ymxpc2giICAgICAgICAgICMg5Y+X5rK755CG5Y+R5biD5Yiw6aOe5LmmL+W+ruS/oQoKICAgICMg5a6h6K6hKOWFqOWxgOWPr+ingSzni6znq4vmjojkuogpCiAgICBBVURJVF9SRUFEID0gImF1ZGl0LnJlYWQiCgoKIyDlhajpg6jmnYPpmZDkvY0o5qCh6aqM5a+85YWl5pe255SoKQpBTExfUEVSTVM6IGZyb3plbnNldFtzdHJdID0gZnJvemVuc2V0KAogICAgdiBmb3IgaywgdiBpbiB2YXJzKFApLml0ZW1zKCkgaWYgbm90IGsuc3RhcnRzd2l0aCgiXyIpIGFuZCBpc2luc3RhbmNlKHYsIHN0cikKKQoKTUFOQUdFTUVOVF9QRVJNUzogZnJvemVuc2V0W3N0cl0gPSBmcm96ZW5zZXQoCiAgICB7UC5PUkdfTUFOQUdFLCBQLlVTRVJfTUFOQUdFLCBQLkdSQU5UX01BTkFHRSwgUC5ST0xFX01BTkFHRX0KKSAgIyDov5nkupvmsr/nrqHnkIblrZDmoJHnlJ/mlYg75YW25L2Z5Li65Lia5Yqh5p2D6ZmQLOaMiSBncmFudC5vcmdfbm9kZSDnlJ/mlYgKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICMKIyDpooTnva7lspfkvY3mqKHmnb8o5LyB5Lia5Y+v5pS544CB5Y+v5Yig44CB5Y+v6Ieq5bu6KeOAgmtleT3mqKHmnb/lkI0sdmFsdWU95p2D6ZmQ5L2N6ZuG5ZCICiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpERUZBVUxUX1JPTEVfVEVNUExBVEVTOiBkaWN0W3N0ciwgZnJvemVuc2V0W3N0cl1dID0gewogICAgIuW5s+WPsOeuoeeQhuWRmCI6IEFMTF9QRVJNUywgICMg5rOo5oSPOueuoei+luiMg+WbtOS7jeWPlyBhZG1pbl9zY29wZSDpmZDliLYs5LiN5piv5peg6L6555WMCiAgICAi57uE57uH566h55CG5ZGYIjogZnJvemVuc2V0KHtQLk9SR19NQU5BR0UsIFAuVVNFUl9NQU5BR0UsIFAuR1JBTlRfTUFOQUdFLCBQLlJPTEVfTUFOQUdFLAogICAgICAgICAgICAgICAgICAgICAgICAgIFAuS0JfUkVBRCwgUC5BR0VOVF9BUFBST1ZFfSksCiAgICAi5LiT5a62L+aAu+W3pSI6IGZyb3plbnNldCh7UC5LQl9SRUFELCBQLktCX1dSSVRFX1BSSVZBVEUsIFAuS0JfUFJPTU9URSwKICAgICAgICAgICAgICAgICAgICAgICAgIFAuQUdFTlRfQ1JFQVRFX1BSSVZBVEUsIFAuQUdFTlRfUFVCTElTSCwgUC5CT1RfUFVCTElTSH0pLAogICAgIuW8gOWPkeiAhSI6IGZyb3plbnNldCh7UC5LQl9SRUFELCBQLktCX1dSSVRFX1BSSVZBVEUsIFAuQUdFTlRfQ1JFQVRFX1BSSVZBVEUsIFAuQUdFTlRfUFVCTElTSH0pLAogICAgIuaIkOWRmCI6IGZyb3plbnNldCh7UC5LQl9SRUFELCBQLktCX1dSSVRFX1BSSVZBVEUsIFAuQUdFTlRfQ1JFQVRFX1BSSVZBVEV9KSwKICAgICLlrqHorqHlkZgiOiBmcm96ZW5zZXQoe1AuQVVESVRfUkVBRH0pLAogICAgIuWklumDqOWNj+S9nCI6IGZyb3plbnNldCh7UC5LQl9SRUFEfSksICAjIOWkluadpeS6uuWRmOm7mOiupOaegeWwjwp9CgoKZGVmIHZhbGlkYXRlX3Blcm1fa2V5cyhrZXlzOiBmcm96ZW5zZXRbc3RyXSkgLT4gZnJvemVuc2V0W3N0cl06CiAgICAiIiLlr7zlhaXlspfkvY3ml7bmoKHpqozmnYPpmZDkvY3lkIjms5Us5pyq55+l5L2N55u05o6l5oql6ZSZKOaYvuW8j+Wksei0pSnjgIIiIiIKICAgIHVua25vd24gPSBrZXlzIC0gQUxMX1BFUk1TCiAgICBpZiB1bmtub3duOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiLmnKrnn6XmnYPpmZDkvY06IHtzb3J0ZWQodW5rbm93bil9IikKICAgIHJldHVybiBrZXlzCg==
+"""
+org_core.permissions — 权限位(perm_key)定义 + 预置岗位模板。
+
+岗位 = 权限位的组合,企业可自定义,也可用 Excel 批量导入(见 role_import)。
+这里给出权限位常量(代码里唯一真源)与一批默认模板,方便开箱即用。
+"""
+from __future__ import annotations
+
+# ----------------------------------------------------------------------------- #
+# 权限位(action 维度)。命名:<域>.<动作>
+# ----------------------------------------------------------------------------- #
+class P:
+    # 组织/人员/岗位管理(管理权限:沿管理子树生效)
+    ORG_MANAGE = "org.manage"            # 建/改名/合并/拆分组织节点
+    USER_MANAGE = "user.manage"          # 建/停用/调动人员
+    GRANT_MANAGE = "grant.manage"        # 派岗/建子账号
+    ROLE_MANAGE = "role.manage"          # 建岗位/配权限位/Excel 导入
+
+    # 知识库(业务权限:不向下继承,按 grant.org_node 生效)
+    KB_READ = "kb.read"
+    KB_WRITE_PRIVATE = "kb.write_private"
+    KB_PROMOTE = "kb.promote"            # ★ can_promote_kb:把数据晋升进公有高置信(专家/总工)
+
+    # 智能体
+    AGENT_CREATE_PRIVATE = "agent.create_private"
+    AGENT_PUBLISH = "agent.publish"      # 创建多人可见(部门/公共),须审批
+    AGENT_APPROVE = "agent.approve"      # 审批上线
+
+    # 渠道 bot
+    BOT_PUBLISH = "bot.publish"          # 受治理发布到飞书/微信
+
+    # 审计(全局可见,独立授予)
+    AUDIT_READ = "audit.read"
+
+
+# 全部权限位(校验导入时用)
+ALL_PERMS: frozenset[str] = frozenset(
+    v for k, v in vars(P).items() if not k.startswith("_") and isinstance(v, str)
+)
+
+MANAGEMENT_PERMS: frozenset[str] = frozenset(
+    {P.ORG_MANAGE, P.USER_MANAGE, P.GRANT_MANAGE, P.ROLE_MANAGE}
+)  # 这些沿管理子树生效;其余为业务权限,按 grant.org_node 生效
+
+
+# ----------------------------------------------------------------------------- #
+# 预置岗位模板(企业可改、可删、可自建)。key=模板名,value=权限位集合
+# ----------------------------------------------------------------------------- #
+DEFAULT_ROLE_TEMPLATES: dict[str, frozenset[str]] = {
+    "平台管理员": ALL_PERMS,  # 注意:管辖范围仍受 admin_scope 限制,不是无边界
+    "组织管理员": frozenset({P.ORG_MANAGE, P.USER_MANAGE, P.GRANT_MANAGE, P.ROLE_MANAGE,
+                          P.KB_READ, P.AGENT_APPROVE}),
+    "专家/总工": frozenset({P.KB_READ, P.KB_WRITE_PRIVATE, P.KB_PROMOTE,
+                         P.AGENT_CREATE_PRIVATE, P.AGENT_PUBLISH, P.BOT_PUBLISH}),
+    "开发者": frozenset({P.KB_READ, P.KB_WRITE_PRIVATE, P.AGENT_CREATE_PRIVATE, P.AGENT_PUBLISH}),
+    "成员": frozenset({P.KB_READ, P.KB_WRITE_PRIVATE, P.AGENT_CREATE_PRIVATE}),
+    "审计员": frozenset({P.AUDIT_READ}),
+    "外部协作": frozenset({P.KB_READ}),  # 外来人员默认极小
+}
+
+
+def validate_perm_keys(keys: frozenset[str]) -> frozenset[str]:
+    """导入岗位时校验权限位合法,未知位直接报错(显式失败)。"""
+    unknown = keys - ALL_PERMS
+    if unknown:
+        raise ValueError(f"未知权限位: {sorted(unknown)}")
+    return keys

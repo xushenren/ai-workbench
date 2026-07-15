@@ -1,1 +1,46 @@
-IiIiYmFja2VuZC5hZGFwdGVycy5jaHJvbWFfc3RvcmUg4oCUIOecn+WunuWQkemHj+W6k++8iENocm9tYe+8ieOAggoK4pqg77iPIOacquWcqOaymeeusea1i+ivle+8mumcgCBjaHJvbWFkYiArIGVtYmVkZGluZ+OAguaOpeWPo+S4jiBzZWN1cmVndWFyZC5Jbk1lbW9yeVZlY3RvclN0b3JlIOS4gOiHtArvvIhhZGQgLyBzZWFyY2gg4oaSIExpc3RbRG9jXe+8ie+8jOW3peWOgumHjCBzd2FwIOaYr+mFjee9rue6p+OAgmNocm9tYWRiIOaHkuWKoOi9veOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCgpmcm9tIHNlY3VyZWd1YXJkIGltcG9ydCBEb2MKCgpjbGFzcyBDaHJvbWFWZWN0b3JTdG9yZToKICAgICIiIkNocm9tYSDlkJHph4/lupPjgIJJbk1lbW9yeVZlY3RvclN0b3JlIOeahOecn+Wunuabv+i6q+OAggoKICAgIGVtYmVkZGluZ19mbu+8muWPr+S8oOiHquWumuS5iSBlbWJlZGRpbmfvvIjlpoLmnKzlnLAgYmdlIOaooeWei++8ie+8m+S4jeS8oOWImeeUqCBDaHJvbWEg6buY6K6k44CCCiAgICDpmpTnprvvvJrlu7rorq7mr4/kuKrnn6Xor4blupPkuIDkuKogY29sbGVjdGlvbu+8jOaIluWcqCBtZXRhZGF0YSDph4zluKYga2JfaWQg5bm25ZyoIHdoZXJlIOi/h+a7pOOAggogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGhvc3Q6IHN0ciwgcG9ydDogaW50ID0gODAwMCwgY29sbGVjdGlvbjogc3RyID0gImRlZmF1bHQiLAogICAgICAgICAgICAgICAgIGVtYmVkZGluZ19mbjogT3B0aW9uYWxbb2JqZWN0XSA9IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBpbXBvcnQgY2hyb21hZGIgICMg5oeS5Yqg6L29CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiQ2hyb21hVmVjdG9yU3RvcmUg6ZyA6KaBIGNocm9tYWRi77yacGlwIGluc3RhbGwgY2hyb21hZGIiKSBmcm9tIGUKICAgICAgICBzZWxmLl9jbGllbnQgPSBjaHJvbWFkYi5IdHRwQ2xpZW50KGhvc3Q9aG9zdCwgcG9ydD1wb3J0KQogICAgICAgIHNlbGYuX2NvbCA9IHNlbGYuX2NsaWVudC5nZXRfb3JfY3JlYXRlX2NvbGxlY3Rpb24oCiAgICAgICAgICAgIG5hbWU9Y29sbGVjdGlvbiwgZW1iZWRkaW5nX2Z1bmN0aW9uPWVtYmVkZGluZ19mbiwKICAgICAgICApCgogICAgZGVmIGFkZChzZWxmLCBkb2M6IERvYykgLT4gTm9uZTogICMgcHJhZ21hOiBubyBjb3ZlciAtIOmcgOecn+WunuacjeWKoQogICAgICAgIHNlbGYuX2NvbC5hZGQoaWRzPVtkb2MuaWRdLCBkb2N1bWVudHM9W2RvYy5jb250ZW50XSwgbWV0YWRhdGFzPVtkb2MubWV0YWRhdGEgb3Ige31dKQoKICAgIGRlZiBzZWFyY2goc2VsZiwgcXVlcnk6IHN0ciwgazogaW50ID0gNSkgLT4gTGlzdFtEb2NdOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAgcmVzID0gc2VsZi5fY29sLnF1ZXJ5KHF1ZXJ5X3RleHRzPVtxdWVyeV0sIG5fcmVzdWx0cz1rKQogICAgICAgIGRvY3M6IExpc3RbRG9jXSA9IFtdCiAgICAgICAgaWRzID0gKHJlcy5nZXQoImlkcyIpIG9yIFtbXV0pWzBdCiAgICAgICAgY29udGVudHMgPSAocmVzLmdldCgiZG9jdW1lbnRzIikgb3IgW1tdXSlbMF0KICAgICAgICBtZXRhcyA9IChyZXMuZ2V0KCJtZXRhZGF0YXMiKSBvciBbW11dKVswXQogICAgICAgIGRpc3RzID0gKHJlcy5nZXQoImRpc3RhbmNlcyIpIG9yIFtbXV0pWzBdCiAgICAgICAgZm9yIGksIGRpZCBpbiBlbnVtZXJhdGUoaWRzKToKICAgICAgICAgICAgbWV0YSA9IGRpY3QobWV0YXNbaV0pIGlmIGkgPCBsZW4obWV0YXMpIGFuZCBtZXRhc1tpXSBlbHNlIHt9CiAgICAgICAgICAgIGlmIGkgPCBsZW4oZGlzdHMpOgogICAgICAgICAgICAgICAgbWV0YVsic2NvcmUiXSA9IDEuMCAtIGZsb2F0KGRpc3RzW2ldKSAgIyDot53nprvovaznm7jkvLzluqbvvIjov5HkvLzvvIkKICAgICAgICAgICAgZG9jcy5hcHBlbmQoRG9jKGRpZCwgY29udGVudHNbaV0gaWYgaSA8IGxlbihjb250ZW50cykgZWxzZSAiIiwgbWV0YSkpCiAgICAgICAgcmV0dXJuIGRvY3MK
+"""backend.adapters.chroma_store — 真实向量库（Chroma）。
+
+⚠️ 未在沙箱测试：需 chromadb + embedding。接口与 secureguard.InMemoryVectorStore 一致
+（add / search → List[Doc]），工厂里 swap 是配置级。chromadb 懒加载。
+"""
+from __future__ import annotations
+
+from typing import List, Optional
+
+from secureguard import Doc
+
+
+class ChromaVectorStore:
+    """Chroma 向量库。InMemoryVectorStore 的真实替身。
+
+    embedding_fn：可传自定义 embedding（如本地 bge 模型）；不传则用 Chroma 默认。
+    隔离：建议每个知识库一个 collection，或在 metadata 里带 kb_id 并在 where 过滤。
+    """
+
+    def __init__(self, host: str, port: int = 8000, collection: str = "default",
+                 embedding_fn: Optional[object] = None) -> None:
+        try:
+            import chromadb  # 懒加载
+        except Exception as e:  # pragma: no cover
+            raise RuntimeError("ChromaVectorStore 需要 chromadb：pip install chromadb") from e
+        self._client = chromadb.HttpClient(host=host, port=port)
+        self._col = self._client.get_or_create_collection(
+            name=collection, embedding_function=embedding_fn,
+        )
+
+    def add(self, doc: Doc) -> None:  # pragma: no cover - 需真实服务
+        self._col.add(ids=[doc.id], documents=[doc.content], metadatas=[doc.metadata or {}])
+
+    def search(self, query: str, k: int = 5) -> List[Doc]:  # pragma: no cover
+        res = self._col.query(query_texts=[query], n_results=k)
+        docs: List[Doc] = []
+        ids = (res.get("ids") or [[]])[0]
+        contents = (res.get("documents") or [[]])[0]
+        metas = (res.get("metadatas") or [[]])[0]
+        dists = (res.get("distances") or [[]])[0]
+        for i, did in enumerate(ids):
+            meta = dict(metas[i]) if i < len(metas) and metas[i] else {}
+            if i < len(dists):
+                meta["score"] = 1.0 - float(dists[i])  # 距离转相似度（近似）
+            docs.append(Doc(did, contents[i] if i < len(contents) else "", meta))
+        return docs

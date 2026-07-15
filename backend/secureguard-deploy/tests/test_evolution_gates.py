@@ -1,1 +1,73 @@
-IiIidGVzdHMvdGVzdF9ldm9sdXRpb25fZ2F0ZXMucHkg4oCUIOi/m+WMluihpeS4gemXqOemgeWNlea1i+OAgiIiIgppbXBvcnQgc3lzLCBvcywgdGVtcGZpbGUsIHNodXRpbApzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkpCgpmcm9tIHNlY3VyZWd1YXJkLmV2b2x1dGlvbl9nYXRlcyBpbXBvcnQgRXZvbHV0aW9uR2F0ZXMsIFBhdGNoCgoKZGVmIF9yZXBvKCk6CiAgICBkID0gdGVtcGZpbGUubWtkdGVtcCgpCiAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oZCwgImNvbmZpZyIsICJwbGFuZTEiKSkKICAgIG9zLm1ha2VkaXJzKG9zLnBhdGguam9pbihkLCAic2VjdXJlZ3VhcmQiKSkKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZCwgImNvbmZpZyIsICJwbGFuZTEiLCAiZmFpbHVyZS1wcmV2ZW50aW9uLm1kIiksICJ3IikgYXMgZjoKICAgICAgICBmLndyaXRlKCIjIGV4aXN0aW5nIHJ1bGVzXG4tIHJ1bGUgQVxuIikKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZCwgImNvbmZpZyIsICJyZWRsaW5lcy55YW1sIiksICJ3IikgYXMgZjoKICAgICAgICBmLndyaXRlKCJ2ZXJzaW9uOiAxXG4iKQogICAgcmV0dXJuIGQKCgpkZWYgdGVzdF9nMV9ibG9ja3NfcGxhbmUwKCk6CiAgICBkID0gX3JlcG8oKQogICAgZyA9IEV2b2x1dGlvbkdhdGVzKGQpCiAgICBvdXQgPSBnLmFwcGx5KFBhdGNoKCJjb25maWcvcmVkbGluZXMueWFtbCIsICJyZXBsYWNlIiwgImV2aWw6IHRydWUiKSwgbGFtYmRhOiBUcnVlKQogICAgYXNzZXJ0IG5vdCBvdXQuYWNjZXB0ZWQgYW5kIG91dC5yZWplY3RlZF9ieSA9PSAiRzFfcGxhbmUwX2ltbXV0YWJsZSIKICAgIHNodXRpbC5ybXRyZWUoZCkKCgpkZWYgdGVzdF9nMl9ibG9ja3Nfbm9uX2FwcGVuZF9wbGFuZTEoKToKICAgIGQgPSBfcmVwbygpCiAgICBnID0gRXZvbHV0aW9uR2F0ZXMoZCkKICAgIG91dCA9IGcuYXBwbHkoUGF0Y2goImNvbmZpZy9wbGFuZTEvZmFpbHVyZS1wcmV2ZW50aW9uLm1kIiwgInJlcGxhY2UiLCAid2lwZWQiKSwgbGFtYmRhOiBUcnVlKQogICAgYXNzZXJ0IG5vdCBvdXQuYWNjZXB0ZWQgYW5kIG91dC5yZWplY3RlZF9ieSA9PSAiRzJfYXBwZW5kX29ubHkiCiAgICBzaHV0aWwucm10cmVlKGQpCgoKZGVmIHRlc3RfYXBwZW5kX3BsYW5lMV9hY2NlcHRlZF9hbmRfcHJlc2VydmVzX2V4aXN0aW5nKCk6CiAgICBkID0gX3JlcG8oKQogICAgZyA9IEV2b2x1dGlvbkdhdGVzKGQpCiAgICBvdXQgPSBnLmFwcGx5KFBhdGNoKCJjb25maWcvcGxhbmUxL2ZhaWx1cmUtcHJldmVudGlvbi5tZCIsICJhcHBlbmQiLCAiLSBydWxlIEIgKG5ldykiKSwKICAgICAgICAgICAgICAgICAgbGFtYmRhOiBUcnVlKQogICAgYXNzZXJ0IG91dC5hY2NlcHRlZAogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihkLCAiY29uZmlnIiwgInBsYW5lMSIsICJmYWlsdXJlLXByZXZlbnRpb24ubWQiKSkgYXMgZjoKICAgICAgICB0eHQgPSBmLnJlYWQoKQogICAgYXNzZXJ0ICJydWxlIEEiIGluIHR4dCBhbmQgInJ1bGUgQiAobmV3KSIgaW4gdHh0ICAjIOaXouacieWGheWuueS/neeVmQogICAgc2h1dGlsLnJtdHJlZShkKQoKCmRlZiB0ZXN0X2czX3N5bnRheF9nYXRlX3JlamVjdHNfYmFkX3B5dGhvbigpOgogICAgZCA9IF9yZXBvKCkKICAgIGcgPSBFdm9sdXRpb25HYXRlcyhkKQogICAgb3V0ID0gZy5hcHBseShQYXRjaCgic2VjdXJlZ3VhcmQvbmV3X21vZC5weSIsICJjcmVhdGUiLCAiZGVmIGYoOlxuICBwYXNzIiksIGxhbWJkYTogVHJ1ZSkKICAgIGFzc2VydCBub3Qgb3V0LmFjY2VwdGVkIGFuZCBvdXQucmVqZWN0ZWRfYnkgPT0gIkczX3N5bnRheCIKICAgIHNodXRpbC5ybXRyZWUoZCkKCgpkZWYgdGVzdF9nNF90ZXN0X2dhdGVfcm9sbHNfYmFja19vbl9mYWlsdXJlKCk6CiAgICBkID0gX3JlcG8oKQogICAgZyA9IEV2b2x1dGlvbkdhdGVzKGQpCiAgICB0YXJnZXQgPSAiY29uZmlnL3BsYW5lMS9mYWlsdXJlLXByZXZlbnRpb24ubWQiCiAgICBvdXQgPSBnLmFwcGx5KFBhdGNoKHRhcmdldCwgImFwcGVuZCIsICItIHJ1bGUgQyIpLCBydW5fdGVzdHM9bGFtYmRhOiBGYWxzZSkKICAgIGFzc2VydCBub3Qgb3V0LmFjY2VwdGVkIGFuZCBvdXQucmVqZWN0ZWRfYnkgPT0gIkc0X3Rlc3RfZ2F0ZSIgYW5kIG91dC5yb2xsZWRfYmFjawogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihkLCB0YXJnZXQpKSBhcyBmOgogICAgICAgIHR4dCA9IGYucmVhZCgpCiAgICBhc3NlcnQgInJ1bGUgQyIgbm90IGluIHR4dCAgIyDlt7Llm57mu5oKICAgIHNodXRpbC5ybXRyZWUoZCkKCgpkZWYgdGVzdF9jcmVhdGVfbmV3X3B5X3dpdGhfdmFsaWRfc3ludGF4X2FuZF90ZXN0cygpOgogICAgZCA9IF9yZXBvKCkKICAgIGcgPSBFdm9sdXRpb25HYXRlcyhkKQogICAgb3V0ID0gZy5hcHBseShQYXRjaCgic2VjdXJlZ3VhcmQvaGVscGVyLnB5IiwgImNyZWF0ZSIsICJkZWYgYWRkKGEsIGIpOlxuICAgIHJldHVybiBhICsgYlxuIiksCiAgICAgICAgICAgICAgICAgIGxhbWJkYTogVHJ1ZSkKICAgIGFzc2VydCBvdXQuYWNjZXB0ZWQgYW5kIG9zLnBhdGguZXhpc3RzKG9zLnBhdGguam9pbihkLCAic2VjdXJlZ3VhcmQiLCAiaGVscGVyLnB5IikpCiAgICBzaHV0aWwucm10cmVlKGQpCg==
+"""tests/test_evolution_gates.py — 进化补丁门禁单测。"""
+import sys, os, tempfile, shutil
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from secureguard.evolution_gates import EvolutionGates, Patch
+
+
+def _repo():
+    d = tempfile.mkdtemp()
+    os.makedirs(os.path.join(d, "config", "plane1"))
+    os.makedirs(os.path.join(d, "secureguard"))
+    with open(os.path.join(d, "config", "plane1", "failure-prevention.md"), "w") as f:
+        f.write("# existing rules\n- rule A\n")
+    with open(os.path.join(d, "config", "redlines.yaml"), "w") as f:
+        f.write("version: 1\n")
+    return d
+
+
+def test_g1_blocks_plane0():
+    d = _repo()
+    g = EvolutionGates(d)
+    out = g.apply(Patch("config/redlines.yaml", "replace", "evil: true"), lambda: True)
+    assert not out.accepted and out.rejected_by == "G1_plane0_immutable"
+    shutil.rmtree(d)
+
+
+def test_g2_blocks_non_append_plane1():
+    d = _repo()
+    g = EvolutionGates(d)
+    out = g.apply(Patch("config/plane1/failure-prevention.md", "replace", "wiped"), lambda: True)
+    assert not out.accepted and out.rejected_by == "G2_append_only"
+    shutil.rmtree(d)
+
+
+def test_append_plane1_accepted_and_preserves_existing():
+    d = _repo()
+    g = EvolutionGates(d)
+    out = g.apply(Patch("config/plane1/failure-prevention.md", "append", "- rule B (new)"),
+                  lambda: True)
+    assert out.accepted
+    with open(os.path.join(d, "config", "plane1", "failure-prevention.md")) as f:
+        txt = f.read()
+    assert "rule A" in txt and "rule B (new)" in txt  # 既有内容保留
+    shutil.rmtree(d)
+
+
+def test_g3_syntax_gate_rejects_bad_python():
+    d = _repo()
+    g = EvolutionGates(d)
+    out = g.apply(Patch("secureguard/new_mod.py", "create", "def f(:\n  pass"), lambda: True)
+    assert not out.accepted and out.rejected_by == "G3_syntax"
+    shutil.rmtree(d)
+
+
+def test_g4_test_gate_rolls_back_on_failure():
+    d = _repo()
+    g = EvolutionGates(d)
+    target = "config/plane1/failure-prevention.md"
+    out = g.apply(Patch(target, "append", "- rule C"), run_tests=lambda: False)
+    assert not out.accepted and out.rejected_by == "G4_test_gate" and out.rolled_back
+    with open(os.path.join(d, target)) as f:
+        txt = f.read()
+    assert "rule C" not in txt  # 已回滚
+    shutil.rmtree(d)
+
+
+def test_create_new_py_with_valid_syntax_and_tests():
+    d = _repo()
+    g = EvolutionGates(d)
+    out = g.apply(Patch("secureguard/helper.py", "create", "def add(a, b):\n    return a + b\n"),
+                  lambda: True)
+    assert out.accepted and os.path.exists(os.path.join(d, "secureguard", "helper.py"))
+    shutil.rmtree(d)

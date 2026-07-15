@@ -1,1 +1,138 @@
-IiIiYmFja2VuZC5maWxlX3NlcnZpY2Ug4oCUIOaWh+S7tuS4iuS8oO+8iOKRoe+8ieOAggoK6IGK5aSp5Y+v5LiK5Lyg5Lu75oSP5paH5Lu244CC5pys5pyN5Yqh6LSf6LSj77ya5a2Y5YKo44CB5YiX6KGo44CB5oyJ57G75Z6L6Kej5p6Q5Ye6IuWPr+WWgue7meaooeWei+eahOaWh+acrCLjgIIKCuivmuWunui+ueeVjO+8iOWKoeW/heivu++8ie+8mgotIOaWh+acrOexu++8iHR4dC9tZC9jc3YvanNvbi9sb2cvcHkg562J77yJ77ya55u05o6l6K+75Ye65paH5pysIOKGkiDlj6/lloLmqKHlnovjgILwn5+iCi0g5Y6L57yp5YyF77yIemlw77yJ77ya5YiX5Ye6Kirmlofku7bmuIXljZUqKu+8iOS4jeiHquWKqOino+WOi+mAkOS4quino+aekO+8jOmBv+WFjSB6aXAg54K45by5L+i2iueVjO+8ieOAgvCfn6IKLSBQREYvV29yZO+8muatpOWkhOS7heWNoOS9jeKAlOKAlOecn+ino+aekOmcgCBwZGZtaW5lci9weXRob24tZG9jeCDnrYnlupPvvIxCNyDlnKjkvaDnjq/looPmjqXjgILwn5S0Ci0g5Zu+54mHL+mfs+inhumikS/kuozov5vliLbvvJrlj6rlrZjlgqggKyDmoIfms6jnsbvlnovvvIwqKuWGheWuueeQhuino+mcgOWkmuaooeaAgeaooeWeiyoq77yM5pys5pyN5Yqh5LiN5aSE55CG44CC8J+UtAoK5a6J5YWo77ya6ZmQ5Yi25aSn5bCP44CBemlwIOWPquivu+a4heWNleS4jeino+WOi+OAgeaWh+S7tuWQjea4hea0l+mYsui3r+W+hOepv+i2iuOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGlvCmltcG9ydCBvcwppbXBvcnQgdGltZQppbXBvcnQgdXVpZAppbXBvcnQgemlwZmlsZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsCgpNQVhfQllURVMgPSAyMCAqIDEwMjQgKiAxMDI0ICAgICAgICAgICAgIyDljZXmlofku7bkuIrpmZAgMjBNQgpURVhUX0VYVFMgPSB7InR4dCIsICJtZCIsICJjc3YiLCAianNvbiIsICJsb2ciLCAicHkiLCAianMiLCAidHMiLCAiaHRtbCIsICJjc3MiLCAieG1sIiwgInlhbWwiLCAieW1sIn0KUEFSU0VfUFJFVklFVyA9IDgwMDAgICAgICAgICAgICAgICAgICAgICAjIOino+aekOWHuueahOaWh+acrOmihOiniOS4iumZkO+8iOWWguaooeWei+eUqO+8jOmYsiB0b2tlbiDmmrTmtqjvvIkKCgpkZWYgX2V4dChuYW1lOiBzdHIpIC0+IHN0cjoKICAgIHJldHVybiBuYW1lLnJzcGxpdCgiLiIsIDEpWy0xXS5sb3dlcigpIGlmICIuIiBpbiBuYW1lIGVsc2UgIiIKCgpkZWYgX3NhZmVfbmFtZShuYW1lOiBzdHIpIC0+IHN0cjoKICAgICIiIua4hea0l+aWh+S7tuWQje+8muWOu+i3r+W+hOWIhumalOespu+8jOmYsuepv+i2iuOAgiIiIgogICAgcmV0dXJuIG9zLnBhdGguYmFzZW5hbWUobmFtZSkucmVwbGFjZSgiXFwiLCAiXyIpLnJlcGxhY2UoIi8iLCAiXyIpIG9yICJ1bm5hbWVkIgoKCkBkYXRhY2xhc3MKY2xhc3MgVXBsb2FkZWRGaWxlOgogICAgaWQ6IHN0cgogICAgZmlsZW5hbWU6IHN0cgogICAgZXh0OiBzdHIKICAgIHNpemU6IGludAogICAga2luZDogc3RyICAgICAgICAgICAgICAgICAjIHRleHQgfCBhcmNoaXZlIHwgZG9jdW1lbnQgfCBpbWFnZSB8IGJpbmFyeQogICAgc2Vzc2lvbl9pZDogT3B0aW9uYWxbc3RyXQogICAgdXBsb2FkZWRfYXQ6IGZsb2F0ID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PXRpbWUudGltZSkKICAgIHBhcnNlZF90ZXh0OiBzdHIgPSAiIiAgICAgIyDmlofmnKznsbvop6PmnpDnu5PmnpzvvIjlloLmqKHlnovvvIkKICAgIG5vdGU6IHN0ciA9ICIiICAgICAgICAgICAgIyDop6PmnpDor7TmmI7vvIjlpoIiUERGIOmcgCBCNyDop6PmnpAi77yJCgogICAgZGVmIHB1YmxpYyhzZWxmKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4geyJpZCI6IHNlbGYuaWQsICJmaWxlbmFtZSI6IHNlbGYuZmlsZW5hbWUsICJleHQiOiBzZWxmLmV4dCwKICAgICAgICAgICAgICAgICJzaXplIjogc2VsZi5zaXplLCAia2luZCI6IHNlbGYua2luZCwgInNlc3Npb25faWQiOiBzZWxmLnNlc3Npb25faWQsCiAgICAgICAgICAgICAgICAidXBsb2FkZWRfYXQiOiBzZWxmLnVwbG9hZGVkX2F0LAogICAgICAgICAgICAgICAgImhhc190ZXh0IjogYm9vbChzZWxmLnBhcnNlZF90ZXh0KSwgIm5vdGUiOiBzZWxmLm5vdGV9CgoKZGVmIF9jbGFzc2lmeShleHQ6IHN0cikgLT4gc3RyOgogICAgaWYgZXh0IGluIFRFWFRfRVhUUzoKICAgICAgICByZXR1cm4gInRleHQiCiAgICBpZiBleHQgaW4gKCJ6aXAiLCk6CiAgICAgICAgcmV0dXJuICJhcmNoaXZlIgogICAgaWYgZXh0IGluICgicGRmIiwgImRvYyIsICJkb2N4Iik6CiAgICAgICAgcmV0dXJuICJkb2N1bWVudCIKICAgIGlmIGV4dCBpbiAoInBuZyIsICJqcGciLCAianBlZyIsICJnaWYiLCAid2VicCIsICJibXAiKToKICAgICAgICByZXR1cm4gImltYWdlIgogICAgcmV0dXJuICJiaW5hcnkiCgoKY2xhc3MgRmlsZVNlcnZpY2U6CiAgICBkZWYgX19pbml0X18oc2VsZikgLT4gTm9uZToKICAgICAgICBzZWxmLl9maWxlczogRGljdFtzdHIsIFVwbG9hZGVkRmlsZV0gPSB7fQoKICAgIGRlZiBpbmdlc3Qoc2VsZiwgZmlsZW5hbWU6IHN0ciwgZGF0YTogYnl0ZXMsCiAgICAgICAgICAgICAgIHNlc3Npb25faWQ6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLmjqXmlLbkuIDkuKrmlofku7bvvJrmoKHpqowg4oaSIOWIhuexuyDihpIg5oyJ57G75Z6L6Kej5p6QIOKGkiDlrZjlgqjjgIIiIiIKICAgICAgICBpZiBsZW4oZGF0YSkgPiBNQVhfQllURVM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiLmlofku7botoXov4fkuIrpmZAge01BWF9CWVRFUyAvLyAxMDI0IC8vIDEwMjR9TUIiKQogICAgICAgIG5hbWUgPSBfc2FmZV9uYW1lKGZpbGVuYW1lKQogICAgICAgIGV4dCA9IF9leHQobmFtZSkKICAgICAgICBraW5kID0gX2NsYXNzaWZ5KGV4dCkKICAgICAgICBmaWQgPSAiZl8iICsgdXVpZC51dWlkNCgpLmhleFs6OF0KICAgICAgICBwYXJzZWQsIG5vdGUgPSBzZWxmLl9wYXJzZShraW5kLCBleHQsIGRhdGEpCiAgICAgICAgZiA9IFVwbG9hZGVkRmlsZShpZD1maWQsIGZpbGVuYW1lPW5hbWUsIGV4dD1leHQsIHNpemU9bGVuKGRhdGEpLAogICAgICAgICAgICAgICAgICAgICAgICAga2luZD1raW5kLCBzZXNzaW9uX2lkPXNlc3Npb25faWQsIHBhcnNlZF90ZXh0PXBhcnNlZCwgbm90ZT1ub3RlKQogICAgICAgIHNlbGYuX2ZpbGVzW2ZpZF0gPSBmCiAgICAgICAgcmV0dXJuIGYucHVibGljKCkKCiAgICBkZWYgX3BhcnNlKHNlbGYsIGtpbmQ6IHN0ciwgZXh0OiBzdHIsIGRhdGE6IGJ5dGVzKSAtPiB0dXBsZToKICAgICAgICAiIiLmjInnsbvlnovop6PmnpDlh7rlj6/lloLmqKHlnovnmoTmlofmnKwgKyDor7TmmI7jgIIiIiIKICAgICAgICBpZiBraW5kID09ICJ0ZXh0IjoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdHh0ID0gZGF0YS5kZWNvZGUoInV0Zi04IiwgZXJyb3JzPSJyZXBsYWNlIikKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHR4dCA9IGRhdGEuZGVjb2RlKCJsYXRpbi0xIiwgZXJyb3JzPSJyZXBsYWNlIikKICAgICAgICAgICAgcHJldmlldyA9IHR4dFs6UEFSU0VfUFJFVklFV10KICAgICAgICAgICAgbm90ZSA9ICIiIGlmIGxlbih0eHQpIDw9IFBBUlNFX1BSRVZJRVcgZWxzZSBmIu+8iOW3suaIquaWre+8jOWOn+aWhyB7bGVuKHR4dCl9IOWtl++8iSIKICAgICAgICAgICAgcmV0dXJuIHByZXZpZXcsIG5vdGUKICAgICAgICBpZiBraW5kID09ICJhcmNoaXZlIiBhbmQgZXh0ID09ICJ6aXAiOgogICAgICAgICAgICByZXR1cm4gc2VsZi5femlwX21hbmlmZXN0KGRhdGEpCiAgICAgICAgaWYga2luZCA9PSAiZG9jdW1lbnQiOgogICAgICAgICAgICByZXR1cm4gIiIsICJQREYvV29yZCDop6PmnpDpnIDlnKjmnI3liqHlmajmjqXlhaXvvIhwZGZtaW5lci9weXRob24tZG9jeO+8ie+8jOW9k+WJjeS7heWtmOWCqOOAgiIKICAgICAgICBpZiBraW5kID09ICJpbWFnZSI6CiAgICAgICAgICAgIHJldHVybiAiIiwgIuWbvueJh+WGheWuueeQhuino+mcgOWkmuaooeaAgeaooeWei++8jOW9k+WJjeS7heWtmOWCqOOAgiIKICAgICAgICByZXR1cm4gIiIsICLkuozov5vliLbmlofku7bvvIzku4XlrZjlgqjvvIzlhoXlrrnmnKrop6PmnpDjgIIiCgogICAgZGVmIF96aXBfbWFuaWZlc3Qoc2VsZiwgZGF0YTogYnl0ZXMpIC0+IHR1cGxlOgogICAgICAgICIiIuWOi+e8qeWMhe+8muWPquWIl+aWh+S7tua4heWNle+8jOS4jeino+WOi++8iOmYsiB6aXAg54K45by5L+i2iueVjO+8ieOAgiIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCB6aXBmaWxlLlppcEZpbGUoaW8uQnl0ZXNJTyhkYXRhKSkgYXMgejoKICAgICAgICAgICAgICAgIG5hbWVzID0gei5uYW1lbGlzdCgpWzoyMDBdCiAgICAgICAgICAgICAgICB0b3RhbCA9IHN1bShpLmZpbGVfc2l6ZSBmb3IgaSBpbiB6LmluZm9saXN0KCkpCiAgICAgICAgICAgICAgICBsaW5lcyA9IFtmIuWOi+e8qeWMheWQqyB7bGVuKHoubmFtZWxpc3QoKSl9IOS4quaWh+S7tu+8iOino+WOi+WQjue6piB7dG90YWwgLy8gMTAyNH1LQu+8ie+8miJdCiAgICAgICAgICAgICAgICBsaW5lcyArPSBbZiIgIC0ge259IiBmb3IgbiBpbiBuYW1lc10KICAgICAgICAgICAgICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpLCAi5Y6L57yp5YyF5LuF5YiX5riF5Y2V77yM5pyq6Ieq5Yqo6Kej5Y6L44CCIgogICAgICAgIGV4Y2VwdCB6aXBmaWxlLkJhZFppcEZpbGU6CiAgICAgICAgICAgIHJldHVybiAiIiwgIuaXoOazleivu+WPlueahOWOi+e8qeWMhe+8iOaNn+Wdj+aIlumdniB6aXDvvInjgIIiCgogICAgIyAtLS0tLS0tLS0tIOafpeivoiAtLS0tLS0tLS0tCiAgICBkZWYgZ2V0KHNlbGYsIGZpbGVfaWQ6IHN0cikgLT4gT3B0aW9uYWxbVXBsb2FkZWRGaWxlXToKICAgICAgICByZXR1cm4gc2VsZi5fZmlsZXMuZ2V0KGZpbGVfaWQpCgogICAgZGVmIGxpc3RfZm9yX3Nlc3Npb24oc2VsZiwgc2Vzc2lvbl9pZDogc3RyKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICByZXR1cm4gW2YucHVibGljKCkgZm9yIGYgaW4gc2VsZi5fZmlsZXMudmFsdWVzKCkgaWYgZi5zZXNzaW9uX2lkID09IHNlc3Npb25faWRdCgogICAgZGVmIGNvbnRleHRfdGV4dChzZWxmLCBmaWxlX2lkczogTGlzdFtzdHJdKSAtPiBzdHI6CiAgICAgICAgIiIi5oqK6YCJ5Lit5paH5Lu255qE6Kej5p6Q5paH5pys5ou85oiQ5LiK5LiL5paH5Z2X77yI5ZaC5qih5Z6L77yJ44CC5peg5paH5pys55qE5Y+q5YiX5paH5Lu25ZCN44CCIiIiCiAgICAgICAgYmxvY2tzID0gW10KICAgICAgICBmb3IgZmlkIGluIGZpbGVfaWRzOgogICAgICAgICAgICBmID0gc2VsZi5fZmlsZXMuZ2V0KGZpZCkKICAgICAgICAgICAgaWYgbm90IGY6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZiBmLnBhcnNlZF90ZXh0OgogICAgICAgICAgICAgICAgYmxvY2tzLmFwcGVuZChmIuOAkOaWh+S7tu+8mntmLmZpbGVuYW1lfeOAkVxue2YucGFyc2VkX3RleHR9IikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJsb2Nrcy5hcHBlbmQoZiLjgJDmlofku7bvvJp7Zi5maWxlbmFtZX3jgJHvvIh7Zi5ub3RlIG9yICfmnKrop6PmnpAnfe+8iSIpCiAgICAgICAgcmV0dXJuICJcblxuIi5qb2luKGJsb2NrcykKCiAgICBkZWYgZGVsZXRlKHNlbGYsIGZpbGVfaWQ6IHN0cikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc2VsZi5fZmlsZXMucG9wKGZpbGVfaWQsIE5vbmUpIGlzIG5vdCBOb25lCg==
+"""backend.file_service — 文件上传（②）。
+
+聊天可上传任意文件。本服务负责：存储、列表、按类型解析出"可喂给模型的文本"。
+
+诚实边界（务必读）：
+- 文本类（txt/md/csv/json/log/py 等）：直接读出文本 → 可喂模型。🟢
+- 压缩包（zip）：列出**文件清单**（不自动解压逐个解析，避免 zip 炸弹/越界）。🟢
+- PDF/Word：此处仅占位——真解析需 pdfminer/python-docx 等库，B7 在你环境接。🔴
+- 图片/音视频/二进制：只存储 + 标注类型，**内容理解需多模态模型**，本服务不处理。🔴
+
+安全：限制大小、zip 只读清单不解压、文件名清洗防路径穿越。
+"""
+from __future__ import annotations
+
+import io
+import os
+import time
+import uuid
+import zipfile
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional
+
+MAX_BYTES = 20 * 1024 * 1024            # 单文件上限 20MB
+TEXT_EXTS = {"txt", "md", "csv", "json", "log", "py", "js", "ts", "html", "css", "xml", "yaml", "yml"}
+PARSE_PREVIEW = 8000                     # 解析出的文本预览上限（喂模型用，防 token 暴涨）
+
+
+def _ext(name: str) -> str:
+    return name.rsplit(".", 1)[-1].lower() if "." in name else ""
+
+
+def _safe_name(name: str) -> str:
+    """清洗文件名：去路径分隔符，防穿越。"""
+    return os.path.basename(name).replace("\\", "_").replace("/", "_") or "unnamed"
+
+
+@dataclass
+class UploadedFile:
+    id: str
+    filename: str
+    ext: str
+    size: int
+    kind: str                 # text | archive | document | image | binary
+    session_id: Optional[str]
+    uploaded_at: float = field(default_factory=time.time)
+    parsed_text: str = ""     # 文本类解析结果（喂模型）
+    note: str = ""            # 解析说明（如"PDF 需 B7 解析"）
+
+    def public(self) -> Dict[str, Any]:
+        return {"id": self.id, "filename": self.filename, "ext": self.ext,
+                "size": self.size, "kind": self.kind, "session_id": self.session_id,
+                "uploaded_at": self.uploaded_at,
+                "has_text": bool(self.parsed_text), "note": self.note}
+
+
+def _classify(ext: str) -> str:
+    if ext in TEXT_EXTS:
+        return "text"
+    if ext in ("zip",):
+        return "archive"
+    if ext in ("pdf", "doc", "docx"):
+        return "document"
+    if ext in ("png", "jpg", "jpeg", "gif", "webp", "bmp"):
+        return "image"
+    return "binary"
+
+
+class FileService:
+    def __init__(self) -> None:
+        self._files: Dict[str, UploadedFile] = {}
+
+    def ingest(self, filename: str, data: bytes,
+               session_id: Optional[str] = None) -> Dict[str, Any]:
+        """接收一个文件：校验 → 分类 → 按类型解析 → 存储。"""
+        if len(data) > MAX_BYTES:
+            raise ValueError(f"文件超过上限 {MAX_BYTES // 1024 // 1024}MB")
+        name = _safe_name(filename)
+        ext = _ext(name)
+        kind = _classify(ext)
+        fid = "f_" + uuid.uuid4().hex[:8]
+        parsed, note = self._parse(kind, ext, data)
+        f = UploadedFile(id=fid, filename=name, ext=ext, size=len(data),
+                         kind=kind, session_id=session_id, parsed_text=parsed, note=note)
+        self._files[fid] = f
+        return f.public()
+
+    def _parse(self, kind: str, ext: str, data: bytes) -> tuple:
+        """按类型解析出可喂模型的文本 + 说明。"""
+        if kind == "text":
+            try:
+                txt = data.decode("utf-8", errors="replace")
+            except Exception:
+                txt = data.decode("latin-1", errors="replace")
+            preview = txt[:PARSE_PREVIEW]
+            note = "" if len(txt) <= PARSE_PREVIEW else f"（已截断，原文 {len(txt)} 字）"
+            return preview, note
+        if kind == "archive" and ext == "zip":
+            return self._zip_manifest(data)
+        if kind == "document":
+            return "", "PDF/Word 解析需在服务器接入（pdfminer/python-docx），当前仅存储。"
+        if kind == "image":
+            return "", "图片内容理解需多模态模型，当前仅存储。"
+        return "", "二进制文件，仅存储，内容未解析。"
+
+    def _zip_manifest(self, data: bytes) -> tuple:
+        """压缩包：只列文件清单，不解压（防 zip 炸弹/越界）。"""
+        try:
+            with zipfile.ZipFile(io.BytesIO(data)) as z:
+                names = z.namelist()[:200]
+                total = sum(i.file_size for i in z.infolist())
+                lines = [f"压缩包含 {len(z.namelist())} 个文件（解压后约 {total // 1024}KB）："]
+                lines += [f"  - {n}" for n in names]
+                return "\n".join(lines), "压缩包仅列清单，未自动解压。"
+        except zipfile.BadZipFile:
+            return "", "无法读取的压缩包（损坏或非 zip）。"
+
+    # ---------- 查询 ----------
+    def get(self, file_id: str) -> Optional[UploadedFile]:
+        return self._files.get(file_id)
+
+    def list_for_session(self, session_id: str) -> List[Dict[str, Any]]:
+        return [f.public() for f in self._files.values() if f.session_id == session_id]
+
+    def context_text(self, file_ids: List[str]) -> str:
+        """把选中文件的解析文本拼成上下文块（喂模型）。无文本的只列文件名。"""
+        blocks = []
+        for fid in file_ids:
+            f = self._files.get(fid)
+            if not f:
+                continue
+            if f.parsed_text:
+                blocks.append(f"【文件：{f.filename}】\n{f.parsed_text}")
+            else:
+                blocks.append(f"【文件：{f.filename}】（{f.note or '未解析'}）")
+        return "\n\n".join(blocks)
+
+    def delete(self, file_id: str) -> bool:
+        return self._files.pop(file_id, None) is not None

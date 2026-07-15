@@ -1,1 +1,88 @@
-IiIiYmFja2VuZC5hZGFwdGVycy5yZWRpc19xdW90YSDigJQg55yf5a6e6YWN6aKdKFJlZGlzIOWOn+WtkOaJo+WHjynjgIIKCuKaoO+4jyDmnKrlnKjmspnnrrHmtYvor5XvvJrpnIAgUmVkaXPjgILmjqXlj6PkuI4gYmFja2VuZC5RdW90YVNlcnZpY2Ug5a6M5YWo5LiA6Ie0Cu+8iGNvbnN1bWUgLyBzdGF0dXMgLyByZWNoYXJnZSAvIHNldF9saW1pdO+8ie+8jOW3peWOgumHjCBzd2FwIOaYr+mFjee9rue6p+OAggoK5Y6f5a2Q5oCn77yaY29uc3VtZSDnlKjljZXmnaEgTHVhIOiEmuacrOWujOaIkCLor7vplIHihpJJTkNSQlnihpLliKTpmIjlgLzihpLnva7plIEi77yMUmVkaXMg5Y2V57q/56iL5omn6KGMCuiEmuacrOWkqeeEtuWOn+WtkO+8jOaXoOernuaAgSjmr5TlhoXlrZjniYjnmoQgYXN5bmNpby5Mb2NrIOabtOW8uu+8jOmAguWQiOWkmui/m+eoiy/lpJrlrp7kvosp44CCCuaciOW6pumHjee9ru+8muWvueiuoeaVsOmUriBFWFBJUkVBVCDliLDkuIvmnIggMSDml6XvvIzliLDngrnoh6rliqjmtojlpLHljbPmuIXpm7bjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lem9uZQpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBUdXBsZQoKZnJvbSBiYWNrZW5kLnF1b3RhX3NlcnZpY2UgaW1wb3J0IENvbnN1bWVSZXN1bHQKCktleSA9IFR1cGxlW3N0ciwgc3RyXQoKIyBMdWHvvJrljp/lrZAgY2hlY2stYW5kLWNvbnN1bWXjgIJLRVlTPVt1c2VkLCBsb2NrZWRdIEFSR1Y9W3Rva2VucywgbGltaXRdCl9DT05TVU1FX0xVQSA9ICIiIgppZiByZWRpcy5jYWxsKCdHRVQnLCBLRVlTWzJdKSA9PSAnMScgdGhlbgogIHJldHVybiB7MCwgdG9udW1iZXIocmVkaXMuY2FsbCgnR0VUJywgS0VZU1sxXSkgb3IgJzAnKSwgMX0KZW5kCmxvY2FsIHVzZWQgPSB0b251bWJlcihyZWRpcy5jYWxsKCdJTkNSQlknLCBLRVlTWzFdLCBBUkdWWzFdKSkKbG9jYWwgbG9ja2VkID0gMAppZiB1c2VkID49IHRvbnVtYmVyKEFSR1ZbMl0pIHRoZW4KICByZWRpcy5jYWxsKCdTRVQnLCBLRVlTWzJdLCAnMScpCiAgbG9ja2VkID0gMQplbmQKcmV0dXJuIHsxLCB1c2VkLCBsb2NrZWR9CiIiIgoKCmRlZiBfbmV4dF9tb250aF9lcG9jaCgpIC0+IGludDoKICAgIGR0ID0gZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0YykKICAgIHksIG0gPSAoZHQueWVhciArIDEsIDEpIGlmIGR0Lm1vbnRoID09IDEyIGVsc2UgKGR0LnllYXIsIGR0Lm1vbnRoICsgMSkKICAgIHJldHVybiBpbnQoZGF0ZXRpbWUoeSwgbSwgMSwgdHppbmZvPXRpbWV6b25lLnV0YykudGltZXN0YW1wKCkpCgoKY2xhc3MgUmVkaXNRdW90YVNlcnZpY2U6CiAgICAiIiJRdW90YVNlcnZpY2Ug55qE55yf5a6e5pu/6Lqr77yIUmVkaXMg5ZCO56uv77yJ44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHVybDogc3RyKSAtPiBOb25lOgogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IHJlZGlzLmFzeW5jaW8gYXMgYWlvcmVkaXMgICMg5oeS5Yqg6L29CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiUmVkaXNRdW90YVNlcnZpY2Ug6ZyA6KaBIHJlZGlz77yacGlwIGluc3RhbGwgcmVkaXMiKSBmcm9tIGUKICAgICAgICBzZWxmLl9yID0gYWlvcmVkaXMuZnJvbV91cmwodXJsLCBkZWNvZGVfcmVzcG9uc2VzPVRydWUpCiAgICAgICAgc2VsZi5fY29uc3VtZSA9IHNlbGYuX3IucmVnaXN0ZXJfc2NyaXB0KF9DT05TVU1FX0xVQSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2tleXMoa2V5OiBLZXkpIC0+IFR1cGxlW3N0ciwgc3RyXToKICAgICAgICB1LCBhID0ga2V5CiAgICAgICAgcmV0dXJuIGYicXVvdGE6e3V9OnthfTp1c2VkIiwgZiJxdW90YTp7dX06e2F9OmxvY2tlZCIKCiAgICBhc3luYyBkZWYgY29uc3VtZShzZWxmLCBrZXk6IEtleSwgdG9rZW5zOiBpbnQsIGxpbWl0OiBpbnQgPSAxMDAwMCwKICAgICAgICAgICAgICAgICAgICAgIGZyZWV6ZV9wZXJpb2Q6IHN0ciA9ICJtb250aGx5IikgLT4gQ29uc3VtZVJlc3VsdDogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIGt1LCBrbCA9IHNlbGYuX2tleXMoa2V5KQogICAgICAgIGFsbG93ZWQsIHVzZWQsIGxvY2tlZCA9IGF3YWl0IHNlbGYuX2NvbnN1bWUoa2V5cz1ba3UsIGtsXSwgYXJncz1bdG9rZW5zLCBsaW1pdF0pCiAgICAgICAgaWYgbG9ja2VkIGFuZCBmcmVlemVfcGVyaW9kID09ICJtb250aGx5IjoKICAgICAgICAgICAgYXdhaXQgc2VsZi5fci5leHBpcmVhdChrdSwgX25leHRfbW9udGhfZXBvY2goKSkKICAgICAgICAgICAgYXdhaXQgc2VsZi5fci5leHBpcmVhdChrbCwgX25leHRfbW9udGhfZXBvY2goKSkKICAgICAgICByZXR1cm4gQ29uc3VtZVJlc3VsdChib29sKGFsbG93ZWQpLCBsaW1pdCAtIGludCh1c2VkKSwgaW50KHVzZWQpLCBib29sKGxvY2tlZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInF1b3RhX2xvY2tlZCIgaWYgbm90IGFsbG93ZWQgZWxzZSAiIikKCiAgICBhc3luYyBkZWYgc3RhdHVzKHNlbGYsIGtleTogS2V5LCBsaW1pdDogaW50ID0gMTAwMDAsCiAgICAgICAgICAgICAgICAgICAgIGZyZWV6ZV9wZXJpb2Q6IHN0ciA9ICJtb250aGx5IikgLT4gRGljdFtzdHIsIEFueV06ICAjIHByYWdtYTogbm8gY292ZXIKICAgICAgICBrdSwga2wgPSBzZWxmLl9rZXlzKGtleSkKICAgICAgICB1c2VkID0gaW50KGF3YWl0IHNlbGYuX3IuZ2V0KGt1KSBvciAwKQogICAgICAgIGxvY2tlZCA9IChhd2FpdCBzZWxmLl9yLmdldChrbCkpID09ICIxIgogICAgICAgIHJldHVybiB7InVzZWQiOiB1c2VkLCAibGltaXQiOiBsaW1pdCwgInJlbWFpbmluZyI6IGxpbWl0IC0gdXNlZCwKICAgICAgICAgICAgICAgICJsb2NrZWQiOiBsb2NrZWQsICJmcmVlemVfdW50aWwiOiBOb25lLCAiZnJlZXplX3BlcmlvZCI6IGZyZWV6ZV9wZXJpb2R9CgogICAgYXN5bmMgZGVmIHJlY2hhcmdlKHNlbGYsIGtleTogS2V5LCBhZGRfdG9rZW5zOiBpbnQpIC0+IERpY3Rbc3RyLCBBbnldOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAga3UsIGtsID0gc2VsZi5fa2V5cyhrZXkpCiAgICAgICAgYXdhaXQgc2VsZi5fci5kZWxldGUoa2wpICAgICAgICAgICAgICAgICAgICAgICAjIOino+mUgQogICAgICAgIHVzZWQgPSBpbnQoYXdhaXQgc2VsZi5fci5nZXQoa3UpIG9yIDApCiAgICAgICAgcmV0dXJuIHsibGltaXQiOiBhZGRfdG9rZW5zLCAicmVtYWluaW5nIjogYWRkX3Rva2VucyAtIHVzZWQsICJsb2NrZWQiOiBGYWxzZX0KCiAgICBhc3luYyBkZWYgc2V0X2xpbWl0KHNlbGYsIGtleTogS2V5LCBuZXdfbGltaXQ6IGludCkgLT4gRGljdFtzdHIsIEFueV06ICAjIHByYWdtYTogbm8gY292ZXIKICAgICAgICBrdSwga2wgPSBzZWxmLl9rZXlzKGtleSkKICAgICAgICB1c2VkID0gaW50KGF3YWl0IHNlbGYuX3IuZ2V0KGt1KSBvciAwKQogICAgICAgIGxvY2tlZCA9IHVzZWQgPj0gbmV3X2xpbWl0CiAgICAgICAgaWYgbG9ja2VkOgogICAgICAgICAgICBhd2FpdCBzZWxmLl9yLnNldChrbCwgIjEiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGF3YWl0IHNlbGYuX3IuZGVsZXRlKGtsKQogICAgICAgIHJldHVybiB7ImxpbWl0IjogbmV3X2xpbWl0LCAicmVtYWluaW5nIjogbmV3X2xpbWl0IC0gdXNlZCwgImxvY2tlZCI6IGxvY2tlZH0K
+"""backend.adapters.redis_quota — 真实配额(Redis 原子扣减)。
+
+⚠️ 未在沙箱测试：需 Redis。接口与 backend.QuotaService 完全一致
+（consume / status / recharge / set_limit），工厂里 swap 是配置级。
+
+原子性：consume 用单条 Lua 脚本完成"读锁→INCRBY→判阈值→置锁"，Redis 单线程执行
+脚本天然原子，无竞态(比内存版的 asyncio.Lock 更强，适合多进程/多实例)。
+月度重置：对计数键 EXPIREAT 到下月 1 日，到点自动消失即清零。
+"""
+from __future__ import annotations
+
+from datetime import datetime, timezone
+from typing import Any, Dict, Tuple
+
+from backend.quota_service import ConsumeResult
+
+Key = Tuple[str, str]
+
+# Lua：原子 check-and-consume。KEYS=[used, locked] ARGV=[tokens, limit]
+_CONSUME_LUA = """
+if redis.call('GET', KEYS[2]) == '1' then
+  return {0, tonumber(redis.call('GET', KEYS[1]) or '0'), 1}
+end
+local used = tonumber(redis.call('INCRBY', KEYS[1], ARGV[1]))
+local locked = 0
+if used >= tonumber(ARGV[2]) then
+  redis.call('SET', KEYS[2], '1')
+  locked = 1
+end
+return {1, used, locked}
+"""
+
+
+def _next_month_epoch() -> int:
+    dt = datetime.now(timezone.utc)
+    y, m = (dt.year + 1, 1) if dt.month == 12 else (dt.year, dt.month + 1)
+    return int(datetime(y, m, 1, tzinfo=timezone.utc).timestamp())
+
+
+class RedisQuotaService:
+    """QuotaService 的真实替身（Redis 后端）。"""
+
+    def __init__(self, url: str) -> None:
+        try:
+            import redis.asyncio as aioredis  # 懒加载
+        except Exception as e:  # pragma: no cover
+            raise RuntimeError("RedisQuotaService 需要 redis：pip install redis") from e
+        self._r = aioredis.from_url(url, decode_responses=True)
+        self._consume = self._r.register_script(_CONSUME_LUA)
+
+    @staticmethod
+    def _keys(key: Key) -> Tuple[str, str]:
+        u, a = key
+        return f"quota:{u}:{a}:used", f"quota:{u}:{a}:locked"
+
+    async def consume(self, key: Key, tokens: int, limit: int = 10000,
+                      freeze_period: str = "monthly") -> ConsumeResult:  # pragma: no cover
+        ku, kl = self._keys(key)
+        allowed, used, locked = await self._consume(keys=[ku, kl], args=[tokens, limit])
+        if locked and freeze_period == "monthly":
+            await self._r.expireat(ku, _next_month_epoch())
+            await self._r.expireat(kl, _next_month_epoch())
+        return ConsumeResult(bool(allowed), limit - int(used), int(used), bool(locked),
+                             "quota_locked" if not allowed else "")
+
+    async def status(self, key: Key, limit: int = 10000,
+                     freeze_period: str = "monthly") -> Dict[str, Any]:  # pragma: no cover
+        ku, kl = self._keys(key)
+        used = int(await self._r.get(ku) or 0)
+        locked = (await self._r.get(kl)) == "1"
+        return {"used": used, "limit": limit, "remaining": limit - used,
+                "locked": locked, "freeze_until": None, "freeze_period": freeze_period}
+
+    async def recharge(self, key: Key, add_tokens: int) -> Dict[str, Any]:  # pragma: no cover
+        ku, kl = self._keys(key)
+        await self._r.delete(kl)                       # 解锁
+        used = int(await self._r.get(ku) or 0)
+        return {"limit": add_tokens, "remaining": add_tokens - used, "locked": False}
+
+    async def set_limit(self, key: Key, new_limit: int) -> Dict[str, Any]:  # pragma: no cover
+        ku, kl = self._keys(key)
+        used = int(await self._r.get(ku) or 0)
+        locked = used >= new_limit
+        if locked:
+            await self._r.set(kl, "1")
+        else:
+            await self._r.delete(kl)
+        return {"limit": new_limit, "remaining": new_limit - used, "locked": locked}

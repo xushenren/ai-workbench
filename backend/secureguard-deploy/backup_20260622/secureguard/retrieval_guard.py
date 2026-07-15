@@ -1,1 +1,185 @@
-IiIic2VjdXJlZ3VhcmQucmV0cmlldmFsX2d1YXJkIOKAlCDmo4DntKIv54mI5p2D5oqk5qCP77yI5oqKIui+k+WHuuWGheWuuee6puadnyLnvJbnoIHkuLrlj6/miafooYzmo4Dmn6XvvInjgIIKCuWbnuetlOWSqOivoiAjM++8mueJiOadg+ehrOmZkOWItuS4jeaYryLlronlhajnuqLnur8i77yI57qi57q/5pivIGFjdGlvbiDnuqfnmoQi6IO95LiN6IO95YGaIu+8ie+8jArogIzmmK8i6L6T5Ye65qC85byPL+WGheWuuee6puadnyLvvIhvdXRwdXQg57qn55qEIuS6p+WHuumVv+S7gOS5iOagtyLvvInjgILlm6DmraTlroPlu7rmqKHkuLoKKirovpPlh7rkvqcgRG9tYWluR3VhcmQqKu+8muaLv+aooeWei+i+k+WHuiArIOajgOe0ouWIsOeahOa6kOaWh+aho++8jOmAkOadoeaguOWvue+8mgoKICAxLiDljZXmnaHlvJXnlKgg4omkIE4g6K+N77yI5ouJ5LiBIDE1IOivjSAvIOS4reaXpemfqSAzMCDlrZfvvIzlj6/phY3nva7vvIkKICAyLiDljZXmupDoh7PlpJogMSDmnaHpgJDlrZflvJXnlKjvvIjmjIki6YCQ5a2X5ZG95Lit5p+Q5rqQIuW9kuWxnu+8iQogIDMuIOemgeatouacquWKoOW8leWPt+eahOmAkOWtl+WkjeWItu+8iOi/keS8vOWkjei/sC/nu5PmnoTmkKzov5DvvInigJTigJQg55So5pyA6ZW/6L+e57ut6YCQ5a2XIHRva2VuIOS4suajgOa1iwogIDQuIOemgeatouWkjei/sOWujOaVtOS9nOWTgSDigJTigJQg6L6T5Ye65a+55Y2V5LiA5rqQ55qE6YCQ5a2X6KaG55uW546H6LaF6ZiI5YC85Y2z5Yik5a6aCgrliKTlrpogdmVyZGljdO+8muWPkeeOsOi/neinhCDihpIg6L+U5ZueIEJMT0NLX09SX1JFV1JJVEXvvIzlubbnu5nlh7rmr4/mnaHov53op4TnmoTlrprkvY3vvIwK5L6b5LiK5bGC6YCJ5oupIumHjeWGmeS4uui9rOi/sCLmiJbmi5Lnu53jgILnuq/moIflh4blupPvvIzml6DnrKzkuInmlrnkvp3otZbvvIzlj6/nprvnur/mtYvor5XjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCByZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsLCBUdXBsZQoKIyDlvJXlj7flvaLmgIHvvJrnm7TlvJXlj7cgLyDlvK/lvJXlj7cgLyDkuK3mloflvJXlj7cgLyDkuablkI3lj7cKX1FVT1RFX1NQQU5TID0gcmUuY29tcGlsZSgKICAgIHIiXCIoW15cIl17MSw0MDB9KVwiIiAgICAgICAgIyAiLi4uIgogICAgciJ84oCcKFte4oCdXXsxLDQwMH0p4oCdIiAgICAgICAgICAjIOKAnC4uLuKAnQogICAgciJ844CMKFte44CNXXsxLDQwMH0p44CNIiAgICAgICAgIyDjgIwuLi7jgI0KICAgIHIifOOAjihbXuOAj117MSw0MDB9KeOAjyIgICAgICAgICMg44COLi4u44CPCiAgICByInzjgIooW17jgItdezEsNDAwfSnjgIsiLCAgICAgICAjIOOAii4uLuOAiwopCgpfQ0pLID0gciJcdTRlMDAtXHU5ZmZmXHUzMDQwLVx1MzBmZlx1YWMwMC1cdWQ3YWYiCgoKZGVmIF9pc19jamtfZG9taW5hbnQodGV4dDogc3RyKSAtPiBib29sOgogICAgY2prID0gbGVuKHJlLmZpbmRhbGwoZiJbe19DSkt9XSIsIHRleHQpKQogICAgbGF0aW4gPSBsZW4ocmUuZmluZGFsbChyIltBLVphLXpdIiwgdGV4dCkpCiAgICByZXR1cm4gY2prID49IGxhdGluCgoKZGVmIF90b2tlbml6ZSh0ZXh0OiBzdHIpIC0+IExpc3Rbc3RyXToKICAgICIiIuaLieS4geivjeaVtOS9k+aIkCB0b2tlbu+8jOS4reaXpemfqeaMieWNleWtl+aIkCB0b2tlbu+8m+eUqOS6jumAkOWtl+mHjeWPoOavlOWvueOAgiIiIgogICAgcmV0dXJuIHJlLmZpbmRhbGwocmYiW0EtWmEtejAtOV0rfFt7X0NKS31dIiwgdGV4dC5sb3dlcigpKQoKCmRlZiBfcXVvdGVfbGVuZ3RoKHNwYW46IHN0cikgLT4gVHVwbGVbc3RyLCBpbnRdOgogICAgIiIi6L+U5ZueICjorqHph4/mlrnlvI8sIOmVv+W6pinjgILkuK3ml6Xpn6nmjInlrZfmlbDvvIzmi4nkuIHmjInor43mlbDjgIIiIiIKICAgIGlmIF9pc19jamtfZG9taW5hbnQoc3Bhbik6CiAgICAgICAgcmV0dXJuICJjamtfY2hhcnMiLCBsZW4ocmUuZmluZGFsbChmIlt7X0NKS31dIiwgc3BhbikpCiAgICByZXR1cm4gImxhdGluX3dvcmRzIiwgbGVuKHNwYW4uc3BsaXQoKSkKCgpkZWYgX2xvbmdlc3RfdmVyYmF0aW1fcnVuKG91dF90b2tlbnM6IExpc3Rbc3RyXSwgc3JjX3Rva2VuczogTGlzdFtzdHJdKSAtPiBpbnQ6CiAgICAiIiLovpPlh7rkuI7ljZXmupDkuYvpl7TmnIDplb/ov57nu63pgJDlrZcgdG9rZW4g5Liy6ZW/5bqm77yI57uP5YW4IERQ77yM6KeE5qih5bCP6Laz5aSf77yJ44CCIiIiCiAgICBpZiBub3Qgb3V0X3Rva2VucyBvciBub3Qgc3JjX3Rva2VuczoKICAgICAgICByZXR1cm4gMAogICAgcHJldiA9IFswXSAqIChsZW4oc3JjX3Rva2VucykgKyAxKQogICAgYmVzdCA9IDAKICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihvdXRfdG9rZW5zKSArIDEpOgogICAgICAgIGN1ciA9IFswXSAqIChsZW4oc3JjX3Rva2VucykgKyAxKQogICAgICAgIG9pID0gb3V0X3Rva2Vuc1tpIC0gMV0KICAgICAgICBmb3IgaiBpbiByYW5nZSgxLCBsZW4oc3JjX3Rva2VucykgKyAxKToKICAgICAgICAgICAgaWYgb2kgPT0gc3JjX3Rva2Vuc1tqIC0gMV06CiAgICAgICAgICAgICAgICBjdXJbal0gPSBwcmV2W2ogLSAxXSArIDEKICAgICAgICAgICAgICAgIGlmIGN1cltqXSA+IGJlc3Q6CiAgICAgICAgICAgICAgICAgICAgYmVzdCA9IGN1cltqXQogICAgICAgIHByZXYgPSBjdXIKICAgIHJldHVybiBiZXN0CgoKQGRhdGFjbGFzcwpjbGFzcyBSZXRyaWV2YWxWaW9sYXRpb246CiAgICBraW5kOiBzdHIgICAgICAgICAgICAgICAgICMgcXVvdGVfdG9vX2xvbmcgLyBtdWx0aV9xdW90ZV9zYW1lX3NvdXJjZSAvIHVucXVvdGVkX3JlcHJvZHVjdGlvbiAvIGZ1bGxfd29yawogICAgZGV0YWlsOiBzdHIKICAgIGV2aWRlbmNlOiBzdHIgPSAiIgogICAgc291cmNlX2lkOiBzdHIgPSAiIgoKCkBkYXRhY2xhc3MKY2xhc3MgUmV0cmlldmFsUmVwb3J0OgogICAgb2s6IGJvb2wKICAgIHZpb2xhdGlvbnM6IExpc3RbUmV0cmlldmFsVmlvbGF0aW9uXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQogICAgcXVvdGVzX2ZvdW5kOiBpbnQgPSAwCiAgICBtYXhfdmVyYmF0aW1fcnVuOiBpbnQgPSAwCgogICAgZGVmIHRvX2RpY3Qoc2VsZikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgIm9rIjogc2VsZi5vaywKICAgICAgICAgICAgInZpb2xhdGlvbnMiOiBbdi5fX2RpY3RfXyBmb3IgdiBpbiBzZWxmLnZpb2xhdGlvbnNdLAogICAgICAgICAgICAicXVvdGVzX2ZvdW5kIjogc2VsZi5xdW90ZXNfZm91bmQsCiAgICAgICAgICAgICJtYXhfdmVyYmF0aW1fcnVuIjogc2VsZi5tYXhfdmVyYmF0aW1fcnVuLAogICAgICAgIH0KCgpjbGFzcyBSZXRyaWV2YWxHdWFyZDoKICAgICIiIuajgOe0oueJiOadg+aKpOagj+OAgmNoZWNrKCkg5o6l5pS26L6T5Ye65LiO5rqQ5paH5qGj77yM6YCQ5p2h5qC45a+554mI5p2D57qm5p2f44CCIiIiCgogICAgdGllciA9ICJET01BSU5fR1VBUkQiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgbWF4X3F1b3RlX3dvcmRzOiBpbnQgPSAxNSwgICAgICAgICMg5Y2V5p2h5ouJ5LiB5byV55So6K+N5LiK6ZmQCiAgICAgICAgbWF4X3F1b3RlX2Nqa19jaGFyczogaW50ID0gMzAsICAgICMg5Y2V5p2h5Lit5pel6Z+p5byV55So5a2X5LiK6ZmQCiAgICAgICAgbWF4X3F1b3Rlc19wZXJfc291cmNlOiBpbnQgPSAxLCAgICMg5Y2V5rqQ6YCQ5a2X5byV55So5p2h5pWw5LiK6ZmQCiAgICAgICAgdW5xdW90ZWRfcnVuX3RocmVzaG9sZDogaW50ID0gMTIsICAjIOacquWKoOW8leWPt+mAkOWtl+S4siB0b2tlbiDpmIjlgLwKICAgICAgICBmdWxsX3dvcmtfY292ZXJhZ2U6IGZsb2F0ID0gMC41LCAgIyDlr7nljZXmupDpgJDlrZfopobnm5bnjofkuIrpmZAKICAgICkgLT4gTm9uZToKICAgICAgICBzZWxmLm1heF9xdW90ZV93b3JkcyA9IG1heF9xdW90ZV93b3JkcwogICAgICAgIHNlbGYubWF4X3F1b3RlX2Nqa19jaGFycyA9IG1heF9xdW90ZV9jamtfY2hhcnMKICAgICAgICBzZWxmLm1heF9xdW90ZXNfcGVyX3NvdXJjZSA9IG1heF9xdW90ZXNfcGVyX3NvdXJjZQogICAgICAgIHNlbGYudW5xdW90ZWRfcnVuX3RocmVzaG9sZCA9IHVucXVvdGVkX3J1bl90aHJlc2hvbGQKICAgICAgICBzZWxmLmZ1bGxfd29ya19jb3ZlcmFnZSA9IGZ1bGxfd29ya19jb3ZlcmFnZQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZXh0cmFjdF9xdW90ZXModGV4dDogc3RyKSAtPiBMaXN0W3N0cl06CiAgICAgICAgc3BhbnMgPSBbXQogICAgICAgIGZvciBtIGluIF9RVU9URV9TUEFOUy5maW5kaXRlcih0ZXh0KToKICAgICAgICAgICAgc3BhbiA9IG5leHQoKGcgZm9yIGcgaW4gbS5ncm91cHMoKSBpZiBnKSwgTm9uZSkKICAgICAgICAgICAgaWYgc3BhbjoKICAgICAgICAgICAgICAgIHNwYW5zLmFwcGVuZChzcGFuLnN0cmlwKCkpCiAgICAgICAgcmV0dXJuIHNwYW5zCgogICAgZGVmIGNoZWNrKHNlbGYsIG91dHB1dDogc3RyLCBzb3VyY2VzOiBMaXN0W0FueV0pIC0+IFJldHJpZXZhbFJlcG9ydDoKICAgICAgICAiIiJzb3VyY2VzOiDlj6/ov63ku6PvvIzlhYPntKDpnIDmnIkgLmlkIOS4jiAuY29udGVudO+8iOWmgiBsMl9yZWFzb25pbmcuRG9j77yJ44CCIiIiCiAgICAgICAgdmlvbGF0aW9uczogTGlzdFtSZXRyaWV2YWxWaW9sYXRpb25dID0gW10KICAgICAgICBxdW90ZXMgPSBzZWxmLl9leHRyYWN0X3F1b3RlcyhvdXRwdXQpCgogICAgICAgICMgLS0tIOinhOWImSAx77ya5Y2V5p2h5byV55So6ZW/5bqmIC0tLQogICAgICAgIGZvciBxIGluIHF1b3RlczoKICAgICAgICAgICAgbW9kZSwgbGVuZ3RoID0gX3F1b3RlX2xlbmd0aChxKQogICAgICAgICAgICBsaW1pdCA9IHNlbGYubWF4X3F1b3RlX2Nqa19jaGFycyBpZiBtb2RlID09ICJjamtfY2hhcnMiIGVsc2Ugc2VsZi5tYXhfcXVvdGVfd29yZHMKICAgICAgICAgICAgaWYgbGVuZ3RoID4gbGltaXQ6CiAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFwcGVuZChSZXRyaWV2YWxWaW9sYXRpb24oCiAgICAgICAgICAgICAgICAgICAga2luZD0icXVvdGVfdG9vX2xvbmciLAogICAgICAgICAgICAgICAgICAgIGRldGFpbD1mIuW8leeUqHtsZW5ndGh9eyflrZcnIGlmIG1vZGU9PSdjamtfY2hhcnMnIGVsc2UgJ+ivjSd9ID4g5LiK6ZmQe2xpbWl0fSIsCiAgICAgICAgICAgICAgICAgICAgZXZpZGVuY2U9cVs6NjBdLAogICAgICAgICAgICAgICAgKSkKCiAgICAgICAgIyAtLS0g6KeE5YiZIDLvvJrljZXmupDpgJDlrZflvJXnlKjmnaHmlbDvvIjmjInlvJXnlKjmmK/lkKbpgJDlrZflkb3kuK3mn5DmupDlvZLlsZ7vvIktLS0KICAgICAgICBzcmNfcXVvdGVfY291bnQ6IERpY3Rbc3RyLCBpbnRdID0ge30KICAgICAgICBmb3IgcSBpbiBxdW90ZXM6CiAgICAgICAgICAgIHFfdG9rZW5zID0gX3Rva2VuaXplKHEpCiAgICAgICAgICAgIGZvciBzIGluIHNvdXJjZXM6CiAgICAgICAgICAgICAgICBydW4gPSBfbG9uZ2VzdF92ZXJiYXRpbV9ydW4ocV90b2tlbnMsIF90b2tlbml6ZShzLmNvbnRlbnQpKQogICAgICAgICAgICAgICAgIyDlvJXnlKjnu53lpKfpg6jliIbpgJDlrZfmnaXoh6ror6XmupAg4oaSIOW9kuWxnuS4uuWvueivpea6kOeahOS4gOadoeW8leeUqAogICAgICAgICAgICAgICAgaWYgcV90b2tlbnMgYW5kIHJ1biA+PSBtYXgoMSwgaW50KGxlbihxX3Rva2VucykgKiAwLjgpKToKICAgICAgICAgICAgICAgICAgICBzcmNfcXVvdGVfY291bnRbcy5pZF0gPSBzcmNfcXVvdGVfY291bnQuZ2V0KHMuaWQsIDApICsgMQogICAgICAgIGZvciBzaWQsIGNudCBpbiBzcmNfcXVvdGVfY291bnQuaXRlbXMoKToKICAgICAgICAgICAgaWYgY250ID4gc2VsZi5tYXhfcXVvdGVzX3Blcl9zb3VyY2U6CiAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFwcGVuZChSZXRyaWV2YWxWaW9sYXRpb24oCiAgICAgICAgICAgICAgICAgICAga2luZD0ibXVsdGlfcXVvdGVfc2FtZV9zb3VyY2UiLAogICAgICAgICAgICAgICAgICAgIGRldGFpbD1mIuWvuea6kCB7c2lkfSDmnIkge2NudH0g5p2h6YCQ5a2X5byV55SoID4g5LiK6ZmQIHtzZWxmLm1heF9xdW90ZXNfcGVyX3NvdXJjZX0iLAogICAgICAgICAgICAgICAgICAgIHNvdXJjZV9pZD1zaWQsCiAgICAgICAgICAgICAgICApKQoKICAgICAgICAjIC0tLSDop4TliJkgMy8077ya5pyq5Yqg5byV5Y+36YCQ5a2X5aSN5Yi2ICsg5a6M5pW05L2c5ZOB5aSN6L+wIC0tLQogICAgICAgIG91dF90b2tlbnMgPSBfdG9rZW5pemUob3V0cHV0KQogICAgICAgICMg5Y675o6J5byV5Y+35YaF5YaF5a655ZCO55qEIuato+aWhyB0b2tlbiLvvIznlKjkuo7mo4DmtYvmnKrliqDlvJXlj7fnmoTpgJDlrZfmkKzov5AKICAgICAgICBzdHJpcHBlZCA9IF9RVU9URV9TUEFOUy5zdWIoIiAiLCBvdXRwdXQpCiAgICAgICAgYm9keV90b2tlbnMgPSBfdG9rZW5pemUoc3RyaXBwZWQpCiAgICAgICAgbWF4X3J1bl9vdmVyYWxsID0gMAogICAgICAgIGZvciBzIGluIHNvdXJjZXM6CiAgICAgICAgICAgIHNfdG9rZW5zID0gX3Rva2VuaXplKHMuY29udGVudCkKICAgICAgICAgICAgIyDmnKrliqDlvJXlj7fpgJDlrZfkuLIKICAgICAgICAgICAgYm9keV9ydW4gPSBfbG9uZ2VzdF92ZXJiYXRpbV9ydW4oYm9keV90b2tlbnMsIHNfdG9rZW5zKQogICAgICAgICAgICBtYXhfcnVuX292ZXJhbGwgPSBtYXgobWF4X3J1bl9vdmVyYWxsLCBib2R5X3J1bikKICAgICAgICAgICAgaWYgYm9keV9ydW4gPj0gc2VsZi51bnF1b3RlZF9ydW5fdGhyZXNob2xkOgogICAgICAgICAgICAgICAgdmlvbGF0aW9ucy5hcHBlbmQoUmV0cmlldmFsVmlvbGF0aW9uKAogICAgICAgICAgICAgICAgICAgIGtpbmQ9InVucXVvdGVkX3JlcHJvZHVjdGlvbiIsCiAgICAgICAgICAgICAgICAgICAgZGV0YWlsPWYi5pyq5Yqg5byV5Y+36YCQ5a2X5Liy6L6+IHtib2R5X3J1bn0gdG9rZW7vvIjpmIjlgLwge3NlbGYudW5xdW90ZWRfcnVuX3RocmVzaG9sZH3vvIkiLAogICAgICAgICAgICAgICAgICAgIHNvdXJjZV9pZD1zLmlkLAogICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgIyDlrozmlbTkvZzlk4HlpI3ov7DvvJrovpPlh7rlr7nor6XmupDnmoTpgJDlrZfopobnm5bnjocKICAgICAgICAgICAgZnVsbF9ydW4gPSBfbG9uZ2VzdF92ZXJiYXRpbV9ydW4ob3V0X3Rva2Vucywgc190b2tlbnMpCiAgICAgICAgICAgIGlmIHNfdG9rZW5zIGFuZCBmdWxsX3J1biAvIGxlbihzX3Rva2VucykgPj0gc2VsZi5mdWxsX3dvcmtfY292ZXJhZ2U6CiAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFwcGVuZChSZXRyaWV2YWxWaW9sYXRpb24oCiAgICAgICAgICAgICAgICAgICAga2luZD0iZnVsbF93b3JrIiwKICAgICAgICAgICAgICAgICAgICBkZXRhaWw9ZiLlr7nmupAge3MuaWR9IOmAkOWtl+imhueblueOhyB7ZnVsbF9ydW4vbGVuKHNfdG9rZW5zKTouMCV9IOKJpSB7c2VsZi5mdWxsX3dvcmtfY292ZXJhZ2U6LjAlfSIsCiAgICAgICAgICAgICAgICAgICAgc291cmNlX2lkPXMuaWQsCiAgICAgICAgICAgICAgICApKQoKICAgICAgICByZXR1cm4gUmV0cmlldmFsUmVwb3J0KAogICAgICAgICAgICBvaz1ub3QgdmlvbGF0aW9ucywKICAgICAgICAgICAgdmlvbGF0aW9ucz12aW9sYXRpb25zLAogICAgICAgICAgICBxdW90ZXNfZm91bmQ9bGVuKHF1b3RlcyksCiAgICAgICAgICAgIG1heF92ZXJiYXRpbV9ydW49bWF4X3J1bl9vdmVyYWxsLAogICAgICAgICkK
+"""secureguard.retrieval_guard — 检索/版权护栏（把"输出内容约束"编码为可执行检查）。
+
+回答咨询 #3：版权硬限制不是"安全红线"（红线是 action 级的"能不能做"），
+而是"输出格式/内容约束"（output 级的"产出长什么样"）。因此它建模为
+**输出侧 DomainGuard**：拿模型输出 + 检索到的源文档，逐条核对：
+
+  1. 单条引用 ≤ N 词（拉丁 15 词 / 中日韩 30 字，可配置）
+  2. 单源至多 1 条逐字引用（按"逐字命中某源"归属）
+  3. 禁止未加引号的逐字复制（近似复述/结构搬运）—— 用最长连续逐字 token 串检测
+  4. 禁止复述完整作品 —— 输出对单一源的逐字覆盖率超阈值即判定
+
+判定 verdict：发现违规 → 返回 BLOCK_OR_REWRITE，并给出每条违规的定位，
+供上层选择"重写为转述"或拒绝。纯标准库，无第三方依赖，可离线测试。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional, Tuple
+
+# 引号形态：直引号 / 弯引号 / 中文引号 / 书名号
+_QUOTE_SPANS = re.compile(
+    r"\"([^\"]{1,400})\""        # "..."
+    r"|“([^”]{1,400})”"          # “...”
+    r"|「([^」]{1,400})」"        # 「...」
+    r"|『([^』]{1,400})』"        # 『...』
+    r"|《([^》]{1,400})》",       # 《...》
+)
+
+_CJK = r"\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af"
+
+
+def _is_cjk_dominant(text: str) -> bool:
+    cjk = len(re.findall(f"[{_CJK}]", text))
+    latin = len(re.findall(r"[A-Za-z]", text))
+    return cjk >= latin
+
+
+def _tokenize(text: str) -> List[str]:
+    """拉丁词整体成 token，中日韩按单字成 token；用于逐字重叠比对。"""
+    return re.findall(rf"[A-Za-z0-9]+|[{_CJK}]", text.lower())
+
+
+def _quote_length(span: str) -> Tuple[str, int]:
+    """返回 (计量方式, 长度)。中日韩按字数，拉丁按词数。"""
+    if _is_cjk_dominant(span):
+        return "cjk_chars", len(re.findall(f"[{_CJK}]", span))
+    return "latin_words", len(span.split())
+
+
+def _longest_verbatim_run(out_tokens: List[str], src_tokens: List[str]) -> int:
+    """输出与单源之间最长连续逐字 token 串长度（经典 DP，规模小足够）。"""
+    if not out_tokens or not src_tokens:
+        return 0
+    prev = [0] * (len(src_tokens) + 1)
+    best = 0
+    for i in range(1, len(out_tokens) + 1):
+        cur = [0] * (len(src_tokens) + 1)
+        oi = out_tokens[i - 1]
+        for j in range(1, len(src_tokens) + 1):
+            if oi == src_tokens[j - 1]:
+                cur[j] = prev[j - 1] + 1
+                if cur[j] > best:
+                    best = cur[j]
+        prev = cur
+    return best
+
+
+@dataclass
+class RetrievalViolation:
+    kind: str                 # quote_too_long / multi_quote_same_source / unquoted_reproduction / full_work
+    detail: str
+    evidence: str = ""
+    source_id: str = ""
+
+
+@dataclass
+class RetrievalReport:
+    ok: bool
+    violations: List[RetrievalViolation] = field(default_factory=list)
+    quotes_found: int = 0
+    max_verbatim_run: int = 0
+
+    def to_dict(self) -> Dict[str, Any]:
+        return {
+            "ok": self.ok,
+            "violations": [v.__dict__ for v in self.violations],
+            "quotes_found": self.quotes_found,
+            "max_verbatim_run": self.max_verbatim_run,
+        }
+
+
+class RetrievalGuard:
+    """检索版权护栏。check() 接收输出与源文档，逐条核对版权约束。"""
+
+    tier = "DOMAIN_GUARD"
+
+    def __init__(
+        self,
+        max_quote_words: int = 15,        # 单条拉丁引用词上限
+        max_quote_cjk_chars: int = 30,    # 单条中日韩引用字上限
+        max_quotes_per_source: int = 1,   # 单源逐字引用条数上限
+        unquoted_run_threshold: int = 12,  # 未加引号逐字串 token 阈值
+        full_work_coverage: float = 0.5,  # 对单源逐字覆盖率上限
+    ) -> None:
+        self.max_quote_words = max_quote_words
+        self.max_quote_cjk_chars = max_quote_cjk_chars
+        self.max_quotes_per_source = max_quotes_per_source
+        self.unquoted_run_threshold = unquoted_run_threshold
+        self.full_work_coverage = full_work_coverage
+
+    @staticmethod
+    def _extract_quotes(text: str) -> List[str]:
+        spans = []
+        for m in _QUOTE_SPANS.finditer(text):
+            span = next((g for g in m.groups() if g), None)
+            if span:
+                spans.append(span.strip())
+        return spans
+
+    def check(self, output: str, sources: List[Any]) -> RetrievalReport:
+        """sources: 可迭代，元素需有 .id 与 .content（如 l2_reasoning.Doc）。"""
+        violations: List[RetrievalViolation] = []
+        quotes = self._extract_quotes(output)
+
+        # --- 规则 1：单条引用长度 ---
+        for q in quotes:
+            mode, length = _quote_length(q)
+            limit = self.max_quote_cjk_chars if mode == "cjk_chars" else self.max_quote_words
+            if length > limit:
+                violations.append(RetrievalViolation(
+                    kind="quote_too_long",
+                    detail=f"引用{length}{'字' if mode=='cjk_chars' else '词'} > 上限{limit}",
+                    evidence=q[:60],
+                ))
+
+        # --- 规则 2：单源逐字引用条数（按引用是否逐字命中某源归属）---
+        src_quote_count: Dict[str, int] = {}
+        for q in quotes:
+            q_tokens = _tokenize(q)
+            for s in sources:
+                run = _longest_verbatim_run(q_tokens, _tokenize(s.content))
+                # 引用绝大部分逐字来自该源 → 归属为对该源的一条引用
+                if q_tokens and run >= max(1, int(len(q_tokens) * 0.8)):
+                    src_quote_count[s.id] = src_quote_count.get(s.id, 0) + 1
+        for sid, cnt in src_quote_count.items():
+            if cnt > self.max_quotes_per_source:
+                violations.append(RetrievalViolation(
+                    kind="multi_quote_same_source",
+                    detail=f"对源 {sid} 有 {cnt} 条逐字引用 > 上限 {self.max_quotes_per_source}",
+                    source_id=sid,
+                ))
+
+        # --- 规则 3/4：未加引号逐字复制 + 完整作品复述 ---
+        out_tokens = _tokenize(output)
+        # 去掉引号内内容后的"正文 token"，用于检测未加引号的逐字搬运
+        stripped = _QUOTE_SPANS.sub(" ", output)
+        body_tokens = _tokenize(stripped)
+        max_run_overall = 0
+        for s in sources:
+            s_tokens = _tokenize(s.content)
+            # 未加引号逐字串
+            body_run = _longest_verbatim_run(body_tokens, s_tokens)
+            max_run_overall = max(max_run_overall, body_run)
+            if body_run >= self.unquoted_run_threshold:
+                violations.append(RetrievalViolation(
+                    kind="unquoted_reproduction",
+                    detail=f"未加引号逐字串达 {body_run} token（阈值 {self.unquoted_run_threshold}）",
+                    source_id=s.id,
+                ))
+            # 完整作品复述：输出对该源的逐字覆盖率
+            full_run = _longest_verbatim_run(out_tokens, s_tokens)
+            if s_tokens and full_run / len(s_tokens) >= self.full_work_coverage:
+                violations.append(RetrievalViolation(
+                    kind="full_work",
+                    detail=f"对源 {s.id} 逐字覆盖率 {full_run/len(s_tokens):.0%} ≥ {self.full_work_coverage:.0%}",
+                    source_id=s.id,
+                ))
+
+        return RetrievalReport(
+            ok=not violations,
+            violations=violations,
+            quotes_found=len(quotes),
+            max_verbatim_run=max_run_overall,
+        )

@@ -1,1 +1,206 @@
-IiIiYmFja2VuZC5rYl9zZXJ2aWNlIOKAlCDnn6Xor4blupPkuI7mo4DntKLpmpTnprvvvIhCNe+8jOahhuaetuaXoOWFs+aguOW/g++8ieOAggoKRDcg6ZqU56a76ZOB5b6L77ya5qOA57Si6IyD5Zu0ID0g5YWs5YWx5bqTICsg5pys6YOo6Zeo5bqTICsg6Ieq5bex56eB5pyJ5bqT77yMKirnu53kuI3lj6/ovr7ku5bkurrnp4HmnInlupMqKuOAggrpmpTnprsqKuS4i+aOqOWIsOajgOe0oioq4oCU4oCU5YWI55SoIHBlcm1pc3Npb25zLmNhbl9hY2Nlc3Nfa2Ig566X5Ye65Y+v6L6+5bqT6ZuG5ZCI77yM5Y+q5Zyo6L+Z5Lqb5bqT6YeM5pCc77yMCuiAjOS4jeaYryLlhYjmkJzlhajpg6jlho3ov4fmu6Qi77yI5ZCO6ICF5LiA5pem6YC76L6R5ryP5LiA5aSE5bCx6LaK5p2D77yJ44CCCgrmr4/kuKrlupPkuIDkuKrni6znq4vnmoTlhoXlrZjlkJHph4/lupPvvIjnprvnur/lj6/mtYvvvInjgILnnJ/lrp7liIbmrrUr5ZCR6YeP5YyWKGVtYmVkZGluZytDaHJvbWEp5pivIPCflLQg5YWl5bqT6Lev5b6E77yMCue7meWHuuaOpeWPo+S4juahqe+8jOagh+azqOmcgOecn+acuuOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgb3MKCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsCgpmcm9tIHNlY3VyZWd1YXJkIGltcG9ydCBJbk1lbW9yeVZlY3RvclN0b3JlLCBEb2MKZnJvbSBwbGF0Zm9ybV9zdG9yYWdlLnBlcnNpc3RlbnRfa2JfYWRhcHRlciBpbXBvcnQgUGVyc2lzdGVudFZlY3RvclN0b3JlCmZyb20gc2VjdXJlZ3VhcmQucGVybWlzc2lvbnMgaW1wb3J0ICgKICAgIFVzZXIsIEtub3dsZWRnZUJhc2UsIFZpc2liaWxpdHksIGNhbl9hY2Nlc3Nfa2IsIGNhbl9yZWFkX2tiX2NvbnRlbnQsIGNhbl9hdWRpdF9yZWFkX2tiLAopCgojIOWMv+WQjeeUqOaIt++8muWPquWPr+i+vuWFrOWFseW6kwpmcm9tIHNlY3VyZWd1YXJkLnBlcm1pc3Npb25zIGltcG9ydCBSb2xlCl9BTk9OID0gVXNlcihpZD0iX19hbm9uX18iLCByb2xlPVJvbGUuVVNFUiwgZGVwdF9pZD1Ob25lKQoKCmNsYXNzIEtCU2VydmljZToKICAgICIiIuefpeivhuW6k+WtmOWCqCArIOmalOemu+ajgOe0ouOAgueUn+S6p+aKiuWQkemHj+W6k+aNoiBDaHJvbWHvvIhCN++8ie+8jOmalOemu+mAu+i+keS4jeWPmOOAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzZWVkOiBib29sID0gVHJ1ZSkgLT4gTm9uZToKICAgICAgICBzZWxmLl9rYnM6IERpY3Rbc3RyLCBEaWN0W3N0ciwgQW55XV0gPSB7fQogICAgICAgIHNlbGYuX3N0b3JlczogRGljdFtzdHIsIEluTWVtb3J5VmVjdG9yU3RvcmVdID0ge30KICAgICAgICBpZiBzZWVkOgogICAgICAgICAgICBzZWxmLl9zZWVkKCkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX3ZpZXcocmVjOiBEaWN0W3N0ciwgQW55XSkgLT4gS25vd2xlZGdlQmFzZToKICAgICAgICByZXR1cm4gS25vd2xlZGdlQmFzZShpZD1yZWNbImlkIl0sIHZpc2liaWxpdHk9VmlzaWJpbGl0eShyZWNbInZpc2liaWxpdHkiXSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3duZXJfaWQ9cmVjLmdldCgib3duZXJfaWQiKSwgZGVwdF9pZD1yZWMuZ2V0KCJkZXB0X2lkIikpCgogICAgIyAtLS0tLS0tLS0tIOWIl+ihqO+8iOmalOemu+i/h+a7pO+8iSAtLS0tLS0tLS0tCiAgICBkZWYgbGlzdF9mb3Ioc2VsZiwgY2FsbGVyOiBPcHRpb25hbFtVc2VyXSkgLT4gTGlzdFtEaWN0W3N0ciwgQW55XV06CiAgICAgICAgdXNlciA9IGNhbGxlciBvciBfQU5PTgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHsiaWQiOiByWyJpZCJdLCAibmFtZSI6IHJbIm5hbWUiXSwgInR5cGUiOiByWyJ2aXNpYmlsaXR5Il0sICJkb2NfY291bnQiOiByWyJkb2NfY291bnQiXX0KICAgICAgICAgICAgZm9yIHIgaW4gc2VsZi5fa2JzLnZhbHVlcygpCiAgICAgICAgICAgIGlmIGNhbl9hY2Nlc3Nfa2IodXNlciwgc2VsZi5fdmlldyhyKSlbMF0KICAgICAgICBdCgogICAgZGVmIGFjY2Vzc2libGVfaWRzKHNlbGYsIGNhbGxlcjogT3B0aW9uYWxbVXNlcl0pIC0+IExpc3Rbc3RyXToKICAgICAgICB1c2VyID0gY2FsbGVyIG9yIF9BTk9OCiAgICAgICAgcmV0dXJuIFtyWyJpZCJdIGZvciByIGluIHNlbGYuX2ticy52YWx1ZXMoKSBpZiBjYW5fYWNjZXNzX2tiKHVzZXIsIHNlbGYuX3ZpZXcocikpWzBdXQoKICAgICMgLS0tLS0tLS0tLSDpmpTnprvmo4DntKIgLS0tLS0tLS0tLQoKCiAgICBkZWYgY3JlYXRlX2tiKHNlbGYsIGNhbGxlciwgbmFtZTogc3RyLCB2aXNpYmlsaXR5OiBzdHIgPSAicHJpdmF0ZSIsCiAgICAgICAgICAgICAgICAgIGRlcHRfaWQ9Tm9uZSk6CiAgICAgICAgZnJvbSBzZWN1cmVndWFyZC5wZXJtaXNzaW9ucyBpbXBvcnQgVmlzaWJpbGl0eSwgUGVybWlzc2lvbkRlbmllZAogICAgICAgIGltcG9ydCBzZWNyZXRzCiAgICAgICAgZnJvbSBzZWN1cmVndWFyZCBpbXBvcnQgSW5NZW1vcnlWZWN0b3JTdG9yZQogICAgICAgIHJvbGUgPSBnZXRhdHRyKGNhbGxlciwgInJvbGUiLCBOb25lKQogICAgICAgIHJ2ID0gcm9sZS52YWx1ZSBpZiByb2xlIGVsc2UgInVzZXIiCiAgICAgICAgdmlzID0gVmlzaWJpbGl0eSh2aXNpYmlsaXR5KQogICAgICAgIGlmIHZpcyA9PSBWaXNpYmlsaXR5LlBVQkxJQyBhbmQgcnYgIT0gImFkbWluIjoKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgi5LuF566h55CG5ZGY5Y+v5bu65YWs5YWx5bqTIikKICAgICAgICBpZiB2aXMgPT0gVmlzaWJpbGl0eS5ERVBBUlRNRU5UIGFuZCBydiBub3QgaW4gKCJhZG1pbiIsICJkZXBhcnRtZW50X2FkbWluIik6CiAgICAgICAgICAgIHJhaXNlIFBlcm1pc3Npb25EZW5pZWQoIuS7hemDqOmXqOeuoeeQhuWRmC/nrqHnkIblkZjlj6/lu7rpg6jpl6jlupMiKQogICAgICAgIGlmIG5vdCBuYW1lLnN0cmlwKCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuW6k+WQjeS4jeiDveS4uuepuiIpCiAgICAgICAga2JfaWQgPSAia2JfIiArIHNlY3JldHMudG9rZW5faGV4KDQpCiAgICAgICAgc2VsZi5fa2JzW2tiX2lkXSA9IHsKICAgICAgICAgICAgImlkIjoga2JfaWQsICJuYW1lIjogbmFtZS5zdHJpcCgpLCAidmlzaWJpbGl0eSI6IHZpcy52YWx1ZSwKICAgICAgICAgICAgIm93bmVyX2lkIjogY2FsbGVyLmlkLCAiZGVwdF9pZCI6IGRlcHRfaWQgb3IgZ2V0YXR0cihjYWxsZXIsICJkZXB0X2lkIiwgTm9uZSksCiAgICAgICAgICAgICJkb2NfY291bnQiOiAwLAogICAgICAgIH0KICAgICAgICBzZWxmLl9zdG9yZXNba2JfaWRdID0gUGVyc2lzdGVudFZlY3RvclN0b3JlKAogICAgICAgICAgICBwYXRoPW9zLnBhdGguam9pbihvcy5nZXRlbnYoIkRBVEFfRElSIiwgIi9vcHQvc2VjdXJlZ3VhcmQtZGVwbG95L2RhdGEiKSwgImtiX3ZlY3RvcnMuZGIiKSwKICAgICAgICAgICAgdGVuYW50X2lkPSJ0X2RlZmF1bHQiKQogICAgICAgIHJldHVybiB7ImlkIjoga2JfaWQsICJuYW1lIjogbmFtZS5zdHJpcCgpLCAidHlwZSI6IHZpcy52YWx1ZSwgImRvY19jb3VudCI6IDB9CiAgICBkZWYgc2V0X3Zpc2liaWxpdHkoc2VsZiwgY2FsbGVyLCBrYl9pZDogc3RyLCB2aXNpYmlsaXR5OiBzdHIpIC0+IGJvb2w6CiAgICAgICAga2IgPSBzZWxmLl9rYnMuZ2V0KGtiX2lkKQogICAgICAgIGlmIG5vdCBrYjoKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAga2JbInZpc2liaWxpdHkiXSA9IHZpc2liaWxpdHkKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIGRlZiBkZWxldGVfa2Ioc2VsZiwgY2FsbGVyLCBrYl9pZDogc3RyKSAtPiBib29sOgogICAgICAgIGlmIGtiX2lkIG5vdCBpbiBzZWxmLl9rYnM6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICMg5riF5ZCR6YePCiAgICAgICAgc3RvcmUgPSBzZWxmLl9zdG9yZXMuZ2V0KGtiX2lkKQogICAgICAgIHRyeToKICAgICAgICAgICAgaWYgc3RvcmUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBpZiBoYXNhdHRyKHN0b3JlLCAidnMiKSBhbmQgaGFzYXR0cihzdG9yZS52cywgImRlbGV0ZSIpOgogICAgICAgICAgICAgICAgICAgIHN0b3JlLnZzLmRlbGV0ZShmaWx0ZXJzPXsia2JfaWQiOiBrYl9pZH0pCiAgICAgICAgICAgICAgICBzdG9yZS52cy5kZWxldGUoZmlsdGVycz17fSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCiAgICAgICAgIyDliKDlhYPmlbDmja4KICAgICAgICBzZWxmLl9zdG9yZXMucG9wKGtiX2lkLCBOb25lKQogICAgICAgIHNlbGYuX2ticy5wb3Aoa2JfaWQsIE5vbmUpCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgc2VhcmNoKHNlbGYsIGNhbGxlcjogT3B0aW9uYWxbVXNlcl0sIHF1ZXJ5OiBzdHIsIGs6IGludCA9IDUpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIuWPquWcqOiwg+eUqOiAheWPr+i+vueahOW6k+mHjOajgOe0ouOAgue7k+aenOW4puadpea6kOW6k++8jOS+v+S6jua6r+a6kOmrmOS6ruOAgiIiIgogICAgICAgIGlkcyA9IHNlbGYuYWNjZXNzaWJsZV9pZHMoY2FsbGVyKQogICAgICAgIGhpdHM6IExpc3RbRGljdFtzdHIsIEFueV1dID0gW10KICAgICAgICBmb3Iga2JfaWQgaW4gaWRzOgogICAgICAgICAgICBzdG9yZSA9IHNlbGYuX3N0b3Jlcy5nZXQoa2JfaWQpCiAgICAgICAgICAgIGlmIG5vdCBzdG9yZToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGZvciBkb2MgaW4gc3RvcmUuc2VhcmNoKHF1ZXJ5LCBrKToKICAgICAgICAgICAgICAgIGhpdHMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAia2JfaWQiOiBrYl9pZCwgImtiX25hbWUiOiBzZWxmLl9rYnNba2JfaWRdWyJuYW1lIl0sCiAgICAgICAgICAgICAgICAgICAgImRvY19pZCI6IGRvYy5pZCwgImNvbnRlbnQiOiBkb2MuY29udGVudCwKICAgICAgICAgICAgICAgICAgICAic2NvcmUiOiBmbG9hdChkb2MubWV0YWRhdGEuZ2V0KCJzY29yZSIsIGRvYy5tZXRhZGF0YS5nZXQoInRydXN0X3Njb3JlIiwgMC41KSkpLAogICAgICAgICAgICAgICAgfSkKICAgICAgICBoaXRzLnNvcnQoa2V5PWxhbWJkYSBoOiBoWyJzY29yZSJdLCByZXZlcnNlPVRydWUpCiAgICAgICAgcmV0dXJuIHsicXVlcnkiOiBxdWVyeSwgImFjY2Vzc2libGVfa2JzIjogaWRzLCAicmVzdWx0cyI6IGhpdHNbOmtdfQoKICAgICMgLS0tLS0tLS0tLSDlhaXlupMgLS0tLS0tLS0tLQogICAgZGVmIGluZ2VzdF90ZXh0KHNlbGYsIGNhbGxlcjogVXNlciwga2JfaWQ6IHN0ciwgZG9jX2lkOiBzdHIsIHRleHQ6IHN0cikgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIi5oqK5LiA5q615paH5pys5Yqg5YWl5p+Q5bqT77yI5YaF5a2Y5ZCR6YeP5bqT77yM56a757q/5Y+v5rWL77yJ44CCCgogICAgICAgIOecn+WunueUn+S6p++8muWFiOWIhuauteOAgei/hyBlbWJlZGRpbmcg5qih5Z6L44CB5YaZIENocm9tYSDigJTigJQg6YKj6YOo5YiG5pivIPCflLTvvIzpnIDnnJ/mnLrjgIIKICAgICAgICDov5nph4zotbDlhoXlrZjlupPvvIzpqozor4HnmoTmmK8i6ZqU56a7K+ajgOe0oiLpk77ot6/vvIzkuI3mmK/nnJ/lrp7lkJHph4/ljJbotKjph4/jgIIKICAgICAgICAiIiIKICAgICAgICByZWMgPSBzZWxmLl9rYnMuZ2V0KGtiX2lkKQogICAgICAgIGlmIG5vdCByZWM6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKGYi55+l6K+G5bqT5LiN5a2Y5ZyoOiB7a2JfaWR9IikKICAgICAgICAjIOWPquacieiDveeuoeeQhuivpeW6k+iAheWPr+WGme+8iOengeacieW6k+S7hSBvd25lcu+8m+mDqOmXqOW6k+mDqOmXqOeuoeeQhuWRmO+8m+WFrOWFseW6kyBhZG1pbu+8iQogICAgICAgIGlmIG5vdCBjYW5fcmVhZF9rYl9jb250ZW50KGNhbGxlciwgc2VsZi5fdmlldyhyZWMpKVswXSBhbmQgY2FsbGVyLmlkICE9IHJlYy5nZXQoIm93bmVyX2lkIik6CiAgICAgICAgICAgIGZyb20gc2VjdXJlZ3VhcmQucGVybWlzc2lvbnMgaW1wb3J0IFBlcm1pc3Npb25EZW5pZWQKICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZCgi5peg5p2D5YaZ5YWl6K+l55+l6K+G5bqTIikKICAgICAgICBzZWxmLl9zdG9yZXNba2JfaWRdLmFkZChEb2MoZG9jX2lkLCB0ZXh0LCB7ImtiX2lkIjoga2JfaWR9KSkKICAgICAgICByZWNbImRvY19jb3VudCJdICs9IDEKICAgICAgICByZXR1cm4geyJrYl9pZCI6IGtiX2lkLCAiZG9jX2NvdW50IjogcmVjWyJkb2NfY291bnQiXX0KCiAgICAjIC0tLS0tLS0tLS0g5Y+X5o6n5a6h6K6h6K+75Y+W77yI5LuFIGF1ZGl0b3LvvJvlv4XnlZnnl5XvvIkgLS0tLS0tLS0tLQogICAgZGVmIGF1ZGl0X2xpc3RfYWxsKHNlbGYsIGNhbGxlcjogVXNlcikgLT4gTGlzdFtEaWN0W3N0ciwgQW55XV06CiAgICAgICAgIiIi5a6h6K6h5ZGY5YiX5Ye6Kirlhajpg6gqKuefpeivhuW6k++8iOWQq+S7luS6uuengeacie+8ieeahOWFg+aVsOaNruKAlOKAlOS4jeWQq+WGheWuueOAgiIiIgogICAgICAgIGlmIGNhbGxlci5yb2xlLnZhbHVlICE9ICJhdWRpdG9yIjoKICAgICAgICAgICAgZnJvbSBzZWN1cmVndWFyZC5wZXJtaXNzaW9ucyBpbXBvcnQgUGVybWlzc2lvbkRlbmllZAogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKCLku4XlrqHorqHlkZjlj6/liJflh7rlhajpg6jnn6Xor4blupMiKQogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHsiaWQiOiByWyJpZCJdLCAibmFtZSI6IHJbIm5hbWUiXSwgInR5cGUiOiByWyJ2aXNpYmlsaXR5Il0sCiAgICAgICAgICAgICAib3duZXJfaWQiOiByLmdldCgib3duZXJfaWQiKSwgImRlcHRfaWQiOiByLmdldCgiZGVwdF9pZCIpLCAiZG9jX2NvdW50IjogclsiZG9jX2NvdW50Il19CiAgICAgICAgICAgIGZvciByIGluIHNlbGYuX2ticy52YWx1ZXMoKQogICAgICAgIF0KCiAgICBkZWYgYXVkaXRfcmVhZChzZWxmLCBjYWxsZXI6IFVzZXIsIGtiX2lkOiBzdHIsIHJlYXNvbjogc3RyLCBhdWRpdG9yX2xvZzogQW55KSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiLlrqHorqHlkZjor7vlj5bmn5DlupPljp/mlofjgIIqKuW8uuWItiByZWFzb24gKyDlhpnlk4jluIzpk77lrqHorqEqKu+8iOWPl+aOp+OAgeWPr+mXrui0o+OAgeS4jeWPr+evoeaUue+8ieOAggoKICAgICAgICDkuI7ml6XluLggY2FuX3JlYWRfa2JfY29udGVudCDliIbnprvvvJrov5nmmK/llK/kuIDog73orqnpnZ4gb3duZXIg55yL5Yiw56eB5pyJ5bqT5Y6f5paH55qE6YCa6YGT77yMCiAgICAgICAg5LiU5q+P5qyh6YO95Zyo5a6h6K6h6ZO+55WZ5LiLIuiwgeOAgeS9leaXtuOAgeeci+S6huiwgeeahOWTquS4quW6k+OAgeS4uuS7gOS5iCLjgIIKICAgICAgICAiIiIKICAgICAgICByZWMgPSBzZWxmLl9rYnMuZ2V0KGtiX2lkKQogICAgICAgIGlmIG5vdCByZWM6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKGYi55+l6K+G5bqT5LiN5a2Y5ZyoOiB7a2JfaWR9IikKICAgICAgICBvaywgd2h5ID0gY2FuX2F1ZGl0X3JlYWRfa2IoY2FsbGVyLCBzZWxmLl92aWV3KHJlYykpCiAgICAgICAgaWYgbm90IG9rOgogICAgICAgICAgICBmcm9tIHNlY3VyZWd1YXJkLnBlcm1pc3Npb25zIGltcG9ydCBQZXJtaXNzaW9uRGVuaWVkCiAgICAgICAgICAgIHJhaXNlIFBlcm1pc3Npb25EZW5pZWQod2h5KQogICAgICAgIGlmIG5vdCByZWFzb24gb3Igbm90IHJlYXNvbi5zdHJpcCgpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLlrqHorqHor7vlj5blv4Xpobvmj5DkvpvnkIbnlLHvvIhyZWFzb27vvIkiKQogICAgICAgICMg5YaZ5YWl5ZOI5biM6ZO+5a6h6K6h4oCU4oCU6L+Z5p2h6K6w5b2V5pys6Lqr5LiN5Y+v56+h5pS577yM5Y+v6KKr5pu06auY5bGC5aSN5qC4CiAgICAgICAgYXVkaXRvcl9sb2cubG9nX3N0YWdlKAogICAgICAgICAgICBzdGFnZT0iQVVESVRfUkVBRCIsIGRlY2lzaW9uPSJBQ0NFU1MiLCBzZXNzaW9uX2lkPWNhbGxlci5pZCwKICAgICAgICAgICAgcmVhc29uPXJlYXNvbi5zdHJpcCgpLAogICAgICAgICAgICBleHRyYT17ImtiX2lkIjoga2JfaWQsICJrYl9vd25lciI6IHJlYy5nZXQoIm93bmVyX2lkIiksCiAgICAgICAgICAgICAgICAgICAia2JfdmlzaWJpbGl0eSI6IHJlY1sidmlzaWJpbGl0eSJdLCAiYXVkaXRvciI6IGNhbGxlci5pZH0sCiAgICAgICAgKQogICAgICAgIHJldHVybiB7ImtiX2lkIjoga2JfaWQsICJrYl9uYW1lIjogcmVjWyJuYW1lIl0sICJvd25lcl9pZCI6IHJlYy5nZXQoIm93bmVyX2lkIiksCiAgICAgICAgICAgICAgICAicmVhc29uIjogcmVhc29uLnN0cmlwKCksICJkb2N1bWVudHMiOiBzZWxmLl9hbGxfZG9jcyhrYl9pZCksICJhdWRpdGVkIjogVHJ1ZX0KCiAgICBkZWYgX2FsbF9kb2NzKHNlbGYsIGtiX2lkOiBzdHIpIC0+IExpc3RbRGljdFtzdHIsIHN0cl1dOgogICAgICAgICIiIuWPluafkOW6k+WFqOmDqOaWh+aho+WOn+aWh++8iOWuoeiuoeeUqO+8ieOAgkluTWVtb3J5VmVjdG9yU3RvcmUg5YaF6YOo5LulIF9kb2NzIOWtmCBEb2PjgIIiIiIKICAgICAgICBzdG9yZSA9IHNlbGYuX3N0b3Jlcy5nZXQoa2JfaWQpCiAgICAgICAgaWYgc3RvcmUgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIFtdCiAgICAgICAgcmV0dXJuIFt7ImRvY19pZCI6IGQuaWQsICJjb250ZW50IjogZC5jb250ZW50fSBmb3IgZCBpbiBnZXRhdHRyKHN0b3JlLCAiX2RvY3MiLCBbXSldCgogICAgIyAtLS0tLS0tLS0tIOenjeWtkCAtLS0tLS0tLS0tCiAgICBkZWYgX3NlZWQoc2VsZikgLT4gTm9uZToKICAgICAgICBkZWZzID0gWwogICAgICAgICAgICB7ImlkIjogImtiX3N0ZCIsICJuYW1lIjogIuagh+WHhuW6k+mZhOW9lSIsICJ2aXNpYmlsaXR5IjogInB1YmxpYyIsICJvd25lcl9pZCI6ICJ1X2FkbWluIiwKICAgICAgICAgICAgICJkZXB0X2lkIjogTm9uZSwgImRvY3MiOiBbKCJzdGRfMSIsICLpo47nrqHlronoo4XpqozmlLblupTnrKblkIggR0I1MDI0M++8jOa8j+mjjueOh+mcgOi+vuagh+OAgiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKCJzdGRfMiIsICJHQjUwMzAzIOinhOWumueUteawlOijhee9ruWuieijheeahOaOpeWcsOS4jue7nee8mOimgeaxguOAgiIpXX0sCiAgICAgICAgICAgIHsiaWQiOiAia2JfZGVwdCIsICJuYW1lIjogIuaWveW3peaWueahiOW6kyIsICJ2aXNpYmlsaXR5IjogImRlcGFydG1lbnQiLCAib3duZXJfaWQiOiAidV9kYSIsCiAgICAgICAgICAgICAiZGVwdF9pZCI6ICJkMSIsICJkb2NzIjogWygicGxhbl8xIiwgIuafkOmhueebruaalumAmuaWveW3peaWueahiO+8mumjjueuoei3r+eUseS4juaUr+WQiuaetumXtOi3neOAgiIpXX0sCiAgICAgICAgICAgIHsiaWQiOiAia2JfdXNlcjEiLCAibmFtZSI6ICLmiJHnmoTnrJTorrAiLCAidmlzaWJpbGl0eSI6ICJwcml2YXRlIiwgIm93bmVyX2lkIjogInUxIiwKICAgICAgICAgICAgICJkZXB0X2lkIjogImQxIiwgImRvY3MiOiBbKCJub3RlXzEiLCAi5Liq5Lq656yU6K6w77ya546w5Zy66aqM5pS25qOA5p+l5riF5Y2V5LiO5rOo5oSP5LqL6aG544CCIildfSwKICAgICAgICAgICAgeyJpZCI6ICJrYl91c2VyMiIsICJuYW1lIjogIuS7luS6uueslOiusCIsICJ2aXNpYmlsaXR5IjogInByaXZhdGUiLCAib3duZXJfaWQiOiAidTIiLAogICAgICAgICAgICAgImRlcHRfaWQiOiAiZDIiLCAiZG9jcyI6IFsoIm5vdGVfMiIsICJ1MiDnmoTnp4HmnInlhoXlrrnvvIx1MSDkuI3lupTmo4DntKLliLDjgIIiKV19LAogICAgICAgIF0KICAgICAgICBmb3IgZCBpbiBkZWZzOgogICAgICAgICAgICBzZWxmLl9rYnNbZFsiaWQiXV0gPSB7CiAgICAgICAgICAgICAgICAiaWQiOiBkWyJpZCJdLCAibmFtZSI6IGRbIm5hbWUiXSwgInZpc2liaWxpdHkiOiBkWyJ2aXNpYmlsaXR5Il0sCiAgICAgICAgICAgICAgICAib3duZXJfaWQiOiBkWyJvd25lcl9pZCJdLCAiZGVwdF9pZCI6IGRbImRlcHRfaWQiXSwgImRvY19jb3VudCI6IGxlbihkWyJkb2NzIl0pLAogICAgICAgICAgICB9CiAgICAgICAgICAgIHN0b3JlID0gUGVyc2lzdGVudFZlY3RvclN0b3JlKAogICAgICAgICAgICAgICAgcGF0aD1vcy5wYXRoLmpvaW4ob3MuZ2V0ZW52KCJEQVRBX0RJUiIsICIvb3B0L3NlY3VyZWd1YXJkLWRlcGxveS9kYXRhIiksICJrYl92ZWN0b3JzLmRiIiksCiAgICAgICAgICAgICAgICB0ZW5hbnRfaWQ9InRfZGVmYXVsdCIpCiAgICAgICAgICAgIGZvciBkaWQsIHRleHQgaW4gZFsiZG9jcyJdOgogICAgICAgICAgICAgICAgc3RvcmUuYWRkKERvYyhkaWQsIHRleHQsIHsia2JfaWQiOiBkWyJpZCJdLCAidHJ1c3Rfc2NvcmUiOiAwLjh9KSkKICAgICAgICAgICAgc2VsZi5fc3RvcmVzW2RbImlkIl1dID0gc3RvcmUK
+"""backend.kb_service — 知识库与检索隔离（B5，框架无关核心）。
+
+D7 隔离铁律：检索范围 = 公共库 + 本部门库 + 自己私有库，**绝不可达他人私有库**。
+隔离**下推到检索**——先用 permissions.can_access_kb 算出可达库集合，只在这些库里搜，
+而不是"先搜全部再过滤"（后者一旦逻辑漏一处就越权）。
+
+每个库一个独立的内存向量库（离线可测）。真实分段+向量化(embedding+Chroma)是 🔴 入库路径，
+给出接口与桩，标注需真机。
+"""
+from __future__ import annotations
+import os
+
+from typing import Any, Dict, List, Optional
+
+from secureguard import InMemoryVectorStore, Doc
+from platform_storage.persistent_kb_adapter import PersistentVectorStore
+from secureguard.permissions import (
+    User, KnowledgeBase, Visibility, can_access_kb, can_read_kb_content, can_audit_read_kb,
+)
+
+# 匿名用户：只可达公共库
+from secureguard.permissions import Role
+_ANON = User(id="__anon__", role=Role.USER, dept_id=None)
+
+
+class KBService:
+    """知识库存储 + 隔离检索。生产把向量库换 Chroma（B7），隔离逻辑不变。"""
+
+    def __init__(self, seed: bool = True) -> None:
+        self._kbs: Dict[str, Dict[str, Any]] = {}
+        self._stores: Dict[str, InMemoryVectorStore] = {}
+        if seed:
+            self._seed()
+
+    @staticmethod
+    def _view(rec: Dict[str, Any]) -> KnowledgeBase:
+        return KnowledgeBase(id=rec["id"], visibility=Visibility(rec["visibility"]),
+                             owner_id=rec.get("owner_id"), dept_id=rec.get("dept_id"))
+
+    # ---------- 列表（隔离过滤） ----------
+    def list_for(self, caller: Optional[User]) -> List[Dict[str, Any]]:
+        user = caller or _ANON
+        return [
+            {"id": r["id"], "name": r["name"], "type": r["visibility"], "doc_count": r["doc_count"]}
+            for r in self._kbs.values()
+            if can_access_kb(user, self._view(r))[0]
+        ]
+
+    def accessible_ids(self, caller: Optional[User]) -> List[str]:
+        user = caller or _ANON
+        return [r["id"] for r in self._kbs.values() if can_access_kb(user, self._view(r))[0]]
+
+    # ---------- 隔离检索 ----------
+
+
+    def create_kb(self, caller, name: str, visibility: str = "private",
+                  dept_id=None):
+        from secureguard.permissions import Visibility, PermissionDenied
+        import secrets
+        from secureguard import InMemoryVectorStore
+        role = getattr(caller, "role", None)
+        rv = role.value if role else "user"
+        vis = Visibility(visibility)
+        if vis == Visibility.PUBLIC and rv != "admin":
+            raise PermissionDenied("仅管理员可建公共库")
+        if vis == Visibility.DEPARTMENT and rv not in ("admin", "department_admin"):
+            raise PermissionDenied("仅部门管理员/管理员可建部门库")
+        if not name.strip():
+            raise ValueError("库名不能为空")
+        kb_id = "kb_" + secrets.token_hex(4)
+        self._kbs[kb_id] = {
+            "id": kb_id, "name": name.strip(), "visibility": vis.value,
+            "owner_id": caller.id, "dept_id": dept_id or getattr(caller, "dept_id", None),
+            "doc_count": 0,
+        }
+        self._stores[kb_id] = PersistentVectorStore(
+            path=os.path.join(os.getenv("DATA_DIR", "/opt/secureguard-deploy/data"), "kb_vectors.db"),
+            tenant_id="t_default")
+        return {"id": kb_id, "name": name.strip(), "type": vis.value, "doc_count": 0}
+    def set_visibility(self, caller, kb_id: str, visibility: str) -> bool:
+        kb = self._kbs.get(kb_id)
+        if not kb:
+            return False
+        kb["visibility"] = visibility
+        return True
+
+    def delete_kb(self, caller, kb_id: str) -> bool:
+        if kb_id not in self._kbs:
+            return False
+        # 清向量
+        store = self._stores.get(kb_id)
+        try:
+            if store is not None:
+                if hasattr(store, "vs") and hasattr(store.vs, "delete"):
+                    store.vs.delete(filters={"kb_id": kb_id})
+                store.vs.delete(filters={})
+        except Exception:
+            pass
+        # 删元数据
+        self._stores.pop(kb_id, None)
+        self._kbs.pop(kb_id, None)
+        return True
+
+    def search(self, caller: Optional[User], query: str, k: int = 5) -> Dict[str, Any]:
+        """只在调用者可达的库里检索。结果带来源库，便于溯源高亮。"""
+        ids = self.accessible_ids(caller)
+        hits: List[Dict[str, Any]] = []
+        for kb_id in ids:
+            store = self._stores.get(kb_id)
+            if not store:
+                continue
+            for doc in store.search(query, k):
+                hits.append({
+                    "kb_id": kb_id, "kb_name": self._kbs[kb_id]["name"],
+                    "doc_id": doc.id, "content": doc.content,
+                    "score": float(doc.metadata.get("score", doc.metadata.get("trust_score", 0.5))),
+                })
+        hits.sort(key=lambda h: h["score"], reverse=True)
+        return {"query": query, "accessible_kbs": ids, "results": hits[:k]}
+
+    # ---------- 入库 ----------
+    def ingest_text(self, caller: User, kb_id: str, doc_id: str, text: str) -> Dict[str, Any]:
+        """把一段文本加入某库（内存向量库，离线可测）。
+
+        真实生产：先分段、过 embedding 模型、写 Chroma —— 那部分是 🔴，需真机。
+        这里走内存库，验证的是"隔离+检索"链路，不是真实向量化质量。
+        """
+        rec = self._kbs.get(kb_id)
+        if not rec:
+            raise KeyError(f"知识库不存在: {kb_id}")
+        # 只有能管理该库者可写（私有库仅 owner；部门库部门管理员；公共库 admin）
+        if not can_read_kb_content(caller, self._view(rec))[0] and caller.id != rec.get("owner_id"):
+            from secureguard.permissions import PermissionDenied
+            raise PermissionDenied("无权写入该知识库")
+        self._stores[kb_id].add(Doc(doc_id, text, {"kb_id": kb_id}))
+        rec["doc_count"] += 1
+        return {"kb_id": kb_id, "doc_count": rec["doc_count"]}
+
+    # ---------- 受控审计读取（仅 auditor；必留痕） ----------
+    def audit_list_all(self, caller: User) -> List[Dict[str, Any]]:
+        """审计员列出**全部**知识库（含他人私有）的元数据——不含内容。"""
+        if caller.role.value != "auditor":
+            from secureguard.permissions import PermissionDenied
+            raise PermissionDenied("仅审计员可列出全部知识库")
+        return [
+            {"id": r["id"], "name": r["name"], "type": r["visibility"],
+             "owner_id": r.get("owner_id"), "dept_id": r.get("dept_id"), "doc_count": r["doc_count"]}
+            for r in self._kbs.values()
+        ]
+
+    def audit_read(self, caller: User, kb_id: str, reason: str, auditor_log: Any) -> Dict[str, Any]:
+        """审计员读取某库原文。**强制 reason + 写哈希链审计**（受控、可问责、不可篡改）。
+
+        与日常 can_read_kb_content 分离：这是唯一能让非 owner 看到私有库原文的通道，
+        且每次都在审计链留下"谁、何时、看了谁的哪个库、为什么"。
+        """
+        rec = self._kbs.get(kb_id)
+        if not rec:
+            raise KeyError(f"知识库不存在: {kb_id}")
+        ok, why = can_audit_read_kb(caller, self._view(rec))
+        if not ok:
+            from secureguard.permissions import PermissionDenied
+            raise PermissionDenied(why)
+        if not reason or not reason.strip():
+            raise ValueError("审计读取必须提供理由（reason）")
+        # 写入哈希链审计——这条记录本身不可篡改，可被更高层复核
+        auditor_log.log_stage(
+            stage="AUDIT_READ", decision="ACCESS", session_id=caller.id,
+            reason=reason.strip(),
+            extra={"kb_id": kb_id, "kb_owner": rec.get("owner_id"),
+                   "kb_visibility": rec["visibility"], "auditor": caller.id},
+        )
+        return {"kb_id": kb_id, "kb_name": rec["name"], "owner_id": rec.get("owner_id"),
+                "reason": reason.strip(), "documents": self._all_docs(kb_id), "audited": True}
+
+    def _all_docs(self, kb_id: str) -> List[Dict[str, str]]:
+        """取某库全部文档原文（审计用）。InMemoryVectorStore 内部以 _docs 存 Doc。"""
+        store = self._stores.get(kb_id)
+        if store is None:
+            return []
+        return [{"doc_id": d.id, "content": d.content} for d in getattr(store, "_docs", [])]
+
+    # ---------- 种子 ----------
+    def _seed(self) -> None:
+        defs = [
+            {"id": "kb_std", "name": "标准库附录", "visibility": "public", "owner_id": "u_admin",
+             "dept_id": None, "docs": [("std_1", "风管安装验收应符合 GB50243，漏风率需达标。"),
+                                        ("std_2", "GB50303 规定电气装置安装的接地与绝缘要求。")]},
+            {"id": "kb_dept", "name": "施工方案库", "visibility": "department", "owner_id": "u_da",
+             "dept_id": "d1", "docs": [("plan_1", "某项目暖通施工方案：风管路由与支吊架间距。")]},
+            {"id": "kb_user1", "name": "我的笔记", "visibility": "private", "owner_id": "u1",
+             "dept_id": "d1", "docs": [("note_1", "个人笔记：现场验收检查清单与注意事项。")]},
+            {"id": "kb_user2", "name": "他人笔记", "visibility": "private", "owner_id": "u2",
+             "dept_id": "d2", "docs": [("note_2", "u2 的私有内容，u1 不应检索到。")]},
+        ]
+        for d in defs:
+            self._kbs[d["id"]] = {
+                "id": d["id"], "name": d["name"], "visibility": d["visibility"],
+                "owner_id": d["owner_id"], "dept_id": d["dept_id"], "doc_count": len(d["docs"]),
+            }
+            store = PersistentVectorStore(
+                path=os.path.join(os.getenv("DATA_DIR", "/opt/secureguard-deploy/data"), "kb_vectors.db"),
+                tenant_id="t_default")
+            for did, text in d["docs"]:
+                store.add(Doc(did, text, {"kb_id": d["id"], "trust_score": 0.8}))
+            self._stores[d["id"]] = store

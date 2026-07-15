@@ -1,1 +1,163 @@
-IiIidGVzdHMvdGVzdF91c2VyX2FkbWluLnB5IOKAlCDnlKjmiLfnrqHnkIYgKyDpg6jpl6jnlLPor7cgKyDlj5fmjqflrqHorqHor7vlj5bjgIIiIiIKaW1wb3J0IHN5cywgb3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpKQoKZnJvbSBiYWNrZW5kLnN0YXRlIGltcG9ydCBBcHBTdGF0ZQpmcm9tIGJhY2tlbmQudXNlcl9hZG1pbl9zZXJ2aWNlIGltcG9ydCBVc2VyQWRtaW5TZXJ2aWNlCmZyb20gYmFja2VuZC5rYl9zZXJ2aWNlIGltcG9ydCBLQlNlcnZpY2UKZnJvbSBzZWN1cmVndWFyZCBpbXBvcnQgQXVkaXRMb2dnZXIKZnJvbSBzZWN1cmVndWFyZC5wZXJtaXNzaW9ucyBpbXBvcnQgVXNlciwgUm9sZSwgUGVybWlzc2lvbkRlbmllZCwgY2FuX2F1ZGl0X3JlYWRfa2IsIEtub3dsZWRnZUJhc2UsIFZpc2liaWxpdHkKCkFETUlOID0gVXNlcigidV9hZG1pbiIsIFJvbGUuQURNSU4pClVTRVIgPSBVc2VyKCJ1X3VzZXIiLCBSb2xlLlVTRVIsIGRlcHRfaWQ9Tm9uZSkKQVVESVRPUiA9IFVzZXIoInVfYXVkaXRvciIsIFJvbGUuQVVESVRPUikKCgojIC0tLS0tLS0tLS0g55So5oi3566h55CGIC0tLS0tLS0tLS0KZGVmIHRlc3RfYWRtaW5fbGlzdHNfdXNlcnMoKToKICAgIHN0ID0gQXBwU3RhdGUoKQogICAgdXNlcnMgPSBzdC51c2VyX2FkbWluLmxpc3RfdXNlcnMoQURNSU4pCiAgICBhc3NlcnQgYW55KHVbImlkIl0gPT0gInVfYWRtaW4iIGZvciB1IGluIHVzZXJzKQoKCmRlZiB0ZXN0X25vbl9hZG1pbl9jYW5ub3RfbGlzdF91c2VycygpOgogICAgc3QgPSBBcHBTdGF0ZSgpCiAgICB0cnk6CiAgICAgICAgc3QudXNlcl9hZG1pbi5saXN0X3VzZXJzKFVTRVIpOyBhc3NlcnQgRmFsc2UKICAgIGV4Y2VwdCBQZXJtaXNzaW9uRGVuaWVkOgogICAgICAgIHBhc3MKCgpkZWYgdGVzdF9hZG1pbl9hc3NpZ25zX2RlcGFydG1lbnRfdW5ibG9ja3NfZGVwdF9rYigpOgogICAgIiIi5qC45b+D77ya57uZ5peg6YOo6Zeo55So5oi35YiG6YWN6YOo6Zeo5ZCO77yM5LuW56uL5Yi76IO96K6/6Zeu6K+l6YOo6Zeo55+l6K+G5bqT44CCIiIiCiAgICBzdCA9IEFwcFN0YXRlKCkKICAgICMg5rOo5YaM5LiA5Liq5peg6YOo6Zeo5paw55So5oi3CiAgICB0b2ssIF8gPSBzdC5hdXRoLnJlZ2lzdGVyX3NlbGYoIjEzOTExMTEyMjIyIiwgInNlY3JldDYiKQogICAgdSA9IHN0LmF1dGgucmVzb2x2ZSh0b2spCiAgICBhc3NlcnQgdS5kZXB0X2lkIGlzIE5vbmUKICAgICMg5YiG6YWN5YmN77ya55+l6K+G5bqT5YiX6KGo5Y+q5pyJ5YWs5YWxCiAgICBrYnNfYmVmb3JlID0ge2tbImlkIl0gZm9yIGsgaW4gc3Qua2Jfc2VydmljZS5saXN0X2Zvcih1KX0KICAgIGFzc2VydCBrYnNfYmVmb3JlID09IHsia2Jfc3RkIn0KICAgICMgYWRtaW4g5YiG6YWN5YiwIGQxCiAgICBzdC51c2VyX2FkbWluLmFzc2lnbl9kZXBhcnRtZW50KEFETUlOLCB1LmlkLCAiZDEiKQogICAgdTIgPSBzdC5hdXRoLmdldF91c2VyKHUuaWQpICAjIOmHjeaWsOino+aekO+8jOmDqOmXqOW3suWPmAogICAga2JzX2FmdGVyID0ge2tbImlkIl0gZm9yIGsgaW4gc3Qua2Jfc2VydmljZS5saXN0X2Zvcih1Mil9CiAgICBhc3NlcnQgImtiX2RlcHQiIGluIGtic19hZnRlciAgIyDnjrDlnKjog73nnIvliLDpg6jpl6jlupMKCgpkZWYgdGVzdF9hZG1pbl9jaGFuZ2Vfcm9sZSgpOgogICAgc3QgPSBBcHBTdGF0ZSgpCiAgICBzdC51c2VyX2FkbWluLnNldF9yb2xlKEFETUlOLCAidV91c2VyIiwgImRldmVsb3BlciIpCiAgICBhc3NlcnQgc3QuYXV0aC5nZXRfdXNlcigidV91c2VyIikucm9sZSA9PSBSb2xlLkRFVkVMT1BFUgoKCmRlZiB0ZXN0X3VzZXJfY2Fubm90X2NoYW5nZV9yb2xlcygpOgogICAgc3QgPSBBcHBTdGF0ZSgpCiAgICB0cnk6CiAgICAgICAgc3QudXNlcl9hZG1pbi5zZXRfcm9sZShVU0VSLCAidV9hZG1pbiIsICJ1c2VyIik7IGFzc2VydCBGYWxzZQogICAgZXhjZXB0IFBlcm1pc3Npb25EZW5pZWQ6CiAgICAgICAgcGFzcwoKCiMgLS0tLS0tLS0tLSDpg6jpl6jnlLPor7cgLS0tLS0tLS0tLQpkZWYgdGVzdF9yZXF1ZXN0X2RlcGFydG1lbnRfZG9lc19ub3RfZ3JhbnRfdW50aWxfYXBwcm92ZWQoKToKICAgIHN0ID0gQXBwU3RhdGUoKQogICAgdG9rLCBfID0gc3QuYXV0aC5yZWdpc3Rlcl9zZWxmKCIxMzkzMzMzNDQ0NCIsICJzZWNyZXQ2IikKICAgIHUgPSBzdC5hdXRoLnJlc29sdmUodG9rKQogICAgcmVxID0gc3QudXNlcl9hZG1pbi5yZXF1ZXN0X2RlcGFydG1lbnQodSwgImQxIikKICAgICMg55Sz6K+35pyq5om55YeG77ya6YOo6Zeo5LuN5Li656m6CiAgICBhc3NlcnQgc3QuYXV0aC5nZXRfdXNlcih1LmlkKS5kZXB0X2lkIGlzIE5vbmUKICAgICMgYWRtaW4g5om55YeGIOKGkiDpg6jpl6jnlJ/mlYgKICAgIHN0LnVzZXJfYWRtaW4uYXBwcm92ZV9yZXF1ZXN0KEFETUlOLCByZXFbImlkIl0pCiAgICBhc3NlcnQgc3QuYXV0aC5nZXRfdXNlcih1LmlkKS5kZXB0X2lkID09ICJkMSIKCgpkZWYgdGVzdF9yZWplY3RfcmVxdWVzdF9rZWVwc19ub19kZXBhcnRtZW50KCk6CiAgICBzdCA9IEFwcFN0YXRlKCkKICAgIHRvaywgXyA9IHN0LmF1dGgucmVnaXN0ZXJfc2VsZigiMTM5NTU1NTY2NjYiLCAic2VjcmV0NiIpCiAgICB1ID0gc3QuYXV0aC5yZXNvbHZlKHRvaykKICAgIHJlcSA9IHN0LnVzZXJfYWRtaW4ucmVxdWVzdF9kZXBhcnRtZW50KHUsICJkMSIpCiAgICBzdC51c2VyX2FkbWluLnJlamVjdF9yZXF1ZXN0KEFETUlOLCByZXFbImlkIl0pCiAgICBhc3NlcnQgc3QuYXV0aC5nZXRfdXNlcih1LmlkKS5kZXB0X2lkIGlzIE5vbmUKCgojIC0tLS0tLS0tLS0g5Y+X5o6n5a6h6K6h6K+75Y+W77yI6IGM6LSj5YiG56a7ICsg55WZ55eV77yJIC0tLS0tLS0tLS0KZGVmIHRlc3RfYWRtaW5fY2Fubm90X2F1ZGl0X3JlYWQoKToKICAgICIiImFkbWluIOayoeacieWuoeiuoeivu+WPluadg++8iOiBjOi0o+WIhuemu++8ieOAgiIiIgogICAga2IgPSBLbm93bGVkZ2VCYXNlKCJrYl91c2VyMiIsIFZpc2liaWxpdHkuUFJJVkFURSwgb3duZXJfaWQ9InUyIiwgZGVwdF9pZD0iZDIiKQogICAgYXNzZXJ0IGNhbl9hdWRpdF9yZWFkX2tiKEFETUlOLCBrYilbMF0gaXMgRmFsc2UKICAgIGFzc2VydCBjYW5fYXVkaXRfcmVhZF9rYihBVURJVE9SLCBrYilbMF0gaXMgVHJ1ZQoKCmRlZiB0ZXN0X2RhaWx5X3NlYXJjaF9pc29sYXRpb25fdW5icm9rZW5fZm9yX2FkbWluKCk6CiAgICAiIiLml6XluLjot6/lvoTkuI3lj5jvvJphZG1pbiDotbDmma7pgJrmo4DntKLku43nnIvkuI3liLDku5bkurrnp4HmnInlupPjgIIiIiIKICAgIGtiID0gS0JTZXJ2aWNlKCkKICAgIHJlcyA9IGtiLnNlYXJjaChBRE1JTiwgInUyIOeahOengeacieWGheWuuSIpCiAgICBhc3NlcnQgYWxsKGhbImtiX2lkIl0gIT0gImtiX3VzZXIyIiBmb3IgaCBpbiByZXNbInJlc3VsdHMiXSkKICAgIGFzc2VydCAia2JfdXNlcjIiIG5vdCBpbiByZXNbImFjY2Vzc2libGVfa2JzIl0KCgpkZWYgdGVzdF9hdWRpdG9yX2Nhbl9hdWRpdF9yZWFkX290aGVyc19wcml2YXRlX2FuZF9pdF9pc19sb2dnZWQoKToKICAgICIiIuWuoeiuoeWRmOiDveivu+S7luS6uuengeacieW6k+WOn+aWh++8jOS4lOS6p+eUn+S4gOadoeS4jeWPr+evoeaUueeahOWuoeiuoeiusOW9leOAgiIiIgogICAga2IgPSBLQlNlcnZpY2UoKQogICAgbG9nID0gQXVkaXRMb2dnZXIoKQogICAgYmVmb3JlID0gbGVuKGxvZy5lbnRyaWVzKQogICAgb3V0ID0ga2IuYXVkaXRfcmVhZChBVURJVE9SLCAia2JfdXNlcjIiLCByZWFzb249IuWQiOinhOaKveafpSAyMDI2UTIiLCBhdWRpdG9yX2xvZz1sb2cpCiAgICBhc3NlcnQgb3V0WyJhdWRpdGVkIl0gYW5kIG91dFsib3duZXJfaWQiXSA9PSAidTIiCiAgICBhc3NlcnQgYW55KCLnp4HmnInlhoXlrrkiIGluIGRbImNvbnRlbnQiXSBmb3IgZCBpbiBvdXRbImRvY3VtZW50cyJdKSAgIyDnoa7lrp7or7vliLDkuobljp/mlocKICAgICMg55WZ55eV77ya5a6h6K6h6ZO+5aSa5LqG5LiA5p2h77yM5LiU6K6w5b2V5LqGIHJlYXNvbiDkuI7nm67moIcKICAgIGFzc2VydCBsZW4obG9nLmVudHJpZXMpID09IGJlZm9yZSArIDEKICAgIGUgPSBsb2cuZW50cmllc1stMV0KICAgIGFzc2VydCBlLnN0YWdlID09ICJBVURJVF9SRUFEIiBhbmQgIuWQiOinhOaKveafpSIgaW4gZS5yZWFzb24KICAgICMg5a6h6K6h6ZO+5a6M5pW077yI5LiN5Y+v56+h5pS577yJCiAgICBhc3NlcnQgbG9nLnZlcmlmeV9jaGFpbigpWyJvayJdIGlzIFRydWUKCgpkZWYgdGVzdF9hdWRpdG9yX3JlYWRfcmVxdWlyZXNfcmVhc29uKCk6CiAgICBrYiA9IEtCU2VydmljZSgpCiAgICBsb2cgPSBBdWRpdExvZ2dlcigpCiAgICB0cnk6CiAgICAgICAga2IuYXVkaXRfcmVhZChBVURJVE9SLCAia2JfdXNlcjIiLCByZWFzb249IiAgIiwgYXVkaXRvcl9sb2c9bG9nKTsgYXNzZXJ0IEZhbHNlCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICBwYXNzCgoKZGVmIHRlc3Rfbm9uX2F1ZGl0b3JfYXVkaXRfcmVhZF9kZW5pZWQoKToKICAgIGtiID0gS0JTZXJ2aWNlKCkKICAgIGxvZyA9IEF1ZGl0TG9nZ2VyKCkKICAgIHRyeToKICAgICAgICBrYi5hdWRpdF9yZWFkKEFETUlOLCAia2JfdXNlcjIiLCByZWFzb249IngiLCBhdWRpdG9yX2xvZz1sb2cpOyBhc3NlcnQgRmFsc2UKICAgIGV4Y2VwdCBQZXJtaXNzaW9uRGVuaWVkOgogICAgICAgIHBhc3MKCgpkZWYgdGVzdF91c2VyX2FkbWluX2VuZHBvaW50c19pZl9mYXN0YXBpX2F2YWlsYWJsZSgpOgogICAgIiIi56uv54K557qn5rWL6K+V77ya6KOF5LqGIGZhc3RhcGkg5omN6LeR77yI55yf5py677yJ77yM5rKZ566x6Ieq5Yqo6Lez6L+H44CCIiIiCiAgICB0cnk6CiAgICAgICAgZnJvbSBmYXN0YXBpLnRlc3RjbGllbnQgaW1wb3J0IFRlc3RDbGllbnQgICMgdHlwZTogaWdub3JlCiAgICAgICAgZnJvbSBiYWNrZW5kLmFwcCBpbXBvcnQgYXBwLCBzdGF0ZQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4KICAgIGlmIGFwcCBpcyBOb25lOgogICAgICAgIHJldHVybgogICAgYyA9IFRlc3RDbGllbnQoYXBwKQogICAgYXRvayA9IHN0YXRlLmF1dGgubG9naW4oIjEzODAwMDAwMDAwIiwgImFkbWluMTIzIilbMF0KICAgIGF1dG9rID0gc3RhdGUuYXV0aC5sb2dpbigiMTM4MDAwMDAwMDQiLCAiYXVkaXQxMjMiKVswXQogICAgdXRvayA9IHN0YXRlLmF1dGgubG9naW4oIjEzODAwMDAwMDAzIiwgInVzZXIxMjMiKVswXQogICAgQUggPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7YXRva30ifQogICAgQVVIID0geyJBdXRob3JpemF0aW9uIjogZiJCZWFyZXIge2F1dG9rfSJ9CiAgICBVSCA9IHsiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHt1dG9rfSJ9CiAgICAjIGFkbWluIOWIl+eUqOaIt++8m3VzZXIg5LiN6IO9CiAgICBhc3NlcnQgYy5nZXQoIi92MS9hZG1pbi91c2VycyIsIGhlYWRlcnM9QUgpLnN0YXR1c19jb2RlID09IDIwMAogICAgYXNzZXJ0IGMuZ2V0KCIvdjEvYWRtaW4vdXNlcnMiLCBoZWFkZXJzPVVIKS5zdGF0dXNfY29kZSA9PSA0MDMKICAgICMg5pel5bi45qOA57Si77yaYWRtaW4g5LuN55yL5LiN5YiwIGtiX3VzZXIyCiAgICBzID0gYy5wb3N0KCIvdjEva2Ivc2VhcmNoIiwganNvbj17InF1ZXJ5IjogInUyIOeahOengeacieWGheWuuSJ9LCBoZWFkZXJzPUFIKS5qc29uKCkKICAgIGFzc2VydCAia2JfdXNlcjIiIG5vdCBpbiBzLmdldCgiYWNjZXNzaWJsZV9rYnMiLCBbXSkKICAgICMg5a6h6K6h56uv54K577yadXNlci9hZG1pbiDml6DmnYPvvIxhdWRpdG9yIOWPrwogICAgYXNzZXJ0IGMuZ2V0KCIvdjEvYXVkaXQva2IvbGlzdCIsIGhlYWRlcnM9VUgpLnN0YXR1c19jb2RlID09IDQwMwogICAgYXNzZXJ0IGMuZ2V0KCIvdjEvYXVkaXQva2IvbGlzdCIsIGhlYWRlcnM9QUgpLnN0YXR1c19jb2RlID09IDQwMwogICAgYXNzZXJ0IGMuZ2V0KCIvdjEvYXVkaXQva2IvbGlzdCIsIGhlYWRlcnM9QVVIKS5zdGF0dXNfY29kZSA9PSAyMDAKICAgICMg5a6h6K6h6K+75Y+W77ya57y6IHJlYXNvbiDihpIgNDAw77yb5bimIHJlYXNvbiDihpIgMjAwICsg55WZ55eVCiAgICBhc3NlcnQgYy5wb3N0KCIvdjEvYXVkaXQva2IvcmVhZCIsIGpzb249eyJrYl9pZCI6ICJrYl91c2VyMiIsICJyZWFzb24iOiAiIn0sIGhlYWRlcnM9QVVIKS5zdGF0dXNfY29kZSA9PSA0MDAKICAgIHIgPSBjLnBvc3QoIi92MS9hdWRpdC9rYi9yZWFkIiwganNvbj17ImtiX2lkIjogImtiX3VzZXIyIiwgInJlYXNvbiI6ICLlkIjop4Tmir3mn6UifSwgaGVhZGVycz1BVUgpCiAgICBhc3NlcnQgci5zdGF0dXNfY29kZSA9PSAyMDAgYW5kIHIuanNvbigpWyJhdWRpdGVkIl0gaXMgVHJ1ZQo=
+"""tests/test_user_admin.py — 用户管理 + 部门申请 + 受控审计读取。"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from backend.state import AppState
+from backend.user_admin_service import UserAdminService
+from backend.kb_service import KBService
+from secureguard import AuditLogger
+from secureguard.permissions import User, Role, PermissionDenied, can_audit_read_kb, KnowledgeBase, Visibility
+
+ADMIN = User("u_admin", Role.ADMIN)
+USER = User("u_user", Role.USER, dept_id=None)
+AUDITOR = User("u_auditor", Role.AUDITOR)
+
+
+# ---------- 用户管理 ----------
+def test_admin_lists_users():
+    st = AppState()
+    users = st.user_admin.list_users(ADMIN)
+    assert any(u["id"] == "u_admin" for u in users)
+
+
+def test_non_admin_cannot_list_users():
+    st = AppState()
+    try:
+        st.user_admin.list_users(USER); assert False
+    except PermissionDenied:
+        pass
+
+
+def test_admin_assigns_department_unblocks_dept_kb():
+    """核心：给无部门用户分配部门后，他立刻能访问该部门知识库。"""
+    st = AppState()
+    # 注册一个无部门新用户
+    tok, _ = st.auth.register_self("13911112222", "secret6")
+    u = st.auth.resolve(tok)
+    assert u.dept_id is None
+    # 分配前：知识库列表只有公共
+    kbs_before = {k["id"] for k in st.kb_service.list_for(u)}
+    assert kbs_before == {"kb_std"}
+    # admin 分配到 d1
+    st.user_admin.assign_department(ADMIN, u.id, "d1")
+    u2 = st.auth.get_user(u.id)  # 重新解析，部门已变
+    kbs_after = {k["id"] for k in st.kb_service.list_for(u2)}
+    assert "kb_dept" in kbs_after  # 现在能看到部门库
+
+
+def test_admin_change_role():
+    st = AppState()
+    st.user_admin.set_role(ADMIN, "u_user", "developer")
+    assert st.auth.get_user("u_user").role == Role.DEVELOPER
+
+
+def test_user_cannot_change_roles():
+    st = AppState()
+    try:
+        st.user_admin.set_role(USER, "u_admin", "user"); assert False
+    except PermissionDenied:
+        pass
+
+
+# ---------- 部门申请 ----------
+def test_request_department_does_not_grant_until_approved():
+    st = AppState()
+    tok, _ = st.auth.register_self("13933334444", "secret6")
+    u = st.auth.resolve(tok)
+    req = st.user_admin.request_department(u, "d1")
+    # 申请未批准：部门仍为空
+    assert st.auth.get_user(u.id).dept_id is None
+    # admin 批准 → 部门生效
+    st.user_admin.approve_request(ADMIN, req["id"])
+    assert st.auth.get_user(u.id).dept_id == "d1"
+
+
+def test_reject_request_keeps_no_department():
+    st = AppState()
+    tok, _ = st.auth.register_self("13955556666", "secret6")
+    u = st.auth.resolve(tok)
+    req = st.user_admin.request_department(u, "d1")
+    st.user_admin.reject_request(ADMIN, req["id"])
+    assert st.auth.get_user(u.id).dept_id is None
+
+
+# ---------- 受控审计读取（职责分离 + 留痕） ----------
+def test_admin_cannot_audit_read():
+    """admin 没有审计读取权（职责分离）。"""
+    kb = KnowledgeBase("kb_user2", Visibility.PRIVATE, owner_id="u2", dept_id="d2")
+    assert can_audit_read_kb(ADMIN, kb)[0] is False
+    assert can_audit_read_kb(AUDITOR, kb)[0] is True
+
+
+def test_daily_search_isolation_unbroken_for_admin():
+    """日常路径不变：admin 走普通检索仍看不到他人私有库。"""
+    kb = KBService()
+    res = kb.search(ADMIN, "u2 的私有内容")
+    assert all(h["kb_id"] != "kb_user2" for h in res["results"])
+    assert "kb_user2" not in res["accessible_kbs"]
+
+
+def test_auditor_can_audit_read_others_private_and_it_is_logged():
+    """审计员能读他人私有库原文，且产生一条不可篡改的审计记录。"""
+    kb = KBService()
+    log = AuditLogger()
+    before = len(log.entries)
+    out = kb.audit_read(AUDITOR, "kb_user2", reason="合规抽查 2026Q2", auditor_log=log)
+    assert out["audited"] and out["owner_id"] == "u2"
+    assert any("私有内容" in d["content"] for d in out["documents"])  # 确实读到了原文
+    # 留痕：审计链多了一条，且记录了 reason 与目标
+    assert len(log.entries) == before + 1
+    e = log.entries[-1]
+    assert e.stage == "AUDIT_READ" and "合规抽查" in e.reason
+    # 审计链完整（不可篡改）
+    assert log.verify_chain()["ok"] is True
+
+
+def test_auditor_read_requires_reason():
+    kb = KBService()
+    log = AuditLogger()
+    try:
+        kb.audit_read(AUDITOR, "kb_user2", reason="  ", auditor_log=log); assert False
+    except ValueError:
+        pass
+
+
+def test_non_auditor_audit_read_denied():
+    kb = KBService()
+    log = AuditLogger()
+    try:
+        kb.audit_read(ADMIN, "kb_user2", reason="x", auditor_log=log); assert False
+    except PermissionDenied:
+        pass
+
+
+def test_user_admin_endpoints_if_fastapi_available():
+    """端点级测试：装了 fastapi 才跑（真机），沙箱自动跳过。"""
+    try:
+        from fastapi.testclient import TestClient  # type: ignore
+        from backend.app import app, state
+    except Exception:
+        return
+    if app is None:
+        return
+    c = TestClient(app)
+    atok = state.auth.login("13800000000", "admin123")[0]
+    autok = state.auth.login("13800000004", "audit123")[0]
+    utok = state.auth.login("13800000003", "user123")[0]
+    AH = {"Authorization": f"Bearer {atok}"}
+    AUH = {"Authorization": f"Bearer {autok}"}
+    UH = {"Authorization": f"Bearer {utok}"}
+    # admin 列用户；user 不能
+    assert c.get("/v1/admin/users", headers=AH).status_code == 200
+    assert c.get("/v1/admin/users", headers=UH).status_code == 403
+    # 日常检索：admin 仍看不到 kb_user2
+    s = c.post("/v1/kb/search", json={"query": "u2 的私有内容"}, headers=AH).json()
+    assert "kb_user2" not in s.get("accessible_kbs", [])
+    # 审计端点：user/admin 无权，auditor 可
+    assert c.get("/v1/audit/kb/list", headers=UH).status_code == 403
+    assert c.get("/v1/audit/kb/list", headers=AH).status_code == 403
+    assert c.get("/v1/audit/kb/list", headers=AUH).status_code == 200
+    # 审计读取：缺 reason → 400；带 reason → 200 + 留痕
+    assert c.post("/v1/audit/kb/read", json={"kb_id": "kb_user2", "reason": ""}, headers=AUH).status_code == 400
+    r = c.post("/v1/audit/kb/read", json={"kb_id": "kb_user2", "reason": "合规抽查"}, headers=AUH)
+    assert r.status_code == 200 and r.json()["audited"] is True

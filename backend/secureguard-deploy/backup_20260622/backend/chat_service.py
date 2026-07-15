@@ -1,1 +1,220 @@
-IiIiYmFja2VuZC5jaGF0X3NlcnZpY2Ug4oCUIOWvueivnea1geW8j+acjeWKoe+8iOahhuaetuaXoOWFs++8jEIxIOaguOW/g++8ieOAggoKcnVuX2NoYXQoKSDmmK/kuIDkuKrlvILmraXnlJ/miJDlmajvvIzkuqflh7rkuI7liY3nq6/lpZHnuqbkuIDoh7TnmoQgV1Mg5LqL5Lu277yIdHJhY2UgLyBkZWx0YSAvIGRvbmXvvInjgIIK5a6D5Zyo5a6J5YWo5YaF5qC4KG9yY2hlc3RyYXRvci5zdHJlYW0p5LmL5aSW77yM6KGl5LiK5Lia5Yqh5bGC5omN55+l6YGT55qE5bin77yaCiAgLSDkuIrkuIvmlofliqDovb3luKfvvIjliqDovb3kuoblk6rkuKrmmbrog73kvZMv55+l6K+G5bqT77yJCiAgLSDpoobln5/ot6/nlLHluKfvvIhDNO+8iQogIC0gKirpoobln5/nuqbmnZ8oRDYgc2NvcGU9ZG9tYWluX29ubHkpIOagoemqjCoqIOKAlOKAlCDlhazlhbHmmbrog73kvZPlj6rnrZTmnKzpoobln5/pl67popjjgIIKCuS4jeS+nei1liBGYXN0QVBJ77yM5Y+v55So57qvIGFzeW5jaW8g5rWL6K+V44CCRmFzdEFQSSDnq6/ngrnlj6rmmK/lroPnmoToloTljIXoo4XjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCByZQpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBBc3luY0l0ZXJhdG9yLCBEaWN0LCBPcHRpb25hbCwgVHVwbGUKCmZyb20gc2VjdXJlZ3VhcmQub3JjaGVzdHJhdG9yIGltcG9ydCBta19mcmFtZQoKRE9NQUlOX0xBQkVMID0gewogICAgImdlbmVyYWwiOiAi6YCa55SoIiwgImVsZWN0cm9tZWNoYW5pY2FsIjogIuacuueUteWuieijhSIsICJzb2Z0d2FyZSI6ICLova/ku7blvIDlj5EiLAogICAgImRhdGFfbWwiOiAi5pWw5o2uIC8gTUwiLCAiaHIiOiAi5Lq65Yqb6LWE5rqQIiwKfQoKIyBENiDpoobln5/nuqbmnZ/nmoQi6Leo5Z+f5qCH5b+X6K+NIuOAguWRveS4rT3mmI7mmL7kuI3lsZ7kuo7mnKzmmbrog73kvZPpoobln5/jgIIKIyDms6jmhI/vvJrov5nmmK8gQjEg55qEKirnoa7lrprmgKfljaDkvY0qKu+8jOecn+WunumihuWfn+WIpOWumuW6lOaNouaIkOWIhuexu+WZqC/mqKHlnovvvIjmoIfms6jvvIzkuI3lgYfoo4XlrozlpIfvvInjgIIKX09GRl9ET01BSU5fTUFSS0VSUzogRGljdFtzdHIsIGxpc3RdID0gewogICAgImVsZWN0cm9tZWNoYW5pY2FsIjogW3IicHl0aG9ufOeIrOiZq3xjcmF3bGVyfGphdmFcYnzlhpnku6PnoIF85YmN56uvfHNxbHzmraPliJl8566X5rOV6aKYIl0sCiAgICAic29mdHdhcmUiOiBbciLpo47nrqF85pqW6YCafOaWveW3pXzmt7flh53lnJ986ZKi562LfOW3peWcsCJdLAogICAgImhyIjogW3Ii5YaZ5Luj56CBfOeIrOiZq3zpo47nrqF85pa95belIl0sCn0KCgpkZWYgc2NvcGVfY2hlY2socXVlcnk6IHN0ciwgYWdlbnQ6IERpY3Rbc3RyLCBBbnldKSAtPiBUdXBsZVtib29sLCBzdHJdOgogICAgIiIiRDbvvJpkb21haW5fb25seSDmmbrog73kvZPlj6rnrZTmnKzpoobln5/pl67popjjgILov5Tlm54gKOaYr+WQpuWcqOWfn+WGhSwg5Y6f5ZugKeOAggoKICAgIEIxIOeUqOi3qOWfn+agh+W/l+ivjeWBmuehruWumuaAp+WIpOWumu+8m+ecn+WunumDqOe9suW6lOabv+aNouS4uumihuWfn+WIhuexu+WZqOOAggogICAgIiIiCiAgICBpZiBhZ2VudC5nZXQoInNjb3BlIikgIT0gImRvbWFpbl9vbmx5IjoKICAgICAgICByZXR1cm4gVHJ1ZSwgIm9wZW4gc2NvcGUiCiAgICBtYXJrZXJzID0gX09GRl9ET01BSU5fTUFSS0VSUy5nZXQoYWdlbnQuZ2V0KCJkb21haW4iLCAiIiksIFtdKQogICAgZm9yIHBhdCBpbiBtYXJrZXJzOgogICAgICAgIGlmIHJlLnNlYXJjaChwYXQsIHF1ZXJ5LCByZS5JR05PUkVDQVNFKToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlLCBmIuWRveS4rei3qOWfn+agh+W/l++8mntwYXR9IgogICAgcmV0dXJuIFRydWUsICJpbiBkb21haW4iCgoKYXN5bmMgZGVmIHJ1bl9jaGF0KAogICAgc3RhdGU6IEFueSwKICAgIG1lc3NhZ2U6IHN0ciwKICAgIGFnZW50X2lkOiBPcHRpb25hbFtzdHJdID0gTm9uZSwKICAgIHNlc3Npb25faWQ6IHN0ciA9ICJhbm9uIiwKICAgIGNhbGxlcjogT3B0aW9uYWxbRGljdFtzdHIsIEFueV1dID0gTm9uZSwKICAgIHJlZl9zZXNzaW9uczogT3B0aW9uYWxbbGlzdF0gPSBOb25lLAogICAgbW9kZWw6IE9wdGlvbmFsW3N0cl0gPSBOb25lLAogICAgZmlsZV9pZHM6IE9wdGlvbmFsW2xpc3RdID0gTm9uZSwKKSAtPiBBc3luY0l0ZXJhdG9yW0RpY3Rbc3RyLCBBbnldXToKICAgICIiIuerr+WIsOerr+a1geW8j+WvueivneOAgnJlZl9zZXNzaW9ucyDot6jkvJror53lvJXnlKjvvJttb2RlbCDpgInmqKHlnovvvJtmaWxlX2lkcyDpmYTluKbmlofku7bjgIIiIiIKICAgIGFnZW50ID0gc3RhdGUuZ2V0X2FnZW50KGFnZW50X2lkKQogICAgZG9tYWluID0gYWdlbnQuZ2V0KCJkb21haW4iLCAiZ2VuZXJhbCIpCiAgICBsYWJlbCA9IERPTUFJTl9MQUJFTC5nZXQoZG9tYWluLCBkb21haW4pCgogICAgIyDkuJrliqHlsYLluKfvvJrkuIrkuIvmlofliqDovb0gKyDpoobln5/ot6/nlLEKICAgIHlpZWxkIG1rX2ZyYW1lKCJjb250ZXh0IiwgImNvbnRleHRfbG9hZCIsIGYi5bey5Yqg6L295pm66IO95L2T44CMe2FnZW50WyduYW1lJ11944CN5LiO55+l6K+G5bqTIiwgc3RhdHVzPSJkb25lIikKICAgIHlpZWxkIG1rX2ZyYW1lKCJjb250ZXh0IiwgInJvdXRlIiwgZiLpoobln5/ot6/nlLHvvJp7bGFiZWx9Iiwgc3RhdHVzPSJkb25lIikKCiAgICAjIEQ2IOmihuWfn+e6puadnwogICAgaW5fc2NvcGUsIF9yZWFzb24gPSBzY29wZV9jaGVjayhtZXNzYWdlLCBhZ2VudCkKICAgIGlmIG5vdCBpbl9zY29wZToKICAgICAgICB5aWVsZCBta19mcmFtZSgiaGFybmVzcyIsICJnYXRlIiwgIuKblCDotoXlh7ror6Xmmbrog73kvZPnmoTpoobln5/ojIPlm7QiLCBzdGF0dXM9ImJsb2NrZWQiKQogICAgICAgIHlpZWxkIHsiZXZlbnQiOiAiZGVsdGEiLCAidGV4dCI6IGYi5oqx5q2J77yM44CMe2FnZW50WyduYW1lJ11944CN5Y+q5Zue562Ue2xhYmVsfemihuWfn+ebuOWFs+eahOmXrumimOOAgiJ9CiAgICAgICAgeWllbGQgeyJldmVudCI6ICJkb25lIiwgImJsb2NrZWQiOiBUcnVlLCAicmVhc29uIjogImRvbWFpbl9zY29wZSJ9CiAgICAgICAgcmV0dXJuCgogICAgIyDphY3pop3liY3nva7mo4Dmn6XvvIjku4XnmbvlvZXnlKjmiLforqHph4/vvJvljL/lkI3kuI3pmZDvvIzkvr/kuo7lvIDlj5HpooTop4jvvIkKICAgIHF1b3RhID0gZ2V0YXR0cihzdGF0ZSwgInF1b3RhIiwgTm9uZSkKICAgIGtleSA9IChjYWxsZXJbImlkIl0sIGFnZW50WyJpZCJdKSBpZiBjYWxsZXIgZWxzZSBOb25lCiAgICBmcmVlID0gaW50KGFnZW50LmdldCgiZnJlZV9xdW90YV90b2tlbnMiLCAxMDAwMCkpCiAgICBmcmVlemUgPSBhZ2VudC5nZXQoImZyZWV6ZV9wZXJpb2QiLCAibW9udGhseSIpCiAgICBpZiBrZXkgYW5kIHF1b3RhIGlzIG5vdCBOb25lOgogICAgICAgIHN0ID0gYXdhaXQgcXVvdGEuc3RhdHVzKGtleSwgbGltaXQ9ZnJlZSwgZnJlZXplX3BlcmlvZD1mcmVlemUpCiAgICAgICAgaWYgc3RbImxvY2tlZCJdOgogICAgICAgICAgICB5aWVsZCBta19mcmFtZSgiaGFybmVzcyIsICJnYXRlIiwgIuKblCDmnKzmmbrog73kvZPmnKzmnJ/lhY3otLnpop3luqblt7LnlKjlsL0iLCBzdGF0dXM9ImJsb2NrZWQiKQogICAgICAgICAgICB5aWVsZCB7ImV2ZW50IjogImRlbHRhIiwKICAgICAgICAgICAgICAgICAgICJ0ZXh0IjogZiLjgIx7YWdlbnRbJ25hbWUnXX3jgI3mnKzmnJ/lhY3otLnpop3luqblt7LnlKjlsL3vvIzor7fnrYnlvoXpop3luqbph43nva7miJblhYXlgLzlkI7nu6fnu63jgIIifQogICAgICAgICAgICB5aWVsZCB7ImV2ZW50IjogImRvbmUiLCAiYmxvY2tlZCI6IFRydWUsICJyZWFzb24iOiAicXVvdGFfbG9ja2VkIn0KICAgICAgICAgICAgcmV0dXJuCgogICAgIyDlp5TmiZjlronlhajlhoXmoLjmtYHlvI/lpITnkIbvvIhMMOKGkkwx4oaSTDLihpJMM+KGkkw077yJCiAgICBhY3Rpb24gPSB7InR5cGUiOiAicXVlcnkiLCAicmlza19sZXZlbCI6ICJSMCIsICJkb21haW4iOiBkb21haW4sICJmbGFncyI6IFtdfQogICAgY3R4ID0geyJ0aWVyIjogYWdlbnQuZ2V0KCJ0aWVyIiwgInRpZXIxIiksICJpc19lbWVyZ2VuY3kiOiBGYWxzZSwgImludGVybmFsX3Rob3VnaHQiOiAiIn0KICAgICMgTUQg6amx5Yqo5oCd6ICD77ya5oyJ5pm66IO95L2T6aKG5Z+f5Yqg6L295Li7K+mihuWfnyBNRO+8jOaKiiLlj6/op4HmraXpqqQr6ISa5omL5p62IuazqOWFpSBjdHjjgIIKICAgICMg5o2iIE1EIOaWh+S7tiDihpIg5oCd6ICD5q2l6aqkL+aWueW8j+WPmO+8jOaXoOmcgOaUueS7o+egge+8iOavj+asoeivt+axgumHjeivu++8jOeDreWKoOi9ve+8ieOAggogICAgdHJ5OgogICAgICAgIGZyb20gYmFja2VuZC50aGlua2luZ19tZCBpbXBvcnQgbG9hZF9wcm9maWxlCiAgICAgICAgX2RvbSA9IGRvbWFpbiBpZiBkb21haW4gIT0gImdlbmVyYWwiIGVsc2UgTm9uZQogICAgICAgIHByb2ZpbGUgPSBsb2FkX3Byb2ZpbGUoX2RvbSkKICAgICAgICBjdHhbInRoaW5rX3N0ZXBzIl0gPSBwcm9maWxlLnN0ZXBzX2RpY3QoKQogICAgICAgIGN0eFsidGhpbmtfcHJvbXB0Il0gPSBwcm9maWxlLnByb21wdF9ib2R5CiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHBhc3MgICMgTUQg5LiN5Y+v55So5pe26YCA5Zue5Y6f5o6o55CG6Lev5b6E77yM5LiN5b2x5ZON5a+56K+dCgogICAgIyDmspnnrrHmiafooYzlm57osIPvvJpWRVJJRlkg5q2l5LuO5qih5Z6L6L6T5Ye65o+Q5Y+WIFB5dGhvbiDku6PnoIEg4oaSIOecn+i3kSDihpIg5qC85byP5YyW57uT5p6c44CCCiAgICAjIOaguOW/gyBvcmNoZXN0cmF0b3Ig5LiN5L6d6LWWIGJhY2tlbmTvvIzmiafooYzog73lipvnu48gY3R4IOWbnuiwg+azqOWFpeOAggogICAgdHJ5OgogICAgICAgIGZyb20gYmFja2VuZC5zYW5kYm94X2V4ZWN1dG9yIGltcG9ydCBidWlsZF9leGVjdXRvcgogICAgICAgIGZyb20gYmFja2VuZC5hcnRpZmFjdHMgaW1wb3J0IGZpcnN0X3B5dGhvbiwgZm9ybWF0X3ZlcmlmeQogICAgICAgIF9leCA9IGJ1aWxkX2V4ZWN1dG9yKCkKCiAgICAgICAgZGVmIF92ZXJpZnkocmF3OiBzdHIpIC0+IHN0cjoKICAgICAgICAgICAgY29kZSA9IGZpcnN0X3B5dGhvbihyYXcpCiAgICAgICAgICAgIGlmIG5vdCBjb2RlOgogICAgICAgICAgICAgICAgcmV0dXJuICLmnKrmj5Dkvpvlj6/miafooYzku6PnoIHvvIjmnKzlm57nrZTml6AgUHl0aG9uIOS7o+eggeWdl++8ieOAgiIKICAgICAgICAgICAgcmV0dXJuIGZvcm1hdF92ZXJpZnkoX2V4LmV4ZWN1dGUoY29kZSkpCiAgICAgICAgY3R4WyJ2ZXJpZnlfZm4iXSA9IF92ZXJpZnkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcGFzcwoKICAgICMg5aSa6L2u6K6w5b+G77ya5Y+W5pys5Lya6K+d5Y6G5Y+y77yI56qX5Y+j566h55CG5ZCO77yJ5rOo5YWlIGN0eO+8jOiuqeaooeWei+iusOW+l+S4iuS4gOi9ruOAggogICAgIyDlnKjov73liqAi5b2T5YmN6L+Z5p2h55So5oi35raI5oGvIuS5i+WJjeWPluWOhuWPsu+8jOmBv+WFjeaKiuW9k+WJjemXrumimOmHjeWkjei/m+S4iuS4i+aWh+OAggogICAgc2Vzc2lvbnMgPSBnZXRhdHRyKHN0YXRlLCAic2Vzc2lvbnMiLCBOb25lKQogICAgdWlkID0gY2FsbGVyWyJpZCJdIGlmIGNhbGxlciBlbHNlIE5vbmUKICAgIGlmIHNlc3Npb25zIGlzIG5vdCBOb25lOgogICAgICAgIHRyeToKICAgICAgICAgICAgY3R4WyJoaXN0b3J5Il0gPSBzZXNzaW9ucy5idWlsZF9jb250ZXh0KHNlc3Npb25faWQpCiAgICAgICAgICAgIGlmIHJlZl9zZXNzaW9uczoKICAgICAgICAgICAgICAgIHJlZiA9IHNlc3Npb25zLmJ1aWxkX3JlZmVyZW5jZShyZWZfc2Vzc2lvbnMpCiAgICAgICAgICAgICAgICBpZiByZWY6CiAgICAgICAgICAgICAgICAgICAgY3R4WyJyZWZlcmVuY2VzIl0gPSByZWYKICAgICAgICAgICAgICAgICAgICB5aWVsZCBta19mcmFtZSgiY29udGV4dCIsICJjb250ZXh0X2xvYWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYi5bey5byV55SoIHtsZW4ocmVmX3Nlc3Npb25zKX0g5Liq5Y6G5Y+y5Lya6K+d5L2c5Li65Y+C6ICDIiwgc3RhdHVzPSJkb25lIikKICAgICAgICAgICAgc2Vzc2lvbnMuYXBwZW5kKHNlc3Npb25faWQsICJ1c2VyIiwgbWVzc2FnZSwgdXNlcl9pZD11aWQpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwoKICAgICMg6YCJ55So5qih5Z6L77ya6Kej5p6Q6YWN572uIOKGkiDmnoTpgKDnnJ/lrp7pgILphY3lmajms6jlhaUgY3R444CC6YWN572u5a6M5pW0KGFwaV9iYXNlK2tleSnliJnnnJ/mqKHlnovlupTnrZTvvJsKICAgICMg5ZCm5YiZKOWGhee9ri/nvLrphY3nva4p5Zue6YCA5YaF572uIE1vY2tNb2RlbOOAguecn+WuniBIVFRQIOW+gOi/lOmcgOiBlOe9ke+8jOacrOaymeeusea1i+S4jeS6hu+8iPCflLTvvInjgIIKICAgIHRyeToKICAgICAgICBpZiBnZXRhdHRyKHN0YXRlLCAibW9kZWxzIiwgTm9uZSkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGNmZyA9IHN0YXRlLm1vZGVscy5yZXNvbHZlKG1vZGVsKQogICAgICAgICAgICBwcmludChmIltERUJVR10gbW9kZWw9e21vZGVsfSwgcmVzb2x2ZWQ9e2NmZy5pZH0sIGNmZy5tb2RlbD17Y2ZnLm1vZGVsfSIsIGZsdXNoPVRydWUpCiAgICAgICAgICAgIGlmIGNmZy5tb2RlbCAhPSAibW9jayI6CiAgICAgICAgICAgICAgICBmcm9tIGJhY2tlbmQubW9kZWxfYWRhcHRlciBpbXBvcnQgYnVpbGRfbW9kZWwKICAgICAgICAgICAgICAgIGFkYXB0ZXIgPSBidWlsZF9tb2RlbChjZmcpCiAgICAgICAgICAgICAgICBwcmludChmIltERUJVR10gYWRhcHRlcj17YWRhcHRlcn0iLCBmbHVzaD1UcnVlKQogICAgICAgICAgICAgICAgaWYgYWRhcHRlciBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgICAgICBjdHhbIm1vZGVsX292ZXJyaWRlIl0gPSBhZGFwdGVyCiAgICAgICAgICAgICAgICAgICAgeWllbGQgbWtfZnJhbWUoImNvbnRleHQiLCAiY29udGV4dF9sb2FkIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIumAieeUqOaooeWei++8mntjZmcubmFtZX0iLCBzdGF0dXM9ImRvbmUiKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB5aWVsZCBta19mcmFtZSgiY29udGV4dCIsICJjb250ZXh0X2xvYWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYi5qih5Z6L44CMe2NmZy5uYW1lfeOAjemFjee9ruS4jeWujOaVtO+8iOe8uiBBUEkg5Zyw5Z2A5oiWIEtlee+8ie+8jOaagueUqOWGhee9ruaooeWeiyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzPSJkb25lIikKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcGFzcwoKICAgICMg6ZmE5bim5paH5Lu277ya5oqK5LiK5Lyg5paH5Lu255qE6Kej5p6Q5paH5pys5rOo5YWl5LiK5LiL5paH77yI4pGh77yJCiAgICBpZiBmaWxlX2lkcyBhbmQgZ2V0YXR0cihzdGF0ZSwgImZpbGVzIiwgTm9uZSkgaXMgbm90IE5vbmU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBmdGV4dCA9IHN0YXRlLmZpbGVzLmNvbnRleHRfdGV4dChmaWxlX2lkcykKICAgICAgICAgICAgaWYgZnRleHQ6CiAgICAgICAgICAgICAgICBjdHhbImZpbGVfY29udGV4dCJdID0gZnRleHQKICAgICAgICAgICAgICAgIHlpZWxkIG1rX2ZyYW1lKCJjb250ZXh0IiwgImNvbnRleHRfbG9hZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIuW3sumZhOW4piB7bGVuKGZpbGVfaWRzKX0g5Liq5paH5Lu2Iiwgc3RhdHVzPSJkb25lIikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCgogICAgYW5zd2VyX2NoYXJzID0gMAogICAgYW5zd2VyX3RleHQgPSAiIgogICAgYmxvY2tlZCA9IEZhbHNlCiAgICBhc3luYyBmb3IgZXYgaW4gc3RhdGUub3JjaGVzdHJhdG9yLnN0cmVhbShtZXNzYWdlLCBzZXNzaW9uX2lkLCBhY3Rpb24sIGN0eCk6CiAgICAgICAgaWYgZXYuZ2V0KCJldmVudCIpID09ICJkZWx0YSI6CiAgICAgICAgICAgIGFuc3dlcl9jaGFycyArPSBsZW4oZXYuZ2V0KCJ0ZXh0IiwgIiIpKQogICAgICAgICAgICBhbnN3ZXJfdGV4dCArPSBldi5nZXQoInRleHQiLCAiIikKICAgICAgICBlbGlmIGV2LmdldCgiZXZlbnQiKSA9PSAiZG9uZSI6CiAgICAgICAgICAgIGJsb2NrZWQgPSBib29sKGV2LmdldCgiYmxvY2tlZCIpKQogICAgICAgIHlpZWxkIGV2CgogICAgIyDnrZTmoYjph4znmoTku6PnoIHlnZcg4oaSIEFydGlmYWN0IOS6i+S7tu+8iOS+m+WJjeerryLlt6XkvZzljLrkvqfmoI8i5riy5p+T5Y2h54mHL+i/kOihjC/miZPljIXvvIkKICAgIGlmIG5vdCBibG9ja2VkIGFuZCBhbnN3ZXJfdGV4dDoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZyb20gYmFja2VuZC5hcnRpZmFjdHMgaW1wb3J0IGV4dHJhY3RfYXJ0aWZhY3RzLCBidWlsZF9yZWFkbWUKICAgICAgICAgICAgYXJ0cyA9IGV4dHJhY3RfYXJ0aWZhY3RzKGFuc3dlcl90ZXh0KQogICAgICAgICAgICBpZiBhcnRzOgogICAgICAgICAgICAgICAgaWYgbGVuKGFydHMpID4gMToKICAgICAgICAgICAgICAgICAgICBhcnRzLmFwcGVuZChidWlsZF9yZWFkbWUoYXJ0cykpCiAgICAgICAgICAgICAgICBmb3IgYSBpbiBhcnRzOgogICAgICAgICAgICAgICAgICAgIHlpZWxkIGEudG9fZXZlbnQoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MKCiAgICAjIOaMgeS5heWMluWKqeaJi+WbnuetlO+8iOWkmui9ruiusOW/hu+8muS4i+S4gOi9ruiDveiusOW+l+i/measoeivtOS6huS7gOS5iO+8iQogICAgaWYgc2Vzc2lvbnMgaXMgbm90IE5vbmUgYW5kIG5vdCBibG9ja2VkIGFuZCBhbnN3ZXJfdGV4dDoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlc3Npb25zLmFwcGVuZChzZXNzaW9uX2lkLCAiYXNzaXN0YW50IiwgYW5zd2VyX3RleHQsIHVzZXJfaWQ9dWlkKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MKCiAgICAjIOaJo+WHj++8iOWcqCB5aWVsZCBkb25lIOS5i+WQjuKAlOKAlOS4jeS4reaWreW9k+WJjeivt+axgu+8m+mineW6puWPmOWMluWvueS4i+S4gOasoeivt+axgueUn+aViO+8jOWvuem9kCBENu+8iQogICAgaWYga2V5IGFuZCBxdW90YSBpcyBub3QgTm9uZSBhbmQgbm90IGJsb2NrZWQ6CiAgICAgICAgdG9rZW5zID0gbWF4KDEsIChsZW4obWVzc2FnZSkgKyBhbnN3ZXJfY2hhcnMpIC8vIDIpICAjIOS8sOeul++8m+ecn+WuniB0b2tlbml6ZXIg5ZyoIEI3CiAgICAgICAgYXdhaXQgcXVvdGEuY29uc3VtZShrZXksIHRva2VucywgbGltaXQ9ZnJlZSwgZnJlZXplX3BlcmlvZD1mcmVlemUpCgoKYXN5bmMgZGVmIGNvbGxlY3RfYW5zd2VyKGV2ZW50czogQXN5bmNJdGVyYXRvcltEaWN0W3N0ciwgQW55XV0pIC0+IERpY3Rbc3RyLCBBbnldOgogICAgIiIi5oqK5rWB5byP5LqL5Lu26IGa5ZCI5oiQ6Z2e5rWB5byP57uT5p6c77yI5L6bIFBPU1QgL3YxL2NoYXQg5Zue6YCA55So77yJ44CCIiIiCiAgICBhbnN3ZXJfcGFydHMgPSBbXQogICAgYmxvY2tlZCA9IEZhbHNlCiAgICBtZXRhOiBEaWN0W3N0ciwgQW55XSA9IHt9CiAgICBhc3luYyBmb3IgZXYgaW4gZXZlbnRzOgogICAgICAgIGlmIGV2LmdldCgiZXZlbnQiKSA9PSAiZGVsdGEiOgogICAgICAgICAgICBhbnN3ZXJfcGFydHMuYXBwZW5kKGV2WyJ0ZXh0Il0pCiAgICAgICAgZWxpZiBldi5nZXQoImV2ZW50IikgPT0gImRvbmUiOgogICAgICAgICAgICBibG9ja2VkID0gYm9vbChldi5nZXQoImJsb2NrZWQiKSkKICAgICAgICAgICAgbWV0YSA9IGV2CiAgICByZXR1cm4gewogICAgICAgICJibG9ja2VkIjogYmxvY2tlZCwKICAgICAgICAiYW5zd2VyIjogIiIuam9pbihhbnN3ZXJfcGFydHMpLAogICAgICAgICJ0aWVyIjogbWV0YS5nZXQoInRpZXIiKSwKICAgICAgICAibGF0ZW5jeV9tcyI6IG1ldGEuZ2V0KCJsYXRlbmN5X21zIiksCiAgICAgICAgImNpdGF0aW9ucyI6IG1ldGEuZ2V0KCJjaXRhdGlvbnMiLCBbXSksCiAgICB9Cg==
+"""backend.chat_service — 对话流式服务（框架无关，B1 核心）。
+
+run_chat() 是一个异步生成器，产出与前端契约一致的 WS 事件（trace / delta / done）。
+它在安全内核(orchestrator.stream)之外，补上业务层才知道的帧：
+  - 上下文加载帧（加载了哪个智能体/知识库）
+  - 领域路由帧（C4）
+  - **领域约束(D6 scope=domain_only) 校验** —— 公共智能体只答本领域问题。
+
+不依赖 FastAPI，可用纯 asyncio 测试。FastAPI 端点只是它的薄包装。
+"""
+from __future__ import annotations
+
+import re
+from typing import Any, AsyncIterator, Dict, Optional, Tuple
+
+from secureguard.orchestrator import mk_frame
+
+DOMAIN_LABEL = {
+    "general": "通用", "electromechanical": "机电安装", "software": "软件开发",
+    "data_ml": "数据 / ML", "hr": "人力资源",
+}
+
+# D6 领域约束的"跨域标志词"。命中=明显不属于本智能体领域。
+# 注意：这是 B1 的**确定性占位**，真实领域判定应换成分类器/模型（标注，不假装完备）。
+_OFF_DOMAIN_MARKERS: Dict[str, list] = {
+    "electromechanical": [r"python|爬虫|crawler|java\b|写代码|前端|sql|正则|算法题"],
+    "software": [r"风管|暖通|施工|混凝土|钢筋|工地"],
+    "hr": [r"写代码|爬虫|风管|施工"],
+}
+
+
+def scope_check(query: str, agent: Dict[str, Any]) -> Tuple[bool, str]:
+    """D6：domain_only 智能体只答本领域问题。返回 (是否在域内, 原因)。
+
+    B1 用跨域标志词做确定性判定；真实部署应替换为领域分类器。
+    """
+    if agent.get("scope") != "domain_only":
+        return True, "open scope"
+    markers = _OFF_DOMAIN_MARKERS.get(agent.get("domain", ""), [])
+    for pat in markers:
+        if re.search(pat, query, re.IGNORECASE):
+            return False, f"命中跨域标志：{pat}"
+    return True, "in domain"
+
+
+async def run_chat(
+    state: Any,
+    message: str,
+    agent_id: Optional[str] = None,
+    session_id: str = "anon",
+    caller: Optional[Dict[str, Any]] = None,
+    ref_sessions: Optional[list] = None,
+    model: Optional[str] = None,
+    file_ids: Optional[list] = None,
+) -> AsyncIterator[Dict[str, Any]]:
+    """端到端流式对话。ref_sessions 跨会话引用；model 选模型；file_ids 附带文件。"""
+    agent = state.get_agent(agent_id)
+    domain = agent.get("domain", "general")
+    label = DOMAIN_LABEL.get(domain, domain)
+
+    # 业务层帧：上下文加载 + 领域路由
+    yield mk_frame("context", "context_load", f"已加载智能体「{agent['name']}」与知识库", status="done")
+    yield mk_frame("context", "route", f"领域路由：{label}", status="done")
+
+    # D6 领域约束
+    in_scope, _reason = scope_check(message, agent)
+    if not in_scope:
+        yield mk_frame("harness", "gate", "⛔ 超出该智能体的领域范围", status="blocked")
+        yield {"event": "delta", "text": f"抱歉，「{agent['name']}」只回答{label}领域相关的问题。"}
+        yield {"event": "done", "blocked": True, "reason": "domain_scope"}
+        return
+
+    # 配额前置检查（仅登录用户计量；匿名不限，便于开发预览）
+    quota = getattr(state, "quota", None)
+    key = (caller["id"], agent["id"]) if caller else None
+    free = int(agent.get("free_quota_tokens", 10000))
+    freeze = agent.get("freeze_period", "monthly")
+    if key and quota is not None:
+        st = await quota.status(key, limit=free, freeze_period=freeze)
+        if st["locked"]:
+            yield mk_frame("harness", "gate", "⛔ 本智能体本期免费额度已用尽", status="blocked")
+            yield {"event": "delta",
+                   "text": f"「{agent['name']}」本期免费额度已用尽，请等待额度重置或充值后继续。"}
+            yield {"event": "done", "blocked": True, "reason": "quota_locked"}
+            return
+
+    # 委托安全内核流式处理（L0→L1→L2→L3→L4）
+    action = {"type": "query", "risk_level": "R0", "domain": domain, "flags": []}
+    ctx = {"tier": agent.get("tier", "tier1"), "is_emergency": False, "internal_thought": ""}
+    # MD 驱动思考：按智能体领域加载主+领域 MD，把"可见步骤+脚手架"注入 ctx。
+    # 换 MD 文件 → 思考步骤/方式变，无需改代码（每次请求重读，热加载）。
+    try:
+        from backend.thinking_md import load_profile
+        _dom = domain if domain != "general" else None
+        profile = load_profile(_dom)
+        ctx["think_steps"] = profile.steps_dict()
+        ctx["think_prompt"] = profile.prompt_body
+    except Exception:
+        pass  # MD 不可用时退回原推理路径，不影响对话
+
+    # 沙箱执行回调：VERIFY 步从模型输出提取 Python 代码 → 真跑 → 格式化结果。
+    # 核心 orchestrator 不依赖 backend，执行能力经 ctx 回调注入。
+    try:
+        from backend.sandbox_executor import build_executor
+        from backend.artifacts import first_python, format_verify
+        _ex = build_executor()
+
+        def _verify(raw: str) -> str:
+            code = first_python(raw)
+            if not code:
+                return "未提供可执行代码（本回答无 Python 代码块）。"
+            return format_verify(_ex.execute(code))
+        ctx["verify_fn"] = _verify
+    except Exception:
+        pass
+
+    # 多轮记忆：取本会话历史（窗口管理后）注入 ctx，让模型记得上一轮。
+    # 在追加"当前这条用户消息"之前取历史，避免把当前问题重复进上下文。
+    sessions = getattr(state, "sessions", None)
+    uid = caller["id"] if caller else None
+    if sessions is not None:
+        try:
+            ctx["history"] = sessions.build_context(session_id)
+            if ref_sessions:
+                ref = sessions.build_reference(ref_sessions)
+                if ref:
+                    ctx["references"] = ref
+                    yield mk_frame("context", "context_load",
+                                   f"已引用 {len(ref_sessions)} 个历史会话作为参考", status="done")
+            sessions.append(session_id, "user", message, user_id=uid)
+        except Exception:
+            pass
+
+    # 选用模型：解析配置 → 构造真实适配器注入 ctx。配置完整(api_base+key)则真模型应答；
+    # 否则(内置/缺配置)回退内置 MockModel。真实 HTTP 往返需联网，本沙箱测不了（🔴）。
+    try:
+        if getattr(state, "models", None) is not None:
+            cfg = state.models.resolve(model)
+            print(f"[DEBUG] model={model}, resolved={cfg.id}, cfg.model={cfg.model}", flush=True)
+            if cfg.model != "mock":
+                from backend.model_adapter import build_model
+                adapter = build_model(cfg)
+                print(f"[DEBUG] adapter={adapter}", flush=True)
+                if adapter is not None:
+                    ctx["model_override"] = adapter
+                    yield mk_frame("context", "context_load",
+                                   f"选用模型：{cfg.name}", status="done")
+                else:
+                    yield mk_frame("context", "context_load",
+                                   f"模型「{cfg.name}」配置不完整（缺 API 地址或 Key），暂用内置模型",
+                                   status="done")
+    except Exception:
+        pass
+
+    # 附带文件：把上传文件的解析文本注入上下文（②）
+    if file_ids and getattr(state, "files", None) is not None:
+        try:
+            ftext = state.files.context_text(file_ids)
+            if ftext:
+                ctx["file_context"] = ftext
+                yield mk_frame("context", "context_load",
+                               f"已附带 {len(file_ids)} 个文件", status="done")
+        except Exception:
+            pass
+
+    answer_chars = 0
+    answer_text = ""
+    blocked = False
+    async for ev in state.orchestrator.stream(message, session_id, action, ctx):
+        if ev.get("event") == "delta":
+            answer_chars += len(ev.get("text", ""))
+            answer_text += ev.get("text", "")
+        elif ev.get("event") == "done":
+            blocked = bool(ev.get("blocked"))
+        yield ev
+
+    # 答案里的代码块 → Artifact 事件（供前端"工作区侧栏"渲染卡片/运行/打包）
+    if not blocked and answer_text:
+        try:
+            from backend.artifacts import extract_artifacts, build_readme
+            arts = extract_artifacts(answer_text)
+            if arts:
+                if len(arts) > 1:
+                    arts.append(build_readme(arts))
+                for a in arts:
+                    yield a.to_event()
+        except Exception:
+            pass
+
+    # 持久化助手回答（多轮记忆：下一轮能记得这次说了什么）
+    if sessions is not None and not blocked and answer_text:
+        try:
+            sessions.append(session_id, "assistant", answer_text, user_id=uid)
+        except Exception:
+            pass
+
+    # 扣减（在 yield done 之后——不中断当前请求；额度变化对下一次请求生效，对齐 D6）
+    if key and quota is not None and not blocked:
+        tokens = max(1, (len(message) + answer_chars) // 2)  # 估算；真实 tokenizer 在 B7
+        await quota.consume(key, tokens, limit=free, freeze_period=freeze)
+
+
+async def collect_answer(events: AsyncIterator[Dict[str, Any]]) -> Dict[str, Any]:
+    """把流式事件聚合成非流式结果（供 POST /v1/chat 回退用）。"""
+    answer_parts = []
+    blocked = False
+    meta: Dict[str, Any] = {}
+    async for ev in events:
+        if ev.get("event") == "delta":
+            answer_parts.append(ev["text"])
+        elif ev.get("event") == "done":
+            blocked = bool(ev.get("blocked"))
+            meta = ev
+    return {
+        "blocked": blocked,
+        "answer": "".join(answer_parts),
+        "tier": meta.get("tier"),
+        "latency_ms": meta.get("latency_ms"),
+        "citations": meta.get("citations", []),
+    }
