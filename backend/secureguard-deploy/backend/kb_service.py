@@ -13,7 +13,7 @@ import os
 from typing import Any, Dict, List, Optional
 
 from secureguard import InMemoryVectorStore, Doc
-from platform_storage.persistent_kb_adapter import PersistentVectorStore
+from .platform_storage.persistent_kb_adapter import PersistentVectorStore
 from secureguard.permissions import (
     User, KnowledgeBase, Visibility, can_access_kb, can_read_kb_content, can_audit_read_kb,
 )
@@ -74,7 +74,7 @@ class KBService:
             "doc_count": 0,
         }
         self._stores[kb_id] = PersistentVectorStore(
-            path=os.path.join(os.getenv("DATA_DIR", "/opt/secureguard-deploy/data"), "kb_vectors.db"),
+            path=os.path.join(os.getenv("DATA_DIR", os.path.join(os.path.dirname(__file__), "..", "data")), "kb_vectors.db"),
             tenant_id="t_default")
         return {"id": kb_id, "name": name.strip(), "type": vis.value, "doc_count": 0}
     def set_visibility(self, caller, kb_id: str, visibility: str) -> bool:
@@ -199,7 +199,7 @@ class KBService:
                 "owner_id": d["owner_id"], "dept_id": d["dept_id"], "doc_count": len(d["docs"]),
             }
             store = PersistentVectorStore(
-                path=os.path.join(os.getenv("DATA_DIR", "/opt/secureguard-deploy/data"), "kb_vectors.db"),
+                path=os.path.join(os.getenv("DATA_DIR", os.path.join(os.path.dirname(__file__), "..", "data")), "kb_vectors.db"),
                 tenant_id="t_default")
             for did, text in d["docs"]:
                 store.add(Doc(did, text, {"kb_id": d["id"], "trust_score": 0.8}))

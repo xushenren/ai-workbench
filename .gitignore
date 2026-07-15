@@ -2,3 +2,10 @@
 *.bak
 data/
 backup_20260622/
+__pycache__/
+*.pyc
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
