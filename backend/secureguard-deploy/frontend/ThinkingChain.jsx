@@ -1,1 +1,155 @@
-LyoqCiAqIFRoaW5raW5nQ2hhaW4uanN4IOKAlCBMMiDliIbmraXmjqjnkIbnmoTlj6/op4bljJbvvIjlr7nlupQgbWVnYXRhc2sgUEFSVCAxMO+8ieOAggogKgogKiDmtojotLkgU3RlcHdpc2VSZWFzb25lci5yZWFzb24oKSDnmoTovpPlh7rvvJoKICogICB7IHN0ZXBzOlt7aWQsbGFiZWwsc3RhdHVzLHF1ZXN0aW9uLGFuc3dlcixmYWxzaWZ5LHZlcmlmaWNhdGlvbixjb25maWRlbmNlLGR1cmF0aW9uX21zfV0sCiAqICAgICBmaW5hbF9hbnN3ZXIsIG92ZXJhbGxfY29uZmlkZW5jZSB9CiAqCiAqIOiuvuiuoeWPluWQke+8muaKiuKAnOaOqOeQhuKAneW9k+S9nOWPr+iiq+WuoemXrueahOi/h+eoi+iAjOmdnum7keeuseOAguavj+S4gOatpemDveaatOmcsiAoMSnlroPlnKjnrZTku4DkuYgKICogKDIp5a6D5Y+v6IO96ZSZ5Zyo5ZOqKOivgeS8qikgKDMp5a6D5pyJ5aSa56Gu5L+h44CC6K+B5Lyq5Yy65Yi75oSP5LiO562U5qGI5ZCM57qn44CB5LiN5oqY5Y+g77yM6K6p4oCc5Y+v6IO96ZSZ5Zyo5ZOq4oCdCiAqIOWSjOetlOahiOS4gOagt+aYvuecvOKAlOKAlOi/meato+aYr+W8leWvvOaooeWei+ivgeS8queahCBVSSDooajovr7jgIIKICoKICog5LuF55SoIFJlYWN0ICsg5YaF6IGU5qC35byP77yM5peg5aSW6YOo5L6d6LWW77yM5pa55L6/5bWM5YWl5Lu75oSP5YmN56uv44CCCiAqLwppbXBvcnQgeyB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKCmNvbnN0IElOSyA9ICIjMTExMzFhIjsKY29uc3QgTVVURUQgPSAiIzZiNzI4MCI7CmNvbnN0IExJTkUgPSAiI2U1ZTdlYiI7CmNvbnN0IEdST1VORCA9ICIjMGY3NjZlIjsgICAvLyDmjqXlnLAv5Y+v5L+hIOKAlOKAlCDmt7HpnZIKY29uc3QgRE9VQlQgPSAiI2I0NTMwOSI7ICAgIC8vIOivgeS8qi/lrZjnlpEg4oCU4oCUIOeQpeePgAoKZnVuY3Rpb24gY29uZkNvbG9yKGMpIHsKICBpZiAoYyA+PSAwLjgpIHJldHVybiBHUk9VTkQ7CiAgaWYgKGMgPj0gMC41KSByZXR1cm4gIiNjYThhMDQiOwogIHJldHVybiBET1VCVDsKfQoKZnVuY3Rpb24gQ29uZmlkZW5jZUJhcih7IHZhbHVlIH0pIHsKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBnYXA6IDggfX0+CiAgICAgIDxkaXYgc3R5bGU9e3sgd2lkdGg6IDk2LCBoZWlnaHQ6IDYsIGJhY2tncm91bmQ6IExJTkUsIGJvcmRlclJhZGl1czogOTkgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgd2lkdGg6IGAke01hdGgucm91bmQodmFsdWUgKiAxMDApfSVgLCBoZWlnaHQ6ICIxMDAlIiwKICAgICAgICAgIGJhY2tncm91bmQ6IGNvbmZDb2xvcih2YWx1ZSksIGJvcmRlclJhZGl1czogOTksIHRyYW5zaXRpb246ICJ3aWR0aCAuNHMgZWFzZSIsCiAgICAgICAgfX0gLz4KICAgICAgPC9kaXY+CiAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAxMiwgY29sb3I6IGNvbmZDb2xvcih2YWx1ZSksIGZvbnRWYXJpYW50TnVtZXJpYzogInRhYnVsYXItbnVtcyIgfX0+CiAgICAgICAge3ZhbHVlLnRvRml4ZWQoMil9CiAgICAgIDwvc3Bhbj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIFN0ZXBDYXJkKHsgc3RlcCwgaW5kZXgsIG9wZW4sIG9uVG9nZ2xlIH0pIHsKICBjb25zdCBkb25lID0gc3RlcC5zdGF0dXMgPT09ICJjb21wbGV0ZWQiOwogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGJvcmRlckxlZnQ6IGAycHggc29saWQgJHtkb25lID8gR1JPVU5EIDogTElORX1gLCBwYWRkaW5nTGVmdDogMTYsIG1hcmdpbkJvdHRvbTogNCB9fT4KICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtvblRvZ2dsZX0gc3R5bGU9e3sKICAgICAgICBhbGw6ICJ1bnNldCIsIGN1cnNvcjogInBvaW50ZXIiLCBkaXNwbGF5OiAiZmxleCIsIHdpZHRoOiAiMTAwJSIsCiAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIsIGdhcDogMTIsIHBhZGRpbmc6ICIxMHB4IDAiLAogICAgICB9fT4KICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgZmxleFNocmluazogMCwgd2lkdGg6IDIyLCBoZWlnaHQ6IDIyLCBib3JkZXJSYWRpdXM6IDYsCiAgICAgICAgICBkaXNwbGF5OiAiZ3JpZCIsIHBsYWNlSXRlbXM6ICJjZW50ZXIiLCBmb250U2l6ZTogMTIsIGZvbnRXZWlnaHQ6IDYwMCwKICAgICAgICAgIGJhY2tncm91bmQ6IGRvbmUgPyBHUk9VTkQgOiAiI2ZmZiIsIGNvbG9yOiBkb25lID8gIiNmZmYiIDogTVVURUQsCiAgICAgICAgICBib3JkZXI6IGAxcHggc29saWQgJHtkb25lID8gR1JPVU5EIDogTElORX1gLAogICAgICAgIH19PntpbmRleCArIDF9PC9zcGFuPgogICAgICAgIDxzcGFuIHN0eWxlPXt7IGZsZXg6IDEsIGZvbnRTaXplOiAxNCwgZm9udFdlaWdodDogNjAwLCBjb2xvcjogSU5LIH19PntzdGVwLmxhYmVsfTwvc3Bhbj4KICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250U2l6ZTogMTEsIGNvbG9yOiBNVVRFRCwgZm9udFZhcmlhbnROdW1lcmljOiAidGFidWxhci1udW1zIiB9fT4KICAgICAgICAgIHtzdGVwLmR1cmF0aW9uX21zfW1zCiAgICAgICAgPC9zcGFuPgogICAgICAgIDxDb25maWRlbmNlQmFyIHZhbHVlPXtzdGVwLmNvbmZpZGVuY2V9IC8+CiAgICAgICAgPHNwYW4gc3R5bGU9e3sgY29sb3I6IE1VVEVELCB0cmFuc2Zvcm06IG9wZW4gPyAicm90YXRlKDkwZGVnKSIgOiAibm9uZSIsIHRyYW5zaXRpb246ICIuMnMiIH19PuKAujwvc3Bhbj4KICAgICAgPC9idXR0b24+CgogICAgICB7b3BlbiAmJiAoCiAgICAgICAgPGRpdiBzdHlsZT17eyBwYWRkaW5nOiAiNHB4IDAgMTZweCIsIGRpc3BsYXk6ICJncmlkIiwgZ2FwOiAxMiB9fT4KICAgICAgICAgIDxGaWVsZCBsYWJlbD0i5a2Q6Zeu6aKYIj57c3RlcC5xdWVzdGlvbn08L0ZpZWxkPgogICAgICAgICAgPEZpZWxkIGxhYmVsPSLnrZTmoYgiPntzdGVwLmFuc3dlcn08L0ZpZWxkPgogICAgICAgICAge3N0ZXAudmVyaWZpY2F0aW9uICYmIDxGaWVsZCBsYWJlbD0i6aqM6K+B5pa55byPIj57c3RlcC52ZXJpZmljYXRpb259PC9GaWVsZD59CiAgICAgICAgICB7Lyog6K+B5Lyq5Yy677ya5LiO562U5qGI5ZCM57qn44CB6buY6K6k5bGV5byA77yM5Yi75oSP6K6p4oCc5Y+v6IO96ZSZ5Zyo5ZOq4oCd6YaS55uuICovfQogICAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgICBiYWNrZ3JvdW5kOiAiI2ZmZmJlYiIsIGJvcmRlcjogYDFweCBzb2xpZCAjZmRlNjhhYCwKICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiA4LCBwYWRkaW5nOiAiMTBweCAxMnB4IiwKICAgICAgICAgIH19PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAxMSwgZm9udFdlaWdodDogNzAwLCBjb2xvcjogRE9VQlQsIGxldHRlclNwYWNpbmc6ICIuMDRlbSIsIG1hcmdpbkJvdHRvbTogNCB9fT4KICAgICAgICAgICAgICDov5nkuKrnrZTmoYjlj6/og73plJnlnKjlk6oKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6IDEzLCBjb2xvcjogIiM3ODM1MGYiLCB3aGl0ZVNwYWNlOiAicHJlLXdyYXAiLCBsaW5lSGVpZ2h0OiAxLjUgfX0+CiAgICAgICAgICAgICAge3N0ZXAuZmFsc2lmeX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIEZpZWxkKHsgbGFiZWwsIGNoaWxkcmVuIH0pIHsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTEsIGZvbnRXZWlnaHQ6IDcwMCwgY29sb3I6IE1VVEVELCBsZXR0ZXJTcGFjaW5nOiAiLjA0ZW0iLCBtYXJnaW5Cb3R0b206IDIgfX0+CiAgICAgICAge2xhYmVsfQogICAgICA8L2Rpdj4KICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogMTMsIGNvbG9yOiBJTkssIHdoaXRlU3BhY2U6ICJwcmUtd3JhcCIsIGxpbmVIZWlnaHQ6IDEuNSB9fT57Y2hpbGRyZW59PC9kaXY+CiAgICA8L2Rpdj4KICApOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBUaGlua2luZ0NoYWluKHsgZGF0YSB9KSB7CiAgY29uc3QgZGVtbyA9IHsKICAgIHN0ZXBzOiBbCiAgICAgIHsKICAgICAgICBpZDogMSwgbGFiZWw6ICLnlYzlrprovpPlhaXkuI7nuqbmnZ8iLCBzdGF0dXM6ICJjb21wbGV0ZWQiLCBkdXJhdGlvbl9tczogMzQwLAogICAgICAgIHF1ZXN0aW9uOiAi6L+Z5Lu95ZCI5ZCM6YeM5ZOq5Lqb5p2h5qy+6Kem5Y+R6L+d57qm6LSj5Lu777yfIiwKICAgICAgICBhbnN3ZXI6ICLor4bliKvlh7ogMyDnsbvop6blj5HmnaHmrL7vvJrkuqTku5jlu7bmnJ/jgIHotKjph4/kuI3ovr7moIfjgIHkv53lr4bms4TpnLIgW2RvY18xXeOAgiIsCiAgICAgICAgdmVyaWZpY2F0aW9uOiAi5Zue6K+75Y6f5paH6YCQ5p2h5qC45a+5IiwgY29uZmlkZW5jZTogMC45LAogICAgICAgIGZhbHNpZnk6ICLlgYforr7igJzlu7bmnJ896L+d57qm4oCd5Y+v6IO96L+H5by64oCU4oCU6Iul5ZCI5ZCM5ZCr5LiN5Y+v5oqX5Yqb5p2h5qy+5YiZ5LiN5oiQ56uL77yb5qOA6aqM77ya5qOA57Si56ysIDEyIOadoeOAgiIsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogMiwgbGFiZWw6ICLmjqjlr7zotZTlgb/orqHnrpflj6PlvoQiLCBzdGF0dXM6ICJjb21wbGV0ZWQiLCBkdXJhdGlvbl9tczogNTIwLAogICAgICAgIHF1ZXN0aW9uOiAi6L+d57qm6YeR5aaC5L2V6K6h566X77yfIiwKICAgICAgICBhbnN3ZXI6ICLmjInmnKrlrozmiJDph5Hpop3nmoQgMC41JS/ml6XvvIzlsIHpobblkIjlkIzmgLvpop0gMjAlIFtkb2NfMl3jgIIiLAogICAgICAgIHZlcmlmaWNhdGlvbjogIuS7o+WFpeaegeerr+WAvO+8iOW7tuacnyA2MCDlpKnvvInpqozor4HlsIHpobbnlJ/mlYgiLCBjb25maWRlbmNlOiAwLjcyLAogICAgICAgIGZhbHNpZnk6ICLlgYforr7lsIHpobbpgILnlKjmiYDmnInov53nuqbnsbvlnovlj6/og73plJnigJTigJTkv53lr4bms4TpnLLmiJbljZXni6zorqHvvJvoi6XplJnvvIzmraPnoa7lj6PlvoTlupTliIbnsbvlnovliIbliKvlsIHpobbjgIIiLAogICAgICB9LAogICAgXSwKICAgIGZpbmFsX2Fuc3dlcjogIuWQiOWQjOS4u+imgemjjumZqembhuS4reWcqOS6pOS7mOW7tuacn+adoeasvu+8jOW7uuiuruihpeWFheS4jeWPr+aKl+WKm+S4juWIhuexu+Wwgemhtue6puWumuOAgiIsCiAgICBvdmVyYWxsX2NvbmZpZGVuY2U6IDAuODEsCiAgfTsKICBjb25zdCBjaGFpbiA9IGRhdGEgfHwgZGVtbzsKICBjb25zdCBbb3Blbiwgc2V0T3Blbl0gPSB1c2VTdGF0ZSgoKSA9PiBuZXcgU2V0KFswXSkpOwogIGNvbnN0IHRvZ2dsZSA9IChpKSA9PiBzZXRPcGVuKChzKSA9PiB7CiAgICBjb25zdCBuID0gbmV3IFNldChzKTsgbi5oYXMoaSkgPyBuLmRlbGV0ZShpKSA6IG4uYWRkKGkpOyByZXR1cm4gbjsKICB9KTsKCiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sKICAgICAgZm9udEZhbWlseTogInVpLXNhbnMtc2VyaWYsIHN5c3RlbS11aSwgLWFwcGxlLXN5c3RlbSwgJ1NlZ29lIFVJJywgUm9ib3RvLCBzYW5zLXNlcmlmIiwKICAgICAgbWF4V2lkdGg6IDcyMCwgbWFyZ2luOiAiMCBhdXRvIiwgcGFkZGluZzogMjAsIGNvbG9yOiBJTkssCiAgICB9fT4KICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJiYXNlbGluZSIsIGp1c3RpZnlDb250ZW50OiAic3BhY2UtYmV0d2VlbiIsIG1hcmdpbkJvdHRvbTogMTYgfX0+CiAgICAgICAgPGgyIHN0eWxlPXt7IGZvbnRTaXplOiAxNiwgZm9udFdlaWdodDogNzAwLCBtYXJnaW46IDAgfX0+5o6o55CG6ZO+PC9oMj4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGdhcDogOCB9fT4KICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAxMiwgY29sb3I6IE1VVEVEIH19PuaVtOS9k+e9ruS/oeW6pjwvc3Bhbj4KICAgICAgICAgIDxDb25maWRlbmNlQmFyIHZhbHVlPXtjaGFpbi5vdmVyYWxsX2NvbmZpZGVuY2V9IC8+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAge2NoYWluLnN0ZXBzLm1hcCgocywgaSkgPT4gKAogICAgICAgIDxTdGVwQ2FyZCBrZXk9e3MuaWR9IHN0ZXA9e3N9IGluZGV4PXtpfSBvcGVuPXtvcGVuLmhhcyhpKX0gb25Ub2dnbGU9eygpID0+IHRvZ2dsZShpKX0gLz4KICAgICAgKSl9CgogICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgbWFyZ2luVG9wOiAxNiwgcGFkZGluZzogIjE0cHggMTZweCIsIGJhY2tncm91bmQ6ICIjZjBmZGZhIiwKICAgICAgICBib3JkZXI6IGAxcHggc29saWQgIzk5ZjZlNGAsIGJvcmRlclJhZGl1czogMTAsCiAgICAgIH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6IDExLCBmb250V2VpZ2h0OiA3MDAsIGNvbG9yOiBHUk9VTkQsIGxldHRlclNwYWNpbmc6ICIuMDRlbSIsIG1hcmdpbkJvdHRvbTogNCB9fT4KICAgICAgICAgIOe7vOWQiOe7k+iuugogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6IDE0LCBjb2xvcjogSU5LLCBsaW5lSGVpZ2h0OiAxLjUgfX0+e2NoYWluLmZpbmFsX2Fuc3dlcn08L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+/**
+ * ThinkingChain.jsx — L2 分步推理的可视化（对应 megatask PART 10）。
+ *
+ * 消费 StepwiseReasoner.reason() 的输出：
+ *   { steps:[{id,label,status,question,answer,falsify,verification,confidence,duration_ms}],
+ *     final_answer, overall_confidence }
+ *
+ * 设计取向：把“推理”当作可被审问的过程而非黑箱。每一步都暴露 (1)它在答什么
+ * (2)它可能错在哪(证伪) (3)它有多确信。证伪区刻意与答案同级、不折叠，让“可能错在哪”
+ * 和答案一样显眼——这正是引导模型证伪的 UI 表达。
+ *
+ * 仅用 React + 内联样式，无外部依赖，方便嵌入任意前端。
+ */
+import { useState } from "react";
+
+const INK = "#11131a";
+const MUTED = "#6b7280";
+const LINE = "#e5e7eb";
+const GROUND = "#0f766e";   // 接地/可信 —— 深青
+const DOUBT = "#b45309";    // 证伪/存疑 —— 琥珀
+
+function confColor(c) {
+  if (c >= 0.8) return GROUND;
+  if (c >= 0.5) return "#ca8a04";
+  return DOUBT;
+}
+
+function ConfidenceBar({ value }) {
+  return (
+    <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+      <div style={{ width: 96, height: 6, background: LINE, borderRadius: 99 }}>
+        <div style={{
+          width: `${Math.round(value * 100)}%`, height: "100%",
+          background: confColor(value), borderRadius: 99, transition: "width .4s ease",
+        }} />
+      </div>
+      <span style={{ fontSize: 12, color: confColor(value), fontVariantNumeric: "tabular-nums" }}>
+        {value.toFixed(2)}
+      </span>
+    </div>
+  );
+}
+
+function StepCard({ step, index, open, onToggle }) {
+  const done = step.status === "completed";
+  return (
+    <div style={{ borderLeft: `2px solid ${done ? GROUND : LINE}`, paddingLeft: 16, marginBottom: 4 }}>
+      <button onClick={onToggle} style={{
+        all: "unset", cursor: "pointer", display: "flex", width: "100%",
+        alignItems: "center", gap: 12, padding: "10px 0",
+      }}>
+        <span style={{
+          flexShrink: 0, width: 22, height: 22, borderRadius: 6,
+          display: "grid", placeItems: "center", fontSize: 12, fontWeight: 600,
+          background: done ? GROUND : "#fff", color: done ? "#fff" : MUTED,
+          border: `1px solid ${done ? GROUND : LINE}`,
+        }}>{index + 1}</span>
+        <span style={{ flex: 1, fontSize: 14, fontWeight: 600, color: INK }}>{step.label}</span>
+        <span style={{ fontSize: 11, color: MUTED, fontVariantNumeric: "tabular-nums" }}>
+          {step.duration_ms}ms
+        </span>
+        <ConfidenceBar value={step.confidence} />
+        <span style={{ color: MUTED, transform: open ? "rotate(90deg)" : "none", transition: ".2s" }}>›</span>
+      </button>
+
+      {open && (
+        <div style={{ padding: "4px 0 16px", display: "grid", gap: 12 }}>
+          <Field label="子问题">{step.question}</Field>
+          <Field label="答案">{step.answer}</Field>
+          {step.verification && <Field label="验证方式">{step.verification}</Field>}
+          {/* 证伪区：与答案同级、默认展开，刻意让“可能错在哪”醒目 */}
+          <div style={{
+            background: "#fffbeb", border: `1px solid #fde68a`,
+            borderRadius: 8, padding: "10px 12px",
+          }}>
+            <div style={{ fontSize: 11, fontWeight: 700, color: DOUBT, letterSpacing: ".04em", marginBottom: 4 }}>
+              这个答案可能错在哪
+            </div>
+            <div style={{ fontSize: 13, color: "#78350f", whiteSpace: "pre-wrap", lineHeight: 1.5 }}>
+              {step.falsify}
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function Field({ label, children }) {
+  return (
+    <div>
+      <div style={{ fontSize: 11, fontWeight: 700, color: MUTED, letterSpacing: ".04em", marginBottom: 2 }}>
+        {label}
+      </div>
+      <div style={{ fontSize: 13, color: INK, whiteSpace: "pre-wrap", lineHeight: 1.5 }}>{children}</div>
+    </div>
+  );
+}
+
+export default function ThinkingChain({ data }) {
+  const demo = {
+    steps: [
+      {
+        id: 1, label: "界定输入与约束", status: "completed", duration_ms: 340,
+        question: "这份合同里哪些条款触发违约责任？",
+        answer: "识别出 3 类触发条款：交付延期、质量不达标、保密泄露 [doc_1]。",
+        verification: "回读原文逐条核对", confidence: 0.9,
+        falsify: "假设“延期=违约”可能过强——若合同含不可抗力条款则不成立；检验：检索第 12 条。",
+      },
+      {
+        id: 2, label: "推导赔偿计算口径", status: "completed", duration_ms: 520,
+        question: "违约金如何计算？",
+        answer: "按未完成金额的 0.5%/日，封顶合同总额 20% [doc_2]。",
+        verification: "代入极端值（延期 60 天）验证封顶生效", confidence: 0.72,
+        falsify: "假设封顶适用所有违约类型可能错——保密泄露或单独计；若错，正确口径应分类型分别封顶。",
+      },
+    ],
+    final_answer: "合同主要风险集中在交付延期条款，建议补充不可抗力与分类封顶约定。",
+    overall_confidence: 0.81,
+  };
+  const chain = data || demo;
+  const [open, setOpen] = useState(() => new Set([0]));
+  const toggle = (i) => setOpen((s) => {
+    const n = new Set(s); n.has(i) ? n.delete(i) : n.add(i); return n;
+  });
+
+  return (
+    <div style={{
+      fontFamily: "ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif",
+      maxWidth: 720, margin: "0 auto", padding: 20, color: INK,
+    }}>
+      <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 16 }}>
+        <h2 style={{ fontSize: 16, fontWeight: 700, margin: 0 }}>推理链</h2>
+        <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+          <span style={{ fontSize: 12, color: MUTED }}>整体置信度</span>
+          <ConfidenceBar value={chain.overall_confidence} />
+        </div>
+      </div>
+
+      {chain.steps.map((s, i) => (
+        <StepCard key={s.id} step={s} index={i} open={open.has(i)} onToggle={() => toggle(i)} />
+      ))}
+
+      <div style={{
+        marginTop: 16, padding: "14px 16px", background: "#f0fdfa",
+        border: `1px solid #99f6e4`, borderRadius: 10,
+      }}>
+        <div style={{ fontSize: 11, fontWeight: 700, color: GROUND, letterSpacing: ".04em", marginBottom: 4 }}>
+          综合结论
+        </div>
+        <div style={{ fontSize: 14, color: INK, lineHeight: 1.5 }}>{chain.final_answer}</div>
+      </div>
+    </div>
+  );
+}

@@ -1,1 +1,161 @@
-IyB3ZWFrLW1vZGVsLXNjYWZmb2xkLm1kIOKAlCDorqnlvLHmqKHlnovlj5jlvpflj6/pnaDnmoTmj5DnpLror43pqqjmnrYKCj4g55uu5qCH5LiN5piv6K6p56yo5qih5Z6L5Y+Y6IGq5piO77yI5YGa5LiN5Yiw77yJ77yM6ICM5pivKirmiorliKTmlq3lipvlpJbljJbmiJDlroPlv4XpobvloavlhpnnmoTnu5PmnoQqKu+8jAo+IOWGjeeUseehruWumuaAp+agoemqjOWZqO+8iGBzZWN1cmVndWFyZC9vdXRwdXRfY29udHJhY3QucHlg77yJ5by65Yi25omn6KGM44CCCj4gKirmqKHlnovmj5Dorq7vvIxnYXRlIOWkhOe9ruOAgioqIOaooeWei+i0n+i0o+WQkOWHuuWPr+acuuajgOeahOe7k+aehO+8jOaKiuWFs+eUseS7o+eggeWBmuOAggo+Cj4g6YOo572y77ya5rOo5YWl5Yiw5bmz5Y+w57O757uf5o+Q56S66K+N5bGC77yI5L2gIHNwZWMgwqcxMSDnmoQgYDxTWVNURU1fSU5TVFJVQ1RJT04+YCDlhoXvvInjgIIKPiDlvLHmqKHlnovorrDkuI3kvY/plb/mjIfku6TigJTigJTmiYDku6Xmr4/mrrXnn63jgIHlj6rlubLkuIDku7bkuovjgIHlhbPplK7op4TliJnpppblsL7lkITmlL7kuIDpgY3jgIIKCi0tLQoKIyMgUDAgwrcg6ISK5p+x77yIYWx3YXlzLW9uIOWktOmDqO+8jOavj+i9ruazqOWFpe+8jOW/hemhu+efre+8iQoKYGBgCuOAkOi+k+WHuuWlkee6piDCtyDlv4XpobvpgbXlrojjgJEK5L2g5b+F6aG75oyJ5Zu65a6a57uT5p6E6L6T5Ye644CC57y65Lu75L2V5LiA5q6177yM57O757uf5Yik5Li65peg5pWI5bm25omT5Zue6YeN5YGa44CCCuaMiemHjeimgeaAp++8jOWbm+adoemTgeW+i++8mgoxLiDkuI3noa7lrprnmoTkuovlrp7kuI3orrjnm7TmjqXmlq3oqIDigJTigJTmr4/mnaHkuovlrp7pmYjov7Dpg73opoHmoIfmnaXmupDvvJpbU13nnIvliLDnmoTotYTmlpkgLyBbTV3miJHnmoTorrDlv4YgLyBbR13miJHlnKjnjJzjgIIKMi4g57y65YWz6ZSu5L+h5oGv5pe25YWI5Yik5patIueMnOmUmeS6huWlveS4jeWlveaUuSLvvJrlpb3mlLnihpLlgYforr7lubbmoIfms6jvvJvkuI3lpb3mlLkv5LiN5Y+v6YCG4oaS5YGc5LiL5p2l6ZeuKEFTSynjgIIKMy4g57uZ562U5qGI5YmN77yM5YWI5oqK6Ieq5qOA6KGo5aGr5a6M77yM5YaN5YaZ562U5qGI44CC5LiN6K646Lez6L+H6Ieq5qOA44CCCjQuIOW/hemhu+WGmeS4gOadoemjjumZqeaIluabtOWlveWBmuazle+8iOehruWunuayoeacieWwseWGmSLml6DvvIzlm6DkuLrigKYi77yJ44CCCuS4jeimgeino+mHiui/meWll+inhOWImeacrOi6q++8jOebtOaOpeaMiee7k+aehOS6p+WHuuOAggpgYGAKCj4g6K6+6K6h77ya5q2j6Z2i56WI5L2/5Y+l77yI5LiN5pivIuWIq+W5u+iniSLogIzmmK8i5qCH5p2l5rqQIu+8ie+8m+WPquaciSA0IOadoe+8jOW8seaooeWei+aJm+W+l+S9j++8mwo+IOacq+WwvuS4jeWGjeWghuinhOWIme+8jOWPqumHjeeUsyLmjInnu5PmnoTkuqflh7oi44CCCgotLS0KCiMjIFAxIMK3IOWFpeWPo+mXqCDCtyDpl67ov5jmmK/lgYforr7vvIjmiooi6K+l5LiN6K+l6ZeuIuWPmOaIkOWPr+WIpOWumueahOWIhuexu++8iQoKYGBgCjxBU1NFU1M+CuWIl+WHuuWbnuetlOacrOmXrumimOaJgOe8uueahOWFs+mUruS/oeaBr++8jOavj+adoeaghyBBU0sg5oiWIEFTU1VNRe+8jOWIpOaNruWPquacieS4gOadoeKAlOKAlArjgIznjJzplJnkuoblpb3kuI3lpb3nuqDmraPjgI3vvJoKICDCtyDnjJzplJnog73kuIDlj6Xor53mlLnlm57mnaXvvIjpu5jorqTmoLzlvI8v5ZG95ZCNL+aOkuW6j++8ieKGkiBBU1NVTUXvvIzlubblhpnlh7rkvaDlgYforr7nmoTlhbfkvZPlgLwKICDCtyDnjJzplJnkvJrlup/mjonmlbTkuKrkuqTku5jvvIzmiJbpgKDmiJDkuI3lj6/pgIblkI7mnpzvvIjnm67moIfmmK/kuI3mmK/nlJ/kuqfnjq/looPvvJ/liKDlk6rlvKDooajvvJ/nu5nosIHku5jmrL7vvJ/vvInihpIgQVNLCuayoeaciee8uuWPo+WwseWGme+8mm5vbmUKPC9BU1NFU1M+CmBgYAoKPiDorr7orqHvvJrlvLHmqKHlnovliKTmlq3kuI3kuoYi6YeN5LiN6YeN6KaBIu+8jOS9huWIpOaWreW+l+S6hiLlpb3kuI3lpb3mlLnlm57mnaUi4oCU4oCU57uZ5a6D5LiA5LiqKirlhbfkvZPnmoTjgIEKPiDkuozpgInkuIDnmoTliKTmja4qKu+8jOiAjOS4jeaYr+aKveixoeeahCLnlKjkvaDnmoTliKTmlq0i44CCCgotLS0KCiMjIFAyIMK3IOWPjeW5u+iniSDCtyDmr4/mnaHkuovlrp7moIfmnaXmupDvvIjmnIDph43opoHvvIzkuJTlj6/ooqvmnLrlmajpgJDmnaHmo4DpqozvvIkKCmBgYAo8Q0xBSU1TPgrmiorkvaDnrZTmoYjph4zmr4/kuIDmnaEi5LqL5a6e5oCn6ZmI6L+wIuWNleeLrOWIl+S4gOihjOW5tuaJk+agh++8mgogIFtTXSDmnaXoh6rmiJHnnIvliLDnmoTotYTmlpnvvIjms6jmmI7mnaXmupDvvIzlpoIgZG9jXzPvvIkKICBbTV0g5p2l6Ieq5oiR55qE6K6w5b+G77yI5Y+v6IO96L+H5pe25oiW6K6w6ZSZ77yJCiAgW0ddIOaIkeWcqOeMnArlh6EgW01dIOaIliBbR13jgIHkuJTov5nmnaHplJnkuobmnInlkI7mnpznmoQg4oCU4oCUIOW/hemhu+aUueWGmeaIkOOAjOmcgOaguOWunu+8muKApuOAjeaIluaYjuaYvumZjeS9juivreawlO+8jArkuI3orrjlvZPmiJDlrprorrrlhpnjgILniYjmnKzlj7cv5Y+C5pWw5qC85byPL+S7t+agvC/mjqXlj6PlrZfmrrXov5nnsbvmnoHmmJPov4fml7bnmoTvvIzpu5jorqTlvZMgW01dIOWkhOeQhuOAggo8L0NMQUlNUz4KYGBgCgo+IOiuvuiuoe+8muW8seaooeWei+WIhuS4jea4hSLmiJHnn6XpgZMi5ZKMIuWQrOedgOWvuSLvvIjov5nkv6nlnKjlroPlhoXpg6jmhJ/op4nkuIDmoLfvvInjgILmiYDku6XkuI3orqnlroPliKTmlq0KPiDnnJ/lgYfvvIzlj6rorqnlroMqKuagh+adpea6kCoq4oCU4oCU5p2l5rqQ5piv5a6D6IO96KeC5a+f5Yiw55qE77yI6LWE5paZ6YeM5pyJIHZzIOiEkeWtkOmHjOaciSB2cyDmsqHmnInvvInjgIIKPiDnhLblkI7nlKjkuIDmnaHnoa7lrprmgKfop4TliJnvvIhbTV0vW0ddK+acieWQjuaenOKGkuW/hemhu+mZjee6p++8ieaKiuW5u+inieaMoeWcqOWumuiuuuS5i+WkluOAggo+ICoq5qCh6aqM5Zmo5Lya6YCQ6KGM5qOA5p+l5pyJ5rKh5pyJ5ryP5qCH44CB5pyJ5rKh5pyJ5pyq6ZmN57qn55qEIFtHXeOAgioqCgotLS0KCiMjIFAzIMK3IOiHquajgOihqO+8iOaKiiLoh6rnnIEi5o2i5oiQ5byx5qih5Z6L562U5b6X5LqG55qE5Zu65a6a5piv6Z2e6aKY77yJCgpgYGAKPFNFTEZDSEVDSz4K6YCQ5p2h5Zue562U77yM5LiN6K646Lez6L+H77yaCjEuIOaIkeaYr+S4jeaYr+S4uuS6hiLog73kuqTlt64i5oqK5LiN56Gu5a6a55qE5b2T56Gu5a6a5LqG77yfKHllcy9ubykKMi4g5pyJ5Yeg5p2hIFtNXS9bR10g55qE5YWz6ZSu57uT6K665oiR5rKh6ZmN57qn5Lmf5rKh5qCHIumcgOaguOWuniLvvJ8o5aGr5pWw5a2XKQozLiDmiJHmnInmsqHmnInmiooi55yL552A5a+5IuW9k+aIkCLlt7Lpqozor4Ei77yfKHllcy9ubykKNC4g6L+Z5Liq562U5qGI6KaB5piv6ZSZ77yM5pyA5Y+v6IO96ZSZ5Zyo5ZOq5LiA5q2l77yfKOS4gOWPpeivnSkKNS4g572u5L+h5bqmIDAtMTDvvIzlubblhpnlh7rmiaPliIbngrnjgIIKPC9TRUxGQ0hFQ0s+CmBgYAoKPiDorr7orqHvvJrlvLHmqKHlnovlgZrkuI3liLDlvIDmlL7lvI/oh6rnnIHvvIgi55WZ5oSP5L2g5piv5ZCm5Zyo5ZCI55CG5YyWIu+8ie+8jOS9huetlOW+l+S6hioq5bCB6Zet5byP6Zeu6aKYKirjgIIKPiDmiormiJHpgqPmnaEicmVmcmFtZT3mi5Lnu53kv6Hlj7ci57+76K+R5oiQ5a6D6IO95aGr55qE5YW35L2T6aKY55uu44CC56ysIDIg6aKY55qE5pWw5a2X44CB56ysIDUg6aKY55qE5YiG5pWwCj4g6YO95pivKirlj6/ooqvmoKHpqozlmajor7vlj5blubbmja7ku6XmlL7ooYwv5omT5Zue55qE57uT5p6E5YyW5L+h5Y+3KirjgIIKCi0tLQoKIyMgUDQgwrcg5byC6K6u5qe977yI5oqKIuW7uuiuvuaAp+WPjeWvuSLlj5jmiJDlv4XloavlrZfmrrXvvIzogIzpnZ7liKTmlq3vvIkKCmBgYAo8T0JKRUNUSU9OUz4K6Iez5bCR5YaZ5LiA5p2h77ya55So5oi35Y+v6IO95rKh5oOz5Yiw44CB5L2G5Lya5b2x5ZON57uT5p6c55qE6aOO6Zmp77yM5oiW5LiA5Liq5pu05aW955qE5YGa5rOV44CCCu+8iOS+i++8mueUqOaIt+ivtCLlhpnnmbvlvZXpobUi77yM5L2g5o+Q56S6IuayoeaPkOWvhueggeWKoOWvhi/kvJror53nrqHnkIbvvIzmiJHmjInpu5jorqTliqDkuIrkuoYi44CC77yJCuehruWunuayoeacieWwseWGme+8muaXoO+8jOWboOS4uuW3suimhuebliBYIC8gWSAvIFrjgIIKPC9PQkpFQ1RJT05TPgpgYGAKCj4g6K6+6K6h77ya5byx5qih5Z6L6buY6K6k6aG65LuO44CB5LiN5Y+N5a+544CC5oqK5Y+N5a+55YGa5oiQKirlv4XpobvloavnmoTmoLzlrZAqKu+8iOepuuedgOWwsei/nee6pu+8ie+8jAo+IOWug+WwseS7jiLliKTmlq3opoHkuI3opoHlj43lr7ki5Y+Y5oiQIuWhq+i/meS4quagvOWtkCLjgIIKCi0tLQoKIyMgUDUgwrcg5YWI6K+B5Lyq77yI5LuF5b2T5qih5Z6L5Zyo5LiL5Zug5p6cL+iviuaWreWIpOaWreaXtuW/heWhq++8iQoKYGBgCjxGQUxTSUZZPiAg77yI5Y+q5pyJ5b2T5L2g5Zyo6K+0IuWboOS4uljmiYDku6VZIC8g6L+Z5LiqYnVn5piv5Zug5Li64oCmIuaXtuaJjeW/heWhq++8iQotIOi/meS4quWIpOaWreiLpeaYr+mUmeeahO+8jOacgOWPr+iDveaYr+WboOS4uu+8mu+8iOWIlyAxLTIg5Liq6IO95o6o57+75a6D55qE5oOF5Ya177yJCi0g6aqM6K+B5pa55rOV77ya77yI5LiA5Liq6IO96K+B5Lyq5a6D55qE5pyA5bCP5qOA5p+l77yJCjwvRkFMU0lGWT4KYGBgCgo+IOiuvuiuoe+8muWvueW6lCBTdGVwd2lzZVJlYXNvbmVyIOeahCLlhYjor4HkvKrlho3nu5nnva7kv6HluqYi44CC5by66L+r5byx5qih5Z6L5YWI5om+IuaIkeWPr+iDveaAjuS5iOmUmSIsCj4g6ICM5LiN5piv5Y+q5aCG5pSv5oyB6Ieq5bex57uT6K6655qE55CG55Sx44CCCgotLS0KCiMjIFAtUkVUUlkgwrcg5omT5Zue6YeN5YGa77yI5qCh6aqM5Zmo5ouS57ud5pe255So77yM5Y+q6KGl57y65Y+j77yM55yBIHRva2Vu77yJCgpgYGAK5L2g5LiK5LiA5qyh6L6T5Ye65LiN5ZCI5qC877yae3JlYXNvbnN944CCCuWPquihpem9kOe8uuWksS/kuI3lkIjop4TnmoTpg6jliIbvvIzmjInnm7jlkIznu5PmnoTph43lj5HvvIzkuI3opoHlpI3ov7Dlt7Lnu4/lr7nnmoTlhoXlrrnjgIIK54m55Yir5rOo5oSP77yae2ZvY3VzfQpgYGAKCi0tLQoKIyMg57uE6KOF5ZCO55qE5a6M5pW06L6T5Ye65aWR57qm77yI5byx5qih5Z6L5q+P5qyh54Wn5q2k5Lqn5Ye677yJCgpgYGAKPEFTU0VTUz4g4oCmIDwvQVNTRVNTPgo8Q0xBSU1TPiDigKYgPC9DTEFJTVM+CjxGQUxTSUZZPiDigKYgPC9GQUxTSUZZPiAgICAgIO+8iOmdnuWboOaenOWIpOaWreWPr+WGmSBOL0HvvIkKPE9CSkVDVElPTlM+IOKApiA8L09CSkVDVElPTlM+CjxTRUxGQ0hFQ0s+IOKApiA8L1NFTEZDSEVDSz4KPEFOU1dFUj4K77yI55yf5q2j57uZ55So5oi355qE562U5qGI44CC5YmN6Z2i5Yeg5q615piv57uZ57O757uf5qCh6aqM55qE77yM5Y+v5oyJ6ZyA5LiN5bGV56S657uZ57uI56uv55So5oi377yMCiDmiJbmipjlj6Dov5si5oCd6ICD6L+H56iLIumdouadv+KAlOKAlOato+WlveaOpeS9oOeahCB0cmFjZSDlj4zovajjgILvvIkKPC9BTlNXRVI+CmBgYAoKLS0tCgojIyDkuLrku4DkuYjov5nlpZflr7ki5byx5qih5Z6LIueJueWIq+acieaViO+8iOiAjOS4jeS7heaYr+mAmueUqCBwcm9tcHQg5oqA5ben77yJCgoxLiAqKuS4jeS+nei1luaooeWei+acieWIpOaWreWKm++8jOWPquS+nei1luWug+S8muWhq+epuuOAgioqIOavj+S4gOautemDveaKiiLliKTmlq0i6ZmN57u05oiQIuWIhuexuy/moIfms6gv562U5piv6Z2e6aKYIu+8jAogICDov5nkupvlvLHmqKHlnovlgZrlvpfliLDjgIIKMi4gKirnnJ/mraPnmoTlvLrliLblnKjku6PnoIHkvqfvvIzkuI3lnKjmqKHlnovkvqfjgIIqKiDlvLHmqKHlnovkuIDlrprkvJrlgbblsJTkuI3lrojmoLzlvI/igJTigJTmiYDku6UKICAgYG91dHB1dF9jb250cmFjdC5weWAgKipmYWlsLWNsb3NlZCoq77ya6Kej5p6Q5LiN5Ye65b+F5aGr5q6144CB5oiW5pyJ5pyq6ZmN57qn55qEIFtHXeOAgeaIluiHquajgOihqAogICDmiqXkuobmnKrmoIfms6jmlq3oqIAg4oaSIOebtOaOpeWIpCBCTE9DS++8jOeUqCBQLVJFVFJZIOaJk+WbnumHjeWBmu+8jOiAjCoq5LiN5piv5pS+5a6D6L+H5Y67KirjgIIKICAg6L+Z5bCx5pivIuW8seaooeWei+S5n+iDveWPr+mdoCLnmoTnnJ/mraPljp/lm6DvvJrlj6/pnaDmgKfmnaXoh6rpgqPpgZPlhbPvvIzkuI3mnaXoh6rmqKHlnovoh6rop4njgIIKMy4gKirnu5PmnoTljJbovpPlh7rog73lloLlm57kvaDlt7LmnInnmoTlsYIqKu+8mmA8QVNTRVNTPmAg55qEIEFTSyDihpIg6LWw5L2g55qEIGdhdGUgQVNLIOaaguWBnO+8mwogICBgPENMQUlNUz5gIOeahOadpea6kCDihpIg5o6lIFJldHJpZXZhbEd1YXJkIOWBmuW8leeUqOaguOWvue+8m2A8U0VMRkNIRUNLPmAg55qE572u5L+h5bqmIOKGkgogICDkvY7kuo7pmIjlgLzlsLHot6/nlLHliLAgUkFHIOS6jOasoeaguOWunuaIluS6uuW3pe+8m+aVtOS7vee7k+aehCDihpIg6L+bIHRyYWNlIOWPjOi9qCArIOWuoeiuoeWTiOW4jOmTvuOAggoKIyMg6K+a5a6e55qE6L6555WMCgotIOi/meWllyoq5oqs6auY5LiL6ZmQ44CB5LiN5oqs6auY5LiK6ZmQKirjgILmqKHlnovmnKzmnaXkuI3kvJrlgZrnmoTpmr7popjvvIzlroPkvp3nhLbkuI3kvJrigJTigJTkvYbljLrliKvmmK/vvJoKICDku6XliY3mmK8i6Ieq5L+h5Zyw57uZ5L2g5LiA5Liq6ZSZ562U5qGIIiznjrDlnKjmmK/ooqvpgLznnYDovpPlh7oiW0ddL+S9jue9ruS/oeW6pi/pnIDmoLjlrp4iLAogICoq6ZSZ6K+v5LuO6ZqQ5b2i5Y+Y5b6X5Y+v6KeB44CB5Y+v5oum5oiqKirjgILlr7nkuIDkuKrnlJ/kuqfns7vnu5/vvIzmiorplJnor6/lj5jlj6/op4HvvIzlvoDlvoDmr5TmiormqKHlnovmjaLlvLrmm7TlgLzpkrHjgIIKLSAqKuS7o+S7t+aYryB0b2tlbiDlkozlu7bov58qKu+8muavj+asoeWkmuS6p+WHuuS6lOautee7k+aehOOAguWvuemrmOmikeeugOWNleiwg+eUqO+8jOWPr+WPquaMgiBQMCtQMu+8iOadpea6kOagh+azqO+8iQogIOi/meS4pOauteacgOW7ieS7t+OAgeaUtuebiuacgOmrmOeahO+8m+Wkjeadgi/mnInlkI7mnpznmoTku7vliqHmiY3kuIrlhajlpZfjgIIKLSAqKuW8seaooeWei+WPr+iDvei/nue7k+aehOmDveWhq+S4jeWvuSoq44CC5omA5Lul5qCh6aqM5Zmo5b+F6aG75a656ZSZ6Kej5p6Q77yI5aSn5bCP5YaZ44CB56m65qC85peg5omA6LCT77yJ5L2GKirkuKXmoLzliKTlrpoqKgogIO+8iOe8uuW/heWhq+autT3kuI3lkIjmoLzvvInjgILlroHlj6/lpJrmiZPlm57kuIDmrKHvvIzkuZ/kuI3mlL7kuIDku73msqHoh6rmo4DnmoTovpPlh7rov4fljrvjgIIK
+# weak-model-scaffold.md — 让弱模型变得可靠的提示词骨架
+
+> 目标不是让笨模型变聪明（做不到），而是**把判断力外化成它必须填写的结构**，
+> 再由确定性校验器（`secureguard/output_contract.py`）强制执行。
+> **模型提议，gate 处置。** 模型负责吐出可机检的结构，把关由代码做。
+>
+> 部署：注入到平台系统提示词层（你 spec §11 的 `<SYSTEM_INSTRUCTION>` 内）。
+> 弱模型记不住长指令——所以每段短、只干一件事、关键规则首尾各放一遍。
+
+---
+
+## P0 · 脊柱（always-on 头部，每轮注入，必须短）
+
+```
+【输出契约 · 必须遵守】
+你必须按固定结构输出。缺任何一段，系统判为无效并打回重做。
+按重要性，四条铁律：
+1. 不确定的事实不许直接断言——每条事实陈述都要标来源：[S]看到的资料 / [M]我的记忆 / [G]我在猜。
+2. 缺关键信息时先判断"猜错了好不好改"：好改→假设并标注；不好改/不可逆→停下来问(ASK)。
+3. 给答案前，先把自检表填完，再写答案。不许跳过自检。
+4. 必须写一条风险或更好做法（确实没有就写"无，因为…"）。
+不要解释这套规则本身，直接按结构产出。
+```
+
+> 设计：正面祈使句（不是"别幻觉"而是"标来源"）；只有 4 条，弱模型扛得住；
+> 末尾不再堆规则，只重申"按结构产出"。
+
+---
+
+## P1 · 入口门 · 问还是假设（把"该不该问"变成可判定的分类）
+
+```
+<ASSESS>
+列出回答本问题所缺的关键信息，每条标 ASK 或 ASSUME，判据只有一条——
+「猜错了好不好纠正」：
+  · 猜错能一句话改回来（默认格式/命名/排序）→ ASSUME，并写出你假设的具体值
+  · 猜错会废掉整个交付，或造成不可逆后果（目标是不是生产环境？删哪张表？给谁付款？）→ ASK
+没有缺口就写：none
+</ASSESS>
+```
+
+> 设计：弱模型判断不了"重不重要"，但判断得了"好不好改回来"——给它一个**具体的、
+> 二选一的判据**，而不是抽象的"用你的判断"。
+
+---
+
+## P2 · 反幻觉 · 每条事实标来源（最重要，且可被机器逐条检验）
+
+```
+<CLAIMS>
+把你答案里每一条"事实性陈述"单独列一行并打标：
+  [S] 来自我看到的资料（注明来源，如 doc_3）
+  [M] 来自我的记忆（可能过时或记错）
+  [G] 我在猜
+凡 [M] 或 [G]、且这条错了有后果的 —— 必须改写成「需核实：…」或明显降低语气，
+不许当成定论写。版本号/参数格式/价格/接口字段这类极易过时的，默认当 [M] 处理。
+</CLAIMS>
+```
+
+> 设计：弱模型分不清"我知道"和"听着对"（这俩在它内部感觉一样）。所以不让它判断
+> 真假，只让它**标来源**——来源是它能观察到的（资料里有 vs 脑子里有 vs 没有）。
+> 然后用一条确定性规则（[M]/[G]+有后果→必须降级）把幻觉挡在定论之外。
+> **校验器会逐行检查有没有漏标、有没有未降级的 [G]。**
+
+---
+
+## P3 · 自检表（把"自省"换成弱模型答得了的固定是非题）
+
+```
+<SELFCHECK>
+逐条回答，不许跳过：
+1. 我是不是为了"能交差"把不确定的当确定了？(yes/no)
+2. 有几条 [M]/[G] 的关键结论我没降级也没标"需核实"？(填数字)
+3. 我有没有把"看着对"当成"已验证"？(yes/no)
+4. 这个答案要是错，最可能错在哪一步？(一句话)
+5. 置信度 0-10，并写出扣分点。
+</SELFCHECK>
+```
+
+> 设计：弱模型做不到开放式自省（"留意你是否在合理化"），但答得了**封闭式问题**。
+> 把我那条"reframe=拒绝信号"翻译成它能填的具体题目。第 2 题的数字、第 5 题的分数
+> 都是**可被校验器读取并据以放行/打回的结构化信号**。
+
+---
+
+## P4 · 异议槽（把"建设性反对"变成必填字段，而非判断）
+
+```
+<OBJECTIONS>
+至少写一条：用户可能没想到、但会影响结果的风险，或一个更好的做法。
+（例：用户说"写登录页"，你提示"没提密码加密/会话管理，我按默认加上了"。）
+确实没有就写：无，因为已覆盖 X / Y / Z。
+</OBJECTIONS>
+```
+
+> 设计：弱模型默认顺从、不反对。把反对做成**必须填的格子**（空着就违约），
+> 它就从"判断要不要反对"变成"填这个格子"。
+
+---
+
+## P5 · 先证伪（仅当模型在下因果/诊断判断时必填）
+
+```
+<FALSIFY>  （只有当你在说"因为X所以Y / 这个bug是因为…"时才必填）
+- 这个判断若是错的，最可能是因为：（列 1-2 个能推翻它的情况）
+- 验证方法：（一个能证伪它的最小检查）
+</FALSIFY>
+```
+
+> 设计：对应 StepwiseReasoner 的"先证伪再给置信度"。强迫弱模型先找"我可能怎么错",
+> 而不是只堆支持自己结论的理由。
+
+---
+
+## P-RETRY · 打回重做（校验器拒绝时用，只补缺口，省 token）
+
+```
+你上一次输出不合格：{reasons}。
+只补齐缺失/不合规的部分，按相同结构重发，不要复述已经对的内容。
+特别注意：{focus}
+```
+
+---
+
+## 组装后的完整输出契约（弱模型每次照此产出）
+
+```
+<ASSESS> … </ASSESS>
+<CLAIMS> … </CLAIMS>
+<FALSIFY> … </FALSIFY>      （非因果判断可写 N/A）
+<OBJECTIONS> … </OBJECTIONS>
+<SELFCHECK> … </SELFCHECK>
+<ANSWER>
+（真正给用户的答案。前面几段是给系统校验的，可按需不展示给终端用户，
+ 或折叠进"思考过程"面板——正好接你的 trace 双轨。）
+</ANSWER>
+```
+
+---
+
+## 为什么这套对"弱模型"特别有效（而不仅是通用 prompt 技巧）
+
+1. **不依赖模型有判断力，只依赖它会填空。** 每一段都把"判断"降维成"分类/标注/答是非题"，
+   这些弱模型做得到。
+2. **真正的强制在代码侧，不在模型侧。** 弱模型一定会偶尔不守格式——所以
+   `output_contract.py` **fail-closed**：解析不出必填段、或有未降级的 [G]、或自检表
+   报了未标注断言 → 直接判 BLOCK，用 P-RETRY 打回重做，而**不是放它过去**。
+   这就是"弱模型也能可靠"的真正原因：可靠性来自那道关，不来自模型自觉。
+3. **结构化输出能喂回你已有的层**：`<ASSESS>` 的 ASK → 走你的 gate ASK 暂停；
+   `<CLAIMS>` 的来源 → 接 RetrievalGuard 做引用核对；`<SELFCHECK>` 的置信度 →
+   低于阈值就路由到 RAG 二次核实或人工；整份结构 → 进 trace 双轨 + 审计哈希链。
+
+## 诚实的边界
+
+- 这套**抬高下限、不抬高上限**。模型本来不会做的难题，它依然不会——但区别是：
+  以前是"自信地给你一个错答案",现在是被逼着输出"[G]/低置信度/需核实",
+  **错误从隐形变得可见、可拦截**。对一个生产系统，把错误变可见，往往比把模型换强更值钱。
+- **代价是 token 和延迟**：每次多产出五段结构。对高频简单调用，可只挂 P0+P2（来源标注）
+  这两段最廉价、收益最高的；复杂/有后果的任务才上全套。
+- **弱模型可能连结构都填不对**。所以校验器必须容错解析（大小写、空格无所谓）但**严格判定**
+  （缺必填段=不合格）。宁可多打回一次，也不放一份没自检的输出过去。

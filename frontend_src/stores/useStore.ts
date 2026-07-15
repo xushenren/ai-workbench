@@ -1,1 +1,235 @@
-aW1wb3J0IHsgY3JlYXRlIH0gZnJvbSAienVzdGFuZCI7CmltcG9ydCB0eXBlIHsgQWdlbnQsIE1lc3NhZ2UsIFB1YmxpY1RyYWNlRnJhbWUsIEFydGlmYWN0LCBNb2RlbEluZm8gfSBmcm9tICJAL3R5cGVzIjsKaW1wb3J0IHsgdWlkIH0gZnJvbSAiQC9saWIvdXRpbHMiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwppbXBvcnQgeyBzdHJlYW1DaGF0IH0gZnJvbSAiQC9saWIvd3MiOwoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PSBDaGF0ID09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KaW50ZXJmYWNlIENoYXRTdGF0ZSB7CiAgbWVzc2FnZXM6IE1lc3NhZ2VbXTsKICBhY3RpdmVTZXNzaW9uSWQ6IHN0cmluZzsKICBzZWxlY3RlZEFnZW50SWQ6IHN0cmluZzsKICB0aGlua2luZ1N0ZXBzOiBQdWJsaWNUcmFjZUZyYW1lW107CiAgYXJ0aWZhY3RzOiBBcnRpZmFjdFtdOwogIGlzU3RyZWFtaW5nOiBib29sZWFuOwogIHF1b3RhUmVtYWluaW5nOiBudW1iZXI7CiAgbGFzdFRpZXI6IHN0cmluZyB8IG51bGw7CiAgbGFzdFRva2VuczogbnVtYmVyOwogIG1vZGVsczogTW9kZWxJbmZvW107CiAgc2VsZWN0ZWRNb2RlbElkOiBzdHJpbmc7CiAgc2V0TW9kZWw6IChpZDogc3RyaW5nKSA9PiB2b2lkOwogIGxvYWRNb2RlbHM6ICgpID0+IFByb21pc2U8dm9pZD47CgogIHNlbGVjdEFnZW50OiAoaWQ6IHN0cmluZykgPT4gdm9pZDsKICBhZGRNZXNzYWdlOiAocm9sZTogTWVzc2FnZVsicm9sZSJdLCBjb250ZW50OiBzdHJpbmcpID0+IHN0cmluZzsKICBhcHBlbmRUb0Fzc2lzdGFudDogKGlkOiBzdHJpbmcsIGNodW5rOiBzdHJpbmcpID0+IHZvaWQ7CiAgYWRkVGhpbmtpbmdTdGVwOiAoZnJhbWU6IFB1YmxpY1RyYWNlRnJhbWUpID0+IHZvaWQ7CiAgYWRkQXJ0aWZhY3Q6IChhOiBBcnRpZmFjdCkgPT4gdm9pZDsKICBjbGVhclRoaW5raW5nOiAoKSA9PiB2b2lkOwogIHNlbmRNZXNzYWdlOiAodGV4dDogc3RyaW5nKSA9PiB2b2lkOwogIG5ld1Nlc3Npb246ICgpID0+IHZvaWQ7Cn0KCmV4cG9ydCBjb25zdCB1c2VDaGF0U3RvcmUgPSBjcmVhdGU8Q2hhdFN0YXRlPigoc2V0LCBnZXQpID0+ICh7CiAgbWVzc2FnZXM6IFsKICAgIHsgaWQ6IHVpZCgibV8iKSwgcm9sZTogImFzc2lzdGFudCIsIGNvbnRlbnQ6ICLkvaDlpb3vvIzmiJHmmK/kvIHkuJogQUkg5bel5L2c5Y+w44CC6YCJ5oup5LiK5pa555qE5pm66IO95L2T5ZCO5byA5aeL5a+56K+d4oCU4oCU5Y+z5L6n5Lya5a6e5pe25pi+56S65oiR55qE5oCd6ICD6L+H56iL44CCIiB9LAogIF0sCiAgYWN0aXZlU2Vzc2lvbklkOiB1aWQoInNfIiksCiAgc2VsZWN0ZWRBZ2VudElkOiAiZ2VuZXJhbCIsCiAgdGhpbmtpbmdTdGVwczogW10sCiAgYXJ0aWZhY3RzOiBbXSwKICBpc1N0cmVhbWluZzogZmFsc2UsCiAgcXVvdGFSZW1haW5pbmc6IDE4MjQ3LAogIGxhc3RUaWVyOiBudWxsLAogIGxhc3RUb2tlbnM6IDAsCiAgbW9kZWxzOiBbXSwKICBzZWxlY3RlZE1vZGVsSWQ6ICJidWlsdGluIiwKCiAgc2VsZWN0QWdlbnQ6IChpZCkgPT4gc2V0KHsgc2VsZWN0ZWRBZ2VudElkOiBpZCB9KSwKICBzZXRNb2RlbDogKGlkKSA9PiBzZXQoeyBzZWxlY3RlZE1vZGVsSWQ6IGlkIH0pLAogIGxvYWRNb2RlbHM6IGFzeW5jICgpID0+IHsKICAgIHRyeSB7IGNvbnN0IG0gPSBhd2FpdCBhcGkubW9kZWxzKCk7IHNldCh7IG1vZGVsczogQXJyYXkuaXNBcnJheShtKSA/IG0gOiBbXSB9KTsgfQogICAgY2F0Y2ggeyAvKiDnlZnnqbos6YCJ5oup5Zmo5Lya5o+Q56S65peg5Y+v55So5qih5Z6LICovIH0KICB9LAoKICBhZGRNZXNzYWdlOiAocm9sZSwgY29udGVudCkgPT4gewogICAgY29uc3QgaWQgPSB1aWQoIm1fIik7CiAgICBzZXQoKHMpID0+ICh7IG1lc3NhZ2VzOiBbLi4ucy5tZXNzYWdlcywgeyBpZCwgcm9sZSwgY29udGVudCwgc3RyZWFtaW5nOiByb2xlID09PSAiYXNzaXN0YW50IiB9XSB9KSk7CiAgICByZXR1cm4gaWQ7CiAgfSwKCiAgYXBwZW5kVG9Bc3Npc3RhbnQ6IChpZCwgY2h1bmspID0+CiAgICBzZXQoKHMpID0+ICh7CiAgICAgIG1lc3NhZ2VzOiBzLm1lc3NhZ2VzLm1hcCgobSkgPT4gKG0uaWQgPT09IGlkID8geyAuLi5tLCBjb250ZW50OiBtLmNvbnRlbnQgKyBjaHVuayB9IDogbSkpLAogICAgfSkpLAoKICBhZGRUaGlua2luZ1N0ZXA6IChmcmFtZSkgPT4KICAgIHNldCgocykgPT4gewogICAgICAvLyDluKYgc3RlcCDnmoTmgJ3ogIPluKfvvJrlkIzkuIDmraXljp/lnLDmm7TmlrDvvIgi6L+b6KGM5LitIuKGkiLlrozmiJAi5aGr5YWl5YaF5a6577yJ77yM5LiN6L+95Yqg5paw6KGMCiAgICAgIGlmIChmcmFtZS5zdGVwKSB7CiAgICAgICAgY29uc3QgaWR4ID0gcy50aGlua2luZ1N0ZXBzLmZpbmRJbmRleCgoZikgPT4gZi5zdGVwID09PSBmcmFtZS5zdGVwKTsKICAgICAgICBpZiAoaWR4ID49IDApIHsKICAgICAgICAgIGNvbnN0IG5leHQgPSBzLnRoaW5raW5nU3RlcHMuc2xpY2UoKTsKICAgICAgICAgIG5leHRbaWR4XSA9IGZyYW1lOwogICAgICAgICAgcmV0dXJuIHsgdGhpbmtpbmdTdGVwczogbmV4dCB9OwogICAgICAgIH0KICAgICAgICByZXR1cm4geyB0aGlua2luZ1N0ZXBzOiBbLi4ucy50aGlua2luZ1N0ZXBzLCBmcmFtZV0gfTsKICAgICAgfQogICAgICAvLyDml6Agc3RlcCDnmoTluKfvvIjlronlhagv5bel5YW3L+Wuoeiuoe+8ie+8muaKiuS5i+WJjeS7jSBydW5uaW5nIOS4lOaXoCBzdGVwIOeahOe7k+eul+S4uiBkb25l77yM5YaN6L+95YqgCiAgICAgIHJldHVybiB7CiAgICAgICAgdGhpbmtpbmdTdGVwczogWwogICAgICAgICAgLi4ucy50aGlua2luZ1N0ZXBzLm1hcCgoZikgPT4KICAgICAgICAgICAgZi5zdGF0dXMgPT09ICJydW5uaW5nIiAmJiAhZi5zdGVwID8geyAuLi5mLCBzdGF0dXM6ICJkb25lIiBhcyBjb25zdCB9IDogZiksCiAgICAgICAgICBmcmFtZSwKICAgICAgICBdLAogICAgICB9OwogICAgfSksCiAgY2xlYXJUaGlua2luZzogKCkgPT4gc2V0KHsgdGhpbmtpbmdTdGVwczogW10gfSksCgogIGFkZEFydGlmYWN0OiAoYSkgPT4KICAgIHNldCgocykgPT4gKHsKICAgICAgLy8g5ZCM5ZCNIGFydGlmYWN0IOimhueblu+8jOWQpuWImei/veWKoAogICAgICBhcnRpZmFjdHM6IHMuYXJ0aWZhY3RzLnNvbWUoKHgpID0+IHguZmlsZW5hbWUgPT09IGEuZmlsZW5hbWUpCiAgICAgICAgPyBzLmFydGlmYWN0cy5tYXAoKHgpID0+ICh4LmZpbGVuYW1lID09PSBhLmZpbGVuYW1lID8gYSA6IHgpKQogICAgICAgIDogWy4uLnMuYXJ0aWZhY3RzLCBhXSwKICAgIH0pKSwKCiAgc2VuZE1lc3NhZ2U6ICh0ZXh0KSA9PiB7CiAgICBjb25zdCB7IHNlbGVjdGVkQWdlbnRJZCwgYWN0aXZlU2Vzc2lvbklkLCBzZWxlY3RlZE1vZGVsSWQgfSA9IGdldCgpOwogICAgZ2V0KCkuYWRkTWVzc2FnZSgidXNlciIsIHRleHQpOwogICAgZ2V0KCkuY2xlYXJUaGlua2luZygpOwogICAgc2V0KHsgYXJ0aWZhY3RzOiBbXSB9KTsgIC8vIOaWsOS4gOi9rua4heepuuW3peS9nOWMugogICAgY29uc3QgYXNzaXN0YW50SWQgPSBnZXQoKS5hZGRNZXNzYWdlKCJhc3Npc3RhbnQiLCAiIik7CiAgICBzZXQoeyBpc1N0cmVhbWluZzogdHJ1ZSB9KTsKCiAgICBzdHJlYW1DaGF0KAogICAgICB7IG1lc3NhZ2U6IHRleHQsIGFnZW50X2lkOiBzZWxlY3RlZEFnZW50SWQsIHNlc3Npb25faWQ6IGFjdGl2ZVNlc3Npb25JZCwgbW9kZWw6IHNlbGVjdGVkTW9kZWxJZCB9LAogICAgICB7CiAgICAgICAgb25UcmFjZTogKGZyYW1lKSA9PiBnZXQoKS5hZGRUaGlua2luZ1N0ZXAoZnJhbWUpLAogICAgICAgIG9uRGVsdGE6IChjaHVuaykgPT4gZ2V0KCkuYXBwZW5kVG9Bc3Npc3RhbnQoYXNzaXN0YW50SWQsIGNodW5rKSwKICAgICAgICBvbkFydGlmYWN0OiAoYSkgPT4gZ2V0KCkuYWRkQXJ0aWZhY3QoewogICAgICAgICAgZmlsZW5hbWU6IGEuZmlsZW5hbWUsIGxhbmd1YWdlOiBhLmxhbmd1YWdlLCBjb250ZW50OiBhLmNvbnRlbnQsCiAgICAgICAgICBpY29uOiBhLmljb24sIHJ1bm5hYmxlOiBhLnJ1bm5hYmxlLAogICAgICAgIH0pLAogICAgICAgIG9uRG9uZTogKHRpZXIsIHRva2VucywgbWV0YSkgPT4KICAgICAgICAgIHNldCgocykgPT4gKHsKICAgICAgICAgICAgaXNTdHJlYW1pbmc6IGZhbHNlLAogICAgICAgICAgICBsYXN0VGllcjogdGllciA/PyBzLmxhc3RUaWVyLAogICAgICAgICAgICBsYXN0VG9rZW5zOiB0eXBlb2YgdG9rZW5zID09PSAibnVtYmVyIiA/IHRva2VucyA6IHMubGFzdFRva2VucywKICAgICAgICAgICAgdGhpbmtpbmdTdGVwczogcy50aGlua2luZ1N0ZXBzLm1hcCgoZikgPT4KICAgICAgICAgICAgICBmLnN0YXR1cyA9PT0gInJ1bm5pbmciID8geyAuLi5mLCBzdGF0dXM6ICJkb25lIiBhcyBjb25zdCB9IDogZiksCiAgICAgICAgICAgIG1lc3NhZ2VzOiBzLm1lc3NhZ2VzLm1hcCgobSkgPT4gKG0uaWQgPT09IGFzc2lzdGFudElkID8geyAuLi5tLCBzdHJlYW1pbmc6IGZhbHNlLCBtZXRhLCB0b2tlbnMgfSA6IG0pKSwKICAgICAgICAgIH0pKSwKICAgICAgICBvbkVycm9yOiAoKSA9PiBydW5PZmZsaW5lRGVtbyh0ZXh0LCBhc3Npc3RhbnRJZCksCiAgICAgIH0KICAgICk7CiAgfSwKCiAgbmV3U2Vzc2lvbjogKCkgPT4KICAgIHNldCh7CiAgICAgIG1lc3NhZ2VzOiBbeyBpZDogdWlkKCJtXyIpLCByb2xlOiAiYXNzaXN0YW50IiwgY29udGVudDogIuaWsOWvueivneW3suW8gOWni+OAgiIgfV0sCiAgICAgIGFjdGl2ZVNlc3Npb25JZDogdWlkKCJzXyIpLAogICAgICB0aGlua2luZ1N0ZXBzOiBbXSwKICAgIH0pLAp9KSk7CgovKiog5ZCO56uv5LiN5Y+v55So5pe255qE56a757q/5ryU56S677ya5qih5ouf5oCd6ICD5binICsg5rWB5byP562U5qGI77yM5L+d6K+B55WM6Z2i5Y+v6aKE6KeI77yI5YWz6ZSu57qm5p2fIDTvvInjgIIgKi8KZnVuY3Rpb24gcnVuT2ZmbGluZURlbW8odGV4dDogc3RyaW5nLCBhc3Npc3RhbnRJZDogc3RyaW5nKSB7CiAgY29uc3QgZ2V0ID0gdXNlQ2hhdFN0b3JlLmdldFN0YXRlOwogIGNvbnN0IHNldCA9IHVzZUNoYXRTdG9yZS5zZXRTdGF0ZTsKICBjb25zdCBmcmFtZXM6IFB1YmxpY1RyYWNlRnJhbWVbXSA9IFsKICAgIHsgc3RhZ2U6ICJjb250ZXh0IiwgdHlwZTogImNvbnRleHRfbG9hZCIsIGRpc3BsYXk6ICLlt7LliqDovb3nlKjmiLfouqvku73jgIHmmbrog73kvZPphY3nva7kuI7nn6Xor4blupMiLCBzdGF0dXM6ICJkb25lIiwgbGF0ZW5jeV9tczogMTIgfSwKICAgIHsgc3RhZ2U6ICJjb250ZXh0IiwgdHlwZTogImdhcCIsIGRpc3BsYXk6ICLmnKrmjIflrprorr7lpIflnovlj7cg4oaSIOW3sumHh+eUqOm7mOiupOWAvCIsIHN0YXR1czogImRvbmUiIH0sCiAgICB7IHN0YWdlOiAiY29udGV4dCIsIHR5cGU6ICJyb3V0ZSIsIGRpc3BsYXk6ICLpoobln5/ot6/nlLHvvJrmnLrnlLXlronoo4UgLyDmmpbpgJrnqbrosIMiLCBzdGF0dXM6ICJkb25lIiB9LAogICAgeyBzdGFnZTogImhhcm5lc3MiLCB0eXBlOiAiZ2F0ZSIsIGRpc3BsYXk6ICLinJMg5a6J5YWo5qOA5p+l6YCa6L+HIiwgc3RhdHVzOiAiZG9uZSIgfSwKICAgIHsgc3RhZ2U6ICJ0b29sIiwgdHlwZTogInRvb2xfY2FsbCIsIGRpc3BsYXk6ICLinJMg5bel5YW3IHNlYXJjaF9zdGFuZGFyZHMg6LCD55So5a6M5oiQ77yM6L+U5ZueIDUg5p2h57uT5p6cIiwgc3RhdHVzOiAiZG9uZSIsIHRvb2xfbmFtZTogInNlYXJjaF9zdGFuZGFyZHMiLCB0aWVyOiAidGllcjEiLCBsYXRlbmN5X21zOiAxMjAwIH0sCiAgICB7IHN0YWdlOiAiY29tcHV0ZSIsIHR5cGU6ICJyb3V0ZSIsIGRpc3BsYXk6ICLnrpflipvvvJp0aWVyMSDmnKzlnLAgR1BVIiwgc3RhdHVzOiAiZG9uZSIsIHRpZXI6ICJ0aWVyMSIgfSwKICAgIHsgc3RhZ2U6ICJhdWRpdCIsIHR5cGU6ICJhdWRpdCIsIGRpc3BsYXk6ICLlrqHorqHlt7LorrDlvZXvvIjlk4jluIzpk77vvIkiLCBzdGF0dXM6ICJkb25lIiB9LAogIF07CiAgbGV0IGkgPSAwOwogIGNvbnN0IHB1c2hGcmFtZSA9ICgpID0+IHsKICAgIGlmIChpIDwgZnJhbWVzLmxlbmd0aCkgewogICAgICBnZXQoKS5hZGRUaGlua2luZ1N0ZXAoZnJhbWVzW2krK10pOwogICAgICB3aW5kb3cuc2V0VGltZW91dChwdXNoRnJhbWUsIDI2MCk7CiAgICB9IGVsc2UgewogICAgICBzdHJlYW1BbnN3ZXIoKTsKICAgIH0KICB9OwogIGNvbnN0IGFuc3dlciA9CiAgICBg77yI5ryU56S65qih5byPIMK3IOWQjuerr+acqui/nuaOpe+8ieWFs+S6juOAjCR7dGV4dH3jgI3vvJpcblxuYCArCiAgICAi5qC55o2u546w5pyJ5Y+v5L+h5paH5qGj77yM6KaB54K55aaC5LiL77yaXG5cbiIgKwogICAgIi0gKirpo47nrqHlronoo4XpqozmlLYqKuW6lOespuWQiOebuOWFs+agh+WHhuadoeasviBgW2RvY18xXWBcbiIgKwogICAgIi0g5ryP5YWJ5LiO5ryP6aOO5qOA5rWL6ZyA5Zyo6ZqQ6JS95YmN5a6M5oiQIGBbZG9jXzJdYFxuXG4iICsKICAgICJgYGBweXRob25cbiMg56S65L6L77ya5rOE5ryP546H5qCh6aqMXG5kZWYgbGVha19vayhyYXRlLCBsaW1pdCk6XG4gICAgcmV0dXJuIHJhdGUgPD0gbGltaXRcbmBgYFxuXG4iICsKICAgICLlpoLpnIDnsr7noa7mlbDlgLzvvIzor7fmoLjlr7nmnaXmupDljp/mlofjgIIiOwogIGNvbnN0IHN0cmVhbUFuc3dlciA9ICgpID0+IHsKICAgIGNvbnN0IHRva2VucyA9IGFuc3dlci5tYXRjaCgvW1xzXFNdezEsM30vZykgPz8gW107CiAgICBsZXQgayA9IDA7CiAgICBjb25zdCB0aWNrID0gKCkgPT4gewogICAgICBpZiAoayA8IHRva2Vucy5sZW5ndGgpIHsKICAgICAgICBnZXQoKS5hcHBlbmRUb0Fzc2lzdGFudChhc3Npc3RhbnRJZCwgdG9rZW5zW2srK10pOwogICAgICAgIHdpbmRvdy5zZXRUaW1lb3V0KHRpY2ssIDE0KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBzZXQoKHMpID0+ICh7CiAgICAgICAgICBpc1N0cmVhbWluZzogZmFsc2UsCiAgICAgICAgICBsYXN0VGllcjogInRpZXIxIiwKICAgICAgICAgIHRoaW5raW5nU3RlcHM6IHMudGhpbmtpbmdTdGVwcy5tYXAoKGYpID0+CiAgICAgICAgICAgIGYuc3RhdHVzID09PSAicnVubmluZyIgPyB7IC4uLmYsIHN0YXR1czogImRvbmUiIGFzIGNvbnN0IH0gOiBmKSwKICAgICAgICAgIG1lc3NhZ2VzOiBzLm1lc3NhZ2VzLm1hcCgobSkgPT4gKG0uaWQgPT09IGFzc2lzdGFudElkID8geyAuLi5tLCBzdHJlYW1pbmc6IGZhbHNlIH0gOiBtKSksCiAgICAgICAgfSkpOwogICAgICB9CiAgICB9OwogICAgdGljaygpOwogIH07CiAgcHVzaEZyYW1lKCk7Cn0KCi8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT0gQWdlbnRzID09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KaW50ZXJmYWNlIEFnZW50U3RhdGUgewogIGFnZW50czogQWdlbnRbXTsKICBsb2FkaW5nOiBib29sZWFuOwogIGZldGNoQWdlbnRzOiAoKSA9PiBQcm9taXNlPHZvaWQ+Owp9CgpleHBvcnQgY29uc3QgdXNlQWdlbnRTdG9yZSA9IGNyZWF0ZTxBZ2VudFN0YXRlPigoc2V0KSA9PiAoewogIGFnZW50czogW10sCiAgbG9hZGluZzogZmFsc2UsCiAgZmV0Y2hBZ2VudHM6IGFzeW5jICgpID0+IHsKICAgIHNldCh7IGxvYWRpbmc6IHRydWUgfSk7CiAgICBjb25zdCBhZ2VudHMgPSBhd2FpdCBhcGkuYWdlbnRzKCk7CiAgICBzZXQoeyBhZ2VudHMsIGxvYWRpbmc6IGZhbHNlIH0pOwogIH0sCn0pKTsKCi8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT0gVUkgPT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqLwp0eXBlIFRoZW1lID0gImxpZ2h0IiB8ICJkYXJrIjsKCmludGVyZmFjZSBVSVN0YXRlIHsKICBzaWRlYmFyT3BlbjogYm9vbGVhbjsKICB0aGlua2luZ1BhbmVsT3BlbjogYm9vbGVhbjsKICB3b3Jrc3BhY2VPcGVuOiBib29sZWFuOwogIHRoZW1lOiBUaGVtZTsKICB0b2dnbGVTaWRlYmFyOiAoKSA9PiB2b2lkOwogIHRvZ2dsZVRoaW5raW5nOiAoKSA9PiB2b2lkOwogIHRvZ2dsZVdvcmtzcGFjZTogKCkgPT4gdm9pZDsKICBzZXRUaGVtZTogKHQ6IFRoZW1lKSA9PiB2b2lkOwogIHRvZ2dsZVRoZW1lOiAoKSA9PiB2b2lkOwp9CgpmdW5jdGlvbiBhcHBseVRoZW1lKHQ6IFRoZW1lKSB7CiAgY29uc3Qgcm9vdCA9IGRvY3VtZW50LmRvY3VtZW50RWxlbWVudDsKICBpZiAodCA9PT0gImRhcmsiKSByb290LmNsYXNzTGlzdC5hZGQoImRhcmsiKTsKICBlbHNlIHJvb3QuY2xhc3NMaXN0LnJlbW92ZSgiZGFyayIpOwp9CgpleHBvcnQgY29uc3QgdXNlVUlTdG9yZSA9IGNyZWF0ZTxVSVN0YXRlPigoc2V0LCBnZXQpID0+ICh7CiAgc2lkZWJhck9wZW46IHRydWUsCiAgdGhpbmtpbmdQYW5lbE9wZW46IHRydWUsCiAgd29ya3NwYWNlT3BlbjogdHJ1ZSwKICB0aGVtZTogImxpZ2h0IiwKICB0b2dnbGVTaWRlYmFyOiAoKSA9PiBzZXQoKHMpID0+ICh7IHNpZGViYXJPcGVuOiAhcy5zaWRlYmFyT3BlbiB9KSksCiAgdG9nZ2xlVGhpbmtpbmc6ICgpID0+IHNldCgocykgPT4gKHsgdGhpbmtpbmdQYW5lbE9wZW46ICFzLnRoaW5raW5nUGFuZWxPcGVuIH0pKSwKICB0b2dnbGVXb3Jrc3BhY2U6ICgpID0+IHNldCgocykgPT4gKHsgd29ya3NwYWNlT3BlbjogIXMud29ya3NwYWNlT3BlbiB9KSksCiAgc2V0VGhlbWU6ICh0KSA9PiB7IGFwcGx5VGhlbWUodCk7IHNldCh7IHRoZW1lOiB0IH0pOyB9LAogIHRvZ2dsZVRoZW1lOiAoKSA9PiB7IGNvbnN0IHQgPSBnZXQoKS50aGVtZSA9PT0gImxpZ2h0IiA/ICJkYXJrIiA6ICJsaWdodCI7IGFwcGx5VGhlbWUodCk7IHNldCh7IHRoZW1lOiB0IH0pOyB9LAp9KSk7Cg==
+import { create } from "zustand";
+import type { Agent, Message, PublicTraceFrame, Artifact, ModelInfo } from "@/types";
+import { uid } from "@/lib/utils";
+import { api } from "@/lib/api";
+import { streamChat } from "@/lib/ws";
+
+/* ============================ Chat ============================ */
+interface ChatState {
+  messages: Message[];
+  activeSessionId: string;
+  selectedAgentId: string;
+  thinkingSteps: PublicTraceFrame[];
+  artifacts: Artifact[];
+  isStreaming: boolean;
+  quotaRemaining: number;
+  lastTier: string | null;
+  lastTokens: number;
+  models: ModelInfo[];
+  selectedModelId: string;
+  setModel: (id: string) => void;
+  loadModels: () => Promise<void>;
+
+  selectAgent: (id: string) => void;
+  addMessage: (role: Message["role"], content: string) => string;
+  appendToAssistant: (id: string, chunk: string) => void;
+  addThinkingStep: (frame: PublicTraceFrame) => void;
+  addArtifact: (a: Artifact) => void;
+  clearThinking: () => void;
+  sendMessage: (text: string) => void;
+  newSession: () => void;
+}
+
+export const useChatStore = create<ChatState>((set, get) => ({
+  messages: [
+    { id: uid("m_"), role: "assistant", content: "你好，我是企业 AI 工作台。选择上方的智能体后开始对话——右侧会实时显示我的思考过程。" },
+  ],
+  activeSessionId: uid("s_"),
+  selectedAgentId: "general",
+  thinkingSteps: [],
+  artifacts: [],
+  isStreaming: false,
+  quotaRemaining: 18247,
+  lastTier: null,
+  lastTokens: 0,
+  models: [],
+  selectedModelId: "builtin",
+
+  selectAgent: (id) => set({ selectedAgentId: id }),
+  setModel: (id) => set({ selectedModelId: id }),
+  loadModels: async () => {
+    try { const m = await api.models(); set({ models: Array.isArray(m) ? m : [] }); }
+    catch { /* 留空,选择器会提示无可用模型 */ }
+  },
+
+  addMessage: (role, content) => {
+    const id = uid("m_");
+    set((s) => ({ messages: [...s.messages, { id, role, content, streaming: role === "assistant" }] }));
+    return id;
+  },
+
+  appendToAssistant: (id, chunk) =>
+    set((s) => ({
+      messages: s.messages.map((m) => (m.id === id ? { ...m, content: m.content + chunk } : m)),
+    })),
+
+  addThinkingStep: (frame) =>
+    set((s) => {
+      // 带 step 的思考帧：同一步原地更新（"进行中"→"完成"填入内容），不追加新行
+      if (frame.step) {
+        const idx = s.thinkingSteps.findIndex((f) => f.step === frame.step);
+        if (idx >= 0) {
+          const next = s.thinkingSteps.slice();
+          next[idx] = frame;
+          return { thinkingSteps: next };
+        }
+        return { thinkingSteps: [...s.thinkingSteps, frame] };
+      }
+      // 无 step 的帧（安全/工具/审计）：把之前仍 running 且无 step 的结算为 done，再追加
+      return {
+        thinkingSteps: [
+          ...s.thinkingSteps.map((f) =>
+            f.status === "running" && !f.step ? { ...f, status: "done" as const } : f),
+          frame,
+        ],
+      };
+    }),
+  clearThinking: () => set({ thinkingSteps: [] }),
+
+  addArtifact: (a) =>
+    set((s) => ({
+      // 同名 artifact 覆盖，否则追加
+      artifacts: s.artifacts.some((x) => x.filename === a.filename)
+        ? s.artifacts.map((x) => (x.filename === a.filename ? a : x))
+        : [...s.artifacts, a],
+    })),
+
+  sendMessage: (text) => {
+    const { selectedAgentId, activeSessionId, selectedModelId } = get();
+    get().addMessage("user", text);
+    get().clearThinking();
+    set({ artifacts: [] });  // 新一轮清空工作区
+    const assistantId = get().addMessage("assistant", "");
+    set({ isStreaming: true });
+
+    streamChat(
+      { message: text, agent_id: selectedAgentId, session_id: activeSessionId, model: selectedModelId },
+      {
+        onTrace: (frame) => get().addThinkingStep(frame),
+        onDelta: (chunk) => get().appendToAssistant(assistantId, chunk),
+        onArtifact: (a) => get().addArtifact({
+          filename: a.filename, language: a.language, content: a.content,
+          icon: a.icon, runnable: a.runnable,
+        }),
+        onDone: (tier, tokens, meta) =>
+          set((s) => ({
+            isStreaming: false,
+            lastTier: tier ?? s.lastTier,
+            lastTokens: typeof tokens === "number" ? tokens : s.lastTokens,
+            thinkingSteps: s.thinkingSteps.map((f) =>
+              f.status === "running" ? { ...f, status: "done" as const } : f),
+            messages: s.messages.map((m) => (m.id === assistantId ? { ...m, streaming: false, meta, tokens } : m)),
+          })),
+        onError: () => runOfflineDemo(text, assistantId),
+      }
+    );
+  },
+
+  newSession: () =>
+    set({
+      messages: [{ id: uid("m_"), role: "assistant", content: "新对话已开始。" }],
+      activeSessionId: uid("s_"),
+      thinkingSteps: [],
+    }),
+}));
+
+/** 后端不可用时的离线演示：模拟思考帧 + 流式答案，保证界面可预览（关键约束 4）。 */
+function runOfflineDemo(text: string, assistantId: string) {
+  const get = useChatStore.getState;
+  const set = useChatStore.setState;
+  const frames: PublicTraceFrame[] = [
+    { stage: "context", type: "context_load", display: "已加载用户身份、智能体配置与知识库", status: "done", latency_ms: 12 },
+    { stage: "context", type: "gap", display: "未指定设备型号 → 已采用默认值", status: "done" },
+    { stage: "context", type: "route", display: "领域路由：机电安装 / 暖通空调", status: "done" },
+    { stage: "harness", type: "gate", display: "✓ 安全检查通过", status: "done" },
+    { stage: "tool", type: "tool_call", display: "✓ 工具 search_standards 调用完成，返回 5 条结果", status: "done", tool_name: "search_standards", tier: "tier1", latency_ms: 1200 },
+    { stage: "compute", type: "route", display: "算力：tier1 本地 GPU", status: "done", tier: "tier1" },
+    { stage: "audit", type: "audit", display: "审计已记录（哈希链）", status: "done" },
+  ];
+  let i = 0;
+  const pushFrame = () => {
+    if (i < frames.length) {
+      get().addThinkingStep(frames[i++]);
+      window.setTimeout(pushFrame, 260);
+    } else {
+      streamAnswer();
+    }
+  };
+  const answer =
+    `（演示模式 · 后端未连接）关于「${text}」：\n\n` +
+    "根据现有可信文档，要点如下：\n\n" +
+    "- **风管安装验收**应符合相关标准条款 `[doc_1]`\n" +
+    "- 漏光与漏风检测需在隐蔽前完成 `[doc_2]`\n\n" +
+    "```python\n# 示例：泄漏率校验\ndef leak_ok(rate, limit):\n    return rate <= limit\n```\n\n" +
+    "如需精确数值，请核对来源原文。";
+  const streamAnswer = () => {
+    const tokens = answer.match(/[\s\S]{1,3}/g) ?? [];
+    let k = 0;
+    const tick = () => {
+      if (k < tokens.length) {
+        get().appendToAssistant(assistantId, tokens[k++]);
+        window.setTimeout(tick, 14);
+      } else {
+        set((s) => ({
+          isStreaming: false,
+          lastTier: "tier1",
+          thinkingSteps: s.thinkingSteps.map((f) =>
+            f.status === "running" ? { ...f, status: "done" as const } : f),
+          messages: s.messages.map((m) => (m.id === assistantId ? { ...m, streaming: false } : m)),
+        }));
+      }
+    };
+    tick();
+  };
+  pushFrame();
+}
+
+/* ============================ Agents ============================ */
+interface AgentState {
+  agents: Agent[];
+  loading: boolean;
+  fetchAgents: () => Promise<void>;
+}
+
+export const useAgentStore = create<AgentState>((set) => ({
+  agents: [],
+  loading: false,
+  fetchAgents: async () => {
+    set({ loading: true });
+    const agents = await api.agents();
+    set({ agents, loading: false });
+  },
+}));
+
+/* ============================ UI ============================ */
+type Theme = "light" | "dark";
+
+interface UIState {
+  sidebarOpen: boolean;
+  thinkingPanelOpen: boolean;
+  workspaceOpen: boolean;
+  theme: Theme;
+  toggleSidebar: () => void;
+  toggleThinking: () => void;
+  toggleWorkspace: () => void;
+  setTheme: (t: Theme) => void;
+  toggleTheme: () => void;
+}
+
+function applyTheme(t: Theme) {
+  const root = document.documentElement;
+  if (t === "dark") root.classList.add("dark");
+  else root.classList.remove("dark");
+}
+
+export const useUIStore = create<UIState>((set, get) => ({
+  sidebarOpen: true,
+  thinkingPanelOpen: true,
+  workspaceOpen: true,
+  theme: "light",
+  toggleSidebar: () => set((s) => ({ sidebarOpen: !s.sidebarOpen })),
+  toggleThinking: () => set((s) => ({ thinkingPanelOpen: !s.thinkingPanelOpen })),
+  toggleWorkspace: () => set((s) => ({ workspaceOpen: !s.workspaceOpen })),
+  setTheme: (t) => { applyTheme(t); set({ theme: t }); },
+  toggleTheme: () => { const t = get().theme === "light" ? "dark" : "light"; applyTheme(t); set({ theme: t }); },
+}));

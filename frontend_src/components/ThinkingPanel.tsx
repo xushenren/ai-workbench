@@ -1,1 +1,135 @@
-Ly8g5Y+z5L6n5oCd6ICD6Z2i5p2/44CCQ2xhdWRlIOW8j+WFi+WItu+8mumYtuauteeUqOWbvuaghyArIOeBsOmYtuW3pui+ueahhua3sea1heWMuuWIhu+8jAovLyDkuI3nlKjkupTlvanvvJvku4UgQkxPQ0sg54q25oCB5L2/55So6K2m56S66Imy44CC5Y+q5riy5p+TIHB1YmxpY190cmFjZSDnmoQgZGlzcGxheeOAggppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVJlZiwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7CiAgQnJhaW4sIEZpbGVTZWFyY2gsIFNoaWVsZENoZWNrLCBXcmVuY2gsIENwdSwgQ2xpcGJvYXJkTGlzdCwKICBDaXJjbGVTbGFzaCwgTG9hZGVyMiwgQ2hlY2ssIEhlbHBDaXJjbGUsIFBhbmVsUmlnaHRDbG9zZSwKICBDaGV2cm9uRG93biwgQ2hldnJvblJpZ2h0LAp9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB0eXBlIHsgUHVibGljVHJhY2VGcmFtZSB9IGZyb20gIkAvdHlwZXMiOwppbXBvcnQgeyB1c2VDaGF0U3RvcmUsIHVzZVVJU3RvcmUgfSBmcm9tICJAL3N0b3Jlcy91c2VTdG9yZSI7CmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKY29uc3QgU1RBR0VfTUVUQTogUmVjb3JkPFB1YmxpY1RyYWNlRnJhbWVbInN0YWdlIl0sIHsgbGFiZWw6IHN0cmluZzsgSWNvbjogdHlwZW9mIEJyYWluIH0+ID0gewogIGNvbnRleHQ6IHsgbGFiZWw6ICLkuIrkuIvmlociLCBJY29uOiBGaWxlU2VhcmNoIH0sCiAgaGFybmVzczogeyBsYWJlbDogIuWuieWFqOmXqOaOpyIsIEljb246IFNoaWVsZENoZWNrIH0sCiAgdGhpbms6IHsgbGFiZWw6ICLmgJ3ogIMiLCBJY29uOiBCcmFpbiB9LAogIHRvb2w6IHsgbGFiZWw6ICLlt6XlhbfosIPnlKgiLCBJY29uOiBXcmVuY2ggfSwKICBsbG06IHsgbGFiZWw6ICLmjqjnkIYiLCBJY29uOiBCcmFpbiB9LAogIGNvbXB1dGU6IHsgbGFiZWw6ICLnrpflipsiLCBJY29uOiBDcHUgfSwKICBhdWRpdDogeyBsYWJlbDogIuWuoeiuoSIsIEljb246IENsaXBib2FyZExpc3QgfSwKfTsKCmZ1bmN0aW9uIFN0YXR1c0ljb24oeyBzdGF0dXMgfTogeyBzdGF0dXM6IFB1YmxpY1RyYWNlRnJhbWVbInN0YXR1cyJdIH0pIHsKICBpZiAoc3RhdHVzID09PSAicnVubmluZyIpIHJldHVybiA8TG9hZGVyMiBzaXplPXsxM30gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4gdGV4dC1tdXRlZCIgLz47CiAgaWYgKHN0YXR1cyA9PT0gImJsb2NrZWQiKSByZXR1cm4gPENpcmNsZVNsYXNoIHNpemU9ezEzfSBjbGFzc05hbWU9InRleHQtd2FybmluZyIgLz47CiAgaWYgKHN0YXR1cyA9PT0gImFzayIpIHJldHVybiA8SGVscENpcmNsZSBzaXplPXsxM30gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCIgLz47CiAgcmV0dXJuIDxDaGVjayBzaXplPXsxM30gY2xhc3NOYW1lPSJ0ZXh0LXN1Y2Nlc3MiIC8+Owp9CgpmdW5jdGlvbiBGcmFtZVJvdyh7IGZyYW1lLCBpbmRleCB9OiB7IGZyYW1lOiBQdWJsaWNUcmFjZUZyYW1lOyBpbmRleDogbnVtYmVyIH0pIHsKICBjb25zdCBtZXRhID0gU1RBR0VfTUVUQVtmcmFtZS5zdGFnZV0gPz8gU1RBR0VfTUVUQS5jb250ZXh0OwogIGNvbnN0IGJsb2NrZWQgPSBmcmFtZS5zdGF0dXMgPT09ICJibG9ja2VkIjsKICByZXR1cm4gKAogICAgPGRpdgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJhbmltYXRlLXNsaWRlLWluIGJvcmRlci1sLTIgcGwtMyBweS0yIiwKICAgICAgICBibG9ja2VkID8gImJvcmRlci13YXJuaW5nIiA6ICJib3JkZXItYm9yZGVyIgogICAgICApfQogICAgPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC14cyB0ZXh0LW11dGVkIj4KICAgICAgICA8bWV0YS5JY29uIHNpemU9ezEzfSBjbGFzc05hbWU9e2Jsb2NrZWQgPyAidGV4dC13YXJuaW5nIiA6ICJ0ZXh0LW11dGVkIn0gLz4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIj57bWV0YS5sYWJlbH08L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0YWJ1bGFyLW51bXMgb3BhY2l0eS02MCI+I3tpbmRleCArIDF9PC9zcGFuPgogICAgICAgIHtmcmFtZS50aWVyICYmICgKICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtYXV0byByb3VuZGVkLWZ1bGwgYmctc3VyZmFjZS0yIHB4LTEuNSBweS0wLjUgdGV4dC1bMTBweF0gdGFidWxhci1udW1zIj4KICAgICAgICAgICAge2ZyYW1lLnRpZXJ9CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgKX0KICAgICAgICB7IWZyYW1lLnRpZXIgJiYgZnJhbWUubGF0ZW5jeV9tcyAhPSBudWxsICYmICgKICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtYXV0byB0YWJ1bGFyLW51bXMgb3BhY2l0eS02MCI+e2ZyYW1lLmxhdGVuY3lfbXN9bXM8L3NwYW4+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xIGZsZXggaXRlbXMtc3RhcnQgZ2FwLTEuNSI+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtdC0wLjUgc2hyaW5rLTAiPjxTdGF0dXNJY29uIHN0YXR1cz17ZnJhbWUuc3RhdHVzfSAvPjwvc3Bhbj4KICAgICAgICA8cCBjbGFzc05hbWU9e2NuKCJ0ZXh0LVsxM3B4XSBsZWFkaW5nLXNudWciLCBibG9ja2VkID8gInRleHQtd2FybmluZyIgOiAidGV4dC10ZXh0Iil9PgogICAgICAgICAge2ZyYW1lLmRpc3BsYXl9CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBUaGlua2luZ1BhbmVsKCkgewogIGNvbnN0IHN0ZXBzID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLnRoaW5raW5nU3RlcHMpOwogIGNvbnN0IHN0cmVhbWluZyA9IHVzZUNoYXRTdG9yZSgocykgPT4gcy5pc1N0cmVhbWluZyk7CiAgY29uc3QgdG9nZ2xlVGhpbmtpbmcgPSB1c2VVSVN0b3JlKChzKSA9PiBzLnRvZ2dsZVRoaW5raW5nKTsKICBjb25zdCBzY3JvbGxSZWYgPSB1c2VSZWY8SFRNTERpdkVsZW1lbnQ+KG51bGwpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgc2Nyb2xsUmVmLmN1cnJlbnQ/LnNjcm9sbFRvKHsgdG9wOiBzY3JvbGxSZWYuY3VycmVudC5zY3JvbGxIZWlnaHQsIGJlaGF2aW9yOiAic21vb3RoIiB9KTsKICB9LCBbc3RlcHMubGVuZ3RoXSk7CgogIGNvbnN0IGJsb2NrZWRDb3VudCA9IHN0ZXBzLmZpbHRlcigocykgPT4gcy5zdGF0dXMgPT09ICJibG9ja2VkIikubGVuZ3RoOwoKICByZXR1cm4gKAogICAgPGFzaWRlIGNsYXNzTmFtZT0iZmxleCBoLWZ1bGwgdy1bMzQwcHhdIHNocmluay0wIGZsZXgtY29sIGJvcmRlci1sIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZS0yLzQwIj4KICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIGJvcmRlci1iIGJvcmRlci1ib3JkZXIgcHgtNCBweS0zIj4KICAgICAgICA8QnJhaW4gc2l6ZT17MTZ9IGNsYXNzTmFtZT0idGV4dC1hY2NlbnQiIC8+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LW1lZGl1bSI+5oCd6ICD6L+H56iLPC9oMj4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICBvbkNsaWNrPXt0b2dnbGVUaGlua2luZ30KICAgICAgICAgIGNsYXNzTmFtZT0ibWwtYXV0byByb3VuZGVkLW1kIHAtMSB0ZXh0LW11dGVkIGhvdmVyOmJnLXN1cmZhY2UtMiBob3Zlcjp0ZXh0LXRleHQiCiAgICAgICAgICBhcmlhLWxhYmVsPSLmipjlj6DmgJ3ogIPpnaLmnb8iCiAgICAgICAgPgogICAgICAgICAgPFBhbmVsUmlnaHRDbG9zZSBzaXplPXsxNn0gLz4KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9oZWFkZXI+CgogICAgICA8ZGl2IHJlZj17c2Nyb2xsUmVmfSBjbGFzc05hbWU9ImZsZXgtMSBvdmVyZmxvdy15LWF1dG8gcHgtMyBweS0yIj4KICAgICAgICB7c3RlcHMubGVuZ3RoID09PSAwID8gKAogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC04IHB4LTIgdGV4dC1jZW50ZXIgdGV4dC1bMTNweF0gdGV4dC1tdXRlZCI+CiAgICAgICAgICAgIHtzdHJlYW1pbmcgPyAi5q2j5Zyo5oCd6ICD4oCmIiA6ICLlj5HpgIHmtojmga/lkI7vvIzov5nph4zkvJrlrp7ml7blsZXnpLrmjqjnkIbpk77jgIIifQogICAgICAgICAgPC9wPgogICAgICAgICkgOiAoCiAgICAgICAgICBzdGVwcy5tYXAoKGYsIGkpID0+IDxGcmFtZVJvdyBrZXk9e2l9IGZyYW1lPXtmfSBpbmRleD17aX0gLz4pCiAgICAgICAgKX0KICAgICAgPC9kaXY+CgogICAgICB7c3RlcHMubGVuZ3RoID4gMCAmJiAhc3RyZWFtaW5nICYmICgKICAgICAgICA8Zm9vdGVyIGNsYXNzTmFtZT0iYm9yZGVyLXQgYm9yZGVyLWJvcmRlciBweC00IHB5LTMgdGV4dC14cyB0ZXh0LW11dGVkIj4KICAgICAgICAgIOWFsSB7c3RlcHMubGVuZ3RofSDmraUgwrcg57qi57q/6Kem5Y+RIHtibG9ja2VkQ291bnR9IOasoSDCtyDlrqHorqHlt7LorrDlvZUKICAgICAgICA8L2Zvb3Rlcj4KICAgICAgKX0KICAgIDwvYXNpZGU+CiAgKTsKfQoKLyoqIOWGheW1jOeJiOaAneiAg+i/h+eoi++8mua4suafk+WcqOS4u+Wvueivnea1gemHjO+8iOW9k+WJjei9ruWbnuWkjeS4iuaWue+8ie+8jOWPr+aKmOWPoOOAgiAqLwpleHBvcnQgZnVuY3Rpb24gSW5saW5lVGhpbmtpbmcoKSB7CiAgY29uc3Qgc3RlcHMgPSB1c2VDaGF0U3RvcmUoKHMpID0+IHMudGhpbmtpbmdTdGVwcyk7CiAgY29uc3Qgc3RyZWFtaW5nID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLmlzU3RyZWFtaW5nKTsKICBjb25zdCBbb3Blbiwgc2V0T3Blbl0gPSB1c2VTdGF0ZSh0cnVlKTsKICBpZiAoc3RlcHMubGVuZ3RoID09PSAwKSByZXR1cm4gbnVsbDsKICBjb25zdCBibG9ja2VkID0gc3RlcHMuZmlsdGVyKChzKSA9PiBzLnN0YXR1cyA9PT0gImJsb2NrZWQiKS5sZW5ndGg7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMyByb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZS0yLzQwIj4KICAgICAgPGJ1dHRvbgogICAgICAgIG9uQ2xpY2s9eygpID0+IHNldE9wZW4oKHYpID0+ICF2KX0KICAgICAgICBjbGFzc05hbWU9ImZsZXggdy1mdWxsIGl0ZW1zLWNlbnRlciBnYXAtMiBweC0zIHB5LTIgdGV4dC14cyB0ZXh0LW11dGVkIGhvdmVyOnRleHQtdGV4dCIKICAgICAgPgogICAgICAgIDxCcmFpbiBzaXplPXsxNH0gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCIgLz4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIj7mgJ3ogIPov4fnqIs8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJvcGFjaXR5LTYwIj7CtyB7c3RlcHMubGVuZ3RofSDmraV7YmxvY2tlZCA/IGAgwrcg5oum5oiqICR7YmxvY2tlZH1gIDogIiJ9PC9zcGFuPgogICAgICAgIHtzdHJlYW1pbmcgJiYgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCI+5oCd6ICD5Lit4oCmPC9zcGFuPn0KICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLWF1dG8iPntvcGVuID8gPENoZXZyb25Eb3duIHNpemU9ezE0fSAvPiA6IDxDaGV2cm9uUmlnaHQgc2l6ZT17MTR9IC8+fTwvc3Bhbj4KICAgICAgPC9idXR0b24+CiAgICAgIHtvcGVuICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyLXQgYm9yZGVyLWJvcmRlciBweC0yIHB5LTEiPgogICAgICAgICAge3N0ZXBzLm1hcCgoZiwgaSkgPT4gPEZyYW1lUm93IGtleT17aX0gZnJhbWU9e2Z9IGluZGV4PXtpfSAvPil9CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9Cg==
+// 右侧思考面板。Claude 式克制：阶段用图标 + 灰阶左边框深浅区分，
+// 不用五彩；仅 BLOCK 状态使用警示色。只渲染 public_trace 的 display。
+import { useEffect, useRef, useState } from "react";
+import {
+  Brain, FileSearch, ShieldCheck, Wrench, Cpu, ClipboardList,
+  CircleSlash, Loader2, Check, HelpCircle, PanelRightClose,
+  ChevronDown, ChevronRight,
+} from "lucide-react";
+import type { PublicTraceFrame } from "@/types";
+import { useChatStore, useUIStore } from "@/stores/useStore";
+import { cn } from "@/lib/utils";
+
+const STAGE_META: Record<PublicTraceFrame["stage"], { label: string; Icon: typeof Brain }> = {
+  context: { label: "上下文", Icon: FileSearch },
+  harness: { label: "安全门控", Icon: ShieldCheck },
+  think: { label: "思考", Icon: Brain },
+  tool: { label: "工具调用", Icon: Wrench },
+  llm: { label: "推理", Icon: Brain },
+  compute: { label: "算力", Icon: Cpu },
+  audit: { label: "审计", Icon: ClipboardList },
+};
+
+function StatusIcon({ status }: { status: PublicTraceFrame["status"] }) {
+  if (status === "running") return <Loader2 size={13} className="animate-spin text-muted" />;
+  if (status === "blocked") return <CircleSlash size={13} className="text-warning" />;
+  if (status === "ask") return <HelpCircle size={13} className="text-accent" />;
+  return <Check size={13} className="text-success" />;
+}
+
+function FrameRow({ frame, index }: { frame: PublicTraceFrame; index: number }) {
+  const meta = STAGE_META[frame.stage] ?? STAGE_META.context;
+  const blocked = frame.status === "blocked";
+  return (
+    <div
+      className={cn(
+        "animate-slide-in border-l-2 pl-3 py-2",
+        blocked ? "border-warning" : "border-border"
+      )}
+    >
+      <div className="flex items-center gap-2 text-xs text-muted">
+        <meta.Icon size={13} className={blocked ? "text-warning" : "text-muted"} />
+        <span className="font-medium">{meta.label}</span>
+        <span className="tabular-nums opacity-60">#{index + 1}</span>
+        {frame.tier && (
+          <span className="ml-auto rounded-full bg-surface-2 px-1.5 py-0.5 text-[10px] tabular-nums">
+            {frame.tier}
+          </span>
+        )}
+        {!frame.tier && frame.latency_ms != null && (
+          <span className="ml-auto tabular-nums opacity-60">{frame.latency_ms}ms</span>
+        )}
+      </div>
+      <div className="mt-1 flex items-start gap-1.5">
+        <span className="mt-0.5 shrink-0"><StatusIcon status={frame.status} /></span>
+        <p className={cn("text-[13px] leading-snug", blocked ? "text-warning" : "text-text")}>
+          {frame.display}
+        </p>
+      </div>
+    </div>
+  );
+}
+
+export function ThinkingPanel() {
+  const steps = useChatStore((s) => s.thinkingSteps);
+  const streaming = useChatStore((s) => s.isStreaming);
+  const toggleThinking = useUIStore((s) => s.toggleThinking);
+  const scrollRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: "smooth" });
+  }, [steps.length]);
+
+  const blockedCount = steps.filter((s) => s.status === "blocked").length;
+
+  return (
+    <aside className="flex h-full w-[340px] shrink-0 flex-col border-l border-border bg-surface-2/40">
+      <header className="flex items-center gap-2 border-b border-border px-4 py-3">
+        <Brain size={16} className="text-accent" />
+        <h2 className="text-sm font-medium">思考过程</h2>
+        <button
+          onClick={toggleThinking}
+          className="ml-auto rounded-md p-1 text-muted hover:bg-surface-2 hover:text-text"
+          aria-label="折叠思考面板"
+        >
+          <PanelRightClose size={16} />
+        </button>
+      </header>
+
+      <div ref={scrollRef} className="flex-1 overflow-y-auto px-3 py-2">
+        {steps.length === 0 ? (
+          <p className="mt-8 px-2 text-center text-[13px] text-muted">
+            {streaming ? "正在思考…" : "发送消息后，这里会实时展示推理链。"}
+          </p>
+        ) : (
+          steps.map((f, i) => <FrameRow key={i} frame={f} index={i} />)
+        )}
+      </div>
+
+      {steps.length > 0 && !streaming && (
+        <footer className="border-t border-border px-4 py-3 text-xs text-muted">
+          共 {steps.length} 步 · 红线触发 {blockedCount} 次 · 审计已记录
+        </footer>
+      )}
+    </aside>
+  );
+}
+
+/** 内嵌版思考过程：渲染在主对话流里（当前轮回复上方），可折叠。 */
+export function InlineThinking() {
+  const steps = useChatStore((s) => s.thinkingSteps);
+  const streaming = useChatStore((s) => s.isStreaming);
+  const [open, setOpen] = useState(true);
+  if (steps.length === 0) return null;
+  const blocked = steps.filter((s) => s.status === "blocked").length;
+
+  return (
+    <div className="mb-3 rounded-card border border-border bg-surface-2/40">
+      <button
+        onClick={() => setOpen((v) => !v)}
+        className="flex w-full items-center gap-2 px-3 py-2 text-xs text-muted hover:text-text"
+      >
+        <Brain size={14} className="text-accent" />
+        <span className="font-medium">思考过程</span>
+        <span className="opacity-60">· {steps.length} 步{blocked ? ` · 拦截 ${blocked}` : ""}</span>
+        {streaming && <span className="text-accent">思考中…</span>}
+        <span className="ml-auto">{open ? <ChevronDown size={14} /> : <ChevronRight size={14} />}</span>
+      </button>
+      {open && (
+        <div className="border-t border-border px-2 py-1">
+          {steps.map((f, i) => <FrameRow key={i} frame={f} index={i} />)}
+        </div>
+      )}
+    </div>
+  );
+}

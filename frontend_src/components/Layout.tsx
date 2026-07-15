@@ -1,1 +1,109 @@
-Ly8g5bqU55So5aSW5aOz77ya6aG26YOo5a+86IiqICsg5b2T5YmN55So5oi3ICsg6YCA5Ye6ICsg5piO5pqX5YiH5o2iICsg5ZCO56uv56a757q/5qiq5bmF44CC5YyF6KO55omA5pyJ5Y+X5L+d5oqk6aG16Z2i44CCCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUsIHR5cGUgUmVhY3ROb2RlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBOYXZMaW5rLCB1c2VOYXZpZ2F0ZSB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBNZXNzYWdlU3F1YXJlLCBTdG9yZSwgTGlicmFyeSwgU2V0dGluZ3MsIFVzZXJzLCBTaGllbGRBbGVydCwgU3VuLCBNb29uLCBXaWZpT2ZmLCBMb2dPdXQsIFNlcnZlciwgQnVpbGRpbmcyIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgdXNlVUlTdG9yZSB9IGZyb20gIkAvc3RvcmVzL3VzZVN0b3JlIjsKaW1wb3J0IHsgdXNlQXV0aFN0b3JlIH0gZnJvbSAiQC9zdG9yZXMvdXNlQXV0aFN0b3JlIjsKaW1wb3J0IHsgYmFja2VuZFN0YXRlLCBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwppbXBvcnQgeyBCcmFuZExvZ28sIEJyYW5kTmFtZSB9IGZyb20gIkAvY29tcG9uZW50cy9CcmFuZGluZ1Byb3ZpZGVyIjsKaW1wb3J0IHsgVGhlbWVNZW51IH0gZnJvbSAiQC9jb21wb25lbnRzL1RoZW1lTWVudSI7CmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKY29uc3QgUk9MRV9MQUJFTDogUmVjb3JkPHN0cmluZywgc3RyaW5nPiA9IHsKICBhZG1pbjogIueuoeeQhuWRmCIsIGRlcGFydG1lbnRfYWRtaW46ICLpg6jpl6jnrqHnkIblkZgiLCBkZXZlbG9wZXI6ICLlvIDlj5HogIUiLCB1c2VyOiAi55So5oi3IiwgYXVkaXRvcjogIuWuoeiuoeWRmCIsCn07CgpleHBvcnQgZnVuY3Rpb24gTGF5b3V0KHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICBjb25zdCB0aGVtZSA9IHVzZVVJU3RvcmUoKHMpID0+IHMudGhlbWUpOwogIGNvbnN0IHRvZ2dsZVRoZW1lID0gdXNlVUlTdG9yZSgocykgPT4gcy50b2dnbGVUaGVtZSk7CiAgY29uc3QgdXNlciA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy51c2VyKTsKICBjb25zdCBsb2dvdXQgPSB1c2VBdXRoU3RvcmUoKHMpID0+IHMubG9nb3V0KTsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgW29mZmxpbmUsIHNldE9mZmxpbmVdID0gdXNlU3RhdGUoZmFsc2UpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgdm9pZCBhcGkuY29tcHV0ZVN0YXR1cygpLnRoZW4oKCkgPT4gc2V0T2ZmbGluZSghYmFja2VuZFN0YXRlLm9ubGluZSkpOwogIH0sIFtdKTsKCiAgLy8g5oyJ6KeS6Imy5pi+56S65a+86Iiq77ya566h55CG5YWl5Y+j5LuFIGFkbWluIOWPr+ingQogIGNvbnN0IG5hdiA9IFsKICAgIHsgdG86ICIvY2hhdCIsIGxhYmVsOiAi5a+56K+dIiwgSWNvbjogTWVzc2FnZVNxdWFyZSB9LAogICAgeyB0bzogIi9hZ2VudHMiLCBsYWJlbDogIuaZuuiDveS9kyIsIEljb246IFN0b3JlIH0sCiAgICB7IHRvOiAiL2tiIiwgbGFiZWw6ICLnn6Xor4blupMiLCBJY29uOiBMaWJyYXJ5IH0sCiAgICAuLi4odXNlcj8ucm9sZSA9PT0gImFkbWluIiA/IFsKICAgICAgeyB0bzogIi9hZG1pbiIsIGxhYmVsOiAi566h55CGIiwgSWNvbjogU2V0dGluZ3MgfSwKICAgICAgeyB0bzogIi9vcmciLCBsYWJlbDogIue7hOe7hyIsIEljb246IEJ1aWxkaW5nMiB9LAogICAgICB7IHRvOiAiL3VzZXJzIiwgbGFiZWw6ICLnlKjmiLciLCBJY29uOiBVc2VycyB9LAogICAgICB7IHRvOiAiL21vZGVscyIsIGxhYmVsOiAi5qih5Z6LIiwgSWNvbjogU2VydmVyIH0sCiAgICBdIDogW10pLAogICAgLi4uKHVzZXI/LnJvbGUgPT09ICJhdWRpdG9yIiA/IFt7IHRvOiAiL2F1ZGl0IiwgbGFiZWw6ICLlrqHorqEiLCBJY29uOiBTaGllbGRBbGVydCB9XSA6IFtdKSwKICAgIHsgdG86ICIvZXZvbHV0aW9uIiwgbGFiZWw6ICLov5vljJYiLCBJY29uOiBTaGllbGRBbGVydCB9LAogIF07CgogIGNvbnN0IGRvTG9nb3V0ID0gKCkgPT4geyBsb2dvdXQoKTsgbmF2aWdhdGUoIi9sb2dpbiIpOyB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaC1zY3JlZW4gZmxleC1jb2wgYmctYmcgdGV4dC10ZXh0Ij4KICAgICAge29mZmxpbmUgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMiBiZy13YXJuaW5nLzEwIHB5LTEuNSB0ZXh0LXhzIHRleHQtd2FybmluZyI+CiAgICAgICAgICA8V2lmaU9mZiBzaXplPXsxM30gLz4g5ZCO56uv5pyN5Yqh5pyq6L+e5o6lIMK3IOW9k+WJjeS4uua8lOekuuaVsOaNrgogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC00IGJvcmRlci1iIGJvcmRlci1ib3JkZXIgcHgtNCBweS0yLjUiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICA8QnJhbmRMb2dvIGZhbGxiYWNrPXs8ZGl2IGNsYXNzTmFtZT0iZmxleCBoLTcgdy03IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWxnIGJnLWFjY2VudCB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+5YWDPC9kaXY+fSAvPgogICAgICAgICAgPEJyYW5kTmFtZSBmYWxsYmFjaz0iQUkg5bel5L2c5bmz5Y+wIiBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgdHJhY2tpbmctdGlnaHQiIC8+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxuYXYgY2xhc3NOYW1lPSJtbC00IGZsZXggaXRlbXMtY2VudGVyIGdhcC0xIj4KICAgICAgICAgIHtuYXYubWFwKCh7IHRvLCBsYWJlbCwgSWNvbiB9KSA9PiAoCiAgICAgICAgICAgIDxOYXZMaW5rCiAgICAgICAgICAgICAga2V5PXt0b30KICAgICAgICAgICAgICB0bz17dG99CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXsoeyBpc0FjdGl2ZSB9KSA9PgogICAgICAgICAgICAgICAgY24oCiAgICAgICAgICAgICAgICAgICJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IHJvdW5kZWQtYnRuIHB4LTMgcHktMS41IHRleHQtc20gdHJhbnNpdGlvbi1jb2xvcnMiLAogICAgICAgICAgICAgICAgICBpc0FjdGl2ZSA/ICJiZy1zdXJmYWNlLTIgdGV4dC10ZXh0IiA6ICJ0ZXh0LW11dGVkIGhvdmVyOnRleHQtdGV4dCIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8SWNvbiBzaXplPXsxNX0gLz4ge2xhYmVsfQogICAgICAgICAgICA8L05hdkxpbms+CiAgICAgICAgICApKX0KICAgICAgICA8L25hdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1sLWF1dG8gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAge3VzZXIgJiYgKAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcm91bmRlZC1idG4gYmctc3VyZmFjZS0yIHB4LTIuNSBweS0xLjUgdGV4dC14cyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmbGV4IGgtNSB3LTUgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQtZnVsbCBiZy1hY2NlbnQvMTUgdGV4dC1hY2NlbnQiPgogICAgICAgICAgICAgICAge3VzZXIuaWQuc2xpY2UoLTIpfQogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtbXV0ZWQiPntST0xFX0xBQkVMW3VzZXIucm9sZV0gPz8gdXNlci5yb2xlfTwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQogICAgICAgICAgPFRoZW1lTWVudSAvPgogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXt0b2dnbGVUaGVtZX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJyb3VuZGVkLWJ0biBwLTIgdGV4dC1tdXRlZCBob3ZlcjpiZy1zdXJmYWNlLTIgaG92ZXI6dGV4dC10ZXh0IgogICAgICAgICAgICBhcmlhLWxhYmVsPSLliIfmjaLmmI7mmpfkuLvpopgiCiAgICAgICAgICA+CiAgICAgICAgICAgIHt0aGVtZSA9PT0gImxpZ2h0IiA/IDxNb29uIHNpemU9ezE2fSAvPiA6IDxTdW4gc2l6ZT17MTZ9IC8+fQogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICB7dXNlciAmJiAoCiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXtkb0xvZ291dH0KICAgICAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtYnRuIHAtMiB0ZXh0LW11dGVkIGhvdmVyOmJnLXN1cmZhY2UtMiBob3Zlcjp0ZXh0LXRleHQiCiAgICAgICAgICAgICAgYXJpYS1sYWJlbD0i6YCA5Ye655m75b2VIgogICAgICAgICAgICAgIHRpdGxlPSLpgIDlh7rnmbvlvZUiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8TG9nT3V0IHNpemU9ezE2fSAvPgogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvaGVhZGVyPgoKICAgICAgPG1haW4gY2xhc3NOYW1lPSJtaW4taC0wIGZsZXgtMSI+e2NoaWxkcmVufTwvbWFpbj4KICAgIDwvZGl2PgogICk7Cn0K
+// 应用外壳：顶部导航 + 当前用户 + 退出 + 明暗切换 + 后端离线横幅。包裹所有受保护页面。
+import { useEffect, useState, type ReactNode } from "react";
+import { NavLink, useNavigate } from "react-router-dom";
+import { MessageSquare, Store, Library, Settings, Users, ShieldAlert, Sun, Moon, WifiOff, LogOut, Server, Building2 } from "lucide-react";
+import { useUIStore } from "@/stores/useStore";
+import { useAuthStore } from "@/stores/useAuthStore";
+import { backendState, api } from "@/lib/api";
+import { BrandLogo, BrandName } from "@/components/BrandingProvider";
+import { ThemeMenu } from "@/components/ThemeMenu";
+import { cn } from "@/lib/utils";
+
+const ROLE_LABEL: Record<string, string> = {
+  admin: "管理员", department_admin: "部门管理员", developer: "开发者", user: "用户", auditor: "审计员",
+};
+
+export function Layout({ children }: { children: ReactNode }) {
+  const theme = useUIStore((s) => s.theme);
+  const toggleTheme = useUIStore((s) => s.toggleTheme);
+  const user = useAuthStore((s) => s.user);
+  const logout = useAuthStore((s) => s.logout);
+  const navigate = useNavigate();
+  const [offline, setOffline] = useState(false);
+
+  useEffect(() => {
+    void api.computeStatus().then(() => setOffline(!backendState.online));
+  }, []);
+
+  // 按角色显示导航：管理入口仅 admin 可见
+  const nav = [
+    { to: "/chat", label: "对话", Icon: MessageSquare },
+    { to: "/agents", label: "智能体", Icon: Store },
+    { to: "/kb", label: "知识库", Icon: Library },
+    ...(user?.role === "admin" ? [
+      { to: "/admin", label: "管理", Icon: Settings },
+      { to: "/org", label: "组织", Icon: Building2 },
+      { to: "/users", label: "用户", Icon: Users },
+      { to: "/models", label: "模型", Icon: Server },
+    ] : []),
+    ...(user?.role === "auditor" ? [{ to: "/audit", label: "审计", Icon: ShieldAlert }] : []),
+    { to: "/evolution", label: "进化", Icon: ShieldAlert },
+  ];
+
+  const doLogout = () => { logout(); navigate("/login"); };
+
+  return (
+    <div className="flex h-screen flex-col bg-bg text-text">
+      {offline && (
+        <div className="flex items-center justify-center gap-2 bg-warning/10 py-1.5 text-xs text-warning">
+          <WifiOff size={13} /> 后端服务未连接 · 当前为演示数据
+        </div>
+      )}
+
+      <header className="flex items-center gap-4 border-b border-border px-4 py-2.5">
+        <div className="flex items-center gap-2">
+          <BrandLogo fallback={<div className="flex h-7 w-7 items-center justify-center rounded-lg bg-accent text-sm font-semibold text-white">元</div>} />
+          <BrandName fallback="AI 工作平台" className="font-display text-lg font-semibold tracking-tight" />
+        </div>
+
+        <nav className="ml-4 flex items-center gap-1">
+          {nav.map(({ to, label, Icon }) => (
+            <NavLink
+              key={to}
+              to={to}
+              className={({ isActive }) =>
+                cn(
+                  "flex items-center gap-1.5 rounded-btn px-3 py-1.5 text-sm transition-colors",
+                  isActive ? "bg-surface-2 text-text" : "text-muted hover:text-text"
+                )
+              }
+            >
+              <Icon size={15} /> {label}
+            </NavLink>
+          ))}
+        </nav>
+
+        <div className="ml-auto flex items-center gap-2">
+          {user && (
+            <div className="flex items-center gap-2 rounded-btn bg-surface-2 px-2.5 py-1.5 text-xs">
+              <span className="flex h-5 w-5 items-center justify-center rounded-full bg-accent/15 text-accent">
+                {user.id.slice(-2)}
+              </span>
+              <span className="text-muted">{ROLE_LABEL[user.role] ?? user.role}</span>
+            </div>
+          )}
+          <ThemeMenu />
+          <button
+            onClick={toggleTheme}
+            className="rounded-btn p-2 text-muted hover:bg-surface-2 hover:text-text"
+            aria-label="切换明暗主题"
+          >
+            {theme === "light" ? <Moon size={16} /> : <Sun size={16} />}
+          </button>
+          {user && (
+            <button
+              onClick={doLogout}
+              className="rounded-btn p-2 text-muted hover:bg-surface-2 hover:text-text"
+              aria-label="退出登录"
+              title="退出登录"
+            >
+              <LogOut size={16} />
+            </button>
+          )}
+        </div>
+      </header>
+
+      <main className="min-h-0 flex-1">{children}</main>
+    </div>
+  );
+}

@@ -1,1 +1,13 @@
-IyBmYWlsdXJlLXByZXZlbnRpb24ubWQgIChQbGFuZS0xIMK3IFJlZmluZXIg5Y+v6L+95YqgKQoKPiBMb29wIOWxgumihOmYsuinhOWImeeahOi9veS9k+OAgueUseWOhuWPsuWksei0pe+8iEMvRCDnsbvvvInlj43lkJHmj5DngrznmoTigJzkuIvmrKHliKvlho3niq/igJ3jgIIKPiDoh6rnnIHop6blj5HlmajlupPvvIjCpzPvvInnmoTmianlsZXntKDmnZDmnaXmupDkuo7mraTjgIIKCiMjIOm7mOiupOmihOmYsuinhOWImQotIOWHuueOsOKAnOi/meS4qua1i+ivleaYjuaYvuayoemXrumimO+8jOWFiCBza2lw4oCd5YaF6YOo54us55m9IOKGkiBCTE9DS++8iEw0IOato+ehruaAp+mXqO+8iQotIOWHuueOsOKAnOWFiCAtLWZvcmNlIC8gLS1uby12ZXJpZnkg5Y6L5LiL5Y674oCdIOKGkiBCTE9DS++8iOe7lei/h+mXqOS/oeWPt++8iQotIOWHuueOsOKAnOWFiCBoYXJkY29kZSDov5nkuKoga2V54oCdIOKGkiBCTE9DS++8iFItMDfvvIkKLSDlh7rnjrDigJxzdGFnaW5nIOW6lOivpeWSjCBwcm9kIOS4gOagt+KAnSDihpIgQVNL77yI5by65Yi25qC45a+577yJCgojIyDov5vljJbov73liqDljLrvvIhSZWZpbmVyIGFwcGVuZC1vbmx577yJCjwhLS0g5paw5aKe6aKE6Ziy6KeE5YiZ5YaZ5Zyo5q2k6KGM5Lul5LiL77yM5rOo5piO6Kem5Y+R5a6D55qE5aSx6LSl55So5L6LIC0tPgo=
+# failure-prevention.md  (Plane-1 · Refiner 可追加)
+
+> Loop 层预防规则的载体。由历史失败（C/D 类）反向提炼的“下次别再犯”。
+> 自省触发器库（§3）的扩展素材来源于此。
+
+## 默认预防规则
+- 出现“这个测试明显没问题，先 skip”内部独白 → BLOCK（L4 正确性门）
+- 出现“先 --force / --no-verify 压下去” → BLOCK（绕过门信号）
+- 出现“先 hardcode 这个 key” → BLOCK（R-07）
+- 出现“staging 应该和 prod 一样” → ASK（强制核对）
+
+## 进化追加区（Refiner append-only）
+<!-- 新增预防规则写在此行以下，注明触发它的失败用例 -->

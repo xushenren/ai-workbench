@@ -1,1 +1,15 @@
-aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IFJlYWN0RE9NIGZyb20gInJlYWN0LWRvbS9jbGllbnQiOwppbXBvcnQgQXBwIGZyb20gIi4vQXBwIjsKaW1wb3J0ICIuL2luZGV4LmNzcyI7CmltcG9ydCB7IGJvb3RBY2NlbnQgfSBmcm9tICJAL2xpYi9hY2NlbnRUaGVtZSI7CmltcG9ydCB7IGluaXRUaGVtZSB9IGZyb20gIkAvbGliL3RoZW1lIjsKaW5pdFRoZW1lKCk7Cgpib290QWNjZW50KCk7ICAvLyDlkK/liqjljbPlupTnlKjlt7Lkv53lrZjnmoTkuKrkurrlvLrosIPoibIo5ZCm5YiZ55SoIEt1biDpu5jorqQpCgpSZWFjdERPTS5jcmVhdGVSb290KGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyb290IikhKS5yZW5kZXIoCiAgPFJlYWN0LlN0cmljdE1vZGU+CiAgICA8QXBwIC8+CiAgPC9SZWFjdC5TdHJpY3RNb2RlPgopOwo=
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import "./index.css";
+import { bootAccent } from "@/lib/accentTheme";
+import { initTheme } from "@/lib/theme";
+initTheme();
+
+bootAccent();  // 启动即应用已保存的个人强调色(否则用 Kun 默认)
+
+ReactDOM.createRoot(document.getElementById("root")!).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);

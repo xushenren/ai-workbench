@@ -1,1 +1,123 @@
-aW1wb3J0IHsgQnV0dG9uLCBDYXJkIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3ByaW1pdGl2ZXMiOwovLyBLYk1hbmFnZVBhbmVsLnRzeCDigJQg5bu65bqTICsg5YWl5bqTKOWkmuagvOW8j+S4iuS8oCkgKyDnrqHnkIbnjrDmnInlupMo5Yig6ZmkL+WPr+ingeaApynjgIIKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFBsdXMsIFVwbG9hZCwgRmlsZVRleHQsIExvYWRlcjIgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwppbXBvcnQgdHlwZSB7IEtub3dsZWRnZUJhc2UgfSBmcm9tICJAL3R5cGVzIjsKCmNvbnN0IFZJUyA9IFsKICB7IGlkOiAicHJpdmF0ZSIsIGxhYmVsOiAi56eB5pyJIiB9LAogIHsgaWQ6ICJkZXBhcnRtZW50IiwgbGFiZWw6ICLpg6jpl6giIH0sCiAgeyBpZDogInB1YmxpYyIsIGxhYmVsOiAi5YWs5YWxIiB9LApdOwoKZXhwb3J0IGZ1bmN0aW9uIEtiTWFuYWdlUGFuZWwoeyBrYnMsIG9uQ2hhbmdlZCB9OiB7IGticzogS25vd2xlZGdlQmFzZVtdOyBvbkNoYW5nZWQ6ICgpID0+IHZvaWQgfSkgewogIGNvbnN0IFtuYW1lLCBzZXROYW1lXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbdmlzLCBzZXRWaXNdID0gdXNlU3RhdGUoInByaXZhdGUiKTsKICBjb25zdCBbc2VsS2IsIHNldFNlbEtiXSA9IHVzZVN0YXRlPHN0cmluZz4oIiIpOwogIGNvbnN0IFt0ZXh0LCBzZXRUZXh0XSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbYnVzeSwgc2V0QnVzeV0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW21zZywgc2V0TXNnXSA9IHVzZVN0YXRlPHsgb2s6IGJvb2xlYW47IHQ6IHN0cmluZyB9IHwgbnVsbD4obnVsbCk7CgogIGNvbnN0IG5vdGUgPSAob2s6IGJvb2xlYW4sIHQ6IHN0cmluZykgPT4geyBzZXRNc2coeyBvaywgdCB9KTsgc2V0VGltZW91dCgoKSA9PiBzZXRNc2cobnVsbCksIDI1MDApOyB9OwoKICBjb25zdCBjcmVhdGVLYiA9IGFzeW5jICgpID0+IHsKICAgIGlmICghbmFtZS50cmltKCkpIHJldHVybjsKICAgIHNldEJ1c3kodHJ1ZSk7CiAgICB0cnkgewogICAgICBhd2FpdCBhcGkuY3JlYXRlS2IobmFtZS50cmltKCksIHZpcyk7CiAgICAgIHNldE5hbWUoIiIpOyBvbkNoYW5nZWQoKTsgbm90ZSh0cnVlLCAi55+l6K+G5bqT5bey5Yib5bu6Iik7CiAgICB9IGNhdGNoIChlOiBhbnkpIHsgbm90ZShmYWxzZSwgZS5tZXNzYWdlIHx8ICLliJvlu7rlpLHotKUiKTsgfQogICAgZmluYWxseSB7IHNldEJ1c3koZmFsc2UpOyB9CiAgfTsKCiAgY29uc3QgaW5nZXN0ID0gYXN5bmMgKCkgPT4gewogICAgaWYgKCFzZWxLYiB8fCAhdGV4dC50cmltKCkpIHJldHVybjsKICAgIHNldEJ1c3kodHJ1ZSk7CiAgICB0cnkgewogICAgICBjb25zdCByID0gYXdhaXQgYXBpLmluZ2VzdFRleHQoc2VsS2IsIHRleHQudHJpbSgpKTsKICAgICAgc2V0VGV4dCgiIik7IG9uQ2hhbmdlZCgpOyBub3RlKHRydWUsIGDlt7LlhaXlupMo5YWxICR7ci5kb2NfY291bnR9IOautSlgKTsKICAgIH0gY2F0Y2ggKGU6IGFueSkgeyBub3RlKGZhbHNlLCBlLm1lc3NhZ2UgfHwgIuWFpeW6k+Wksei0pSIpOyB9CiAgICBmaW5hbGx5IHsgc2V0QnVzeShmYWxzZSk7IH0KICB9OwoKICBjb25zdCB1cGxvYWQgPSBhc3luYyAoZjogRmlsZSB8IHVuZGVmaW5lZCkgPT4gewogICAgaWYgKCFzZWxLYiB8fCAhZikgcmV0dXJuOwogICAgc2V0QnVzeSh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHIgPSBhd2FpdCBhcGkuYmF0Y2hJbmdlc3Qoc2VsS2IsIFtmXSk7CiAgICAgIG9uQ2hhbmdlZCgpOyBub3RlKHRydWUsIGDlt7LkuIrkvKAo5YWxICR7ci5kb2NfY291bnR9IOautSlgKTsKICAgIH0gY2F0Y2ggKGU6IGFueSkgeyBub3RlKGZhbHNlLCBlLm1lc3NhZ2UgfHwgIuS4iuS8oOWksei0pSIpOyB9CiAgICBmaW5hbGx5IHsgc2V0QnVzeShmYWxzZSk7IH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPENhcmQgY2xhc3NOYW1lPSJtLTMgcC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMyBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIGZvbnQtbWVkaXVtIj4KICAgICAgICAgIDxQbHVzIHNpemU9ezE1fSBjbGFzc05hbWU9InRleHQtYWNjZW50IiAvPiDmlrDlu7rnn6Xor4blupMKICAgICAgICA8L2Rpdj4KICAgICAgICA8aW5wdXQgdmFsdWU9e25hbWV9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0TmFtZShlLnRhcmdldC52YWx1ZSl9IHBsYWNlaG9sZGVyPSLlupPlkI3np7AiCiAgICAgICAgICBjbGFzc05hbWU9Im1iLTIgdy1mdWxsIHJvdW5kZWQtbWQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSBweC0yLjUgcHktMS41IHRleHQtc20iIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTIgZmxleCBnYXAtMS41Ij4KICAgICAgICAgIHtWSVMubWFwKCh2KSA9PiAoCiAgICAgICAgICAgIDxidXR0b24ga2V5PXt2LmlkfSBvbkNsaWNrPXsoKSA9PiBzZXRWaXModi5pZCl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcm91bmRlZC1tZCBweC0yIHB5LTEgdGV4dC14cyAke3ZpcyA9PT0gdi5pZCA/ICJiZy1hY2NlbnQgdGV4dC13aGl0ZSIgOiAiYmctc3VyZmFjZS0yIHRleHQtbXV0ZWQifWB9PgogICAgICAgICAgICAgIHt2LmxhYmVsfQogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIG9uQ2xpY2s9e2NyZWF0ZUtifSBkaXNhYmxlZD17YnVzeX0gY2xhc3NOYW1lPSJ3LWZ1bGwiPuWIm+W7ujwvQnV0dG9uPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXktMyBib3JkZXItdCBib3JkZXItYm9yZGVyIiAvPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMiB0ZXh0LXNtIGZvbnQtbWVkaXVtIj7pgInmi6nlupM8L2Rpdj4KICAgICAgICA8c2VsZWN0IHZhbHVlPXtzZWxLYn0gb25DaGFuZ2U9eyhlKSA9PiBzZXRTZWxLYihlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICBjbGFzc05hbWU9Im1iLTIgdy1mdWxsIHJvdW5kZWQtbWQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSBweC0yLjUgcHktMS41IHRleHQtc20iPgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj4tLSDpgInkuIDkuKrlupMgLS08L29wdGlvbj4KICAgICAgICAgIHtrYnMubWFwKChrOiBhbnkpID0+ICgKICAgICAgICAgICAgPG9wdGlvbiBrZXk9e2suaWR9IHZhbHVlPXtrLmlkfT57ay5uYW1lfSAoe2sudHlwZSA/PyAicHJpdmF0ZSJ9KTwvb3B0aW9uPgogICAgICAgICAgKSl9CiAgICAgICAgPC9zZWxlY3Q+CgogICAgICAgIDx0ZXh0YXJlYSB2YWx1ZT17dGV4dH0gb25DaGFuZ2U9eyhlKSA9PiBzZXRUZXh0KGUudGFyZ2V0LnZhbHVlKX0gcm93cz17M30KICAgICAgICAgIHBsYWNlaG9sZGVyPSLnspjotLTmlofmnKzigKYiCiAgICAgICAgICBjbGFzc05hbWU9Im1iLTIgdy1mdWxsIHJvdW5kZWQtbWQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSBweC0yLjUgcHktMS41IHRleHQtc20gcmVzaXplLW5vbmUiIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIiPgogICAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgb25DbGljaz17aW5nZXN0fSBkaXNhYmxlZD17YnVzeSB8fCAhc2VsS2IgfHwgIXRleHQudHJpbSgpfT4KICAgICAgICAgICAge2J1c3kgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogPEZpbGVUZXh0IHNpemU9ezE0fSAvPn0g5YWl5bqTCiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9e2BjdXJzb3ItcG9pbnRlciByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIHB4LTIuNSBweS0xLjUgdGV4dC14cyAkeyFzZWxLYiA/ICJvcGFjaXR5LTUwIiA6ICJob3ZlcjpiZy1zdXJmYWNlLTIifWB9PgogICAgICAgICAgICDkuIrkvKDmlofmoaMKICAgICAgICAgICAgPGlucHV0IHR5cGU9ImZpbGUiIGFjY2VwdD0iLnR4dCwubWQsLmNzdiwucGRmLC5kb2MsLmRvY3gsLnhscywueGxzeCwucHB0LC5wcHR4IiBjbGFzc05hbWU9ImhpZGRlbiIgZGlzYWJsZWQ9eyFzZWxLYn0KICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHVwbG9hZChlLnRhcmdldC5maWxlcz8uWzBdKX0gLz4KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHttc2cgJiYgKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2BtdC0yIHRleHQteHMgJHttc2cub2sgPyAidGV4dC1hY2NlbnQiIDogInRleHQtcmVkLTUwMCJ9YH0+e21zZy50fTwvZGl2PgogICAgICAgICl9CiAgICAgIDwvQ2FyZD4KCiAgICAgIDxDYXJkIGNsYXNzTmFtZT0ibS0zIHAtNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTMgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSBmb250LW1lZGl1bSI+CiAgICAgICAgICDnrqHnkIbnjrDmnInlupMKICAgICAgICA8L2Rpdj4KICAgICAgICB7a2JzLm1hcCgoazogYW55KSA9PiAoCiAgICAgICAgICA8ZGl2IGtleT17ay5pZH0gY2xhc3NOYW1lPSJtYi0xLjUgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleC0xIHRydW5jYXRlIj57ay5uYW1lfTwvc3Bhbj4KICAgICAgICAgICAgPHNlbGVjdCB2YWx1ZT17ay50eXBlID8/ICJwcml2YXRlIn0KICAgICAgICAgICAgICBvbkNoYW5nZT17YXN5bmMgKGUpID0+IHsgdHJ5IHsgYXdhaXQgYXBpLnNldEtiVmlzaWJpbGl0eShrLmlkLCBlLnRhcmdldC52YWx1ZSk7IG9uQ2hhbmdlZCgpOyBub3RlKHRydWUsICLlt7LmlLnlj6/op4HmgKciKTsgfSBjYXRjaCAoZXJyOiBhbnkpIHsgbm90ZShmYWxzZSwgZXJyLm1lc3NhZ2UpOyB9IH19CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJyb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UtMiBweC0xLjUgcHktMSB0ZXh0LXhzIj4KICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJwcml2YXRlIj7np4HmnIk8L29wdGlvbj4KICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJkZXBhcnRtZW50Ij7pg6jpl6g8L29wdGlvbj4KICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJwdWJsaWMiPuWFrOWFsTwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXthc3luYyAoKSA9PiB7IGlmIChjb25maXJtKCLliKDpmaTnn6Xor4blupPjgIwiICsgay5uYW1lICsgIuOAjeWPiuWFtuWFqOmDqOWGheWuuT/kuI3lj6/mkqTplIDjgIIiKSkgeyB0cnkgeyBhd2FpdCBhcGkuZGVsZXRlS2Ioay5pZCk7IG9uQ2hhbmdlZCgpOyBub3RlKHRydWUsICLlt7LliKDpmaQiKTsgfSBjYXRjaCAoZXJyOiBhbnkpIHsgbm90ZShmYWxzZSwgZXJyLm1lc3NhZ2UpOyB9IH0gfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtbXV0ZWQgaG92ZXI6dGV4dC1yZWQtNTAwIiB0aXRsZT0i5Yig6Zmk5bqTIj7wn5eRPC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9DYXJkPgogICAgPC9kaXY+CiAgKTsKfQo=
+import { Button, Card } from "@/components/ui/primitives";
+// KbManagePanel.tsx — 建库 + 入库(多格式上传) + 管理现有库(删除/可见性)。
+import { useState } from "react";
+import { Plus, Upload, FileText, Loader2 } from "lucide-react";
+import { api } from "@/lib/api";
+import type { KnowledgeBase } from "@/types";
+
+const VIS = [
+  { id: "private", label: "私有" },
+  { id: "department", label: "部门" },
+  { id: "public", label: "公共" },
+];
+
+export function KbManagePanel({ kbs, onChanged }: { kbs: KnowledgeBase[]; onChanged: () => void }) {
+  const [name, setName] = useState("");
+  const [vis, setVis] = useState("private");
+  const [selKb, setSelKb] = useState<string>("");
+  const [text, setText] = useState("");
+  const [busy, setBusy] = useState(false);
+  const [msg, setMsg] = useState<{ ok: boolean; t: string } | null>(null);
+
+  const note = (ok: boolean, t: string) => { setMsg({ ok, t }); setTimeout(() => setMsg(null), 2500); };
+
+  const createKb = async () => {
+    if (!name.trim()) return;
+    setBusy(true);
+    try {
+      await api.createKb(name.trim(), vis);
+      setName(""); onChanged(); note(true, "知识库已创建");
+    } catch (e: any) { note(false, e.message || "创建失败"); }
+    finally { setBusy(false); }
+  };
+
+  const ingest = async () => {
+    if (!selKb || !text.trim()) return;
+    setBusy(true);
+    try {
+      const r = await api.ingestText(selKb, text.trim());
+      setText(""); onChanged(); note(true, `已入库(共 ${r.doc_count} 段)`);
+    } catch (e: any) { note(false, e.message || "入库失败"); }
+    finally { setBusy(false); }
+  };
+
+  const upload = async (f: File | undefined) => {
+    if (!selKb || !f) return;
+    setBusy(true);
+    try {
+      const r = await api.batchIngest(selKb, [f]);
+      onChanged(); note(true, `已上传(共 ${r.doc_count} 段)`);
+    } catch (e: any) { note(false, e.message || "上传失败"); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <div>
+      <Card className="m-3 p-4">
+        <div className="mb-3 flex items-center gap-2 text-sm font-medium">
+          <Plus size={15} className="text-accent" /> 新建知识库
+        </div>
+        <input value={name} onChange={(e) => setName(e.target.value)} placeholder="库名称"
+          className="mb-2 w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm" />
+        <div className="mb-2 flex gap-1.5">
+          {VIS.map((v) => (
+            <button key={v.id} onClick={() => setVis(v.id)}
+              className={`rounded-md px-2 py-1 text-xs ${vis === v.id ? "bg-accent text-white" : "bg-surface-2 text-muted"}`}>
+              {v.label}
+            </button>
+          ))}
+        </div>
+        <Button size="sm" onClick={createKb} disabled={busy} className="w-full">创建</Button>
+
+        <div className="my-3 border-t border-border" />
+
+        <div className="mb-2 text-sm font-medium">选择库</div>
+        <select value={selKb} onChange={(e) => setSelKb(e.target.value)}
+          className="mb-2 w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm">
+          <option value="">-- 选一个库 --</option>
+          {kbs.map((k: any) => (
+            <option key={k.id} value={k.id}>{k.name} ({k.type ?? "private"})</option>
+          ))}
+        </select>
+
+        <textarea value={text} onChange={(e) => setText(e.target.value)} rows={3}
+          placeholder="粘贴文本…"
+          className="mb-2 w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm resize-none" />
+        <div className="flex gap-2">
+          <Button size="sm" onClick={ingest} disabled={busy || !selKb || !text.trim()}>
+            {busy ? <Loader2 size={14} className="animate-spin" /> : <FileText size={14} />} 入库
+          </Button>
+          <label className={`cursor-pointer rounded-md border border-border px-2.5 py-1.5 text-xs ${!selKb ? "opacity-50" : "hover:bg-surface-2"}`}>
+            上传文档
+            <input type="file" accept=".txt,.md,.csv,.pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx" className="hidden" disabled={!selKb}
+              onChange={(e) => upload(e.target.files?.[0])} />
+          </label>
+        </div>
+
+        {msg && (
+          <div className={`mt-2 text-xs ${msg.ok ? "text-accent" : "text-red-500"}`}>{msg.t}</div>
+        )}
+      </Card>
+
+      <Card className="m-3 p-4">
+        <div className="mb-3 flex items-center gap-2 text-sm font-medium">
+          管理现有库
+        </div>
+        {kbs.map((k: any) => (
+          <div key={k.id} className="mb-1.5 flex items-center gap-2 text-sm">
+            <span className="flex-1 truncate">{k.name}</span>
+            <select value={k.type ?? "private"}
+              onChange={async (e) => { try { await api.setKbVisibility(k.id, e.target.value); onChanged(); note(true, "已改可见性"); } catch (err: any) { note(false, err.message); } }}
+              className="rounded-md border border-border bg-surface-2 px-1.5 py-1 text-xs">
+              <option value="private">私有</option>
+              <option value="department">部门</option>
+              <option value="public">公共</option>
+            </select>
+            <button onClick={async () => { if (confirm("删除知识库「" + k.name + "」及其全部内容?不可撤销。")) { try { await api.deleteKb(k.id); onChanged(); note(true, "已删除"); } catch (err: any) { note(false, err.message); } } }}
+              className="text-muted hover:text-red-500" title="删除库">🗑</button>
+          </div>
+        ))}
+      </Card>
+    </div>
+  );
+}

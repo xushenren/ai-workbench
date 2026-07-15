@@ -1,1 +1,16 @@
-aW1wb3J0IHsgZGVmaW5lQ29uZmlnIH0gZnJvbSAidml0ZSI7CmltcG9ydCByZWFjdCBmcm9tICJAdml0ZWpzL3BsdWdpbi1yZWFjdCI7CmltcG9ydCBwYXRoIGZyb20gInBhdGgiOwoKLy8g5byA5Y+R5Luj55CG77ya5oqKIC92MSBSRVNUIOWSjCBXZWJTb2NrZXQg6L2s5Y+R5Yiw5ZCO56uvIDkwMDDvvIzpgb/lhY3ot6jln5/jgIIKZXhwb3J0IGRlZmF1bHQgZGVmaW5lQ29uZmlnKHsKICBiYXNlOiAvYXBwLywKICBwbHVnaW5zOiBbcmVhY3QoKV0sCiAgcmVzb2x2ZTogeyBhbGlhczogeyAiQCI6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICIuIikgfSB9LAogIHNlcnZlcjogewogICAgcG9ydDogNTE3MywKICAgIHByb3h5OiB7CiAgICAgICIvdjEiOiB7IHRhcmdldDogImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMCIsIGNoYW5nZU9yaWdpbjogdHJ1ZSwgd3M6IHRydWUgfSwKICAgIH0sCiAgfSwKfSk7Cg==
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+import path from "path";
+
+// 开发代理：把 /v1 REST 和 WebSocket 转发到后端 9000，避免跨域。
+export default defineConfig({
+  base: /app/,
+  plugins: [react()],
+  resolve: { alias: { "@": path.resolve(__dirname, ".") } },
+  server: {
+    port: 5173,
+    proxy: {
+      "/v1": { target: "http://localhost:9000", changeOrigin: true, ws: true },
+    },
+  },
+});

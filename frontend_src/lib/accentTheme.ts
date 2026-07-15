@@ -1,1 +1,61 @@
-Ly8gYWNjZW50VGhlbWUudHMg4oCUIOS4quS6uuW8uuiwg+iJsjrlhpnlhaUgL2FwcCDnmoQgLS1hY2NlbnQgLyAtLWFjY2VudC1ob3ZlciDlj5jph4/lubbmjIHkuYXljJbjgIIKLy8gL2FwcCDpopzoibLnlKgi56m65qC85YiG6ZqUIFJHQiDkuInlhYPnu4QiKOmFjeWQiCB0YWlsd2luZCDnmoQgcmdiKHZhcigpL2FscGhhKSks6L+Z6YeM5oqKICNoZXgg6L2s5oiQ5LiJ5YWD57uE44CCCgpjb25zdCBLRVlfQUNDRU5UID0gImFwcC5hY2NlbnQiOwpjb25zdCBLRVlfT05CT0FSREVEID0gImFwcC5hY2NlbnQub25ib2FyZGVkIjsKCmV4cG9ydCBjb25zdCBBQ0NFTlRfUFJFU0VUUyA9IFsKICAiIzNCODJEOCIsIC8vIEt1biDok50o6buY6K6kKQogICIjMEY3NjZFIiwgLy8g6Z2SCiAgIiM3QzNBRUQiLCAvLyDntKsKICAiI0I0NTMwQSIsIC8vIOeQpeePgAogICIjQkUxMjNDIiwgLy8g57ub57qiCiAgIiMxRjI5MzciLCAvLyDloqgKXTsKCmZ1bmN0aW9uIGhleFRvVHJpcGxlKGhleDogc3RyaW5nKTogc3RyaW5nIHsKICBjb25zdCBoID0gaGV4LnJlcGxhY2UoIiMiLCAiIik7CiAgY29uc3QgbiA9IGgubGVuZ3RoID09PSAzID8gaC5zcGxpdCgiIikubWFwKChjKSA9PiBjICsgYykuam9pbigiIikgOiBoOwogIGNvbnN0IGludCA9IHBhcnNlSW50KG4gfHwgIjNiODJkOCIsIDE2KTsKICByZXR1cm4gYCR7KGludCA+PiAxNikgJiAyNTV9ICR7KGludCA+PiA4KSAmIDI1NX0gJHtpbnQgJiAyNTV9YDsKfQoKZnVuY3Rpb24gZGFya2VuKGhleDogc3RyaW5nLCBhbW91bnQgPSAwLjEyKTogc3RyaW5nIHsKICBjb25zdCBoID0gaGV4LnJlcGxhY2UoIiMiLCAiIik7CiAgY29uc3QgbiA9IGgubGVuZ3RoID09PSAzID8gaC5zcGxpdCgiIikubWFwKChjKSA9PiBjICsgYykuam9pbigiIikgOiBoOwogIGNvbnN0IGludCA9IHBhcnNlSW50KG4sIDE2KTsKICBjb25zdCBmID0gKHg6IG51bWJlcikgPT4gTWF0aC5tYXgoMCwgTWF0aC5yb3VuZCh4ICogKDEgLSBhbW91bnQpKSk7CiAgcmV0dXJuIGAke2YoKGludCA+PiAxNikgJiAyNTUpfSAke2YoKGludCA+PiA4KSAmIDI1NSl9ICR7ZihpbnQgJiAyNTUpfWA7Cn0KCi8qKiDnq4vljbPmiorlvLrosIPoibLlhpnov5sgOnJvb3Qo5YWo56uZ55Sf5pWIKeOAguS4jeaMgeS5heWMliznlKjkuo7lrp7ml7bpooTop4jjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIGFwcGx5QWNjZW50KGhleDogc3RyaW5nKTogdm9pZCB7CiAgY29uc3Qgcm9vdCA9IGRvY3VtZW50LmRvY3VtZW50RWxlbWVudDsKICByb290LnN0eWxlLnNldFByb3BlcnR5KCItLWFjY2VudCIsIGhleFRvVHJpcGxlKGhleCkpOwogIHJvb3Quc3R5bGUuc2V0UHJvcGVydHkoIi0tYWNjZW50LWhvdmVyIiwgZGFya2VuKGhleCkpOwp9CgovKiog5L+d5a2Y5Li65Liq5Lq65by66LCD6Imy5bm25qCH6K6w5bey5a6M5oiQ5byV5a+844CCICovCmV4cG9ydCBmdW5jdGlvbiBzYXZlQWNjZW50KGhleDogc3RyaW5nKTogdm9pZCB7CiAgYXBwbHlBY2NlbnQoaGV4KTsKICB0cnkgewogICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oS0VZX0FDQ0VOVCwgaGV4KTsKICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKEtFWV9PTkJPQVJERUQsICIxIik7CiAgfSBjYXRjaCB7IC8qIOmakOengeaooeW8j+W/veeVpSAqLyB9Cn0KCi8qKiDlupTnlKjlkK/liqjml7bosIPnlKg65pyJ5L+d5a2Y5YC85bCx5bqU55SoKOWQpuWImeeUqCBpbmRleC5jc3Mg6YeM55qEIEt1biDpu5jorqQp44CCICovCmV4cG9ydCBmdW5jdGlvbiBib290QWNjZW50KCk6IHZvaWQgewogIHRyeSB7CiAgICBjb25zdCBzYXZlZCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKEtFWV9BQ0NFTlQpOwogICAgaWYgKHNhdmVkKSBhcHBseUFjY2VudChzYXZlZCk7CiAgfSBjYXRjaCB7IC8qIGlnbm9yZSAqLyB9Cn0KCmV4cG9ydCBmdW5jdGlvbiBpc09uYm9hcmRlZCgpOiBib29sZWFuIHsKICB0cnkgeyByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0oS0VZX09OQk9BUkRFRCkgPT09ICIxIjsgfSBjYXRjaCB7IHJldHVybiB0cnVlOyB9Cn0KCmV4cG9ydCBmdW5jdGlvbiBnZXRTYXZlZEFjY2VudCgpOiBzdHJpbmcgewogIHRyeSB7IHJldHVybiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShLRVlfQUNDRU5UKSB8fCBBQ0NFTlRfUFJFU0VUU1swXTsgfSBjYXRjaCB7IHJldHVybiBBQ0NFTlRfUFJFU0VUU1swXTsgfQp9Cg==
+// accentTheme.ts — 个人强调色:写入 /app 的 --accent / --accent-hover 变量并持久化。
+// /app 颜色用"空格分隔 RGB 三元组"(配合 tailwind 的 rgb(var()/alpha)),这里把 #hex 转成三元组。
+
+const KEY_ACCENT = "app.accent";
+const KEY_ONBOARDED = "app.accent.onboarded";
+
+export const ACCENT_PRESETS = [
+  "#3B82D8", // Kun 蓝(默认)
+  "#0F766E", // 青
+  "#7C3AED", // 紫
+  "#B4530A", // 琥珀
+  "#BE123C", // 绛红
+  "#1F2937", // 墨
+];
+
+function hexToTriple(hex: string): string {
+  const h = hex.replace("#", "");
+  const n = h.length === 3 ? h.split("").map((c) => c + c).join("") : h;
+  const int = parseInt(n || "3b82d8", 16);
+  return `${(int >> 16) & 255} ${(int >> 8) & 255} ${int & 255}`;
+}
+
+function darken(hex: string, amount = 0.12): string {
+  const h = hex.replace("#", "");
+  const n = h.length === 3 ? h.split("").map((c) => c + c).join("") : h;
+  const int = parseInt(n, 16);
+  const f = (x: number) => Math.max(0, Math.round(x * (1 - amount)));
+  return `${f((int >> 16) & 255)} ${f((int >> 8) & 255)} ${f(int & 255)}`;
+}
+
+/** 立即把强调色写进 :root(全站生效)。不持久化,用于实时预览。 */
+export function applyAccent(hex: string): void {
+  const root = document.documentElement;
+  root.style.setProperty("--accent", hexToTriple(hex));
+  root.style.setProperty("--accent-hover", darken(hex));
+}
+
+/** 保存为个人强调色并标记已完成引导。 */
+export function saveAccent(hex: string): void {
+  applyAccent(hex);
+  try {
+    localStorage.setItem(KEY_ACCENT, hex);
+    localStorage.setItem(KEY_ONBOARDED, "1");
+  } catch { /* 隐私模式忽略 */ }
+}
+
+/** 应用启动时调用:有保存值就应用(否则用 index.css 里的 Kun 默认)。 */
+export function bootAccent(): void {
+  try {
+    const saved = localStorage.getItem(KEY_ACCENT);
+    if (saved) applyAccent(saved);
+  } catch { /* ignore */ }
+}
+
+export function isOnboarded(): boolean {
+  try { return localStorage.getItem(KEY_ONBOARDED) === "1"; } catch { return true; }
+}
+
+export function getSavedAccent(): string {
+  try { return localStorage.getItem(KEY_ACCENT) || ACCENT_PRESETS[0]; } catch { return ACCENT_PRESETS[0]; }
+}

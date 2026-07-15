@@ -1,1 +1,25 @@
-Ly8gQnJhbmRpbmdQcm92aWRlci50c3gg4oCUIOWFqOWxgOWTgeeJjOS4iuS4i+aWh+OAguWMheS9jyBBcHA75ZCv5Yqo5ouJ5Y+W5bm25bqU55SoO+e7mSBoZWFkZXIg55SoIDxCcmFuZExvZ28vPiA8QnJhbmROYW1lLz7jgIIKaW1wb3J0IHsgY3JlYXRlQ29udGV4dCwgdXNlQ29udGV4dCwgdXNlRWZmZWN0LCB1c2VTdGF0ZSwgUmVhY3ROb2RlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBsb2FkQnJhbmRpbmcsIHR5cGUgQnJhbmQgfSBmcm9tICJAL2xpYi9icmFuZGluZyI7Cgpjb25zdCBDdHggPSBjcmVhdGVDb250ZXh0PEJyYW5kIHwgbnVsbD4obnVsbCk7CmV4cG9ydCBjb25zdCB1c2VCcmFuZCA9ICgpID0+IHVzZUNvbnRleHQoQ3R4KTsKCmV4cG9ydCBmdW5jdGlvbiBCcmFuZGluZ1Byb3ZpZGVyKHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICBjb25zdCBbYnJhbmQsIHNldEJyYW5kXSA9IHVzZVN0YXRlPEJyYW5kIHwgbnVsbD4obnVsbCk7CiAgdXNlRWZmZWN0KCgpID0+IHsgbG9hZEJyYW5kaW5nKCkudGhlbihzZXRCcmFuZCk7IH0sIFtdKTsKICByZXR1cm4gPEN0eC5Qcm92aWRlciB2YWx1ZT17YnJhbmR9PntjaGlsZHJlbn08L0N0eC5Qcm92aWRlcj47Cn0KCi8vIOaUvui/m+mhtuagjyBsb2dvIOS9jee9rjrmnInoh6rlrprkuYkgbG9nbyDnlKjlm74s5ZCm5YiZ5Zue6YCA6buY6K6kKOS8oCBmYWxsYmFjaynjgIIKZXhwb3J0IGZ1bmN0aW9uIEJyYW5kTG9nbyh7IGZhbGxiYWNrLCBjbGFzc05hbWUgPSAiaC03IHctNyByb3VuZGVkLW1kIiB9OiB7IGZhbGxiYWNrPzogUmVhY3ROb2RlOyBjbGFzc05hbWU/OiBzdHJpbmcgfSkgewogIGNvbnN0IGIgPSB1c2VCcmFuZCgpOwogIGlmIChiPy5sb2dvX3VybCkgcmV0dXJuIDxpbWcgc3JjPXtiLmxvZ29fdXJsfSBhbHQ9e2IucGxhdGZvcm1fbmFtZSB8fCAibG9nbyJ9IGNsYXNzTmFtZT17Y2xhc3NOYW1lfSAvPjsKICByZXR1cm4gPD57ZmFsbGJhY2sgPz8gbnVsbH08Lz47Cn0KCi8vIOaUvui/m+mhtuagj+W5s+WPsOWQjeS9jee9ruOAggpleHBvcnQgZnVuY3Rpb24gQnJhbmROYW1lKHsgZmFsbGJhY2sgPSAiQUkg5bel5L2c5bmz5Y+wIiwgY2xhc3NOYW1lID0gImZvbnQtZGlzcGxheSB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQiIH06IHsgZmFsbGJhY2s/OiBzdHJpbmc7IGNsYXNzTmFtZT86IHN0cmluZyB9KSB7CiAgY29uc3QgYiA9IHVzZUJyYW5kKCk7CiAgcmV0dXJuIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3NOYW1lfT57Yj8ucGxhdGZvcm1fbmFtZSB8fCBmYWxsYmFja308L3NwYW4+Owp9Cg==
+// BrandingProvider.tsx — 全局品牌上下文。包住 App;启动拉取并应用;给 header 用 <BrandLogo/> <BrandName/>。
+import { createContext, useContext, useEffect, useState, ReactNode } from "react";
+import { loadBranding, type Brand } from "@/lib/branding";
+
+const Ctx = createContext<Brand | null>(null);
+export const useBrand = () => useContext(Ctx);
+
+export function BrandingProvider({ children }: { children: ReactNode }) {
+  const [brand, setBrand] = useState<Brand | null>(null);
+  useEffect(() => { loadBranding().then(setBrand); }, []);
+  return <Ctx.Provider value={brand}>{children}</Ctx.Provider>;
+}
+
+// 放进顶栏 logo 位置:有自定义 logo 用图,否则回退默认(传 fallback)。
+export function BrandLogo({ fallback, className = "h-7 w-7 rounded-md" }: { fallback?: ReactNode; className?: string }) {
+  const b = useBrand();
+  if (b?.logo_url) return <img src={b.logo_url} alt={b.platform_name || "logo"} className={className} />;
+  return <>{fallback ?? null}</>;
+}
+
+// 放进顶栏平台名位置。
+export function BrandName({ fallback = "AI 工作平台", className = "font-display text-sm font-semibold" }: { fallback?: string; className?: string }) {
+  const b = useBrand();
+  return <span className={className}>{b?.platform_name || fallback}</span>;
+}

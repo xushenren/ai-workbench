@@ -1,1 +1,113 @@
-Ly8gL2FkbWluIOWQjuWPsOeuoeeQhu+8mjYg57uf6K6h5Y2hICsgNCDpnaLmnb/vvIjmqKHlnovphY3nva4gLyBUb2tlbiDphY3pop0gLyDlronlhajpl6jmjqcgLyDmnIDov5HlrqHorqHvvInjgIIKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSwgdHlwZSBSZWFjdE5vZGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFVzZXJzLCBCb3QsIFNlcnZlciwgQ29pbnMsIExpYnJhcnksIFNoaWVsZEFsZXJ0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgQ2FyZCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9wcmltaXRpdmVzIjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiQC9saWIvYXBpIjsKaW1wb3J0IHR5cGUgeyBBZG1pblN0YXRzIH0gZnJvbSAiQC90eXBlcyI7CmltcG9ydCB7IFNBTVBMRV9TVEFUUyB9IGZyb20gIkAvbGliL3NhbXBsZURhdGEiOwppbXBvcnQgeyBjbiwgZm10IH0gZnJvbSAiQC9saWIvdXRpbHMiOwppbXBvcnQgeyBVc2VySW1wb3J0UGFuZWwgfSBmcm9tICJAL2NvbXBvbmVudHMvVXNlckltcG9ydFBhbmVsIjsKCmV4cG9ydCBmdW5jdGlvbiBBZG1pblBhbmVsKCkgewogIGNvbnN0IFtzdGF0cywgc2V0U3RhdHNdID0gdXNlU3RhdGU8QWRtaW5TdGF0cz4oU0FNUExFX1NUQVRTKTsKICB1c2VFZmZlY3QoKCkgPT4geyB2b2lkIGFwaS5hZG1pblN0YXRzKCkudGhlbihzZXRTdGF0cyk7IH0sIFtdKTsKCiAgY29uc3QgY2FyZHMgPSBbCiAgICB7IGxhYmVsOiAi55So5oi3IiwgdmFsdWU6IGZtdChzdGF0cy51c2VycyksIEljb246IFVzZXJzIH0sCiAgICB7IGxhYmVsOiAi5pm66IO95L2TIiwgdmFsdWU6IGZtdChzdGF0cy5hZ2VudHMpLCBJY29uOiBCb3QgfSwKICAgIHsgbGFiZWw6ICLnrpflipvoioLngrkiLCB2YWx1ZTogZm10KHN0YXRzLmNvbXB1dGVfbm9kZXMpLCBJY29uOiBTZXJ2ZXIgfSwKICAgIHsgbGFiZWw6ICLmnKzmnIggVG9rZW4iLCB2YWx1ZTogZm10KHN0YXRzLm1vbnRobHlfdG9rZW5zKSwgSWNvbjogQ29pbnMgfSwKICAgIHsgbGFiZWw6ICLnn6Xor4blupMiLCB2YWx1ZTogZm10KHN0YXRzLmtub3dsZWRnZV9iYXNlcyksIEljb246IExpYnJhcnkgfSwKICAgIHsgbGFiZWw6ICLnuqLnur/op6blj5EiLCB2YWx1ZTogZm10KHN0YXRzLnJlZGxpbmVfaGl0cyksIEljb246IFNoaWVsZEFsZXJ0LCB3YXJuOiBzdGF0cy5yZWRsaW5lX2hpdHMgPiAwIH0sCiAgXTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJteC1hdXRvIGgtZnVsbCBtYXgtdy01eGwgb3ZlcmZsb3cteS1hdXRvIHB4LTYgcHktOCI+CiAgICAgIDxoMSBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTJ4bCBmb250LXNlbWlib2xkIHRyYWNraW5nLXRpZ2h0Ij7lkI7lj7DnrqHnkIY8L2gxPgoKICAgICAgey8qIDYg57uf6K6h5Y2hICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBncmlkIGdyaWQtY29scy0yIGdhcC0zIHNtOmdyaWQtY29scy0zIGxnOmdyaWQtY29scy02Ij4KICAgICAgICB7Y2FyZHMubWFwKChjKSA9PiAoCiAgICAgICAgICA8Q2FyZCBrZXk9e2MubGFiZWx9IGNsYXNzTmFtZT0icC00Ij4KICAgICAgICAgICAgPGMuSWNvbiBzaXplPXsxNn0gY2xhc3NOYW1lPXtjbihjLndhcm4gPyAidGV4dC13YXJuaW5nIiA6ICJ0ZXh0LWFjY2VudCIpfSAvPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9e2NuKCJtdC0yIHRleHQteGwgZm9udC1zZW1pYm9sZCB0YWJ1bGFyLW51bXMiLCBjLndhcm4gJiYgInRleHQtd2FybmluZyIpfT57Yy52YWx1ZX08L3A+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkIj57Yy5sYWJlbH08L3A+CiAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgoKICAgICAgey8qIDUg6Z2i5p2/77yI5ZCr55So5oi35a+85YWl77yJICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBncmlkIGdyaWQtY29scy0xIGdhcC00IGxnOmdyaWQtY29scy0yIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGc6Y29sLXNwYW4tMiI+CiAgICAgICAgICA8VXNlckltcG9ydFBhbmVsIC8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPFBhbmVsIHRpdGxlPSLmqKHlnovphY3nva4iPgogICAgICAgICAge3N0YXRzLnRpZXJzLm1hcCgodCkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17dC50aWVyfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB5LTIgdGV4dC1zbSI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbigiaC0yIHctMiByb3VuZGVkLWZ1bGwiLCB0Lm9ubGluZSA/ICJiZy1zdWNjZXNzIiA6ICJiZy1tdXRlZC80MCIpfSAvPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1tZWRpdW0gdXBwZXJjYXNlIj57dC50aWVyfTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtbXV0ZWQiPnt0LmxhYmVsfTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLWF1dG8gdHJ1bmNhdGUgdGV4dC14cyB0ZXh0LW11dGVkIj57dC5tb2RlbH08L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9QYW5lbD4KCiAgICAgICAgPFBhbmVsIHRpdGxlPSJUb2tlbiDphY3pop0iPgogICAgICAgICAge3N0YXRzLnF1b3Rhcy5tYXAoKHEpID0+IHsKICAgICAgICAgICAgY29uc3QgcGN0ID0gTWF0aC5taW4oMTAwLCBNYXRoLnJvdW5kKChxLnVzZWQgLyBxLmxpbWl0KSAqIDEwMCkpOwogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtxLmFnZW50fSBjbGFzc05hbWU9InB5LTIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiB0ZXh0LXNtIj4KICAgICAgICAgICAgICAgICAgPHNwYW4+e3EuYWdlbnR9PC9zcGFuPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRhYnVsYXItbnVtcyB0ZXh0LW11dGVkIj57Zm10KHEudXNlZCl9IC8ge2ZtdChxLmxpbWl0KX08L3NwYW4+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xIGgtMS41IG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLWZ1bGwgYmctc3VyZmFjZS0yIj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2NuKCJoLWZ1bGwgcm91bmRlZC1mdWxsIiwgcGN0ID49IDEwMCA/ICJiZy13YXJuaW5nIiA6ICJiZy1hY2NlbnQiKX0gc3R5bGU9e3sgd2lkdGg6IGAke3BjdH0lYCB9fSAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTAuNSB0ZXh0LVsxMXB4XSB0ZXh0LW11dGVkIj57cS5mcmVlemV9PC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9QYW5lbD4KCiAgICAgICAgPFBhbmVsIHRpdGxlPSLlronlhajpl6jmjqciPgogICAgICAgICAgPFN0YXQgbGFiZWw9Iue6oue6v+WQr+eUqCIgdmFsdWU9e2Ake3N0YXRzLmd1YXJkcy5yZWRsaW5lc30g5p2hYH0gLz4KICAgICAgICAgIDxTdGF0IGxhYmVsPSLoh6rnnIHop6blj5HlmagiIHZhbHVlPXtgJHtzdGF0cy5ndWFyZHMuc2VsZl9tb25pdG9yfSDmnaFgfSAvPgogICAgICAgICAgPFN0YXQgbGFiZWw9IumihuWfn+aKpOagjyIgdmFsdWU9e2Ake3N0YXRzLmd1YXJkcy5kb21haW5fZ3VhcmRzfSDkuKpgfSAvPgogICAgICAgICAgPFN0YXQgbGFiZWw9IuWuoeiuoeS/neeVmSIgdmFsdWU9e2Ake3N0YXRzLmd1YXJkcy5hdWRpdF9yZXRlbnRpb25fZGF5c30g5aSpYH0gLz4KICAgICAgICA8L1BhbmVsPgoKICAgICAgICA8UGFuZWwgdGl0bGU9IuacgOi/keWuoeiuoSI+CiAgICAgICAgICB7c3RhdHMucmVjZW50X2F1ZGl0Lm1hcCgoYSwgaSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17aX0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBweS0xLjUgdGV4dC1zbSI+CiAgICAgICAgICAgICAgPGNvZGUgY2xhc3NOYW1lPSJyb3VuZGVkIGJnLXN1cmZhY2UtMiBweC0xLjUgcHktMC41IHRleHQteHMiPnthLmhhc2h9PC9jb2RlPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1tdXRlZCI+e2EudGltZX08L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbigibWwtYXV0byByb3VuZGVkLWZ1bGwgcHgtMiBweS0wLjUgdGV4dC14cyIsCiAgICAgICAgICAgICAgICBhLmRlY2lzaW9uID09PSAiUEFTUyIgPyAiYmctc3VjY2Vzcy8xNSB0ZXh0LXN1Y2Nlc3MiIDogImJnLXdhcm5pbmcvMTUgdGV4dC13YXJuaW5nIil9PgogICAgICAgICAgICAgICAge2EuZGVjaXNpb259CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvUGFuZWw+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gUGFuZWwoeyB0aXRsZSwgY2hpbGRyZW4gfTogeyB0aXRsZTogc3RyaW5nOyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gKAogICAgPENhcmQgY2xhc3NOYW1lPSJwLTUiPgogICAgICA8aDIgY2xhc3NOYW1lPSJtYi0yIHRleHQtc20gZm9udC1tZWRpdW0iPnt0aXRsZX08L2gyPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZGl2aWRlLXkgZGl2aWRlLWJvcmRlciI+e2NoaWxkcmVufTwvZGl2PgogICAgPC9DYXJkPgogICk7Cn0KCmZ1bmN0aW9uIFN0YXQoeyBsYWJlbCwgdmFsdWUgfTogeyBsYWJlbDogc3RyaW5nOyB2YWx1ZTogc3RyaW5nIH0pIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBweS0yIHRleHQtc20iPgogICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtbXV0ZWQiPntsYWJlbH08L3NwYW4+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1tZWRpdW0gdGFidWxhci1udW1zIj57dmFsdWV9PC9zcGFuPgogICAgPC9kaXY+CiAgKTsKfQo=
+// /admin 后台管理：6 统计卡 + 4 面板（模型配置 / Token 配额 / 安全门控 / 最近审计）。
+import { useEffect, useState, type ReactNode } from "react";
+import { Users, Bot, Server, Coins, Library, ShieldAlert } from "lucide-react";
+import { Card } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+import type { AdminStats } from "@/types";
+import { SAMPLE_STATS } from "@/lib/sampleData";
+import { cn, fmt } from "@/lib/utils";
+import { UserImportPanel } from "@/components/UserImportPanel";
+
+export function AdminPanel() {
+  const [stats, setStats] = useState<AdminStats>(SAMPLE_STATS);
+  useEffect(() => { void api.adminStats().then(setStats); }, []);
+
+  const cards = [
+    { label: "用户", value: fmt(stats.users), Icon: Users },
+    { label: "智能体", value: fmt(stats.agents), Icon: Bot },
+    { label: "算力节点", value: fmt(stats.compute_nodes), Icon: Server },
+    { label: "本月 Token", value: fmt(stats.monthly_tokens), Icon: Coins },
+    { label: "知识库", value: fmt(stats.knowledge_bases), Icon: Library },
+    { label: "红线触发", value: fmt(stats.redline_hits), Icon: ShieldAlert, warn: stats.redline_hits > 0 },
+  ];
+
+  return (
+    <div className="mx-auto h-full max-w-5xl overflow-y-auto px-6 py-8">
+      <h1 className="font-display text-2xl font-semibold tracking-tight">后台管理</h1>
+
+      {/* 6 统计卡 */}
+      <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
+        {cards.map((c) => (
+          <Card key={c.label} className="p-4">
+            <c.Icon size={16} className={cn(c.warn ? "text-warning" : "text-accent")} />
+            <p className={cn("mt-2 text-xl font-semibold tabular-nums", c.warn && "text-warning")}>{c.value}</p>
+            <p className="text-xs text-muted">{c.label}</p>
+          </Card>
+        ))}
+      </div>
+
+      {/* 5 面板（含用户导入） */}
+      <div className="mt-5 grid grid-cols-1 gap-4 lg:grid-cols-2">
+        <div className="lg:col-span-2">
+          <UserImportPanel />
+        </div>
+        <Panel title="模型配置">
+          {stats.tiers.map((t) => (
+            <div key={t.tier} className="flex items-center gap-2 py-2 text-sm">
+              <span className={cn("h-2 w-2 rounded-full", t.online ? "bg-success" : "bg-muted/40")} />
+              <span className="font-medium uppercase">{t.tier}</span>
+              <span className="text-muted">{t.label}</span>
+              <span className="ml-auto truncate text-xs text-muted">{t.model}</span>
+            </div>
+          ))}
+        </Panel>
+
+        <Panel title="Token 配额">
+          {stats.quotas.map((q) => {
+            const pct = Math.min(100, Math.round((q.used / q.limit) * 100));
+            return (
+              <div key={q.agent} className="py-2">
+                <div className="flex items-center justify-between text-sm">
+                  <span>{q.agent}</span>
+                  <span className="tabular-nums text-muted">{fmt(q.used)} / {fmt(q.limit)}</span>
+                </div>
+                <div className="mt-1 h-1.5 overflow-hidden rounded-full bg-surface-2">
+                  <div className={cn("h-full rounded-full", pct >= 100 ? "bg-warning" : "bg-accent")} style={{ width: `${pct}%` }} />
+                </div>
+                <p className="mt-0.5 text-[11px] text-muted">{q.freeze}</p>
+              </div>
+            );
+          })}
+        </Panel>
+
+        <Panel title="安全门控">
+          <Stat label="红线启用" value={`${stats.guards.redlines} 条`} />
+          <Stat label="自省触发器" value={`${stats.guards.self_monitor} 条`} />
+          <Stat label="领域护栏" value={`${stats.guards.domain_guards} 个`} />
+          <Stat label="审计保留" value={`${stats.guards.audit_retention_days} 天`} />
+        </Panel>
+
+        <Panel title="最近审计">
+          {stats.recent_audit.map((a, i) => (
+            <div key={i} className="flex items-center gap-3 py-1.5 text-sm">
+              <code className="rounded bg-surface-2 px-1.5 py-0.5 text-xs">{a.hash}</code>
+              <span className="text-muted">{a.time}</span>
+              <span className={cn("ml-auto rounded-full px-2 py-0.5 text-xs",
+                a.decision === "PASS" ? "bg-success/15 text-success" : "bg-warning/15 text-warning")}>
+                {a.decision}
+              </span>
+            </div>
+          ))}
+        </Panel>
+      </div>
+    </div>
+  );
+}
+
+function Panel({ title, children }: { title: string; children: ReactNode }) {
+  return (
+    <Card className="p-5">
+      <h2 className="mb-2 text-sm font-medium">{title}</h2>
+      <div className="divide-y divide-border">{children}</div>
+    </Card>
+  );
+}
+
+function Stat({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="flex items-center justify-between py-2 text-sm">
+      <span className="text-muted">{label}</span>
+      <span className="font-medium tabular-nums">{value}</span>
+    </div>
+  );
+}

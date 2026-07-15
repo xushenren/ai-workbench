@@ -1,1 +1,94 @@
-Ly8gQWdlbnRJbXBvcnRNb2RhbC50c3gg4oCUIOWvvOWFpeaZuuiDveS9kzrljZXkuKogLm1kIOaIliB6aXAg5om56YePKOS4gOWMheWkmuS4qiks5ZCr5Yay56qB562W55WlICsg5a+85YWl5oql5ZGK44CCCi8vIOaUvui/myBBZ2VudFN0b3JlOuWKoCLlr7zlhaUi5oyJ6ZKu5omT5byA5pys5by556qXO+aIkOWKn+WQjiBvbkltcG9ydGVkIOWIt+aWsOWIl+ihqOOAggppbXBvcnQgeyB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgWCwgVXBsb2FkQ2xvdWQsIExvYWRlcjIsIENoZWNrQ2lyY2xlMiwgU2tpcEZvcndhcmQsIEFsZXJ0VHJpYW5nbGUgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvcHJpbWl0aXZlcyI7CmltcG9ydCB7IGFwaSB9IGZyb20gIkAvbGliL2FwaSI7Cgp0eXBlIFJlcG9ydCA9IEF3YWl0ZWQ8UmV0dXJuVHlwZTx0eXBlb2YgYXBpLmltcG9ydEFnZW50c1ppcD4+Owpjb25zdCBDT05GTElDVCA9IFsKICB7IGlkOiAic2tpcCIsIGxhYmVsOiAi6Lez6L+H5ZCM5ZCNIiB9LAogIHsgaWQ6ICJyZW5hbWUiLCBsYWJlbDogIuaUueWQjeWvvOWFpSIgfSwKICB7IGlkOiAib3ZlcndyaXRlIiwgbGFiZWw6ICLopobnm5blkIzlkI0iIH0sCl0gYXMgY29uc3Q7CgpleHBvcnQgZnVuY3Rpb24gQWdlbnRJbXBvcnRNb2RhbCh7IG9uQ2xvc2UsIG9uSW1wb3J0ZWQgfTogeyBvbkNsb3NlOiAoKSA9PiB2b2lkOyBvbkltcG9ydGVkOiAoKSA9PiB2b2lkIH0pIHsKICBjb25zdCBbY29uZmxpY3QsIHNldENvbmZsaWN0XSA9IHVzZVN0YXRlPCJza2lwIiB8ICJyZW5hbWUiIHwgIm92ZXJ3cml0ZSI+KCJza2lwIik7CiAgY29uc3QgW2J1c3ksIHNldEJ1c3ldID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtlcnIsIHNldEVycl0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW3JlcG9ydCwgc2V0UmVwb3J0XSA9IHVzZVN0YXRlPFJlcG9ydCB8IG51bGw+KG51bGwpOwoKICBjb25zdCBvbkZpbGUgPSBhc3luYyAoZjogRmlsZSB8IHVuZGVmaW5lZCkgPT4gewogICAgaWYgKCFmKSByZXR1cm47CiAgICBzZXRCdXN5KHRydWUpOyBzZXRFcnIoIiIpOyBzZXRSZXBvcnQobnVsbCk7CiAgICB0cnkgewogICAgICBpZiAoZi5uYW1lLnRvTG93ZXJDYXNlKCkuZW5kc1dpdGgoIi56aXAiKSkgewogICAgICAgIGNvbnN0IHJlcCA9IGF3YWl0IGFwaS5pbXBvcnRBZ2VudHNaaXAoZiwgY29uZmxpY3QpOwogICAgICAgIHNldFJlcG9ydChyZXApOyBvbkltcG9ydGVkKCk7CiAgICAgIH0gZWxzZSBpZiAoZi5uYW1lLnRvTG93ZXJDYXNlKCkuZW5kc1dpdGgoIi5tZCIpKSB7CiAgICAgICAgY29uc3QgdGV4dCA9IGF3YWl0IGYudGV4dCgpOwogICAgICAgIGF3YWl0IGFwaS5pbXBvcnRBZ2VudE1kKHRleHQpOyBvbkltcG9ydGVkKCk7CiAgICAgICAgc2V0UmVwb3J0KHsgc3VtbWFyeTogeyBjcmVhdGVkOiAxLCBza2lwcGVkOiAwLCBmYWlsZWQ6IDAgfSwKICAgICAgICAgIGNyZWF0ZWQ6IFt7IGZpbGU6IGYubmFtZSwgbmFtZTogZi5uYW1lLCBpZDogIiIgfV0sIHNraXBwZWQ6IFtdLCBmYWlsZWQ6IFtdIH0pOwogICAgICB9IGVsc2UgewogICAgICAgIHNldEVycigi6K+36YCJ5oupIC5tZCDmiJYgLnppcCDmlofku7YiKTsKICAgICAgfQogICAgfSBjYXRjaCAoZTogYW55KSB7CiAgICAgIHNldEVycihlLm1lc3NhZ2UgfHwgIuWvvOWFpeWksei0pSIpOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0QnVzeShmYWxzZSk7CiAgICB9CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmaXhlZCBpbnNldC0wIHotNTAgZ3JpZCBwbGFjZS1pdGVtcy1jZW50ZXIgYmctYmxhY2svNDAgcC00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InctW21pbig1MjBweCw5NHZ3KV0gcm91bmRlZC1jYXJkIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcC02IHNoYWRvdy1saWZ0Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItNCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtbGcgZm9udC1zZW1pYm9sZCI+5a+85YWl5pm66IO95L2TPC9oMj4KICAgICAgICAgIDxidXR0b24gb25DbGljaz17b25DbG9zZX0gYXJpYS1sYWJlbD0i5YWz6ZetIiBjbGFzc05hbWU9InRleHQtbXV0ZWQgaG92ZXI6dGV4dC10ZXh0Ij48WCBzaXplPXsxOH0gLz48L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTMiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTEgdGV4dC14cyB0ZXh0LW11dGVkIj7lkIzlkI3lhrLnqoHml7Y8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0xLjUiPgogICAgICAgICAgICB7Q09ORkxJQ1QubWFwKChjKSA9PiAoCiAgICAgICAgICAgICAgPGJ1dHRvbiBrZXk9e2MuaWR9IG9uQ2xpY2s9eygpID0+IHNldENvbmZsaWN0KGMuaWQpfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcm91bmRlZC1tZCBweC0yLjUgcHktMSB0ZXh0LXhzICR7Y29uZmxpY3QgPT09IGMuaWQgPyAiYmctYWNjZW50IHRleHQtd2hpdGUiIDogImJnLXN1cmZhY2UtMiB0ZXh0LW11dGVkIn1gfT4KICAgICAgICAgICAgICAgIHtjLmxhYmVsfQogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmbGV4IGN1cnNvci1wb2ludGVyIGZsZXgtY29sIGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci1kYXNoZWQgYm9yZGVyLWJvcmRlciBweC00IHB5LTggdGV4dC1jZW50ZXIgaG92ZXI6Ymctc3VyZmFjZS0yIj4KICAgICAgICAgIHtidXN5ID8gPExvYWRlcjIgY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4gdGV4dC1hY2NlbnQiIC8+IDogPFVwbG9hZENsb3VkIGNsYXNzTmFtZT0idGV4dC1hY2NlbnQiIC8+fQogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIj57YnVzeSA/ICLlr7zlhaXkuK3igKYiIDogIueCueWHu+mAieaLqSAubWQo5Y2V5LiqKeaIliAuemlwKOS4gOWMheWkmuS4qikifTwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkIj56aXAg4omkMjBNQiDCtyDljZXljIUg4omkMjAwIOS4qjwvc3Bhbj4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJmaWxlIiBhY2NlcHQ9Ii5tZCwuemlwIiBjbGFzc05hbWU9ImhpZGRlbiIgZGlzYWJsZWQ9e2J1c3l9CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gb25GaWxlKGUudGFyZ2V0LmZpbGVzPy5bMF0pfSAvPgogICAgICAgIDwvbGFiZWw+CgogICAgICAgIHtlcnIgJiYgPGRpdiBjbGFzc05hbWU9Im10LTMgdGV4dC14cyB0ZXh0LXJlZC01MDAiPntlcnJ9PC9kaXY+fQoKICAgICAgICB7cmVwb3J0ICYmICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IHRleHQtc20iPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMiBmbGV4IGdhcC00IHRleHQteHMiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgdGV4dC1hY2NlbnQiPjxDaGVja0NpcmNsZTIgc2l6ZT17MTR9IC8+5oiQ5YqfIHtyZXBvcnQuc3VtbWFyeS5jcmVhdGVkfTwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0xIHRleHQtbXV0ZWQiPjxTa2lwRm9yd2FyZCBzaXplPXsxNH0gLz7ot7Pov4cge3JlcG9ydC5zdW1tYXJ5LnNraXBwZWR9PC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgdGV4dC1yZWQtNTAwIj48QWxlcnRUcmlhbmdsZSBzaXplPXsxNH0gLz7lpLHotKUge3JlcG9ydC5zdW1tYXJ5LmZhaWxlZH08L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LWgtNDAgb3ZlcmZsb3cteS1hdXRvIHJvdW5kZWQtbWQgYmctc3VyZmFjZS0yIHAtMiB0ZXh0LXhzIj4KICAgICAgICAgICAgICB7cmVwb3J0LmNyZWF0ZWQubWFwKChyLCBpKSA9PiA8ZGl2IGtleT17ImMiICsgaX0gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCI+4pyTIHtyLm5hbWV9PC9kaXY+KX0KICAgICAgICAgICAgICB7cmVwb3J0LnNraXBwZWQubWFwKChyLCBpKSA9PiA8ZGl2IGtleT17InMiICsgaX0gY2xhc3NOYW1lPSJ0ZXh0LW11dGVkIj7igJMge3IubmFtZX06e3IucmVhc29ufTwvZGl2Pil9CiAgICAgICAgICAgICAge3JlcG9ydC5mYWlsZWQubWFwKChyLCBpKSA9PiA8ZGl2IGtleT17ImYiICsgaX0gY2xhc3NOYW1lPSJ0ZXh0LXJlZC01MDAiPuKclyB7ci5maWxlfTp7ci5yZWFzb259PC9kaXY+KX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBmbGV4IGp1c3RpZnktZW5kIj4KICAgICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIG9uQ2xpY2s9e29uQ2xvc2V9PuWujOaIkDwvQnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+// AgentImportModal.tsx — 导入智能体:单个 .md 或 zip 批量(一包多个),含冲突策略 + 导入报告。
+// 放进 AgentStore:加"导入"按钮打开本弹窗;成功后 onImported 刷新列表。
+import { useState } from "react";
+import { X, UploadCloud, Loader2, CheckCircle2, SkipForward, AlertTriangle } from "lucide-react";
+import { Button } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+
+type Report = Awaited<ReturnType<typeof api.importAgentsZip>>;
+const CONFLICT = [
+  { id: "skip", label: "跳过同名" },
+  { id: "rename", label: "改名导入" },
+  { id: "overwrite", label: "覆盖同名" },
+] as const;
+
+export function AgentImportModal({ onClose, onImported }: { onClose: () => void; onImported: () => void }) {
+  const [conflict, setConflict] = useState<"skip" | "rename" | "overwrite">("skip");
+  const [busy, setBusy] = useState(false);
+  const [err, setErr] = useState("");
+  const [report, setReport] = useState<Report | null>(null);
+
+  const onFile = async (f: File | undefined) => {
+    if (!f) return;
+    setBusy(true); setErr(""); setReport(null);
+    try {
+      if (f.name.toLowerCase().endsWith(".zip")) {
+        const rep = await api.importAgentsZip(f, conflict);
+        setReport(rep); onImported();
+      } else if (f.name.toLowerCase().endsWith(".md")) {
+        const text = await f.text();
+        await api.importAgentMd(text); onImported();
+        setReport({ summary: { created: 1, skipped: 0, failed: 0 },
+          created: [{ file: f.name, name: f.name, id: "" }], skipped: [], failed: [] });
+      } else {
+        setErr("请选择 .md 或 .zip 文件");
+      }
+    } catch (e: any) {
+      setErr(e.message || "导入失败");
+    } finally {
+      setBusy(false);
+    }
+  };
+
+  return (
+    <div className="fixed inset-0 z-50 grid place-items-center bg-black/40 p-4">
+      <div className="w-[min(520px,94vw)] rounded-card border border-border bg-surface p-6 shadow-lift">
+        <div className="mb-4 flex items-center justify-between">
+          <h2 className="font-display text-lg font-semibold">导入智能体</h2>
+          <button onClick={onClose} aria-label="关闭" className="text-muted hover:text-text"><X size={18} /></button>
+        </div>
+
+        <div className="mb-3">
+          <div className="mb-1 text-xs text-muted">同名冲突时</div>
+          <div className="flex gap-1.5">
+            {CONFLICT.map((c) => (
+              <button key={c.id} onClick={() => setConflict(c.id)}
+                className={`rounded-md px-2.5 py-1 text-xs ${conflict === c.id ? "bg-accent text-white" : "bg-surface-2 text-muted"}`}>
+                {c.label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <label className="flex cursor-pointer flex-col items-center gap-2 rounded-card border border-dashed border-border px-4 py-8 text-center hover:bg-surface-2">
+          {busy ? <Loader2 className="animate-spin text-accent" /> : <UploadCloud className="text-accent" />}
+          <span className="text-sm">{busy ? "导入中…" : "点击选择 .md(单个)或 .zip(一包多个)"}</span>
+          <span className="text-xs text-muted">zip ≤20MB · 单包 ≤200 个</span>
+          <input type="file" accept=".md,.zip" className="hidden" disabled={busy}
+            onChange={(e) => onFile(e.target.files?.[0])} />
+        </label>
+
+        {err && <div className="mt-3 text-xs text-red-500">{err}</div>}
+
+        {report && (
+          <div className="mt-4 text-sm">
+            <div className="mb-2 flex gap-4 text-xs">
+              <span className="flex items-center gap-1 text-accent"><CheckCircle2 size={14} />成功 {report.summary.created}</span>
+              <span className="flex items-center gap-1 text-muted"><SkipForward size={14} />跳过 {report.summary.skipped}</span>
+              <span className="flex items-center gap-1 text-red-500"><AlertTriangle size={14} />失败 {report.summary.failed}</span>
+            </div>
+            <div className="max-h-40 overflow-y-auto rounded-md bg-surface-2 p-2 text-xs">
+              {report.created.map((r, i) => <div key={"c" + i} className="text-accent">✓ {r.name}</div>)}
+              {report.skipped.map((r, i) => <div key={"s" + i} className="text-muted">– {r.name}:{r.reason}</div>)}
+              {report.failed.map((r, i) => <div key={"f" + i} className="text-red-500">✗ {r.file}:{r.reason}</div>)}
+            </div>
+          </div>
+        )}
+
+        <div className="mt-5 flex justify-end">
+          <Button size="sm" onClick={onClose}>完成</Button>
+        </div>
+      </div>
+    </div>
+  );
+}

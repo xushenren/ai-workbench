@@ -1,1 +1,111 @@
-Ly8g5bem5L6n5qCPOuS4ieWIhuWMuuOAjOacgOi/keS8muivnSAvIOefpeivhuW6kyAvIOaZuuiDveS9k+OAjeOAguaZuuiDveS9k+S7jumhtumDqOaUtue6s+WIsOi/memHjOOAggovLyDmmbrog73kvZPpgInmi6nnlKggcHJvcHMg5Zue6LCDKG9uU2VsZWN0QWdlbnQp6amx5YqoLOaOpSBDaGF0VmlldyDnjrDmnInnmoTpgInmi6npgLvovpEs6YG/5YWN56Gs57yW56CBIHN0b3JlIOe7huiKguOAggppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVN0YXRlLCB0eXBlIFJlYWN0Tm9kZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgUGx1cywgTWVzc2FnZVNxdWFyZSwgTGlicmFyeSwgQm90LCBQYW5lbExlZnRDbG9zZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IHVzZUNoYXRTdG9yZSwgdXNlVUlTdG9yZSwgdXNlQWdlbnRTdG9yZSB9IGZyb20gIkAvc3RvcmVzL3VzZVN0b3JlIjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiQC9saWIvYXBpIjsKaW1wb3J0IHR5cGUgeyBLbm93bGVkZ2VCYXNlIH0gZnJvbSAiQC90eXBlcyI7CmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKY29uc3QgU0FNUExFX1NFU1NJT05TID0gWyLpo47nrqHlronoo4XpqozmlLblkqjor6IiLCAiR0I1MDI0MyDmnaHmrL7op6Por7siLCAi5pa95bel5pa55qGI5Yid56i/Il07CgpleHBvcnQgZnVuY3Rpb24gU2lkZWJhcigpIHsKICBjb25zdCB0b2dnbGVTaWRlYmFyID0gdXNlVUlTdG9yZSgocykgPT4gcy50b2dnbGVTaWRlYmFyKTsKICBjb25zdCBuZXdTZXNzaW9uID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLm5ld1Nlc3Npb24pOwogIGNvbnN0IHNlbGVjdGVkQWdlbnRJZCA9IHVzZUNoYXRTdG9yZSgocykgPT4gcy5zZWxlY3RlZEFnZW50SWQpOwogIC8vIOmAieaLqeaZuuiDveS9kzrnlKggc3RvcmUg6YeM546w5pyJ55qEIHNldHRlcijoi6XlkI3np7DkuI3lkIws5pS56L+Z5LiA6KGMKQogIGNvbnN0IHNlbGVjdEFnZW50ID0gdXNlQ2hhdFN0b3JlKChzKSA9PiAocyBhcyBhbnkpLnNldFNlbGVjdGVkQWdlbnRJZCA/PyAocyBhcyBhbnkpLnNlbGVjdEFnZW50KTsKCiAgY29uc3QgYWdlbnRzID0gdXNlQWdlbnRTdG9yZSgocykgPT4gcy5hZ2VudHMpOwogIGNvbnN0IGZldGNoQWdlbnRzID0gdXNlQWdlbnRTdG9yZSgocykgPT4gKHMgYXMgYW55KS5mZXRjaEFnZW50cyk7CiAgY29uc3QgW2ticywgc2V0S2JzXSA9IHVzZVN0YXRlPEtub3dsZWRnZUJhc2VbXT4oW10pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgdm9pZCBhcGkua25vd2xlZGdlKCkudGhlbihzZXRLYnMpOwogICAgaWYgKHR5cGVvZiBmZXRjaEFnZW50cyA9PT0gImZ1bmN0aW9uIiAmJiBhZ2VudHMubGVuZ3RoID09PSAwKSB2b2lkIGZldGNoQWdlbnRzKCk7CiAgfSwgW10pOwoKICByZXR1cm4gKAogICAgPGFzaWRlIGNsYXNzTmFtZT0iZmxleCBoLWZ1bGwgdy1bMjYwcHhdIHNocmluay0wIGZsZXgtY29sIGJvcmRlci1yIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZS0yLzQwIj4KICAgICAgPGRpdiBjbGFzc05hbWU9InAtMyI+CiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgb25DbGljaz17bmV3U2Vzc2lvbn0KICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCB3LWZ1bGwgaXRlbXMtY2VudGVyIGdhcC0yIHJvdW5kZWQtYnRuIGJnLWFjY2VudCBweC0zIHB5LTIgdGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LXdoaXRlIHNoYWRvdy1zb2Z0IHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOmJnLWFjY2VudC1ob3ZlciIKICAgICAgICA+CiAgICAgICAgICA8UGx1cyBzaXplPXsxNn0gLz4g5paw5a+56K+dCiAgICAgICAgPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSBvdmVyZmxvdy15LWF1dG8gcHgtMiI+CiAgICAgICAgey8qIDEpIOacgOi/keS8muivnSAqL30KICAgICAgICA8U2VjdGlvbkxhYmVsPuacgOi/keS8muivnTwvU2VjdGlvbkxhYmVsPgogICAgICAgIHtTQU1QTEVfU0VTU0lPTlMubWFwKCh0aXRsZSwgaSkgPT4gKAogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICAgImZsZXggdy1mdWxsIGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLW1kIHB4LTIgcHktMiB0ZXh0LWxlZnQgdGV4dC1zbSB0ZXh0LW11dGVkIGhvdmVyOmJnLXN1cmZhY2UtMiBob3Zlcjp0ZXh0LXRleHQiLAogICAgICAgICAgICAgIGkgPT09IDAgJiYgImJnLXN1cmZhY2UtMiB0ZXh0LXRleHQiCiAgICAgICAgICAgICl9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxNZXNzYWdlU3F1YXJlIHNpemU9ezE0fSBjbGFzc05hbWU9InNocmluay0wIiAvPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRydW5jYXRlIj57dGl0bGV9PC9zcGFuPgogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKSl9CgogICAgICAgIHsvKiAyKSDmmbrog73kvZMo5LuO6aG26YOo5pS257qz5Yiw5q2kKSAqL30KICAgICAgICA8U2VjdGlvbkxhYmVsIGNsYXNzTmFtZT0ibXQtNCI+5pm66IO95L2TPC9TZWN0aW9uTGFiZWw+CiAgICAgICAge2FnZW50cy5sZW5ndGggPT09IDAgJiYgKAogICAgICAgICAgPHAgY2xhc3NOYW1lPSJweC0yIHB5LTEuNSB0ZXh0LXhzIHRleHQtbXV0ZWQvNzAiPui/mOayoeacieaZuuiDveS9kyzljrvjgIzmmbrog73kvZPjgI3pobXliJvlu7rmiJblr7zlhaXjgII8L3A+CiAgICAgICAgKX0KICAgICAgICB7YWdlbnRzLm1hcCgoYSkgPT4gKAogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBrZXk9e2EuaWR9CiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNlbGVjdEFnZW50Py4oYS5pZCl9CiAgICAgICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICAgImZsZXggdy1mdWxsIGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLW1kIHB4LTIgcHktMiB0ZXh0LWxlZnQgdGV4dC1zbSB0ZXh0LW11dGVkIGhvdmVyOmJnLXN1cmZhY2UtMiBob3Zlcjp0ZXh0LXRleHQiLAogICAgICAgICAgICAgIGEuaWQgPT09IHNlbGVjdGVkQWdlbnRJZCAmJiAiYmctc3VyZmFjZS0yIHRleHQtdGV4dCIKICAgICAgICAgICAgKX0KICAgICAgICAgID4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJzaHJpbmstMCB0ZXh0LWJhc2UgbGVhZGluZy1ub25lIj57YS5pY29uIHx8IDxCb3Qgc2l6ZT17MTR9IC8+fTwvc3Bhbj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0cnVuY2F0ZSI+e2EubmFtZX08L3NwYW4+CiAgICAgICAgICAgIHthLnZpc2liaWxpdHkgJiYgYS52aXNpYmlsaXR5ICE9PSAicHJpdmF0ZSIgJiYgKAogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtYXV0byB0ZXh0LVsxMHB4XSB0YWJ1bGFyLW51bXMgb3BhY2l0eS02MCI+CiAgICAgICAgICAgICAgICB7YS52aXNpYmlsaXR5ID09PSAicHVibGljIiA/ICLlhazlhbEiIDogIumDqOmXqCJ9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICApfQogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKSl9CgogICAgICAgIHsvKiAzKSDnn6Xor4blupMgKi99CiAgICAgICAgPFNlY3Rpb25MYWJlbCBjbGFzc05hbWU9Im10LTQiPuefpeivhuW6kzwvU2VjdGlvbkxhYmVsPgogICAgICAgIHtrYnMubWFwKChrYikgPT4gKAogICAgICAgICAgPGRpdiBrZXk9e2tiLmlkfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHJvdW5kZWQtbWQgcHgtMiBweS0yIHRleHQtc20gdGV4dC1tdXRlZCI+CiAgICAgICAgICAgIDxMaWJyYXJ5IHNpemU9ezE0fSBjbGFzc05hbWU9InNocmluay0wIiAvPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRydW5jYXRlIj57a2IubmFtZX08L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtYXV0byB0ZXh0LVsxMXB4XSB0YWJ1bGFyLW51bXMgb3BhY2l0eS02MCI+e2tiLmRvY19jb3VudH08L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CgogICAgICA8Zm9vdGVyIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgYm9yZGVyLXQgYm9yZGVyLWJvcmRlciBweC00IHB5LTMgdGV4dC14cyB0ZXh0LW11dGVkIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImgtMiB3LTIgcm91bmRlZC1mdWxsIGJnLXN1Y2Nlc3MiIC8+CiAgICAgICAg566X5Yqb5q2j5bi4IMK3IOacrOWcsCBHUFUKICAgICAgICA8YnV0dG9uCiAgICAgICAgICBvbkNsaWNrPXt0b2dnbGVTaWRlYmFyfQogICAgICAgICAgY2xhc3NOYW1lPSJtbC1hdXRvIHJvdW5kZWQtbWQgcC0xIGhvdmVyOmJnLXN1cmZhY2UtMiBob3Zlcjp0ZXh0LXRleHQiCiAgICAgICAgICBhcmlhLWxhYmVsPSLmipjlj6DkvqfmoI8iCiAgICAgICAgPgogICAgICAgICAgPFBhbmVsTGVmdENsb3NlIHNpemU9ezE1fSAvPgogICAgICAgIDwvYnV0dG9uPgogICAgICA8L2Zvb3Rlcj4KICAgIDwvYXNpZGU+CiAgKTsKfQoKZnVuY3Rpb24gU2VjdGlvbkxhYmVsKHsgY2hpbGRyZW4sIGNsYXNzTmFtZSB9OiB7IGNoaWxkcmVuOiBSZWFjdE5vZGU7IGNsYXNzTmFtZT86IHN0cmluZyB9KSB7CiAgcmV0dXJuICgKICAgIDxwIGNsYXNzTmFtZT17Y24oInB4LTIgcHktMS41IHRleHQtWzExcHhdIGZvbnQtbWVkaXVtIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQtbXV0ZWQvNzAiLCBjbGFzc05hbWUpfT4KICAgICAge2NoaWxkcmVufQogICAgPC9wPgogICk7Cn0K
+// 左侧栏:三分区「最近会话 / 知识库 / 智能体」。智能体从顶部收纳到这里。
+// 智能体选择用 props 回调(onSelectAgent)驱动,接 ChatView 现有的选择逻辑,避免硬编码 store 细节。
+import { useEffect, useState, type ReactNode } from "react";
+import { Plus, MessageSquare, Library, Bot, PanelLeftClose } from "lucide-react";
+import { useChatStore, useUIStore, useAgentStore } from "@/stores/useStore";
+import { api } from "@/lib/api";
+import type { KnowledgeBase } from "@/types";
+import { cn } from "@/lib/utils";
+
+const SAMPLE_SESSIONS = ["风管安装验收咨询", "GB50243 条款解读", "施工方案初稿"];
+
+export function Sidebar() {
+  const toggleSidebar = useUIStore((s) => s.toggleSidebar);
+  const newSession = useChatStore((s) => s.newSession);
+  const selectedAgentId = useChatStore((s) => s.selectedAgentId);
+  // 选择智能体:用 store 里现有的 setter(若名称不同,改这一行)
+  const selectAgent = useChatStore((s) => (s as any).setSelectedAgentId ?? (s as any).selectAgent);
+
+  const agents = useAgentStore((s) => s.agents);
+  const fetchAgents = useAgentStore((s) => (s as any).fetchAgents);
+  const [kbs, setKbs] = useState<KnowledgeBase[]>([]);
+
+  useEffect(() => {
+    void api.knowledge().then(setKbs);
+    if (typeof fetchAgents === "function" && agents.length === 0) void fetchAgents();
+  }, []);
+
+  return (
+    <aside className="flex h-full w-[260px] shrink-0 flex-col border-r border-border bg-surface-2/40">
+      <div className="p-3">
+        <button
+          onClick={newSession}
+          className="flex w-full items-center gap-2 rounded-btn bg-accent px-3 py-2 text-sm font-medium text-white shadow-soft transition-colors hover:bg-accent-hover"
+        >
+          <Plus size={16} /> 新对话
+        </button>
+      </div>
+
+      <div className="flex-1 overflow-y-auto px-2">
+        {/* 1) 最近会话 */}
+        <SectionLabel>最近会话</SectionLabel>
+        {SAMPLE_SESSIONS.map((title, i) => (
+          <button
+            key={i}
+            className={cn(
+              "flex w-full items-center gap-2 rounded-md px-2 py-2 text-left text-sm text-muted hover:bg-surface-2 hover:text-text",
+              i === 0 && "bg-surface-2 text-text"
+            )}
+          >
+            <MessageSquare size={14} className="shrink-0" />
+            <span className="truncate">{title}</span>
+          </button>
+        ))}
+
+        {/* 2) 智能体(从顶部收纳到此) */}
+        <SectionLabel className="mt-4">智能体</SectionLabel>
+        {agents.length === 0 && (
+          <p className="px-2 py-1.5 text-xs text-muted/70">还没有智能体,去「智能体」页创建或导入。</p>
+        )}
+        {agents.map((a) => (
+          <button
+            key={a.id}
+            onClick={() => selectAgent?.(a.id)}
+            className={cn(
+              "flex w-full items-center gap-2 rounded-md px-2 py-2 text-left text-sm text-muted hover:bg-surface-2 hover:text-text",
+              a.id === selectedAgentId && "bg-surface-2 text-text"
+            )}
+          >
+            <span className="shrink-0 text-base leading-none">{a.icon || <Bot size={14} />}</span>
+            <span className="truncate">{a.name}</span>
+            {a.visibility && a.visibility !== "private" && (
+              <span className="ml-auto text-[10px] tabular-nums opacity-60">
+                {a.visibility === "public" ? "公共" : "部门"}
+              </span>
+            )}
+          </button>
+        ))}
+
+        {/* 3) 知识库 */}
+        <SectionLabel className="mt-4">知识库</SectionLabel>
+        {kbs.map((kb) => (
+          <div key={kb.id} className="flex items-center gap-2 rounded-md px-2 py-2 text-sm text-muted">
+            <Library size={14} className="shrink-0" />
+            <span className="truncate">{kb.name}</span>
+            <span className="ml-auto text-[11px] tabular-nums opacity-60">{kb.doc_count}</span>
+          </div>
+        ))}
+      </div>
+
+      <footer className="flex items-center gap-2 border-t border-border px-4 py-3 text-xs text-muted">
+        <span className="h-2 w-2 rounded-full bg-success" />
+        算力正常 · 本地 GPU
+        <button
+          onClick={toggleSidebar}
+          className="ml-auto rounded-md p-1 hover:bg-surface-2 hover:text-text"
+          aria-label="折叠侧栏"
+        >
+          <PanelLeftClose size={15} />
+        </button>
+      </footer>
+    </aside>
+  );
+}
+
+function SectionLabel({ children, className }: { children: ReactNode; className?: string }) {
+  return (
+    <p className={cn("px-2 py-1.5 text-[11px] font-medium uppercase tracking-wide text-muted/70", className)}>
+      {children}
+    </p>
+  );
+}

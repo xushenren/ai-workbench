@@ -1,1 +1,32 @@
-IyBCNyDigJQg5o6l55yf5a6e5ZCO56uvCgojIyDmgI7kuYjliIfmjaIK5ZCO56uv5oyJKirnjq/looPlj5jph48qKuiHquWKqOmAieecn+Wuni/lhoXlrZjlkI7nq6/vvIhgYmFja2VuZC9zZXR0aW5ncy5weWAgKyBgYmFja2VuZC9mYWN0b3J5LnB5YO+8ieOAggrkuI3orr7njq/looPlj5jph48g4oaSIOWFqOWGheWtmC9Nb2Nr77yI5byA5Y+R44CB5rKZ566x5Y+v6LeR77yJ77yb6K6+5LqGIOKGkiDlr7nlupTlkI7nq6/liIfnnJ/lrp7vvIwqKuS4muWKoeS7o+eggeS4juerr+eCuembtuaUueWKqCoq44CCCgpgYGBiYXNoCmNwIGJhY2tlbmQvLmVudi5leGFtcGxlIC5lbnYgJiYg57yW6L6R5aGr55yf5a6e5Zyw5Z2ACnBpcCBpbnN0YWxsIGZhc3RhcGkgdXZpY29ybiBweWRhbnRpYyBodHRweCBjaHJvbWFkYiByZWRpcyBhc3luY3BnICAgIyDmjInpnIAKdXZpY29ybiBiYWNrZW5kLmFwcDphcHAgLS1wb3J0IDkwMDAKYGBgCgojIyDlkITlkI7nq6/nirbmgIEKfCDlkI7nq68gfCDpgILphY3lmaggfCDmjqXlj6PlkIzmupAgfCDmspnnrrHmtYvor5UgfAp8LS0tfC0tLXwtLS18LS0tfAp8IOaooeWeiyB2TExNL0xpdGVMTE0gfCBhZGFwdGVycy92bGxtX21vZGVsLnB5IHwg5ZCMIE1vY2tNb2RlbCB8IOKdjCDpnIAgZW5kcG9pbnQgfAp8IOWQkemHj+W6kyBDaHJvbWEgfCBhZGFwdGVycy9jaHJvbWFfc3RvcmUucHkgfCDlkIwgSW5NZW1vcnlWZWN0b3JTdG9yZSB8IOKdjCDpnIAgY2hyb21hZGIgfAp8IOmFjeminSBSZWRpcyB8IGFkYXB0ZXJzL3JlZGlzX3F1b3RhLnB5IHwg5ZCMIFF1b3RhU2VydmljZe+8iEx1YSDljp/lrZDvvIkgfCDinYwg6ZyAIFJlZGlzIHwKfCDmjIHkuYXljJYgUG9zdGdyZXMgfCBhZGFwdGVycy9wZ19yZXBvcy5wee+8iERETCvku5PlgqjvvIkgfCDku5PlgqjojIPlvI8gfCDinYwg6ZyAIFBHIHwKfCDlvq7kv6EgT0F1dGggfCBhZGFwdGVycy9wZ19yZXBvcy53ZWNoYXRfZXhjaGFuZ2UgfCDmm7/mjaIgYXV0aCDmoakgfCDinYwg6ZyA5a+G6ZKlK+e9kee7nCB8CgojIyDmspnnrrHlt7Lpqozor4HvvIh0ZXN0X2I3X3dpcmluZy5wee+8jDkg5rWL6K+V77yJCi0g5bel5Y6C5peg546v5aKD5Y+Y6YeP5pe25Zue6JC95YaF5a2Y54mI77ybCi0g55yf5a6e6YCC6YWN5Zmo5LiO5YaF5a2Y54mIKirmjqXlj6PlvaLnirbkuIDoh7QqKu+8iGNvbnN1bWUvc3RhdHVzL3JlY2hhcmdlL3NldF9saW1pdOOAgWFkZC9zZWFyY2jjgIFnZW5lcmF0Ze+8ie+8mwotIOmAgumFjeWZqOaXoOS+nei1luW6k+aXtuWPr+WvvOWFpeOAgeWunuS+i+WMluaKpea4heaZsOmUmeivr++8m0RETCDkupTlvKDooajpvZDlhajjgIIKCiMjIOKaoO+4jyDlv4XpobvnnJ/mnLrpqozor4EK55yf5a6e5qih5Z6LL+WQkemHjy9SZWRpcy9QRy/lvq7kv6HnmoQqKuWunumZheiwg+eUqOWFqOmDqOacqua1iyoq77yI5rKZ566x5peg5pyN5Yqh77yJ44CC6YCQ5Liq5o6l5YWl5pe277yaCjEuIOWNleeLrOmqjOivpeWQjuerr+i/numAmu+8iOWmgiBgcmVkaXMtY2xpIHBpbmdg44CBQ2hyb21hIGAvYXBpL3YxL2hlYXJ0YmVhdGDjgIHmqKHlnosgYC92MS9tb2RlbHNg77yJ77ybCjIuIOiuvuWvueW6lOeOr+Wig+WPmOmHj+mHjeWQr++8jOehruiupCBgYnVpbGRfc3RhdGVgIOmAieWIsOecn+WunuWunueOsO+8mwozLiDot5HkuIDmrKHlr7nor53vvIzmoLjlr7nooYzkuLrkuI7lhoXlrZjniYjkuIDoh7TvvIjlsKTlhbbphY3pop3ljp/lrZDmgKfjgIHmo4DntKLpmpTnprvvvInjgIIKNC4gUG9zdGdyZXMg5o6l5YWl6ZyA5oqKIEF1dGgvQWdlbnQvS0Ig5pyN5Yqh5YaF6YOoIGRpY3Qg5o2i5oiQIHBnX3JlcG9zIOS7k+WCqOiwg+eUqO+8iOetvuWQjeS4jeWPmO+8ieOAggo=
+# B7 — 接真实后端
+
+## 怎么切换
+后端按**环境变量**自动选真实/内存后端（`backend/settings.py` + `backend/factory.py`）。
+不设环境变量 → 全内存/Mock（开发、沙箱可跑）；设了 → 对应后端切真实，**业务代码与端点零改动**。
+
+```bash
+cp backend/.env.example .env && 编辑填真实地址
+pip install fastapi uvicorn pydantic httpx chromadb redis asyncpg   # 按需
+uvicorn backend.app:app --port 9000
+```
+
+## 各后端状态
+| 后端 | 适配器 | 接口同源 | 沙箱测试 |
+|---|---|---|---|
+| 模型 vLLM/LiteLLM | adapters/vllm_model.py | 同 MockModel | ❌ 需 endpoint |
+| 向量库 Chroma | adapters/chroma_store.py | 同 InMemoryVectorStore | ❌ 需 chromadb |
+| 配额 Redis | adapters/redis_quota.py | 同 QuotaService（Lua 原子） | ❌ 需 Redis |
+| 持久化 Postgres | adapters/pg_repos.py（DDL+仓储） | 仓储范式 | ❌ 需 PG |
+| 微信 OAuth | adapters/pg_repos.wechat_exchange | 替换 auth 桩 | ❌ 需密钥+网络 |
+
+## 沙箱已验证（test_b7_wiring.py，9 测试）
+- 工厂无环境变量时回落内存版；
+- 真实适配器与内存版**接口形状一致**（consume/status/recharge/set_limit、add/search、generate）；
+- 适配器无依赖库时可导入、实例化报清晰错误；DDL 五张表齐全。
+
+## ⚠️ 必须真机验证
+真实模型/向量/Redis/PG/微信的**实际调用全部未测**（沙箱无服务）。逐个接入时：
+1. 单独验该后端连通（如 `redis-cli ping`、Chroma `/api/v1/heartbeat`、模型 `/v1/models`）；
+2. 设对应环境变量重启，确认 `build_state` 选到真实实现；
+3. 跑一次对话，核对行为与内存版一致（尤其配额原子性、检索隔离）。
+4. Postgres 接入需把 Auth/Agent/KB 服务内部 dict 换成 pg_repos 仓储调用（签名不变）。

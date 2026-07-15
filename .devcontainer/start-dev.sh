@@ -1,1 +1,10 @@
-77u/IyEvYmluL2Jhc2gKZWNobyAiU3RhcnRpbmcgYmFja2VuZC4uLiIKY2QgYmFja2VuZC9zZWN1cmVndWFyZC1kZXBsb3kKdXZpY29ybiBiYWNrZW5kLmFwcDphcHAgLS1wb3J0IDkwMDAgLS1ob3N0IDAuMC4wLjAgJgpCQUNLRU5EX1BJRD0kIQpzbGVlcCAyCmVjaG8gIlN0YXJ0aW5nIGZyb250ZW5kLi4uIgpjZCAuLi8uLi9mcm9udGVuZF9zcmMKbnBtIHJ1biBkZXYgLS0gLS1ob3N0IDAuMC4wLjAgJgp3YWl0ICRCQUNLRU5EX1BJRA0K
+#!/bin/bash
+echo "Starting backend..."
+cd backend/secureguard-deploy
+uvicorn backend.app:app --port 9000 --host 0.0.0.0 &
+BACKEND_PID=$!
+sleep 2
+echo "Starting frontend..."
+cd ../../frontend_src
+npm run dev -- --host 0.0.0.0 &
+wait $BACKEND_PID

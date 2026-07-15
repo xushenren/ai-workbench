@@ -1,1 +1,81 @@
-Ly8gL2FnZW50cyDmmbrog73kvZPluILlnLrvvJpUYWIg6L+H5rukICsg5Y2h54mH572R5qC844CCCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFdyZW5jaCwgU3BhcmtsZXMsIExpYnJhcnksIEFycm93UmlnaHQsIFVwbG9hZCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IEFnZW50SW1wb3J0TW9kYWwgfSBmcm9tICJAL2NvbXBvbmVudHMvQWdlbnRJbXBvcnRNb2RhbCI7CmltcG9ydCB7IENhcmQsIEJhZGdlLCBCdXR0b24sIFRhYnMgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvcHJpbWl0aXZlcyI7CmltcG9ydCB7IHVzZUFnZW50U3RvcmUsIHVzZUNoYXRTdG9yZSB9IGZyb20gIkAvc3RvcmVzL3VzZVN0b3JlIjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgZm10IH0gZnJvbSAiQC9saWIvdXRpbHMiOwppbXBvcnQgdHlwZSB7IEFnZW50IH0gZnJvbSAiQC90eXBlcyI7Cgp0eXBlIEZpbHRlciA9ICJhbGwiIHwgInB1YmxpYyIgfCAiZGVwYXJ0bWVudCIgfCAicHJpdmF0ZSI7CmNvbnN0IFRBQlM6IHsgaWQ6IEZpbHRlcjsgbGFiZWw6IHN0cmluZyB9W10gPSBbCiAgeyBpZDogImFsbCIsIGxhYmVsOiAi5YWo6YOoIiB9LCB7IGlkOiAicHVibGljIiwgbGFiZWw6ICLlhazlhbEiIH0sCiAgeyBpZDogImRlcGFydG1lbnQiLCBsYWJlbDogIumDqOmXqCIgfSwgeyBpZDogInByaXZhdGUiLCBsYWJlbDogIuaIkeeahCIgfSwKXTsKCmV4cG9ydCBmdW5jdGlvbiBBZ2VudFN0b3JlKCkgewogIGNvbnN0IHsgYWdlbnRzLCBmZXRjaEFnZW50cyB9ID0gdXNlQWdlbnRTdG9yZSgpOwogIGNvbnN0IHNlbGVjdEFnZW50ID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLnNlbGVjdEFnZW50KTsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgW2ZpbHRlciwgc2V0RmlsdGVyXSA9IHVzZVN0YXRlPEZpbHRlcj4oImFsbCIpOwogIGNvbnN0IFtzaG93SW1wb3J0LCBzZXRTaG93SW1wb3J0XSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsgaWYgKGFnZW50cy5sZW5ndGggPT09IDApIHZvaWQgZmV0Y2hBZ2VudHMoKTsgfSwgW2FnZW50cy5sZW5ndGgsIGZldGNoQWdlbnRzXSk7CgogIGNvbnN0IHNob3duID0gYWdlbnRzLmZpbHRlcigoYSkgPT4gZmlsdGVyID09PSAiYWxsIiB8fCBhLnZpc2liaWxpdHkgPT09IGZpbHRlcik7CgogIGNvbnN0IHVzZSA9IChhOiBBZ2VudCkgPT4geyBzZWxlY3RBZ2VudChhLmlkKTsgbmF2aWdhdGUoIi9jaGF0Iik7IH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibXgtYXV0byBoLWZ1bGwgbWF4LXctNXhsIG92ZXJmbG93LXktYXV0byBweC02IHB5LTgiPgogICAgICA8aDEgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC0yeGwgZm9udC1zZW1pYm9sZCB0cmFja2luZy10aWdodCI+5pm66IO95L2T5biC5Zy6PC9oMT4KICAgICAgPHAgY2xhc3NOYW1lPSJtdC0xIHRleHQtc20gdGV4dC1tdXRlZCI+6YCJ5oup5LiA5Liq5Z6C55u05pm66IO95L2T5byA5aeL5a+56K+d44CC5YWs5YWx5pm66IO95L2T5Y+q5Zue562U5YW25omA5bGe6aKG5Z+f55qE6Zeu6aKY44CCPC9wPgoKICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICA8VGFicyB0YWJzPXtUQUJTfSB2YWx1ZT17ZmlsdGVyfSBvbkNoYW5nZT17c2V0RmlsdGVyfSAvPgogICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIG9uQ2xpY2s9eygpID0+IHNldFNob3dJbXBvcnQodHJ1ZSl9PgogICAgICAgICAgPFVwbG9hZCBzaXplPXsxNH0gY2xhc3NOYW1lPSJtci0xIiAvPuWvvOWFpQogICAgICAgIDwvQnV0dG9uPgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC01IGdyaWQgZ3JpZC1jb2xzLTEgZ2FwLTQgc206Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTMiPgogICAgICAgIHtzaG93bi5tYXAoKGEpID0+ICgKICAgICAgICAgIDxDYXJkIGtleT17YS5pZH0gY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIHAtNSB0cmFuc2l0aW9uLXNoYWRvdyBob3ZlcjpzaGFkb3ctbGlmdCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IGdhcC0zIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBoLTExIHctMTEgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQtY2FyZCBiZy1hY2NlbnQvMTAgdGV4dC14bCI+e2EuaWNvbn08L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWluLXctMCI+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LW1lZGl1bSI+e2EubmFtZX08L2gzPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQiPntkb21haW5MYWJlbChhLmRvbWFpbil9PC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIGxpbmUtY2xhbXAtMyBmbGV4LTEgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1tdXRlZCI+e2EuZGVzY3JpcHRpb259PC9wPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMyBmbGV4IGZsZXgtd3JhcCBnYXAtMS41Ij4KICAgICAgICAgICAgICA8QmFkZ2U+PFdyZW5jaCBzaXplPXsxMX0gY2xhc3NOYW1lPSJtci0xIiAvPiDlt6Xlhbcge2EudG9vbHNfY291bnR9PC9CYWRnZT4KICAgICAgICAgICAgICA8QmFkZ2U+PFNwYXJrbGVzIHNpemU9ezExfSBjbGFzc05hbWU9Im1yLTEiIC8+IFNraWxsIHthLnNraWxsc19jb3VudH08L0JhZGdlPgogICAgICAgICAgICAgIDxCYWRnZT48TGlicmFyeSBzaXplPXsxMX0gY2xhc3NOYW1lPSJtci0xIiAvPiDnn6Xor4blupMge2Eua2JfY291bnR9PC9CYWRnZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBib3JkZXItdCBib3JkZXItYm9yZGVyIHB0LTMiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkIj7wn4aTIOWFjei0uSB7Zm10KGEuZnJlZV9xdW90YV90b2tlbnMpfS/mnIg8L3NwYW4+CiAgICAgICAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgb25DbGljaz17KCkgPT4gdXNlKGEpfT7kvb/nlKggPEFycm93UmlnaHQgc2l6ZT17MTR9IC8+PC9CdXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9DYXJkPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KCiAgICAgIHtzaG93SW1wb3J0ICYmIDxBZ2VudEltcG9ydE1vZGFsIG9uQ2xvc2U9eygpID0+IHNldFNob3dJbXBvcnQoZmFsc2UpfSBvbkltcG9ydGVkPXtmZXRjaEFnZW50c30gLz59CgogICAgICB7c2hvd24ubGVuZ3RoID09PSAwICYmICgKICAgICAgICA8cCBjbGFzc05hbWU9Im10LTE2IHRleHQtY2VudGVyIHRleHQtc20gdGV4dC1tdXRlZCI+6K+l5YiG57G75LiL6L+Y5rKh5pyJ5pm66IO95L2T44CCPC9wPgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gZG9tYWluTGFiZWwoZDogc3RyaW5nKTogc3RyaW5nIHsKICBjb25zdCBtYXA6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7CiAgICBnZW5lcmFsOiAi6YCa55SoIiwgZWxlY3Ryb21lY2hhbmljYWw6ICLmnLrnlLXlronoo4UiLCBzb2Z0d2FyZTogIui9r+S7tuW8gOWPkSIsCiAgICBkYXRhX21sOiAi5pWw5o2uIC8gTUwiLCBocjogIuS6uuWKm+i1hOa6kCIsCiAgfTsKICByZXR1cm4gbWFwW2RdID8/IGQ7Cn0K
+// /agents 智能体市场：Tab 过滤 + 卡片网格。
+import { useEffect, useState } from "react";
+import { Wrench, Sparkles, Library, ArrowRight, Upload } from "lucide-react";
+import { AgentImportModal } from "@/components/AgentImportModal";
+import { Card, Badge, Button, Tabs } from "@/components/ui/primitives";
+import { useAgentStore, useChatStore } from "@/stores/useStore";
+import { useNavigate } from "react-router-dom";
+import { fmt } from "@/lib/utils";
+import type { Agent } from "@/types";
+
+type Filter = "all" | "public" | "department" | "private";
+const TABS: { id: Filter; label: string }[] = [
+  { id: "all", label: "全部" }, { id: "public", label: "公共" },
+  { id: "department", label: "部门" }, { id: "private", label: "我的" },
+];
+
+export function AgentStore() {
+  const { agents, fetchAgents } = useAgentStore();
+  const selectAgent = useChatStore((s) => s.selectAgent);
+  const navigate = useNavigate();
+  const [filter, setFilter] = useState<Filter>("all");
+  const [showImport, setShowImport] = useState(false);
+
+  useEffect(() => { if (agents.length === 0) void fetchAgents(); }, [agents.length, fetchAgents]);
+
+  const shown = agents.filter((a) => filter === "all" || a.visibility === filter);
+
+  const use = (a: Agent) => { selectAgent(a.id); navigate("/chat"); };
+
+  return (
+    <div className="mx-auto h-full max-w-5xl overflow-y-auto px-6 py-8">
+      <h1 className="font-display text-2xl font-semibold tracking-tight">智能体市场</h1>
+      <p className="mt-1 text-sm text-muted">选择一个垂直智能体开始对话。公共智能体只回答其所属领域的问题。</p>
+
+      <div className="mt-5 flex items-center justify-between">
+        <Tabs tabs={TABS} value={filter} onChange={setFilter} />
+        <Button size="sm" onClick={() => setShowImport(true)}>
+          <Upload size={14} className="mr-1" />导入
+        </Button>
+      </div>
+
+      <div className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {shown.map((a) => (
+          <Card key={a.id} className="flex flex-col p-5 transition-shadow hover:shadow-lift">
+            <div className="flex items-start gap-3">
+              <div className="flex h-11 w-11 items-center justify-center rounded-card bg-accent/10 text-xl">{a.icon}</div>
+              <div className="min-w-0">
+                <h3 className="font-medium">{a.name}</h3>
+                <p className="text-xs text-muted">{domainLabel(a.domain)}</p>
+              </div>
+            </div>
+            <p className="mt-3 line-clamp-3 flex-1 text-sm leading-relaxed text-muted">{a.description}</p>
+            <div className="mt-3 flex flex-wrap gap-1.5">
+              <Badge><Wrench size={11} className="mr-1" /> 工具 {a.tools_count}</Badge>
+              <Badge><Sparkles size={11} className="mr-1" /> Skill {a.skills_count}</Badge>
+              <Badge><Library size={11} className="mr-1" /> 知识库 {a.kb_count}</Badge>
+            </div>
+            <div className="mt-4 flex items-center justify-between border-t border-border pt-3">
+              <span className="text-xs text-muted">🆓 免费 {fmt(a.free_quota_tokens)}/月</span>
+              <Button size="sm" onClick={() => use(a)}>使用 <ArrowRight size={14} /></Button>
+            </div>
+          </Card>
+        ))}
+      </div>
+
+      {showImport && <AgentImportModal onClose={() => setShowImport(false)} onImported={fetchAgents} />}
+
+      {shown.length === 0 && (
+        <p className="mt-16 text-center text-sm text-muted">该分类下还没有智能体。</p>
+      )}
+    </div>
+  );
+}
+
+function domainLabel(d: string): string {
+  const map: Record<string, string> = {
+    general: "通用", electromechanical: "机电安装", software: "软件开发",
+    data_ml: "数据 / ML", hr: "人力资源",
+  };
+  return map[d] ?? d;
+}

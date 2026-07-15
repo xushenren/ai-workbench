@@ -1,1 +1,13 @@
-IyBwbGFubmVyLWNvbnN0cmFpbnRzLm1kICAoUGxhbmUtMSDCtyBSZWZpbmVyIOWPr+i/veWKoCkKCj4gSGFybmVzcyDlsYLovrnnlYznuqbmnZ/nmoTovb3kvZPjgILop4TliJLpmLbmrrXlv4Xpobvmu6HotrPnmoTnoaznuqbmnZ/jgIIKPiDlj6/ov73liqDvvIzkuI3lj6/liKDmlLkgUGxhbmUtMO+8iOe6oue6vy/pmLbmoq8v5oqk5qCP5a6a5LmJ77yJ44CCCgojIyDpu5jorqTnuqbmnZ8KLSDku7vkvZUgUjIg5Yqo5L2c5b+F6aG75pi+5byPIEVTQ0FMQVRF77yM562J5Lq657G75om55YeG77yM5Y+j5aS05ZCM5oSPIOKJoCDmjojmnYMKLSDpgJ/luqbmsLjkuI3og73kubDlronlhajvvJp2ZWxvY2l0eSDkuI4gTDDigJNMNCDlhrLnqoHml7YgdmVsb2NpdHkg5b+F6L6TCi0g5aSa6KeE5YiZ5Yay56qB5LiA5b6L6YCBIGFyYml0cmF0Ze+8jOawuOS4jemdmem7mOS6jOmAieS4gAotIOWHreaNruS7hee7j+S/nemZqeW6k++8jOemgeatouS7u+S9leW9ouW8j+aYjuaWh+iQveebmAoKIyMg6L+b5YyW6L+95Yqg5Yy677yIUmVmaW5lciBhcHBlbmQtb25see+8iQo8IS0tIOaWsOWinue6puadn+WGmeWcqOatpOihjOS7peS4iyAtLT4K
+# planner-constraints.md  (Plane-1 · Refiner 可追加)
+
+> Harness 层边界约束的载体。规划阶段必须满足的硬约束。
+> 可追加，不可删改 Plane-0（红线/阶梯/护栏定义）。
+
+## 默认约束
+- 任何 R2 动作必须显式 ESCALATE，等人类批准，口头同意 ≠ 授权
+- 速度永不能买安全：velocity 与 L0–L4 冲突时 velocity 必输
+- 多规则冲突一律送 arbitrate，永不静默二选一
+- 凭据仅经保险库，禁止任何形式明文落盘
+
+## 进化追加区（Refiner append-only）
+<!-- 新增约束写在此行以下 -->

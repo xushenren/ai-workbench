@@ -1,1 +1,103 @@
-Ly8g566h55CG5ZGY5qih5Z6L6YWN572u6aG177ya5aKe5Yig5pS55p+l5qih5Z6L44CCQVBJIGtleSDovpPlhaXlkI7lj6rlm57kvKDmiZPnoIHlgLzvvIznlZnnqbrooajnpLrkuI3kv67mlLnjgIIKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgUGx1cywgVHJhc2gyLCBTYXZlLCBDcHUsIFggfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwppbXBvcnQgdHlwZSB7IE1vZGVsSW5mbyB9IGZyb20gIkAvdHlwZXMiOwoKY29uc3QgRU1QVFkgPSB7IG5hbWU6ICIiLCBhcGlfYmFzZTogIiIsIGFwaV9rZXk6ICIiLCBtb2RlbDogIiIsIGVuYWJsZWQ6IHRydWUgfTsKCmV4cG9ydCBmdW5jdGlvbiBNb2RlbENvbmZpZ1ZpZXcoKSB7CiAgY29uc3QgW21vZGVscywgc2V0TW9kZWxzXSA9IHVzZVN0YXRlPE1vZGVsSW5mb1tdPihbXSk7CiAgY29uc3QgW2FkZGluZywgc2V0QWRkaW5nXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbZHJhZnQsIHNldERyYWZ0XSA9IHVzZVN0YXRlKHsgLi4uRU1QVFkgfSk7CiAgY29uc3QgW2Vyciwgc2V0RXJyXSA9IHVzZVN0YXRlKCIiKTsKCiAgY29uc3QgbG9hZCA9ICgpID0+IHsgdm9pZCBhcGkubGlzdEFsbE1vZGVscygpLnRoZW4oKG0pID0+IHNldE1vZGVscyhBcnJheS5pc0FycmF5KG0pID8gbSA6IFtdKSkuY2F0Y2goKCkgPT4gc2V0TW9kZWxzKFtdKSk7IH07CiAgdXNlRWZmZWN0KGxvYWQsIFtdKTsKCiAgY29uc3QgY3JlYXRlID0gYXN5bmMgKCkgPT4gewogICAgc2V0RXJyKCIiKTsKICAgIGlmICghZHJhZnQubmFtZS50cmltKCkgfHwgIWRyYWZ0Lm1vZGVsLnRyaW0oKSkgeyBzZXRFcnIoIuaYvuekuuWQjeS4juaooeWei+agh+ivhuW/heWhqyIpOyByZXR1cm47IH0KICAgIHRyeSB7CiAgICAgIGF3YWl0IGFwaS5jcmVhdGVNb2RlbChkcmFmdCk7CiAgICAgIHNldERyYWZ0KHsgLi4uRU1QVFkgfSk7IHNldEFkZGluZyhmYWxzZSk7IGxvYWQoKTsKICAgIH0gY2F0Y2ggKGUpIHsgc2V0RXJyKGUgaW5zdGFuY2VvZiBFcnJvciA/IGUubWVzc2FnZSA6ICLliJvlu7rlpLHotKUiKTsgfQogIH07CgogIGNvbnN0IHRvZ2dsZSA9IGFzeW5jIChtOiBNb2RlbEluZm8pID0+IHsgYXdhaXQgYXBpLnVwZGF0ZU1vZGVsKG0uaWQsIHsgZW5hYmxlZDogIW0uZW5hYmxlZCB9KS5jYXRjaCgoKSA9PiB7fSk7IGxvYWQoKTsgfTsKICBjb25zdCByZW1vdmUgPSBhc3luYyAobTogTW9kZWxJbmZvKSA9PiB7CiAgICBpZiAobS5pZCA9PT0gImJ1aWx0aW4iKSByZXR1cm47CiAgICBpZiAoIWNvbmZpcm0oYOWIoOmZpOaooeWei+OAjCR7bS5uYW1lfeOAje+8n2ApKSByZXR1cm47CiAgICBhd2FpdCBhcGkuZGVsZXRlTW9kZWwobS5pZCkuY2F0Y2goKCkgPT4ge30pOyBsb2FkKCk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJteC1hdXRvIG1heC13LTN4bCBweC02IHB5LTgiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItNiBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgPENwdSBzaXplPXsyMH0gY2xhc3NOYW1lPSJ0ZXh0LXRleHQiIC8+CiAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIj7mqKHlnovphY3nva48L2gxPgogICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gc2V0QWRkaW5nKHRydWUpfSBjbGFzc05hbWU9Im1sLWF1dG8gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSByb3VuZGVkLWJ0biBiZy10ZXh0IHB4LTMgcHktMS41IHRleHQtc20gdGV4dC1iZyBob3ZlcjpvcGFjaXR5LTkwIj4KICAgICAgICAgIDxQbHVzIHNpemU9ezE1fSAvPiDmlrDlop7mqKHlnosKICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CgogICAgICA8cCBjbGFzc05hbWU9Im1iLTQgcm91bmRlZC1jYXJkIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UtMiBweC0zIHB5LTIgdGV4dC14cyB0ZXh0LW11dGVkIj4KICAgICAgICDphY3nva7lkI7lj6/lnKjogYrlpKnmoYbpgInnlKjjgILnnJ/lrp4gQVBJIOiwg+eUqOmcgOWQjuerr+aOpeWFpeWvueW6lOaooeWei+acjeWKoe+8m+W9k+WJjeacquaOpeWFpeaXtuS7jeeUseWGhee9ruaooeWei+W6lOetlOOAgkFQSSBLZXkg5LuF5L+d5a2Y5Zyo5ZCO56uv44CB5LiN5piO5paH5Zue5pi+44CCCiAgICAgIDwvcD4KCiAgICAgIHthZGRpbmcgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi00IHNwYWNlLXktMiByb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSBwLTQiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LW1lZGl1bSI+5paw5aKe5qih5Z6LPC9zcGFuPgogICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHsgc2V0QWRkaW5nKGZhbHNlKTsgc2V0RXJyKCIiKTsgfX0gY2xhc3NOYW1lPSJ0ZXh0LW11dGVkIGhvdmVyOnRleHQtdGV4dCI+PFggc2l6ZT17MTZ9IC8+PC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxGaWVsZCBsYWJlbD0i5pi+56S65ZCNIiB2YWx1ZT17ZHJhZnQubmFtZX0gb25DaGFuZ2U9eyh2KSA9PiBzZXREcmFmdCh7IC4uLmRyYWZ0LCBuYW1lOiB2IH0pfSBwbGFjZWhvbGRlcj0i5aaCIERlZXBTZWVrLVYzIiAvPgogICAgICAgICAgPEZpZWxkIGxhYmVsPSLmqKHlnovmoIfor4YiIHZhbHVlPXtkcmFmdC5tb2RlbH0gb25DaGFuZ2U9eyh2KSA9PiBzZXREcmFmdCh7IC4uLmRyYWZ0LCBtb2RlbDogdiB9KX0gcGxhY2Vob2xkZXI9IuWmgiBkZWVwc2Vlay1jaGF0IiAvPgogICAgICAgICAgPEZpZWxkIGxhYmVsPSJBUEkg5Zyw5Z2AIiB2YWx1ZT17ZHJhZnQuYXBpX2Jhc2V9IG9uQ2hhbmdlPXsodikgPT4gc2V0RHJhZnQoeyAuLi5kcmFmdCwgYXBpX2Jhc2U6IHYgfSl9IHBsYWNlaG9sZGVyPSJodHRwczovL2FwaS5kZWVwc2Vlay5jb20vdjEiIC8+CiAgICAgICAgICA8RmllbGQgbGFiZWw9IkFQSSBLZXkiIHZhbHVlPXtkcmFmdC5hcGlfa2V5fSBvbkNoYW5nZT17KHYpID0+IHNldERyYWZ0KHsgLi4uZHJhZnQsIGFwaV9rZXk6IHYgfSl9IHBsYWNlaG9sZGVyPSJzay0uLi4iIHR5cGU9InBhc3N3b3JkIiAvPgogICAgICAgICAge2VyciAmJiA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC13YXJuaW5nIj57ZXJyfTwvcD59CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e2NyZWF0ZX0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IHJvdW5kZWQtYnRuIGJnLXRleHQgcHgtMyBweS0xLjUgdGV4dC1zbSB0ZXh0LWJnIGhvdmVyOm9wYWNpdHktOTAiPgogICAgICAgICAgICA8U2F2ZSBzaXplPXsxNH0gLz4g5L+d5a2YCiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgIHttb2RlbHMubWFwKChtKSA9PiAoCiAgICAgICAgICA8ZGl2IGtleT17bS5pZH0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyByb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSBweC00IHB5LTMiPgogICAgICAgICAgICA8Q3B1IHNpemU9ezE2fSBjbGFzc05hbWU9InNocmluay0wIHRleHQtbXV0ZWQiIC8+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4tdy0wIGZsZXgtMSI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1tZWRpdW0iPnttLm5hbWV9PC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJyb3VuZGVkIGJnLXN1cmZhY2UtMiBweC0xLjUgcHktMC41IHRleHQtWzExcHhdIHRleHQtbXV0ZWQiPnttLm1vZGVsfTwvc3Bhbj4KICAgICAgICAgICAgICAgIHttLmlkID09PSAiYnVpbHRpbiIgJiYgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSB0ZXh0LW11dGVkIj7lhoXnva48L3NwYW4+fQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0cnVuY2F0ZSB0ZXh0LXhzIHRleHQtbXV0ZWQiPnttLmFwaV9iYXNlIHx8ICLvvIjlhoXnva7vvIzml6DpnIAgQVBJ77yJIn17bS5hcGlfa2V5X21hc2tlZCAmJiBgIMK3ICR7bS5hcGlfa2V5X21hc2tlZH1gfTwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiB0b2dnbGUobSl9IGNsYXNzTmFtZT17YHJvdW5kZWQtZnVsbCBweC0yIHB5LTAuNSB0ZXh0LXhzICR7bS5lbmFibGVkID8gImJnLXN1cmZhY2UtMiB0ZXh0LXRleHQiIDogInRleHQtbXV0ZWQifWB9IGRpc2FibGVkPXttLmlkID09PSAiYnVpbHRpbiJ9PgogICAgICAgICAgICAgIHttLmVuYWJsZWQgPyAi5bey5ZCv55SoIiA6ICLlt7LlgZznlKgifQogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAge20uaWQgIT09ICJidWlsdGluIiAmJiAoCiAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiByZW1vdmUobSl9IGNsYXNzTmFtZT0idGV4dC1tdXRlZCBob3Zlcjp0ZXh0LXdhcm5pbmciIGFyaWEtbGFiZWw9IuWIoOmZpCI+PFRyYXNoMiBzaXplPXsxNX0gLz48L2J1dHRvbj4KICAgICAgICAgICAgKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIEZpZWxkKHsgbGFiZWwsIHZhbHVlLCBvbkNoYW5nZSwgcGxhY2Vob2xkZXIsIHR5cGUgPSAidGV4dCIgfTogewogIGxhYmVsOiBzdHJpbmc7IHZhbHVlOiBzdHJpbmc7IG9uQ2hhbmdlOiAodjogc3RyaW5nKSA9PiB2b2lkOyBwbGFjZWhvbGRlcj86IHN0cmluZzsgdHlwZT86IHN0cmluZzsKfSkgewogIHJldHVybiAoCiAgICA8bGFiZWwgY2xhc3NOYW1lPSJibG9jayI+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWItMSBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPntsYWJlbH08L3NwYW4+CiAgICAgIDxpbnB1dAogICAgICAgIHR5cGU9e3R5cGV9IHZhbHVlPXt2YWx1ZX0gcGxhY2Vob2xkZXI9e3BsYWNlaG9sZGVyfQogICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2UoZS50YXJnZXQudmFsdWUpfQogICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHJvdW5kZWQtYnRuIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcHgtMi41IHB5LTEuNSB0ZXh0LXNtIG91dGxpbmUtbm9uZSBmb2N1czpib3JkZXItdGV4dC80MCIKICAgICAgLz4KICAgIDwvbGFiZWw+CiAgKTsKfQo=
+// 管理员模型配置页：增删改查模型。API key 输入后只回传打码值，留空表示不修改。
+import { useEffect, useState } from "react";
+import { Plus, Trash2, Save, Cpu, X } from "lucide-react";
+import { api } from "@/lib/api";
+import type { ModelInfo } from "@/types";
+
+const EMPTY = { name: "", api_base: "", api_key: "", model: "", enabled: true };
+
+export function ModelConfigView() {
+  const [models, setModels] = useState<ModelInfo[]>([]);
+  const [adding, setAdding] = useState(false);
+  const [draft, setDraft] = useState({ ...EMPTY });
+  const [err, setErr] = useState("");
+
+  const load = () => { void api.listAllModels().then((m) => setModels(Array.isArray(m) ? m : [])).catch(() => setModels([])); };
+  useEffect(load, []);
+
+  const create = async () => {
+    setErr("");
+    if (!draft.name.trim() || !draft.model.trim()) { setErr("显示名与模型标识必填"); return; }
+    try {
+      await api.createModel(draft);
+      setDraft({ ...EMPTY }); setAdding(false); load();
+    } catch (e) { setErr(e instanceof Error ? e.message : "创建失败"); }
+  };
+
+  const toggle = async (m: ModelInfo) => { await api.updateModel(m.id, { enabled: !m.enabled }).catch(() => {}); load(); };
+  const remove = async (m: ModelInfo) => {
+    if (m.id === "builtin") return;
+    if (!confirm(`删除模型「${m.name}」？`)) return;
+    await api.deleteModel(m.id).catch(() => {}); load();
+  };
+
+  return (
+    <div className="mx-auto max-w-3xl px-6 py-8">
+      <div className="mb-6 flex items-center gap-2">
+        <Cpu size={20} className="text-text" />
+        <h1 className="text-lg font-semibold">模型配置</h1>
+        <button onClick={() => setAdding(true)} className="ml-auto flex items-center gap-1.5 rounded-btn bg-text px-3 py-1.5 text-sm text-bg hover:opacity-90">
+          <Plus size={15} /> 新增模型
+        </button>
+      </div>
+
+      <p className="mb-4 rounded-card border border-border bg-surface-2 px-3 py-2 text-xs text-muted">
+        配置后可在聊天框选用。真实 API 调用需后端接入对应模型服务；当前未接入时仍由内置模型应答。API Key 仅保存在后端、不明文回显。
+      </p>
+
+      {adding && (
+        <div className="mb-4 space-y-2 rounded-card border border-border bg-surface p-4">
+          <div className="flex items-center justify-between">
+            <span className="text-sm font-medium">新增模型</span>
+            <button onClick={() => { setAdding(false); setErr(""); }} className="text-muted hover:text-text"><X size={16} /></button>
+          </div>
+          <Field label="显示名" value={draft.name} onChange={(v) => setDraft({ ...draft, name: v })} placeholder="如 DeepSeek-V3" />
+          <Field label="模型标识" value={draft.model} onChange={(v) => setDraft({ ...draft, model: v })} placeholder="如 deepseek-chat" />
+          <Field label="API 地址" value={draft.api_base} onChange={(v) => setDraft({ ...draft, api_base: v })} placeholder="https://api.deepseek.com/v1" />
+          <Field label="API Key" value={draft.api_key} onChange={(v) => setDraft({ ...draft, api_key: v })} placeholder="sk-..." type="password" />
+          {err && <p className="text-xs text-warning">{err}</p>}
+          <button onClick={create} className="flex items-center gap-1.5 rounded-btn bg-text px-3 py-1.5 text-sm text-bg hover:opacity-90">
+            <Save size={14} /> 保存
+          </button>
+        </div>
+      )}
+
+      <div className="space-y-2">
+        {models.map((m) => (
+          <div key={m.id} className="flex items-center gap-3 rounded-card border border-border bg-surface px-4 py-3">
+            <Cpu size={16} className="shrink-0 text-muted" />
+            <div className="min-w-0 flex-1">
+              <div className="flex items-center gap-2">
+                <span className="font-medium">{m.name}</span>
+                <span className="rounded bg-surface-2 px-1.5 py-0.5 text-[11px] text-muted">{m.model}</span>
+                {m.id === "builtin" && <span className="text-[11px] text-muted">内置</span>}
+              </div>
+              <div className="truncate text-xs text-muted">{m.api_base || "（内置，无需 API）"}{m.api_key_masked && ` · ${m.api_key_masked}`}</div>
+            </div>
+            <button onClick={() => toggle(m)} className={`rounded-full px-2 py-0.5 text-xs ${m.enabled ? "bg-surface-2 text-text" : "text-muted"}`} disabled={m.id === "builtin"}>
+              {m.enabled ? "已启用" : "已停用"}
+            </button>
+            {m.id !== "builtin" && (
+              <button onClick={() => remove(m)} className="text-muted hover:text-warning" aria-label="删除"><Trash2 size={15} /></button>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function Field({ label, value, onChange, placeholder, type = "text" }: {
+  label: string; value: string; onChange: (v: string) => void; placeholder?: string; type?: string;
+}) {
+  return (
+    <label className="block">
+      <span className="mb-1 block text-xs text-muted">{label}</span>
+      <input
+        type={type} value={value} placeholder={placeholder}
+        onChange={(e) => onChange(e.target.value)}
+        className="w-full rounded-btn border border-border bg-surface px-2.5 py-1.5 text-sm outline-none focus:border-text/40"
+      />
+    </label>
+  );
+}

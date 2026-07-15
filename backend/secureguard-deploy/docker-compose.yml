@@ -1,1 +1,41 @@
-IyBkb2NrZXItY29tcG9zZS55bWwg4oCUIOS6lOWxguWuieWFqOmXqOaOp+WujOaVtOmDqOe9suOAggojIOemu+e6vy/ml6AgR1BVIOaXtuWPr+WPqui1tyBnYXRla2VlcGVyICsgdmVjdG9yX2RiICsgb3JjaGVzdHJhdG9y77yIbW9kZWwg55SoIE1vY2vvvInjgIIKc2VydmljZXM6CiAgZ2F0ZWtlZXBlcjoKICAgIGJ1aWxkOiB7IGNvbnRleHQ6IC4sIGRvY2tlcmZpbGU6IERvY2tlcmZpbGUgfQogICAgY29tbWFuZDogdXZpY29ybiBzZWN1cmVndWFyZC5hcGk6YXBwIC0taG9zdCAwLjAuMC4wIC0tcG9ydCA4MDAwCiAgICBwb3J0czogWyI4MDAwOjgwMDAiXQogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUkVETElORV9DT05GSUc9L2NvbmZpZy9yZWRsaW5lcy55YW1sCiAgICAgIC0gRE9NQUlOX0dVQVJEUz0vY29uZmlnL2RvbWFpbl9ndWFyZHMueWFtbAogICAgdm9sdW1lczoKICAgICAgLSAuL2NvbmZpZzovY29uZmlnOnJvICAgICAgICAgICMgUGxhbmUtMCDlj6ror7vmjILovb3vvIjlhbPplK7vvJrnuqLnur8v5oqk5qCP5LiN5Y+v6KKr5pS55YaZ77yJCgogIG1vZGVsOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg6ZyAIEdQVe+8m+emu+e6v+eOr+Wig+WPr+azqOmHiuaVtOaute+8jOWNj+iwg+WZqOiHquWKqOeUqCBNb2NrCiAgICBpbWFnZTogdmxsbS92bGxtLW9wZW5haTpsYXRlc3QKICAgIGNvbW1hbmQ6IC0tbW9kZWwgL21vZGVscy92ZXJ0aWNhbC1tb2RlbCAtLXBvcnQgODAwMSAtLXNlcnZlZC1tb2RlbC1uYW1lIHZlcnRpY2FsLW1vZGVsCiAgICB2b2x1bWVzOiBbIi4vbW9kZWxzOi9tb2RlbHM6cm8iXQogICAgcG9ydHM6IFsiODAwMTo4MDAxIl0KICAgIGRlcGxveToKICAgICAgcmVzb3VyY2VzOgogICAgICAgIHJlc2VydmF0aW9uczoKICAgICAgICAgIGRldmljZXM6IFt7ZHJpdmVyOiBudmlkaWEsIGNvdW50OiAxLCBjYXBhYmlsaXRpZXM6IFtncHVdfV0KCiAgdmVjdG9yX2RiOgogICAgaW1hZ2U6IGNocm9tYWRiL2Nocm9tYTpsYXRlc3QKICAgIHBvcnRzOiBbIjgwMDI6ODAwMCJdCiAgICB2b2x1bWVzOiBbIi4vdmVjdG9yX2RhdGE6L2Nocm9tYS9jaHJvbWEiXQoKICBvcmNoZXN0cmF0b3I6CiAgICBidWlsZDogeyBjb250ZXh0OiAuLCBkb2NrZXJmaWxlOiBEb2NrZXJmaWxlIH0KICAgIGNvbW1hbmQ6IHV2aWNvcm4gc2VjdXJlZ3VhcmQuYXBpOmFwcCAtLWhvc3QgMC4wLjAuMCAtLXBvcnQgOTAwMAogICAgcG9ydHM6IFsiOTAwMDo5MDAwIl0KICAgIGVudmlyb25tZW50OgogICAgICAtIE1PREVMX0JBU0VfVVJMPWh0dHA6Ly9tb2RlbDo4MDAxL3YxCiAgICAgIC0gVkVDVE9SX0RCX0hPU1Q9dmVjdG9yX2RiCiAgICB2b2x1bWVzOiBbIi4vY29uZmlnOi9jb25maWc6cm8iXQogICAgZGVwZW5kc19vbjogW2dhdGVrZWVwZXIsIHZlY3Rvcl9kYl0KCiAgYXVkaXQ6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDml6Xlv5fogZrlkIjvvIjlj6/pgInvvIkKICAgIGltYWdlOiBncmFmYW5hL2xva2k6bGF0ZXN0CiAgICBwb3J0czogWyIzMTAwOjMxMDAiXQo=
+# docker-compose.yml — 五层安全门控完整部署。
+# 离线/无 GPU 时可只起 gatekeeper + vector_db + orchestrator（model 用 Mock）。
+services:
+  gatekeeper:
+    build: { context: ., dockerfile: Dockerfile }
+    command: uvicorn secureguard.api:app --host 0.0.0.0 --port 8000
+    ports: ["8000:8000"]
+    environment:
+      - REDLINE_CONFIG=/config/redlines.yaml
+      - DOMAIN_GUARDS=/config/domain_guards.yaml
+    volumes:
+      - ./config:/config:ro          # Plane-0 只读挂载（关键：红线/护栏不可被改写）
+
+  model:                              # 需 GPU；离线环境可注释整段，协调器自动用 Mock
+    image: vllm/vllm-openai:latest
+    command: --model /models/vertical-model --port 8001 --served-model-name vertical-model
+    volumes: ["./models:/models:ro"]
+    ports: ["8001:8001"]
+    deploy:
+      resources:
+        reservations:
+          devices: [{driver: nvidia, count: 1, capabilities: [gpu]}]
+
+  vector_db:
+    image: chromadb/chroma:latest
+    ports: ["8002:8000"]
+    volumes: ["./vector_data:/chroma/chroma"]
+
+  orchestrator:
+    build: { context: ., dockerfile: Dockerfile }
+    command: uvicorn secureguard.api:app --host 0.0.0.0 --port 9000
+    ports: ["9000:9000"]
+    environment:
+      - MODEL_BASE_URL=http://model:8001/v1
+      - VECTOR_DB_HOST=vector_db
+    volumes: ["./config:/config:ro"]
+    depends_on: [gatekeeper, vector_db]
+
+  audit:                              # 日志聚合（可选）
+    image: grafana/loki:latest
+    ports: ["3100:3100"]

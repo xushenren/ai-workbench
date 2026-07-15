@@ -1,0 +1,4 @@
+.env
+*.bak
+data/
+backup_20260622/

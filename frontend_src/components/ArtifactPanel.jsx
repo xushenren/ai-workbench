@@ -1,1 +1,237 @@
-Ly8gQXJ0aWZhY3RQYW5lbC5qc3gg4oCUIOS4iuWuiSAvYXBwIOeahCBBcnRpZmFjdHMg5riy5p+T6Z2i5p2/Ci8vIOaVsOaNruadpea6kO+8muiBiuWkqeWTjeW6lOmHjOeahOaJqeWxleWtl+autSByZXNwLnhfc2hhbmdhbl9hcnRpZmFjdHPvvIhLdW4g56uv5b+955Wl6K+l5a2X5q6177yM5LqS5LiN5b2x5ZON77yJCi8vIOS+nei1lu+8muS7hSBSZWFjdOOAguS4u+mimOi1sCBDU1Mg5Y+Y6YeP77yM5rK/55So5L2gIC9hcHAg546w5pyJIGRlc2lnbiB0b2tlbu+8jOacquWumuS5ieaXtueUqOWFnOW6leWAvOOAggovLyDml6AgbG9jYWxTdG9yYWdlIC8g5peg5aSW6YOo5bqT77yb5Y+v55u05o6l5pS+6L+bIFZpdGUgKyBSZWFjdCDlt6XnqIvjgIIKCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlTWVtbywgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7Cgpjb25zdCBUWVBFX0xBQkVMID0gewogIGNvZGU6ICLku6PnoIEiLAogIG1hcmtkb3duOiAi5paH5qGjIiwKICB0YWJsZTogIuihqOagvCIsCiAgbWVybWFpZDogIua1geeoi+WbviIsCiAgY2FsYzogIuiuoeeul+S5piIsCn07Cgpjb25zdCB3cmFwID0gewogIGRpc3BsYXk6ICJncmlkIiwKICBncmlkVGVtcGxhdGVDb2x1bW5zOiAiMjAwcHggMWZyIiwKICBnYXA6ICIxMnB4IiwKICBib3JkZXI6ICIxcHggc29saWQgdmFyKC0tc2EtYm9yZGVyLCAjZTNlM2U2KSIsCiAgYm9yZGVyUmFkaXVzOiAiMTBweCIsCiAgYmFja2dyb3VuZDogInZhcigtLXNhLXN1cmZhY2UsICNmZmYpIiwKICBjb2xvcjogInZhcigtLXNhLXRleHQsICMxYTFhMWYpIiwKICBmb250RmFtaWx5OiAidmFyKC0tc2EtZm9udCwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCAnU2Vnb2UgVUknLCBzYW5zLXNlcmlmKSIsCiAgb3ZlcmZsb3c6ICJoaWRkZW4iLAogIG1pbkhlaWdodDogIjI2MHB4IiwKfTsKCmNvbnN0IG1vbm8gPSAidmFyKC0tc2EtbW9ubywgJ1NGIE1vbm8nLCAnQ2FzY2FkaWEgQ29kZScsICdKZXRCcmFpbnMgTW9ubycsIE1lbmxvLCBtb25vc3BhY2UpIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFydGlmYWN0UGFuZWwoeyBhcnRpZmFjdHMgPSBbXSB9KSB7CiAgY29uc3QgW2FjdGl2ZUlkLCBzZXRBY3RpdmVJZF0gPSB1c2VTdGF0ZShhcnRpZmFjdHNbMF0/LmlkKTsKICAvLyDmlrDkuIDova7lk43lupTmjaLkuoYgYXJ0aWZhY3RzIOaXtu+8jOiLpeW9k+WJjemAieS4remhueW3suS4jeWtmOWcqOWImeWbnuWIsOesrOS4gOS4qgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoIWFydGlmYWN0cy5zb21lKChhKSA9PiBhLmlkID09PSBhY3RpdmVJZCkpIHsKICAgICAgc2V0QWN0aXZlSWQoYXJ0aWZhY3RzWzBdPy5pZCk7CiAgICB9CiAgfSwgW2FydGlmYWN0cywgYWN0aXZlSWRdKTsKICBjb25zdCBhY3RpdmUgPSB1c2VNZW1vKAogICAgKCkgPT4gYXJ0aWZhY3RzLmZpbmQoKGEpID0+IGEuaWQgPT09IGFjdGl2ZUlkKSB8fCBhcnRpZmFjdHNbMF0sCiAgICBbYXJ0aWZhY3RzLCBhY3RpdmVJZF0KICApOwoKICBpZiAoIWFydGlmYWN0cy5sZW5ndGgpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgc3R5bGU9e3sgLi4ud3JhcCwgZ3JpZFRlbXBsYXRlQ29sdW1uczogIjFmciIsIHBsYWNlSXRlbXM6ICJjZW50ZXIiLCBjb2xvcjogInZhcigtLXNhLW11dGVkLCM4YThhOTMpIiB9fT4KICAgICAgICDmnKzmrKHlm57nrZTmsqHmnInlj6/kv53lrZjnmoTmiJDmnpzjgILmj5Dlh7oi5Ye65pa55qGIIC8g5YaZ6K6h566X5LmmIC8g55Sf5oiQ5riF5Y2VIuS8muWcqOi/memHjOS6p+WHuiBBcnRpZmFjdOOAggogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17d3JhcH0+CiAgICAgIDxuYXYgc3R5bGU9e3sgYm9yZGVyUmlnaHQ6ICIxcHggc29saWQgdmFyKC0tc2EtYm9yZGVyLCNlM2UzZTYpIiwgcGFkZGluZzogIjhweCIsIG92ZXJmbG93WTogImF1dG8iIH19PgogICAgICAgIHthcnRpZmFjdHMubWFwKChhKSA9PiB7CiAgICAgICAgICBjb25zdCBvbiA9IGEuaWQgPT09IGFjdGl2ZT8uaWQ7CiAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAga2V5PXthLmlkfQogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldEFjdGl2ZUlkKGEuaWQpfQogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiAiYmxvY2siLAogICAgICAgICAgICAgICAgd2lkdGg6ICIxMDAlIiwKICAgICAgICAgICAgICAgIHRleHRBbGlnbjogImxlZnQiLAogICAgICAgICAgICAgICAgcGFkZGluZzogIjhweCAxMHB4IiwKICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogIjRweCIsCiAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6ICI3cHgiLAogICAgICAgICAgICAgICAgYm9yZGVyOiAibm9uZSIsCiAgICAgICAgICAgICAgICBjdXJzb3I6ICJwb2ludGVyIiwKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IG9uID8gInZhcigtLXNhLWFjY2VudC1zb2Z0LCAjZWVmMmZmKSIgOiAidHJhbnNwYXJlbnQiLAogICAgICAgICAgICAgICAgY29sb3I6IG9uID8gInZhcigtLXNhLWFjY2VudCwgIzNiNGNjYSkiIDogImluaGVyaXQiLAogICAgICAgICAgICAgICAgZm9udFdlaWdodDogb24gPyA2MDAgOiA0MDAsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGZvbnRTaXplOiAiMTFweCIsIG9wYWNpdHk6IDAuNyB9fT57VFlQRV9MQUJFTFthLnR5cGVdIHx8IGEudHlwZX08L3NwYW4+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogIjEzcHgiLCBsaW5lSGVpZ2h0OiAxLjMsIG92ZXJmbG93OiAiaGlkZGVuIiwgdGV4dE92ZXJmbG93OiAiZWxsaXBzaXMiIH19PgogICAgICAgICAgICAgICAge2EudGl0bGUgfHwgIuacquWRveWQjSJ9CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgKTsKICAgICAgICB9KX0KICAgICAgPC9uYXY+CgogICAgICA8c2VjdGlvbiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLCBtaW5XaWR0aDogMCB9fT4KICAgICAgICA8aGVhZGVyCiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogInNwYWNlLWJldHdlZW4iLAogICAgICAgICAgICBwYWRkaW5nOiAiMTBweCAxMnB4IiwKICAgICAgICAgICAgYm9yZGVyQm90dG9tOiAiMXB4IHNvbGlkIHZhcigtLXNhLWJvcmRlciwjZTNlM2U2KSIsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIDxzdHJvbmcgc3R5bGU9e3sgZm9udFNpemU6ICIxNHB4IiB9fT57YWN0aXZlPy50aXRsZX08L3N0cm9uZz4KICAgICAgICAgIDxUb29sYmFyIGFydGlmYWN0PXthY3RpdmV9IC8+CiAgICAgICAgPC9oZWFkZXI+CiAgICAgICAgPGRpdiBzdHlsZT17eyBwYWRkaW5nOiAiMTJweCIsIG92ZXJmbG93OiAiYXV0byIsIGZsZXg6IDEgfX0+CiAgICAgICAgICA8QXJ0aWZhY3RCb2R5IGFydGlmYWN0PXthY3RpdmV9IC8+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIFRvb2xiYXIoeyBhcnRpZmFjdCB9KSB7CiAgY29uc3QgW2NvcGllZCwgc2V0Q29waWVkXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBjb3B5ID0gYXN5bmMgKCkgPT4gewogICAgdHJ5IHsKICAgICAgaWYgKG5hdmlnYXRvci5jbGlwYm9hcmQ/LndyaXRlVGV4dCkgewogICAgICAgIGF3YWl0IG5hdmlnYXRvci5jbGlwYm9hcmQud3JpdGVUZXh0KGFydGlmYWN0LmNvbnRlbnQpOwogICAgICB9IGVsc2UgewogICAgICAgIC8vIOmdniBIVFRQUyAvIOaXp+a1j+iniOWZqOWFnOW6lQogICAgICAgIGNvbnN0IHRhID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgidGV4dGFyZWEiKTsKICAgICAgICB0YS52YWx1ZSA9IGFydGlmYWN0LmNvbnRlbnQ7CiAgICAgICAgdGEuc3R5bGUucG9zaXRpb24gPSAiZml4ZWQiOwogICAgICAgIHRhLnN0eWxlLm9wYWNpdHkgPSAiMCI7CiAgICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZCh0YSk7CiAgICAgICAgdGEuc2VsZWN0KCk7CiAgICAgICAgZG9jdW1lbnQuZXhlY0NvbW1hbmQoImNvcHkiKTsKICAgICAgICBkb2N1bWVudC5ib2R5LnJlbW92ZUNoaWxkKHRhKTsKICAgICAgfQogICAgICBzZXRDb3BpZWQodHJ1ZSk7CiAgICAgIHNldFRpbWVvdXQoKCkgPT4gc2V0Q29waWVkKGZhbHNlKSwgMTUwMCk7CiAgICB9IGNhdGNoIHsKICAgICAgLyog5aSN5Yi25aSx6LSl6Z2Z6buY77yM5LiN5omT5pat55So5oi3ICovCiAgICB9CiAgfTsKICBjb25zdCBkb3dubG9hZCA9ICgpID0+IHsKICAgIGNvbnN0IGV4dCA9IHsgY29kZTogYXJ0aWZhY3QubGFuZyB8fCAidHh0IiwgbWFya2Rvd246ICJtZCIsIHRhYmxlOiAiY3N2IiwgbWVybWFpZDogIm1tZCIsIGNhbGM6ICJ0eHQiIH1bYXJ0aWZhY3QudHlwZV0gfHwgInR4dCI7CiAgICBjb25zdCBibG9iID0gbmV3IEJsb2IoW2FydGlmYWN0LmNvbnRlbnRdLCB7IHR5cGU6ICJ0ZXh0L3BsYWluO2NoYXJzZXQ9dXRmLTgiIH0pOwogICAgY29uc3QgdXJsID0gVVJMLmNyZWF0ZU9iamVjdFVSTChibG9iKTsKICAgIGNvbnN0IGEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJhIik7CiAgICBhLmhyZWYgPSB1cmw7CiAgICBhLmRvd25sb2FkID0gYCR7KGFydGlmYWN0LnRpdGxlIHx8ICJhcnRpZmFjdCIpLnJlcGxhY2UoL1xzKy9nLCAiXyIpfS4ke2V4dH1gOwogICAgYS5jbGljaygpOwogICAgVVJMLnJldm9rZU9iamVjdFVSTCh1cmwpOwogIH07CiAgY29uc3QgYnRuID0gewogICAgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLXNhLWJvcmRlciwjZTNlM2U2KSIsCiAgICBiYWNrZ3JvdW5kOiAidmFyKC0tc2Etc3VyZmFjZSwjZmZmKSIsCiAgICBib3JkZXJSYWRpdXM6ICI2cHgiLAogICAgcGFkZGluZzogIjRweCAxMHB4IiwKICAgIGZvbnRTaXplOiAiMTJweCIsCiAgICBjdXJzb3I6ICJwb2ludGVyIiwKICAgIG1hcmdpbkxlZnQ6ICI2cHgiLAogIH07CiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxidXR0b24gc3R5bGU9e2J0bn0gb25DbGljaz17Y29weX0+e2NvcGllZCA/ICLlt7LlpI3liLYiIDogIuWkjeWItiJ9PC9idXR0b24+CiAgICAgIDxidXR0b24gc3R5bGU9e2J0bn0gb25DbGljaz17ZG93bmxvYWR9PuS4i+i9vTwvYnV0dG9uPgogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gQXJ0aWZhY3RCb2R5KHsgYXJ0aWZhY3QgfSkgewogIGlmICghYXJ0aWZhY3QpIHJldHVybiBudWxsOwogIGNvbnN0IHsgdHlwZSwgY29udGVudCwgbGFuZyB9ID0gYXJ0aWZhY3Q7CgogIGlmICh0eXBlID09PSAiY29kZSIgfHwgdHlwZSA9PT0gImNhbGMiKSB7CiAgICByZXR1cm4gKAogICAgICA8cHJlIHN0eWxlPXt7IG1hcmdpbjogMCwgZm9udEZhbWlseTogbW9ubywgZm9udFNpemU6ICIxMi41cHgiLCBsaW5lSGVpZ2h0OiAxLjU1LCB3aGl0ZVNwYWNlOiAicHJlLXdyYXAiLCB3b3JkQnJlYWs6ICJicmVhay13b3JkIiB9fT4KICAgICAgICB7bGFuZyAmJiB0eXBlID09PSAiY29kZSIgPyA8TGFuZ0JhZGdlIGxhbmc9e2xhbmd9IC8+IDogbnVsbH0KICAgICAgICA8Y29kZT57Y29udGVudH08L2NvZGU+CiAgICAgIDwvcHJlPgogICAgKTsKICB9CgogIGlmICh0eXBlID09PSAidGFibGUiKSByZXR1cm4gPENzdlRhYmxlIGNvbnRlbnQ9e2NvbnRlbnR9IC8+OwoKICBpZiAodHlwZSA9PT0gIm1lcm1haWQiKSB7CiAgICAvLyDkuI3lvJXnrKzkuInmlrnlupPvvJrlhYjlsZXnpLrmupDnoIHjgILoi6UgL2FwcCDlt7Lpm4bmiJAgbWVybWFpZO+8jOWPr+WcqOatpCB1c2VFZmZlY3Qg6LCDIG1lcm1haWQucmVuZGVy44CCCiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIDxwIHN0eWxlPXt7IG1hcmdpbjogIjAgMCA4cHgiLCBmb250U2l6ZTogIjEycHgiLCBjb2xvcjogInZhcigtLXNhLW11dGVkLCM4YThhOTMpIiB9fT4KICAgICAgICAgIOa1geeoi+Wbvua6kOegge+8iC9hcHAg5o6l5YWlIG1lcm1haWQg5ZCO6Ieq5Yqo5riy5p+T77yJCiAgICAgICAgPC9wPgogICAgICAgIDxwcmUgc3R5bGU9e3sgbWFyZ2luOiAwLCBmb250RmFtaWx5OiBtb25vLCBmb250U2l6ZTogIjEyLjVweCIsIHdoaXRlU3BhY2U6ICJwcmUtd3JhcCIgfX0+e2NvbnRlbnR9PC9wcmU+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIC8vIG1hcmtkb3du77ya5p6B566A5riy5p+T77yI5qCH6aKYL+WIl+ihqC/ooYzlhoXku6PnoIHvvInvvIzpgb/lhY3lvJXlhaUgbWQg5bqT77yb5q2j5byP54mI5Y+v5o2iIHJlYWN0LW1hcmtkb3duCiAgcmV0dXJuIDxNaW5pTWFya2Rvd24gY29udGVudD17Y29udGVudH0gLz47Cn0KCmZ1bmN0aW9uIExhbmdCYWRnZSh7IGxhbmcgfSkgewogIHJldHVybiAoCiAgICA8c3BhbiBzdHlsZT17eyBkaXNwbGF5OiAiaW5saW5lLWJsb2NrIiwgZm9udFNpemU6ICIxMHB4IiwgY29sb3I6ICJ2YXIoLS1zYS1tdXRlZCwjOGE4YTkzKSIsIG1hcmdpbkJvdHRvbTogIjZweCIgfX0+CiAgICAgIHtsYW5nfQogICAgPC9zcGFuPgogICk7Cn0KCmZ1bmN0aW9uIENzdlRhYmxlKHsgY29udGVudCB9KSB7CiAgY29uc3Qgcm93cyA9IGNvbnRlbnQudHJpbSgpLnNwbGl0KCJcbiIpLm1hcCgocikgPT4gci5zcGxpdCgvXHR8LC8pKTsKICBpZiAoIXJvd3MubGVuZ3RoKSByZXR1cm4gbnVsbDsKICBjb25zdCBbaGVhZCwgLi4ucmVzdF0gPSByb3dzOwogIHJldHVybiAoCiAgICA8dGFibGUgc3R5bGU9e3sgYm9yZGVyQ29sbGFwc2U6ICJjb2xsYXBzZSIsIGZvbnRTaXplOiAiMTNweCIsIHdpZHRoOiAiMTAwJSIgfX0+CiAgICAgIDx0aGVhZD4KICAgICAgICA8dHI+CiAgICAgICAgICB7aGVhZC5tYXAoKGMsIGkpID0+ICgKICAgICAgICAgICAgPHRoIGtleT17aX0gc3R5bGU9e3sgYm9yZGVyOiAiMXB4IHNvbGlkIHZhcigtLXNhLWJvcmRlciwjZTNlM2U2KSIsIHBhZGRpbmc6ICI2cHggMTBweCIsIGJhY2tncm91bmQ6ICJ2YXIoLS1zYS1hY2NlbnQtc29mdCwjZjVmNmZhKSIsIHRleHRBbGlnbjogImxlZnQiIH19PgogICAgICAgICAgICAgIHtjfQogICAgICAgICAgICA8L3RoPgogICAgICAgICAgKSl9CiAgICAgICAgPC90cj4KICAgICAgPC90aGVhZD4KICAgICAgPHRib2R5PgogICAgICAgIHtyZXN0Lm1hcCgociwgaSkgPT4gKAogICAgICAgICAgPHRyIGtleT17aX0+CiAgICAgICAgICAgIHtyLm1hcCgoYywgaikgPT4gKAogICAgICAgICAgICAgIDx0ZCBrZXk9e2p9IHN0eWxlPXt7IGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1zYS1ib3JkZXIsI2UzZTNlNikiLCBwYWRkaW5nOiAiNnB4IDEwcHgiIH19PntjfTwvdGQ+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC90cj4KICAgICAgICApKX0KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiAgKTsKfQoKZnVuY3Rpb24gTWluaU1hcmtkb3duKHsgY29udGVudCB9KSB7CiAgY29uc3QgYmxvY2tzID0gY29udGVudC5zcGxpdCgiXG4iKS5tYXAoKGxpbmUsIGkpID0+IHsKICAgIGlmICgvXiN7MSwzfVxzLy50ZXN0KGxpbmUpKSB7CiAgICAgIGNvbnN0IGxldmVsID0gbGluZS5tYXRjaCgvXiMrLylbMF0ubGVuZ3RoOwogICAgICBjb25zdCB0ZXh0ID0gbGluZS5yZXBsYWNlKC9eIytccy8sICIiKTsKICAgICAgY29uc3Qgc2l6ZSA9IHsgMTogIjE4cHgiLCAyOiAiMTZweCIsIDM6ICIxNHB4IiB9W2xldmVsXTsKICAgICAgcmV0dXJuIDxkaXYga2V5PXtpfSBzdHlsZT17eyBmb250V2VpZ2h0OiA3MDAsIGZvbnRTaXplOiBzaXplLCBtYXJnaW46ICIxMHB4IDAgNHB4IiB9fT57dGV4dH08L2Rpdj47CiAgICB9CiAgICBpZiAoL15bLSpdXHMvLnRlc3QobGluZSkpIHsKICAgICAgcmV0dXJuIDxkaXYga2V5PXtpfSBzdHlsZT17eyBwYWRkaW5nTGVmdDogIjE2cHgiLCBsaW5lSGVpZ2h0OiAxLjYgfX0+4oCiIHtsaW5lLnJlcGxhY2UoL15bLSpdXHMvLCAiIil9PC9kaXY+OwogICAgfQogICAgaWYgKCFsaW5lLnRyaW0oKSkgcmV0dXJuIDxkaXYga2V5PXtpfSBzdHlsZT17eyBoZWlnaHQ6ICI2cHgiIH19IC8+OwogICAgcmV0dXJuIDxkaXYga2V5PXtpfSBzdHlsZT17eyBsaW5lSGVpZ2h0OiAxLjY1LCBmb250U2l6ZTogIjEzLjVweCIgfX0+e2xpbmV9PC9kaXY+OwogIH0pOwogIHJldHVybiA8ZGl2PntibG9ja3N9PC9kaXY+Owp9Cg==
+// ArtifactPanel.jsx — 上安 /app 的 Artifacts 渲染面板
+// 数据来源：聊天响应里的扩展字段 resp.x_shangan_artifacts（Kun 端忽略该字段，互不影响）
+// 依赖：仅 React。主题走 CSS 变量，沿用你 /app 现有 design token，未定义时用兜底值。
+// 无 localStorage / 无外部库；可直接放进 Vite + React 工程。
+
+import { useEffect, useMemo, useState } from "react";
+
+const TYPE_LABEL = {
+  code: "代码",
+  markdown: "文档",
+  table: "表格",
+  mermaid: "流程图",
+  calc: "计算书",
+};
+
+const wrap = {
+  display: "grid",
+  gridTemplateColumns: "200px 1fr",
+  gap: "12px",
+  border: "1px solid var(--sa-border, #e3e3e6)",
+  borderRadius: "10px",
+  background: "var(--sa-surface, #fff)",
+  color: "var(--sa-text, #1a1a1f)",
+  fontFamily: "var(--sa-font, system-ui, -apple-system, 'Segoe UI', sans-serif)",
+  overflow: "hidden",
+  minHeight: "260px",
+};
+
+const mono = "var(--sa-mono, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Menlo, monospace)";
+
+export default function ArtifactPanel({ artifacts = [] }) {
+  const [activeId, setActiveId] = useState(artifacts[0]?.id);
+  // 新一轮响应换了 artifacts 时，若当前选中项已不存在则回到第一个
+  useEffect(() => {
+    if (!artifacts.some((a) => a.id === activeId)) {
+      setActiveId(artifacts[0]?.id);
+    }
+  }, [artifacts, activeId]);
+  const active = useMemo(
+    () => artifacts.find((a) => a.id === activeId) || artifacts[0],
+    [artifacts, activeId]
+  );
+
+  if (!artifacts.length) {
+    return (
+      <div style={{ ...wrap, gridTemplateColumns: "1fr", placeItems: "center", color: "var(--sa-muted,#8a8a93)" }}>
+        本次回答没有可保存的成果。提出"出方案 / 写计算书 / 生成清单"会在这里产出 Artifact。
+      </div>
+    );
+  }
+
+  return (
+    <div style={wrap}>
+      <nav style={{ borderRight: "1px solid var(--sa-border,#e3e3e6)", padding: "8px", overflowY: "auto" }}>
+        {artifacts.map((a) => {
+          const on = a.id === active?.id;
+          return (
+            <button
+              key={a.id}
+              onClick={() => setActiveId(a.id)}
+              style={{
+                display: "block",
+                width: "100%",
+                textAlign: "left",
+                padding: "8px 10px",
+                marginBottom: "4px",
+                borderRadius: "7px",
+                border: "none",
+                cursor: "pointer",
+                background: on ? "var(--sa-accent-soft, #eef2ff)" : "transparent",
+                color: on ? "var(--sa-accent, #3b4cca)" : "inherit",
+                fontWeight: on ? 600 : 400,
+              }}
+            >
+              <span style={{ fontSize: "11px", opacity: 0.7 }}>{TYPE_LABEL[a.type] || a.type}</span>
+              <div style={{ fontSize: "13px", lineHeight: 1.3, overflow: "hidden", textOverflow: "ellipsis" }}>
+                {a.title || "未命名"}
+              </div>
+            </button>
+          );
+        })}
+      </nav>
+
+      <section style={{ display: "flex", flexDirection: "column", minWidth: 0 }}>
+        <header
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+            padding: "10px 12px",
+            borderBottom: "1px solid var(--sa-border,#e3e3e6)",
+          }}
+        >
+          <strong style={{ fontSize: "14px" }}>{active?.title}</strong>
+          <Toolbar artifact={active} />
+        </header>
+        <div style={{ padding: "12px", overflow: "auto", flex: 1 }}>
+          <ArtifactBody artifact={active} />
+        </div>
+      </section>
+    </div>
+  );
+}
+
+function Toolbar({ artifact }) {
+  const [copied, setCopied] = useState(false);
+  const copy = async () => {
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(artifact.content);
+      } else {
+        // 非 HTTPS / 旧浏览器兜底
+        const ta = document.createElement("textarea");
+        ta.value = artifact.content;
+        ta.style.position = "fixed";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand("copy");
+        document.body.removeChild(ta);
+      }
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1500);
+    } catch {
+      /* 复制失败静默，不打断用户 */
+    }
+  };
+  const download = () => {
+    const ext = { code: artifact.lang || "txt", markdown: "md", table: "csv", mermaid: "mmd", calc: "txt" }[artifact.type] || "txt";
+    const blob = new Blob([artifact.content], { type: "text/plain;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `${(artifact.title || "artifact").replace(/\s+/g, "_")}.${ext}`;
+    a.click();
+    URL.revokeObjectURL(url);
+  };
+  const btn = {
+    border: "1px solid var(--sa-border,#e3e3e6)",
+    background: "var(--sa-surface,#fff)",
+    borderRadius: "6px",
+    padding: "4px 10px",
+    fontSize: "12px",
+    cursor: "pointer",
+    marginLeft: "6px",
+  };
+  return (
+    <div>
+      <button style={btn} onClick={copy}>{copied ? "已复制" : "复制"}</button>
+      <button style={btn} onClick={download}>下载</button>
+    </div>
+  );
+}
+
+function ArtifactBody({ artifact }) {
+  if (!artifact) return null;
+  const { type, content, lang } = artifact;
+
+  if (type === "code" || type === "calc") {
+    return (
+      <pre style={{ margin: 0, fontFamily: mono, fontSize: "12.5px", lineHeight: 1.55, whiteSpace: "pre-wrap", wordBreak: "break-word" }}>
+        {lang && type === "code" ? <LangBadge lang={lang} /> : null}
+        <code>{content}</code>
+      </pre>
+    );
+  }
+
+  if (type === "table") return <CsvTable content={content} />;
+
+  if (type === "mermaid") {
+    // 不引第三方库：先展示源码。若 /app 已集成 mermaid，可在此 useEffect 调 mermaid.render。
+    return (
+      <div>
+        <p style={{ margin: "0 0 8px", fontSize: "12px", color: "var(--sa-muted,#8a8a93)" }}>
+          流程图源码（/app 接入 mermaid 后自动渲染）
+        </p>
+        <pre style={{ margin: 0, fontFamily: mono, fontSize: "12.5px", whiteSpace: "pre-wrap" }}>{content}</pre>
+      </div>
+    );
+  }
+
+  // markdown：极简渲染（标题/列表/行内代码），避免引入 md 库；正式版可换 react-markdown
+  return <MiniMarkdown content={content} />;
+}
+
+function LangBadge({ lang }) {
+  return (
+    <span style={{ display: "inline-block", fontSize: "10px", color: "var(--sa-muted,#8a8a93)", marginBottom: "6px" }}>
+      {lang}
+    </span>
+  );
+}
+
+function CsvTable({ content }) {
+  const rows = content.trim().split("\n").map((r) => r.split(/\t|,/));
+  if (!rows.length) return null;
+  const [head, ...rest] = rows;
+  return (
+    <table style={{ borderCollapse: "collapse", fontSize: "13px", width: "100%" }}>
+      <thead>
+        <tr>
+          {head.map((c, i) => (
+            <th key={i} style={{ border: "1px solid var(--sa-border,#e3e3e6)", padding: "6px 10px", background: "var(--sa-accent-soft,#f5f6fa)", textAlign: "left" }}>
+              {c}
+            </th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {rest.map((r, i) => (
+          <tr key={i}>
+            {r.map((c, j) => (
+              <td key={j} style={{ border: "1px solid var(--sa-border,#e3e3e6)", padding: "6px 10px" }}>{c}</td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
+}
+
+function MiniMarkdown({ content }) {
+  const blocks = content.split("\n").map((line, i) => {
+    if (/^#{1,3}\s/.test(line)) {
+      const level = line.match(/^#+/)[0].length;
+      const text = line.replace(/^#+\s/, "");
+      const size = { 1: "18px", 2: "16px", 3: "14px" }[level];
+      return <div key={i} style={{ fontWeight: 700, fontSize: size, margin: "10px 0 4px" }}>{text}</div>;
+    }
+    if (/^[-*]\s/.test(line)) {
+      return <div key={i} style={{ paddingLeft: "16px", lineHeight: 1.6 }}>• {line.replace(/^[-*]\s/, "")}</div>;
+    }
+    if (!line.trim()) return <div key={i} style={{ height: "6px" }} />;
+    return <div key={i} style={{ lineHeight: 1.65, fontSize: "13.5px" }}>{line}</div>;
+  });
+  return <div>{blocks}</div>;
+}

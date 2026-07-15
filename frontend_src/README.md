@@ -1,1 +1,59 @@
-IyDkvIHkuJogQUkg5bel5L2c5Y+wIOKAlCDliY3nq68KClJlYWN0IDE4ICsgVHlwZVNjcmlwdCArIFZpdGUgKyBUYWlsd2luZCArIFp1c3RhbmTjgILlr7nmjqUgQ09OVFJBQ1QubWQg5aWR57qm5LiO5ZCO56uvIGA6OTAwMGDjgIIK6KeG6KeJ6LWwICoqQ2xhdWRlLmFpIOawlOi0qCoq77ya5pqW5Lit5oCn5bqVICsg6Zm25Zyf5qmZ5by66LCD77yM5piO5pqX5Y+M5Li76aKY77yM5oCd6ICD6Z2i5p2/5YWL5Yi254Gw6Zi277yI5LuFIEJMT0NLIOeUqOitpuekuuiJsu+8ieOAggoKIyMg6L+Q6KGMCgpgYGBiYXNoCm5wbSBpbnN0YWxsCm5wbSBydW4gZGV2ICAgICAgICAjIGh0dHA6Ly9sb2NhbGhvc3Q6NTE3MyDvvIwvdjEg5LiOIHdzIOiHquWKqOS7o+eQhuWIsCA6OTAwMApucG0gcnVuIGJ1aWxkICAgICAgIyB0c2MgLWIgKyB2aXRlIGJ1aWxkCm5wbSBydW4gdHlwZWNoZWNrICAjIOS7heexu+Wei+ajgOafpQpgYGAKCuWQjuerr+ayoei1t+S5n+iDvei3ke+8muaJgOacieaVsOaNriBmYWxsYmFjayDliLDlhoXnva7npLrkvovvvIzpobbpg6jmmL7npLrjgIzlkI7nq6/mnI3liqHmnKrov57mjqUgwrcg5b2T5YmN5Li65ryU56S65pWw5o2u44CN77yMCuiBiuWkqeS8mui1sCoq56a757q/5ryU56S65qih5byPKirvvIjmqKHmi5/mgJ3ogIPluKcgKyDmtYHlvI/nrZTmoYjvvInvvIznlYzpnaLkuI3nmb3lsY/jgIIKCiMjIOmhtemdogoKfCDot6/nlLEgfCDlhoXlrrkgfAp8LS0tfC0tLXwKfCBgL2NoYXRgIHwg5LiJ5qCP77ya5bem5L6n5Lya6K+dL+efpeivhuW6ky/nrpflipsgwrcg5Lit6Ze06IGK5aSpKE1hcmtkb3duK+S7o+eggemrmOS6rivmtYHlvI/lhYnmoIcpIMK3IOWPs+S+p+aAneiAg+mdouadvyB8CnwgYC9hZ2VudHNgIHwg5pm66IO95L2T5biC5Zy677ya5YWo6YOoL+WFrOWFsS/pg6jpl6gv5oiR55qEIFRhYiArIOWNoeeJh+e9keagvCB8CnwgYC9hZG1pbmAgfCA2IOe7n+iuoeWNoSArIOaooeWei+mFjee9ri9Ub2tlbumFjeminS/lronlhajpl6jmjqcv5pyA6L+R5a6h6K6hIDQg6Z2i5p2/IHwKfCBgL2xvZ2luYCB8IOaJi+acuuWPtyvlr4bnoIEgKyDlvq7kv6HmiavnoIHljaDkvY3vvIzmmI7mmpfoh6rpgILlupQgfAoKIyMg5a+55o6l5ZCO56uvCgotIFJFU1TvvJpgL3YxL2FnZW50c2AgYC92MS9hZ2VudHMvOmlkYCBgL3YxL2tub3dsZWRnZWAgYC92MS9jb21wdXRlL3N0YXR1c2AgYC92MS9hZG1pbi9zdGF0c2AgYC92MS9hdXRoL2xvZ2luYO+8iGBsaWIvYXBpLnRzYO+8iQotIFdlYlNvY2tldO+8mmAvdjEvY2hhdC9zdHJlYW1g77yM5Y+RIGB7bWVzc2FnZSwgYWdlbnRfaWQsIHNlc3Npb25faWR9YO+8jOaUtiBgdHJhY2UvZGVsdGEvZG9uZWAg5bin77yIYGxpYi93cy50c2DvvIkKLSDlvIDlj5HmnJ/ot6jln5/nlLEgYHZpdGUuY29uZmlnLnRzYCDnmoQgcHJveHkg6Kej5Yaz77yM55Sf5Lqn5pS5IGBCQVNFYCDkuI4gYHdzVXJsKClgIOS4uue7neWvueWcsOWdgOOAggoKIyMg5a6J5YWo57qm5p2f55qE6JC95Zyw77yI5a+55bqUIENPTlRSQUNULm1kIC8g5YWz6ZSu57qm5p2f77yJCgotICoq5oCd6ICD6Z2i5p2/57uT5p6E5LiK5LiN5Y+v6IO95riy5p+TIHJ1bGVfaWQqKu+8mmBQdWJsaWNUcmFjZUZyYW1lYCDnsbvlnosqKuagueacrOS4jeWQqyoqIHJ1bGVfaWQv5YaF6YOo5Y+C5pWw5a2X5q6177yM5Y+q5riy5p+TIGBkaXNwbGF5YOOAggotICoq5oum5oiq5LiN5Zue5pi+5YW35L2T5Y6f5ZugKirvvJpgc3RhdHVzOiJibG9ja2VkImAg5Y+q5pi+56S644CM5bey6KKr5a6J5YWo562W55Wl5oum5oiq44CN44CCCi0gKirkuI3kvb/nlKggbG9jYWxTdG9yYWdlL3Nlc3Npb25TdG9yYWdlKirvvJrnirbmgIHlhajlnKggWnVzdGFuZCDlhoXlrZjvvIjkuLvpopjliIfmjaLkuqbnhLbvvIzliLfmlrDph43nva7kuLrkuq7oibLigJTigJTliLvmhI/pgbXlrojor6XnuqbmnZ/vvInjgIIKLSAqKlR5cGVTY3JpcHQg5Lil5qC85qih5byPKirvvIxwcm9wcyDlnYfmnInmjqXlj6PjgIIKCiMjIOiuvuiuoeivtOaYjgoKLSDphY3oibLvvJrkuq7oibLmmpbosaHniZkgYCNGNUY0RUVgIC8g5rex6Imy5pqW54KtIGAjMjYyNjI0YO+8jOW8uuiwg+mZtuWcn+apmSBgI0M5NjQ0MmDvvIzlhajpg6jnu48gQ1NTIOWPmOmHj+WBmuaYjuaal+WPjOS4u+mimOOAggotIOWtl+S9k++8muagh+mimCBOZXdzcmVhZGVyKOaWh+WtpuihrOe6vynvvIzmraPmlocgSW50ZXIgKyBOb3RvIFNhbnMgU0PvvIzku6PnoIEgSmV0QnJhaW5zIE1vbm/vvJvml6DnvZHnu5zlm57pgIDns7vnu5/lrZfkvZPjgIIKLSDmgJ3ogIPpnaLmnb8qKuayoeacieeUqCBzcGVjIOWOn+WumueahOS6lOW9qemYtuauteiJsioq4oCU4oCU5oyJIENsYXVkZSDlrqHnvo7pmY3kuLrngbDpmLYgKyDlm77moIcgKyDljZXlvLrosIPoibLvvIzku4UgQkxPQ0sg55So6K2m56S657qi77yM5pu05a6J6Z2Z44CCCgojIyDimqDvuI8g6K+a5a6e55qE5Lqk5LuY6L6555WM77yI5b+F6K+777yJCgoqKuacrOWJjeerr+acque7j+aehOW7ui/ov5DooYzpqozor4HjgIIqKiDnlJ/miJDnjq/looPnvZHnu5zpmpTnprvjgIHoo4XkuI3kuoYgbnBtIOS+nei1lu+8jOaXoOazlei3kSBgdHNjYC9gdml0ZSBidWlsZGAv55yf5py65riy5p+T44CCCuaIkeWBmuS6hueahOmdmeaAgeagoemqjO+8mkpTT04g6YWN572u5ZCI5rOV44CBMTYg5LiqIGBAL2Ag5byV55So5YWo6YOo6Kej5p6Q5Yiw5L2N44CBYFJlYWN0LlJlYWN0Tm9kZWAg57y65a+85YWl562JCjIg5aSE5b+F5oyC6ZSZ6K+v5bey5L+u44CB5pyq5L2/55So5a+85YWl5bey5riF6Zu244CC5L2GKirnsbvlnovmjqjmlq3nu4boioLjgIHnrKzkuInmlrnlupPnmoTnsr7noa4gQVBJ44CB6L+Q6KGM5pe25riy5p+T44CBCuS4juecn+WunuWQjuerr+eahOiBlOiwg++8jOW/hemhu+S9oOWcqOecn+acuumqjOivgSoq44CCCgojIyMg5L2g55qE6Ieq6aqM5riF5Y2VCjEuIGBucG0gaW5zdGFsbGAg4oCU4oCUIOiLpeafkOS+nei1lueJiOacrOaLieS4jeWIsO+8jOaMieaKpemUmeiwgyBgcGFja2FnZS5qc29uYCDniYjmnKzjgIIKMi4gYG5wbSBydW4gdHlwZWNoZWNrYCDigJTigJQg5Lil5qC85qih5byP5LiL6Iul5pyJ5q6L55WZ57G75Z6L6Zeu6aKY77yM6L+Z6YeM5Lya5pq06Zyy77yI5pyA5Y+v6IO95ZyoCiAgIGByZWFjdC1zeW50YXgtaGlnaGxpZ2h0ZXJgIOeahCBzdHlsZSDnsbvlnovjgIFgcmVhY3QtbWFya2Rvd25gIHY5IOeahCBgY29kZWAg5riy5p+T562+5ZCN77yJ44CCCjMuIGBucG0gcnVuIGRldmAg4oCU4oCUIOWFiOS4jei/nuWQjuerr++8jOehruiupOS4iemhtemdoiArIOemu+e6v+a8lOekuiArIOaYjuaal+WIh+aNouato+W4uOOAggo0LiDotbflkI7nq68gYDo5MDAwYCDlkI7vvIznoa7orqQgV1Mg5bin6IO95q2j56Gu6amx5Yqo5oCd6ICD6Z2i5p2/44CB5rWB5byPIHRva2VuIOi/veWKoOWIsOWQjOS4gOawlOazoeOAggo1LiDph43ngrnlm57lvZLlronlhajnuqbmnZ/vvJrmlYXmhI/orqnlkI7nq68gdHJhY2Ug5bimIHJ1bGVfaWTvvIznoa7orqTliY3nq68qKuS4jeaYvuekuioq77yI57G75Z6L5bey5oyh77yM5L2G56uv5Yiw56uv5YaN56Gu6K6k5LiA5qyh77yJ44CCCg==
+# 企业 AI 工作台 — 前端
+
+React 18 + TypeScript + Vite + Tailwind + Zustand。对接 CONTRACT.md 契约与后端 `:9000`。
+视觉走 **Claude.ai 气质**：暖中性底 + 陶土橙强调，明暗双主题，思考面板克制灰阶（仅 BLOCK 用警示色）。
+
+## 运行
+
+```bash
+npm install
+npm run dev        # http://localhost:5173 ，/v1 与 ws 自动代理到 :9000
+npm run build      # tsc -b + vite build
+npm run typecheck  # 仅类型检查
+```
+
+后端没起也能跑：所有数据 fallback 到内置示例，顶部显示「后端服务未连接 · 当前为演示数据」，
+聊天会走**离线演示模式**（模拟思考帧 + 流式答案），界面不白屏。
+
+## 页面
+
+| 路由 | 内容 |
+|---|---|
+| `/chat` | 三栏：左侧会话/知识库/算力 · 中间聊天(Markdown+代码高亮+流式光标) · 右侧思考面板 |
+| `/agents` | 智能体市场：全部/公共/部门/我的 Tab + 卡片网格 |
+| `/admin` | 6 统计卡 + 模型配置/Token配额/安全门控/最近审计 4 面板 |
+| `/login` | 手机号+密码 + 微信扫码占位，明暗自适应 |
+
+## 对接后端
+
+- REST：`/v1/agents` `/v1/agents/:id` `/v1/knowledge` `/v1/compute/status` `/v1/admin/stats` `/v1/auth/login`（`lib/api.ts`）
+- WebSocket：`/v1/chat/stream`，发 `{message, agent_id, session_id}`，收 `trace/delta/done` 帧（`lib/ws.ts`）
+- 开发期跨域由 `vite.config.ts` 的 proxy 解决，生产改 `BASE` 与 `wsUrl()` 为绝对地址。
+
+## 安全约束的落地（对应 CONTRACT.md / 关键约束）
+
+- **思考面板结构上不可能渲染 rule_id**：`PublicTraceFrame` 类型**根本不含** rule_id/内部参数字段，只渲染 `display`。
+- **拦截不回显具体原因**：`status:"blocked"` 只显示「已被安全策略拦截」。
+- **不使用 localStorage/sessionStorage**：状态全在 Zustand 内存（主题切换亦然，刷新重置为亮色——刻意遵守该约束）。
+- **TypeScript 严格模式**，props 均有接口。
+
+## 设计说明
+
+- 配色：亮色暖象牙 `#F5F4EE` / 深色暖炭 `#262624`，强调陶土橙 `#C96442`，全部经 CSS 变量做明暗双主题。
+- 字体：标题 Newsreader(文学衬线)，正文 Inter + Noto Sans SC，代码 JetBrains Mono；无网络回退系统字体。
+- 思考面板**没有用 spec 原定的五彩阶段色**——按 Claude 审美降为灰阶 + 图标 + 单强调色，仅 BLOCK 用警示红，更安静。
+
+## ⚠️ 诚实的交付边界（必读）
+
+**本前端未经构建/运行验证。** 生成环境网络隔离、装不了 npm 依赖，无法跑 `tsc`/`vite build`/真机渲染。
+我做了的静态校验：JSON 配置合法、16 个 `@/` 引用全部解析到位、`React.ReactNode` 缺导入等
+2 处必挂错误已修、未使用导入已清零。但**类型推断细节、第三方库的精确 API、运行时渲染、
+与真实后端的联调，必须你在真机验证**。
+
+### 你的自验清单
+1. `npm install` —— 若某依赖版本拉不到，按报错调 `package.json` 版本。
+2. `npm run typecheck` —— 严格模式下若有残留类型问题，这里会暴露（最可能在
+   `react-syntax-highlighter` 的 style 类型、`react-markdown` v9 的 `code` 渲染签名）。
+3. `npm run dev` —— 先不连后端，确认三页面 + 离线演示 + 明暗切换正常。
+4. 起后端 `:9000` 后，确认 WS 帧能正确驱动思考面板、流式 token 追加到同一气泡。
+5. 重点回归安全约束：故意让后端 trace 带 rule_id，确认前端**不显示**（类型已挡，但端到端再确认一次）。

@@ -1,1 +1,72 @@
-Ly8gQ3VzdG9tRmllbGRQYW5lbC50c3gg4oCUIOiHquWumuS5ieadoeebrjrkurrnu5nmnaHnm67lkI0g4oaSIEFJIOWIpOexu+Weiyvlu7rorq7lgLwg4oaSIOS6uuehruiupOWNs+WumuOAggovLyDmlL7ov5vnn6Xor4blupPmnaHnm67nvJbovpHlpITjgIJBSSDlj6rnu5nlu7rorq4s5Lq656Gu6K6k5omN566X5pWwKOS4jiAwIOW5u+inieS4gOiHtCnjgIIKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFNwYXJrbGVzLCBDaGVjaywgTG9hZGVyMiB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IENhcmQsIEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9wcmltaXRpdmVzIjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiQC9saWIvYXBpIjsKCmNvbnN0IFRZUEVTID0gWwogIHsgaWQ6ICJib29sIiwgbGFiZWw6ICLmmK8v5ZCmIiB9LCB7IGlkOiAibnVtYmVyIiwgbGFiZWw6ICLmlbDph48iIH0sCiAgeyBpZDogInRleHQiLCBsYWJlbDogIuaWh+acrCIgfSwgeyBpZDogImRhdGUiLCBsYWJlbDogIuaXpeacnyIgfSwKXTsKCmV4cG9ydCBmdW5jdGlvbiBDdXN0b21GaWVsZFBhbmVsKHsgb25Db25maXJtZWQgfTogeyBvbkNvbmZpcm1lZD86IChuYW1lOiBzdHJpbmcsIHR5cGU6IHN0cmluZykgPT4gdm9pZCB9KSB7CiAgY29uc3QgW25hbWUsIHNldE5hbWVdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtidXN5LCBzZXRCdXN5XSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbc3VnZ2VzdGlvbiwgc2V0U3VnZ2VzdGlvbl0gPSB1c2VTdGF0ZTx7IHN1Z2dlc3RlZF90eXBlOiBzdHJpbmc7IHN1Z2dlc3RlZF92YWx1ZTogc3RyaW5nOyByYXRpb25hbGU6IHN0cmluZyB9IHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW3R5cGUsIHNldFR5cGVdID0gdXNlU3RhdGUoInRleHQiKTsKICBjb25zdCBbZG9uZSwgc2V0RG9uZV0gPSB1c2VTdGF0ZTx7IG5hbWU6IHN0cmluZzsgdHlwZTogc3RyaW5nIH1bXT4oW10pOwoKICBjb25zdCBhc2sgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIW5hbWUudHJpbSgpKSByZXR1cm47CiAgICBzZXRCdXN5KHRydWUpOyBzZXRTdWdnZXN0aW9uKG51bGwpOwogICAgdHJ5IHsKICAgICAgY29uc3QgcyA9IGF3YWl0IGFwaS5zdWdnZXN0RmllbGQobmFtZS50cmltKCkpOwogICAgICBzZXRTdWdnZXN0aW9uKHMpOyBzZXRUeXBlKHMuc3VnZ2VzdGVkX3R5cGUpOwogICAgfSBjYXRjaCB7fSBmaW5hbGx5IHsgc2V0QnVzeShmYWxzZSk7IH0KICB9OwoKICBjb25zdCBjb25maXJtID0gYXN5bmMgKCkgPT4gewogICAgc2V0QnVzeSh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGF3YWl0IGFwaS5jb25maXJtRmllbGQobmFtZS50cmltKCksIHR5cGUpOwogICAgICBzZXREb25lKChkKSA9PiBbLi4uZCwgeyBuYW1lOiBuYW1lLnRyaW0oKSwgdHlwZSB9XSk7CiAgICAgIG9uQ29uZmlybWVkPy4obmFtZS50cmltKCksIHR5cGUpOwogICAgICBzZXROYW1lKCIiKTsgc2V0U3VnZ2VzdGlvbihudWxsKTsgc2V0VHlwZSgidGV4dCIpOwogICAgfSBjYXRjaCB7fSBmaW5hbGx5IHsgc2V0QnVzeShmYWxzZSk7IH0KICB9OwoKICByZXR1cm4gKAogICAgPENhcmQgY2xhc3NOYW1lPSJwLTUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMyB0ZXh0LXNtIGZvbnQtbWVkaXVtIj7oh6rlrprkuYnmnaHnm648L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIiPgogICAgICAgIDxpbnB1dCB2YWx1ZT17bmFtZX0gb25DaGFuZ2U9eyhlKSA9PiBzZXROYW1lKGUudGFyZ2V0LnZhbHVlKX0gcGxhY2Vob2xkZXI9J+adoeebruWQjSzlpoIi5piv5ZCm6Ziy54GrIiLlsYLpq5giJwogICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LTEgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHB4LTIuNSBweS0xLjUgdGV4dC1zbSIgLz4KICAgICAgICA8QnV0dG9uIHNpemU9InNtIiB2YXJpYW50PSJnaG9zdCIgb25DbGljaz17YXNrfSBkaXNhYmxlZD17YnVzeSB8fCAhbmFtZS50cmltKCl9PgogICAgICAgICAge2J1c3kgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogPFNwYXJrbGVzIHNpemU9ezE0fSAvPn0gQUkg5Yik5patCiAgICAgICAgPC9CdXR0b24+CiAgICAgIDwvZGl2PgoKICAgICAge3N1Z2dlc3Rpb24gJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0zIHJvdW5kZWQtbWQgYmctc3VyZmFjZS0yIHAtMyI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMSB0ZXh0LXhzIHRleHQtbXV0ZWQiPkFJIOW7uuiuruexu+Weiyjlj6/mlLks5L2g56Gu6K6k5omN566X5pWwKTp7c3VnZ2VzdGlvbi5yYXRpb25hbGV9PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMiBmbGV4IGdhcC0xLjUiPgogICAgICAgICAgICB7VFlQRVMubWFwKCh0KSA9PiAoCiAgICAgICAgICAgICAgPGJ1dHRvbiBrZXk9e3QuaWR9IG9uQ2xpY2s9eygpID0+IHNldFR5cGUodC5pZCl9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2Byb3VuZGVkLW1kIHB4LTIuNSBweS0xIHRleHQteHMgJHt0eXBlID09PSB0LmlkID8gImJnLWFjY2VudCB0ZXh0LXdoaXRlIiA6ICJiZy1zdXJmYWNlIHRleHQtbXV0ZWQifWB9PgogICAgICAgICAgICAgICAge3QubGFiZWx9CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8QnV0dG9uIHNpemU9InNtIiBvbkNsaWNrPXtjb25maXJtfSBkaXNhYmxlZD17YnVzeX0+PENoZWNrIHNpemU9ezE0fSAvPiDnoa7orqTlm7rlrpo8L0J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KCiAgICAgIHtkb25lLmxlbmd0aCA+IDAgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0zIHRleHQteHMgdGV4dC1tdXRlZCI+CiAgICAgICAgICDlt7Lnoa7orqQ6e2RvbmUubWFwKChkKSA9PiBgJHtkLm5hbWV9KCR7ZC50eXBlfSlgKS5qb2luKCLjgIEiKX0KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgIDwvQ2FyZD4KICApOwp9Cg==
+// CustomFieldPanel.tsx — 自定义条目:人给条目名 → AI 判类型+建议值 → 人确认即定。
+// 放进知识库条目编辑处。AI 只给建议,人确认才算数(与 0 幻觉一致)。
+import { useState } from "react";
+import { Sparkles, Check, Loader2 } from "lucide-react";
+import { Card, Button } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+
+const TYPES = [
+  { id: "bool", label: "是/否" }, { id: "number", label: "数量" },
+  { id: "text", label: "文本" }, { id: "date", label: "日期" },
+];
+
+export function CustomFieldPanel({ onConfirmed }: { onConfirmed?: (name: string, type: string) => void }) {
+  const [name, setName] = useState("");
+  const [busy, setBusy] = useState(false);
+  const [suggestion, setSuggestion] = useState<{ suggested_type: string; suggested_value: string; rationale: string } | null>(null);
+  const [type, setType] = useState("text");
+  const [done, setDone] = useState<{ name: string; type: string }[]>([]);
+
+  const ask = async () => {
+    if (!name.trim()) return;
+    setBusy(true); setSuggestion(null);
+    try {
+      const s = await api.suggestField(name.trim());
+      setSuggestion(s); setType(s.suggested_type);
+    } catch {} finally { setBusy(false); }
+  };
+
+  const confirm = async () => {
+    setBusy(true);
+    try {
+      await api.confirmField(name.trim(), type);
+      setDone((d) => [...d, { name: name.trim(), type }]);
+      onConfirmed?.(name.trim(), type);
+      setName(""); setSuggestion(null); setType("text");
+    } catch {} finally { setBusy(false); }
+  };
+
+  return (
+    <Card className="p-5">
+      <div className="mb-3 text-sm font-medium">自定义条目</div>
+      <div className="flex gap-2">
+        <input value={name} onChange={(e) => setName(e.target.value)} placeholder='条目名,如"是否防火""层高"'
+          className="flex-1 rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm" />
+        <Button size="sm" variant="ghost" onClick={ask} disabled={busy || !name.trim()}>
+          {busy ? <Loader2 size={14} className="animate-spin" /> : <Sparkles size={14} />} AI 判断
+        </Button>
+      </div>
+
+      {suggestion && (
+        <div className="mt-3 rounded-md bg-surface-2 p-3">
+          <div className="mb-1 text-xs text-muted">AI 建议类型(可改,你确认才算数):{suggestion.rationale}</div>
+          <div className="mb-2 flex gap-1.5">
+            {TYPES.map((t) => (
+              <button key={t.id} onClick={() => setType(t.id)}
+                className={`rounded-md px-2.5 py-1 text-xs ${type === t.id ? "bg-accent text-white" : "bg-surface text-muted"}`}>
+                {t.label}
+              </button>
+            ))}
+          </div>
+          <Button size="sm" onClick={confirm} disabled={busy}><Check size={14} /> 确认固定</Button>
+        </div>
+      )}
+
+      {done.length > 0 && (
+        <div className="mt-3 text-xs text-muted">
+          已确认:{done.map((d) => `${d.name}(${d.type})`).join("、")}
+        </div>
+      )}
+    </Card>
+  );
+}

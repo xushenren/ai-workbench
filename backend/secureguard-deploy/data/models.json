@@ -1,1 +1,29 @@
-ewogICJidWlsdGluIjogewogICAgImlkIjogImJ1aWx0aW4iLAogICAgIm5hbWUiOiAi5YaF572u5qih5Z6L77yI5Y2g5L2N77yJIiwKICAgICJhcGlfYmFzZSI6ICIiLAogICAgImFwaV9rZXkiOiAiIiwKICAgICJtb2RlbCI6ICJtb2NrIiwKICAgICJlbmFibGVkIjogdHJ1ZSwKICAgICJjcmVhdGVkX2F0IjogMTc4MjE5OTgyNy44NTU0NzMKICB9LAogICJtXzliNWE3ZDZiIjogewogICAgImlkIjogIm1fOWI1YTdkNmIiLAogICAgIm5hbWUiOiAiRmFrZUxMTSIsCiAgICAiYXBpX2Jhc2UiOiAiaHR0cHM6Ly9hcGkuZmFrZS5jb20vdjEiLAogICAgImFwaV9rZXkiOiAic2steCIsCiAgICAibW9kZWwiOiAiZmFrZS1tb2RlbCIsCiAgICAiZW5hYmxlZCI6IHRydWUsCiAgICAiY3JlYXRlZF9hdCI6IDE3ODIxOTk4MzIuMTU3MDQ4CiAgfSwKICAibV80NzE3N2YzNCI6IHsKICAgICJpZCI6ICJtXzQ3MTc3ZjM0IiwKICAgICJuYW1lIjogIkZha2VMTE0iLAogICAgImFwaV9iYXNlIjogImh0dHBzOi8vYXBpLmZha2UuY29tL3YxIiwKICAgICJhcGlfa2V5IjogInNrLXgiLAogICAgIm1vZGVsIjogImZha2UtbW9kZWwiLAogICAgImVuYWJsZWQiOiB0cnVlLAogICAgImNyZWF0ZWRfYXQiOiAxNzgyMTk5OTE4LjQzOTQKICB9Cn0=
+{
+  "builtin": {
+    "id": "builtin",
+    "name": "内置模型（占位）",
+    "api_base": "",
+    "api_key": "",
+    "model": "mock",
+    "enabled": true,
+    "created_at": 1782199827.855473
+  },
+  "m_9b5a7d6b": {
+    "id": "m_9b5a7d6b",
+    "name": "FakeLLM",
+    "api_base": "https://api.fake.com/v1",
+    "api_key": "sk-x",
+    "model": "fake-model",
+    "enabled": true,
+    "created_at": 1782199832.157048
+  },
+  "m_47177f34": {
+    "id": "m_47177f34",
+    "name": "FakeLLM",
+    "api_base": "https://api.fake.com/v1",
+    "api_key": "sk-x",
+    "model": "fake-model",
+    "enabled": true,
+    "created_at": 1782199918.4394
+  }
+}

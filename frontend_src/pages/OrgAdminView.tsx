@@ -1,1 +1,213 @@
-Ly8gT3JnQWRtaW5WaWV3LnRzeCDigJQg57uE57uH5p2D6ZmQ566h55CGKG9yZ19jb3JlIOaYvuW9oinjgILku4XnrqHnkIblkZjjgIIKLy8g5bemOue7hOe7h+agkSjlj6/lu7rlrZDpg6jpl6gp44CC5Y+zOuS6uuWRmOWPiuWFtuWtkOi0puWPtyjku7vogYwpLOWPr+W7uuWyl+S9jeOAgea0vuWyl+OAggppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBQbHVzLCBCdWlsZGluZzIsIFVzZXJzLCBTaGllbGQsIFVwbG9hZENsb3VkLCBMb2FkZXIyLCBDaGV2cm9uUmlnaHQgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBDYXJkLCBCdXR0b24sIEJhZGdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3ByaW1pdGl2ZXMiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwppbXBvcnQgeyBPcmdJbXBvcnRQYW5lbCB9IGZyb20gIkAvcGFnZXMvT3JnSW1wb3J0UGFuZWwiOwoKaW50ZXJmYWNlIFRyZWVOb2RlIHsgaWQ6IHN0cmluZzsgbmFtZTogc3RyaW5nOyB0eXBlOiBzdHJpbmc7IGNoaWxkcmVuOiBUcmVlTm9kZVtdIH0KaW50ZXJmYWNlIEdyYW50IHsgaWQ6IHN0cmluZzsgcm9sZTogc3RyaW5nOyBub2RlOiBzdHJpbmc7IG5vZGVfaWQ6IHN0cmluZzsgbGFiZWw6IHN0cmluZzsgYWN0aXZlOiBib29sZWFuOyBpc19kZWZhdWx0OiBib29sZWFuIH0KaW50ZXJmYWNlIE9yZ1VzZXIgeyBpZDogc3RyaW5nOyBuYW1lOiBzdHJpbmc7IGtpbmQ6IHN0cmluZzsgc3RhdHVzOiBzdHJpbmc7IGdyYW50czogR3JhbnRbXSB9CmludGVyZmFjZSBSb2xlUmVjIHsgaWQ6IHN0cmluZzsgbmFtZTogc3RyaW5nOyBwZXJtczogc3RyaW5nW10gfQppbnRlcmZhY2UgTm9kZUZsYXQgeyBpZDogc3RyaW5nOyBuYW1lOiBzdHJpbmc7IHBhcmVudF9pZDogc3RyaW5nOyB0eXBlOiBzdHJpbmcgfQoKZXhwb3J0IGZ1bmN0aW9uIE9yZ0FkbWluVmlldygpIHsKICBjb25zdCBbdHJlZSwgc2V0VHJlZV0gPSB1c2VTdGF0ZTxUcmVlTm9kZSB8IG51bGw+KG51bGwpOwogIGNvbnN0IFt1c2Vycywgc2V0VXNlcnNdID0gdXNlU3RhdGU8T3JnVXNlcltdPihbXSk7CiAgY29uc3QgW3JvbGVzLCBzZXRSb2xlc10gPSB1c2VTdGF0ZTxSb2xlUmVjW10+KFtdKTsKICBjb25zdCBbbm9kZXMsIHNldE5vZGVzXSA9IHVzZVN0YXRlPE5vZGVGbGF0W10+KFtdKTsKICBjb25zdCBbcGVybXMsIHNldFBlcm1zXSA9IHVzZVN0YXRlPHN0cmluZ1tdPihbXSk7CiAgY29uc3QgW21zZywgc2V0TXNnXSA9IHVzZVN0YXRlPHsgb2s6IGJvb2xlYW47IHQ6IHN0cmluZyB9IHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW3RhYiwgc2V0VGFiXSA9IHVzZVN0YXRlPCJ0cmVlIiB8ICJ1c2VycyIgfCAicm9sZXMiIHwgImltcG9ydCI+KCJ0cmVlIik7CgogIGNvbnN0IG5vdGUgPSAob2s6IGJvb2xlYW4sIHQ6IHN0cmluZykgPT4geyBzZXRNc2coeyBvaywgdCB9KTsgc2V0VGltZW91dCgoKSA9PiBzZXRNc2cobnVsbCksIDI2MDApOyB9OwogIGNvbnN0IHJlbG9hZCA9ICgpID0+IHsKICAgIGFwaS5vcmdUcmVlKCkudGhlbihzZXRUcmVlKS5jYXRjaCgoKSA9PiB7fSk7CiAgICBhcGkub3JnVXNlcnMoKS50aGVuKHNldFVzZXJzKS5jYXRjaCgoKSA9PiB7fSk7CiAgICBhcGkub3JnUm9sZXMoKS50aGVuKHNldFJvbGVzKS5jYXRjaCgoKSA9PiB7fSk7CiAgICBhcGkub3JnTm9kZXMoKS50aGVuKHNldE5vZGVzKS5jYXRjaCgoKSA9PiB7fSk7CiAgfTsKICB1c2VFZmZlY3QoKCkgPT4geyByZWxvYWQoKTsgYXBpLm9yZ1Blcm1zKCkudGhlbihzZXRQZXJtcykuY2F0Y2goKCkgPT4ge30pOyB9LCBbXSk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibXgtYXV0byBtYXgtdy00eGwgcC02Ij4KICAgICAgPGgxIGNsYXNzTmFtZT0ibWItMSBmb250LWRpc3BsYXkgdGV4dC14bCBmb250LXNlbWlib2xkIj7nu4Tnu4fkuI7mnYPpmZDnrqHnkIY8L2gxPgogICAgICA8cCBjbGFzc05hbWU9Im1iLTQgdGV4dC1zbSB0ZXh0LW11dGVkIj7lpJrnuqfnu4Tnu4fmoJHjgIHlspfkvY0o5p2D6ZmQ5L2N57uE5ZCIKeOAgeS6uuWRmOS7u+iBjCjlrZDotKblj7cp44CC5pON5L2c5Y+X566h55CG5a2Q5qCR57qm5p2f44CCPC9wPgoKICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTQgZmxleCBnYXAtMS41Ij4KICAgICAgICB7KFtbInRyZWUiLCAi57uE57uH5qCRIiwgQnVpbGRpbmcyXSwgWyJ1c2VycyIsICLkurrlkZjkuI7ku7vogYwiLCBVc2Vyc10sIFsicm9sZXMiLCAi5bKX5L2NIiwgU2hpZWxkXSwgWyJpbXBvcnQiLCAi5a+85YWlIiwgVXBsb2FkQ2xvdWRdXSBhcyBjb25zdCkubWFwKChbaywgbGFiZWwsIEljb25dKSA9PiAoCiAgICAgICAgICA8YnV0dG9uIGtleT17a30gb25DbGljaz17KCkgPT4gc2V0VGFiKGspfQogICAgICAgICAgICBjbGFzc05hbWU9e2BmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IHJvdW5kZWQtYnRuIHB4LTMgcHktMS41IHRleHQtc20gJHt0YWIgPT09IGsgPyAiYmctc3VyZmFjZS0yIHRleHQtdGV4dCIgOiAidGV4dC1tdXRlZCBob3Zlcjp0ZXh0LXRleHQifWB9PgogICAgICAgICAgICA8SWNvbiBzaXplPXsxNX0gLz4ge2xhYmVsfQogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKSl9CiAgICAgICAge21zZyAmJiA8c3BhbiBjbGFzc05hbWU9e2BtbC1hdXRvIHNlbGYtY2VudGVyIHRleHQteHMgJHttc2cub2sgPyAidGV4dC1hY2NlbnQiIDogInRleHQtcmVkLTUwMCJ9YH0+e21zZy50fTwvc3Bhbj59CiAgICAgIDwvZGl2PgoKICAgICAge3RhYiA9PT0gInRyZWUiICYmIDxUcmVlUGFuZWwgdHJlZT17dHJlZX0gbm9kZXM9e25vZGVzfSBvbkNoYW5nZT17cmVsb2FkfSBub3RlPXtub3RlfSAvPn0KICAgICAge3RhYiA9PT0gInVzZXJzIiAmJiA8VXNlcnNQYW5lbCB1c2Vycz17dXNlcnN9IHJvbGVzPXtyb2xlc30gbm9kZXM9e25vZGVzfSBvbkNoYW5nZT17cmVsb2FkfSBub3RlPXtub3RlfSAvPn0KICAgICAge3RhYiA9PT0gInJvbGVzIiAmJiA8Um9sZXNQYW5lbCByb2xlcz17cm9sZXN9IG5vZGVzPXtub2Rlc30gcGVybXM9e3Blcm1zfSBvbkNoYW5nZT17cmVsb2FkfSBub3RlPXtub3RlfSAvPn0KICAgICAge3RhYiA9PT0gImltcG9ydCIgJiYgPE9yZ0ltcG9ydFBhbmVsIC8+fQogICAgPC9kaXY+CiAgKTsKfQoKLyogLS0tLS0tLS0tLSDnu4Tnu4fmoJEgLS0tLS0tLS0tLSAqLwpmdW5jdGlvbiBUcmVlUGFuZWwoeyB0cmVlLCBub2Rlcywgb25DaGFuZ2UsIG5vdGUgfTogYW55KSB7CiAgY29uc3QgW3BhcmVudElkLCBzZXRQYXJlbnRJZF0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW25hbWUsIHNldE5hbWVdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFt0eXBlLCBzZXRUeXBlXSA9IHVzZVN0YXRlKCJkZXBhcnRtZW50Iik7CiAgY29uc3QgW2J1c3ksIHNldEJ1c3ldID0gdXNlU3RhdGUoZmFsc2UpOwoKICBjb25zdCBjcmVhdGUgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXBhcmVudElkIHx8ICFuYW1lLnRyaW0oKSkgeyBub3RlKGZhbHNlLCAi6YCJ5LiK57qn6IqC54K55bm25aGr5ZCN56ewIik7IHJldHVybjsgfQogICAgc2V0QnVzeSh0cnVlKTsKICAgIHRyeSB7IGF3YWl0IGFwaS5vcmdDcmVhdGVOb2RlKHsgcGFyZW50X2lkOiBwYXJlbnRJZCwgbmFtZTogbmFtZS50cmltKCksIHR5cGUgfSk7IHNldE5hbWUoIiIpOyBvbkNoYW5nZSgpOyBub3RlKHRydWUsICLoioLngrnlt7LliJvlu7oiKTsgfQogICAgY2F0Y2ggKGU6IGFueSkgeyBub3RlKGZhbHNlLCBlLm1lc3NhZ2UpOyB9IGZpbmFsbHkgeyBzZXRCdXN5KGZhbHNlKTsgfQogIH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNCBtZDpncmlkLWNvbHMtMiI+CiAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMiB0ZXh0LXNtIGZvbnQtbWVkaXVtIj7nu4Tnu4fnu5PmnoQ8L2Rpdj4KICAgICAgICB7dHJlZSA/IDxUcmVlTm9kZVJvdyBub2RlPXt0cmVlfSBkZXB0aD17MH0gLz4gOiA8ZGl2IGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkIj7liqDovb3kuK3igKY8L2Rpdj59CiAgICAgIDwvQ2FyZD4KICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0zIHRleHQtc20gZm9udC1tZWRpdW0iPuaWsOW7uuWtkOmDqOmXqCAvIOmhueebrumDqDwvZGl2PgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1iLTEgYmxvY2sgdGV4dC14cyB0ZXh0LW11dGVkIj7kuIrnuqfoioLngrk8L2xhYmVsPgogICAgICAgIDxzZWxlY3QgdmFsdWU9e3BhcmVudElkfSBvbkNoYW5nZT17KGUpID0+IHNldFBhcmVudElkKGUudGFyZ2V0LnZhbHVlKX0gY2xhc3NOYW1lPXtpbnB9PgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj7pgInmi6nkuIrnuqfigKY8L29wdGlvbj4KICAgICAgICAgIHtub2Rlcy5tYXAoKG46IE5vZGVGbGF0KSA9PiA8b3B0aW9uIGtleT17bi5pZH0gdmFsdWU9e24uaWR9PntuLm5hbWV9PC9vcHRpb24+KX0KICAgICAgICA8L3NlbGVjdD4KICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJtYi0xIG10LTIgYmxvY2sgdGV4dC14cyB0ZXh0LW11dGVkIj7nsbvlnos8L2xhYmVsPgogICAgICAgIDxzZWxlY3QgdmFsdWU9e3R5cGV9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0VHlwZShlLnRhcmdldC52YWx1ZSl9IGNsYXNzTmFtZT17aW5wfT4KICAgICAgICAgIDxvcHRpb24gdmFsdWU9ImNvbXBhbnkiPuWtkOWFrOWPuDwvb3B0aW9uPjxvcHRpb24gdmFsdWU9ImRlcGFydG1lbnQiPumDqOmXqDwvb3B0aW9uPgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0icHJvamVjdCI+6aG555uu6YOoPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0idGVhbSI+54+t57uEPC9vcHRpb24+CiAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0ibWItMSBtdC0yIGJsb2NrIHRleHQteHMgdGV4dC1tdXRlZCI+5ZCN56ewPC9sYWJlbD4KICAgICAgICA8aW5wdXQgdmFsdWU9e25hbWV9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0TmFtZShlLnRhcmdldC52YWx1ZSl9IGNsYXNzTmFtZT17aW5wfSBwbGFjZWhvbGRlcj0i5aaCIOacuueUteWuieijhemhueebrumDqCIgLz4KICAgICAgICA8QnV0dG9uIHNpemU9InNtIiBvbkNsaWNrPXtjcmVhdGV9IGRpc2FibGVkPXtidXN5fSBjbGFzc05hbWU9Im10LTMiPgogICAgICAgICAge2J1c3kgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogPFBsdXMgc2l6ZT17MTR9IC8+fSDliJvlu7oKICAgICAgICA8L0J1dHRvbj4KICAgICAgPC9DYXJkPgogICAgPC9kaXY+CiAgKTsKfQpmdW5jdGlvbiBUcmVlTm9kZVJvdyh7IG5vZGUsIGRlcHRoIH06IHsgbm9kZTogVHJlZU5vZGU7IGRlcHRoOiBudW1iZXIgfSkgewogIHJldHVybiAoCiAgICA8ZGl2PgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgcHktMSB0ZXh0LXNtIiBzdHlsZT17eyBwYWRkaW5nTGVmdDogZGVwdGggKiAxNiB9fT4KICAgICAgICB7ZGVwdGggPiAwICYmIDxDaGV2cm9uUmlnaHQgc2l6ZT17MTJ9IGNsYXNzTmFtZT0idGV4dC1tdXRlZCIgLz59CiAgICAgICAgPHNwYW4+e25vZGUubmFtZX08L3NwYW4+CiAgICAgICAgPEJhZGdlPnsoeyBjb21wYW55OiAi5YWs5Y+4IiwgZGVwYXJ0bWVudDogIumDqOmXqCIsIHByb2plY3Q6ICLpobnnm67pg6giLCB0ZWFtOiAi54+t57uEIiB9IGFzIGFueSlbbm9kZS50eXBlXSB8fCBub2RlLnR5cGV9PC9CYWRnZT4KICAgICAgPC9kaXY+CiAgICAgIHtub2RlLmNoaWxkcmVuPy5tYXAoKGMpID0+IDxUcmVlTm9kZVJvdyBrZXk9e2MuaWR9IG5vZGU9e2N9IGRlcHRoPXtkZXB0aCArIDF9IC8+KX0KICAgIDwvZGl2PgogICk7Cn0KCi8qIC0tLS0tLS0tLS0g5Lq65ZGY5LiO5Lu76IGMKOWtkOi0puWPtykgLS0tLS0tLS0tLSAqLwpmdW5jdGlvbiBVc2Vyc1BhbmVsKHsgdXNlcnMsIHJvbGVzLCBub2Rlcywgb25DaGFuZ2UsIG5vdGUgfTogYW55KSB7CiAgY29uc3QgW3NlbCwgc2V0U2VsXSA9IHVzZVN0YXRlPHN0cmluZz4oIiIpOwogIGNvbnN0IFtyb2xlSWQsIHNldFJvbGVJZF0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW25vZGVJZCwgc2V0Tm9kZUlkXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbbGFiZWwsIHNldExhYmVsXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbYnVzeSwgc2V0QnVzeV0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIGNvbnN0IGFzc2lnbiA9IGFzeW5jICgpID0+IHsKICAgIGlmICghc2VsIHx8ICFyb2xlSWQgfHwgIW5vZGVJZCkgeyBub3RlKGZhbHNlLCAi6YCJ5Lq644CB5bKX5L2N44CB57uE57uH6IqC54K5Iik7IHJldHVybjsgfQogICAgc2V0QnVzeSh0cnVlKTsKICAgIHRyeSB7IGF3YWl0IGFwaS5vcmdHcmFudCh7IHVzZXJfaWQ6IHNlbCwgcm9sZV9pZDogcm9sZUlkLCBvcmdfbm9kZV9pZDogbm9kZUlkLCBsYWJlbCB9KTsgc2V0TGFiZWwoIiIpOyBvbkNoYW5nZSgpOyBub3RlKHRydWUsICLlt7LmtL7lspco5paw5aKe5Lu76IGML+WtkOi0puWPtykiKTsgfQogICAgY2F0Y2ggKGU6IGFueSkgeyBub3RlKGZhbHNlLCBlLm1lc3NhZ2UpOyB9IGZpbmFsbHkgeyBzZXRCdXN5KGZhbHNlKTsgfQogIH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNCBtZDpncmlkLWNvbHMtMiI+CiAgICAgIDxDYXJkIGNsYXNzTmFtZT0ibWF4LWgtWzYwdmhdIG92ZXJmbG93LXktYXV0byBwLTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0yIHRleHQtc20gZm9udC1tZWRpdW0iPuS6uuWRmCh7dXNlcnMubGVuZ3RofSk8L2Rpdj4KICAgICAgICB7dXNlcnMubWFwKCh1OiBPcmdVc2VyKSA9PiAoCiAgICAgICAgICA8ZGl2IGtleT17dS5pZH0gY2xhc3NOYW1lPXtgbWItMiByb3VuZGVkLW1kIGJvcmRlciBwLTIgJHtzZWwgPT09IHUuaWQgPyAiYm9yZGVyLWFjY2VudCIgOiAiYm9yZGVyLWJvcmRlciJ9YH0gb25DbGljaz17KCkgPT4gc2V0U2VsKHUuaWQpfSByb2xlPSJidXR0b24iPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LW1lZGl1bSI+e3UubmFtZX08L3NwYW4+CiAgICAgICAgICAgICAgPEJhZGdlPnt1LmtpbmQgPT09ICJleHRlcm5hbCIgPyAi5aSW6YOoIiA6ICLlhoXpg6gifTwvQmFkZ2U+CiAgICAgICAgICAgICAge3Uuc3RhdHVzICE9PSAiYWN0aXZlIiAmJiA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1yZWQtNTAwIj7lt7LlgZznlKg8L3NwYW4+fQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAge3UuZ3JhbnRzLm1hcCgoZykgPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtnLmlkfSBjbGFzc05hbWU9Im10LTEgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSB0ZXh0LXhzIHRleHQtbXV0ZWQiPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJyb3VuZGVkIGJnLXN1cmZhY2UtMiBweC0xLjUgcHktMC41Ij57Zy5yb2xlfSBAIHtnLm5vZGV9PC9zcGFuPgogICAgICAgICAgICAgICAge2cuaXNfZGVmYXVsdCAmJiA8c3BhbiBjbGFzc05hbWU9InRleHQtYWNjZW50Ij7pu5jorqQ8L3NwYW4+fQogICAgICAgICAgICAgICAgeyFnLmFjdGl2ZSAmJiA8c3BhbiBjbGFzc05hbWU9InRleHQtcmVkLTUwMCI+5YGc55SoPC9zcGFuPn0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9DYXJkPgogICAgICA8Q2FyZCBjbGFzc05hbWU9InAtNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTMgdGV4dC1zbSBmb250LW1lZGl1bSI+5rS+5bKXIC8g5Yqg5Lu76IGMKOWtkOi0puWPtyk8L2Rpdj4KICAgICAgICA8cCBjbGFzc05hbWU9Im1iLTIgdGV4dC14cyB0ZXh0LW11dGVkIj57c2VsID8gYOW3sumAiToke3VzZXJzLmZpbmQoKHU6IE9yZ1VzZXIpID0+IHUuaWQgPT09IHNlbCk/Lm5hbWV9YCA6ICLlhYjlnKjlt6bkvqfngrnpgInkuIDkuKrkuroifTwvcD4KICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJtYi0xIGJsb2NrIHRleHQteHMgdGV4dC1tdXRlZCI+5bKX5L2NPC9sYWJlbD4KICAgICAgICA8c2VsZWN0IHZhbHVlPXtyb2xlSWR9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0Um9sZUlkKGUudGFyZ2V0LnZhbHVlKX0gY2xhc3NOYW1lPXtpbnB9PgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj7pgInlspfkvY3igKY8L29wdGlvbj57cm9sZXMubWFwKChyOiBSb2xlUmVjKSA9PiA8b3B0aW9uIGtleT17ci5pZH0gdmFsdWU9e3IuaWR9PntyLm5hbWV9PC9vcHRpb24+KX0KICAgICAgICA8L3NlbGVjdD4KICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJtYi0xIG10LTIgYmxvY2sgdGV4dC14cyB0ZXh0LW11dGVkIj7nu4Tnu4foioLngrko5L2c55So5Z+fKTwvbGFiZWw+CiAgICAgICAgPHNlbGVjdCB2YWx1ZT17bm9kZUlkfSBvbkNoYW5nZT17KGUpID0+IHNldE5vZGVJZChlLnRhcmdldC52YWx1ZSl9IGNsYXNzTmFtZT17aW5wfT4KICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+6YCJ6IqC54K54oCmPC9vcHRpb24+e25vZGVzLm1hcCgobjogTm9kZUZsYXQpID0+IDxvcHRpb24ga2V5PXtuLmlkfSB2YWx1ZT17bi5pZH0+e24ubmFtZX08L29wdGlvbj4pfQogICAgICAgIDwvc2VsZWN0PgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1iLTEgbXQtMiBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPuS7u+iBjOWQjSjlj6/pgIkpPC9sYWJlbD4KICAgICAgICA8aW5wdXQgdmFsdWU9e2xhYmVsfSBvbkNoYW5nZT17KGUpID0+IHNldExhYmVsKGUudGFyZ2V0LnZhbHVlKX0gY2xhc3NOYW1lPXtpbnB9IHBsYWNlaG9sZGVyPSLlpoIg5byg5LiJQOacuueUtemDqC3pob7pl64iIC8+CiAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgb25DbGljaz17YXNzaWdufSBkaXNhYmxlZD17YnVzeSB8fCAhc2VsfSBjbGFzc05hbWU9Im10LTMiPgogICAgICAgICAge2J1c3kgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogPFBsdXMgc2l6ZT17MTR9IC8+fSDmtL7lspcKICAgICAgICA8L0J1dHRvbj4KICAgICAgPC9DYXJkPgogICAgPC9kaXY+CiAgKTsKfQoKLyogLS0tLS0tLS0tLSDlspfkvY0o5p2D6ZmQ5L2N57uE5ZCIKSAtLS0tLS0tLS0tICovCmZ1bmN0aW9uIFJvbGVzUGFuZWwoeyByb2xlcywgbm9kZXMsIHBlcm1zLCBvbkNoYW5nZSwgbm90ZSB9OiBhbnkpIHsKICBjb25zdCBbbmFtZSwgc2V0TmFtZV0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW2F0Tm9kZSwgc2V0QXROb2RlXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbcGlja2VkLCBzZXRQaWNrZWRdID0gdXNlU3RhdGU8c3RyaW5nW10+KFtdKTsKICBjb25zdCBbYnVzeSwgc2V0QnVzeV0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgdG9nZ2xlID0gKHA6IHN0cmluZykgPT4gc2V0UGlja2VkKCh4KSA9PiB4LmluY2x1ZGVzKHApID8geC5maWx0ZXIoKHkpID0+IHkgIT09IHApIDogWy4uLngsIHBdKTsKCiAgY29uc3QgY3JlYXRlID0gYXN5bmMgKCkgPT4gewogICAgaWYgKCFuYW1lLnRyaW0oKSB8fCAhYXROb2RlIHx8IHBpY2tlZC5sZW5ndGggPT09IDApIHsgbm90ZShmYWxzZSwgIuWhq+WQjeensOOAgemAieiKgueCueOAgeiHs+WwkeS4gOS4quadg+mZkOS9jSIpOyByZXR1cm47IH0KICAgIHNldEJ1c3kodHJ1ZSk7CiAgICB0cnkgeyBhd2FpdCBhcGkub3JnRGVmaW5lUm9sZSh7IGF0X25vZGVfaWQ6IGF0Tm9kZSwgbmFtZTogbmFtZS50cmltKCksIHBlcm1fa2V5czogcGlja2VkIH0pOyBzZXROYW1lKCIiKTsgc2V0UGlja2VkKFtdKTsgb25DaGFuZ2UoKTsgbm90ZSh0cnVlLCAi5bKX5L2N5bey5Yib5bu6Iik7IH0KICAgIGNhdGNoIChlOiBhbnkpIHsgbm90ZShmYWxzZSwgZS5tZXNzYWdlKTsgfSBmaW5hbGx5IHsgc2V0QnVzeShmYWxzZSk7IH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTQgbWQ6Z3JpZC1jb2xzLTIiPgogICAgICA8Q2FyZCBjbGFzc05hbWU9Im1heC1oLVs2MHZoXSBvdmVyZmxvdy15LWF1dG8gcC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMiB0ZXh0LXNtIGZvbnQtbWVkaXVtIj7lt7LmnInlspfkvY0oe3JvbGVzLmxlbmd0aH0pPC9kaXY+CiAgICAgICAge3JvbGVzLm1hcCgocjogUm9sZVJlYykgPT4gKAogICAgICAgICAgPGRpdiBrZXk9e3IuaWR9IGNsYXNzTmFtZT0ibWItMiByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIHAtMiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj57ci5uYW1lfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMSBmbGV4IGZsZXgtd3JhcCBnYXAtMSI+e3IucGVybXMubWFwKChwKSA9PiA8c3BhbiBrZXk9e3B9IGNsYXNzTmFtZT0icm91bmRlZCBiZy1zdXJmYWNlLTIgcHgtMS41IHB5LTAuNSB0ZXh0LVsxMHB4XSB0ZXh0LW11dGVkIj57cH08L3NwYW4+KX08L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICkpfQogICAgICA8L0NhcmQ+CiAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMyB0ZXh0LXNtIGZvbnQtbWVkaXVtIj7mlrDlu7rlspfkvY0o5p2D6ZmQ5L2N57uE5ZCIKTwvZGl2PgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1iLTEgYmxvY2sgdGV4dC14cyB0ZXh0LW11dGVkIj7lspfkvY3lkI08L2xhYmVsPgogICAgICAgIDxpbnB1dCB2YWx1ZT17bmFtZX0gb25DaGFuZ2U9eyhlKSA9PiBzZXROYW1lKGUudGFyZ2V0LnZhbHVlKX0gY2xhc3NOYW1lPXtpbnB9IHBsYWNlaG9sZGVyPSLlpoIg6aG555uu6YOo57uP55CGIiAvPgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1iLTEgbXQtMiBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPuWumuS5ieS6juiKgueCuTwvbGFiZWw+CiAgICAgICAgPHNlbGVjdCB2YWx1ZT17YXROb2RlfSBvbkNoYW5nZT17KGUpID0+IHNldEF0Tm9kZShlLnRhcmdldC52YWx1ZSl9IGNsYXNzTmFtZT17aW5wfT4KICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+6YCJ6IqC54K54oCmPC9vcHRpb24+e25vZGVzLm1hcCgobjogTm9kZUZsYXQpID0+IDxvcHRpb24ga2V5PXtuLmlkfSB2YWx1ZT17bi5pZH0+e24ubmFtZX08L29wdGlvbj4pfQogICAgICAgIDwvc2VsZWN0PgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1iLTEgbXQtMiBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPuadg+mZkOS9jTwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggbWF4LWgtNDAgZmxleC13cmFwIGdhcC0xLjUgb3ZlcmZsb3cteS1hdXRvIHJvdW5kZWQtbWQgYm9yZGVyIGJvcmRlci1ib3JkZXIgcC0yIj4KICAgICAgICAgIHtwZXJtcy5tYXAoKHA6IHN0cmluZykgPT4gKAogICAgICAgICAgICA8YnV0dG9uIGtleT17cH0gb25DbGljaz17KCkgPT4gdG9nZ2xlKHApfSBjbGFzc05hbWU9e2Byb3VuZGVkIHB4LTEuNSBweS0wLjUgdGV4dC1bMTFweF0gJHtwaWNrZWQuaW5jbHVkZXMocCkgPyAiYmctYWNjZW50IHRleHQtd2hpdGUiIDogImJnLXN1cmZhY2UtMiB0ZXh0LW11dGVkIn1gfT57cH08L2J1dHRvbj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIG9uQ2xpY2s9e2NyZWF0ZX0gZGlzYWJsZWQ9e2J1c3l9IGNsYXNzTmFtZT0ibXQtMyI+e2J1c3kgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogPFBsdXMgc2l6ZT17MTR9IC8+fSDliJvlu7rlspfkvY08L0J1dHRvbj4KICAgICAgPC9DYXJkPgogICAgPC9kaXY+CiAgKTsKfQoKY29uc3QgaW5wID0gInctZnVsbCByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcHgtMi41IHB5LTEuNSB0ZXh0LXNtIjsK
+// OrgAdminView.tsx — 组织权限管理(org_core 显形)。仅管理员。
+// 左:组织树(可建子部门)。右:人员及其子账号(任职),可建岗位、派岗。
+import { useEffect, useState } from "react";
+import { Plus, Building2, Users, Shield, UploadCloud, Loader2, ChevronRight } from "lucide-react";
+import { Card, Button, Badge } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+import { OrgImportPanel } from "@/pages/OrgImportPanel";
+
+interface TreeNode { id: string; name: string; type: string; children: TreeNode[] }
+interface Grant { id: string; role: string; node: string; node_id: string; label: string; active: boolean; is_default: boolean }
+interface OrgUser { id: string; name: string; kind: string; status: string; grants: Grant[] }
+interface RoleRec { id: string; name: string; perms: string[] }
+interface NodeFlat { id: string; name: string; parent_id: string; type: string }
+
+export function OrgAdminView() {
+  const [tree, setTree] = useState<TreeNode | null>(null);
+  const [users, setUsers] = useState<OrgUser[]>([]);
+  const [roles, setRoles] = useState<RoleRec[]>([]);
+  const [nodes, setNodes] = useState<NodeFlat[]>([]);
+  const [perms, setPerms] = useState<string[]>([]);
+  const [msg, setMsg] = useState<{ ok: boolean; t: string } | null>(null);
+  const [tab, setTab] = useState<"tree" | "users" | "roles" | "import">("tree");
+
+  const note = (ok: boolean, t: string) => { setMsg({ ok, t }); setTimeout(() => setMsg(null), 2600); };
+  const reload = () => {
+    api.orgTree().then(setTree).catch(() => {});
+    api.orgUsers().then(setUsers).catch(() => {});
+    api.orgRoles().then(setRoles).catch(() => {});
+    api.orgNodes().then(setNodes).catch(() => {});
+  };
+  useEffect(() => { reload(); api.orgPerms().then(setPerms).catch(() => {}); }, []);
+
+  return (
+    <div className="mx-auto max-w-4xl p-6">
+      <h1 className="mb-1 font-display text-xl font-semibold">组织与权限管理</h1>
+      <p className="mb-4 text-sm text-muted">多级组织树、岗位(权限位组合)、人员任职(子账号)。操作受管理子树约束。</p>
+
+      <div className="mb-4 flex gap-1.5">
+        {([["tree", "组织树", Building2], ["users", "人员与任职", Users], ["roles", "岗位", Shield], ["import", "导入", UploadCloud]] as const).map(([k, label, Icon]) => (
+          <button key={k} onClick={() => setTab(k)}
+            className={`flex items-center gap-1.5 rounded-btn px-3 py-1.5 text-sm ${tab === k ? "bg-surface-2 text-text" : "text-muted hover:text-text"}`}>
+            <Icon size={15} /> {label}
+          </button>
+        ))}
+        {msg && <span className={`ml-auto self-center text-xs ${msg.ok ? "text-accent" : "text-red-500"}`}>{msg.t}</span>}
+      </div>
+
+      {tab === "tree" && <TreePanel tree={tree} nodes={nodes} onChange={reload} note={note} />}
+      {tab === "users" && <UsersPanel users={users} roles={roles} nodes={nodes} onChange={reload} note={note} />}
+      {tab === "roles" && <RolesPanel roles={roles} nodes={nodes} perms={perms} onChange={reload} note={note} />}
+      {tab === "import" && <OrgImportPanel />}
+    </div>
+  );
+}
+
+/* ---------- 组织树 ---------- */
+function TreePanel({ tree, nodes, onChange, note }: any) {
+  const [parentId, setParentId] = useState("");
+  const [name, setName] = useState("");
+  const [type, setType] = useState("department");
+  const [busy, setBusy] = useState(false);
+
+  const create = async () => {
+    if (!parentId || !name.trim()) { note(false, "选上级节点并填名称"); return; }
+    setBusy(true);
+    try { await api.orgCreateNode({ parent_id: parentId, name: name.trim(), type }); setName(""); onChange(); note(true, "节点已创建"); }
+    catch (e: any) { note(false, e.message); } finally { setBusy(false); }
+  };
+
+  return (
+    <div className="grid gap-4 md:grid-cols-2">
+      <Card className="p-4">
+        <div className="mb-2 text-sm font-medium">组织结构</div>
+        {tree ? <TreeNodeRow node={tree} depth={0} /> : <div className="text-sm text-muted">加载中…</div>}
+      </Card>
+      <Card className="p-4">
+        <div className="mb-3 text-sm font-medium">新建子部门 / 项目部</div>
+        <label className="mb-1 block text-xs text-muted">上级节点</label>
+        <select value={parentId} onChange={(e) => setParentId(e.target.value)} className={inp}>
+          <option value="">选择上级…</option>
+          {nodes.map((n: NodeFlat) => <option key={n.id} value={n.id}>{n.name}</option>)}
+        </select>
+        <label className="mb-1 mt-2 block text-xs text-muted">类型</label>
+        <select value={type} onChange={(e) => setType(e.target.value)} className={inp}>
+          <option value="company">子公司</option><option value="department">部门</option>
+          <option value="project">项目部</option><option value="team">班组</option>
+        </select>
+        <label className="mb-1 mt-2 block text-xs text-muted">名称</label>
+        <input value={name} onChange={(e) => setName(e.target.value)} className={inp} placeholder="如 机电安装项目部" />
+        <Button size="sm" onClick={create} disabled={busy} className="mt-3">
+          {busy ? <Loader2 size={14} className="animate-spin" /> : <Plus size={14} />} 创建
+        </Button>
+      </Card>
+    </div>
+  );
+}
+function TreeNodeRow({ node, depth }: { node: TreeNode; depth: number }) {
+  return (
+    <div>
+      <div className="flex items-center gap-1 py-1 text-sm" style={{ paddingLeft: depth * 16 }}>
+        {depth > 0 && <ChevronRight size={12} className="text-muted" />}
+        <span>{node.name}</span>
+        <Badge>{({ company: "公司", department: "部门", project: "项目部", team: "班组" } as any)[node.type] || node.type}</Badge>
+      </div>
+      {node.children?.map((c) => <TreeNodeRow key={c.id} node={c} depth={depth + 1} />)}
+    </div>
+  );
+}
+
+/* ---------- 人员与任职(子账号) ---------- */
+function UsersPanel({ users, roles, nodes, onChange, note }: any) {
+  const [sel, setSel] = useState<string>("");
+  const [roleId, setRoleId] = useState("");
+  const [nodeId, setNodeId] = useState("");
+  const [label, setLabel] = useState("");
+  const [busy, setBusy] = useState(false);
+
+  const assign = async () => {
+    if (!sel || !roleId || !nodeId) { note(false, "选人、岗位、组织节点"); return; }
+    setBusy(true);
+    try { await api.orgGrant({ user_id: sel, role_id: roleId, org_node_id: nodeId, label }); setLabel(""); onChange(); note(true, "已派岗(新增任职/子账号)"); }
+    catch (e: any) { note(false, e.message); } finally { setBusy(false); }
+  };
+
+  return (
+    <div className="grid gap-4 md:grid-cols-2">
+      <Card className="max-h-[60vh] overflow-y-auto p-4">
+        <div className="mb-2 text-sm font-medium">人员({users.length})</div>
+        {users.map((u: OrgUser) => (
+          <div key={u.id} className={`mb-2 rounded-md border p-2 ${sel === u.id ? "border-accent" : "border-border"}`} onClick={() => setSel(u.id)} role="button">
+            <div className="flex items-center gap-2 text-sm">
+              <span className="font-medium">{u.name}</span>
+              <Badge>{u.kind === "external" ? "外部" : "内部"}</Badge>
+              {u.status !== "active" && <span className="text-xs text-red-500">已停用</span>}
+            </div>
+            {u.grants.map((g) => (
+              <div key={g.id} className="mt-1 flex items-center gap-1.5 text-xs text-muted">
+                <span className="rounded bg-surface-2 px-1.5 py-0.5">{g.role} @ {g.node}</span>
+                {g.is_default && <span className="text-accent">默认</span>}
+                {!g.active && <span className="text-red-500">停用</span>}
+              </div>
+            ))}
+          </div>
+        ))}
+      </Card>
+      <Card className="p-4">
+        <div className="mb-3 text-sm font-medium">派岗 / 加任职(子账号)</div>
+        <p className="mb-2 text-xs text-muted">{sel ? `已选:${users.find((u: OrgUser) => u.id === sel)?.name}` : "先在左侧点选一个人"}</p>
+        <label className="mb-1 block text-xs text-muted">岗位</label>
+        <select value={roleId} onChange={(e) => setRoleId(e.target.value)} className={inp}>
+          <option value="">选岗位…</option>{roles.map((r: RoleRec) => <option key={r.id} value={r.id}>{r.name}</option>)}
+        </select>
+        <label className="mb-1 mt-2 block text-xs text-muted">组织节点(作用域)</label>
+        <select value={nodeId} onChange={(e) => setNodeId(e.target.value)} className={inp}>
+          <option value="">选节点…</option>{nodes.map((n: NodeFlat) => <option key={n.id} value={n.id}>{n.name}</option>)}
+        </select>
+        <label className="mb-1 mt-2 block text-xs text-muted">任职名(可选)</label>
+        <input value={label} onChange={(e) => setLabel(e.target.value)} className={inp} placeholder="如 张三@机电部-顾问" />
+        <Button size="sm" onClick={assign} disabled={busy || !sel} className="mt-3">
+          {busy ? <Loader2 size={14} className="animate-spin" /> : <Plus size={14} />} 派岗
+        </Button>
+      </Card>
+    </div>
+  );
+}
+
+/* ---------- 岗位(权限位组合) ---------- */
+function RolesPanel({ roles, nodes, perms, onChange, note }: any) {
+  const [name, setName] = useState("");
+  const [atNode, setAtNode] = useState("");
+  const [picked, setPicked] = useState<string[]>([]);
+  const [busy, setBusy] = useState(false);
+  const toggle = (p: string) => setPicked((x) => x.includes(p) ? x.filter((y) => y !== p) : [...x, p]);
+
+  const create = async () => {
+    if (!name.trim() || !atNode || picked.length === 0) { note(false, "填名称、选节点、至少一个权限位"); return; }
+    setBusy(true);
+    try { await api.orgDefineRole({ at_node_id: atNode, name: name.trim(), perm_keys: picked }); setName(""); setPicked([]); onChange(); note(true, "岗位已创建"); }
+    catch (e: any) { note(false, e.message); } finally { setBusy(false); }
+  };
+
+  return (
+    <div className="grid gap-4 md:grid-cols-2">
+      <Card className="max-h-[60vh] overflow-y-auto p-4">
+        <div className="mb-2 text-sm font-medium">已有岗位({roles.length})</div>
+        {roles.map((r: RoleRec) => (
+          <div key={r.id} className="mb-2 rounded-md border border-border p-2">
+            <div className="text-sm font-medium">{r.name}</div>
+            <div className="mt-1 flex flex-wrap gap-1">{r.perms.map((p) => <span key={p} className="rounded bg-surface-2 px-1.5 py-0.5 text-[10px] text-muted">{p}</span>)}</div>
+          </div>
+        ))}
+      </Card>
+      <Card className="p-4">
+        <div className="mb-3 text-sm font-medium">新建岗位(权限位组合)</div>
+        <label className="mb-1 block text-xs text-muted">岗位名</label>
+        <input value={name} onChange={(e) => setName(e.target.value)} className={inp} placeholder="如 项目部经理" />
+        <label className="mb-1 mt-2 block text-xs text-muted">定义于节点</label>
+        <select value={atNode} onChange={(e) => setAtNode(e.target.value)} className={inp}>
+          <option value="">选节点…</option>{nodes.map((n: NodeFlat) => <option key={n.id} value={n.id}>{n.name}</option>)}
+        </select>
+        <label className="mb-1 mt-2 block text-xs text-muted">权限位</label>
+        <div className="flex max-h-40 flex-wrap gap-1.5 overflow-y-auto rounded-md border border-border p-2">
+          {perms.map((p: string) => (
+            <button key={p} onClick={() => toggle(p)} className={`rounded px-1.5 py-0.5 text-[11px] ${picked.includes(p) ? "bg-accent text-white" : "bg-surface-2 text-muted"}`}>{p}</button>
+          ))}
+        </div>
+        <Button size="sm" onClick={create} disabled={busy} className="mt-3">{busy ? <Loader2 size={14} className="animate-spin" /> : <Plus size={14} />} 创建岗位</Button>
+      </Card>
+    </div>
+  );
+}
+
+const inp = "w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm";

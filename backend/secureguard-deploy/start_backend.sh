@@ -1,1 +1,6 @@
-IyEvYmluL2Jhc2gKIyBTZWN1cmVHdWFyZCBiYWNrZW5kIHJlc3RhcnQgd2l0aCBEb2NrZXIgc2FuZGJveApleHBvcnQgU0FOREJPWF9CQUNLRU5EPWRvY2tlcgpleHBvcnQgU0FOREJPWF9JTUFHRT1weXRob246My4xMi1zbGltCmNkIC9yb290Ly5vcGVuY2xhdy93b3Jrc3BhY2Uvc2VjdXJlZ3VhcmQtZGVwbG95CmV4ZWMgcHl0aG9uMyAtbSB1dmljb3JuIGJhY2tlbmQuYXBwOmFwcCAtLWhvc3QgMC4wLjAuMCAtLXBvcnQgOTAwMAo=
+#!/bin/bash
+# SecureGuard backend restart with Docker sandbox
+export SANDBOX_BACKEND=docker
+export SANDBOX_IMAGE=python:3.12-slim
+cd /root/.openclaw/workspace/secureguard-deploy
+exec python3 -m uvicorn backend.app:app --host 0.0.0.0 --port 9000

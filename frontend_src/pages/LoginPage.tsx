@@ -1,1 +1,79 @@
-Ly8gL2xvZ2luIOeZu+W9lemhte+8muaJi+acuuWPtyArIOWvhuegge+8iOaOpSBhdXRoU3RvcmXvvInvvIzlvq7kv6HmiavnoIHljaDkvY3vvIzms6jlhozlhaXlj6Pot7MgL3JlZ2lzdGVy44CCCmltcG9ydCB7IHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VOYXZpZ2F0ZSwgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBRckNvZGUsIExvYWRlcjIgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvcHJpbWl0aXZlcyI7CmltcG9ydCB7IHVzZUF1dGhTdG9yZSB9IGZyb20gIkAvc3RvcmVzL3VzZUF1dGhTdG9yZSI7CgpleHBvcnQgZnVuY3Rpb24gTG9naW5QYWdlKCkgewogIGNvbnN0IG5hdmlnYXRlID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCBsb2dpbiA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy5sb2dpbik7CiAgY29uc3QgbG9hZGluZyA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy5sb2FkaW5nKTsKICBjb25zdCBzZXJ2ZXJFcnJvciA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy5lcnJvcik7CgogIGNvbnN0IFtwaG9uZSwgc2V0UGhvbmVdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtwYXNzd29yZCwgc2V0UGFzc3dvcmRdID0gdXNlU3RhdGUoIiIpOwoKICBjb25zdCBzdWJtaXQgPSBhc3luYyAoKSA9PiB7CiAgICBjb25zdCBvayA9IGF3YWl0IGxvZ2luKHBob25lLCBwYXNzd29yZCk7CiAgICBpZiAob2spIG5hdmlnYXRlKCIvY2hhdCIpOwogIH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBtaW4taC1zY3JlZW4gaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGJnLWJnIHB4LTQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIG1heC13LXNtIHJvdW5kZWQtY2FyZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHAtNyBzaGFkb3ctbGlmdCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTYgZmxleCBmbGV4LWNvbCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaC0xMSB3LTExIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWNhcmQgYmctYWNjZW50IHRleHQtbGcgZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj7lhYM8L2Rpdj4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LXhsIGZvbnQtc2VtaWJvbGQiPuS8geS4miBBSSDlt6XkvZzlj7A8L2gxPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQiPueZu+W9leS7pee7p+e7rTwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICA8RmllbGQgbGFiZWw9IuaJi+acuuWPtyIgdmFsdWU9e3Bob25lfSBvbkNoYW5nZT17c2V0UGhvbmV9IHBsYWNlaG9sZGVyPSIxMzgwMDAwMDAwMCIgLz4KICAgICAgICAgIDxGaWVsZCBsYWJlbD0i5a+G56CBIiB2YWx1ZT17cGFzc3dvcmR9IG9uQ2hhbmdlPXtzZXRQYXNzd29yZH0gdHlwZT0icGFzc3dvcmQiIHBsYWNlaG9sZGVyPSIqKioqKioqKiIgb25FbnRlcj17c3VibWl0fSAvPgogICAgICAgICAge3NlcnZlckVycm9yICYmIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LXdhcm5pbmciPntzZXJ2ZXJFcnJvcn08L3A+fQogICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9InctZnVsbCIgb25DbGljaz17c3VibWl0fSBkaXNhYmxlZD17bG9hZGluZ30+CiAgICAgICAgICAgIHtsb2FkaW5nID8gPExvYWRlcjIgc2l6ZT17MTV9IGNsYXNzTmFtZT0iYW5pbWF0ZS1zcGluIiAvPiA6ICLnmbvlvZUifQogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtY2VudGVyIHRleHQtWzExcHhdIHRleHQtbXV0ZWQiPua8lOekuui0puWPt++8mjEzODAwMDAwMDAwIC8gYWRtaW4xMjM8L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJteS01IGZsZXggaXRlbXMtY2VudGVyIGdhcC0zIHRleHQteHMgdGV4dC1tdXRlZCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImgtcHggZmxleC0xIGJnLWJvcmRlciIgLz4g5oiWIDxzcGFuIGNsYXNzTmFtZT0iaC1weCBmbGV4LTEgYmctYm9yZGVyIiAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaC0yOCB3LTI4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci1kYXNoZWQgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlLTIgdGV4dC1tdXRlZCI+CiAgICAgICAgICAgIDxRckNvZGUgc2l6ZT17NDB9IHN0cm9rZVdpZHRoPXsxLjI1fSAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZCI+5b6u5L+h5omr56CB55m75b2V77yI6ZyA6YWN572uIEFwcElE77yJPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8cCBjbGFzc05hbWU9Im10LTYgdGV4dC1jZW50ZXIgdGV4dC14cyB0ZXh0LW11dGVkIj4KICAgICAgICAgIOi/mOayoeaciei0puWPt++8nzxMaW5rIHRvPSIvcmVnaXN0ZXIiIGNsYXNzTmFtZT0idGV4dC1hY2NlbnQgaG92ZXI6dW5kZXJsaW5lIj7ms6jlhow8L0xpbms+CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIEZpZWxkKHsKICBsYWJlbCwgdmFsdWUsIG9uQ2hhbmdlLCB0eXBlID0gInRleHQiLCBwbGFjZWhvbGRlciwgb25FbnRlciwKfTogewogIGxhYmVsOiBzdHJpbmc7IHZhbHVlOiBzdHJpbmc7IG9uQ2hhbmdlOiAodjogc3RyaW5nKSA9PiB2b2lkOwogIHR5cGU/OiBzdHJpbmc7IHBsYWNlaG9sZGVyPzogc3RyaW5nOyBvbkVudGVyPzogKCkgPT4gdm9pZDsKfSkgewogIHJldHVybiAoCiAgICA8bGFiZWwgY2xhc3NOYW1lPSJibG9jayI+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWItMSBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPntsYWJlbH08L3NwYW4+CiAgICAgIDxpbnB1dAogICAgICAgIHR5cGU9e3R5cGV9CiAgICAgICAgdmFsdWU9e3ZhbHVlfQogICAgICAgIHBsYWNlaG9sZGVyPXtwbGFjZWhvbGRlcn0KICAgICAgICBvbkNoYW5nZT17KGUpID0+IG9uQ2hhbmdlKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICBvbktleURvd249eyhlKSA9PiBlLmtleSA9PT0gIkVudGVyIiAmJiBvbkVudGVyPy4oKX0KICAgICAgICBjbGFzc05hbWU9InctZnVsbCByb3VuZGVkLWlucHV0IGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UtMiBweC0zIHB5LTIgdGV4dC1zbSBvdXRsaW5lLW5vbmUgZm9jdXM6Ym9yZGVyLWFjY2VudC82MCIKICAgICAgLz4KICAgIDwvbGFiZWw+CiAgKTsKfQo=
+// /login 登录页：手机号 + 密码（接 authStore），微信扫码占位，注册入口跳 /register。
+import { useState } from "react";
+import { useNavigate, Link } from "react-router-dom";
+import { QrCode, Loader2 } from "lucide-react";
+import { Button } from "@/components/ui/primitives";
+import { useAuthStore } from "@/stores/useAuthStore";
+
+export function LoginPage() {
+  const navigate = useNavigate();
+  const login = useAuthStore((s) => s.login);
+  const loading = useAuthStore((s) => s.loading);
+  const serverError = useAuthStore((s) => s.error);
+
+  const [phone, setPhone] = useState("");
+  const [password, setPassword] = useState("");
+
+  const submit = async () => {
+    const ok = await login(phone, password);
+    if (ok) navigate("/chat");
+  };
+
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-bg px-4">
+      <div className="w-full max-w-sm rounded-card border border-border bg-surface p-7 shadow-lift">
+        <div className="mb-6 flex flex-col items-center gap-2">
+          <div className="flex h-11 w-11 items-center justify-center rounded-card bg-accent text-lg font-semibold text-white">元</div>
+          <h1 className="font-display text-xl font-semibold">企业 AI 工作台</h1>
+          <p className="text-xs text-muted">登录以继续</p>
+        </div>
+
+        <div className="space-y-3">
+          <Field label="手机号" value={phone} onChange={setPhone} placeholder="13800000000" />
+          <Field label="密码" value={password} onChange={setPassword} type="password" placeholder="********" onEnter={submit} />
+          {serverError && <p className="text-xs text-warning">{serverError}</p>}
+          <Button className="w-full" onClick={submit} disabled={loading}>
+            {loading ? <Loader2 size={15} className="animate-spin" /> : "登录"}
+          </Button>
+          <p className="text-center text-[11px] text-muted">演示账号：13800000000 / admin123</p>
+        </div>
+
+        <div className="my-5 flex items-center gap-3 text-xs text-muted">
+          <span className="h-px flex-1 bg-border" /> 或 <span className="h-px flex-1 bg-border" />
+        </div>
+
+        <div className="flex flex-col items-center gap-2">
+          <div className="flex h-28 w-28 items-center justify-center rounded-card border border-dashed border-border bg-surface-2 text-muted">
+            <QrCode size={40} strokeWidth={1.25} />
+          </div>
+          <p className="text-xs text-muted">微信扫码登录（需配置 AppID）</p>
+        </div>
+
+        <p className="mt-6 text-center text-xs text-muted">
+          还没有账号？<Link to="/register" className="text-accent hover:underline">注册</Link>
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Field({
+  label, value, onChange, type = "text", placeholder, onEnter,
+}: {
+  label: string; value: string; onChange: (v: string) => void;
+  type?: string; placeholder?: string; onEnter?: () => void;
+}) {
+  return (
+    <label className="block">
+      <span className="mb-1 block text-xs text-muted">{label}</span>
+      <input
+        type={type}
+        value={value}
+        placeholder={placeholder}
+        onChange={(e) => onChange(e.target.value)}
+        onKeyDown={(e) => e.key === "Enter" && onEnter?.()}
+        className="w-full rounded-input border border-border bg-surface-2 px-3 py-2 text-sm outline-none focus:border-accent/60"
+      />
+    </label>
+  );
+}

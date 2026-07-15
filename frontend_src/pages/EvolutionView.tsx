@@ -1,1 +1,215 @@
-Ly8gcGFnZXMvRXZvbHV0aW9uVmlldy50c3gg4oCUIOmAkuW9kui/m+WMluS4juaPkOekuuivjeeJiOacrOeuoeeQhijmiqTln47msrPmmL7lvaIgIzExKeOAguS7hSBhZG1pbuOAggovLyDnlKjlkI7nq68gTUQg54mI5pys56uv54K5Oueciy/mlLkv5a2YL+S4iue6vy/lm57mu5rmgJ3ogIPkuI7pl6jnpoHmj5DnpLror40gKyDor4TmtYvop6blj5Hov5vljJbjgIIKLy8g5a2X5q615YGa6Ziy5b6h5byP6K+75Y+WKOWQjuerr+i/lOWbnue7k+aehOWPr+iDveeVpeacieW3ruW8gizlrrnplJnmuLLmn5Mp44CCCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlTWVtbywgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IEdpdEJyYW5jaCwgRmlsZVRleHQsIFNhdmUsIFJvY2tldCwgUm90YXRlQ2N3LCBQbGF5LCBMb2FkZXIyLCBDaGVjaywgSGlzdG9yeSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IENhcmQsIEJ1dHRvbiwgQmFkZ2UgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvcHJpbWl0aXZlcyI7CmltcG9ydCB7IGFwaSB9IGZyb20gIkAvbGliL2FwaSI7Cgp0eXBlIFZlciA9IHsKICBpZDogc3RyaW5nOyB2ZXJzaW9uPzogbnVtYmVyIHwgc3RyaW5nOyBub3RlPzogc3RyaW5nOwogIGNyZWF0ZWRfYXQ/OiBzdHJpbmcgfCBudW1iZXI7IGlzX2xpdmU/OiBib29sZWFuOyBsaXZlPzogYm9vbGVhbjsgY29udGVudD86IHN0cmluZzsKfTsKCmV4cG9ydCBmdW5jdGlvbiBFdm9sdXRpb25WaWV3KCkgewogIGNvbnN0IFt0YWIsIHNldFRhYl0gPSB1c2VTdGF0ZTwicHJvbXB0cyIgfCAiZXZhbCI+KCJwcm9tcHRzIik7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJteC1hdXRvIGgtZnVsbCBtYXgtdy01eGwgb3ZlcmZsb3cteS1hdXRvIHB4LTYgcHktOCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgPEdpdEJyYW5jaCBzaXplPXsyMH0gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCIgLz4KICAgICAgICA8aDEgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC0yeGwgZm9udC1zZW1pYm9sZCB0cmFja2luZy10aWdodCI+6L+b5YyW5LiO54mI5pys566h55CGPC9oMT4KICAgICAgPC9kaXY+CiAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMSB0ZXh0LXNtIHRleHQtbXV0ZWQiPuaAneiAgy/pl6jnpoHmj5DnpLror43nmoTniYjmnKzljJY65p+l55yL44CB57yW6L6R44CB5LiK57q/44CB5Zue5ruaO+ivhOa1i+Wksei0peiBmuexu+WPr+inpuWPkemAkuW9kui/m+WMluOAgjwvcD4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IGZsZXggZ2FwLTEuNSI+CiAgICAgICAgeyhbWyJwcm9tcHRzIiwgIuaPkOekuuivjeeJiOacrCIsIEZpbGVUZXh0XSwgWyJldmFsIiwgIuivhOa1i+S4jui/m+WMliIsIFBsYXldXSBhcyBjb25zdCkubWFwKChbaywgbGFiZWwsIEljb25dKSA9PiAoCiAgICAgICAgICA8YnV0dG9uIGtleT17a30gb25DbGljaz17KCkgPT4gc2V0VGFiKGspfQogICAgICAgICAgICBjbGFzc05hbWU9e2BmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IHJvdW5kZWQtYnRuIHB4LTMgcHktMS41IHRleHQtc20gJHt0YWIgPT09IGsgPyAiYmctc3VyZmFjZS0yIHRleHQtdGV4dCIgOiAidGV4dC1tdXRlZCBob3Zlcjp0ZXh0LXRleHQifWB9PgogICAgICAgICAgICA8SWNvbiBzaXplPXsxNX0gLz4ge2xhYmVsfQogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgoKICAgICAge3RhYiA9PT0gInByb21wdHMiID8gPFByb21wdFZlcnNpb25zIC8+IDogPEV2YWxSdW5uZXIgLz59CiAgICA8L2Rpdj4KICApOwp9CgovKiAtLS0tLS0tLS0tLS0tLS0tIOaPkOekuuivjeeJiOacrOeuoeeQhiAtLS0tLS0tLS0tLS0tLS0tICovCmZ1bmN0aW9uIFByb21wdFZlcnNpb25zKCkgewogIGNvbnN0IFtuYW1lcywgc2V0TmFtZXNdID0gdXNlU3RhdGU8c3RyaW5nW10+KFtdKTsKICBjb25zdCBbbmFtZSwgc2V0TmFtZV0gPSB1c2VTdGF0ZTxzdHJpbmc+KCIiKTsKICBjb25zdCBbdmVycywgc2V0VmVyc10gPSB1c2VTdGF0ZTxWZXJbXT4oW10pOwogIGNvbnN0IFtzZWwsIHNldFNlbF0gPSB1c2VTdGF0ZTxWZXIgfCBudWxsPihudWxsKTsKICBjb25zdCBbY29udGVudCwgc2V0Q29udGVudF0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW25vdGUsIHNldE5vdGVdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtidXN5LCBzZXRCdXN5XSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbbXNnLCBzZXRNc2ddID0gdXNlU3RhdGU8eyBvazogYm9vbGVhbjsgdDogc3RyaW5nIH0gfCBudWxsPihudWxsKTsKICBjb25zdCB0b2FzdCA9IChvazogYm9vbGVhbiwgdDogc3RyaW5nKSA9PiB7IHNldE1zZyh7IG9rLCB0IH0pOyBzZXRUaW1lb3V0KCgpID0+IHNldE1zZyhudWxsKSwgMjYwMCk7IH07CgogIHVzZUVmZmVjdCgoKSA9PiB7IGFwaS5tZE5hbWVzKCkudGhlbigobjogYW55KSA9PiB7IGNvbnN0IGxpc3QgPSBBcnJheS5pc0FycmF5KG4pID8gbiA6IChuPy5uYW1lcyB8fCBbXSk7IHNldE5hbWVzKGxpc3QpOyBpZiAobGlzdFswXSkgc2V0TmFtZShsaXN0WzBdKTsgfSkuY2F0Y2goKCkgPT4ge30pOyB9LCBbXSk7CiAgdXNlRWZmZWN0KCgpID0+IHsgaWYgKG5hbWUpIGxvYWRWZXJzKG5hbWUpOyB9LCBbbmFtZV0pOwoKICBjb25zdCBsb2FkVmVycyA9IGFzeW5jIChubTogc3RyaW5nKSA9PiB7CiAgICB0cnkgewogICAgICBjb25zdCB2cyA9IGF3YWl0IGFwaS5tZFZlcnNpb25zKG5tKTsKICAgICAgc2V0VmVycyh2cyB8fCBbXSk7CiAgICAgIGNvbnN0IGxpdmUgPSAodnMgfHwgW10pLmZpbmQoKHY6IFZlcikgPT4gdi5pc19saXZlIHx8IHYubGl2ZSkgfHwgKHZzIHx8IFtdKVswXTsKICAgICAgaWYgKGxpdmUpIHZvaWQgb3BlblZlcihsaXZlKTsKICAgIH0gY2F0Y2ggeyBzZXRWZXJzKFtdKTsgfQogIH07CiAgY29uc3Qgb3BlblZlciA9IGFzeW5jICh2OiBWZXIpID0+IHsKICAgIHNldFNlbCh2KTsKICAgIHRyeSB7IGNvbnN0IGZ1bGwgPSBhd2FpdCBhcGkubWRWZXJzaW9uKHYuaWQpOyBzZXRDb250ZW50KGZ1bGw/LmNvbnRlbnQgPz8gdi5jb250ZW50ID8/ICIiKTsgfQogICAgY2F0Y2ggeyBzZXRDb250ZW50KHYuY29udGVudCA/PyAiIik7IH0KICB9OwoKICBjb25zdCBzYXZlTmV3ID0gYXN5bmMgKCkgPT4gewogICAgc2V0QnVzeSh0cnVlKTsKICAgIHRyeSB7IGF3YWl0IGFwaS5tZFNhdmUobmFtZSwgY29udGVudCwgbm90ZSB8fCAi5omL5Yqo57yW6L6RIik7IHNldE5vdGUoIiIpOyBhd2FpdCBsb2FkVmVycyhuYW1lKTsgdG9hc3QodHJ1ZSwgIuW3suS/neWtmOaWsOeJiOacrCIpOyB9CiAgICBjYXRjaCAoZTogYW55KSB7IHRvYXN0KGZhbHNlLCBlLm1lc3NhZ2UgfHwgIuS/neWtmOWksei0pSIpOyB9IGZpbmFsbHkgeyBzZXRCdXN5KGZhbHNlKTsgfQogIH07CiAgY29uc3Qgc2V0TGl2ZSA9IGFzeW5jICh2OiBWZXIpID0+IHsKICAgIHNldEJ1c3kodHJ1ZSk7CiAgICB0cnkgeyBhd2FpdCBhcGkubWRTZXRMaXZlKHYuaWQpOyBhd2FpdCBsb2FkVmVycyhuYW1lKTsgdG9hc3QodHJ1ZSwgIuW3suWIh+aNouS4iue6v+eJiOacrCIpOyB9CiAgICBjYXRjaCAoZTogYW55KSB7IHRvYXN0KGZhbHNlLCBlLm1lc3NhZ2UpOyB9IGZpbmFsbHkgeyBzZXRCdXN5KGZhbHNlKTsgfQogIH07CiAgY29uc3Qgcm9sbGJhY2sgPSBhc3luYyAodjogVmVyKSA9PiB7CiAgICBpZiAoIWNvbmZpcm0oYOWbnua7muWIsOivpeeJiOacrD/lvZPliY3lhoXlrrnkvJrooqvlhbbopobnm5bkuLrmlrDkuIrnur/niYjjgIJgKSkgcmV0dXJuOwogICAgc2V0QnVzeSh0cnVlKTsKICAgIHRyeSB7IGF3YWl0IGFwaS5tZFJvbGxiYWNrKG5hbWUsIHYuaWQpOyBhd2FpdCBsb2FkVmVycyhuYW1lKTsgdG9hc3QodHJ1ZSwgIuW3suWbnua7miIpOyB9CiAgICBjYXRjaCAoZTogYW55KSB7IHRvYXN0KGZhbHNlLCBlLm1lc3NhZ2UpOyB9IGZpbmFsbHkgeyBzZXRCdXN5KGZhbHNlKTsgfQogIH07CgogIGNvbnN0IGlzTGl2ZSA9ICh2OiBWZXIpID0+IEJvb2xlYW4odi5pc19saXZlIHx8IHYubGl2ZSk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCBncmlkIGdhcC00IG1kOmdyaWQtY29scy1bMjIwcHhfMWZyXSI+CiAgICAgIHsvKiDmj5DnpLror43mlofku7bliJfooaggKi99CiAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC0zIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMiB0ZXh0LXhzIGZvbnQtbWVkaXVtIHRleHQtbXV0ZWQiPuaPkOekuuivjeaWh+S7tjwvZGl2PgogICAgICAgIHtuYW1lcy5sZW5ndGggPT09IDAgJiYgPHAgY2xhc3NOYW1lPSJweC0xIHRleHQteHMgdGV4dC1tdXRlZC83MCI+5pegKOajgOafpSAvdjEvYWRtaW4vbWQvbmFtZXMpPC9wPn0KICAgICAgICB7bmFtZXMubWFwKChuKSA9PiAoCiAgICAgICAgICA8YnV0dG9uIGtleT17bn0gb25DbGljaz17KCkgPT4gc2V0TmFtZShuKX0KICAgICAgICAgICAgY2xhc3NOYW1lPXtgZmxleCB3LWZ1bGwgaXRlbXMtY2VudGVyIGdhcC0xLjUgcm91bmRlZC1tZCBweC0yIHB5LTEuNSB0ZXh0LWxlZnQgdGV4dC1zbSAke24gPT09IG5hbWUgPyAiYmctc3VyZmFjZS0yIHRleHQtdGV4dCIgOiAidGV4dC1tdXRlZCBob3Zlcjp0ZXh0LXRleHQifWB9PgogICAgICAgICAgICA8RmlsZVRleHQgc2l6ZT17MTN9IC8+IDxzcGFuIGNsYXNzTmFtZT0idHJ1bmNhdGUiPntufTwvc3Bhbj4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICkpfQogICAgICA8L0NhcmQ+CgogICAgICB7Lyog54mI5pysICsg57yW6L6RICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIj4KICAgICAgICB7bXNnICYmIDxkaXYgY2xhc3NOYW1lPXtgcm91bmRlZC1tZCBweC0zIHB5LTEuNSB0ZXh0LXhzICR7bXNnLm9rID8gImJnLWFjY2VudC8xMCB0ZXh0LWFjY2VudCIgOiAiYmctd2FybmluZy8xMCB0ZXh0LXdhcm5pbmcifWB9Pnttc2cudH08L2Rpdj59CgogICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0yIGZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUgdGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LW11dGVkIj48SGlzdG9yeSBzaXplPXsxM30gLz4g54mI5pys5Y6G5Y+yPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LWgtNDAgc3BhY2UteS0xIG92ZXJmbG93LXktYXV0byI+CiAgICAgICAgICAgIHt2ZXJzLm1hcCgodikgPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXt2LmlkfSBjbGFzc05hbWU9e2BmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLW1kIGJvcmRlciBweC0yIHB5LTEuNSB0ZXh0LXNtICR7c2VsPy5pZCA9PT0gdi5pZCA/ICJib3JkZXItYWNjZW50IiA6ICJib3JkZXItYm9yZGVyIn1gfT4KICAgICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gb3BlblZlcih2KX0gY2xhc3NOYW1lPSJmbGV4IG1pbi13LTAgZmxleC0xIGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LWxlZnQiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRhYnVsYXItbnVtcyB0ZXh0LW11dGVkIj52e3YudmVyc2lvbiA/PyAiPyJ9PC9zcGFuPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRydW5jYXRlIj57di5ub3RlIHx8ICLigJQifTwvc3Bhbj4KICAgICAgICAgICAgICAgICAge2lzTGl2ZSh2KSAmJiA8QmFkZ2U+5LiK57q/5LitPC9CYWRnZT59CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgIHshaXNMaXZlKHYpICYmICgKICAgICAgICAgICAgICAgICAgPD4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldExpdmUodil9IHRpdGxlPSLorr7kuLrkuIrnur8iIGNsYXNzTmFtZT0idGV4dC1tdXRlZCBob3Zlcjp0ZXh0LWFjY2VudCI+PFJvY2tldCBzaXplPXsxM30gLz48L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHJvbGxiYWNrKHYpfSB0aXRsZT0i5Zue5rua5Yiw5q2k54mI5pysIiBjbGFzc05hbWU9InRleHQtbXV0ZWQgaG92ZXI6dGV4dC13YXJuaW5nIj48Um90YXRlQ2N3IHNpemU9ezEzfSAvPjwvYnV0dG9uPgogICAgICAgICAgICAgICAgICA8Lz4KICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkpfQogICAgICAgICAgICB7dmVycy5sZW5ndGggPT09IDAgJiYgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQvNzAiPuivpeaWh+S7tuaaguaXoOeJiOacrDwvcD59CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0NhcmQ+CgogICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0yIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LW11dGVkIj7lhoXlrrl7c2VsID8gYCjmn6XnnIsgdiR7c2VsLnZlcnNpb24gPz8gIj8ifSlgIDogIiJ9PC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8dGV4dGFyZWEgdmFsdWU9e2NvbnRlbnR9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0Q29udGVudChlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaC03MiB3LWZ1bGwgcmVzaXplLXkgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHAtMiBmb250LW1vbm8gdGV4dC14cyBvdXRsaW5lLW5vbmUgZm9jdXM6Ym9yZGVyLWFjY2VudC81MCIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9IuaPkOekuuivjeWGheWuueKApiIgLz4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0yIGZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgPGlucHV0IHZhbHVlPXtub3RlfSBvbkNoYW5nZT17KGUpID0+IHNldE5vdGUoZS50YXJnZXQudmFsdWUpfSBwbGFjZWhvbGRlcj0i54mI5pys6K+05piOKOWPr+mAiSkiCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LTEgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHB4LTIgcHktMS41IHRleHQtc20iIC8+CiAgICAgICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIG9uQ2xpY2s9e3NhdmVOZXd9IGRpc2FibGVkPXtidXN5IHx8ICFuYW1lfT4KICAgICAgICAgICAgICB7YnVzeSA/IDxMb2FkZXIyIHNpemU9ezE0fSBjbGFzc05hbWU9ImFuaW1hdGUtc3BpbiIgLz4gOiA8U2F2ZSBzaXplPXsxNH0gLz59IOWtmOS4uuaWsOeJiOacrAogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0xLjUgdGV4dC1bMTFweF0gdGV4dC1tdXRlZCI+57yW6L6R5ZCOIuWtmOS4uuaWsOeJiOacrCLkuI3kvJrnq4vljbPkuIrnur875Zyo54mI5pys5Y6G5Y+y6YeM54K5IPCfmoAg6K6+5Li65LiK57q/44CC6L+Z5qC35Y+v5a6J5YWo6K+V6ZSZ44CB6ZqP5pe25Zue5ruaKOmAkuW9kui/m+WMlueahOaKpOagjynjgII8L3A+CiAgICAgICAgPC9DYXJkPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCi8qIC0tLS0tLS0tLS0tLS0tLS0g6K+E5rWL5LiO6L+b5YyWIC0tLS0tLS0tLS0tLS0tLS0gKi8KZnVuY3Rpb24gRXZhbFJ1bm5lcigpIHsKICBjb25zdCBbdGFza3MsIHNldFRhc2tzXSA9IHVzZVN0YXRlPGFueVtdPihbXSk7CiAgY29uc3QgW3J1bm5pbmcsIHNldFJ1bm5pbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtyZXN1bHQsIHNldFJlc3VsdF0gPSB1c2VTdGF0ZTxhbnk+KG51bGwpOwogIGNvbnN0IFtlcnIsIHNldEVycl0gPSB1c2VTdGF0ZSgiIik7CgogIHVzZUVmZmVjdCgoKSA9PiB7IGFwaS5ldmFsVGFza3MoKS50aGVuKCh0KSA9PiBzZXRUYXNrcyh0IHx8IFtdKSkuY2F0Y2goKCkgPT4ge30pOyB9LCBbXSk7CgogIGNvbnN0IHJ1biA9IGFzeW5jICh0YXNrSWQ/OiBzdHJpbmcpID0+IHsKICAgIHNldFJ1bm5pbmcodHJ1ZSk7IHNldEVycigiIik7IHNldFJlc3VsdChudWxsKTsKICAgIHRyeSB7IHNldFJlc3VsdChhd2FpdCBhcGkuZXZhbFJ1bih0YXNrSWQpKTsgfQogICAgY2F0Y2ggKGU6IGFueSkgeyBzZXRFcnIoZS5tZXNzYWdlIHx8ICLor4TmtYvlpLHotKUiKTsgfSBmaW5hbGx5IHsgc2V0UnVubmluZyhmYWxzZSk7IH0KICB9OwoKICBjb25zdCBjbHVzdGVycyA9IHJlc3VsdD8uZmFpbHVyZV9jbHVzdGVycyB8fCByZXN1bHQ/LmNsdXN0ZXJzIHx8IFtdOwogIGNvbnN0IHRyaWdnZXJlZCA9IHJlc3VsdD8uZXZvbHV0aW9uX3RyaWdnZXJlZCA/PyByZXN1bHQ/LnRyaWdnZXJlZDsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IHNwYWNlLXktMyI+CiAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMiBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj7or4TmtYvku7vliqEoe3Rhc2tzLmxlbmd0aH0pPC9zcGFuPgogICAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgb25DbGljaz17KCkgPT4gcnVuKCl9IGRpc2FibGVkPXtydW5uaW5nfT4KICAgICAgICAgICAge3J1bm5pbmcgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogPFBsYXkgc2l6ZT17MTR9IC8+fSDot5Hlhajpg6jor4TmtYsKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkaXZpZGUteSBkaXZpZGUtYm9yZGVyIj4KICAgICAgICAgIHt0YXNrcy5tYXAoKHQsIGkpID0+ICgKICAgICAgICAgICAgPGRpdiBrZXk9e3QuaWQgPz8gaX0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweS0yIHRleHQtc20iPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleC0xIHRydW5jYXRlIj57dC5uYW1lIHx8IHQuaWQgfHwgYOS7u+WKoSR7aSArIDF9YH08L3NwYW4+CiAgICAgICAgICAgICAge3QucGFzc19yYXRlICE9IG51bGwgJiYgPHNwYW4gY2xhc3NOYW1lPSJ0YWJ1bGFyLW51bXMgdGV4dC1tdXRlZCI+6YCa6L+H546HIHtNYXRoLnJvdW5kKCh0LnBhc3NfcmF0ZSkgKiAxMDApfSU8L3NwYW4+fQogICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gcnVuKHQuaWQpfSBjbGFzc05hbWU9InRleHQtbXV0ZWQgaG92ZXI6dGV4dC1hY2NlbnQiIHRpdGxlPSLljZXni6zot5EiPjxQbGF5IHNpemU9ezEzfSAvPjwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgICAge3Rhc2tzLmxlbmd0aCA9PT0gMCAmJiA8cCBjbGFzc05hbWU9InB5LTIgdGV4dC14cyB0ZXh0LW11dGVkLzcwIj7mmoLml6Dor4TmtYvku7vliqEo5qOA5p+lIC92MS9hZG1pbi9ldmFsL3Rhc2tzKTwvcD59CiAgICAgICAgPC9kaXY+CiAgICAgIDwvQ2FyZD4KCiAgICAgIHtlcnIgJiYgPGRpdiBjbGFzc05hbWU9InJvdW5kZWQtbWQgYmctd2FybmluZy8xMCBweC0zIHB5LTIgdGV4dC14cyB0ZXh0LXdhcm5pbmciPntlcnJ9PC9kaXY+fQoKICAgICAge3Jlc3VsdCAmJiAoCiAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTQiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTIgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0iPuivhOa1i+e7k+aenDwvc3Bhbj4KICAgICAgICAgICAge3RyaWdnZXJlZCAhPSBudWxsICYmICgKICAgICAgICAgICAgICA8QmFkZ2U+e3RyaWdnZXJlZCA/ICLlt7Lop6blj5Hov5vljJYiIDogIuacquinpuWPkei/m+WMliJ9PC9CYWRnZT4KICAgICAgICAgICAgKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgICAge2NsdXN0ZXJzLmxlbmd0aCA+IDAgPyAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTEuNSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQiPuWksei0peiBmuexuzo8L3A+CiAgICAgICAgICAgICAge2NsdXN0ZXJzLm1hcCgoYzogYW55LCBpOiBudW1iZXIpID0+ICgKICAgICAgICAgICAgICAgIDxkaXYga2V5PXtpfSBjbGFzc05hbWU9InJvdW5kZWQtbWQgYmctc3VyZmFjZS0yIHB4LTIgcHktMS41IHRleHQteHMiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIj57Yy5sYWJlbCB8fCBjLm5hbWUgfHwgYOiBmuexuyR7aSArIDF9YH08L3NwYW4+CiAgICAgICAgICAgICAgICAgIHtjLmNvdW50ICE9IG51bGwgJiYgPHNwYW4gY2xhc3NOYW1lPSJtbC0yIHRleHQtbXV0ZWQiPsOXe2MuY291bnR9PC9zcGFuPn0KICAgICAgICAgICAgICAgICAge2Muc3VnZ2VzdGlvbiAmJiA8ZGl2IGNsYXNzTmFtZT0ibXQtMC41IHRleHQtbXV0ZWQiPuW7uuiurjp7Yy5zdWdnZXN0aW9ufTwvZGl2Pn0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkIj57dHJpZ2dlcmVkID8gIuW3suinpuWPkei/m+WMlua1geeoiyIgOiAi5pys5qyh5peg5aSx6LSl6IGa57G75oiW57uT5p6E5pyq55+lLOWOn+Wni+e7k+aenDoifTwvcD4KICAgICAgICAgICl9CiAgICAgICAgICB7Y2x1c3RlcnMubGVuZ3RoID09PSAwICYmIDxwcmUgY2xhc3NOYW1lPSJtdC0yIG1heC1oLTQ4IG92ZXJmbG93LWF1dG8gcm91bmRlZCBiZy1zdXJmYWNlLTIgcC0yIHRleHQtWzExcHhdIj57SlNPTi5zdHJpbmdpZnkocmVzdWx0LCBudWxsLCAyKX08L3ByZT59CiAgICAgICAgPC9DYXJkPgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQo=
+// pages/EvolutionView.tsx — 递归进化与提示词版本管理(护城河显形 #11)。仅 admin。
+// 用后端 MD 版本端点:看/改/存/上线/回滚思考与门禁提示词 + 评测触发进化。
+// 字段做防御式读取(后端返回结构可能略有差异,容错渲染)。
+import { useEffect, useMemo, useState } from "react";
+import { GitBranch, FileText, Save, Rocket, RotateCcw, Play, Loader2, Check, History } from "lucide-react";
+import { Card, Button, Badge } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+
+type Ver = {
+  id: string; version?: number | string; note?: string;
+  created_at?: string | number; is_live?: boolean; live?: boolean; content?: string;
+};
+
+export function EvolutionView() {
+  const [tab, setTab] = useState<"prompts" | "eval">("prompts");
+  return (
+    <div className="mx-auto h-full max-w-5xl overflow-y-auto px-6 py-8">
+      <div className="flex items-center gap-2">
+        <GitBranch size={20} className="text-accent" />
+        <h1 className="font-display text-2xl font-semibold tracking-tight">进化与版本管理</h1>
+      </div>
+      <p className="mt-1 text-sm text-muted">思考/门禁提示词的版本化:查看、编辑、上线、回滚;评测失败聚类可触发递归进化。</p>
+
+      <div className="mt-4 flex gap-1.5">
+        {([["prompts", "提示词版本", FileText], ["eval", "评测与进化", Play]] as const).map(([k, label, Icon]) => (
+          <button key={k} onClick={() => setTab(k)}
+            className={`flex items-center gap-1.5 rounded-btn px-3 py-1.5 text-sm ${tab === k ? "bg-surface-2 text-text" : "text-muted hover:text-text"}`}>
+            <Icon size={15} /> {label}
+          </button>
+        ))}
+      </div>
+
+      {tab === "prompts" ? <PromptVersions /> : <EvalRunner />}
+    </div>
+  );
+}
+
+/* ---------------- 提示词版本管理 ---------------- */
+function PromptVersions() {
+  const [names, setNames] = useState<string[]>([]);
+  const [name, setName] = useState<string>("");
+  const [vers, setVers] = useState<Ver[]>([]);
+  const [sel, setSel] = useState<Ver | null>(null);
+  const [content, setContent] = useState("");
+  const [note, setNote] = useState("");
+  const [busy, setBusy] = useState(false);
+  const [msg, setMsg] = useState<{ ok: boolean; t: string } | null>(null);
+  const toast = (ok: boolean, t: string) => { setMsg({ ok, t }); setTimeout(() => setMsg(null), 2600); };
+
+  useEffect(() => { api.mdNames().then((n: any) => { const list = Array.isArray(n) ? n : (n?.names || []); setNames(list); if (list[0]) setName(list[0]); }).catch(() => {}); }, []);
+  useEffect(() => { if (name) loadVers(name); }, [name]);
+
+  const loadVers = async (nm: string) => {
+    try {
+      const vs = await api.mdVersions(nm);
+      setVers(vs || []);
+      const live = (vs || []).find((v: Ver) => v.is_live || v.live) || (vs || [])[0];
+      if (live) void openVer(live);
+    } catch { setVers([]); }
+  };
+  const openVer = async (v: Ver) => {
+    setSel(v);
+    try { const full = await api.mdVersion(v.id); setContent(full?.content ?? v.content ?? ""); }
+    catch { setContent(v.content ?? ""); }
+  };
+
+  const saveNew = async () => {
+    setBusy(true);
+    try { await api.mdSave(name, content, note || "手动编辑"); setNote(""); await loadVers(name); toast(true, "已保存新版本"); }
+    catch (e: any) { toast(false, e.message || "保存失败"); } finally { setBusy(false); }
+  };
+  const setLive = async (v: Ver) => {
+    setBusy(true);
+    try { await api.mdSetLive(v.id); await loadVers(name); toast(true, "已切换上线版本"); }
+    catch (e: any) { toast(false, e.message); } finally { setBusy(false); }
+  };
+  const rollback = async (v: Ver) => {
+    if (!confirm(`回滚到该版本?当前内容会被其覆盖为新上线版。`)) return;
+    setBusy(true);
+    try { await api.mdRollback(name, v.id); await loadVers(name); toast(true, "已回滚"); }
+    catch (e: any) { toast(false, e.message); } finally { setBusy(false); }
+  };
+
+  const isLive = (v: Ver) => Boolean(v.is_live || v.live);
+
+  return (
+    <div className="mt-4 grid gap-4 md:grid-cols-[220px_1fr]">
+      {/* 提示词文件列表 */}
+      <Card className="p-3">
+        <div className="mb-2 text-xs font-medium text-muted">提示词文件</div>
+        {names.length === 0 && <p className="px-1 text-xs text-muted/70">无(检查 /v1/admin/md/names)</p>}
+        {names.map((n) => (
+          <button key={n} onClick={() => setName(n)}
+            className={`flex w-full items-center gap-1.5 rounded-md px-2 py-1.5 text-left text-sm ${n === name ? "bg-surface-2 text-text" : "text-muted hover:text-text"}`}>
+            <FileText size={13} /> <span className="truncate">{n}</span>
+          </button>
+        ))}
+      </Card>
+
+      {/* 版本 + 编辑 */}
+      <div className="space-y-3">
+        {msg && <div className={`rounded-md px-3 py-1.5 text-xs ${msg.ok ? "bg-accent/10 text-accent" : "bg-warning/10 text-warning"}`}>{msg.t}</div>}
+
+        <Card className="p-3">
+          <div className="mb-2 flex items-center gap-1.5 text-xs font-medium text-muted"><History size={13} /> 版本历史</div>
+          <div className="max-h-40 space-y-1 overflow-y-auto">
+            {vers.map((v) => (
+              <div key={v.id} className={`flex items-center gap-2 rounded-md border px-2 py-1.5 text-sm ${sel?.id === v.id ? "border-accent" : "border-border"}`}>
+                <button onClick={() => openVer(v)} className="flex min-w-0 flex-1 items-center gap-2 text-left">
+                  <span className="tabular-nums text-muted">v{v.version ?? "?"}</span>
+                  <span className="truncate">{v.note || "—"}</span>
+                  {isLive(v) && <Badge>上线中</Badge>}
+                </button>
+                {!isLive(v) && (
+                  <>
+                    <button onClick={() => setLive(v)} title="设为上线" className="text-muted hover:text-accent"><Rocket size={13} /></button>
+                    <button onClick={() => rollback(v)} title="回滚到此版本" className="text-muted hover:text-warning"><RotateCcw size={13} /></button>
+                  </>
+                )}
+              </div>
+            ))}
+            {vers.length === 0 && <p className="text-xs text-muted/70">该文件暂无版本</p>}
+          </div>
+        </Card>
+
+        <Card className="p-3">
+          <div className="mb-2 flex items-center justify-between">
+            <span className="text-xs font-medium text-muted">内容{sel ? `(查看 v${sel.version ?? "?"})` : ""}</span>
+          </div>
+          <textarea value={content} onChange={(e) => setContent(e.target.value)}
+            className="h-72 w-full resize-y rounded-md border border-border bg-surface p-2 font-mono text-xs outline-none focus:border-accent/50"
+            placeholder="提示词内容…" />
+          <div className="mt-2 flex items-center gap-2">
+            <input value={note} onChange={(e) => setNote(e.target.value)} placeholder="版本说明(可选)"
+              className="flex-1 rounded-md border border-border bg-surface px-2 py-1.5 text-sm" />
+            <Button size="sm" onClick={saveNew} disabled={busy || !name}>
+              {busy ? <Loader2 size={14} className="animate-spin" /> : <Save size={14} />} 存为新版本
+            </Button>
+          </div>
+          <p className="mt-1.5 text-[11px] text-muted">编辑后"存为新版本"不会立即上线;在版本历史里点 🚀 设为上线。这样可安全试错、随时回滚(递归进化的护栏)。</p>
+        </Card>
+      </div>
+    </div>
+  );
+}
+
+/* ---------------- 评测与进化 ---------------- */
+function EvalRunner() {
+  const [tasks, setTasks] = useState<any[]>([]);
+  const [running, setRunning] = useState(false);
+  const [result, setResult] = useState<any>(null);
+  const [err, setErr] = useState("");
+
+  useEffect(() => { api.evalTasks().then((t) => setTasks(t || [])).catch(() => {}); }, []);
+
+  const run = async (taskId?: string) => {
+    setRunning(true); setErr(""); setResult(null);
+    try { setResult(await api.evalRun(taskId)); }
+    catch (e: any) { setErr(e.message || "评测失败"); } finally { setRunning(false); }
+  };
+
+  const clusters = result?.failure_clusters || result?.clusters || [];
+  const triggered = result?.evolution_triggered ?? result?.triggered;
+
+  return (
+    <div className="mt-4 space-y-3">
+      <Card className="p-4">
+        <div className="mb-2 flex items-center justify-between">
+          <span className="text-sm font-medium">评测任务({tasks.length})</span>
+          <Button size="sm" onClick={() => run()} disabled={running}>
+            {running ? <Loader2 size={14} className="animate-spin" /> : <Play size={14} />} 跑全部评测
+          </Button>
+        </div>
+        <div className="divide-y divide-border">
+          {tasks.map((t, i) => (
+            <div key={t.id ?? i} className="flex items-center gap-2 py-2 text-sm">
+              <span className="flex-1 truncate">{t.name || t.id || `任务${i + 1}`}</span>
+              {t.pass_rate != null && <span className="tabular-nums text-muted">通过率 {Math.round((t.pass_rate) * 100)}%</span>}
+              <button onClick={() => run(t.id)} className="text-muted hover:text-accent" title="单独跑"><Play size={13} /></button>
+            </div>
+          ))}
+          {tasks.length === 0 && <p className="py-2 text-xs text-muted/70">暂无评测任务(检查 /v1/admin/eval/tasks)</p>}
+        </div>
+      </Card>
+
+      {err && <div className="rounded-md bg-warning/10 px-3 py-2 text-xs text-warning">{err}</div>}
+
+      {result && (
+        <Card className="p-4">
+          <div className="mb-2 flex items-center gap-2">
+            <span className="text-sm font-medium">评测结果</span>
+            {triggered != null && (
+              <Badge>{triggered ? "已触发进化" : "未触发进化"}</Badge>
+            )}
+          </div>
+          {clusters.length > 0 ? (
+            <div className="space-y-1.5">
+              <p className="text-xs text-muted">失败聚类:</p>
+              {clusters.map((c: any, i: number) => (
+                <div key={i} className="rounded-md bg-surface-2 px-2 py-1.5 text-xs">
+                  <span className="font-medium">{c.label || c.name || `聚类${i + 1}`}</span>
+                  {c.count != null && <span className="ml-2 text-muted">×{c.count}</span>}
+                  {c.suggestion && <div className="mt-0.5 text-muted">建议:{c.suggestion}</div>}
+                </div>
+              ))}
+            </div>
+          ) : (
+            <p className="text-xs text-muted">{triggered ? "已触发进化流程" : "本次无失败聚类或结构未知,原始结果:"}</p>
+          )}
+          {clusters.length === 0 && <pre className="mt-2 max-h-48 overflow-auto rounded bg-surface-2 p-2 text-[11px]">{JSON.stringify(result, null, 2)}</pre>}
+        </Card>
+      )}
+    </div>
+  );
+}

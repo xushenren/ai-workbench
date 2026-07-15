@@ -1,1 +1,135 @@
-Ly8g5bel5L2c5Yy65L6n5qCP77ya5bGV56S6IEFJIOS6p+WHuueahOS7o+eggSBhcnRpZmFjdOOAggovLyDjgIzku6PnoIHjgI10YWLvvJror63ms5Xpq5jkuq4gKyDlpI3liLYgKyDkuIvovb3vvJvjgIzpooTop4jjgI10YWLvvJpIVE1ML0pTIOWcqCBpZnJhbWUg6YeM6LeR77yI5Y+v6KeG5YyW5riy5p+T77yJ44CCCi8vIFB5dGhvbiDnmoTlj6/op4bljJbvvIhQeW9kaWRlIOa1j+iniOWZqOWGheaJp+ihjO+8ieeVmeW+heS4i+S4gOatpe+8m+W9k+WJjSBQeXRob24g55qEIuecn+i3keaWh+acrOe7k+aenCLlnKjmgJ3ogIPpnaLmnb8gVkVSSUZZIOatpeaYvuekuuOAggppbXBvcnQgeyB1c2VTdGF0ZSwgdHlwZSBSZWFjdE5vZGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFByaXNtIGFzIFN5bnRheEhpZ2hsaWdodGVyIH0gZnJvbSAicmVhY3Qtc3ludGF4LWhpZ2hsaWdodGVyIjsKaW1wb3J0IHsgb25lTGlnaHQsIG9uZURhcmsgfSBmcm9tICJyZWFjdC1zeW50YXgtaGlnaGxpZ2h0ZXIvZGlzdC9lc20vc3R5bGVzL3ByaXNtIjsKaW1wb3J0IHsgQ29weSwgRG93bmxvYWQsIENoZWNrLCBDb2RlMiwgUGxheSwgUGFuZWxSaWdodENsb3NlIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgdXNlQ2hhdFN0b3JlLCB1c2VVSVN0b3JlIH0gZnJvbSAiQC9zdG9yZXMvdXNlU3RvcmUiOwppbXBvcnQgdHlwZSB7IEFydGlmYWN0IH0gZnJvbSAiQC90eXBlcyI7CgpleHBvcnQgZnVuY3Rpb24gV29ya3NwYWNlUGFuZWwoKSB7CiAgY29uc3QgYXJ0aWZhY3RzID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLmFydGlmYWN0cyk7CiAgY29uc3QgdGhlbWUgPSB1c2VVSVN0b3JlKChzKSA9PiBzLnRoZW1lKTsKICBjb25zdCB0b2dnbGUgPSB1c2VVSVN0b3JlKChzKSA9PiBzLnRvZ2dsZVdvcmtzcGFjZSk7CiAgY29uc3QgW2FjdGl2ZUlkeCwgc2V0QWN0aXZlSWR4XSA9IHVzZVN0YXRlKDApOwogIGNvbnN0IFt0YWIsIHNldFRhYl0gPSB1c2VTdGF0ZTwiY29kZSIgfCAicHJldmlldyI+KCJjb2RlIik7CgogIGlmIChhcnRpZmFjdHMubGVuZ3RoID09PSAwKSB7CiAgICByZXR1cm4gKAogICAgICA8YXNpZGUgY2xhc3NOYW1lPSJoaWRkZW4gdy1bMzYwcHhdIHNocmluay0wIGZsZXgtY29sIGJvcmRlci1sIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZS0yLzMwIGxnOmZsZXgiPgogICAgICAgIDxIZWFkZXIgb25DbG9zZT17dG9nZ2xlfSAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtMSBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcHgtNiB0ZXh0LWNlbnRlciB0ZXh0LXNtIHRleHQtbXV0ZWQiPgogICAgICAgICAg5bel5L2c5Yy656m66Zey44CC6K6p5Luj56CB5Yqp5omL5YaZ5q615Luj56CB77yM6L+Z6YeM5Lya5Ye6546w5Y+v6L+Q6KGM55qE5paH5Lu25Y2h54mH44CCCiAgICAgICAgPC9kaXY+CiAgICAgIDwvYXNpZGU+CiAgICApOwogIH0KCiAgY29uc3QgYWN0aXZlID0gYXJ0aWZhY3RzW01hdGgubWluKGFjdGl2ZUlkeCwgYXJ0aWZhY3RzLmxlbmd0aCAtIDEpXTsKICBjb25zdCBjYW5QcmV2aWV3ID0gYWN0aXZlLmxhbmd1YWdlID09PSAiaHRtbCI7CgogIHJldHVybiAoCiAgICA8YXNpZGUgY2xhc3NOYW1lPSJoaWRkZW4gdy1bMzYwcHhdIHNocmluay0wIGZsZXgtY29sIGJvcmRlci1sIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZS0yLzMwIGxnOmZsZXgiPgogICAgICA8SGVhZGVyIG9uQ2xvc2U9e3RvZ2dsZX0gLz4KCiAgICAgIHsvKiDmlofku7bmoIfnrb7mnaEgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0xIG92ZXJmbG93LXgtYXV0byBib3JkZXItYiBib3JkZXItYm9yZGVyIHB4LTIgcHktMS41Ij4KICAgICAgICB7YXJ0aWZhY3RzLm1hcCgoYSwgaSkgPT4gKAogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBrZXk9e2EuZmlsZW5hbWV9CiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHsgc2V0QWN0aXZlSWR4KGkpOyBzZXRUYWIoImNvZGUiKTsgfX0KICAgICAgICAgICAgY2xhc3NOYW1lPXtgZmxleCBzaHJpbmstMCBpdGVtcy1jZW50ZXIgZ2FwLTEgcm91bmRlZC1idG4gcHgtMiBweS0xIHRleHQteHMgJHsKICAgICAgICAgICAgICBpID09PSBhY3RpdmVJZHggPyAiYmctc3VyZmFjZSB0ZXh0LXRleHQiIDogInRleHQtbXV0ZWQgaG92ZXI6dGV4dC10ZXh0IgogICAgICAgICAgICB9YH0KICAgICAgICAgID4KICAgICAgICAgICAgPHNwYW4+e2EuaWNvbn08L3NwYW4+e2EuZmlsZW5hbWV9CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CgogICAgICB7Lyog5Luj56CBL+mihOiniCDliIfmjaIgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSBib3JkZXItYiBib3JkZXItYm9yZGVyIHB4LTMgcHktMS41IHRleHQteHMiPgogICAgICAgIDxUYWJCdG4gYWN0aXZlPXt0YWIgPT09ICJjb2RlIn0gb25DbGljaz17KCkgPT4gc2V0VGFiKCJjb2RlIil9IEljb249e0NvZGUyfT7ku6PnoIE8L1RhYkJ0bj4KICAgICAgICB7Y2FuUHJldmlldyAmJiA8VGFiQnRuIGFjdGl2ZT17dGFiID09PSAicHJldmlldyJ9IG9uQ2xpY2s9eygpID0+IHNldFRhYigicHJldmlldyIpfSBJY29uPXtQbGF5fT7pooTop4g8L1RhYkJ0bj59CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1sLWF1dG8gZmxleCBnYXAtMSI+CiAgICAgICAgICA8Q29weUJ0biB0ZXh0PXthY3RpdmUuY29udGVudH0gLz4KICAgICAgICAgIDxEb3dubG9hZEJ0biBhcnRpZmFjdD17YWN0aXZlfSAvPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiDlhoXlrrkgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC0wIGZsZXgtMSBvdmVyZmxvdy1hdXRvIj4KICAgICAgICB7dGFiID09PSAicHJldmlldyIgJiYgY2FuUHJldmlldyA/ICgKICAgICAgICAgIDxpZnJhbWUKICAgICAgICAgICAgdGl0bGU9InByZXZpZXciCiAgICAgICAgICAgIHNhbmRib3g9ImFsbG93LXNjcmlwdHMiCiAgICAgICAgICAgIHNyY0RvYz17YWN0aXZlLmNvbnRlbnR9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaC1mdWxsIHctZnVsbCBiZy13aGl0ZSIKICAgICAgICAgIC8+CiAgICAgICAgKSA6ICgKICAgICAgICAgIDxTeW50YXhIaWdobGlnaHRlcgogICAgICAgICAgICBsYW5ndWFnZT17YWN0aXZlLmxhbmd1YWdlfQogICAgICAgICAgICBzdHlsZT17dGhlbWUgPT09ICJkYXJrIiA/IG9uZURhcmsgOiBvbmVMaWdodH0KICAgICAgICAgICAgY3VzdG9tU3R5bGU9e3sgbWFyZ2luOiAwLCBiYWNrZ3JvdW5kOiAidHJhbnNwYXJlbnQiLCBmb250U2l6ZTogMTMsIHBhZGRpbmc6ICIxMnB4IDE0cHgiIH19CiAgICAgICAgICAgIHdyYXBMb25nTGluZXMKICAgICAgICAgID4KICAgICAgICAgICAge2FjdGl2ZS5jb250ZW50fQogICAgICAgICAgPC9TeW50YXhIaWdobGlnaHRlcj4KICAgICAgICApfQogICAgICA8L2Rpdj4KICAgIDwvYXNpZGU+CiAgKTsKfQoKZnVuY3Rpb24gSGVhZGVyKHsgb25DbG9zZSB9OiB7IG9uQ2xvc2U6ICgpID0+IHZvaWQgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgYm9yZGVyLWIgYm9yZGVyLWJvcmRlciBweC00IHB5LTIuNSI+CiAgICAgIDxDb2RlMiBzaXplPXsxNn0gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCIgLz4KICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj7lt6XkvZzljLo8L3NwYW4+CiAgICAgIDxidXR0b24gb25DbGljaz17b25DbG9zZX0gY2xhc3NOYW1lPSJtbC1hdXRvIHJvdW5kZWQtbWQgcC0xIHRleHQtbXV0ZWQgaG92ZXI6Ymctc3VyZmFjZS0yIGhvdmVyOnRleHQtdGV4dCIgYXJpYS1sYWJlbD0i5YWz6Zet5bel5L2c5Yy6Ij4KICAgICAgICA8UGFuZWxSaWdodENsb3NlIHNpemU9ezE2fSAvPgogICAgICA8L2J1dHRvbj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIFRhYkJ0bih7IGFjdGl2ZSwgb25DbGljaywgSWNvbiwgY2hpbGRyZW4gfTogewogIGFjdGl2ZTogYm9vbGVhbjsgb25DbGljazogKCkgPT4gdm9pZDsgSWNvbjogdHlwZW9mIENvZGUyOyBjaGlsZHJlbjogUmVhY3ROb2RlOwp9KSB7CiAgcmV0dXJuICgKICAgIDxidXR0b24KICAgICAgb25DbGljaz17b25DbGlja30KICAgICAgY2xhc3NOYW1lPXtgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgcm91bmRlZC1idG4gcHgtMiBweS0xICR7YWN0aXZlID8gImJnLXN1cmZhY2UgdGV4dC10ZXh0IiA6ICJ0ZXh0LW11dGVkIGhvdmVyOnRleHQtdGV4dCJ9YH0KICAgID4KICAgICAgPEljb24gc2l6ZT17MTN9IC8+IHtjaGlsZHJlbn0KICAgIDwvYnV0dG9uPgogICk7Cn0KCmZ1bmN0aW9uIENvcHlCdG4oeyB0ZXh0IH06IHsgdGV4dDogc3RyaW5nIH0pIHsKICBjb25zdCBbZG9uZSwgc2V0RG9uZV0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgcmV0dXJuICgKICAgIDxidXR0b24KICAgICAgb25DbGljaz17KCkgPT4geyB2b2lkIG5hdmlnYXRvci5jbGlwYm9hcmQud3JpdGVUZXh0KHRleHQpOyBzZXREb25lKHRydWUpOyBzZXRUaW1lb3V0KCgpID0+IHNldERvbmUoZmFsc2UpLCAxMjAwKTsgfX0KICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSByb3VuZGVkLWJ0biBweC0yIHB5LTEgdGV4dC1tdXRlZCBob3ZlcjpiZy1zdXJmYWNlLTIgaG92ZXI6dGV4dC10ZXh0IgogICAgPgogICAgICB7ZG9uZSA/IDxDaGVjayBzaXplPXsxM30gY2xhc3NOYW1lPSJ0ZXh0LXN1Y2Nlc3MiIC8+IDogPENvcHkgc2l6ZT17MTN9IC8+fQogICAgPC9idXR0b24+CiAgKTsKfQoKZnVuY3Rpb24gRG93bmxvYWRCdG4oeyBhcnRpZmFjdCB9OiB7IGFydGlmYWN0OiBBcnRpZmFjdCB9KSB7CiAgY29uc3QgZG93bmxvYWQgPSAoKSA9PiB7CiAgICBjb25zdCBibG9iID0gbmV3IEJsb2IoW2FydGlmYWN0LmNvbnRlbnRdLCB7IHR5cGU6ICJ0ZXh0L3BsYWluO2NoYXJzZXQ9dXRmLTgiIH0pOwogICAgY29uc3QgdXJsID0gVVJMLmNyZWF0ZU9iamVjdFVSTChibG9iKTsKICAgIGNvbnN0IGEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJhIik7CiAgICBhLmhyZWYgPSB1cmw7IGEuZG93bmxvYWQgPSBhcnRpZmFjdC5maWxlbmFtZTsgYS5jbGljaygpOwogICAgVVJMLnJldm9rZU9iamVjdFVSTCh1cmwpOwogIH07CiAgcmV0dXJuICgKICAgIDxidXR0b24gb25DbGljaz17ZG93bmxvYWR9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgcm91bmRlZC1idG4gcHgtMiBweS0xIHRleHQtbXV0ZWQgaG92ZXI6Ymctc3VyZmFjZS0yIGhvdmVyOnRleHQtdGV4dCI+CiAgICAgIDxEb3dubG9hZCBzaXplPXsxM30gLz4KICAgIDwvYnV0dG9uPgogICk7Cn0K
+// 工作区侧栏：展示 AI 产出的代码 artifact。
+// 「代码」tab：语法高亮 + 复制 + 下载；「预览」tab：HTML/JS 在 iframe 里跑（可视化渲染）。
+// Python 的可视化（Pyodide 浏览器内执行）留待下一步；当前 Python 的"真跑文本结果"在思考面板 VERIFY 步显示。
+import { useState, type ReactNode } from "react";
+import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
+import { oneLight, oneDark } from "react-syntax-highlighter/dist/esm/styles/prism";
+import { Copy, Download, Check, Code2, Play, PanelRightClose } from "lucide-react";
+import { useChatStore, useUIStore } from "@/stores/useStore";
+import type { Artifact } from "@/types";
+
+export function WorkspacePanel() {
+  const artifacts = useChatStore((s) => s.artifacts);
+  const theme = useUIStore((s) => s.theme);
+  const toggle = useUIStore((s) => s.toggleWorkspace);
+  const [activeIdx, setActiveIdx] = useState(0);
+  const [tab, setTab] = useState<"code" | "preview">("code");
+
+  if (artifacts.length === 0) {
+    return (
+      <aside className="hidden w-[360px] shrink-0 flex-col border-l border-border bg-surface-2/30 lg:flex">
+        <Header onClose={toggle} />
+        <div className="flex flex-1 items-center justify-center px-6 text-center text-sm text-muted">
+          工作区空闲。让代码助手写段代码，这里会出现可运行的文件卡片。
+        </div>
+      </aside>
+    );
+  }
+
+  const active = artifacts[Math.min(activeIdx, artifacts.length - 1)];
+  const canPreview = active.language === "html";
+
+  return (
+    <aside className="hidden w-[360px] shrink-0 flex-col border-l border-border bg-surface-2/30 lg:flex">
+      <Header onClose={toggle} />
+
+      {/* 文件标签条 */}
+      <div className="flex gap-1 overflow-x-auto border-b border-border px-2 py-1.5">
+        {artifacts.map((a, i) => (
+          <button
+            key={a.filename}
+            onClick={() => { setActiveIdx(i); setTab("code"); }}
+            className={`flex shrink-0 items-center gap-1 rounded-btn px-2 py-1 text-xs ${
+              i === activeIdx ? "bg-surface text-text" : "text-muted hover:text-text"
+            }`}
+          >
+            <span>{a.icon}</span>{a.filename}
+          </button>
+        ))}
+      </div>
+
+      {/* 代码/预览 切换 */}
+      <div className="flex items-center gap-1 border-b border-border px-3 py-1.5 text-xs">
+        <TabBtn active={tab === "code"} onClick={() => setTab("code")} Icon={Code2}>代码</TabBtn>
+        {canPreview && <TabBtn active={tab === "preview"} onClick={() => setTab("preview")} Icon={Play}>预览</TabBtn>}
+        <div className="ml-auto flex gap-1">
+          <CopyBtn text={active.content} />
+          <DownloadBtn artifact={active} />
+        </div>
+      </div>
+
+      {/* 内容 */}
+      <div className="min-h-0 flex-1 overflow-auto">
+        {tab === "preview" && canPreview ? (
+          <iframe
+            title="preview"
+            sandbox="allow-scripts"
+            srcDoc={active.content}
+            className="h-full w-full bg-white"
+          />
+        ) : (
+          <SyntaxHighlighter
+            language={active.language}
+            style={theme === "dark" ? oneDark : oneLight}
+            customStyle={{ margin: 0, background: "transparent", fontSize: 13, padding: "12px 14px" }}
+            wrapLongLines
+          >
+            {active.content}
+          </SyntaxHighlighter>
+        )}
+      </div>
+    </aside>
+  );
+}
+
+function Header({ onClose }: { onClose: () => void }) {
+  return (
+    <div className="flex items-center gap-2 border-b border-border px-4 py-2.5">
+      <Code2 size={16} className="text-accent" />
+      <span className="text-sm font-medium">工作区</span>
+      <button onClick={onClose} className="ml-auto rounded-md p-1 text-muted hover:bg-surface-2 hover:text-text" aria-label="关闭工作区">
+        <PanelRightClose size={16} />
+      </button>
+    </div>
+  );
+}
+
+function TabBtn({ active, onClick, Icon, children }: {
+  active: boolean; onClick: () => void; Icon: typeof Code2; children: ReactNode;
+}) {
+  return (
+    <button
+      onClick={onClick}
+      className={`flex items-center gap-1 rounded-btn px-2 py-1 ${active ? "bg-surface text-text" : "text-muted hover:text-text"}`}
+    >
+      <Icon size={13} /> {children}
+    </button>
+  );
+}
+
+function CopyBtn({ text }: { text: string }) {
+  const [done, setDone] = useState(false);
+  return (
+    <button
+      onClick={() => { void navigator.clipboard.writeText(text); setDone(true); setTimeout(() => setDone(false), 1200); }}
+      className="flex items-center gap-1 rounded-btn px-2 py-1 text-muted hover:bg-surface-2 hover:text-text"
+    >
+      {done ? <Check size={13} className="text-success" /> : <Copy size={13} />}
+    </button>
+  );
+}
+
+function DownloadBtn({ artifact }: { artifact: Artifact }) {
+  const download = () => {
+    const blob = new Blob([artifact.content], { type: "text/plain;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = artifact.filename; a.click();
+    URL.revokeObjectURL(url);
+  };
+  return (
+    <button onClick={download} className="flex items-center gap-1 rounded-btn px-2 py-1 text-muted hover:bg-surface-2 hover:text-text">
+      <Download size={13} />
+    </button>
+  );
+}

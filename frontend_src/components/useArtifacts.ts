@@ -1,1 +1,30 @@
-Ly8gdXNlQXJ0aWZhY3RzLnRzIOKAlCDku44gL3YyIOWTjeW6lOmHjOWPluWHuiBhcnRpZmFjdHPvvIzlloLnu5kgQXJ0aWZhY3RQYW5lbOOAggovLyAvdjIg5a6e6ZmF5a2X5q615Li6IHhfc2hhbmdhbl9hcnRpZmFjdHPvvIjogIHlkI3vvInjgILmiorlroPljZXni6zmir3miJAgaG9va++8jAovLyDov5nmoLcgQ2hhdFZpZXcg5Y+q6ZyA5Lik6KGM5bCx6IO95o6l5LiK77yM5LqS5LiN5rGh5p+T44CCCgppbXBvcnQgeyB1c2VTdGF0ZSwgdXNlQ2FsbGJhY2sgfSBmcm9tICJyZWFjdCI7CgpleHBvcnQgaW50ZXJmYWNlIEFydGlmYWN0IHsKICBpZDogc3RyaW5nOwogIHR5cGU6IHN0cmluZzsgICAgICAgIC8vIGNvZGUgfCB0YWJsZSB8IG1hcmtkb3duIHwgY2FsYyB8IG1lcm1haWQgfCAuLi4KICB0aXRsZTogc3RyaW5nOwogIGxhbmc/OiBzdHJpbmc7CiAgY29udGVudDogc3RyaW5nOwp9CgovKiog5LuO5LiA5p2hIC92MiBjaGF0IOWTjeW6lOmHjOivuyBhcnRpZmFjdHPvvIjlhbzlrrnnvLrlrZfmrrUgLyDogIHlrZfmrrXlkI3vvInjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIGV4dHJhY3RBcnRpZmFjdHMocmVzcDogYW55KTogQXJ0aWZhY3RbXSB7CiAgY29uc3QgcmF3ID0gcmVzcD8ueF9zaGFuZ2FuX2FydGlmYWN0cyA/PyByZXNwPy54X3BsYXRmb3JtX2FydGlmYWN0cyA/PyBbXTsKICByZXR1cm4gQXJyYXkuaXNBcnJheShyYXcpID8gKHJhdyBhcyBBcnRpZmFjdFtdKSA6IFtdOwp9CgovKiogQ2hhdFZpZXcg6YeM55So77ya5ou/5Yiw5ZON5bqU5ZCO6LCD55SoIHNldEZyb21SZXNwb25zZShyZXNwKSDljbPlj6/pqbHliqjpnaLmnb/jgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIHVzZUFydGlmYWN0cygpIHsKICBjb25zdCBbYXJ0aWZhY3RzLCBzZXRBcnRpZmFjdHNdID0gdXNlU3RhdGU8QXJ0aWZhY3RbXT4oW10pOwogIGNvbnN0IHNldEZyb21SZXNwb25zZSA9IHVzZUNhbGxiYWNrKChyZXNwOiBhbnkpID0+IHsKICAgIGNvbnN0IGFydHMgPSBleHRyYWN0QXJ0aWZhY3RzKHJlc3ApOwogICAgaWYgKGFydHMubGVuZ3RoKSBzZXRBcnRpZmFjdHMoYXJ0cyk7ICAgLy8g5Y+q5pyJ6L+Z5p2h5raI5oGv55yf5pyJIGFydGlmYWN0IOaJjeabtOaWsO+8jOS/neeVmeS4iuS4gOadoQogIH0sIFtdKTsKICBjb25zdCBjbGVhciA9IHVzZUNhbGxiYWNrKCgpID0+IHNldEFydGlmYWN0cyhbXSksIFtdKTsKICByZXR1cm4geyBhcnRpZmFjdHMsIHNldEZyb21SZXNwb25zZSwgY2xlYXIgfTsKfQo=
+// useArtifacts.ts — 从 /v2 响应里取出 artifacts，喂给 ArtifactPanel。
+// /v2 实际字段为 x_shangan_artifacts（老名）。把它单独抽成 hook，
+// 这样 ChatView 只需两行就能接上，互不污染。
+
+import { useState, useCallback } from "react";
+
+export interface Artifact {
+  id: string;
+  type: string;        // code | table | markdown | calc | mermaid | ...
+  title: string;
+  lang?: string;
+  content: string;
+}
+
+/** 从一条 /v2 chat 响应里读 artifacts（兼容缺字段 / 老字段名）。 */
+export function extractArtifacts(resp: any): Artifact[] {
+  const raw = resp?.x_shangan_artifacts ?? resp?.x_platform_artifacts ?? [];
+  return Array.isArray(raw) ? (raw as Artifact[]) : [];
+}
+
+/** ChatView 里用：拿到响应后调用 setFromResponse(resp) 即可驱动面板。 */
+export function useArtifacts() {
+  const [artifacts, setArtifacts] = useState<Artifact[]>([]);
+  const setFromResponse = useCallback((resp: any) => {
+    const arts = extractArtifacts(resp);
+    if (arts.length) setArtifacts(arts);   // 只有这条消息真有 artifact 才更新，保留上一条
+  }, []);
+  const clear = useCallback(() => setArtifacts([]), []);
+  return { artifacts, setFromResponse, clear };
+}

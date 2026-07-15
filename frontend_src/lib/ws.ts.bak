@@ -1,1 +1,76 @@
-Ly8gV2ViU29ja2V0IOWwgeijheOAgui/nuaOpSB3czovL3tob3N0fTo5MDAwL3YxL2NoYXQvc3RyZWFt77yM5YiG5Y+RIHRyYWNlIC8gZGVsdGEgLyBkb25l44CCCmltcG9ydCB0eXBlIHsgV3NFdmVudCB9IGZyb20gIkAvdHlwZXMiOwppbXBvcnQgeyBjdXJyZW50VG9rZW4gfSBmcm9tICJAL3N0b3Jlcy91c2VBdXRoU3RvcmUiOwoKZXhwb3J0IGludGVyZmFjZSBDaGF0SGFuZGxlcnMgewogIG9uVHJhY2U6IChmcmFtZTogRXh0cmFjdDxXc0V2ZW50LCB7IGV2ZW50OiAidHJhY2UiIH0+WyJmcmFtZSJdKSA9PiB2b2lkOwogIG9uRGVsdGE6ICh0ZXh0OiBzdHJpbmcpID0+IHZvaWQ7CiAgb25BcnRpZmFjdDogKGE6IEV4dHJhY3Q8V3NFdmVudCwgeyBldmVudDogImFydGlmYWN0IiB9PikgPT4gdm9pZDsKICBvbkRvbmU6ICh0aWVyPzogc3RyaW5nLCBsYXRlbmN5TXM/OiBudW1iZXIpID0+IHZvaWQ7CiAgb25FcnJvcjogKG1lc3NhZ2U6IHN0cmluZykgPT4gdm9pZDsKfQoKZnVuY3Rpb24gd3NVcmwoKTogc3RyaW5nIHsKICAvLyDlkIzmupDotbDku6PnkIbvvJt2aXRlIOS7o+eQhuW3suW8gOWQryB3czp0cnVl44CC55Sf5Lqn5Y+v5pS557ud5a+55Zyw5Z2A44CCCiAgY29uc3QgcHJvdG8gPSBsb2NhdGlvbi5wcm90b2NvbCA9PT0gImh0dHBzOiIgPyAid3NzIiA6ICJ3cyI7CiAgcmV0dXJuIGAke3Byb3RvfTovLyR7bG9jYXRpb24uaG9zdH0vdjEvY2hhdC9zdHJlYW1gOwp9CgovKioKICog5Y+R6LW35LiA5qyh5rWB5byP5a+56K+d44CC6L+U5Zue5LiA5LiqIGNsb3NlKCkg55So5LqO5Lit5pat44CCCiAqIOWQjuerr+S4jeWPr+eUqOaXtuinpuWPkSBvbkVycm9y77yM55Sx6LCD55So5pa56LWw6ZmN57qn77yI5qih5ouf5rWB5byP77yJ44CCCiAqLwpleHBvcnQgZnVuY3Rpb24gc3RyZWFtQ2hhdCgKICBwYXlsb2FkOiB7IG1lc3NhZ2U6IHN0cmluZzsgYWdlbnRfaWQ6IHN0cmluZzsgc2Vzc2lvbl9pZDogc3RyaW5nIH0sCiAgaDogQ2hhdEhhbmRsZXJzCik6ICgpID0+IHZvaWQgewogIGxldCB3czogV2ViU29ja2V0IHwgbnVsbCA9IG51bGw7CiAgbGV0IGNsb3NlZCA9IGZhbHNlOwoKICB0cnkgewogICAgd3MgPSBuZXcgV2ViU29ja2V0KHdzVXJsKCkpOwogIH0gY2F0Y2ggewogICAgaC5vbkVycm9yKCLml6Dms5Xlu7rnq4sgV2ViU29ja2V0IOi/nuaOpSIpOwogICAgcmV0dXJuICgpID0+IHt9OwogIH0KCiAgY29uc3QgdGltZW91dCA9IHdpbmRvdy5zZXRUaW1lb3V0KCgpID0+IHsKICAgIGlmICh3cyAmJiB3cy5yZWFkeVN0YXRlICE9PSBXZWJTb2NrZXQuT1BFTikgewogICAgICB3cy5jbG9zZSgpOwogICAgICBpZiAoIWNsb3NlZCkgaC5vbkVycm9yKCLov57mjqXotoXml7YiKTsKICAgIH0KICB9LCA0MDAwKTsKCiAgd3Mub25vcGVuID0gKCkgPT4gewogICAgd2luZG93LmNsZWFyVGltZW91dCh0aW1lb3V0KTsKICAgIGNvbnN0IHRva2VuID0gY3VycmVudFRva2VuKCk7CiAgICB3cz8uc2VuZChKU09OLnN0cmluZ2lmeSh0b2tlbiA/IHsgLi4ucGF5bG9hZCwgdG9rZW4gfSA6IHBheWxvYWQpKTsKICB9OwoKICB3cy5vbm1lc3NhZ2UgPSAoZXYpID0+IHsKICAgIGxldCBtc2c6IFdzRXZlbnQ7CiAgICB0cnkgewogICAgICBtc2cgPSBKU09OLnBhcnNlKGV2LmRhdGEpIGFzIFdzRXZlbnQ7CiAgICB9IGNhdGNoIHsKICAgICAgcmV0dXJuOyAvLyDlv73nlaXlnY/luKcKICAgIH0KICAgIGlmIChtc2cuZXZlbnQgPT09ICJ0cmFjZSIpIGgub25UcmFjZShtc2cuZnJhbWUpOwogICAgZWxzZSBpZiAobXNnLmV2ZW50ID09PSAiZGVsdGEiKSBoLm9uRGVsdGEobXNnLnRleHQpOwogICAgZWxzZSBpZiAobXNnLmV2ZW50ID09PSAiYXJ0aWZhY3QiKSBoLm9uQXJ0aWZhY3QobXNnKTsKICAgIGVsc2UgaWYgKG1zZy5ldmVudCA9PT0gImRvbmUiKSB7CiAgICAgIGgub25Eb25lKG1zZy50aWVyLCBtc2cubGF0ZW5jeV9tcyk7CiAgICAgIHdzPy5jbG9zZSgpOwogICAgfQogIH07CgogIHdzLm9uZXJyb3IgPSAoKSA9PiB7CiAgICB3aW5kb3cuY2xlYXJUaW1lb3V0KHRpbWVvdXQpOwogICAgaWYgKCFjbG9zZWQpIGgub25FcnJvcigiV2ViU29ja2V0IOi/nuaOpemUmeivryIpOwogIH07CgogIHJldHVybiAoKSA9PiB7CiAgICBjbG9zZWQgPSB0cnVlOwogICAgd2luZG93LmNsZWFyVGltZW91dCh0aW1lb3V0KTsKICAgIHdzPy5jbG9zZSgpOwogIH07Cn0K
+// WebSocket 封装。连接 ws://{host}:9000/v1/chat/stream，分发 trace / delta / done。
+import type { WsEvent } from "@/types";
+import { currentToken } from "@/stores/useAuthStore";
+
+export interface ChatHandlers {
+  onTrace: (frame: Extract<WsEvent, { event: "trace" }>["frame"]) => void;
+  onDelta: (text: string) => void;
+  onArtifact: (a: Extract<WsEvent, { event: "artifact" }>) => void;
+  onDone: (tier?: string, latencyMs?: number) => void;
+  onError: (message: string) => void;
+}
+
+function wsUrl(): string {
+  // 同源走代理；vite 代理已开启 ws:true。生产可改绝对地址。
+  const proto = location.protocol === "https:" ? "wss" : "ws";
+  return `${proto}://${location.host}/v1/chat/stream`;
+}
+
+/**
+ * 发起一次流式对话。返回一个 close() 用于中断。
+ * 后端不可用时触发 onError，由调用方走降级（模拟流式）。
+ */
+export function streamChat(
+  payload: { message: string; agent_id: string; session_id: string },
+  h: ChatHandlers
+): () => void {
+  let ws: WebSocket | null = null;
+  let closed = false;
+
+  try {
+    ws = new WebSocket(wsUrl());
+  } catch {
+    h.onError("无法建立 WebSocket 连接");
+    return () => {};
+  }
+
+  const timeout = window.setTimeout(() => {
+    if (ws && ws.readyState !== WebSocket.OPEN) {
+      ws.close();
+      if (!closed) h.onError("连接超时");
+    }
+  }, 4000);
+
+  ws.onopen = () => {
+    window.clearTimeout(timeout);
+    const token = currentToken();
+    ws?.send(JSON.stringify(token ? { ...payload, token } : payload));
+  };
+
+  ws.onmessage = (ev) => {
+    let msg: WsEvent;
+    try {
+      msg = JSON.parse(ev.data) as WsEvent;
+    } catch {
+      return; // 忽略坏帧
+    }
+    if (msg.event === "trace") h.onTrace(msg.frame);
+    else if (msg.event === "delta") h.onDelta(msg.text);
+    else if (msg.event === "artifact") h.onArtifact(msg);
+    else if (msg.event === "done") {
+      h.onDone(msg.tier, msg.latency_ms);
+      ws?.close();
+    }
+  };
+
+  ws.onerror = () => {
+    window.clearTimeout(timeout);
+    if (!closed) h.onError("WebSocket 连接错误");
+  };
+
+  return () => {
+    closed = true;
+    window.clearTimeout(timeout);
+    ws?.close();
+  };
+}

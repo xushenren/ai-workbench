@@ -1,1 +1,157 @@
-Ly8gd3MudHMg4oCUIOaVsOaNruWxgijmm7/mjaLljp8gV2ViU29ja2V0IOeJiCnjgIIKLy8g5pS55Li66LCD55yf5a6e55qEIC92Mi9jaGF0L2NvbXBsZXRpb25zKOmdnua1geW8jyBPcGVuQUkg5YW85a65KSzlubbmiorov5Tlm57mmKDlsITmiJAKLy8g5Y6f5pyJ5Zue6LCDIG9uVHJhY2Uvb25EZWx0YS9vbkFydGlmYWN0L29uRG9uZSzmiYDku6UgdXNlU3RvcmUudHMg55qEIHNlbmRNZXNzYWdlIOS4gOihjOmDveS4jeeUqOaUueOAggovLyDlpLHotKXku43op6blj5Egb25FcnJvciDihpIg5LiK5bGC6LWw56a757q/5ryU56S644CCCmltcG9ydCB0eXBlIHsgV3NFdmVudCwgUHVibGljVHJhY2VGcmFtZSB9IGZyb20gIkAvdHlwZXMiOwppbXBvcnQgeyBjdXJyZW50VG9rZW4gfSBmcm9tICJAL3N0b3Jlcy91c2VBdXRoU3RvcmUiOwoKZXhwb3J0IGludGVyZmFjZSBDaGF0SGFuZGxlcnMgewogIG9uVHJhY2U6IChmcmFtZTogUHVibGljVHJhY2VGcmFtZSkgPT4gdm9pZDsKICBvbkRlbHRhOiAodGV4dDogc3RyaW5nKSA9PiB2b2lkOwogIG9uQXJ0aWZhY3Q6IChhOiBFeHRyYWN0PFdzRXZlbnQsIHsgZXZlbnQ6ICJhcnRpZmFjdCIgfT4pID0+IHZvaWQ7CiAgb25Eb25lOiAodGllcj86IHN0cmluZywgbGF0ZW5jeU1zPzogbnVtYmVyLCBtZXRhPzogYW55KSA9PiB2b2lkOwogIG9uRXJyb3I6IChtZXNzYWdlOiBzdHJpbmcpID0+IHZvaWQ7Cn0KCmNvbnN0IEVORFBPSU5UID0gIi92Mi9jaGF0L2NvbXBsZXRpb25zIjsKCi8qKiDlj5HotbfkuIDmrKHlr7nor53jgILov5Tlm54gY2xvc2UoKSDnlKjkuo7kuK3mlq0o5omT5a2X5qih5oufICsg572R57uc6K+35rGC6YO95Lya6KKr5Y+W5raIKeOAgiAqLwpleHBvcnQgZnVuY3Rpb24gc3RyZWFtQ2hhdCgKICBwYXlsb2FkOiB7IG1lc3NhZ2U6IHN0cmluZzsgYWdlbnRfaWQ6IHN0cmluZzsgc2Vzc2lvbl9pZDogc3RyaW5nOyBtb2RlbD86IHN0cmluZyB9LAogIGg6IENoYXRIYW5kbGVycwopOiAoKSA9PiB2b2lkIHsKICBjb25zdCBjdHJsID0gbmV3IEFib3J0Q29udHJvbGxlcigpOwogIGxldCBjYW5jZWxsZWQgPSBmYWxzZTsKICBsZXQgdHlwaW5nVGltZXI6IG51bWJlciB8IHVuZGVmaW5lZDsKCiAgKGFzeW5jICgpID0+IHsKICAgIGxldCBkYXRhOiBhbnk7CiAgICB0cnkgewogICAgICBjb25zdCB0b2tlbiA9IGN1cnJlbnRUb2tlbigpOwogICAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChFTkRQT0lOVCwgewogICAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgICAuLi4odG9rZW4gPyB7IEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHt0b2tlbn1gIH0gOiB7fSksCiAgICAgICAgICAiWC1Db252ZXJzYXRpb24tSWQiOiBwYXlsb2FkLnNlc3Npb25faWQsCiAgICAgICAgICAiWC1BZ2VudC1JZCI6IHBheWxvYWQuYWdlbnRfaWQsCiAgICAgICAgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IG1lc3NhZ2VzOiBbeyByb2xlOiAidXNlciIsIGNvbnRlbnQ6IHBheWxvYWQubWVzc2FnZSB9XSwgbW9kZWw6IHBheWxvYWQubW9kZWwgfSksCiAgICAgICAgc2lnbmFsOiBjdHJsLnNpZ25hbCwKICAgICAgfSk7CiAgICAgIGlmICghcmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYEhUVFAgJHtyZXMuc3RhdHVzfWApOwogICAgICBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTsKICAgIH0gY2F0Y2ggKGU6IGFueSkgewogICAgICBpZiAoIWNhbmNlbGxlZCkgaC5vbkVycm9yKGU/Lm1lc3NhZ2UgfHwgIuivt+axguWksei0pSIpOwogICAgICByZXR1cm47CiAgICB9CiAgICBpZiAoY2FuY2VsbGVkKSByZXR1cm47CgogICAgLy8gMSkg5oCd6ICD6L+H56iL77ya55SoIHhfc2hhbmdhbl9tZXRhIOWQiOaIkOWHoOW4pwogICAgZnJhbWVzRnJvbU1ldGEoZGF0YT8ueF9zaGFuZ2FuX21ldGEpLmZvckVhY2goaC5vblRyYWNlKTsKCiAgICAvLyAyKSDmraPmlofvvJrljrvmjokg4p+mYXJ0aWZhY3Q6SUTin6cg5Y2g5L2N5qCH6K6wLOWGjeaooeaLn+aJk+Wtl+a1geW8jwogICAgY29uc3QgcmF3OiBzdHJpbmcgPSBkYXRhPy5jaG9pY2VzPy5bMF0/Lm1lc3NhZ2U/LmNvbnRlbnQgPz8gIiI7CiAgICBjb25zdCB0ZXh0ID0gc3RyaXBBcnRpZmFjdE1hcmtlcnMocmF3KTsKCiAgICAvLyAzKSBhcnRpZmFjdHPvvJrmmKDlsITmiJDlt6XkvZzljLrnu5PmnoQKICAgIGNvbnN0IGFydHM6IGFueVtdID0gQXJyYXkuaXNBcnJheShkYXRhPy54X3NoYW5nYW5fYXJ0aWZhY3RzKSA/IGRhdGEueF9zaGFuZ2FuX2FydGlmYWN0cyA6IFtdOwogICAgY29uc3QgbWV0YSA9IHsgLi4uKGRhdGE/Lnhfc2hhbmdhbl9tZXRhIHx8IHt9KSwgY2FjaGVfaGl0OiBkYXRhPy54X3NoYW5nYW5fY2FjaGUgPT09ICJoaXQiIH07CgogICAgdHlwZU91dCh0ZXh0LCBoLm9uRGVsdGEsICgpID0+IHsKICAgICAgaWYgKGNhbmNlbGxlZCkgcmV0dXJuOwogICAgICBhcnRzLmZvckVhY2goKGEpID0+IGgub25BcnRpZmFjdCh0b1dvcmtzcGFjZUFydGlmYWN0KGEpKSk7CiAgICAgIGgub25Eb25lKG1ldGE/LmRpZmZpY3VsdHkgPz8gbWV0YT8ubW9kZWwsIGRhdGE/LnVzYWdlPy50b3RhbF90b2tlbnMsIG1ldGEpOwogICAgfSwgKHQpID0+ICh0eXBpbmdUaW1lciA9IHQpLCAoKSA9PiBjYW5jZWxsZWQpOwogIH0pKCk7CgogIHJldHVybiAoKSA9PiB7CiAgICBjYW5jZWxsZWQgPSB0cnVlOwogICAgY3RybC5hYm9ydCgpOwogICAgaWYgKHR5cGluZ1RpbWVyKSB3aW5kb3cuY2xlYXJUaW1lb3V0KHR5cGluZ1RpbWVyKTsKICB9Owp9CgovKiAtLS0tLS0tLS0tLS0tLS0tLSDmmKDlsITlt6XlhbcgLS0tLS0tLS0tLS0tLS0tLS0gKi8KCi8vIC92MiBhcnRpZmFjdCB7aWQsdHlwZSx0aXRsZSxsYW5nLGNvbnRlbnR9IOKGkiAvYXBwIHtmaWxlbmFtZSxsYW5ndWFnZSxjb250ZW50LGljb24scnVubmFibGV9CmZ1bmN0aW9uIHRvV29ya3NwYWNlQXJ0aWZhY3QoYTogYW55KTogRXh0cmFjdDxXc0V2ZW50LCB7IGV2ZW50OiAiYXJ0aWZhY3QiIH0+IHsKICBjb25zdCBsYW5nID0gKGEubGFuZyB8fCBhLnR5cGUgfHwgInRleHQiKS50b0xvd2VyQ2FzZSgpOwogIGNvbnN0IHRpdGxlID0gKGEudGl0bGUgfHwgYS5pZCB8fCAiYXJ0aWZhY3QiKS50b1N0cmluZygpOwogIGNvbnN0IGZpbGVuYW1lID0gL1wuXHcrJC8udGVzdCh0aXRsZSkgPyB0aXRsZSA6IGAke3RpdGxlfSR7ZXh0Rm9yKGxhbmcpfWA7CiAgcmV0dXJuIHsKICAgIGV2ZW50OiAiYXJ0aWZhY3QiLAogICAgZmlsZW5hbWUsCiAgICBsYW5ndWFnZTogbGFuZywKICAgIGNvbnRlbnQ6IGEuY29udGVudCA/PyAiIiwKICAgIGljb246IGljb25Gb3IobGFuZyksCiAgICBydW5uYWJsZTogbGFuZyA9PT0gImh0bWwiLAogIH07Cn0KCmZ1bmN0aW9uIGV4dEZvcihsYW5nOiBzdHJpbmcpOiBzdHJpbmcgewogIGNvbnN0IG06IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7CiAgICBweXRob246ICIucHkiLCBqYXZhc2NyaXB0OiAiLmpzIiwganM6ICIuanMiLCB0eXBlc2NyaXB0OiAiLnRzIiwgdHM6ICIudHMiLAogICAgaHRtbDogIi5odG1sIiwgY3NzOiAiLmNzcyIsIGpzb246ICIuanNvbiIsIGJhc2g6ICIuc2giLCBzaGVsbDogIi5zaCIsCiAgICBzcWw6ICIuc3FsIiwgbWFya2Rvd246ICIubWQiLCB5YW1sOiAiLnlhbWwiLCBqYXZhOiAiLmphdmEiLCBnbzogIi5nbyIsCiAgfTsKICByZXR1cm4gbVtsYW5nXSA/PyAiLnR4dCI7Cn0KZnVuY3Rpb24gaWNvbkZvcihsYW5nOiBzdHJpbmcpOiBzdHJpbmcgewogIGlmIChsYW5nID09PSAicHl0aG9uIikgcmV0dXJuICLwn5CNIjsKICBpZiAobGFuZyA9PT0gImh0bWwiKSByZXR1cm4gIvCfjJAiOwogIGlmIChbImpzIiwgImphdmFzY3JpcHQiLCAidHMiLCAidHlwZXNjcmlwdCJdLmluY2x1ZGVzKGxhbmcpKSByZXR1cm4gIvCfk5wiOwogIGlmIChsYW5nID09PSAianNvbiIgfHwgbGFuZyA9PT0gInlhbWwiKSByZXR1cm4gIvCfp74iOwogIGlmIChsYW5nID09PSAic3FsIikgcmV0dXJuICLwn5eE77iPIjsKICBpZiAoWyJ0YWJsZSIsICJjc3YiXS5pbmNsdWRlcyhsYW5nKSkgcmV0dXJuICLwn5OKIjsKICByZXR1cm4gIvCfk4QiOwp9CgovLyDljrvmjonmraPmlofph4znmoQg4p+mYXJ0aWZhY3Q6SUTin6cg5Y2g5L2N5pW06KGMKGFydGlmYWN0IOW3suWcqOWPs+S+p+W3peS9nOWMuuWNleeLrOWxleekuikKZnVuY3Rpb24gc3RyaXBBcnRpZmFjdE1hcmtlcnMoczogc3RyaW5nKTogc3RyaW5nIHsKICByZXR1cm4gcy5yZXBsYWNlKC9eXHMq4p+mYXJ0aWZhY3Q6W17in6ddK+Kfp1xzKiQvZ20sICIiKS5yZXBsYWNlKC/in6ZhcnRpZmFjdDpbXuKfp10r4p+nL2csICIiKS5yZXBsYWNlKC9cbnszLH0vZywgIlxuXG4iKS50cmltKCk7Cn0KCi8vIHhfc2hhbmdhbl9tZXRhIOKGkiDmgJ3ogIPluKcKZnVuY3Rpb24gZnJhbWVzRnJvbU1ldGEobWV0YTogYW55KTogUHVibGljVHJhY2VGcmFtZVtdIHsKICBpZiAoIW1ldGEpIHJldHVybiBbXTsKICBjb25zdCBmOiBQdWJsaWNUcmFjZUZyYW1lW10gPSBbXTsKICBjb25zdCByb3V0ZSA9CiAgICBBcnJheS5pc0FycmF5KG1ldGEuZXhwZXJ0cykgJiYgbWV0YS5leHBlcnRzLmxlbmd0aAogICAgICA/IGDpoobln5/ot6/nlLHvvJoke21ldGEuZXhwZXJ0cy5qb2luKCLjgIEiKX1gCiAgICAgIDogYOmihuWfn+i3r+eUse+8miR7bWV0YS5yb3V0ZV9sZXZlbCA/PyAi6YCa55SoIn1gOwogIGYucHVzaCh7IHN0YWdlOiAiY29udGV4dCIsIHR5cGU6ICJyb3V0ZSIsIGRpc3BsYXk6IGAke3JvdXRlfe+8iOmavuW6pu+8miR7bWV0YS5kaWZmaWN1bHR5ID8/ICLigJQife+8iWAsIHN0YXR1czogImRvbmUiIH0pOwogIGNvbnN0IHNnID0gbWV0YS5zZWN1cmVndWFyZDsKICBpZiAoc2cpIHsKICAgIGNvbnN0IHBhc3MgPSBzZy5pbiA9PT0gImFsbG93IiAmJiBzZy5vdXQgPT09ICJhbGxvdyI7CiAgICBmLnB1c2goewogICAgICBzdGFnZTogImhhcm5lc3MiLCB0eXBlOiAiZ2F0ZSIsCiAgICAgIGRpc3BsYXk6IHBhc3MgPyAi4pyTIOWuieWFqOajgOafpemAmui/h++8iOWFpeermS/lh7rnq5nvvIkiIDogYOWuieWFqOWkhOe9ru+8muWFpeermSAke3NnLmlufSAvIOWHuuermSAke3NnLm91dH1gLAogICAgICBzdGF0dXM6IHBhc3MgPyAiZG9uZSIgOiAiYmxvY2tlZCIsCiAgICB9KTsKICB9CiAgaWYgKG1ldGEuc291cmNlcykgZi5wdXNoKHsgc3RhZ2U6ICJ0b29sIiwgdHlwZTogInRvb2xfY2FsbCIsIGRpc3BsYXk6IGDmo4DntKLliLAgJHttZXRhLnNvdXJjZXN9IOadoeadpea6kGAsIHN0YXR1czogImRvbmUiIH0pOwogIGlmIChtZXRhLmN0eF9jb21wcmVzc2VkKSBmLnB1c2goeyBzdGFnZTogInRoaW5rIiwgdHlwZTogInJlYXNvbiIsIGRpc3BsYXk6ICLkuIrkuIvmloflt7LljovnvKkiLCBzdGF0dXM6ICJkb25lIiB9KTsKICBpZiAobWV0YS5tb2RlbCkgZi5wdXNoKHsgc3RhZ2U6ICJsbG0iLCB0eXBlOiAicm91dGUiLCBkaXNwbGF5OiBg5qih5Z6L77yaJHttZXRhLm1vZGVsfWAsIHN0YXR1czogImRvbmUiLCB0aWVyOiBtZXRhLnJvdXRlX2xldmVsIH0pOwogIGYucHVzaCh7IHN0YWdlOiAiYXVkaXQiLCB0eXBlOiAiYXVkaXQiLCBkaXNwbGF5OiAi5a6h6K6h5bey6K6w5b2V77yI5ZOI5biM6ZO+77yJIiwgc3RhdHVzOiAiZG9uZSIgfSk7CiAgcmV0dXJuIGY7Cn0KCi8vIOaKiuaVtOauteaWh+acrOWIhuWdlyzmqKHmi5/miZPlrZfmnLrmtYHlvI8KZnVuY3Rpb24gdHlwZU91dCgKICB0ZXh0OiBzdHJpbmcsIG9uRGVsdGE6ICh0OiBzdHJpbmcpID0+IHZvaWQsIGRvbmU6ICgpID0+IHZvaWQsCiAgc2V0VGltZXI6ICh0OiBudW1iZXIpID0+IHZvaWQsIGlzQ2FuY2VsbGVkOiAoKSA9PiBib29sZWFuCikgewogIGNvbnN0IHRva2VucyA9IHRleHQubWF0Y2goL1tcc1xTXXsxLDN9L2cpID8/IFtdOwogIGxldCBpID0gMDsKICBjb25zdCB0aWNrID0gKCkgPT4gewogICAgaWYgKGlzQ2FuY2VsbGVkKCkpIHJldHVybjsKICAgIGlmIChpIDwgdG9rZW5zLmxlbmd0aCkgewogICAgICBvbkRlbHRhKHRva2Vuc1tpKytdKTsKICAgICAgc2V0VGltZXIod2luZG93LnNldFRpbWVvdXQodGljaywgMTIpKTsKICAgIH0gZWxzZSB7CiAgICAgIGRvbmUoKTsKICAgIH0KICB9OwogIHRpY2soKTsKfQo=
+// ws.ts — 数据层(替换原 WebSocket 版)。
+// 改为调真实的 /v2/chat/completions(非流式 OpenAI 兼容),并把返回映射成
+// 原有回调 onTrace/onDelta/onArtifact/onDone,所以 useStore.ts 的 sendMessage 一行都不用改。
+// 失败仍触发 onError → 上层走离线演示。
+import type { WsEvent, PublicTraceFrame } from "@/types";
+import { currentToken } from "@/stores/useAuthStore";
+
+export interface ChatHandlers {
+  onTrace: (frame: PublicTraceFrame) => void;
+  onDelta: (text: string) => void;
+  onArtifact: (a: Extract<WsEvent, { event: "artifact" }>) => void;
+  onDone: (tier?: string, latencyMs?: number, meta?: any) => void;
+  onError: (message: string) => void;
+}
+
+const ENDPOINT = "/v2/chat/completions";
+
+/** 发起一次对话。返回 close() 用于中断(打字模拟 + 网络请求都会被取消)。 */
+export function streamChat(
+  payload: { message: string; agent_id: string; session_id: string; model?: string },
+  h: ChatHandlers
+): () => void {
+  const ctrl = new AbortController();
+  let cancelled = false;
+  let typingTimer: number | undefined;
+
+  (async () => {
+    let data: any;
+    try {
+      const token = currentToken();
+      const res = await fetch(ENDPOINT, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          ...(token ? { Authorization: `Bearer ${token}` } : {}),
+          "X-Conversation-Id": payload.session_id,
+          "X-Agent-Id": payload.agent_id,
+        },
+        body: JSON.stringify({ messages: [{ role: "user", content: payload.message }], model: payload.model }),
+        signal: ctrl.signal,
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      data = await res.json();
+    } catch (e: any) {
+      if (!cancelled) h.onError(e?.message || "请求失败");
+      return;
+    }
+    if (cancelled) return;
+
+    // 1) 思考过程：用 x_shangan_meta 合成几帧
+    framesFromMeta(data?.x_shangan_meta).forEach(h.onTrace);
+
+    // 2) 正文：去掉 ⟦artifact:ID⟧ 占位标记,再模拟打字流式
+    const raw: string = data?.choices?.[0]?.message?.content ?? "";
+    const text = stripArtifactMarkers(raw);
+
+    // 3) artifacts：映射成工作区结构
+    const arts: any[] = Array.isArray(data?.x_shangan_artifacts) ? data.x_shangan_artifacts : [];
+    const meta = { ...(data?.x_shangan_meta || {}), cache_hit: data?.x_shangan_cache === "hit" };
+
+    typeOut(text, h.onDelta, () => {
+      if (cancelled) return;
+      arts.forEach((a) => h.onArtifact(toWorkspaceArtifact(a)));
+      h.onDone(meta?.difficulty ?? meta?.model, data?.usage?.total_tokens, meta);
+    }, (t) => (typingTimer = t), () => cancelled);
+  })();
+
+  return () => {
+    cancelled = true;
+    ctrl.abort();
+    if (typingTimer) window.clearTimeout(typingTimer);
+  };
+}
+
+/* ----------------- 映射工具 ----------------- */
+
+// /v2 artifact {id,type,title,lang,content} → /app {filename,language,content,icon,runnable}
+function toWorkspaceArtifact(a: any): Extract<WsEvent, { event: "artifact" }> {
+  const lang = (a.lang || a.type || "text").toLowerCase();
+  const title = (a.title || a.id || "artifact").toString();
+  const filename = /\.\w+$/.test(title) ? title : `${title}${extFor(lang)}`;
+  return {
+    event: "artifact",
+    filename,
+    language: lang,
+    content: a.content ?? "",
+    icon: iconFor(lang),
+    runnable: lang === "html",
+  };
+}
+
+function extFor(lang: string): string {
+  const m: Record<string, string> = {
+    python: ".py", javascript: ".js", js: ".js", typescript: ".ts", ts: ".ts",
+    html: ".html", css: ".css", json: ".json", bash: ".sh", shell: ".sh",
+    sql: ".sql", markdown: ".md", yaml: ".yaml", java: ".java", go: ".go",
+  };
+  return m[lang] ?? ".txt";
+}
+function iconFor(lang: string): string {
+  if (lang === "python") return "🐍";
+  if (lang === "html") return "🌐";
+  if (["js", "javascript", "ts", "typescript"].includes(lang)) return "📜";
+  if (lang === "json" || lang === "yaml") return "🧾";
+  if (lang === "sql") return "🗄️";
+  if (["table", "csv"].includes(lang)) return "📊";
+  return "📄";
+}
+
+// 去掉正文里的 ⟦artifact:ID⟧ 占位整行(artifact 已在右侧工作区单独展示)
+function stripArtifactMarkers(s: string): string {
+  return s.replace(/^\s*⟦artifact:[^⟧]+⟧\s*$/gm, "").replace(/⟦artifact:[^⟧]+⟧/g, "").replace(/\n{3,}/g, "\n\n").trim();
+}
+
+// x_shangan_meta → 思考帧
+function framesFromMeta(meta: any): PublicTraceFrame[] {
+  if (!meta) return [];
+  const f: PublicTraceFrame[] = [];
+  const route =
+    Array.isArray(meta.experts) && meta.experts.length
+      ? `领域路由：${meta.experts.join("、")}`
+      : `领域路由：${meta.route_level ?? "通用"}`;
+  f.push({ stage: "context", type: "route", display: `${route}（难度：${meta.difficulty ?? "—"}）`, status: "done" });
+  const sg = meta.secureguard;
+  if (sg) {
+    const pass = sg.in === "allow" && sg.out === "allow";
+    f.push({
+      stage: "harness", type: "gate",
+      display: pass ? "✓ 安全检查通过（入站/出站）" : `安全处置：入站 ${sg.in} / 出站 ${sg.out}`,
+      status: pass ? "done" : "blocked",
+    });
+  }
+  if (meta.sources) f.push({ stage: "tool", type: "tool_call", display: `检索到 ${meta.sources} 条来源`, status: "done" });
+  if (meta.ctx_compressed) f.push({ stage: "think", type: "reason", display: "上下文已压缩", status: "done" });
+  if (meta.model) f.push({ stage: "llm", type: "route", display: `模型：${meta.model}`, status: "done", tier: meta.route_level });
+  f.push({ stage: "audit", type: "audit", display: "审计已记录（哈希链）", status: "done" });
+  return f;
+}
+
+// 把整段文本分块,模拟打字机流式
+function typeOut(
+  text: string, onDelta: (t: string) => void, done: () => void,
+  setTimer: (t: number) => void, isCancelled: () => boolean
+) {
+  const tokens = text.match(/[\s\S]{1,3}/g) ?? [];
+  let i = 0;
+  const tick = () => {
+    if (isCancelled()) return;
+    if (i < tokens.length) {
+      onDelta(tokens[i++]);
+      setTimer(window.setTimeout(tick, 12));
+    } else {
+      done();
+    }
+  };
+  tick();
+}

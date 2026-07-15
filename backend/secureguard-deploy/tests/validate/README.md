@@ -1,1 +1,46 @@
-IyDlubPlj7Dlip/og73oh6rliqjpqozor4Eo6b6Z6Jm+55SoKQoK6ZKI5a+5ImJ1Z+WkmuOAgeW+iOWkmuWKn+iDveayoeWujOaIkCI66L+Z6ISa5pysKirnnJ/osIPmjqXlj6PjgIHnnJ/otbDmtYHnqIsqKizoh6rliqjmipPlh7oKIuayoeWunueOsCAvIOaOpeWPo+Wdj+S6hiAvIOijheS6huS4gOWNiiAvIOS4gOadoem+meS4jemAmiLjgILlj6rnlKggc3RkbGliLOaXoOmcgOijheS7u+S9leS4nOilv+OAggoKIyMg55So5rOVCuaKiiB2ZXJpZnlfZnVuY3Rpb25zLnB5ICsgY2hlY2tzLnB5ICsgZmxvd3MucHkg5pS+5ZCM55uu5b2VLOWcqOiDveiuv+mXruWQjuerr+eahOacuuWZqOS4ijoKYGBgCiMg5pa55byPMTrnm7TmjqXnu5nnrqHnkIblkZggdG9rZW4KcHl0aG9uMyB2ZXJpZnlfZnVuY3Rpb25zLnB5IC0tYmFzZSBodHRwOi8vMTI3LjAuMC4xOjkwMDIgLS10b2tlbiA8566h55CG5ZGYdG9rZW4+CgojIOaWueW8jzI657uZ6LSm5Y+35a+G56CB6Ieq5Yqo55m75b2V5Y+WIHRva2VuCnB5dGhvbjMgdmVyaWZ5X2Z1bmN0aW9ucy5weSAtLWJhc2UgaHR0cDovLzEyNy4wLjAuMTo5MDAyIC0tcGhvbmUgMTM4MDAwMDAwMDAgLS1wYXNzd29yZCA85a+G56CBPgoKIyDliqAgLS1mbG93OumineWklui3keerr+WIsOerr+a1geeoiyjkvJrlu7rlsJHph4/mtYvor5XmlbDmja4s5aaCIF9f6aqM6K+B5bqTXyDlvIDlpLTnmoTlupMpCnB5dGhvbjMgdmVyaWZ5X2Z1bmN0aW9ucy5weSAtLWJhc2UgaHR0cDovLzEyNy4wLjAuMTo5MDAyIC0tdG9rZW4gPHRva2VuPiAtLWZsb3cKCiMg5YqgIC0tanNvbjrovpPlh7ogSlNPTiDlpb3nspjotLQKYGBgCgojIyDlroPpqozku4DkuYgoMjAg6aG55YaS54OfICsgMiDmnaHnq6/liLDnq68pCi0gKirlhpLng58qKjrmr4/kuKrlip/og73nnJ/lj5HkuIDmrKHor7fmsYIs55yL4pGg6YCa5LiN6YCaKEhUVFAp4pGh6L+U5Zue57uT5p6E5a+55LiN5a+54pGi5YWz6ZSu6KGM5Li6CiAgKOWBpeW6ty/nmbvlvZUv55+l6K+G5bqT5bu65bqTwrfmo4DntKLCt+mFjee9rsK36Kej5p6Q5ZmowrflrZfmrrXlu7rorq4v5pm66IO95L2T5YiX6KGoL+aooeWeiy/nmb3moIcv55So5oi357uE57uH5a+85YWl5qih5p2/LwogICDnu4Tnu4fmoJHCt+S6uuWRmMK35bKX5L2NwrfmnYPpmZAv5pW056uZ5a+85Ye6L0NvemUgU1NPKeOAggotICoq56uv5Yiw56uvKC0tZmxvdykqKjoKICAtIOefpeivhuW6k+S4gOadoem+mTrlu7rlupPihpLlhaXlupPihpLmo4DntKLog73lkKblkb3kuK3liJrlhaXnmoTmlofmnKwo5oqTIuWFpeW6k+S6huS9huajgOe0ouS4jemAmiIpOwogIC0g5pm66IO95L2T5LiA5p2h6b6ZOuW7uuKGkuaYr+WQpuWHuueOsOWcqOWIl+ihqCjmipMi5bu65LqG5rKh5oyB5LmF5YyWIinjgIIKCiMjIOi+k+WHuuaAjuS5iOeciwotIGDinJMg6YCa6L+HYCA9IOivpeWKn+iDveecn+eahOiDveiwg+mAmuOAgee7k+aehOWvuTsKLSBg4pyXIOacquWunueOsGAgPSA0MDQs56uv54K55LiN5a2Y5ZyoKOayoemDqOe9si/msqHlrp7njrApOwotIGDinJcg5aSx6LSlYCA9IOmAmuS6huS9hue7k+aehC/ooYzkuLrkuI3lr7ko6ZmE5Y6f5ZugLOWmgiLnvLrlrZfmrrVpZCIi5YWl5bqT5LqG5L2G5qOA57Si5LiN5YiwIik7Ci0gYC0g6Lez6L+HYCA9IOmcgOeuoeeQhuWRmCB0b2tlbiDkvYbmsqHnu5njgIIK5pyr5bC+5rGH5oC7IljpgJrov4cgLyBZ5pyJ6Zeu6aKYIuOAggoKIyMg6K+a5a6e6K+05piOKOiDveWBmi/kuI3og73lgZopCi0gKirog73oh6rliqjmipMqKjrmsqHlrp7njrDjgIHmjqXlj6PlnY/jgIHoo4XkuIDljYrjgIHkuIDmnaHpvpnmlq3pk77igJTigJTov5nmmK8i5Yqf6IO95rKh5a6M5oiQIueahOWkp+WktOOAggotICoq5LiN6IO96Ieq5Yqo5YikKio65Zue562U6LSo6YeP5aW95LiN5aW944CB5qOA57Si5YeG5LiN5YeG44CBVUkg5Lqk5LqS4oCU4oCU6L+Z5Lqb6KaB5Lq65bel44CCCiAg5pys5bel5YW35pivIuWKn+iDvemAmuS4jemAmiLnmoTkvZPmo4As5LiN5pivIuWlveS4jeWlvSLnmoTor4TmtYvjgIIKCiMjIOe7meaIkeWPjemmiArmiormlbTmrrXovpPlh7rotLTlm57jgILlpLHotKUv5pyq5a6e546w55qELOaIkemAkOS4quWumuS9jTrmmK/msqHkuqTku5jjgIHmsqHpg6jnvbLjgIHov5jmmK/mjqXnur/mvI/kuoYs57uZ6KGl5LiB44CCCgojIyDosIPmlbQKLSDnq6/ngrnot6/lvoToi6XkuI7kvaDlrp7pmYXkuI3lkIwo5aaCIC92MS9rYi97aWR9L2luZ2VzdCDnmoTlvaLmgIEpLOWRiuivieaIkeWunumZhei3r+W+hCzmiJHmlLkgY2hlY2tzLnB5L2Zsb3dzLnB544CCCi0g5oOz5Yqg6aqM6K+B6aG5KOafkOWKn+iDveayoeimhuebluWIsCks6K+05LiA5aOw5oiR5Yqg44CCCg==
+# 平台功能自动验证(龙虾用)
+
+针对"bug多、很多功能没完成":这脚本**真调接口、真走流程**,自动抓出
+"没实现 / 接口坏了 / 装了一半 / 一条龙不通"。只用 stdlib,无需装任何东西。
+
+## 用法
+把 verify_functions.py + checks.py + flows.py 放同目录,在能访问后端的机器上:
+```
+# 方式1:直接给管理员 token
+python3 verify_functions.py --base http://127.0.0.1:9002 --token <管理员token>
+
+# 方式2:给账号密码自动登录取 token
+python3 verify_functions.py --base http://127.0.0.1:9002 --phone 13800000000 --password <密码>
+
+# 加 --flow:额外跑端到端流程(会建少量测试数据,如 __验证库_ 开头的库)
+python3 verify_functions.py --base http://127.0.0.1:9002 --token <token> --flow
+
+# 加 --json:输出 JSON 好粘贴
+```
+
+## 它验什么(20 项冒烟 + 2 条端到端)
+- **冒烟**:每个功能真发一次请求,看①通不通(HTTP)②返回结构对不对③关键行为
+  (健康/登录/知识库建库·检索·配置·解析器·字段建议/智能体列表/模型/白标/用户组织导入模板/
+   组织树·人员·岗位·权限/整站导出/Coze SSO)。
+- **端到端(--flow)**:
+  - 知识库一条龙:建库→入库→检索能否命中刚入的文本(抓"入库了但检索不通");
+  - 智能体一条龙:建→是否出现在列表(抓"建了没持久化")。
+
+## 输出怎么看
+- `✓ 通过` = 该功能真的能调通、结构对;
+- `✗ 未实现` = 404,端点不存在(没部署/没实现);
+- `✗ 失败` = 通了但结构/行为不对(附原因,如"缺字段id""入库了但检索不到");
+- `- 跳过` = 需管理员 token 但没给。
+末尾汇总"X通过 / Y有问题"。
+
+## 诚实说明(能做/不能做)
+- **能自动抓**:没实现、接口坏、装一半、一条龙断链——这是"功能没完成"的大头。
+- **不能自动判**:回答质量好不好、检索准不准、UI 交互——这些要人工。
+  本工具是"功能通不通"的体检,不是"好不好"的评测。
+
+## 给我反馈
+把整段输出贴回。失败/未实现的,我逐个定位:是没交付、没部署、还是接线漏了,给补丁。
+
+## 调整
+- 端点路径若与你实际不同(如 /v1/kb/{id}/ingest 的形态),告诉我实际路径,我改 checks.py/flows.py。
+- 想加验证项(某功能没覆盖到),说一声我加。

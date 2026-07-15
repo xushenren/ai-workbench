@@ -1,1 +1,100 @@
-aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3ByaW1pdGl2ZXMiOwovLyBBZ2VudENyZWF0ZU1vZGFsLnRzeCDigJQg5paw5bu65pm66IO95L2TKOWQjeensC/lj6/op4HmgKcv6aKG5Z+fL+aPj+i/sCArIOWkmumAieefpeivhuW6kynjgIIKLy8g5pS+6L+bIEFnZW50U3RvcmU65Yqg5LiA5LiqIuaWsOW7uuaZuuiDveS9kyLmjInpkq7miZPlvIDmnKzlvLnnqpc75oiQ5Yqf5ZCOIG9uQ3JlYXRlZCDliLfmlrDliJfooajjgIIKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgWCwgTG9hZGVyMiB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIkAvbGliL2FwaSI7CmltcG9ydCB0eXBlIHsgS25vd2xlZGdlQmFzZSB9IGZyb20gIkAvdHlwZXMiOwoKY29uc3QgVklTID0gWwogIHsgaWQ6ICJwcml2YXRlIiwgbGFiZWw6ICLnp4HmnIko55u05o6l5Y+v55SoKSIgfSwKICB7IGlkOiAiZGVwYXJ0bWVudCIsIGxhYmVsOiAi6YOo6ZeoKOmcgOWuoeaJuSkiIH0sCiAgeyBpZDogInB1YmxpYyIsIGxhYmVsOiAi5YWs5YWxKOmcgOWuoeaJuSkiIH0sCl07CmNvbnN0IERPTUFJTlMgPSBbCiAgeyBpZDogImdlbmVyYWwiLCBsYWJlbDogIumAmueUqCIgfSwgeyBpZDogImVsZWN0cm9tZWNoYW5pY2FsIiwgbGFiZWw6ICLmnLrnlLXlronoo4UiIH0sCiAgeyBpZDogInNvZnR3YXJlIiwgbGFiZWw6ICLova/ku7blvIDlj5EiIH0sIHsgaWQ6ICJkYXRhX21sIiwgbGFiZWw6ICLmlbDmja4vTUwiIH0sCl07CgpleHBvcnQgZnVuY3Rpb24gQWdlbnRDcmVhdGVNb2RhbCh7IG9uQ2xvc2UsIG9uQ3JlYXRlZCB9OiB7IG9uQ2xvc2U6ICgpID0+IHZvaWQ7IG9uQ3JlYXRlZDogKCkgPT4gdm9pZCB9KSB7CiAgY29uc3QgW25hbWUsIHNldE5hbWVdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFt2aXNpYmlsaXR5LCBzZXRWaXNdID0gdXNlU3RhdGUoInByaXZhdGUiKTsKICBjb25zdCBbZG9tYWluLCBzZXREb21haW5dID0gdXNlU3RhdGUoImdlbmVyYWwiKTsKICBjb25zdCBbZGVzY3JpcHRpb24sIHNldERlc2NdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtrYnMsIHNldEtic10gPSB1c2VTdGF0ZTxLbm93bGVkZ2VCYXNlW10+KFtdKTsKICBjb25zdCBbcGlja2VkLCBzZXRQaWNrZWRdID0gdXNlU3RhdGU8c3RyaW5nW10+KFtdKTsKICBjb25zdCBbYnVzeSwgc2V0QnVzeV0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2Vyciwgc2V0RXJyXSA9IHVzZVN0YXRlKCIiKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsgdm9pZCBhcGkua25vd2xlZGdlKCkudGhlbihzZXRLYnMpOyB9LCBbXSk7CgogIGNvbnN0IHRvZ2dsZSA9IChpZDogc3RyaW5nKSA9PgogICAgc2V0UGlja2VkKChwKSA9PiAocC5pbmNsdWRlcyhpZCkgPyBwLmZpbHRlcigoeCkgPT4geCAhPT0gaWQpIDogWy4uLnAsIGlkXSkpOwoKICBjb25zdCBzdWJtaXQgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIW5hbWUudHJpbSgpKSB7IHNldEVycigi6K+35aGr5YaZ5ZCN56ewIik7IHJldHVybjsgfQogICAgc2V0QnVzeSh0cnVlKTsgc2V0RXJyKCIiKTsKICAgIHRyeSB7CiAgICAgIGF3YWl0IGFwaS5jcmVhdGVBZ2VudCh7CiAgICAgICAgbmFtZTogbmFtZS50cmltKCksIHZpc2liaWxpdHksIGRvbWFpbiwgZGVzY3JpcHRpb246IGRlc2NyaXB0aW9uLnRyaW0oKSwKICAgICAgICBrYl9pZHM6IHBpY2tlZCwga2JfY291bnQ6IHBpY2tlZC5sZW5ndGgsCiAgICAgIH0pOwogICAgICBvbkNyZWF0ZWQoKTsgb25DbG9zZSgpOwogICAgfSBjYXRjaCAoZTogYW55KSB7IHNldEVycihlLm1lc3NhZ2UgfHwgIuWIm+W7uuWksei0pSIpOyBzZXRCdXN5KGZhbHNlKTsgfQogIH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZml4ZWQgaW5zZXQtMCB6LTUwIGdyaWQgcGxhY2UtaXRlbXMtY2VudGVyIGJnLWJsYWNrLzQwIHAtNCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LVttaW4oNTIwcHgsOTR2dyldIHJvdW5kZWQtY2FyZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHAtNiBzaGFkb3ctbGlmdCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTQgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LWxnIGZvbnQtc2VtaWJvbGQiPuaWsOW7uuaZuuiDveS9kzwvaDI+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e29uQ2xvc2V9IGFyaWEtbGFiZWw9IuWFs+mXrSIgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkIGhvdmVyOnRleHQtdGV4dCI+PFggc2l6ZT17MTh9IC8+PC9idXR0b24+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1iLTEgYmxvY2sgdGV4dC14cyB0ZXh0LW11dGVkIj7lkI3np7A8L2xhYmVsPgogICAgICAgIDxpbnB1dCB2YWx1ZT17bmFtZX0gb25DaGFuZ2U9eyhlKSA9PiBzZXROYW1lKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgIGNsYXNzTmFtZT0ibWItMyB3LWZ1bGwgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHB4LTIuNSBweS0xLjUgdGV4dC1zbSIgLz4KCiAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0ibWItMSBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPuaPj+i/sDwvbGFiZWw+CiAgICAgICAgPHRleHRhcmVhIHZhbHVlPXtkZXNjcmlwdGlvbn0gb25DaGFuZ2U9eyhlKSA9PiBzZXREZXNjKGUudGFyZ2V0LnZhbHVlKX0gcm93cz17Mn0KICAgICAgICAgIGNsYXNzTmFtZT0ibWItMyB3LWZ1bGwgcmVzaXplLXkgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHB4LTIuNSBweS0xLjUgdGV4dC1zbSIgLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTMgZmxleCBnYXAtNCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0ibWItMSBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPuWPr+ingeaApzwvbGFiZWw+CiAgICAgICAgICAgIDxzZWxlY3QgdmFsdWU9e3Zpc2liaWxpdHl9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0VmlzKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcHgtMi41IHB5LTEuNSB0ZXh0LXNtIj4KICAgICAgICAgICAgICB7VklTLm1hcCgodikgPT4gPG9wdGlvbiBrZXk9e3YuaWR9IHZhbHVlPXt2LmlkfT57di5sYWJlbH08L29wdGlvbj4pfQogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1iLTEgYmxvY2sgdGV4dC14cyB0ZXh0LW11dGVkIj7poobln588L2xhYmVsPgogICAgICAgICAgICA8c2VsZWN0IHZhbHVlPXtkb21haW59IG9uQ2hhbmdlPXsoZSkgPT4gc2V0RG9tYWluKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcHgtMi41IHB5LTEuNSB0ZXh0LXNtIj4KICAgICAgICAgICAgICB7RE9NQUlOUy5tYXAoKGQpID0+IDxvcHRpb24ga2V5PXtkLmlkfSB2YWx1ZT17ZC5pZH0+e2QubGFiZWx9PC9vcHRpb24+KX0KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0ibWItMSBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPuaMgui9veefpeivhuW6kyjlj6/lpJrpgIkpPC9sYWJlbD4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMyBmbGV4IG1heC1oLTMyIGZsZXgtd3JhcCBnYXAtMS41IG92ZXJmbG93LXktYXV0byByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIHAtMiI+CiAgICAgICAgICB7a2JzLmxlbmd0aCA9PT0gMCAmJiA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZCI+5pqC5peg5Y+v5oyC6L2955qE55+l6K+G5bqTLOWFiOWOu+efpeivhuW6k+mhteWIm+W7uuOAgjwvc3Bhbj59CiAgICAgICAgICB7a2JzLm1hcCgoaykgPT4gKAogICAgICAgICAgICA8YnV0dG9uIGtleT17ay5pZH0gb25DbGljaz17KCkgPT4gdG9nZ2xlKGsuaWQpfQogICAgICAgICAgICAgIGNsYXNzTmFtZT17YHJvdW5kZWQtbWQgcHgtMiBweS0xIHRleHQteHMgJHtwaWNrZWQuaW5jbHVkZXMoay5pZCkgPyAiYmctYWNjZW50IHRleHQtd2hpdGUiIDogImJnLXN1cmZhY2UtMiB0ZXh0LW11dGVkIn1gfT4KICAgICAgICAgICAgICB7ay5uYW1lfQogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgoKICAgICAgICB7ZXJyICYmIDxkaXYgY2xhc3NOYW1lPSJtYi0yIHRleHQteHMgdGV4dC1yZWQtNTAwIj57ZXJyfTwvZGl2Pn0KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBqdXN0aWZ5LWVuZCBnYXAtMiI+CiAgICAgICAgICA8QnV0dG9uIHNpemU9InNtIiB2YXJpYW50PSJnaG9zdCIgb25DbGljaz17b25DbG9zZX0+5Y+W5raIPC9CdXR0b24+CiAgICAgICAgICA8QnV0dG9uIHNpemU9InNtIiBvbkNsaWNrPXtzdWJtaXR9IGRpc2FibGVkPXtidXN5fT4KICAgICAgICAgICAge2J1c3kgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogbnVsbH0g5Yib5bu6CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+import { Button } from "@/components/ui/primitives";
+// AgentCreateModal.tsx — 新建智能体(名称/可见性/领域/描述 + 多选知识库)。
+// 放进 AgentStore:加一个"新建智能体"按钮打开本弹窗;成功后 onCreated 刷新列表。
+import { useEffect, useState } from "react";
+import { X, Loader2 } from "lucide-react";
+import { api } from "@/lib/api";
+import type { KnowledgeBase } from "@/types";
+
+const VIS = [
+  { id: "private", label: "私有(直接可用)" },
+  { id: "department", label: "部门(需审批)" },
+  { id: "public", label: "公共(需审批)" },
+];
+const DOMAINS = [
+  { id: "general", label: "通用" }, { id: "electromechanical", label: "机电安装" },
+  { id: "software", label: "软件开发" }, { id: "data_ml", label: "数据/ML" },
+];
+
+export function AgentCreateModal({ onClose, onCreated }: { onClose: () => void; onCreated: () => void }) {
+  const [name, setName] = useState("");
+  const [visibility, setVis] = useState("private");
+  const [domain, setDomain] = useState("general");
+  const [description, setDesc] = useState("");
+  const [kbs, setKbs] = useState<KnowledgeBase[]>([]);
+  const [picked, setPicked] = useState<string[]>([]);
+  const [busy, setBusy] = useState(false);
+  const [err, setErr] = useState("");
+
+  useEffect(() => { void api.knowledge().then(setKbs); }, []);
+
+  const toggle = (id: string) =>
+    setPicked((p) => (p.includes(id) ? p.filter((x) => x !== id) : [...p, id]));
+
+  const submit = async () => {
+    if (!name.trim()) { setErr("请填写名称"); return; }
+    setBusy(true); setErr("");
+    try {
+      await api.createAgent({
+        name: name.trim(), visibility, domain, description: description.trim(),
+        kb_ids: picked, kb_count: picked.length,
+      });
+      onCreated(); onClose();
+    } catch (e: any) { setErr(e.message || "创建失败"); setBusy(false); }
+  };
+
+  return (
+    <div className="fixed inset-0 z-50 grid place-items-center bg-black/40 p-4">
+      <div className="w-[min(520px,94vw)] rounded-card border border-border bg-surface p-6 shadow-lift">
+        <div className="mb-4 flex items-center justify-between">
+          <h2 className="font-display text-lg font-semibold">新建智能体</h2>
+          <button onClick={onClose} aria-label="关闭" className="text-muted hover:text-text"><X size={18} /></button>
+        </div>
+
+        <label className="mb-1 block text-xs text-muted">名称</label>
+        <input value={name} onChange={(e) => setName(e.target.value)}
+          className="mb-3 w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm" />
+
+        <label className="mb-1 block text-xs text-muted">描述</label>
+        <textarea value={description} onChange={(e) => setDesc(e.target.value)} rows={2}
+          className="mb-3 w-full resize-y rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm" />
+
+        <div className="mb-3 flex gap-4">
+          <div className="flex-1">
+            <label className="mb-1 block text-xs text-muted">可见性</label>
+            <select value={visibility} onChange={(e) => setVis(e.target.value)}
+              className="w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm">
+              {VIS.map((v) => <option key={v.id} value={v.id}>{v.label}</option>)}
+            </select>
+          </div>
+          <div className="flex-1">
+            <label className="mb-1 block text-xs text-muted">领域</label>
+            <select value={domain} onChange={(e) => setDomain(e.target.value)}
+              className="w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm">
+              {DOMAINS.map((d) => <option key={d.id} value={d.id}>{d.label}</option>)}
+            </select>
+          </div>
+        </div>
+
+        <label className="mb-1 block text-xs text-muted">挂载知识库(可多选)</label>
+        <div className="mb-3 flex max-h-32 flex-wrap gap-1.5 overflow-y-auto rounded-md border border-border p-2">
+          {kbs.length === 0 && <span className="text-xs text-muted">暂无可挂载的知识库,先去知识库页创建。</span>}
+          {kbs.map((k) => (
+            <button key={k.id} onClick={() => toggle(k.id)}
+              className={`rounded-md px-2 py-1 text-xs ${picked.includes(k.id) ? "bg-accent text-white" : "bg-surface-2 text-muted"}`}>
+              {k.name}
+            </button>
+          ))}
+        </div>
+
+        {err && <div className="mb-2 text-xs text-red-500">{err}</div>}
+        <div className="flex justify-end gap-2">
+          <Button size="sm" variant="ghost" onClick={onClose}>取消</Button>
+          <Button size="sm" onClick={submit} disabled={busy}>
+            {busy ? <Loader2 size={14} className="animate-spin" /> : null} 创建
+          </Button>
+        </div>
+      </div>
+    </div>
+  );
+}

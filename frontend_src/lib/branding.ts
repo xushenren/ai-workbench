@@ -1,1 +1,22 @@
-Ly8gYnJhbmRpbmcudHMg4oCUIOWFqOWxgOW6lOeUqOWTgeeJjDrlkK/liqjml7bmi4nlj5blubblhpnlhaUgZG9jdW1lbnQudGl0bGUgLyBmYXZpY29uIC8g5by66LCD6Imy5Y+Y6YeP44CCCmltcG9ydCB7IGFwaSB9IGZyb20gIkAvbGliL2FwaSI7CgpleHBvcnQgaW50ZXJmYWNlIEJyYW5kIHsKICBwbGF0Zm9ybV9uYW1lOiBzdHJpbmc7IGxvZ29fdXJsOiBzdHJpbmc7IGZhdmljb25fdXJsOiBzdHJpbmc7CiAgYnJhbmRfY29sb3I6IHN0cmluZzsgYnJhbmRfY29sb3JfZGFyazogc3RyaW5nOyBsb2NrX2FjY2VudDogYm9vbGVhbjsgbG9naW5fdGFnbGluZTogc3RyaW5nOwp9CgpleHBvcnQgZnVuY3Rpb24gYXBwbHlCcmFuZGluZyhiOiBCcmFuZCkgewogIGlmIChiLnBsYXRmb3JtX25hbWUpIGRvY3VtZW50LnRpdGxlID0gYi5wbGF0Zm9ybV9uYW1lOwogIGlmIChiLmJyYW5kX2NvbG9yKSBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuc3R5bGUuc2V0UHJvcGVydHkoIi0tYnJhbmQiLCBiLmJyYW5kX2NvbG9yKTsKICBpZiAoYi5icmFuZF9jb2xvcikgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LnN0eWxlLnNldFByb3BlcnR5KCItLWFjY2VudCIsIGIuYnJhbmRfY29sb3IpOwogIGlmIChiLmZhdmljb25fdXJsKSB7CiAgICBsZXQgbGluayA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3I8SFRNTExpbmtFbGVtZW50PigibGlua1tyZWx+PSdpY29uJ10iKTsKICAgIGlmICghbGluaykgeyBsaW5rID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgibGluayIpOyBsaW5rLnJlbCA9ICJpY29uIjsgZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChsaW5rKTsgfQogICAgbGluay5ocmVmID0gYi5mYXZpY29uX3VybDsKICB9Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBsb2FkQnJhbmRpbmcoKTogUHJvbWlzZTxCcmFuZCB8IG51bGw+IHsKICB0cnkgeyBjb25zdCBiID0gYXdhaXQgYXBpLmdldEJyYW5kaW5nKCk7IGFwcGx5QnJhbmRpbmcoYik7IHJldHVybiBiOyB9IGNhdGNoIHsgcmV0dXJuIG51bGw7IH0KfQo=
+// branding.ts — 全局应用品牌:启动时拉取并写入 document.title / favicon / 强调色变量。
+import { api } from "@/lib/api";
+
+export interface Brand {
+  platform_name: string; logo_url: string; favicon_url: string;
+  brand_color: string; brand_color_dark: string; lock_accent: boolean; login_tagline: string;
+}
+
+export function applyBranding(b: Brand) {
+  if (b.platform_name) document.title = b.platform_name;
+  if (b.brand_color) document.documentElement.style.setProperty("--brand", b.brand_color);
+  if (b.brand_color) document.documentElement.style.setProperty("--accent", b.brand_color);
+  if (b.favicon_url) {
+    let link = document.querySelector<HTMLLinkElement>("link[rel~='icon']");
+    if (!link) { link = document.createElement("link"); link.rel = "icon"; document.head.appendChild(link); }
+    link.href = b.favicon_url;
+  }
+}
+
+export async function loadBranding(): Promise<Brand | null> {
+  try { const b = await api.getBranding(); applyBranding(b); return b; } catch { return null; }
+}

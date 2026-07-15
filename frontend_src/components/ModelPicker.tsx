@@ -1,1 +1,52 @@
-Ly8g5qih5Z6L6YCJ5oup5LiL5ouJ77ya6IGK5aSp5qGG6aG26YOo6YCJ55So5bey6YWN572u55qE5qih5Z6L44CC5LuF5YiX5bey5ZCv55So55qE44CCCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IENoZXZyb25Eb3duLCBDcHUsIENoZWNrIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgdXNlQ2hhdFN0b3JlIH0gZnJvbSAiQC9zdG9yZXMvdXNlU3RvcmUiOwoKZXhwb3J0IGZ1bmN0aW9uIE1vZGVsUGlja2VyKCkgewogIGNvbnN0IG1vZGVscyA9IHVzZUNoYXRTdG9yZSgocykgPT4gcy5tb2RlbHMpOwogIGNvbnN0IHNlbGVjdGVkTW9kZWxJZCA9IHVzZUNoYXRTdG9yZSgocykgPT4gcy5zZWxlY3RlZE1vZGVsSWQpOwogIGNvbnN0IHNldE1vZGVsID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLnNldE1vZGVsKTsKICBjb25zdCBsb2FkTW9kZWxzID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLmxvYWRNb2RlbHMpOwogIGNvbnN0IFtvcGVuLCBzZXRPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsgbG9hZE1vZGVscygpOyB9LCBbbG9hZE1vZGVsc10pOwoKICBjb25zdCBjdXJyZW50ID0gbW9kZWxzLmZpbmQoKG0pID0+IG0uaWQgPT09IHNlbGVjdGVkTW9kZWxJZCkgPz8gbW9kZWxzLmZpbmQoKG0pID0+IG0uaWQgPT09ICJidWlsdGluIik7CiAgY29uc3QgbGFiZWwgPSBjdXJyZW50Py5uYW1lID8/ICLlhoXnva7mqKHlnosiOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIj4KICAgICAgPGJ1dHRvbgogICAgICAgIG9uQ2xpY2s9eygpID0+IHNldE9wZW4oKHYpID0+ICF2KX0KICAgICAgICBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUgcm91bmRlZC1idG4gYm9yZGVyIGJvcmRlci1ib3JkZXIgcHgtMi41IHB5LTEuNSB0ZXh0LXNtIHRleHQtbXV0ZWQgaG92ZXI6dGV4dC10ZXh0IgogICAgICAgIHRpdGxlPSLpgInmi6nmqKHlnosiCiAgICAgID4KICAgICAgICA8Q3B1IHNpemU9ezE0fSAvPiA8c3BhbiBjbGFzc05hbWU9Im1heC13LVsxNDBweF0gdHJ1bmNhdGUiPntsYWJlbH08L3NwYW4+CiAgICAgICAgPENoZXZyb25Eb3duIHNpemU9ezEzfSAvPgogICAgICA8L2J1dHRvbj4KICAgICAge29wZW4gJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSB0b3AtMTAgbGVmdC0wIHotMjAgbWF4LWgtNzIgdy02NCBvdmVyZmxvdy15LWF1dG8gcm91bmRlZC1jYXJkIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcC0xLjUgc2hhZG93LWxpZnQiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJweC0yIHB5LTEgdGV4dC1bMTFweF0gdGV4dC1tdXRlZCI+6YCJ5oup5a+56K+d5qih5Z6LPC9wPgogICAgICAgICAge21vZGVscy5sZW5ndGggPT09IDAgPyAoCiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0icHgtMiBweS0yIHRleHQteHMgdGV4dC1tdXRlZCI+5pqC5peg5Y+v55So5qih5Z6L77yM6K+3566h55CG5ZGY5Zyo44CM566h55CG44CN5Lit6YWN572uPC9wPgogICAgICAgICAgKSA6ICgKICAgICAgICAgICAgbW9kZWxzLm1hcCgobSkgPT4gKAogICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgIGtleT17bS5pZH0KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHsgc2V0TW9kZWwobS5pZCk7IHNldE9wZW4oZmFsc2UpOyB9fQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgZmxleCB3LWZ1bGwgaXRlbXMtY2VudGVyIGdhcC0yIHJvdW5kZWQtbWQgcHgtMiBweS0xLjUgdGV4dC1sZWZ0IHRleHQtc20gaG92ZXI6Ymctc3VyZmFjZS0yICR7CiAgICAgICAgICAgICAgICAgIG0uaWQgPT09IHNlbGVjdGVkTW9kZWxJZCA/ICJ0ZXh0LXRleHQiIDogInRleHQtbXV0ZWQiCiAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8Q3B1IHNpemU9ezEzfSBjbGFzc05hbWU9InNocmluay0wIiAvPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmbGV4LTEgdHJ1bmNhdGUiPnttLm5hbWV9PC9zcGFuPgogICAgICAgICAgICAgICAge20uaWQgPT09IHNlbGVjdGVkTW9kZWxJZCAmJiA8Q2hlY2sgc2l6ZT17MTN9IC8+fQogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICApKQogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgIDwvZGl2PgogICk7Cn0K
+// 模型选择下拉：聊天框顶部选用已配置的模型。仅列已启用的。
+import { useEffect, useState } from "react";
+import { ChevronDown, Cpu, Check } from "lucide-react";
+import { useChatStore } from "@/stores/useStore";
+
+export function ModelPicker() {
+  const models = useChatStore((s) => s.models);
+  const selectedModelId = useChatStore((s) => s.selectedModelId);
+  const setModel = useChatStore((s) => s.setModel);
+  const loadModels = useChatStore((s) => s.loadModels);
+  const [open, setOpen] = useState(false);
+
+  useEffect(() => { loadModels(); }, [loadModels]);
+
+  const current = models.find((m) => m.id === selectedModelId) ?? models.find((m) => m.id === "builtin");
+  const label = current?.name ?? "内置模型";
+
+  return (
+    <div className="relative">
+      <button
+        onClick={() => setOpen((v) => !v)}
+        className="flex items-center gap-1.5 rounded-btn border border-border px-2.5 py-1.5 text-sm text-muted hover:text-text"
+        title="选择模型"
+      >
+        <Cpu size={14} /> <span className="max-w-[140px] truncate">{label}</span>
+        <ChevronDown size={13} />
+      </button>
+      {open && (
+        <div className="absolute top-10 left-0 z-20 max-h-72 w-64 overflow-y-auto rounded-card border border-border bg-surface p-1.5 shadow-lift">
+          <p className="px-2 py-1 text-[11px] text-muted">选择对话模型</p>
+          {models.length === 0 ? (
+            <p className="px-2 py-2 text-xs text-muted">暂无可用模型，请管理员在「管理」中配置</p>
+          ) : (
+            models.map((m) => (
+              <button
+                key={m.id}
+                onClick={() => { setModel(m.id); setOpen(false); }}
+                className={`flex w-full items-center gap-2 rounded-md px-2 py-1.5 text-left text-sm hover:bg-surface-2 ${
+                  m.id === selectedModelId ? "text-text" : "text-muted"
+                }`}
+              >
+                <Cpu size={13} className="shrink-0" />
+                <span className="flex-1 truncate">{m.name}</span>
+                {m.id === selectedModelId && <Check size={13} />}
+              </button>
+            ))
+          )}
+        </div>
+      )}
+    </div>
+  );
+}

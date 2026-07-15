@@ -1,1 +1,61 @@
-Ly8gRmlyc3RSdW5Db2xvclBpY2tlci50c3gg4oCUIOmmluasoeeZu+W9leeahOS4quaAp+WMlumAieiJsijlkLjmlLYgS3VuIOi/m+mXqOS9k+mqjCnjgIIKLy8g55SoIC9hcHAg6Ieq5bex55qEIFRhaWx3aW5kIOS7pOeJjChiZy1zdXJmYWNlL3RleHQvYm9yZGVyL2FjY2VudCnnu5jliLYs6YCJ6Imy5a6e5pe25YWo56uZ6aKE6KeI44CCCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IEFDQ0VOVF9QUkVTRVRTLCBhcHBseUFjY2VudCwgc2F2ZUFjY2VudCwgZ2V0U2F2ZWRBY2NlbnQgfSBmcm9tICJAL2xpYi9hY2NlbnRUaGVtZSI7CgpleHBvcnQgZnVuY3Rpb24gRmlyc3RSdW5Db2xvclBpY2tlcih7IG9uRG9uZSB9OiB7IG9uRG9uZTogKCkgPT4gdm9pZCB9KSB7CiAgY29uc3QgW2FjY2VudCwgc2V0QWNjZW50XSA9IHVzZVN0YXRlKGdldFNhdmVkQWNjZW50KCkpOwoKICAvLyDpgInoibLljbPlhajnq5nlrp7ml7bpooTop4go5LuF5pS55Y+Y6YePLOehruiupOaXtuaJjeaMgeS5heWMlikKICB1c2VFZmZlY3QoKCkgPT4geyBhcHBseUFjY2VudChhY2NlbnQpOyB9LCBbYWNjZW50XSk7CgogIGNvbnN0IGZpbmlzaCA9IChoZXg6IHN0cmluZykgPT4geyBzYXZlQWNjZW50KGhleCk7IG9uRG9uZSgpOyB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZpeGVkIGluc2V0LTAgei01MCBncmlkIHBsYWNlLWl0ZW1zLWNlbnRlciBiZy1ibGFjay80MCBhbmltYXRlLWZhZGUtaW4iIHJvbGU9ImRpYWxvZyIgYXJpYS1tb2RhbD0idHJ1ZSIgYXJpYS1sYWJlbD0i6YCJ5oup5L2g55qE5by66LCD6ImyIj4KICAgICAgPGRpdiBjbGFzc05hbWU9InctW21pbig0NDBweCw5MnZ3KV0gcm91bmRlZC1jYXJkIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcC03IHNoYWRvdy1saWZ0Ij4KICAgICAgICA8aDIgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC1sZyB0ZXh0LXRleHQiPuaMkeS4gOS4quS9oOeahOminOiJsjwvaDI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtYi01IG10LTEgdGV4dC1zbSB0ZXh0LW11dGVkIj7lroPkvJrmiJDkuLrmlbTkuKrnlYzpnaLnmoTlvLrosIPoibLjgILpmo/ml7bog73lnKjorr7nva7ph4zmlLnjgII8L3A+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi01IGZsZXggZmxleC13cmFwIGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICB7QUNDRU5UX1BSRVNFVFMubWFwKChjKSA9PiAoCiAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICBrZXk9e2N9CiAgICAgICAgICAgICAgYXJpYS1sYWJlbD17YOmAieaLqSAke2N9YH0KICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRBY2NlbnQoYyl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLTEwIHctMTAgcm91bmRlZC1mdWxsIHRyYW5zaXRpb24iCiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6IGMsCiAgICAgICAgICAgICAgICBvdXRsaW5lOiBhY2NlbnQudG9Mb3dlckNhc2UoKSA9PT0gYy50b0xvd2VyQ2FzZSgpID8gIjNweCBzb2xpZCByZ2IodmFyKC0tYWNjZW50KSkiIDogIjJweCBzb2xpZCB0cmFuc3BhcmVudCIsCiAgICAgICAgICAgICAgICBvdXRsaW5lT2Zmc2V0OiAyLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgIC8+CiAgICAgICAgICApKX0KICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im1sLTEgaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUgdGV4dC1bMTNweF0gdGV4dC1tdXRlZCI+CiAgICAgICAgICAgIOiHquWumuS5iQogICAgICAgICAgICA8aW5wdXQgdHlwZT0iY29sb3IiIHZhbHVlPXthY2NlbnR9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0QWNjZW50KGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICAgICAgIGFyaWEtbGFiZWw9IuiHquWumuS5ieminOiJsiIgY2xhc3NOYW1lPSJoLTggdy04IGN1cnNvci1wb2ludGVyIGJvcmRlci0wIGJnLXRyYW5zcGFyZW50IHAtMCIgLz4KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiDlrp7ml7bpooTop4ggKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIHJvdW5kZWQtaW5wdXQgYmctc3VyZmFjZS0yIHAtMy41Ij4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icm91bmRlZC1idG4gcHgtMi41IHB5LTEgdGV4dC1zbSIgc3R5bGU9e3sgYmFja2dyb3VuZDogInJnYih2YXIoLS1hY2NlbnQpIC8gMC4xMikiLCBjb2xvcjogInJnYih2YXIoLS1hY2NlbnQpKSIgfX0+6YCJ5Lit5oCBPC9zcGFuPgogICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9InJvdW5kZWQtYnRuIGJnLWFjY2VudCBweC0zIHB5LTEuNSB0ZXh0LXNtIHRleHQtd2hpdGUgaG92ZXI6YmctYWNjZW50LWhvdmVyIj7kuLvmjInpkq48L2J1dHRvbj4KICAgICAgICAgIDxhIGNsYXNzTmFtZT0idGV4dC1zbSIgc3R5bGU9e3sgY29sb3I6ICJyZ2IodmFyKC0tYWNjZW50KSkiIH19IGhyZWY9IiMiIG9uQ2xpY2s9eyhlKSA9PiBlLnByZXZlbnREZWZhdWx0KCl9PumTvuaOpeaWh+WtlzwvYT4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYgZmxleCBqdXN0aWZ5LWVuZCBnYXAtMi41Ij4KICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gZmluaXNoKEFDQ0VOVF9QUkVTRVRTWzBdKX0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJyb3VuZGVkLWJ0biBib3JkZXIgYm9yZGVyLWJvcmRlciBweC0zLjUgcHktMiB0ZXh0LXNtIHRleHQtbXV0ZWQgaG92ZXI6Ymctc3VyZmFjZS0yIGhvdmVyOnRleHQtdGV4dCI+CiAgICAgICAgICAgIOeUqOm7mOiupAogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IGZpbmlzaChhY2NlbnQpfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtYnRuIGJnLWFjY2VudCBweC00IHB5LTIgdGV4dC1zbSB0ZXh0LXdoaXRlIGhvdmVyOmJnLWFjY2VudC1ob3ZlciI+CiAgICAgICAgICAgIOWwseeUqOi/meS4qgogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo=
+// FirstRunColorPicker.tsx — 首次登录的个性化选色(吸收 Kun 进门体验)。
+// 用 /app 自己的 Tailwind 令牌(bg-surface/text/border/accent)绘制,选色实时全站预览。
+import { useEffect, useState } from "react";
+import { ACCENT_PRESETS, applyAccent, saveAccent, getSavedAccent } from "@/lib/accentTheme";
+
+export function FirstRunColorPicker({ onDone }: { onDone: () => void }) {
+  const [accent, setAccent] = useState(getSavedAccent());
+
+  // 选色即全站实时预览(仅改变量,确认时才持久化)
+  useEffect(() => { applyAccent(accent); }, [accent]);
+
+  const finish = (hex: string) => { saveAccent(hex); onDone(); };
+
+  return (
+    <div className="fixed inset-0 z-50 grid place-items-center bg-black/40 animate-fade-in" role="dialog" aria-modal="true" aria-label="选择你的强调色">
+      <div className="w-[min(440px,92vw)] rounded-card border border-border bg-surface p-7 shadow-lift">
+        <h2 className="font-display text-lg text-text">挑一个你的颜色</h2>
+        <p className="mb-5 mt-1 text-sm text-muted">它会成为整个界面的强调色。随时能在设置里改。</p>
+
+        <div className="mb-5 flex flex-wrap items-center gap-3">
+          {ACCENT_PRESETS.map((c) => (
+            <button
+              key={c}
+              aria-label={`选择 ${c}`}
+              onClick={() => setAccent(c)}
+              className="h-10 w-10 rounded-full transition"
+              style={{
+                background: c,
+                outline: accent.toLowerCase() === c.toLowerCase() ? "3px solid rgb(var(--accent))" : "2px solid transparent",
+                outlineOffset: 2,
+              }}
+            />
+          ))}
+          <label className="ml-1 inline-flex items-center gap-1.5 text-[13px] text-muted">
+            自定义
+            <input type="color" value={accent} onChange={(e) => setAccent(e.target.value)}
+                   aria-label="自定义颜色" className="h-8 w-8 cursor-pointer border-0 bg-transparent p-0" />
+          </label>
+        </div>
+
+        {/* 实时预览 */}
+        <div className="flex items-center gap-3 rounded-input bg-surface-2 p-3.5">
+          <span className="rounded-btn px-2.5 py-1 text-sm" style={{ background: "rgb(var(--accent) / 0.12)", color: "rgb(var(--accent))" }}>选中态</span>
+          <button className="rounded-btn bg-accent px-3 py-1.5 text-sm text-white hover:bg-accent-hover">主按钮</button>
+          <a className="text-sm" style={{ color: "rgb(var(--accent))" }} href="#" onClick={(e) => e.preventDefault()}>链接文字</a>
+        </div>
+
+        <div className="mt-6 flex justify-end gap-2.5">
+          <button onClick={() => finish(ACCENT_PRESETS[0])}
+                  className="rounded-btn border border-border px-3.5 py-2 text-sm text-muted hover:bg-surface-2 hover:text-text">
+            用默认
+          </button>
+          <button onClick={() => finish(accent)}
+                  className="rounded-btn bg-accent px-4 py-2 text-sm text-white hover:bg-accent-hover">
+            就用这个
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}

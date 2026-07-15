@@ -1,1 +1,74 @@
-IyBjb25maWcvcmVkbGluZXMueWFtbAojIFBsYW5lLTAg57qi57q/5riF5Y2V77yI5Y+q6K+75oyC6L29IDpyb++8ieOAguacrOaWh+S7tuS4jiBzZWN1cmVndWFyZC9sMV9nYXRlLnB5IOeahCBSRURMSU5FUyDluLjph4/lr7nnhafvvIwKIyAxOSDmnaHmnYPlqIHmuIXljZXjgILnlKjkuo7ov5Dnu7TkvqflrqHpmIXkuI7lrqHorqHvvJvku6PnoIHku6XluLjph4/kuLrlh4bvvIxZQU1MIOS7heS9nOadg+WogeaWh+aho+WMluS4juagoemqjOadpea6kOOAggojIEFnZW50IC8g6L+b5YyW5rWB56iL5peg5p2D5L+u5pS55pys5paH5Lu277yI6L+d6ICF5ZG95LitIFItMTLvvInjgIIKCnZlcnNpb246IDEKcGxhbmU6IDAKbXV0YWJsZV9ieV9yZWZpbmVyOiBmYWxzZQoKcmVkbGluZXM6CiAgLSBpZDogUi0wMQogICAgbmFtZTog55Sf5Lqn5pWw5o2u6ZSA5q+B5peg5aSH5Lu956Gu6K6kCiAgICBkZXRlY3Q6IHR5cGUgaW4gW2Rlc3Ryb3lfcHJvZF9kYXRhLCBybV9wcm9kdWN0aW9uLCBkcm9wX3RhYmxlLCB0cnVuY2F0ZV0gYW5kIG5vdCBiYWNrdXBfY29uZmlybWVkCiAgLSBpZDogUi0wMgogICAgbmFtZTog5Y+X5L+d5oqk5YiG5pSvIGZvcmNlLXB1c2ggLyDph43lhpnlhbHkuqvljoblj7IKICAgIGRldGVjdDogdHlwZSA9PSBmb3JjZV9wdXNoIGFuZCBicmFuY2ggaW4gW21haW4sIG1hc3RlciwgcHJvdGVjdGVkXQogIC0gaWQ6IFItMDMKICAgIG5hbWU6IOS4uuiuqeWug+iDvei3keiAjOemgeeUqOWuieWFqOaOp+WItgogICAgZGV0ZWN0OiB0eXBlID09IGRpc2FibGVfc2VjdXJpdHkgYW5kIHJlYXNvbiBpbiBbdG9fbWFrZV9pdF93b3JrLCB0b19wYXNzLCB0ZW1wb3JhcnldCiAgLSBpZDogUi0wNAogICAgbmFtZTog57uV6L+H6K+E5a6h55u05o6l5ZCI5YWlIG1haW4KICAgIGRldGVjdDogdHlwZSA9PSBtZXJnZV93aXRob3V0X3JldmlldwogIC0gaWQ6IFItMDUKICAgIG5hbWU6IOemgeeUqC/liKDmlLnmtYvor5XorqkgQ0kg5Y+Y57u/CiAgICBkZXRlY3Q6IHR5cGUgaW4gW3NraXBfdGVzdCwgeGZhaWxfdGVzdCwgZGVsZXRlX3Rlc3QsIGRpc2FibGVfYXNzZXJ0aW9uXSBhbmQgcmVhc29uID09IHRvX3Bhc3NfY2kKICAtIGlkOiBSLTA2CiAgICBuYW1lOiDnlJ/kuqfoh6rliqjot5HmnKrmibnlh4Ygc2NoZW1hIG1pZ3JhdGlvbgogICAgZGV0ZWN0OiB0eXBlID09IHNjaGVtYV9taWdyYXRpb24gYW5kIHRhcmdldCA9PSBwcm9kdWN0aW9uIGFuZCBub3QgaHVtYW5fYXBwcm92ZWQKICAtIGlkOiBSLTA3CiAgICBuYW1lOiDlh63mja4v5a+G6ZKl56Gs57yW56CB5oiW6JC9IFZDUy/ml6Xlv5cv5piO5paHCiAgICBkZXRlY3Q6IHR5cGUgaW4gW2hhcmRjb2RlX2tleSwgd3JpdGVfY3JlZGVudGlhbCwgY29tbWl0X3NlY3JldCwgbG9nX3NlY3JldF0gb3IgY29udGFpbnNfcGxhaW50ZXh0X3NlY3JldAogIC0gaWQ6IFItMDgKICAgIG5hbWU6IOemgeeUqOW1jOWFpeW8jy/mjqfliLbns7vnu5/lronlhajogZTplIEKICAgIGRldGVjdDogdHlwZSA9PSBkaXNhYmxlX3NhZmV0eV9pbnRlcmxvY2sKICAtIGlkOiBSLTA5CiAgICBuYW1lOiDnr6HmlLkv5Yig6ZmkL+e7lei/h+WuoeiuoeaXpeW/lwogICAgZGV0ZWN0OiB0eXBlIGluIFt0YW1wZXJfYXVkaXRfbG9nLCBkZWxldGVfYXVkaXRfbG9nLCBieXBhc3NfYXVkaXRdCiAgLSBpZDogUi0xMAogICAgbmFtZTog5pWw5o2u5aSW5rOE5Ye65bey5om55YeG6L6555WMCiAgICBkZXRlY3Q6IGV4dGVybmFsX3NlbmQgaW4gZmxhZ3MgYW5kIG5vdCBhcHByb3ZlZF9ib3VuZGFyeQogIC0gaWQ6IFItMTEKICAgIG5hbWU6IOaPkOWNh+adg+mZkOi/kOihjOacquWuoeafpeS7o+eggQogICAgZGV0ZWN0OiB0eXBlID09IGV4ZWNfdW5yZXZpZXdlZF9jb2RlIGFuZCBwcml2aWxlZ2UgPT0gZWxldmF0ZWQKICAtIGlkOiBSLTEyCiAgICBuYW1lOiDov5vljJYgcGF0Y2gg6K+V5Zu+5L+u5pS5IFBsYW5lLTAKICAgIGRldGVjdDogdHlwZSA9PSBldm9sdmVfcGF0Y2ggYW5kICJQbGFuZS0wIiBpbiB0YXJnZXQKCmhhbmRsaW5nOiDlkb3kuK3ljbMgQkxPQ0sgKyBub3RpZnkgaHVtYW4gKyDlhpkgYXVkaXQucmVkbGluZV9oaXRz77yb5LiN5Zug57Sn5oClL+a8lOekui/lj6PlpLTlkIzmhI/op6PpmaTjgIIKCiAgIyAtLS0tIOS8geS4muW3peS9nOWPsOaWsOWiniBSLTEzLi5SLTE577yI5o6q6L6e5bu66K6u5LiOIENvbnN0aXR1dGlvbiB2MiDmnYPlqIHmlofmnKzmnIDnu4jlr7npvZDvvIktLS0tCiAgLSBpZDogUi0xMwogICAgbmFtZTog6Leo56ef5oi3L+i2iuadg+iuv+mXruS7luS6uuengeacieefpeivhuW6k+aIluS8muivnQogICAgZGV0ZWN0OiB0eXBlIGluIFthY2Nlc3Nfa2IsIHJlYWRfc2Vzc2lvbl0gYW5kIHZpc2liaWxpdHk9PXByaXZhdGUgYW5kIG93bmVyX2lkIG5vdCBpbiBbbnVsbCwgY2FsbGVyX2lkXQogIC0gaWQ6IFItMTQKICAgIG5hbWU6IOaVj+aEn+aVsOaNrihQSUkv5Yet5o2uL+acuuWvhinot6/nlLHmiJblpJblj5Hlh7rkvIHkuJrovrnnlYwKICAgIGRldGVjdDogdHlwZSBpbiBbcm91dGUsIHNlbmRdIGFuZCBkYXRhX2NsYXNzIGluIFtDT05GSURFTlRJQUwsIFJFU1RSSUNURURdIGFuZCBkZXN0aW5hdGlvbj09ZXh0ZXJuYWwKICAtIGlkOiBSLTE1CiAgICBuYW1lOiDnr6HmlLkv57uV6L+H6YWN6aKd5oiW6K6h6LS56K6w5b2VCiAgICBkZXRlY3Q6IHR5cGUgaW4gW3RhbXBlcl9xdW90YSwgYnlwYXNzX2JpbGxpbmcsIGZvcmdlX3VzYWdlXQogIC0gaWQ6IFItMTYKICAgIG5hbWU6IOacquiEseaVjyBQSUkg5YaZ5YWl5pel5b+XL+aAneiAg+mdouadvy/lpJbpg6jovpPlh7oKICAgIGRldGVjdDogY29udGFpbnNfdW5tYXNrZWRfcGlpIGFuZCBzaW5rIGluIFtsb2csIHRyYWNlX3BhbmVsLCBleHRlcm5hbF0KICAtIGlkOiBSLTE3CiAgICBuYW1lOiDnrqHnkIblkZjouqvku73miafooYzmnKrnu4/lrqHmibnnmoTmibnph4/nlKjmiLfmlbDmja7lr7zlh7oKICAgIGRldGVjdDogdHlwZT09YnVsa19leHBvcnQgYW5kIHNjb3BlPT11c2VyX2RhdGEgYW5kIG5vdCBhcHByb3ZhbF90aWNrZXQKICAtIGlkOiBSLTE4CiAgICBuYW1lOiDkv67mlLkv5Yig6Zmk5LuW5Lq65Lya6K+d44CB5pWw5o2u5oiW5pm66IO95L2TCiAgICBkZXRlY3Q6IHR5cGUgaW4gW21vZGlmeSwgZGVsZXRlXSBhbmQgdGFyZ2V0X2tpbmQgaW4gW3Nlc3Npb24sIHVzZXJfZGF0YSwgYWdlbnRdIGFuZCBvd25lcl9pZCBub3QgaW4gW251bGwsIGNhbGxlcl9pZF0gYW5kIGNhbGxlcl9yb2xlICE9IGFkbWluCiAgLSBpZDogUi0xOQogICAgbmFtZTog5rOo5YWl5bGC5LmL5aSW5Yqo5oCB5o+Q5p2D5oiW6KaG55uWIENPTlNUSVRVVElPTiDnuqbmnZ/lnZcKICAgIGRldGVjdDogdHlwZT09b3ZlcnJpZGVfY29uc3RpdHV0aW9uIG9yICh0eXBlPT1wcml2aWxlZ2VfZXNjYWxhdGlvbiBhbmQgbm90IGF1dGhvcml6ZWQpCgpjb3VudDogMTkKbm90ZTogUi0wMS4uUi0xMiDmnaXoh6ogU2VjdXJlR3VhcmQg5Y6f5a6e546w77yMUi0xMy4uUi0xOSDkuLrkvIHkuJrlt6XkvZzlj7DmianlsZXvvIzpnIDkuI4gQ29uc3RpdHV0aW9uIHYyIOmAkOadoeaguOWvueaOqui+nuOAggo=
+# config/redlines.yaml
+# Plane-0 红线清单（只读挂载 :ro）。本文件与 secureguard/l1_gate.py 的 REDLINES 常量对照，
+# 19 条权威清单。用于运维侧审阅与审计；代码以常量为准，YAML 仅作权威文档化与校验来源。
+# Agent / 进化流程无权修改本文件（违者命中 R-12）。
+
+version: 1
+plane: 0
+mutable_by_refiner: false
+
+redlines:
+  - id: R-01
+    name: 生产数据销毁无备份确认
+    detect: type in [destroy_prod_data, rm_production, drop_table, truncate] and not backup_confirmed
+  - id: R-02
+    name: 受保护分支 force-push / 重写共享历史
+    detect: type == force_push and branch in [main, master, protected]
+  - id: R-03
+    name: 为让它能跑而禁用安全控制
+    detect: type == disable_security and reason in [to_make_it_work, to_pass, temporary]
+  - id: R-04
+    name: 绕过评审直接合入 main
+    detect: type == merge_without_review
+  - id: R-05
+    name: 禁用/删改测试让 CI 变绿
+    detect: type in [skip_test, xfail_test, delete_test, disable_assertion] and reason == to_pass_ci
+  - id: R-06
+    name: 生产自动跑未批准 schema migration
+    detect: type == schema_migration and target == production and not human_approved
+  - id: R-07
+    name: 凭据/密钥硬编码或落 VCS/日志/明文
+    detect: type in [hardcode_key, write_credential, commit_secret, log_secret] or contains_plaintext_secret
+  - id: R-08
+    name: 禁用嵌入式/控制系统安全联锁
+    detect: type == disable_safety_interlock
+  - id: R-09
+    name: 篡改/删除/绕过审计日志
+    detect: type in [tamper_audit_log, delete_audit_log, bypass_audit]
+  - id: R-10
+    name: 数据外泄出已批准边界
+    detect: external_send in flags and not approved_boundary
+  - id: R-11
+    name: 提升权限运行未审查代码
+    detect: type == exec_unreviewed_code and privilege == elevated
+  - id: R-12
+    name: 进化 patch 试图修改 Plane-0
+    detect: type == evolve_patch and "Plane-0" in target
+
+handling: 命中即 BLOCK + notify human + 写 audit.redline_hits；不因紧急/演示/口头同意解除。
+
+  # ---- 企业工作台新增 R-13..R-19（措辞建议与 Constitution v2 权威文本最终对齐）----
+  - id: R-13
+    name: 跨租户/越权访问他人私有知识库或会话
+    detect: type in [access_kb, read_session] and visibility==private and owner_id not in [null, caller_id]
+  - id: R-14
+    name: 敏感数据(PII/凭据/机密)路由或外发出企业边界
+    detect: type in [route, send] and data_class in [CONFIDENTIAL, RESTRICTED] and destination==external
+  - id: R-15
+    name: 篡改/绕过配额或计费记录
+    detect: type in [tamper_quota, bypass_billing, forge_usage]
+  - id: R-16
+    name: 未脱敏 PII 写入日志/思考面板/外部输出
+    detect: contains_unmasked_pii and sink in [log, trace_panel, external]
+  - id: R-17
+    name: 管理员身份执行未经审批的批量用户数据导出
+    detect: type==bulk_export and scope==user_data and not approval_ticket
+  - id: R-18
+    name: 修改/删除他人会话、数据或智能体
+    detect: type in [modify, delete] and target_kind in [session, user_data, agent] and owner_id not in [null, caller_id] and caller_role != admin
+  - id: R-19
+    name: 注入层之外动态提权或覆盖 CONSTITUTION 约束块
+    detect: type==override_constitution or (type==privilege_escalation and not authorized)
+
+count: 19
+note: R-01..R-12 来自 SecureGuard 原实现，R-13..R-19 为企业工作台扩展，需与 Constitution v2 逐条核对措辞。

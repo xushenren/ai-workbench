@@ -1,1 +1,62 @@
-Ly8gUGFyc2VyTWFwcGluZ1BhbmVsLnRzeCDigJQg566h55CGOuaWh+S7tuexu+Wei+KGlOino+aekOWZqOaYoOWwhCArIOWFpeW6k+mZkOWIti9PQ1Ig5byA5YWz44CC5LuF566h55CG5ZGY44CCCmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFBsdXMsIExvYWRlcjIgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBDYXJkLCBCdXR0b24sIEJhZGdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3ByaW1pdGl2ZXMiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwoKZXhwb3J0IGZ1bmN0aW9uIFBhcnNlck1hcHBpbmdQYW5lbCgpIHsKICBjb25zdCBbbWFwcywgc2V0TWFwc10gPSB1c2VTdGF0ZTxhbnlbXT4oW10pOwogIGNvbnN0IFtjZmcsIHNldENmZ10gPSB1c2VTdGF0ZTxhbnk+KHsgbWF4X2ZpbGVzOiA1MCwgbWF4X2ZpbGVfbWI6IDIwLCBtYXhfdG90YWxfbWI6IDEwMCwgb2NyX2VuYWJsZWQ6IGZhbHNlLCBvY3JfbGFuZzogImNoIiB9KTsKICBjb25zdCBbbmYsIHNldE5mXSA9IHVzZVN0YXRlKHsgZXh0OiAiIiwgZXh0ZXJuYWxfY21kOiAiIiwgbm90ZTogIiIgfSk7CiAgY29uc3QgW2J1c3ksIHNldEJ1c3ldID0gdXNlU3RhdGUoZmFsc2UpOwoKICBjb25zdCByZWZyZXNoID0gKCkgPT4gYXBpLmxpc3RQYXJzZXJzKCkudGhlbihzZXRNYXBzKS5jYXRjaCgoKSA9PiB7fSk7CiAgdXNlRWZmZWN0KCgpID0+IHsgcmVmcmVzaCgpOyBhcGkuZ2V0SW5nZXN0Q29uZmlnKCkudGhlbihzZXRDZmcpLmNhdGNoKCgpID0+IHt9KTsgfSwgW10pOwoKICBjb25zdCBhZGRNYXAgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIW5mLmV4dC50cmltKCkpIHJldHVybjsKICAgIHNldEJ1c3kodHJ1ZSk7CiAgICB0cnkgeyBhd2FpdCBhcGkuYWRkUGFyc2VyKHsgZXh0OiBuZi5leHQudHJpbSgpLCBleHRlcm5hbF9jbWQ6IG5mLmV4dGVybmFsX2NtZC50cmltKCksIG5vdGU6IG5mLm5vdGUudHJpbSgpIH0pOyBzZXROZih7IGV4dDogIiIsIGV4dGVybmFsX2NtZDogIiIsIG5vdGU6ICIiIH0pOyByZWZyZXNoKCk7IH0KICAgIGZpbmFsbHkgeyBzZXRCdXN5KGZhbHNlKTsgfQogIH07CiAgY29uc3Qgc2F2ZUNmZyA9IGFzeW5jICgpID0+IHsgc2V0QnVzeSh0cnVlKTsgdHJ5IHsgYXdhaXQgYXBpLnNldEluZ2VzdENvbmZpZyhjZmcpOyB9IGZpbmFsbHkgeyBzZXRCdXN5KGZhbHNlKTsgfSB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNSI+CiAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC01Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMyB0ZXh0LXNtIGZvbnQtbWVkaXVtIj7lhaXlupPpmZDliLYgLyBPQ1I8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMyBnYXAtMyB0ZXh0LXNtIj4KICAgICAgICAgIDxMIGxhYmVsPSLljZXmrKHmlofku7bmlbAiPjxpbnB1dCB0eXBlPSJudW1iZXIiIHZhbHVlPXtjZmcubWF4X2ZpbGVzfSBvbkNoYW5nZT17KGUpID0+IHNldENmZyh7IC4uLmNmZywgbWF4X2ZpbGVzOiArZS50YXJnZXQudmFsdWUgfSl9IGNsYXNzTmFtZT17aW5wfSAvPjwvTD4KICAgICAgICAgIDxMIGxhYmVsPSLljZXmlofku7YgTUIiPjxpbnB1dCB0eXBlPSJudW1iZXIiIHZhbHVlPXtjZmcubWF4X2ZpbGVfbWJ9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0Q2ZnKHsgLi4uY2ZnLCBtYXhfZmlsZV9tYjogK2UudGFyZ2V0LnZhbHVlIH0pfSBjbGFzc05hbWU9e2lucH0gLz48L0w+CiAgICAgICAgICA8TCBsYWJlbD0i5Y2V5qyh5oC7IE1CIj48aW5wdXQgdHlwZT0ibnVtYmVyIiB2YWx1ZT17Y2ZnLm1heF90b3RhbF9tYn0gb25DaGFuZ2U9eyhlKSA9PiBzZXRDZmcoeyAuLi5jZmcsIG1heF90b3RhbF9tYjogK2UudGFyZ2V0LnZhbHVlIH0pfSBjbGFzc05hbWU9e2lucH0gLz48L0w+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTMgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTQgdGV4dC1zbSI+CiAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+PGlucHV0IHR5cGU9ImNoZWNrYm94IiBjaGVja2VkPXtjZmcub2NyX2VuYWJsZWR9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0Q2ZnKHsgLi4uY2ZnLCBvY3JfZW5hYmxlZDogZS50YXJnZXQuY2hlY2tlZCB9KX0gLz4g5ZCv55SoIE9DUijmiavmj4/ku7Yv5Zu+54mHKTwvbGFiZWw+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZCI+5pys5py657Sn5byg5Y+v5YWzLOi/geacjeWKoeWZqOWGjeW8gDwvc3Bhbj4KICAgICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIG9uQ2xpY2s9e3NhdmVDZmd9IGRpc2FibGVkPXtidXN5fSBjbGFzc05hbWU9Im1sLWF1dG8iPuS/neWtmOmFjee9rjwvQnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICA8L0NhcmQ+CgogICAgICA8Q2FyZCBjbGFzc05hbWU9InAtNSI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTMgdGV4dC1zbSBmb250LW1lZGl1bSI+5paH5Lu257G75Z6LIOKGlCDop6PmnpDlmajmmKDlsIQ8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMyBmbGV4IGZsZXgtd3JhcCBnYXAtMS41Ij4KICAgICAgICAgIHttYXBzLm1hcCgobSkgPT4gKAogICAgICAgICAgICA8QmFkZ2Uga2V5PXttLmV4dH0+e20uZXh0fSDihpIge20ucGFyc2VyIHx8IG0uZXh0ZXJuYWxfY21kIHx8ICI/In08L0JhZGdlPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHRleHQtc20iPgogICAgICAgICAgPFBsdXMgc2l6ZT17MTV9IGNsYXNzTmFtZT0idGV4dC1hY2NlbnQiIC8+CiAgICAgICAgICA8aW5wdXQgdmFsdWU9e25mLmV4dH0gb25DaGFuZ2U9eyhlKSA9PiBzZXROZih7IC4uLm5mLCBleHQ6IGUudGFyZ2V0LnZhbHVlIH0pfSBwbGFjZWhvbGRlcj0iLmR3ZyIgY2xhc3NOYW1lPXtgJHtpbnB9IHctMjRgfSAvPgogICAgICAgICAgPGlucHV0IHZhbHVlPXtuZi5leHRlcm5hbF9jbWR9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0TmYoeyAuLi5uZiwgZXh0ZXJuYWxfY21kOiBlLnRhcmdldC52YWx1ZSB9KX0gcGxhY2Vob2xkZXI9IuWklumDqOWRveS7pCBkd2cydHh0IHtpbnB1dH0ge291dHB1dH0iIGNsYXNzTmFtZT17aW5wfSAvPgogICAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgb25DbGljaz17YWRkTWFwfSBkaXNhYmxlZD17YnVzeX0+e2J1c3kgPyA8TG9hZGVyMiBzaXplPXsxNH0gY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4iIC8+IDogIua3u+WKoCJ9PC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0yIHRleHQteHMgdGV4dC1tdXRlZCI+5LiT5pyJ5qC85byPKOWmgiAuZHdnKeaMh+WumuWklumDqOino+aekOW3peWFt+WNs+WPr+aUr+aMgSzml6DpnIDmlLnku6PnoIE75Lmf5Y+v5Zyo5ZCO5Y+w55SoIG1kL2V4Y2VsIOaJuemHj+WvvOWFpeaYoOWwhOOAgjwvcD4KICAgICAgPC9DYXJkPgogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gTCh7IGxhYmVsLCBjaGlsZHJlbiB9OiB7IGxhYmVsOiBzdHJpbmc7IGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGUgfSkgewogIHJldHVybiA8ZGl2PjxkaXYgY2xhc3NOYW1lPSJtYi0xIHRleHQteHMgdGV4dC1tdXRlZCI+e2xhYmVsfTwvZGl2PntjaGlsZHJlbn08L2Rpdj47Cn0KY29uc3QgaW5wID0gInctZnVsbCByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcHgtMi41IHB5LTEuNSB0ZXh0LXNtIjsK
+// ParserMappingPanel.tsx — 管理:文件类型↔解析器映射 + 入库限制/OCR 开关。仅管理员。
+import { useEffect, useState } from "react";
+import { Plus, Loader2 } from "lucide-react";
+import { Card, Button, Badge } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+
+export function ParserMappingPanel() {
+  const [maps, setMaps] = useState<any[]>([]);
+  const [cfg, setCfg] = useState<any>({ max_files: 50, max_file_mb: 20, max_total_mb: 100, ocr_enabled: false, ocr_lang: "ch" });
+  const [nf, setNf] = useState({ ext: "", external_cmd: "", note: "" });
+  const [busy, setBusy] = useState(false);
+
+  const refresh = () => api.listParsers().then(setMaps).catch(() => {});
+  useEffect(() => { refresh(); api.getIngestConfig().then(setCfg).catch(() => {}); }, []);
+
+  const addMap = async () => {
+    if (!nf.ext.trim()) return;
+    setBusy(true);
+    try { await api.addParser({ ext: nf.ext.trim(), external_cmd: nf.external_cmd.trim(), note: nf.note.trim() }); setNf({ ext: "", external_cmd: "", note: "" }); refresh(); }
+    finally { setBusy(false); }
+  };
+  const saveCfg = async () => { setBusy(true); try { await api.setIngestConfig(cfg); } finally { setBusy(false); } };
+
+  return (
+    <div className="space-y-5">
+      <Card className="p-5">
+        <div className="mb-3 text-sm font-medium">入库限制 / OCR</div>
+        <div className="grid grid-cols-3 gap-3 text-sm">
+          <L label="单次文件数"><input type="number" value={cfg.max_files} onChange={(e) => setCfg({ ...cfg, max_files: +e.target.value })} className={inp} /></L>
+          <L label="单文件 MB"><input type="number" value={cfg.max_file_mb} onChange={(e) => setCfg({ ...cfg, max_file_mb: +e.target.value })} className={inp} /></L>
+          <L label="单次总 MB"><input type="number" value={cfg.max_total_mb} onChange={(e) => setCfg({ ...cfg, max_total_mb: +e.target.value })} className={inp} /></L>
+        </div>
+        <div className="mt-3 flex items-center gap-4 text-sm">
+          <label className="flex items-center gap-2"><input type="checkbox" checked={cfg.ocr_enabled} onChange={(e) => setCfg({ ...cfg, ocr_enabled: e.target.checked })} /> 启用 OCR(扫描件/图片)</label>
+          <span className="text-xs text-muted">本机紧张可关,迁服务器再开</span>
+          <Button size="sm" onClick={saveCfg} disabled={busy} className="ml-auto">保存配置</Button>
+        </div>
+      </Card>
+
+      <Card className="p-5">
+        <div className="mb-3 text-sm font-medium">文件类型 ↔ 解析器映射</div>
+        <div className="mb-3 flex flex-wrap gap-1.5">
+          {maps.map((m) => (
+            <Badge key={m.ext}>{m.ext} → {m.parser || m.external_cmd || "?"}</Badge>
+          ))}
+        </div>
+        <div className="flex items-center gap-2 text-sm">
+          <Plus size={15} className="text-accent" />
+          <input value={nf.ext} onChange={(e) => setNf({ ...nf, ext: e.target.value })} placeholder=".dwg" className={`${inp} w-24`} />
+          <input value={nf.external_cmd} onChange={(e) => setNf({ ...nf, external_cmd: e.target.value })} placeholder="外部命令 dwg2txt {input} {output}" className={inp} />
+          <Button size="sm" onClick={addMap} disabled={busy}>{busy ? <Loader2 size={14} className="animate-spin" /> : "添加"}</Button>
+        </div>
+        <p className="mt-2 text-xs text-muted">专有格式(如 .dwg)指定外部解析工具即可支持,无需改代码;也可在后台用 md/excel 批量导入映射。</p>
+      </Card>
+    </div>
+  );
+}
+
+function L({ label, children }: { label: string; children: React.ReactNode }) {
+  return <div><div className="mb-1 text-xs text-muted">{label}</div>{children}</div>;
+}
+const inp = "w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm";

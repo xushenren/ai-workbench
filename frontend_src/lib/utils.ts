@@ -1,1 +1,17 @@
-aW1wb3J0IHsgY2xzeCwgdHlwZSBDbGFzc1ZhbHVlIH0gZnJvbSAiY2xzeCI7CmltcG9ydCB7IHR3TWVyZ2UgfSBmcm9tICJ0YWlsd2luZC1tZXJnZSI7CgovKiog5ZCI5bm2IFRhaWx3aW5kIOexu+WQje+8jOino+WGs+WGsueqgeOAgiAqLwpleHBvcnQgZnVuY3Rpb24gY24oLi4uaW5wdXRzOiBDbGFzc1ZhbHVlW10pOiBzdHJpbmcgewogIHJldHVybiB0d01lcmdlKGNsc3goaW5wdXRzKSk7Cn0KCi8qKiDljYPliIbkvY3moLzlvI/ljJYgdG9rZW4g6K6h5pWw44CCICovCmV4cG9ydCBmdW5jdGlvbiBmbXQobjogbnVtYmVyKTogc3RyaW5nIHsKICByZXR1cm4gbi50b0xvY2FsZVN0cmluZygiZW4tVVMiKTsKfQoKLyoqIOeUn+aIkOefremaj+acuiBpZO+8iOS7heWJjeerr+acrOWcsOeUqO+8jOmdnuWuieWFqOeUqOmAlO+8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gdWlkKHByZWZpeCA9ICIiKTogc3RyaW5nIHsKICByZXR1cm4gcHJlZml4ICsgTWF0aC5yYW5kb20oKS50b1N0cmluZygzNikuc2xpY2UoMiwgMTApOwp9Cg==
+import { clsx, type ClassValue } from "clsx";
+import { twMerge } from "tailwind-merge";
+
+/** 合并 Tailwind 类名，解决冲突。 */
+export function cn(...inputs: ClassValue[]): string {
+  return twMerge(clsx(inputs));
+}
+
+/** 千分位格式化 token 计数。 */
+export function fmt(n: number): string {
+  return n.toLocaleString("en-US");
+}
+
+/** 生成短随机 id（仅前端本地用，非安全用途）。 */
+export function uid(prefix = ""): string {
+  return prefix + Math.random().toString(36).slice(2, 10);
+}

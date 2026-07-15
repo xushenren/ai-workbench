@@ -1,1 +1,18 @@
-IyDmoLjlv4PlronlhajlsYLvvIhMMC9MMS9MMy9MNCArIOWNj+iwg+WZqO+8iembtuesrOS4ieaWueS+nei1lu+8jOe6r+agh+WHhuW6k+WNs+WPr+i/kOihjOS4jua1i+ivleOAggojIOS7peS4i+S+nei1luS7heeUn+S6p+mDqOe9su+8iOecn+WunuaooeWeiy/lkJHph4/lupMvSFRUUCDmnI3liqHvvInml7bpnIDopoHjgIIKCiMgLS0tIEhUVFAg5pyN5YqhIC0tLQpmYXN0YXBpPj0wLjExMAp1dmljb3JuW3N0YW5kYXJkXT49MC4yOQpweWRhbnRpYz49Mi42CgojIC0tLSBMMiDmjqjnkIbvvIjnnJ/lrp7lkI7nq6/vvIzkuozpgInkuIDmiJbpg73oo4XvvIktLS0Kb3BlbmFpPj0xLjMwICAgICAgICAgICAgICAgICAjIOi1sCB2TExNIOeahCBPcGVuQUkg5YW85a6556uv54K5CmNocm9tYWRiPj0wLjUgICAgICAgICAgICAgICAgIyDlkJHph4/lupMKc2VudGVuY2UtdHJhbnNmb3JtZXJzPj0yLjcgICAjIGVtYmVkZGluZwoKIyAtLS0g6YWN572uL+a1i+ivlSAtLS0KUHlZQU1MPj02LjAKcHl0ZXN0Pj04LjAKCiMg5rOo77yadkxMTSDpnIDljZXni6zmjIkgR1BVIOeOr+Wig+Wuieijhe+8iHBpcCBpbnN0YWxsIHZsbG3vvInvvIzkuI3lnKjmnKzmlofku7blvLrliLbnuqbmnZ/jgIIK
+# 核心安全层（L0/L1/L3/L4 + 协调器）零第三方依赖，纯标准库即可运行与测试。
+# 以下依赖仅生产部署（真实模型/向量库/HTTP 服务）时需要。
+
+# --- HTTP 服务 ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+
+# --- L2 推理（真实后端，二选一或都装）---
+openai>=1.30                 # 走 vLLM 的 OpenAI 兼容端点
+chromadb>=0.5                # 向量库
+sentence-transformers>=2.7   # embedding
+
+# --- 配置/测试 ---
+PyYAML>=6.0
+pytest>=8.0
+
+# 注：vLLM 需单独按 GPU 环境安装（pip install vllm），不在本文件强制约束。

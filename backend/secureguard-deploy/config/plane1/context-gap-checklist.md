@@ -1,1 +1,15 @@
-IyBjb250ZXh0LWdhcC1jaGVja2xpc3QubWQgIChQbGFuZS0xIMK3IFJlZmluZXIg5Y+v6L+95YqgKQoKPiBDMiDnvLrlj6Pmo4Dmn6XpobnnmoTovb3kvZPjgILlkb3kuK3ku7vkuIDpobkg4oaSIGdhdGUg6L+U5ZueIEFTS++8jOWQkeS6uuexu+ihpeWFqOWQjuS7juacrOmXqOmHjeWFpeOAggo+IOacrOaWh+S7tuWPr+eUsei/m+WMlua1geeoi+i/veWKoOaWsOmhue+8iOi1sCBMMyDkupTpgZPpl6ggKyBnaXTvvInvvIzkvYbkuI3lvpfliKDmlLkgUGxhbmUtMOOAggoKIyMg6buY6K6k57y65Y+j6aG5Ci0gWyBdIOebruagh+eOr+Wig+acquaMh+aYju+8iHByb2QgLyBzdGFnaW5nIC8gZGV277yJCi0gWyBdIOerr+WPoyAvIOi2heaXtiAvIOWMuuWfn+etieWFs+mUrumFjee9ruS9v+eUqOS6huKAnOm7mOiupOWAvOWBh+iuvuKAnQotIFsgXSDmlbDmja7mnaXmupDnvLrlsJEgcHJvdmVuYW5jZe+8iMKnMi4yIOihgOe8mOmXqO+8iQotIFsgXSDkuI3lj6/pgIbmk43kvZznvLrlsJHigJzlt7Lnoa7orqTigJ3moIforrAKLSBbIF0g57y65bCR5Zue5rua5pa55qGIIC8g5bey5rWL6YCG5ZCR6ISa5pysCi0gWyBdIHN0YWdpbmcg5LiOIHByb2Qg6YWN572u5LiA6Ie05oCn5pyq5qC45a+5CgojIyDov5vljJbov73liqDljLrvvIhSZWZpbmVyIGFwcGVuZC1vbmx577yJCjwhLS0g5paw5aKe57y65Y+j6aG55YaZ5Zyo5q2k6KGM5Lul5LiL77yM5q+P6aG55rOo5piO5p2l5rqQ5aSx6LSl55So5L6LIGlkIC0tPgo=
+# context-gap-checklist.md  (Plane-1 · Refiner 可追加)
+
+> C2 缺口检查项的载体。命中任一项 → gate 返回 ASK，向人类补全后从本门重入。
+> 本文件可由进化流程追加新项（走 L3 五道门 + git），但不得删改 Plane-0。
+
+## 默认缺口项
+- [ ] 目标环境未指明（prod / staging / dev）
+- [ ] 端口 / 超时 / 区域等关键配置使用了“默认值假设”
+- [ ] 数据来源缺少 provenance（§2.2 血缘门）
+- [ ] 不可逆操作缺少“已确认”标记
+- [ ] 缺少回滚方案 / 已测逆向脚本
+- [ ] staging 与 prod 配置一致性未核对
+
+## 进化追加区（Refiner append-only）
+<!-- 新增缺口项写在此行以下，每项注明来源失败用例 id -->

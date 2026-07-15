@@ -1,1 +1,31 @@
-77u/ewogICJuYW1lIjogIkFJIFdvcmtiZW5jaCIsCiAgImltYWdlIjogIm1jci5taWNyb3NvZnQuY29tL2RldmNvbnRhaW5lcnMvdW5pdmVyc2FsOjIiLAogICJmZWF0dXJlcyI6IHsKICAgICJnaGNyLmlvL2RldmNvbnRhaW5lcnMvZmVhdHVyZXMvbm9kZToxIjoge30sCiAgICAiZ2hjci5pby9kZXZjb250YWluZXJzL2ZlYXR1cmVzL3B5dGhvbjoxIjoge30KICB9LAogICJwb3N0Q3JlYXRlQ29tbWFuZCI6ICJiYXNoIHNjcmlwdHMvc2V0dXAuc2giLAogICJmb3J3YXJkUG9ydHMiOiBbNTE3MywgOTAwMF0sCiAgInBvcnRzQXR0cmlidXRlcyI6IHsKICAgICI1MTczIjogeyAibGFiZWwiOiAiRnJvbnRlbmQiLCAib25BdXRvRm9yd2FyZCI6ICJvcGVuQnJvd3NlciIgfSwKICAgICI5MDAwIjogeyAibGFiZWwiOiAiQmFja2VuZCBBUEkiIH0KICB9LAogICJjdXN0b21pemF0aW9ucyI6IHsKICAgICJ2c2NvZGUiOiB7CiAgICAgICJleHRlbnNpb25zIjogWyJkYmFldW1lci52c2NvZGUtZXNsaW50IiwibXMtcHl0aG9uLnB5dGhvbiIsImJyYWRsYy52c2NvZGUtdGFpbHdpbmRjc3MiXQogICAgfQogIH0KfQ0K
+{
+  "name": "AI Workbench",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/devcontainers/features/python:1": {}
+  },
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "forwardPorts": [
+    5173,
+    9000
+  ],
+  "portsAttributes": {
+    "5173": {
+      "label": "Frontend",
+      "onAutoForward": "openBrowser"
+    },
+    "9000": {
+      "label": "Backend API"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "ms-python.python",
+        "bradlc.vscode-tailwindcss"
+      ]
+    }
+  }
+}

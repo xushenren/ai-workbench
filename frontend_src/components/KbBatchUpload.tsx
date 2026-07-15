@@ -1,1 +1,63 @@
-Ly8gS2JCYXRjaFVwbG9hZC50c3gg4oCUIOaJuemHj+WFpeW6kzrmi5blhaXlpJrkuKrmlofku7bmiJbkuIDkuKogemlwLOiHquWKqOino+aekOWFpeW6kyzmmL7npLrmiqXlkYrjgIIKLy8g5pS+6L+bIEtub3dsZWRnZUJhc2VWaWV3KOmAieS4reafkOS4quW6k+aXtuaYvuekuiks5oiW54us56uL6Z2i5p2/44CCcHJvcHMua2JJZCDkuLrnm67moIflupPjgIIKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZVJlZiB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgVXBsb2FkQ2xvdWQsIExvYWRlcjIsIENoZWNrQ2lyY2xlMiwgU2tpcEZvcndhcmQsIEFsZXJ0VHJpYW5nbGUgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBDYXJkIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3ByaW1pdGl2ZXMiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwoKdHlwZSBSZXBvcnQgPSBBd2FpdGVkPFJldHVyblR5cGU8dHlwZW9mIGFwaS5iYXRjaEluZ2VzdD4+OwoKZXhwb3J0IGZ1bmN0aW9uIEtiQmF0Y2hVcGxvYWQoeyBrYklkLCBrYk5hbWUgfTogeyBrYklkOiBzdHJpbmc7IGtiTmFtZT86IHN0cmluZyB9KSB7CiAgY29uc3QgW2J1c3ksIHNldEJ1c3ldID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtyZXBvcnQsIHNldFJlcG9ydF0gPSB1c2VTdGF0ZTxSZXBvcnQgfCBudWxsPihudWxsKTsKICBjb25zdCBbZXJyLCBzZXRFcnJdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtkcmFnLCBzZXREcmFnXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBpbnB1dFJlZiA9IHVzZVJlZjxIVE1MSW5wdXRFbGVtZW50PihudWxsKTsKCiAgY29uc3QgaGFuZGxlID0gYXN5bmMgKGZpbGVzOiBGaWxlTGlzdCB8IG51bGwpID0+IHsKICAgIGlmICghZmlsZXMgfHwgZmlsZXMubGVuZ3RoID09PSAwKSByZXR1cm47CiAgICBzZXRCdXN5KHRydWUpOyBzZXRFcnIoIiIpOyBzZXRSZXBvcnQobnVsbCk7CiAgICB0cnkgewogICAgICBjb25zdCByZXAgPSBhd2FpdCBhcGkuYmF0Y2hJbmdlc3Qoa2JJZCwgQXJyYXkuZnJvbShmaWxlcykpOwogICAgICBzZXRSZXBvcnQocmVwKTsKICAgIH0gY2F0Y2ggKGU6IGFueSkgeyBzZXRFcnIoZS5tZXNzYWdlIHx8ICLlhaXlupPlpLHotKUiKTsgfQogICAgZmluYWxseSB7IHNldEJ1c3koZmFsc2UpOyB9CiAgfTsKCiAgcmV0dXJuICgKICAgIDxDYXJkIGNsYXNzTmFtZT0icC01Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTEgdGV4dC1zbSBmb250LW1lZGl1bSI+5om56YeP5YWl5bqTe2tiTmFtZSA/IGAgwrcgJHtrYk5hbWV9YCA6ICIifTwvZGl2PgogICAgICA8cCBjbGFzc05hbWU9Im1iLTMgdGV4dC14cyB0ZXh0LW11dGVkIj7mi5blhaXlpJrkuKrmlofmoaPmiJbkuIDkuKrljovnvKnljIUoemlwIOiHquWKqOino+WOiynjgILmlK/mjIEgUERGL1dvcmQvRXhjZWwvUFBUL3R4dC9tZC9jc3Y75omr5o+P5Lu2L+WbvueJh+mcgOeuoeeQhuWRmOW8gOWQryBPQ1LjgII8L3A+CgogICAgICA8ZGl2CiAgICAgICAgb25EcmFnT3Zlcj17KGUpID0+IHsgZS5wcmV2ZW50RGVmYXVsdCgpOyBzZXREcmFnKHRydWUpOyB9fQogICAgICAgIG9uRHJhZ0xlYXZlPXsoKSA9PiBzZXREcmFnKGZhbHNlKX0KICAgICAgICBvbkRyb3A9eyhlKSA9PiB7IGUucHJldmVudERlZmF1bHQoKTsgc2V0RHJhZyhmYWxzZSk7IGhhbmRsZShlLmRhdGFUcmFuc2Zlci5maWxlcyk7IH19CiAgICAgICAgb25DbGljaz17KCkgPT4gaW5wdXRSZWYuY3VycmVudD8uY2xpY2soKX0KICAgICAgICBjbGFzc05hbWU9e2BmbGV4IGN1cnNvci1wb2ludGVyIGZsZXgtY29sIGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci1kYXNoZWQgcHgtNCBweS0xMCB0ZXh0LWNlbnRlciB0cmFuc2l0aW9uLWNvbG9ycyAke2RyYWcgPyAiYm9yZGVyLWFjY2VudCBiZy1hY2NlbnQvNSIgOiAiYm9yZGVyLWJvcmRlciBob3ZlcjpiZy1zdXJmYWNlLTIifWB9PgogICAgICAgIHtidXN5ID8gPExvYWRlcjIgY2xhc3NOYW1lPSJhbmltYXRlLXNwaW4gdGV4dC1hY2NlbnQiIC8+IDogPFVwbG9hZENsb3VkIGNsYXNzTmFtZT0idGV4dC1hY2NlbnQiIC8+fQogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSI+e2J1c3kgPyAi6Kej5p6Q5YWl5bqT5Lit4oCmIiA6ICLngrnlh7vmiJbmi5blhaXmlofku7YgLyDljovnvKnljIUifTwvc3Bhbj4KICAgICAgICA8aW5wdXQgcmVmPXtpbnB1dFJlZn0gdHlwZT0iZmlsZSIgbXVsdGlwbGUgY2xhc3NOYW1lPSJoaWRkZW4iCiAgICAgICAgICBhY2NlcHQ9Ii5wZGYsLmRvYywuZG9jeCwueGxzLC54bHN4LC5jc3YsLnBwdCwucHB0eCwudHh0LC5tZCwuemlwLC5wbmcsLmpwZywuanBlZyIKICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gaGFuZGxlKGUudGFyZ2V0LmZpbGVzKX0gLz4KICAgICAgPC9kaXY+CgogICAgICB7ZXJyICYmIDxkaXYgY2xhc3NOYW1lPSJtdC0zIHRleHQteHMgdGV4dC1yZWQtNTAwIj57ZXJyfTwvZGl2Pn0KCiAgICAgIHtyZXBvcnQgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0yIGZsZXggZ2FwLTQgdGV4dC14cyI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgdGV4dC1hY2NlbnQiPjxDaGVja0NpcmNsZTIgc2l6ZT17MTR9IC8+5YWl5bqTIHtyZXBvcnQuc3VtbWFyeS5pbmdlc3RlZH08L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgdGV4dC1tdXRlZCI+PFNraXBGb3J3YXJkIHNpemU9ezE0fSAvPui3s+i/hyB7cmVwb3J0LnN1bW1hcnkuc2tpcHBlZH08L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgdGV4dC1yZWQtNTAwIj48QWxlcnRUcmlhbmdsZSBzaXplPXsxNH0gLz7lpLHotKUge3JlcG9ydC5zdW1tYXJ5LmZhaWxlZH08L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtaC00NCBvdmVyZmxvdy15LWF1dG8gcm91bmRlZC1tZCBiZy1zdXJmYWNlLTIgcC0yIHRleHQteHMiPgogICAgICAgICAgICB7cmVwb3J0LmluZ2VzdGVkLm1hcCgociwgaSkgPT4gPGRpdiBrZXk9eyJpIiArIGl9IGNsYXNzTmFtZT0idGV4dC1hY2NlbnQiPuKckyB7ci5maWxlfSAoe3IuY2hhcnN9IOWtlyk8L2Rpdj4pfQogICAgICAgICAgICB7cmVwb3J0LnNraXBwZWQubWFwKChyLCBpKSA9PiA8ZGl2IGtleT17InMiICsgaX0gY2xhc3NOYW1lPSJ0ZXh0LW11dGVkIj7igJMge3IuZmlsZX06e3IucmVhc29ufTwvZGl2Pil9CiAgICAgICAgICAgIHtyZXBvcnQuZmFpbGVkLm1hcCgociwgaSkgPT4gPGRpdiBrZXk9eyJmIiArIGl9IGNsYXNzTmFtZT0idGV4dC1yZWQtNTAwIj7inJcge3IuZmlsZX06e3IucmVhc29ufTwvZGl2Pil9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgIDwvQ2FyZD4KICApOwp9Cg==
+// KbBatchUpload.tsx — 批量入库:拖入多个文件或一个 zip,自动解析入库,显示报告。
+// 放进 KnowledgeBaseView(选中某个库时显示),或独立面板。props.kbId 为目标库。
+import { useState, useRef } from "react";
+import { UploadCloud, Loader2, CheckCircle2, SkipForward, AlertTriangle } from "lucide-react";
+import { Card } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+
+type Report = Awaited<ReturnType<typeof api.batchIngest>>;
+
+export function KbBatchUpload({ kbId, kbName }: { kbId: string; kbName?: string }) {
+  const [busy, setBusy] = useState(false);
+  const [report, setReport] = useState<Report | null>(null);
+  const [err, setErr] = useState("");
+  const [drag, setDrag] = useState(false);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  const handle = async (files: FileList | null) => {
+    if (!files || files.length === 0) return;
+    setBusy(true); setErr(""); setReport(null);
+    try {
+      const rep = await api.batchIngest(kbId, Array.from(files));
+      setReport(rep);
+    } catch (e: any) { setErr(e.message || "入库失败"); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <Card className="p-5">
+      <div className="mb-1 text-sm font-medium">批量入库{kbName ? ` · ${kbName}` : ""}</div>
+      <p className="mb-3 text-xs text-muted">拖入多个文档或一个压缩包(zip 自动解压)。支持 PDF/Word/Excel/PPT/txt/md/csv;扫描件/图片需管理员开启 OCR。</p>
+
+      <div
+        onDragOver={(e) => { e.preventDefault(); setDrag(true); }}
+        onDragLeave={() => setDrag(false)}
+        onDrop={(e) => { e.preventDefault(); setDrag(false); handle(e.dataTransfer.files); }}
+        onClick={() => inputRef.current?.click()}
+        className={`flex cursor-pointer flex-col items-center gap-2 rounded-card border border-dashed px-4 py-10 text-center transition-colors ${drag ? "border-accent bg-accent/5" : "border-border hover:bg-surface-2"}`}>
+        {busy ? <Loader2 className="animate-spin text-accent" /> : <UploadCloud className="text-accent" />}
+        <span className="text-sm">{busy ? "解析入库中…" : "点击或拖入文件 / 压缩包"}</span>
+        <input ref={inputRef} type="file" multiple className="hidden"
+          accept=".pdf,.doc,.docx,.xls,.xlsx,.csv,.ppt,.pptx,.txt,.md,.zip,.png,.jpg,.jpeg"
+          onChange={(e) => handle(e.target.files)} />
+      </div>
+
+      {err && <div className="mt-3 text-xs text-red-500">{err}</div>}
+
+      {report && (
+        <div className="mt-4">
+          <div className="mb-2 flex gap-4 text-xs">
+            <span className="flex items-center gap-1 text-accent"><CheckCircle2 size={14} />入库 {report.summary.ingested}</span>
+            <span className="flex items-center gap-1 text-muted"><SkipForward size={14} />跳过 {report.summary.skipped}</span>
+            <span className="flex items-center gap-1 text-red-500"><AlertTriangle size={14} />失败 {report.summary.failed}</span>
+          </div>
+          <div className="max-h-44 overflow-y-auto rounded-md bg-surface-2 p-2 text-xs">
+            {report.ingested.map((r, i) => <div key={"i" + i} className="text-accent">✓ {r.file} ({r.chars} 字)</div>)}
+            {report.skipped.map((r, i) => <div key={"s" + i} className="text-muted">– {r.file}:{r.reason}</div>)}
+            {report.failed.map((r, i) => <div key={"f" + i} className="text-red-500">✗ {r.file}:{r.reason}</div>)}
+          </div>
+        </div>
+      )}
+    </Card>
+  );
+}

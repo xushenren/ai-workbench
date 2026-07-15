@@ -1,1 +1,34 @@
-Ly8g6IGK5aSp5Yy66aG26YOo55qE5pm66IO95L2T6YCJ5oup5Zmo77ya5qiq5ZCRIHBpbGwg5oyJ6ZKu57uE44CCCmltcG9ydCB7IHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlQWdlbnRTdG9yZSwgdXNlQ2hhdFN0b3JlIH0gZnJvbSAiQC9zdG9yZXMvdXNlU3RvcmUiOwppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIjsKCmV4cG9ydCBmdW5jdGlvbiBBZ2VudFNlbGVjdG9yKCkgewogIGNvbnN0IHsgYWdlbnRzLCBmZXRjaEFnZW50cyB9ID0gdXNlQWdlbnRTdG9yZSgpOwogIGNvbnN0IHNlbGVjdGVkID0gdXNlQ2hhdFN0b3JlKChzKSA9PiBzLnNlbGVjdGVkQWdlbnRJZCk7CiAgY29uc3Qgc2VsZWN0QWdlbnQgPSB1c2VDaGF0U3RvcmUoKHMpID0+IHMuc2VsZWN0QWdlbnQpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKGFnZW50cy5sZW5ndGggPT09IDApIHZvaWQgZmV0Y2hBZ2VudHMoKTsKICB9LCBbYWdlbnRzLmxlbmd0aCwgZmV0Y2hBZ2VudHNdKTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICB7YWdlbnRzLm1hcCgoYSkgPT4gKAogICAgICAgIDxidXR0b24KICAgICAgICAgIGtleT17YS5pZH0KICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNlbGVjdEFnZW50KGEuaWQpfQogICAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICAgImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IHJvdW5kZWQtZnVsbCBib3JkZXIgcHgtMyBweS0xLjUgdGV4dC1zbSB0cmFuc2l0aW9uLWNvbG9ycyIsCiAgICAgICAgICAgIHNlbGVjdGVkID09PSBhLmlkCiAgICAgICAgICAgICAgPyAiYm9yZGVyLWFjY2VudCBiZy1hY2NlbnQvMTAgdGV4dC1hY2NlbnQiCiAgICAgICAgICAgICAgOiAiYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHRleHQtbXV0ZWQgaG92ZXI6dGV4dC10ZXh0IgogICAgICAgICAgKX0KICAgICAgICA+CiAgICAgICAgICA8c3Bhbj57YS5pY29ufTwvc3Bhbj4KICAgICAgICAgIHthLm5hbWV9CiAgICAgICAgPC9idXR0b24+CiAgICAgICkpfQogICAgPC9kaXY+CiAgKTsKfQo=
+// 聊天区顶部的智能体选择器：横向 pill 按钮组。
+import { useEffect } from "react";
+import { useAgentStore, useChatStore } from "@/stores/useStore";
+import { cn } from "@/lib/utils";
+
+export function AgentSelector() {
+  const { agents, fetchAgents } = useAgentStore();
+  const selected = useChatStore((s) => s.selectedAgentId);
+  const selectAgent = useChatStore((s) => s.selectAgent);
+
+  useEffect(() => {
+    if (agents.length === 0) void fetchAgents();
+  }, [agents.length, fetchAgents]);
+
+  return (
+    <div className="flex flex-wrap items-center gap-2">
+      {agents.map((a) => (
+        <button
+          key={a.id}
+          onClick={() => selectAgent(a.id)}
+          className={cn(
+            "inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm transition-colors",
+            selected === a.id
+              ? "border-accent bg-accent/10 text-accent"
+              : "border-border bg-surface text-muted hover:text-text"
+          )}
+        >
+          <span>{a.icon}</span>
+          {a.name}
+        </button>
+      ))}
+    </div>
+  );
+}

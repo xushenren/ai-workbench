@@ -1,1 +1,77 @@
-Ly8gL3JlZ2lzdGVyIOazqOWGjOmhte+8muaJi+acuuWPtyArIOWvhueggSArIOehruiupOWvhueggeOAguazqOWGjOaIkOWKn+WNs+eZu+W9leW5tui/m+WFpSAvY2hhdOOAggovLyDlronlhajvvJroh6rliqnms6jlhoznmoTop5LoibLnlLHlkI7nq6/lvLrliLbkuLogdXNlcu+8jOWJjeerr+S4jeaPkOS+m+inkuiJsumAieaLqe+8iOmYsuaPkOadg++8ieOAggppbXBvcnQgeyB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUsIExpbmsgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgTG9hZGVyMiwgVXNlclBsdXMgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvcHJpbWl0aXZlcyI7CmltcG9ydCB7IHVzZUF1dGhTdG9yZSB9IGZyb20gIkAvc3RvcmVzL3VzZUF1dGhTdG9yZSI7CgpleHBvcnQgZnVuY3Rpb24gUmVnaXN0ZXJQYWdlKCkgewogIGNvbnN0IG5hdmlnYXRlID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCByZWdpc3RlciA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy5yZWdpc3Rlcik7CiAgY29uc3QgbG9hZGluZyA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy5sb2FkaW5nKTsKICBjb25zdCBzZXJ2ZXJFcnJvciA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy5lcnJvcik7CgogIGNvbnN0IFtwaG9uZSwgc2V0UGhvbmVdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtwYXNzd29yZCwgc2V0UGFzc3dvcmRdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtjb25maXJtLCBzZXRDb25maXJtXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbbG9jYWxFcnIsIHNldExvY2FsRXJyXSA9IHVzZVN0YXRlKCIiKTsKCiAgY29uc3Qgc3VibWl0ID0gYXN5bmMgKCkgPT4gewogICAgc2V0TG9jYWxFcnIoIiIpOwogICAgaWYgKCEvXjFbMy05XVxkezl9JC8udGVzdChwaG9uZSkpIHsgc2V0TG9jYWxFcnIoIuivt+i+k+WFpeacieaViOeahCAxMSDkvY3miYvmnLrlj7ciKTsgcmV0dXJuOyB9CiAgICBpZiAocGFzc3dvcmQubGVuZ3RoIDwgNikgeyBzZXRMb2NhbEVycigi5a+G56CB6Iez5bCRIDYg5L2NIik7IHJldHVybjsgfQogICAgaWYgKHBhc3N3b3JkICE9PSBjb25maXJtKSB7IHNldExvY2FsRXJyKCLkuKTmrKHovpPlhaXnmoTlr4bnoIHkuI3kuIDoh7QiKTsgcmV0dXJuOyB9CiAgICBjb25zdCBvayA9IGF3YWl0IHJlZ2lzdGVyKHBob25lLCBwYXNzd29yZCk7CiAgICBpZiAob2spIG5hdmlnYXRlKCIvY2hhdCIpOwogIH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBtaW4taC1zY3JlZW4gaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGJnLWJnIHB4LTQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIG1heC13LXNtIHJvdW5kZWQtY2FyZCBib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHAtNyBzaGFkb3ctbGlmdCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTYgZmxleCBmbGV4LWNvbCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaC0xMSB3LTExIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWNhcmQgYmctYWNjZW50IHRleHQtd2hpdGUiPgogICAgICAgICAgICA8VXNlclBsdXMgc2l6ZT17MjB9IC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LXhsIGZvbnQtc2VtaWJvbGQiPuazqOWGjOaWsOi0puWPtzwvaDE+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZCI+5rOo5YaM5ZCO6buY6K6k5Li65pmu6YCa55So5oi36KeS6ImyPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIj4KICAgICAgICAgIDxGaWVsZCBsYWJlbD0i5omL5py65Y+3IiB2YWx1ZT17cGhvbmV9IG9uQ2hhbmdlPXtzZXRQaG9uZX0gcGxhY2Vob2xkZXI9IjEzODAwMDAwMDAwIiAvPgogICAgICAgICAgPEZpZWxkIGxhYmVsPSLorr7nva7lr4bnoIEiIHZhbHVlPXtwYXNzd29yZH0gb25DaGFuZ2U9e3NldFBhc3N3b3JkfSB0eXBlPSJwYXNzd29yZCIgcGxhY2Vob2xkZXI9IuiHs+WwkSA2IOS9jSIgLz4KICAgICAgICAgIDxGaWVsZCBsYWJlbD0i56Gu6K6k5a+G56CBIiB2YWx1ZT17Y29uZmlybX0gb25DaGFuZ2U9e3NldENvbmZpcm19IHR5cGU9InBhc3N3b3JkIiBwbGFjZWhvbGRlcj0i5YaN5qyh6L6T5YWlIiBvbkVudGVyPXtzdWJtaXR9IC8+CiAgICAgICAgICB7KGxvY2FsRXJyIHx8IHNlcnZlckVycm9yKSAmJiA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC13YXJuaW5nIj57bG9jYWxFcnIgfHwgc2VydmVyRXJyb3J9PC9wPn0KICAgICAgICAgIDxCdXR0b24gY2xhc3NOYW1lPSJ3LWZ1bGwiIG9uQ2xpY2s9e3N1Ym1pdH0gZGlzYWJsZWQ9e2xvYWRpbmd9PgogICAgICAgICAgICB7bG9hZGluZyA/IDxMb2FkZXIyIHNpemU9ezE1fSBjbGFzc05hbWU9ImFuaW1hdGUtc3BpbiIgLz4gOiAi5rOo5YaM5bm255m75b2VIn0KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8cCBjbGFzc05hbWU9Im10LTYgdGV4dC1jZW50ZXIgdGV4dC14cyB0ZXh0LW11dGVkIj4KICAgICAgICAgIOW3suaciei0puWPt++8nzxMaW5rIHRvPSIvbG9naW4iIGNsYXNzTmFtZT0idGV4dC1hY2NlbnQgaG92ZXI6dW5kZXJsaW5lIj7ljrvnmbvlvZU8L0xpbms+CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIEZpZWxkKHsKICBsYWJlbCwgdmFsdWUsIG9uQ2hhbmdlLCB0eXBlID0gInRleHQiLCBwbGFjZWhvbGRlciwgb25FbnRlciwKfTogewogIGxhYmVsOiBzdHJpbmc7IHZhbHVlOiBzdHJpbmc7IG9uQ2hhbmdlOiAodjogc3RyaW5nKSA9PiB2b2lkOwogIHR5cGU/OiBzdHJpbmc7IHBsYWNlaG9sZGVyPzogc3RyaW5nOyBvbkVudGVyPzogKCkgPT4gdm9pZDsKfSkgewogIHJldHVybiAoCiAgICA8bGFiZWwgY2xhc3NOYW1lPSJibG9jayI+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWItMSBibG9jayB0ZXh0LXhzIHRleHQtbXV0ZWQiPntsYWJlbH08L3NwYW4+CiAgICAgIDxpbnB1dAogICAgICAgIHR5cGU9e3R5cGV9CiAgICAgICAgdmFsdWU9e3ZhbHVlfQogICAgICAgIHBsYWNlaG9sZGVyPXtwbGFjZWhvbGRlcn0KICAgICAgICBvbkNoYW5nZT17KGUpID0+IG9uQ2hhbmdlKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICBvbktleURvd249eyhlKSA9PiBlLmtleSA9PT0gIkVudGVyIiAmJiBvbkVudGVyPy4oKX0KICAgICAgICBjbGFzc05hbWU9InctZnVsbCByb3VuZGVkLWlucHV0IGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UtMiBweC0zIHB5LTIgdGV4dC1zbSBvdXRsaW5lLW5vbmUgZm9jdXM6Ym9yZGVyLWFjY2VudC82MCIKICAgICAgLz4KICAgIDwvbGFiZWw+CiAgKTsKfQo=
+// /register 注册页：手机号 + 密码 + 确认密码。注册成功即登录并进入 /chat。
+// 安全：自助注册的角色由后端强制为 user，前端不提供角色选择（防提权）。
+import { useState } from "react";
+import { useNavigate, Link } from "react-router-dom";
+import { Loader2, UserPlus } from "lucide-react";
+import { Button } from "@/components/ui/primitives";
+import { useAuthStore } from "@/stores/useAuthStore";
+
+export function RegisterPage() {
+  const navigate = useNavigate();
+  const register = useAuthStore((s) => s.register);
+  const loading = useAuthStore((s) => s.loading);
+  const serverError = useAuthStore((s) => s.error);
+
+  const [phone, setPhone] = useState("");
+  const [password, setPassword] = useState("");
+  const [confirm, setConfirm] = useState("");
+  const [localErr, setLocalErr] = useState("");
+
+  const submit = async () => {
+    setLocalErr("");
+    if (!/^1[3-9]\d{9}$/.test(phone)) { setLocalErr("请输入有效的 11 位手机号"); return; }
+    if (password.length < 6) { setLocalErr("密码至少 6 位"); return; }
+    if (password !== confirm) { setLocalErr("两次输入的密码不一致"); return; }
+    const ok = await register(phone, password);
+    if (ok) navigate("/chat");
+  };
+
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-bg px-4">
+      <div className="w-full max-w-sm rounded-card border border-border bg-surface p-7 shadow-lift">
+        <div className="mb-6 flex flex-col items-center gap-2">
+          <div className="flex h-11 w-11 items-center justify-center rounded-card bg-accent text-white">
+            <UserPlus size={20} />
+          </div>
+          <h1 className="font-display text-xl font-semibold">注册新账号</h1>
+          <p className="text-xs text-muted">注册后默认为普通用户角色</p>
+        </div>
+
+        <div className="space-y-3">
+          <Field label="手机号" value={phone} onChange={setPhone} placeholder="13800000000" />
+          <Field label="设置密码" value={password} onChange={setPassword} type="password" placeholder="至少 6 位" />
+          <Field label="确认密码" value={confirm} onChange={setConfirm} type="password" placeholder="再次输入" onEnter={submit} />
+          {(localErr || serverError) && <p className="text-xs text-warning">{localErr || serverError}</p>}
+          <Button className="w-full" onClick={submit} disabled={loading}>
+            {loading ? <Loader2 size={15} className="animate-spin" /> : "注册并登录"}
+          </Button>
+        </div>
+
+        <p className="mt-6 text-center text-xs text-muted">
+          已有账号？<Link to="/login" className="text-accent hover:underline">去登录</Link>
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Field({
+  label, value, onChange, type = "text", placeholder, onEnter,
+}: {
+  label: string; value: string; onChange: (v: string) => void;
+  type?: string; placeholder?: string; onEnter?: () => void;
+}) {
+  return (
+    <label className="block">
+      <span className="mb-1 block text-xs text-muted">{label}</span>
+      <input
+        type={type}
+        value={value}
+        placeholder={placeholder}
+        onChange={(e) => onChange(e.target.value)}
+        onKeyDown={(e) => e.key === "Enter" && onEnter?.()}
+        className="w-full rounded-input border border-border bg-surface-2 px-3 py-2 text-sm outline-none focus:border-accent/60"
+      />
+    </label>
+  );
+}

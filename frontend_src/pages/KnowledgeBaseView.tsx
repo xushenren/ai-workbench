@@ -1,1 +1,163 @@
-Ly8gL2tiIOefpeivhuW6k+ajgOe0ou+8muW3puS+p+WPr+i+vuW6k+WIl+ihqCArIOS4remXtOaQnOe0ouS4jue7k+aenOOAgumalOemu+eUseWQjuerr+S/neivge+8iOWPquaQnOWPr+i+vuW6k++8ie+8jAovLyDpobXpnaLpobbpg6jmmI7npLoi5LuF5Zyo5L2g5Y+v6K6/6Zeu55qEIE4g5Liq5bqT5Lit5qOA57SiIu+8jOe7k+aenOW4puadpea6kOW6kyArIOivhOWIhiArIOWRveS4remrmOS6ruOAggppbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVN0YXRlLCB0eXBlIEtleWJvYXJkRXZlbnQsIHR5cGUgUmVhY3ROb2RlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBTZWFyY2gsIExpYnJhcnksIFNoaWVsZENoZWNrLCBMb2FkZXIyLCBGaWxlVGV4dCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IENhcmQsIEJhZGdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3ByaW1pdGl2ZXMiOwppbXBvcnQgeyBLYk1hbmFnZVBhbmVsIH0gZnJvbSAiQC9jb21wb25lbnRzL0tiTWFuYWdlUGFuZWwiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwppbXBvcnQgdHlwZSB7IEtub3dsZWRnZUJhc2UsIEtCU2VhcmNoSGl0IH0gZnJvbSAiQC90eXBlcyI7Cgpjb25zdCBUWVBFX0xBQkVMOiBSZWNvcmQ8S25vd2xlZGdlQmFzZVsidHlwZSJdLCBzdHJpbmc+ID0gewogIHB1YmxpYzogIuWFrOWFsSIsIGRlcGFydG1lbnQ6ICLpg6jpl6giLCBwcml2YXRlOiAi56eB5pyJIiwKfTsKCmV4cG9ydCBmdW5jdGlvbiBLbm93bGVkZ2VCYXNlVmlldygpIHsKICBjb25zdCBba2JzLCBzZXRLYnNdID0gdXNlU3RhdGU8S25vd2xlZGdlQmFzZVtdPihbXSk7CiAgY29uc3QgW3F1ZXJ5LCBzZXRRdWVyeV0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW2hpdHMsIHNldEhpdHNdID0gdXNlU3RhdGU8S0JTZWFyY2hIaXRbXT4oW10pOwogIGNvbnN0IFthY2Nlc3NpYmxlLCBzZXRBY2Nlc3NpYmxlXSA9IHVzZVN0YXRlPHN0cmluZ1tdPihbXSk7CiAgY29uc3QgW2xvYWRpbmcsIHNldExvYWRpbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtzZWFyY2hlZCwgc2V0U2VhcmNoZWRdID0gdXNlU3RhdGUoZmFsc2UpOwoKICB1c2VFZmZlY3QoKCkgPT4geyB2b2lkIGFwaS5rbm93bGVkZ2UoKS50aGVuKHNldEticyk7IH0sIFtdKTsKCiAgY29uc3QgcnVuID0gYXN5bmMgKCkgPT4gewogICAgY29uc3QgcSA9IHF1ZXJ5LnRyaW0oKTsKICAgIGlmICghcSkgcmV0dXJuOwogICAgc2V0TG9hZGluZyh0cnVlKTsgc2V0U2VhcmNoZWQodHJ1ZSk7CiAgICBjb25zdCByZXMgPSBhd2FpdCBhcGkua2JTZWFyY2gocSwgOCk7CiAgICBzZXRIaXRzKHJlcy5yZXN1bHRzKTsKICAgIHNldEFjY2Vzc2libGUocmVzLmFjY2Vzc2libGVfa2JzKTsKICAgIHNldExvYWRpbmcoZmFsc2UpOwogIH07CiAgY29uc3Qgb25LZXkgPSAoZTogS2V5Ym9hcmRFdmVudDxIVE1MSW5wdXRFbGVtZW50PikgPT4geyBpZiAoZS5rZXkgPT09ICJFbnRlciIpIHZvaWQgcnVuKCk7IH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBoLWZ1bGwiPgogICAgICB7Lyog5bem5L6n77ya5Y+v6L6+55+l6K+G5bqTICovfQogICAgICA8S2JNYW5hZ2VQYW5lbCBrYnM9e2tic30gb25DaGFuZ2VkPXsoKSA9PiBhcGkua25vd2xlZGdlKCkudGhlbihzZXRLYnMpfSAvPgogICAgICA8YXNpZGUgY2xhc3NOYW1lPSJoaWRkZW4gdy1bMjYwcHhdIHNocmluay0wIGZsZXgtY29sIGJvcmRlci1yIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZS0yLzQwIG1kOmZsZXgiPgogICAgICAgIDxoZWFkZXIgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBib3JkZXItYiBib3JkZXItYm9yZGVyIHB4LTQgcHktMyB0ZXh0LXNtIGZvbnQtbWVkaXVtIj4KICAgICAgICAgIDxMaWJyYXJ5IHNpemU9ezE2fSBjbGFzc05hbWU9InRleHQtYWNjZW50IiAvPiDmiJHnmoTnn6Xor4blupMKICAgICAgICA8L2hlYWRlcj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIG92ZXJmbG93LXktYXV0byBwLTMiPgogICAgICAgICAge2ticy5sZW5ndGggPT09IDAgPyAoCiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0icHgtMSB0ZXh0LXhzIHRleHQtbXV0ZWQiPuayoeacieWPr+iuv+mXrueahOefpeivhuW6k+OAgjwvcD4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgIGticy5tYXAoKGtiKSA9PiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e2tiLmlkfSBjbGFzc05hbWU9Im1iLTEgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcm91bmRlZC1tZCBweC0yIHB5LTIgdGV4dC1zbSBob3ZlcjpiZy1zdXJmYWNlLTIiPgogICAgICAgICAgICAgICAgPEZpbGVUZXh0IHNpemU9ezE0fSBjbGFzc05hbWU9InNocmluay0wIHRleHQtbXV0ZWQiIC8+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRydW5jYXRlIj57a2IubmFtZX08L3NwYW4+CiAgICAgICAgICAgICAgICA8QmFkZ2UgY2xhc3NOYW1lPSJtbC1hdXRvIHNocmluay0wIj57VFlQRV9MQUJFTFtrYi50eXBlXX08L0JhZGdlPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKQogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgICA8Zm9vdGVyIGNsYXNzTmFtZT0iYm9yZGVyLXQgYm9yZGVyLWJvcmRlciBweC00IHB5LTMgdGV4dC1bMTFweF0gdGV4dC1tdXRlZCI+CiAgICAgICAgICDlhbEge2ticy5sZW5ndGh9IOS4quWPr+iuv+mXruW6kyDCtyDku5bkurrnp4HmnInlupPkuI3lj6/op4EKICAgICAgICA8L2Zvb3Rlcj4KICAgICAgPC9hc2lkZT4KCiAgICAgIHsvKiDkuK3pl7TvvJrmkJzntKIgKyDnu5PmnpwgKi99CiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0iZmxleCBtaW4tdy0wIGZsZXgtMSBmbGV4LWNvbCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im14LWF1dG8gdy1mdWxsIG1heC13LTN4bCBweC02IHB5LTYiPgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtMnhsIGZvbnQtc2VtaWJvbGQgdHJhY2tpbmctdGlnaHQiPuefpeivhuW6k+ajgOe0ojwvaDE+CgogICAgICAgICAgey8qIOmalOemu+aPkOekuiAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0zIGZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHJvdW5kZWQtY2FyZCBib3JkZXIgYm9yZGVyLXN1Y2Nlc3MvMzAgYmctc3VjY2Vzcy81IHB4LTMgcHktMiB0ZXh0LXhzIHRleHQtc3VjY2VzcyI+CiAgICAgICAgICAgIDxTaGllbGRDaGVjayBzaXplPXsxNH0gLz4KICAgICAgICAgICAg5qOA57Si5bey6ZqU56a777ya5LuF5Zyo5L2g5pyJ5p2D6K6/6Zeu55qE5bqT5Lit5pCc57Si77yI5YWs5YWxICsg5pys6YOo6ZeoICsg6Ieq5bex56eB5pyJ77yJ77yM57ud5LiN6Kem6L6+5LuW5Lq656eB5pyJ5bqT44CCCiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7Lyog5pCc57Si5qGGICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTQgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcm91bmRlZC1jYXJkIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UgcHgtMyBweS0yIHNoYWRvdy1zb2Z0IGZvY3VzLXdpdGhpbjpib3JkZXItYWNjZW50LzUwIj4KICAgICAgICAgICAgPFNlYXJjaCBzaXplPXsxOH0gY2xhc3NOYW1lPSJ0ZXh0LW11dGVkIiAvPgogICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICB2YWx1ZT17cXVlcnl9CiAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRRdWVyeShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgb25LZXlEb3duPXtvbktleX0KICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i6L6T5YWl5YWz6ZSu6K+N77yM5aaC77ya6aOO566hIOmqjOaUtiDmvI/po47njociCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LTEgYmctdHJhbnNwYXJlbnQgcHktMS41IHRleHQtWzE1cHhdIG91dGxpbmUtbm9uZSBwbGFjZWhvbGRlcjp0ZXh0LW11dGVkLzYwIgogICAgICAgICAgICAvPgogICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgb25DbGljaz17cnVufQogICAgICAgICAgICAgIGRpc2FibGVkPXshcXVlcnkudHJpbSgpIHx8IGxvYWRpbmd9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGgtOCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSByb3VuZGVkLWJ0biBiZy1hY2NlbnQgcHgtMyB0ZXh0LXNtIHRleHQtd2hpdGUgaG92ZXI6YmctYWNjZW50LWhvdmVyIGRpc2FibGVkOm9wYWNpdHktNDAiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7bG9hZGluZyA/IDxMb2FkZXIyIHNpemU9ezE0fSBjbGFzc05hbWU9ImFuaW1hdGUtc3BpbiIgLz4gOiAi5pCc57SiIn0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7Lyog57uT5p6cICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgc3BhY2UteS0zIj4KICAgICAgICAgICAge2xvYWRpbmcgJiYgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQiPuajgOe0ouS4reKApjwvcD59CgogICAgICAgICAgICB7IWxvYWRpbmcgJiYgc2VhcmNoZWQgJiYgKAogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkIj4KICAgICAgICAgICAgICAgIOWcqCB7YWNjZXNzaWJsZS5sZW5ndGh9IOS4quWPr+i+vuW6k+S4reaJvuWIsCB7aGl0cy5sZW5ndGh9IOadoee7k+aenAogICAgICAgICAgICAgICAge2FjY2Vzc2libGUubGVuZ3RoID4gMCAmJiA8Pu+8iHthY2Nlc3NpYmxlLmpvaW4oIuOAgSIpfe+8iTwvPn0KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICl9CgogICAgICAgICAgICB7IWxvYWRpbmcgJiYgaGl0cy5tYXAoKGgsIGkpID0+ICgKICAgICAgICAgICAgICA8Q2FyZCBrZXk9e2Ake2gua2JfaWR9LSR7aC5kb2NfaWR9LSR7aX1gfSBjbGFzc05hbWU9InAtNCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItMS41IGZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgICAgPEJhZGdlIGNsYXNzTmFtZT0iYm9yZGVyLWFjY2VudC8zMCBiZy1hY2NlbnQvMTAgdGV4dC1hY2NlbnQiPntoLmtiX25hbWV9PC9CYWRnZT4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMXB4XSB0ZXh0LW11dGVkIj57aC5kb2NfaWR9PC9zcGFuPgogICAgICAgICAgICAgICAgICA8U2NvcmVCYXIgc2NvcmU9e2guc2NvcmV9IC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC10ZXh0Ij4KICAgICAgICAgICAgICAgICAge2hpZ2hsaWdodChoLmNvbnRlbnQsIHF1ZXJ5KX0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICAgICkpfQoKICAgICAgICAgICAgeyFsb2FkaW5nICYmIHNlYXJjaGVkICYmIGhpdHMubGVuZ3RoID09PSAwICYmICgKICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InB5LTEwIHRleHQtY2VudGVyIHRleHQtc20gdGV4dC1tdXRlZCI+5rKh5pyJ5ZG95Lit44CC5o2i5Liq5YWz6ZSu6K+N6K+V6K+V44CCPC9wPgogICAgICAgICAgICApfQogICAgICAgICAgICB7IXNlYXJjaGVkICYmICgKICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InB5LTEwIHRleHQtY2VudGVyIHRleHQtc20gdGV4dC1tdXRlZCI+6L6T5YWl5YWz6ZSu6K+N5byA5aeL5qOA57Si44CCPC9wPgogICAgICAgICAgICApfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KICAgIDwvZGl2PgogICk7Cn0KCmZ1bmN0aW9uIFNjb3JlQmFyKHsgc2NvcmUgfTogeyBzY29yZTogbnVtYmVyIH0pIHsKICBjb25zdCBwY3QgPSBNYXRoLm1heCg0LCBNYXRoLm1pbigxMDAsIE1hdGgucm91bmQoc2NvcmUgKiAxMDApKSk7CiAgcmV0dXJuICgKICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtYXV0byBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IHRleHQtWzExcHhdIHRleHQtbXV0ZWQiPgogICAgICDnm7jlhbPluqYKICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoLTEuNSB3LTE2IG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLWZ1bGwgYmctc3VyZmFjZS0yIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImJsb2NrIGgtZnVsbCByb3VuZGVkLWZ1bGwgYmctYWNjZW50IiBzdHlsZT17eyB3aWR0aDogYCR7cGN0fSVgIH19IC8+CiAgICAgIDwvc3Bhbj4KICAgIDwvc3Bhbj4KICApOwp9CgovKiog5oqK5ZG95Lit6K+N5Zyo5YaF5a656YeM6auY5Lqu44CC57qv5Ye95pWw77yI5LiN5ZCrIGhvb2vvvIzlj6/lnKggbWFwIOmHjOWuieWFqOiwg+eUqO+8ieOAgiAqLwpmdW5jdGlvbiBoaWdobGlnaHQodGV4dDogc3RyaW5nLCBxdWVyeTogc3RyaW5nKTogUmVhY3ROb2RlIHsKICBjb25zdCB0ZXJtcyA9IHNwbGl0VGVybXMocXVlcnkpOwogIGlmICh0ZXJtcy5sZW5ndGggPT09IDApIHJldHVybiB0ZXh0OwogIGNvbnN0IHJlID0gbmV3IFJlZ0V4cChgKCR7dGVybXMubWFwKGVzY2FwZVJlKS5qb2luKCJ8Iil9KWAsICJnaSIpOwogIGNvbnN0IHBhcnRzID0gdGV4dC5zcGxpdChyZSk7CiAgcmV0dXJuIHBhcnRzLm1hcCgocCwgaSkgPT4KICAgIHRlcm1zLnNvbWUoKHQpID0+IHQudG9Mb3dlckNhc2UoKSA9PT0gcC50b0xvd2VyQ2FzZSgpKQogICAgICA/IDxtYXJrIGtleT17aX0gY2xhc3NOYW1lPSJyb3VuZGVkIGJnLWFjY2VudC8yMCBweC0wLjUgdGV4dC1hY2NlbnQiPntwfTwvbWFyaz4KICAgICAgOiA8c3BhbiBrZXk9e2l9PntwfTwvc3Bhbj4KICApOwp9CgpmdW5jdGlvbiBzcGxpdFRlcm1zKHF1ZXJ5OiBzdHJpbmcpOiBzdHJpbmdbXSB7CiAgY29uc3QgcSA9IHF1ZXJ5LnRyaW0oKTsKICBpZiAoIXEpIHJldHVybiBbXTsKICBjb25zdCBsYXRpbiA9IHEubWF0Y2goL1thLXpBLVowLTldKy9nKSA/PyBbXTsKICBjb25zdCBjamsgPSBxLm1hdGNoKC9bXHU0ZTAwLVx1OWZmZl0vZykgPz8gW107CiAgcmV0dXJuIEFycmF5LmZyb20obmV3IFNldChbLi4ubGF0aW4sIC4uLmNqa10pKS5maWx0ZXIoKHQpID0+IHQubGVuZ3RoID49IDEpOwp9CgpmdW5jdGlvbiBlc2NhcGVSZShzOiBzdHJpbmcpOiBzdHJpbmcgewogIHJldHVybiBzLnJlcGxhY2UoL1suKis/XiR7fSgpfFtcXVxcXS9nLCAiXFwkJiIpOwp9Cg==
+// /kb 知识库检索：左侧可达库列表 + 中间搜索与结果。隔离由后端保证（只搜可达库），
+// 页面顶部明示"仅在你可访问的 N 个库中检索"，结果带来源库 + 评分 + 命中高亮。
+import { useEffect, useState, type KeyboardEvent, type ReactNode } from "react";
+import { Search, Library, ShieldCheck, Loader2, FileText } from "lucide-react";
+import { Card, Badge } from "@/components/ui/primitives";
+import { KbManagePanel } from "@/components/KbManagePanel";
+import { api } from "@/lib/api";
+import type { KnowledgeBase, KBSearchHit } from "@/types";
+
+const TYPE_LABEL: Record<KnowledgeBase["type"], string> = {
+  public: "公共", department: "部门", private: "私有",
+};
+
+export function KnowledgeBaseView() {
+  const [kbs, setKbs] = useState<KnowledgeBase[]>([]);
+  const [query, setQuery] = useState("");
+  const [hits, setHits] = useState<KBSearchHit[]>([]);
+  const [accessible, setAccessible] = useState<string[]>([]);
+  const [loading, setLoading] = useState(false);
+  const [searched, setSearched] = useState(false);
+
+  useEffect(() => { void api.knowledge().then(setKbs); }, []);
+
+  const run = async () => {
+    const q = query.trim();
+    if (!q) return;
+    setLoading(true); setSearched(true);
+    const res = await api.kbSearch(q, 8);
+    setHits(res.results);
+    setAccessible(res.accessible_kbs);
+    setLoading(false);
+  };
+  const onKey = (e: KeyboardEvent<HTMLInputElement>) => { if (e.key === "Enter") void run(); };
+
+  return (
+    <div className="flex h-full">
+      {/* 左侧：可达知识库 */}
+      <KbManagePanel kbs={kbs} onChanged={() => api.knowledge().then(setKbs)} />
+      <aside className="hidden w-[260px] shrink-0 flex-col border-r border-border bg-surface-2/40 md:flex">
+        <header className="flex items-center gap-2 border-b border-border px-4 py-3 text-sm font-medium">
+          <Library size={16} className="text-accent" /> 我的知识库
+        </header>
+        <div className="flex-1 overflow-y-auto p-3">
+          {kbs.length === 0 ? (
+            <p className="px-1 text-xs text-muted">没有可访问的知识库。</p>
+          ) : (
+            kbs.map((kb) => (
+              <div key={kb.id} className="mb-1 flex items-center gap-2 rounded-md px-2 py-2 text-sm hover:bg-surface-2">
+                <FileText size={14} className="shrink-0 text-muted" />
+                <span className="truncate">{kb.name}</span>
+                <Badge className="ml-auto shrink-0">{TYPE_LABEL[kb.type]}</Badge>
+              </div>
+            ))
+          )}
+        </div>
+        <footer className="border-t border-border px-4 py-3 text-[11px] text-muted">
+          共 {kbs.length} 个可访问库 · 他人私有库不可见
+        </footer>
+      </aside>
+
+      {/* 中间：搜索 + 结果 */}
+      <section className="flex min-w-0 flex-1 flex-col">
+        <div className="mx-auto w-full max-w-3xl px-6 py-6">
+          <h1 className="font-display text-2xl font-semibold tracking-tight">知识库检索</h1>
+
+          {/* 隔离提示 */}
+          <div className="mt-3 flex items-center gap-2 rounded-card border border-success/30 bg-success/5 px-3 py-2 text-xs text-success">
+            <ShieldCheck size={14} />
+            检索已隔离：仅在你有权访问的库中搜索（公共 + 本部门 + 自己私有），绝不触达他人私有库。
+          </div>
+
+          {/* 搜索框 */}
+          <div className="mt-4 flex items-center gap-2 rounded-card border border-border bg-surface px-3 py-2 shadow-soft focus-within:border-accent/50">
+            <Search size={18} className="text-muted" />
+            <input
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              onKeyDown={onKey}
+              placeholder="输入关键词，如：风管 验收 漏风率"
+              className="flex-1 bg-transparent py-1.5 text-[15px] outline-none placeholder:text-muted/60"
+            />
+            <button
+              onClick={run}
+              disabled={!query.trim() || loading}
+              className="flex h-8 items-center gap-1.5 rounded-btn bg-accent px-3 text-sm text-white hover:bg-accent-hover disabled:opacity-40"
+            >
+              {loading ? <Loader2 size={14} className="animate-spin" /> : "搜索"}
+            </button>
+          </div>
+
+          {/* 结果 */}
+          <div className="mt-5 space-y-3">
+            {loading && <p className="text-sm text-muted">检索中…</p>}
+
+            {!loading && searched && (
+              <p className="text-xs text-muted">
+                在 {accessible.length} 个可达库中找到 {hits.length} 条结果
+                {accessible.length > 0 && <>（{accessible.join("、")}）</>}
+              </p>
+            )}
+
+            {!loading && hits.map((h, i) => (
+              <Card key={`${h.kb_id}-${h.doc_id}-${i}`} className="p-4">
+                <div className="mb-1.5 flex items-center gap-2">
+                  <Badge className="border-accent/30 bg-accent/10 text-accent">{h.kb_name}</Badge>
+                  <span className="text-[11px] text-muted">{h.doc_id}</span>
+                  <ScoreBar score={h.score} />
+                </div>
+                <p className="text-sm leading-relaxed text-text">
+                  {highlight(h.content, query)}
+                </p>
+              </Card>
+            ))}
+
+            {!loading && searched && hits.length === 0 && (
+              <p className="py-10 text-center text-sm text-muted">没有命中。换个关键词试试。</p>
+            )}
+            {!searched && (
+              <p className="py-10 text-center text-sm text-muted">输入关键词开始检索。</p>
+            )}
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+}
+
+function ScoreBar({ score }: { score: number }) {
+  const pct = Math.max(4, Math.min(100, Math.round(score * 100)));
+  return (
+    <span className="ml-auto flex items-center gap-1.5 text-[11px] text-muted">
+      相关度
+      <span className="h-1.5 w-16 overflow-hidden rounded-full bg-surface-2">
+        <span className="block h-full rounded-full bg-accent" style={{ width: `${pct}%` }} />
+      </span>
+    </span>
+  );
+}
+
+/** 把命中词在内容里高亮。纯函数（不含 hook，可在 map 里安全调用）。 */
+function highlight(text: string, query: string): ReactNode {
+  const terms = splitTerms(query);
+  if (terms.length === 0) return text;
+  const re = new RegExp(`(${terms.map(escapeRe).join("|")})`, "gi");
+  const parts = text.split(re);
+  return parts.map((p, i) =>
+    terms.some((t) => t.toLowerCase() === p.toLowerCase())
+      ? <mark key={i} className="rounded bg-accent/20 px-0.5 text-accent">{p}</mark>
+      : <span key={i}>{p}</span>
+  );
+}
+
+function splitTerms(query: string): string[] {
+  const q = query.trim();
+  if (!q) return [];
+  const latin = q.match(/[a-zA-Z0-9]+/g) ?? [];
+  const cjk = q.match(/[\u4e00-\u9fff]/g) ?? [];
+  return Array.from(new Set([...latin, ...cjk])).filter((t) => t.length >= 1);
+}
+
+function escapeRe(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}

@@ -1,1 +1,97 @@
-QHRhaWx3aW5kIGJhc2U7CkB0YWlsd2luZCBjb21wb25lbnRzOwpAdGFpbHdpbmQgdXRpbGl0aWVzOwoKLyogPT09PT09PT09PT09IOiuvuiuoeS7pOeJjO+8mkNsYXVkZS5haSDmsJTotKjnmoTmmpbkuK3mgKcgKyDpmbblnJ/mqZkgPT09PT09PT09PT09ICovCi8qIOminOiJsuS7pSLnqbrmoLzliIbpmpTnmoQgUkdCIOS4ieWFg+e7hCLlrZjmlL7vvIzphY3lkIggdGFpbHdpbmQg55qEIHJnYih2YXIoKSAvIGFscGhhKeOAgiAqLwoKOnJvb3QgewogIC8qIOS6ruiJsu+8mkt1biDlhrfosIPkuK3mgKco6JOd54Gw5bqVICsg6L+R55m95Y2h54mHICsg5reh6JOd6L6555WMKSAqLwogIC0tYmc6IDI0MyAyNDUgMjUyOyAgICAgICAgICAvKiAjRjNGNUZDIEt1biDok53ngbDlupUgKi8KICAtLXN1cmZhY2U6IDI1NSAyNTUgMjU1OyAgICAgLyog6L+R55m95Y2h54mHICovCiAgLS1zdXJmYWNlLTI6IDIzNCAyNDAgMjQ5OyAgIC8qICNFQUYwRjkg5qyh57qn6Z2iICovCiAgLS1ib3JkZXI6IDIxMiAyMjAgMjM0OyAgICAgIC8qICNENERDRUEg5reh6JOd6L6555WMICovCiAgLS10ZXh0OiAzNSA1NCA4OTsgICAgICAgICAgIC8qICMyMzM2NTkgS3VuIOa3seiTneeBsCAqLwogIC0tbXV0ZWQ6IDg0IDEwMyAxNDA7ICAgICAgICAvKiAjNTQ2NzhDIOasoeimgeaWh+WtlyAqLwogIC0tYWNjZW50OiA1OSAxMzAgMjE2OyAgICAgICAvKiAjM0I4MkQ4IEt1biDok50o6buY6K6k5Li76Imy77yM6aaW5qyh6YCJ6Imy5Y+v6KaG55uWKSAqLwogIC0tYWNjZW50LWhvdmVyOiA0NyAxMDkgMTg3OwogIC0td2FybmluZzogMjE0IDczIDYzOyAgICAgICAvKiAjRDY0OTNGIOS7hSBCTE9DSyDnlKggKi8KICAtLXN1Y2Nlc3M6IDE4IDEzOCA3NDsgICAgICAgLyogIzEyOEE0QSAqLwogIC8qIEt1biDotKjmhJ/ku6TniYwo6Zi05b2xL+a4kOWPmCkgKi8KICAtLWRzLXNoYWRvdy1jb21wb3NlcjogMCAxOHB4IDQ2cHggcmdiYSgyMCwgNDcsIDk1LCAwLjEwKTsKICAtLWRzLXNoYWRvdy1wYW5lbDogMCAxNnB4IDQ0cHggcmdiYSgyMCwgNDcsIDk1LCAwLjA2KTsKICAtLWRzLXN0YWdlLWdyYWRpZW50OiBsaW5lYXItZ3JhZGllbnQoMTgwZGVnLCAjZmFmYmZmIDAlLCAjZjNmNWZjIDEwMCUpOwp9CgouZGFyayB7CiAgLyog5rex6Imy77yaS3VuIOa3seiTneWknCjpnZ7nuq/pu5EpICovCiAgLS1iZzogMTUgMjAgMzQ7ICAgICAgICAgICAgIC8qICMwRjE0MjIgKi8KICAtLXN1cmZhY2U6IDI3IDM1IDU2OyAgICAgICAgLyogIzFCMjMzOCAqLwogIC0tc3VyZmFjZS0yOiAyMiAyOSA0NzsgICAgICAvKiAjMTYxRDJGICovCiAgLS1ib3JkZXI6IDQyIDUxIDcwOyAgICAgICAgIC8qICMyQTMzNDYgKi8KICAtLXRleHQ6IDI0MCAyNDUgMjUyOyAgICAgICAgLyogI0YwRjVGQyAqLwogIC0tbXV0ZWQ6IDE4OSAyMDEgMjIyOyAgICAgICAvKiAjQkRDOURFICovCiAgLS1hY2NlbnQ6IDExMSAxNzYgMjMyOyAgICAgIC8qICM2RkIwRTgg5rex6Imy5LiL5o+Q5Lqu55qEIEt1biDok50gKi8KICAtLWFjY2VudC1ob3ZlcjogMTQyIDE5NSAyNDI7CiAgLS13YXJuaW5nOiAyMjQgMTIyIDExMDsKICAtLXN1Y2Nlc3M6IDk1IDE3OCAxMzA7CiAgLS1kcy1zaGFkb3ctY29tcG9zZXI6IDAgMjhweCA3OHB4IHJnYmEoMiwgNiwgMTYsIDAuNDUpOwogIC0tZHMtc2hhZG93LXBhbmVsOiAwIDIycHggNThweCByZ2JhKDIsIDYsIDE2LCAwLjM1KTsKICAtLWRzLXN0YWdlLWdyYWRpZW50OiBsaW5lYXItZ3JhZGllbnQoMTgwZGVnLCAjMGYxNDIyIDAlLCAjMTIxODI5IDEwMCUpOwp9CgoqIHsgYm9yZGVyLWNvbG9yOiByZ2IodmFyKC0tYm9yZGVyKSk7IH0KCmh0bWwgeyBzY3JvbGwtYmVoYXZpb3I6IHNtb290aDsgfQoKYm9keSB7CiAgbWFyZ2luOiAwOwogIGJhY2tncm91bmQ6IHZhcigtLWRzLXN0YWdlLWdyYWRpZW50KSwgcmdiKHZhcigtLWJnKSk7CiAgYmFja2dyb3VuZC1hdHRhY2htZW50OiBmaXhlZDsKICBjb2xvcjogcmdiKHZhcigtLXRleHQpKTsKICBmb250LWZhbWlseTogJ0ludGVyJywgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCAnTm90byBTYW5zIFNDJywgc2Fucy1zZXJpZjsKICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsKICB0ZXh0LXJlbmRlcmluZzogb3B0aW1pemVMZWdpYmlsaXR5Owp9CgovKiDmoIfpopjnlKjmloflrabmhJ/ooaznur/vvIzkvYblhYvliLbkvb/nlKggKi8KaDEsIGgyLCAuZm9udC1kaXNwbGF5IHsgZm9udC1mYW1pbHk6ICdOZXdzcmVhZGVyJywgR2VvcmdpYSwgJ1Nvbmd0aSBTQycsIHNlcmlmOyB9CgovKiDnu4bmu5rliqjmnaHvvIzotLTlkIjlronpnZnlrqHnvo4gKi8KOjotd2Via2l0LXNjcm9sbGJhciB7IHdpZHRoOiAxMHB4OyBoZWlnaHQ6IDEwcHg7IH0KOjotd2Via2l0LXNjcm9sbGJhci10cmFjayB7IGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OyB9Cjo6LXdlYmtpdC1zY3JvbGxiYXItdGh1bWIgewogIGJhY2tncm91bmQ6IHJnYih2YXIoLS1ib3JkZXIpKTsKICBib3JkZXItcmFkaXVzOiA5OXB4OwogIGJvcmRlcjogM3B4IHNvbGlkIHJnYih2YXIoLS1iZykpOwp9Cjo6LXdlYmtpdC1zY3JvbGxiYXItdGh1bWI6aG92ZXIgeyBiYWNrZ3JvdW5kOiByZ2IodmFyKC0tbXV0ZWQpIC8gMC41KTsgfQoKLyog5Y+v6KeB6ZSu55uY54Sm54K5KOWPr+i+vuaAp+W6lee6vykgKi8KOmZvY3VzLXZpc2libGUgewogIG91dGxpbmU6IDJweCBzb2xpZCByZ2IodmFyKC0tYWNjZW50KSk7CiAgb3V0bGluZS1vZmZzZXQ6IDJweDsKICBib3JkZXItcmFkaXVzOiA2cHg7Cn0KCi8qIOWwiumHjSByZWR1Y2VkLW1vdGlvbiAqLwpAbWVkaWEgKHByZWZlcnMtcmVkdWNlZC1tb3Rpb246IHJlZHVjZSkgewogICosICo6OmJlZm9yZSwgKjo6YWZ0ZXIgeyBhbmltYXRpb24tZHVyYXRpb246IDAuMDAxbXMgIWltcG9ydGFudDsgdHJhbnNpdGlvbi1kdXJhdGlvbjogMC4wMDFtcyAhaW1wb3J0YW50OyB9Cn0KCi8qIE1hcmtkb3duIOaOkueJiCjogYrlpKnmsJTms6HlhoUpICovCi5wcm9zZS1jaGF0IHsgbGluZS1oZWlnaHQ6IDEuNjU7IH0KLnByb3NlLWNoYXQgcCB7IG1hcmdpbjogMC41ZW0gMDsgfQoucHJvc2UtY2hhdCB1bCwgLnByb3NlLWNoYXQgb2wgeyBtYXJnaW46IDAuNWVtIDA7IHBhZGRpbmctbGVmdDogMS40ZW07IH0KLnByb3NlLWNoYXQgbGkgeyBtYXJnaW46IDAuMmVtIDA7IH0KLnByb3NlLWNoYXQgY29kZTpub3QocHJlIGNvZGUpIHsKICBiYWNrZ3JvdW5kOiByZ2IodmFyKC0tc3VyZmFjZS0yKSk7CiAgYm9yZGVyOiAxcHggc29saWQgcmdiKHZhcigtLWJvcmRlcikpOwogIHBhZGRpbmc6IDAuMWVtIDAuNGVtOyBib3JkZXItcmFkaXVzOiA1cHg7CiAgZm9udC1mYW1pbHk6ICdKZXRCcmFpbnMgTW9ubycsIG1vbm9zcGFjZTsgZm9udC1zaXplOiAwLjg1ZW07Cn0KLnByb3NlLWNoYXQgcHJlIHsgYm9yZGVyLXJhZGl1czogMTBweDsgbWFyZ2luOiAwLjZlbSAwOyBvdmVyZmxvdzogaGlkZGVuOyB9Ci5wcm9zZS1jaGF0IGEgeyBjb2xvcjogcmdiKHZhcigtLWFjY2VudCkpOyB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsgdGV4dC11bmRlcmxpbmUtb2Zmc2V0OiAycHg7IH0KLnByb3NlLWNoYXQgaDEsIC5wcm9zZS1jaGF0IGgyLCAucHJvc2UtY2hhdCBoMyB7IGZvbnQtZmFtaWx5OiAnSW50ZXInLCBzYW5zLXNlcmlmOyBmb250LXdlaWdodDogNjAwOyBtYXJnaW46IDAuOGVtIDAgMC4zZW07IH0KLnByb3NlLWNoYXQgdGFibGUgeyBib3JkZXItY29sbGFwc2U6IGNvbGxhcHNlOyBtYXJnaW46IDAuNmVtIDA7IH0KLnByb3NlLWNoYXQgdGgsIC5wcm9zZS1jaGF0IHRkIHsgYm9yZGVyOiAxcHggc29saWQgcmdiKHZhcigtLWJvcmRlcikpOyBwYWRkaW5nOiAwLjM1ZW0gMC43ZW07IH0K
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============ 设计令牌：Claude.ai 气质的暖中性 + 陶土橙 ============ */
+/* 颜色以"空格分隔的 RGB 三元组"存放，配合 tailwind 的 rgb(var() / alpha)。 */
+
+:root {
+  /* 亮色：Kun 冷调中性(蓝灰底 + 近白卡片 + 淡蓝边界) */
+  --bg: 243 245 252;          /* #F3F5FC Kun 蓝灰底 */
+  --surface: 255 255 255;     /* 近白卡片 */
+  --surface-2: 234 240 249;   /* #EAF0F9 次级面 */
+  --border: 212 220 234;      /* #D4DCEA 淡蓝边界 */
+  --text: 35 54 89;           /* #233659 Kun 深蓝灰 */
+  --muted: 84 103 140;        /* #54678C 次要文字 */
+  --accent: 59 130 216;       /* #3B82D8 Kun 蓝(默认主色，首次选色可覆盖) */
+  --accent-hover: 47 109 187;
+  --warning: 214 73 63;       /* #D6493F 仅 BLOCK 用 */
+  --success: 18 138 74;       /* #128A4A */
+  /* Kun 质感令牌(阴影/渐变) */
+  --ds-shadow-composer: 0 18px 46px rgba(20, 47, 95, 0.10);
+  --ds-shadow-panel: 0 16px 44px rgba(20, 47, 95, 0.06);
+  --ds-stage-gradient: linear-gradient(180deg, #fafbff 0%, #f3f5fc 100%);
+}
+
+.dark {
+  /* 深色：Kun 深蓝夜(非纯黑) */
+  --bg: 15 20 34;             /* #0F1422 */
+  --surface: 27 35 56;        /* #1B2338 */
+  --surface-2: 22 29 47;      /* #161D2F */
+  --border: 42 51 70;         /* #2A3346 */
+  --text: 240 245 252;        /* #F0F5FC */
+  --muted: 189 201 222;       /* #BDC9DE */
+  --accent: 111 176 232;      /* #6FB0E8 深色下提亮的 Kun 蓝 */
+  --accent-hover: 142 195 242;
+  --warning: 224 122 110;
+  --success: 95 178 130;
+  --ds-shadow-composer: 0 28px 78px rgba(2, 6, 16, 0.45);
+  --ds-shadow-panel: 0 22px 58px rgba(2, 6, 16, 0.35);
+  --ds-stage-gradient: linear-gradient(180deg, #0f1422 0%, #121829 100%);
+}
+
+* { border-color: rgb(var(--border)); }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--ds-stage-gradient), rgb(var(--bg));
+  background-attachment: fixed;
+  color: rgb(var(--text));
+  font-family: 'Inter', system-ui, -apple-system, 'Noto Sans SC', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* 标题用文学感衬线，但克制使用 */
+h1, h2, .font-display { font-family: 'Newsreader', Georgia, 'Songti SC', serif; }
+
+/* 细滚动条，贴合安静审美 */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--border));
+  border-radius: 99px;
+  border: 3px solid rgb(var(--bg));
+}
+::-webkit-scrollbar-thumb:hover { background: rgb(var(--muted) / 0.5); }
+
+/* 可见键盘焦点(可达性底线) */
+:focus-visible {
+  outline: 2px solid rgb(var(--accent));
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* 尊重 reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+}
+
+/* Markdown 排版(聊天气泡内) */
+.prose-chat { line-height: 1.65; }
+.prose-chat p { margin: 0.5em 0; }
+.prose-chat ul, .prose-chat ol { margin: 0.5em 0; padding-left: 1.4em; }
+.prose-chat li { margin: 0.2em 0; }
+.prose-chat code:not(pre code) {
+  background: rgb(var(--surface-2));
+  border: 1px solid rgb(var(--border));
+  padding: 0.1em 0.4em; border-radius: 5px;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.85em;
+}
+.prose-chat pre { border-radius: 10px; margin: 0.6em 0; overflow: hidden; }
+.prose-chat a { color: rgb(var(--accent)); text-decoration: underline; text-underline-offset: 2px; }
+.prose-chat h1, .prose-chat h2, .prose-chat h3 { font-family: 'Inter', sans-serif; font-weight: 600; margin: 0.8em 0 0.3em; }
+.prose-chat table { border-collapse: collapse; margin: 0.6em 0; }
+.prose-chat th, .prose-chat td { border: 1px solid rgb(var(--border)); padding: 0.35em 0.7em; }

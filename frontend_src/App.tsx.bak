@@ -1,1 +1,44 @@
-Ly8g6Lev55SxICsg6Ym05p2D5a6I5Y2r44CC5pyq55m75b2V6K6/6Zeu5Y+X5L+d5oqk6aG1IOKGkiDot7MgL2xvZ2lu77ybL2xvZ2lu44CBL3JlZ2lzdGVyIOWFrOW8gOOAggovLyDop5LoibLlrojljavvvJpyb2xlcyDmjIflrprlkI7vvIzpnZ7or6Xop5LoibIg4oaSIOi3syAvY2hhdO+8iOiBjOi0o+WIhuemu++8mueUqOaIt+euoeeQhj1hZG1pbuOAgeWuoeiuoT1hdWRpdG9y77yJ44CCCmltcG9ydCB7IEJyb3dzZXJSb3V0ZXIsIFJvdXRlcywgUm91dGUsIE5hdmlnYXRlIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CmltcG9ydCB0eXBlIHsgUmVhY3ROb2RlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBMYXlvdXQgfSBmcm9tICJAL2NvbXBvbmVudHMvTGF5b3V0IjsKaW1wb3J0IHsgQ2hhdFZpZXcgfSBmcm9tICJAL3BhZ2VzL0NoYXRWaWV3IjsKaW1wb3J0IHsgQWdlbnRTdG9yZSB9IGZyb20gIkAvcGFnZXMvQWdlbnRTdG9yZSI7CmltcG9ydCB7IEtub3dsZWRnZUJhc2VWaWV3IH0gZnJvbSAiQC9wYWdlcy9Lbm93bGVkZ2VCYXNlVmlldyI7CmltcG9ydCB7IEFkbWluUGFuZWwgfSBmcm9tICJAL3BhZ2VzL0FkbWluUGFuZWwiOwppbXBvcnQgeyBVc2VyQWRtaW5WaWV3IH0gZnJvbSAiQC9wYWdlcy9Vc2VyQWRtaW5WaWV3IjsKaW1wb3J0IHsgQXVkaXRWaWV3IH0gZnJvbSAiQC9wYWdlcy9BdWRpdFZpZXciOwppbXBvcnQgeyBMb2dpblBhZ2UgfSBmcm9tICJAL3BhZ2VzL0xvZ2luUGFnZSI7CmltcG9ydCB7IFJlZ2lzdGVyUGFnZSB9IGZyb20gIkAvcGFnZXMvUmVnaXN0ZXJQYWdlIjsKaW1wb3J0IHsgdXNlQXV0aFN0b3JlIH0gZnJvbSAiQC9zdG9yZXMvdXNlQXV0aFN0b3JlIjsKaW1wb3J0IHR5cGUgeyBSb2xlIH0gZnJvbSAiQC90eXBlcyI7CgovKiog5Y+X5L+d5oqk6Lev55Sx77ya5pyq55m75b2VIOKGkiAvbG9naW7vvJvmjIflrpogcm9sZXMg5ZCO6Z2e6K+l6KeS6ImyIOKGkiAvY2hhdOOAgiAqLwpmdW5jdGlvbiBSZXF1aXJlQXV0aCh7IGNoaWxkcmVuLCByb2xlcyB9OiB7IGNoaWxkcmVuOiBSZWFjdE5vZGU7IHJvbGVzPzogUm9sZVtdIH0pIHsKICBjb25zdCB1c2VyID0gdXNlQXV0aFN0b3JlKChzKSA9PiBzLnVzZXIpOwogIGNvbnN0IGF1dGhlZCA9IHVzZUF1dGhTdG9yZSgocykgPT4gcy5pc0F1dGhlZCgpKTsKICBpZiAoIWF1dGhlZCkgcmV0dXJuIDxOYXZpZ2F0ZSB0bz0iL2xvZ2luIiByZXBsYWNlIC8+OwogIGlmIChyb2xlcyAmJiAoIXVzZXIgfHwgIXJvbGVzLmluY2x1ZGVzKHVzZXIucm9sZSkpKSByZXR1cm4gPE5hdmlnYXRlIHRvPSIvY2hhdCIgcmVwbGFjZSAvPjsKICByZXR1cm4gPExheW91dD57Y2hpbGRyZW59PC9MYXlvdXQ+Owp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBBcHAoKSB7CiAgY29uc3QgYXV0aGVkID0gdXNlQXV0aFN0b3JlKChzKSA9PiBzLmlzQXV0aGVkKCkpOwogIHJldHVybiAoCiAgICA8QnJvd3NlclJvdXRlcj4KICAgICAgPFJvdXRlcz4KICAgICAgICA8Um91dGUgcGF0aD0iL2xvZ2luIiBlbGVtZW50PXs8TG9naW5QYWdlIC8+fSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvcmVnaXN0ZXIiIGVsZW1lbnQ9ezxSZWdpc3RlclBhZ2UgLz59IC8+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii9jaGF0IiBlbGVtZW50PXs8UmVxdWlyZUF1dGg+PENoYXRWaWV3IC8+PC9SZXF1aXJlQXV0aD59IC8+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZ2VudHMiIGVsZW1lbnQ9ezxSZXF1aXJlQXV0aD48QWdlbnRTdG9yZSAvPjwvUmVxdWlyZUF1dGg+fSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIva2IiIGVsZW1lbnQ9ezxSZXF1aXJlQXV0aD48S25vd2xlZGdlQmFzZVZpZXcgLz48L1JlcXVpcmVBdXRoPn0gLz4KICAgICAgICA8Um91dGUgcGF0aD0iL2FkbWluIiBlbGVtZW50PXs8UmVxdWlyZUF1dGggcm9sZXM9e1siYWRtaW4iXX0+PEFkbWluUGFuZWwgLz48L1JlcXVpcmVBdXRoPn0gLz4KICAgICAgICA8Um91dGUgcGF0aD0iL3VzZXJzIiBlbGVtZW50PXs8UmVxdWlyZUF1dGggcm9sZXM9e1siYWRtaW4iXX0+PFVzZXJBZG1pblZpZXcgLz48L1JlcXVpcmVBdXRoPn0gLz4KICAgICAgICA8Um91dGUgcGF0aD0iL2F1ZGl0IiBlbGVtZW50PXs8UmVxdWlyZUF1dGggcm9sZXM9e1siYXVkaXRvciJdfT48QXVkaXRWaWV3IC8+PC9SZXF1aXJlQXV0aD59IC8+CiAgICAgICAgey8qIOm7mOiupO+8muW3sueZu+W9leKGki9jaGF077yM5pyq55m75b2V4oaSL2xvZ2luICovfQogICAgICAgIDxSb3V0ZSBwYXRoPSIqIiBlbGVtZW50PXs8TmF2aWdhdGUgdG89e2F1dGhlZCA/ICIvY2hhdCIgOiAiL2xvZ2luIn0gcmVwbGFjZSAvPn0gLz4KICAgICAgPC9Sb3V0ZXM+CiAgICA8L0Jyb3dzZXJSb3V0ZXI+CiAgKTsKfQo=
+// 路由 + 鉴权守卫。未登录访问受保护页 → 跳 /login；/login、/register 公开。
+// 角色守卫：roles 指定后，非该角色 → 跳 /chat（职责分离：用户管理=admin、审计=auditor）。
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import type { ReactNode } from "react";
+import { Layout } from "@/components/Layout";
+import { ChatView } from "@/pages/ChatView";
+import { AgentStore } from "@/pages/AgentStore";
+import { KnowledgeBaseView } from "@/pages/KnowledgeBaseView";
+import { AdminPanel } from "@/pages/AdminPanel";
+import { UserAdminView } from "@/pages/UserAdminView";
+import { AuditView } from "@/pages/AuditView";
+import { LoginPage } from "@/pages/LoginPage";
+import { RegisterPage } from "@/pages/RegisterPage";
+import { useAuthStore } from "@/stores/useAuthStore";
+import type { Role } from "@/types";
+
+/** 受保护路由：未登录 → /login；指定 roles 后非该角色 → /chat。 */
+function RequireAuth({ children, roles }: { children: ReactNode; roles?: Role[] }) {
+  const user = useAuthStore((s) => s.user);
+  const authed = useAuthStore((s) => s.isAuthed());
+  if (!authed) return <Navigate to="/login" replace />;
+  if (roles && (!user || !roles.includes(user.role))) return <Navigate to="/chat" replace />;
+  return <Layout>{children}</Layout>;
+}
+
+export default function App() {
+  const authed = useAuthStore((s) => s.isAuthed());
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/register" element={<RegisterPage />} />
+        <Route path="/chat" element={<RequireAuth><ChatView /></RequireAuth>} />
+        <Route path="/agents" element={<RequireAuth><AgentStore /></RequireAuth>} />
+        <Route path="/kb" element={<RequireAuth><KnowledgeBaseView /></RequireAuth>} />
+        <Route path="/admin" element={<RequireAuth roles={["admin"]}><AdminPanel /></RequireAuth>} />
+        <Route path="/users" element={<RequireAuth roles={["admin"]}><UserAdminView /></RequireAuth>} />
+        <Route path="/audit" element={<RequireAuth roles={["auditor"]}><AuditView /></RequireAuth>} />
+        {/* 默认：已登录→/chat，未登录→/login */}
+        <Route path="*" element={<Navigate to={authed ? "/chat" : "/login"} replace />} />
+      </Routes>
+    </BrowserRouter>
+  );
+}

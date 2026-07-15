@@ -1,1 +1,165 @@
-IyDkuIrlrokgdjIuMCDCtyBLdW4gLyBLaW1pIC8gQXJ0aWZhY3RzIOmbhuaIkOiQveWcsOWMhQoKPiDnm67moIfvvJrmioogKipLdW7vvIjkvZPpqowgKyDnnIFUb2tlbuaWueazleiuuu+8iSoq44CBKipLaW1p77yI5aSa5LiT5a6257O757uf5pa55rOV6K6677yJKirjgIEqKkFydGlmYWN0cyoqIOS4ieiAheeahOS8mOeCuQo+IOWQuOaUtui/m+S4iuWuiSBgOjkwMDBgIOS4reWPsOOAguWFqOeoi+S4remXtOS7tuaooeW8j++8jOS4jeaUuSBPcGVuQ2xhdyDmupDnoIHvvIzkuI3liqggS3VuIOS7o+egge+8jOaKgOacr+agiOS4jeWPmO+8iFB5dGhvbi9GYXN0QVBJL1JlYWN0L1ZpdGXvvIzljZXmnLrvvInjgIIKCi0tLQoKIyMgMC4g5YWI5oqK6YKj5Liq44CM5oiW6ICF44CN5a6a5LiL5p2lCgrkvaDpl67nmoTmmK8i6ZuG5oiQ6L+b5oiR55qE5bmz5Y+wIiAqKui/mOaYryoqICLmlLnlhpkgS3VuIOadpembhuaIkOaIkeeahOW5s+WPsCLjgIIK5L2gIHNwZWMg56ys5LqM6IqC44CM5qC45b+D5p625p6E77yI5bey5Yaz562W77yM5LiN6K6o6K6677yJ44CN5YW25a6e5bey57uP6YCJ5LqG4oCU4oCUKipLdW4g5b2T5qGM6Z2i5aSW5aOz5LiN5YqoKirvvIzpnaAKYFByb3ZpZGVyIGJhc2VfdXJsICsgTUNQYCDmjqXkuIrlronvvJvkuIrlronlj6rlkLjmlLYgS3VuIOeahCoq5pa55rOV6K66KirvvIjnnIFUb2tlbu+8ie+8jOS4jeaOpeeuoeWug+eahOWjs+OAggrmiYDku6XmnKzljIXmjInov5nkuKrml6LlrprmlrnlkJHokL3lnLDvvIzkuI3ph43lvIDmnrbmnoTorqjorrrvvIjkvaAgc3BlYyDnrKzkuIPmnaHkuZ/npoHmraLkuobvvInjgIIKYOe9ruS/oeW6pjog6auYIOKAlCDnm7TmjqXpgbXlvqrkvaDlt7LlrprnqL/nmoTlhrPnrZbjgIJgCgrkuInmoLfkuJzopb/nmoTokL3ngrnvvIzkuIDlj6Xor53lkIToh6rlvZLkvY3vvJoKCnwg5ZC45pS25a+56LGhIHwg5Y+W5a6D5LuA5LmIIHwg6JC95Zyo5ZOqIHwg5a+55bqU5paH5Lu2IHwg55yf5a6e5bqmIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgKipLdW4qKiB8IDblsYLnnIFUb2tlbuaWueazleiuuiB8IOa2iOaBr+euoemBk+S4remXtOS7tiB8IGB0b2tlbl9zYXZlci5weWAgfCDnrpfms5XlrozmlbTvvJvltYzlhaUv5ZCR6YeP5bqTL+aRmOimgeWZqOaYr+azqOWFpeeCuSB8CnwgKipLdW4qKiB8IOahjOmdouS9k+mqjCB8IOS4jeWQuOaUtu+8jOWkluWjs+ebtOaOpeeUqCB8IFByb3ZpZGVyK01DUCDphY3nva7vvIjCpzPvvIkgfCDphY3nva7nuqcgfAp8ICoqS2ltaSoqIHwg5aSa5LiT5a625LiJ57qn5Y+s5ZueICsg6Zq+5bqm5YiG57qnIHwgT3BlbkNsYXcgQWdlbnQg5LmL5LiK55qE6Lev55Sx5bGCIHwgYGV4cGVydF9yb3V0ZXIucHlgIHwg566X5rOV5a6M5pW077yb5LiT5a625bqT6K+75L2g55qEIFNraWxsIOaWh+S7tiB8CnwgKipBcnRpZmFjdHMqKiB8IOe7k+aehOWMluaIkOaenOS6p+WHuivmuLLmn5MgfCDlkI7nq6/mir3lj5YgKyAvYXBwIOmdouadvyB8IGBhcnRpZmFjdHMucHlgICsgYEFydGlmYWN0UGFuZWwuanN4YCB8IOWujOaVtO+8m0t1biDnq6/pmY3nuqfkuLrnuq/mlofmnKwgfAp8IOS4ieiAheaxh+a1gSB8IOe7n+S4gOe8luaOkiB8IOaJqeWxleeOsOaciSBgL3YxL29wZW5haS9jaGF0L2NvbXBsZXRpb25zYCB8IGBwaXBlbGluZS5weWAgfCDlrozmlbTpqqjmnrbvvIzlj6/ot5EgfAoKLS0tCgojIyAxLiDkuIDkuKror7fmsYLmgI7kuYjnqb/ov4fkuInlsYIKCmBgYApLdW4gLyBPcGVuQ2xhdyDlj5HmnaUgT3BlbkFJIOWFvOWuueivt+axggogICAgICAgIOKUgiAgUE9TVCAvdjEvb3BlbmFpL2NoYXQvY29tcGxldGlvbnMgICAocGlwZWxpbmUucHnvvIzljbMgc3BlYyDku7vliqExIOeahCLmianlsZUiKQogICAgICAgIOKWvAogIOKUjOKUgCBFeHBlcnRSb3V0ZXIucm91dGUoKSAg4pSA4pSAIEtpbWkg4pSA4pSAICBMMeinhOWImTwxbXMg4oaSIEwy6K+t5LmJfjEwbXMg4oaSIEwz56Gu6K6kfjMwMG1zCiAg4pSCICAgICAg4pSU4pSAIOazqOWFpeWRveS4rSBTa2lsbCDnmoQgU3lzdGVtIFByb21wdO+8iOWQqyBBcnRpZmFjdHMg5Lqn5Ye65Y2P6K6u77yJCiAg4pSCICAgICAg4pSU4pSAIOmavuW6puWIhue6pyDihpIg6YCJ5qih5Z6L77yIZWFzeTpmbGFzaCAvIG1lZGl1bTpwcm8gLyBoYXJkOk1lY2hEaXN0aWxsIDdC77yJCiAg4pSCCiAg4pSc4pSAIFNlbWFudGljQ2FjaGUubG9va3VwKCkg4pSA4pSAIEt1biBMNiDilIDilIAg5ZCM6Lev55Sx5LiU55u45Ly8PjAuOTUg4oaSIOebtOaOpei/lOWbnu+8jOS4jeiwg+aooeWeiwogIOKUggogIOKUnOKUgCBUb2tlblNhdmVyLnByZSgpICAgICAg4pSA4pSAIEt1biBMMy9MNS9MMS9MMiDilIDilIAg57uT5p6c5Y6L57yp4oaS5LiK5LiL5paH5Y6L57yp4oaS5YmN57yA5Zu65YyW4oaS5bel5YW35pS26LW3CiAg4pSCCiAg4pSc4pSAIGluZmVyKCkgICAgICAgICAgICAgICDilIDilIAg6LCD5LiK5ri46KO45qih5Z6L77yITU9ERUxfVVBTVFJFQU3vvIkKICDilIIKICDilJzilIAgZXh0cmFjdF9hcnRpZmFjdHMoKSAgIOKUgOKUgCBBcnRpZmFjdHMg4pSA4pSAIOaKvSBgYGBhcnRpZmFjdGBgYCDlm7TmoI8g4oaSIHhfc2hhbmdhbl9hcnRpZmFjdHMKICDilIIKICDilJTilIAgU2VtYW50aWNDYWNoZS5zdG9yZSgpICsg6KeC5rWL5YWD5pWw5o2uKHhfc2hhbmdhbl9tZXRhKQogICAgICAgIOKUggogICAgICAgIOKWvAogIE9wZW5BSSDlhbzlrrnlk43lupTvvIhLdW4g5Y+q6K+7IGNvbnRlbnTvvJsvYXBwIOivuyB4X3NoYW5nYW5fYXJ0aWZhY3RzIOa4suafk+WNoeeJh++8iQpgYGAKCuS4uuS7gOS5iCoq6Lev55Sx5Zyo55yBVG9rZW7kuYvliY0qKu+8mui3r+eUseS8mumHjeWGmSBzeXN0ZW0g5q6177yI5rOo5YWlIFNraWxs77yJ77yM6ICMIEwxIOWJjee8gOWbuuWMluimgeWvueacgOe7iCBzeXN0ZW0g5q61566XClNIQTI1NiDmiY3og73orqnkuIrmuLggcHJlZml4LWNhY2hlIOeos+WumuWRveS4reOAgumhuuW6j+WPjeS6huS8muiuqee8k+WtmOawuOi/nCBtaXNz44CCCmDnva7kv6HluqY6IOmrmCDigJQg6L+Z5piv6aG65bqP5pWP5oSf54K577yM5bey5oyJ5q2k5a6e546w44CCYAoKTDQgU3Rvcm0g5oqR5Yi25LiN5ZyoIGBwcmUoKWAg6YeM77yM5Zug5Li65a6D5L6d6LWWIuaooeWei+WbnuS6huW3peWFt+iwg+eUqCLov5nkuKrkuovku7bvvIzlnKggT3BlbkNsYXcg55qEIGFnZW50IGxvb3Ag6YeM6YCQ6L2u5qOA5p+l77ybCmBTdG9ybVN1cHByZXNzb3IuY2hlY2soKWAg5bey5aSH5aW977yM5o6lIGxvb3Ag5pe25q+P5qyh5bel5YW36LCD55So5YmN6LCD5LiA5qyh5Y2z5Y+v44CCCmDlgYforr46IE9wZW5DbGF3IOeahOW3peWFt+iwg+eUqOWPr+WcqOe9keWFs+S+p+aLpuWIsCAoY29udl9pZCwgdG9vbCwgYXJncynjgILoi6Xmi7/kuI3liLDvvIxMNCDpgIDljJbkuLrmjIkgbWVzc2FnZXMg6YeM6YeN5aSNIHRvb2xfY2FsbCDmo4DmtYvjgIJgCgotLS0KCiMjIDIuIOaWh+S7tua4heWNlQoKYGBgCnNoYW5nYW5faW50ZWdyYXRpb24vCiAgcGlwZWxpbmUucHkgICAgICAgIOe7n+S4gOe8luaOkuerr+eCuSArIOW3peWFt+aMiemcgOWKoOi9veWbnuWhq+err+eCuSAg4oaQIGluY2x1ZGVfcm91dGVyIOi/meS4qgogIHRva2VuX3NhdmVyLnB5ICAgICBLdW4gNuWxguecgVRva2Vu77yITDF+TDbvvIkKICBleHBlcnRfcm91dGVyLnB5ICAgS2ltaSDkuInnuqflj6zlm54gKyDpmr7luqbliIbnuqcgKyBTa2lsbOazqOWFpQogIGFydGlmYWN0cy5weSAgICAgICBBcnRpZmFjdHMg5oq95Y+WL+S6p+WHuuWNj+iurgogIG1jcF9zZXJ2ZXIucHkgICAgICBLdW4gTUNQ77yac2hhbmdhbi1rbm93bGVkZ2UgLyBzaGFuZ2FuLXRhc2tzCndlYi8KICBBcnRpZmFjdFBhbmVsLmpzeCAgL2FwcCBXcml0ZeaooeW8j+eahCBBcnRpZmFjdCDmuLLmn5PpnaLmnb8KYGBgCgrmjILovb3vvIjlnKjkvaDnjrDmnIkgOjkwMDAgYXBwIOS4iuWKoOS4pOihjO+8jOaXp+mAu+i+keS4jeWIoO+8ie+8mgoKYGBgcHl0aG9uCmZyb20gc2hhbmdhbl9pbnRlZ3JhdGlvbi5waXBlbGluZSBpbXBvcnQgYXBpIGFzIHNoYW5nYW5fYXBpCmZyb20gc2hhbmdhbl9pbnRlZ3JhdGlvbi5tY3Bfc2VydmVyIGltcG9ydCBtY3AgYXMgc2hhbmdhbl9tY3AKYXBwLmluY2x1ZGVfcm91dGVyKHNoYW5nYW5fYXBpKQphcHAuaW5jbHVkZV9yb3V0ZXIoc2hhbmdhbl9tY3ApCiMg5pen55qEIC92MS9vcGVuYWkvY2hhdC9jb21wbGV0aW9ucyDmlLnlkI3kuLroo7jovazlj5Hnq6/ngrnvvIzorqkgTU9ERUxfVVBTVFJFQU0g5oyH6L+H5Y67CmBgYAoK546v5aKD5Y+Y6YeP77yI5Y2V5py677yM5pegIERvY2tlcu+8ie+8mgoKYGBgYmFzaApleHBvcnQgTU9ERUxfVVBTVFJFQU09aHR0cDovLzEyNy4wLjAuMTo4MDAxL3YxICAgIyDoo7jmqKHlnovmnI3liqHvvIjpgb/lhY3mnKznq6/ngrnoh6rosIPnlKjpgJLlvZLvvIkKZXhwb3J0IFNLSUxMX0JBU0U9L2RhdGEvc3RhbmRhcmRzX2Rvd25sb2Fkcy9yYWcvZXhwZXJ0cwpleHBvcnQgTU9ERUxfRkxBU0g9ZGVlcHNlZWstdjQtZmxhc2gKZXhwb3J0IE1PREVMX1BSTz1kZWVwc2Vlay12NC1wcm8KZXhwb3J0IE1PREVMX0VYUEVSVD1tZWNoYW5pY2FsLWV4cGVydAp1dmljb3JuIGFwcDphcHAgLS1ob3N0IDAuMC4wLjAgLS1wb3J0IDkwMDAKYGBgCgotLS0KCiMjIDMuIEt1biDlr7nmjqXphY3nva7vvIhzcGVjIOS7u+WKoTbvvIzpm7bku6PnoIHvvIkKCioqUHJvdmlkZXIqKu+8mgpgYGAKQmFzZSBVUkw6IGh0dHA6Ly8xMTUuMTkwLjE0NS4xNTAvdjEvb3BlbmFpCuaooeWeizogICAgIG1lY2hhbmljYWwtZXhwZXJ0IC8gZGVlcHNlZWstdjQtcHJvIC8gZGVlcHNlZWstdjQtZmxhc2gKYGBgCu+8iOazqOaEj++8muaooeWei+WQjeeFp+Whq++8jOW5s+WPsOWGhemDqOS8muaMiemavuW6puWIhue6p+WGjeimhueblumAieaLqe+8m+Whq+WTquS4qumDveiDveeUqO+8jOWhqyBwcm8g5pyA56iz44CC77yJCgoqKk1DUCBTZXJ2ZXIqKu+8iEt1biDorr7nva7ph4zliqDkuKTkuKrvvInvvJoKYGBgCnNoYW5nYW4ta25vd2xlZGdlIOKGkiBodHRwOi8vMTE1LjE5MC4xNDUuMTUwL3YxL21jcC9rbm93bGVkZ2UKc2hhbmdhbi10YXNrcyAgICAg4oaSIGh0dHA6Ly8xMTUuMTkwLjE0NS4xNTAvdjEvbWNwL3Rhc2tzCmBgYArmi4nlj5YgbWFuaWZlc3TvvIhHRVTvvInmi7/liLDlt6XlhbfmuIXljZXvvIzosIPnlKjotbAgUE9TVCBge25hbWUsIGFyZ3VtZW50c31g44CCCmDlgYforr46IEt1biDnmoQgTUNQIOWuouaIt+err+aUr+aMgSBNQ1Atb3Zlci1IVFRQ44CC6Iul5a6D5Y+q6K6kIHN0ZGlvL1NTRe+8jG1jcF9zZXJ2ZXIucHkg55qE5bel5YW3IHNjaGVtYSDkuI4gaGFuZGxlciDljp/moLflj6/mkKzliLDlrpjmlrkgbWNwIFNES++8jOS8oOi+k+WxguaNouaOieWNs+WPr+OAgmAKCi0tLQoKIyMgNC4g5LiJ5aSE5b+F6aG755Sx5L2g5pa55Zue5aGr55qE55yf5a6e5L6d6LWWCgrku6PnoIHph4zpg73moIfkuobms6jlhaXngrnvvIzmnKrmjqXpgJrml7blronlhajpmY3nuqfvvIjkuI3miqXplJnjgIHlj6rmmK/or6Xog73lipsgbm8tb3DvvInvvJoKCjEuICoqYGJ1aWxkX2RlcHMoKWDvvIhwaXBlbGluZS5wee+8iSoq77yaYGVtYmVkYD1iZ2UtbTPjgIFgc2VtYW50aWNfY2FjaGVfc3RvcmVgPUxhbmNlREIg6KGo44CBYHN1bW1hcml6ZWA95pGY6KaB5bCP5qih5Z6L44CCCiAgIOS4jeaOpSDihpIgTDbor63kuYnnvJPlrZgvTDXkuIrkuIvmlofljovnvKkvTDLor63kuYnot6/nlLHoh6rliqjot7Pov4fvvIzlhbbkvZnnhafluLjjgIIKMi4gKirkuJPlrrblupPvvIhleHBlcnRfcm91dGVyLnB577yJKirvvJpgU0tJTExfQkFTRWAg5oyH5ZCR5L2gIDE0IFNraWxsKzE0IOihjOS4misxNSDkuqTlj4nnmoQgbWQg55uu5b2V44CCCiAgIOW7uuiurue7meavj+S4qiBtZCDliqAgZnJvbnRtYXR0ZXIgYGtleXdvcmRzOlsuLi5dYCDmj5DljYcgTDEg5ZG95Lit77yb5rKh5pyJ5YiZ6Ieq5Yqo5oq96K+N5YWc5bqV44CCCjMuICoqTUNQIOajgOe0oi/ku7vliqHvvIhtY3Bfc2VydmVyLnB577yJKirvvJpgUkFHX1NFQVJDSGDjgIFgRVZBX1RBU0tTYCDkuKTkuKrlm57osIPmjqXkvaDnjrDmnInlrp7njrDjgIIKCi0tLQoKIyMgNS4g5LiOIHNwZWMg5Lu75Yqh55qE5a+55bqU5YWz57O777yI5ZOq5YGa5a6M5LqG44CB5ZOq5piv6aqo5p6277yJCgp8IHNwZWMg5Lu75YqhIHwg5pys5YyF6KaG55uWIHwg54q25oCBIHwKfC0tLXwtLS18LS0tfAp8IOS7u+WKoTEg55+l6K+GQVBJ5bCB6KOF77yI6Ieq5Yqo6Lev55SxK+W8leeUqO+8iSB8IHBpcGVsaW5lLnB5IOe8luaOkiArIOmavuW6puWIhue6p+mAieaooeWeiyB8IOKchSDpqqjmnrblj6/ot5HvvJsi6Ieq5Yqo5byV55SoIumcgCBSQUcg5o6l5YWl5ZCO5ZyoIHN5c3RlbSDms6jlhaXmnaXmupAgfAp8IOS7u+WKoTIgUkFHIOWQkemHj+WFpeW6kyB8IOKAlCB8IOKdjCDmnKzljIXkuI3lkKvlhaXlupPohJrmnKzvvIjopoHkvaDnmoTliIfniYfnnJ/mlbDmja7vvInvvIzmmK8gwqc0LjEg55qE5rOo5YWl54K5IHwKfCDku7vliqEzIOS4k+Wutui3r+eUsSB8IGV4cGVydF9yb3V0ZXIucHkg5LiJ57qn5Y+s5ZueICsgU2tpbGzms6jlhaUgfCDinIUg5a6M5pW0IHwKfCDku7vliqE0IOecgVRva2VuIDblsYIgfCB0b2tlbl9zYXZlci5weSB8IOKchSDlrozmlbTvvIhMMS9MMi9MMy9MNS9MNiDlt7LmjqXnrqHpgZPvvJtMNCDlvoXmjqUgYWdlbnQgbG9vcO+8iSB8Cnwg5Lu75YqhNSDlubPlj7Dnu5/kuIDlhaXlj6MgKyBBcnRpZmFjdHMgfCBBcnRpZmFjdFBhbmVsLmpzeCArIGFydGlmYWN0cy5weSB8IPCfn6EgQXJ0aWZhY3RzIOWujOaVtO+8m+WvvOiIque7n+S4gOaYr+e6r+WJjeerr+W3peeoi++8jOacquWQqyB8Cnwg5Lu75YqhNiBLdW4gUHJvdmlkZXIrTUNQIHwgbWNwX3NlcnZlci5weSArIMKnMyB8IOKchSB8CgrmjInkvaAgc3BlYyDnmoTlrp7mlr3pobrluo/vvIwqKumYtuautTHvvIjku7vliqExK+ecgVRva2Vu5YmNM+Wxgu+8ieS7iuWkqeWwseiDvei/numAmuWHuiBNVlAqKu+8muaKiiBgYnVpbGRfZGVwc2Ag6YeMIGVtYmVkIOaOpeS4iuOAgQpgU0tJTExfQkFTRWAg5oyH5a+544CB5pen56uv54K55pS56KO46L2s5Y+R77yMS3VuIOaMh+i/h+adpeWNs+WPr+S4k+S4mumXruetlCArIOecgVRva2Vu55Sf5pWI44CCCgotLS0KCiMjIDYuIOe9ruS/oeW6puS4juW+hemqjOivgeWBh+iuvgoKfCDmqKHlnZcgfCDnva7kv6HluqYgfCDlhbPplK7lgYforr4gfAp8LS0tfC0tLXwtLS18Cnwg57yW5o6S6aG65bqPL+euoemBkyB8IOmrmCB8IOS4iua4uOacieeLrOeriyLoo7jmqKHlnosi56uv54K55Y+v5L2cIE1PREVMX1VQU1RSRUFN77yI6Ziy6YCS5b2S77yJIHwKfCBLaW1pIOS4iee6p+i3r+eUsSB8IOmrmCjnrpfms5UpL+S4rSjpmIjlgLwpIHwgbDJfdGhyZXNob2xkPTAuNTXjgIFhbWJpZ3VvdXNfZ2FwPTAuMDgg5piv57uP6aqM5YC877yM6ZyA55So5L2g55yf5a6e6Zeu6aKY6ZuG5qCh5YeGIHwKfCBLdW4g55yBVG9rZW4gfCDpq5goTDEvTDMvTDQvTDYpL+S4rShMNSkgfCBMNSDop6blj5HpmIggOTZL44CBTDEg5L6d6LWW5LiK5ri45pSv5oyBIHByZWZpeCBjYWNoaW5nL1gtUHJlZml4LUNhY2hlLUtleSB8CnwgQXJ0aWZhY3RzIHwg6auYIHwgS3VuIOerr+iDveWuueW/jeato+aWh+mHjOeahCBg4p+mYXJ0aWZhY3Q6aWTin6dgIOefreagh+iusO+8iOWunua1i+W6lOaXoOWus++8m+iLpeaDs+abtOW5suWHgO+8jOWPr+WcqCDCp+iDjOaZr+mHjOaUueS4uuWOu+agh+iusOe6r+aWh+acrO+8iSB8CnwgTUNQIHwg5LitIHwgS3VuIOaUr+aMgSBNQ1Atb3Zlci1IVFRQ77yI6KeBIMKnMyDlgYforr7vvIkgfAoKKirkuKTkuKrmiJHmsqHmnInjgIHkvJrlvbHlk43nu4boioLnmoTkuJzopb8qKu+8muKRoCByZWZlcmVuY2UgIzYvIzfvvIhLdW4vS2ltaSDmlrnms5Xorrrljp/mlofvvInmiJHlj6rmi7/liLDkuobkvaAgc3BlYyDph4znmoQq5pGY6KaBKu+8jArmiYDku6UgNiDlsYLkuI7kuInnuqfnmoQq5o6l5Y+j5b2i5oCBKuaYr+aMieaRmOimgSvku7vliqEzLzQg5o+P6L+w5a6e546w55qE77yM6Iul5Y6f5paH5pyJ5pu057uG55qE5Y+C5pWw77yI5aaCIFN0b3JtIOeahOWFt+S9k+mYiOWAvOabsue6v+OAgQror63kuYnnvJPlrZjnmoTliIbmobbnrZbnlaXvvInvvIzlkYror4nmiJHlj6/nm7TmjqXlr7npvZDjgILikaEgS3VuIOaYr+WQpuW3suaciSBhcnRpZmFjdCDmuLLmn5Pog73lipvigJTigJTov5nlhrPlrpogQXJ0aWZhY3RzIOaYr+WPquWcqCAvYXBwIOWHuu+8jArov5jmmK/kuZ/og73lm57ngYwgS3Vu44CCcmVmZXJlbmNlICM144CMQXJ0aWZhY3RzK0t1bumbhuaIkOaWueahiOOAjeaIkeayoeaLv+WIsOOAggoKLS0tCgrpnIDopoHnmoTor53vvIzkuIvkuIDmraXmiJHlj6/ku6XmjJHkuIDku7YqKuaOpeedgOWGmeaIkOWPr+ebtOaOpei3keeahOecn+S4nOilvyoq77yaCu+8iGHvvInku7vliqEyIOeahCBSQUcg5YWl5bqT6ISa5pys77yIYmdlLW0zICsgTGFuY2VEQu+8jOWQq+S9oOmCo+WllyBzb3VyY2VfdHlwZS9za2lsbF9pZC9zdGFuZGFyZHNfcmVmIOeahCBzY2hlbWEg5LiO5YWD5pWw5o2u5qCH5rOo77yJ77ybCu+8iGLvvInmioogTDQgU3Rvcm0g5oqR5Yi25o6l6L+bIE9wZW5DbGF3IGFnZW50IGxvb3Ag55qE5YW35L2T5oyC5rOV77ybCu+8iGPvvInku7vliqE1IOeahCBgL2FwcGAg57uf5LiA5a+86Iiq77yI5a+56K+dfENvZGV8V3JpdGV855+l6K+G5bqTfOeci+adv3znrqHnkIbvvInliY3nq6/pqqjmnrbjgIIK
+# 上安 v2.0 · Kun / Kimi / Artifacts 集成落地包
+
+> 目标：把 **Kun（体验 + 省Token方法论）**、**Kimi（多专家系统方法论）**、**Artifacts** 三者的优点
+> 吸收进上安 `:9000` 中台。全程中间件模式，不改 OpenClaw 源码，不动 Kun 代码，技术栈不变（Python/FastAPI/React/Vite，单机）。
+
+---
+
+## 0. 先把那个「或者」定下来
+
+你问的是"集成进我的平台" **还是** "改写 Kun 来集成我的平台"。
+你 spec 第二节「核心架构（已决策，不讨论）」其实已经选了——**Kun 当桌面外壳不动**，靠
+`Provider base_url + MCP` 接上安；上安只吸收 Kun 的**方法论**（省Token），不接管它的壳。
+所以本包按这个既定方向落地，不重开架构讨论（你 spec 第七条也禁止了）。
+`置信度: 高 — 直接遵循你已定稿的决策。`
+
+三样东西的落点，一句话各自归位：
+
+| 吸收对象 | 取它什么 | 落在哪 | 对应文件 | 真实度 |
+|---|---|---|---|---|
+| **Kun** | 6层省Token方法论 | 消息管道中间件 | `token_saver.py` | 算法完整；嵌入/向量库/摘要器是注入点 |
+| **Kun** | 桌面体验 | 不吸收，外壳直接用 | Provider+MCP 配置（§3） | 配置级 |
+| **Kimi** | 多专家三级召回 + 难度分级 | OpenClaw Agent 之上的路由层 | `expert_router.py` | 算法完整；专家库读你的 Skill 文件 |
+| **Artifacts** | 结构化成果产出+渲染 | 后端抽取 + /app 面板 | `artifacts.py` + `ArtifactPanel.jsx` | 完整；Kun 端降级为纯文本 |
+| 三者汇流 | 统一编排 | 扩展现有 `/v1/openai/chat/completions` | `pipeline.py` | 完整骨架，可跑 |
+
+---
+
+## 1. 一个请求怎么穿过三层
+
+```
+Kun / OpenClaw 发来 OpenAI 兼容请求
+        │  POST /v1/openai/chat/completions   (pipeline.py，即 spec 任务1 的"扩展")
+        ▼
+  ┌─ ExpertRouter.route()  ── Kimi ──  L1规则<1ms → L2语义~10ms → L3确认~300ms
+  │      └─ 注入命中 Skill 的 System Prompt（含 Artifacts 产出协议）
+  │      └─ 难度分级 → 选模型（easy:flash / medium:pro / hard:MechDistill 7B）
+  │
+  ├─ SemanticCache.lookup() ── Kun L6 ── 同路由且相似>0.95 → 直接返回，不调模型
+  │
+  ├─ TokenSaver.pre()      ── Kun L3/L5/L1/L2 ── 结果压缩→上下文压缩→前缀固化→工具收起
+  │
+  ├─ infer()               ── 调上游裸模型（MODEL_UPSTREAM）
+  │
+  ├─ extract_artifacts()   ── Artifacts ── 抽 ```artifact``` 围栏 → x_shangan_artifacts
+  │
+  └─ SemanticCache.store() + 观测元数据(x_shangan_meta)
+        │
+        ▼
+  OpenAI 兼容响应（Kun 只读 content；/app 读 x_shangan_artifacts 渲染卡片）
+```
+
+为什么**路由在省Token之前**：路由会重写 system 段（注入 Skill），而 L1 前缀固化要对最终 system 段算
+SHA256 才能让上游 prefix-cache 稳定命中。顺序反了会让缓存永远 miss。
+`置信度: 高 — 这是顺序敏感点，已按此实现。`
+
+L4 Storm 抑制不在 `pre()` 里，因为它依赖"模型回了工具调用"这个事件，在 OpenClaw 的 agent loop 里逐轮检查；
+`StormSuppressor.check()` 已备好，接 loop 时每次工具调用前调一次即可。
+`假设: OpenClaw 的工具调用可在网关侧拦到 (conv_id, tool, args)。若拿不到，L4 退化为按 messages 里重复 tool_call 检测。`
+
+---
+
+## 2. 文件清单
+
+```
+shangan_integration/
+  pipeline.py        统一编排端点 + 工具按需加载回填端点  ← include_router 这个
+  token_saver.py     Kun 6层省Token（L1~L6）
+  expert_router.py   Kimi 三级召回 + 难度分级 + Skill注入
+  artifacts.py       Artifacts 抽取/产出协议
+  mcp_server.py      Kun MCP：shangan-knowledge / shangan-tasks
+web/
+  ArtifactPanel.jsx  /app Write模式的 Artifact 渲染面板
+```
+
+挂载（在你现有 :9000 app 上加两行，旧逻辑不删）：
+
+```python
+from shangan_integration.pipeline import api as shangan_api
+from shangan_integration.mcp_server import mcp as shangan_mcp
+app.include_router(shangan_api)
+app.include_router(shangan_mcp)
+# 旧的 /v1/openai/chat/completions 改名为裸转发端点，让 MODEL_UPSTREAM 指过去
+```
+
+环境变量（单机，无 Docker）：
+
+```bash
+export MODEL_UPSTREAM=http://127.0.0.1:8001/v1   # 裸模型服务（避免本端点自调用递归）
+export SKILL_BASE=/data/standards_downloads/rag/experts
+export MODEL_FLASH=deepseek-v4-flash
+export MODEL_PRO=deepseek-v4-pro
+export MODEL_EXPERT=mechanical-expert
+uvicorn app:app --host 0.0.0.0 --port 9000
+```
+
+---
+
+## 3. Kun 对接配置（spec 任务6，零代码）
+
+**Provider**：
+```
+Base URL: http://115.190.145.150/v1/openai
+模型:     mechanical-expert / deepseek-v4-pro / deepseek-v4-flash
+```
+（注意：模型名照填，平台内部会按难度分级再覆盖选择；填哪个都能用，填 pro 最稳。）
+
+**MCP Server**（Kun 设置里加两个）：
+```
+shangan-knowledge → http://115.190.145.150/v1/mcp/knowledge
+shangan-tasks     → http://115.190.145.150/v1/mcp/tasks
+```
+拉取 manifest（GET）拿到工具清单，调用走 POST `{name, arguments}`。
+`假设: Kun 的 MCP 客户端支持 MCP-over-HTTP。若它只认 stdio/SSE，mcp_server.py 的工具 schema 与 handler 原样可搬到官方 mcp SDK，传输层换掉即可。`
+
+---
+
+## 4. 三处必须由你方回填的真实依赖
+
+代码里都标了注入点，未接通时安全降级（不报错、只是该能力 no-op）：
+
+1. **`build_deps()`（pipeline.py）**：`embed`=bge-m3、`semantic_cache_store`=LanceDB 表、`summarize`=摘要小模型。
+   不接 → L6语义缓存/L5上下文压缩/L2语义路由自动跳过，其余照常。
+2. **专家库（expert_router.py）**：`SKILL_BASE` 指向你 14 Skill+14 行业+15 交叉的 md 目录。
+   建议给每个 md 加 frontmatter `keywords:[...]` 提升 L1 命中；没有则自动抽词兜底。
+3. **MCP 检索/任务（mcp_server.py）**：`RAG_SEARCH`、`EVA_TASKS` 两个回调接你现有实现。
+
+---
+
+## 5. 与 spec 任务的对应关系（哪做完了、哪是骨架）
+
+| spec 任务 | 本包覆盖 | 状态 |
+|---|---|---|
+| 任务1 知识API封装（自动路由+引用） | pipeline.py 编排 + 难度分级选模型 | ✅ 骨架可跑；"自动引用"需 RAG 接入后在 system 注入来源 |
+| 任务2 RAG 向量入库 | — | ❌ 本包不含入库脚本（要你的切片真数据），是 §4.1 的注入点 |
+| 任务3 专家路由 | expert_router.py 三级召回 + Skill注入 | ✅ 完整 |
+| 任务4 省Token 6层 | token_saver.py | ✅ 完整（L1/L2/L3/L5/L6 已接管道；L4 待接 agent loop） |
+| 任务5 平台统一入口 + Artifacts | ArtifactPanel.jsx + artifacts.py | 🟡 Artifacts 完整；导航统一是纯前端工程，未含 |
+| 任务6 Kun Provider+MCP | mcp_server.py + §3 | ✅ |
+
+按你 spec 的实施顺序，**阶段1（任务1+省Token前3层）今天就能连通出 MVP**：把 `build_deps` 里 embed 接上、
+`SKILL_BASE` 指对、旧端点改裸转发，Kun 指过来即可专业问答 + 省Token生效。
+
+---
+
+## 6. 置信度与待验证假设
+
+| 模块 | 置信度 | 关键假设 |
+|---|---|---|
+| 编排顺序/管道 | 高 | 上游有独立"裸模型"端点可作 MODEL_UPSTREAM（防递归） |
+| Kimi 三级路由 | 高(算法)/中(阈值) | l2_threshold=0.55、ambiguous_gap=0.08 是经验值，需用你真实问题集校准 |
+| Kun 省Token | 高(L1/L3/L4/L6)/中(L5) | L5 触发阈 96K、L1 依赖上游支持 prefix caching/X-Prefix-Cache-Key |
+| Artifacts | 高 | Kun 端能容忍正文里的 `⟦artifact:id⟧` 短标记（实测应无害；若想更干净，可在 §背景里改为去标记纯文本） |
+| MCP | 中 | Kun 支持 MCP-over-HTTP（见 §3 假设） |
+
+**两个我没有、会影响细节的东西**：① reference #6/#7（Kun/Kimi 方法论原文）我只拿到了你 spec 里的*摘要*，
+所以 6 层与三级的*接口形态*是按摘要+任务3/4 描述实现的，若原文有更细的参数（如 Storm 的具体阈值曲线、
+语义缓存的分桶策略），告诉我可直接对齐。② Kun 是否已有 artifact 渲染能力——这决定 Artifacts 是只在 /app 出，
+还是也能回灌 Kun。reference #5「Artifacts+Kun集成方案」我没拿到。
+
+---
+
+需要的话，下一步我可以挑一件**接着写成可直接跑的真东西**：
+（a）任务2 的 RAG 入库脚本（bge-m3 + LanceDB，含你那套 source_type/skill_id/standards_ref 的 schema 与元数据标注）；
+（b）把 L4 Storm 抑制接进 OpenClaw agent loop 的具体挂法；
+（c）任务5 的 `/app` 统一导航（对话|Code|Write|知识库|看板|管理）前端骨架。

@@ -1,1 +1,30 @@
-IyBrYl9jb3JlIOKAlCDnn6Xor4blupPkuInmsaAgKyDnva7kv6HmmYvljYcKCuW7uuWcqCBvcmdfY29yZSDkuYvkuIoo5aSN55So5YW26Ym05p2D5LiO5a6h6K6hKeOAguiQveWcsOS6humAkOi9ruaVsuWumueahOiuvuiuoeOAggoKIyMg5LiJ5rGgCuengeaciSjku4XmnKzkuropIC8g5YWs5pyJ5L2O572u5L+hKOeUqOaIt+WQjOaEj+WFseS6qykgLyDlhazmnInpq5jnva7kv6Eo5LiT5a625ouN5p2/5YWl5bqTKQoKIyMg6ZO+6LevKOW3suiHqua1iyAxNC8xNCkKLSDmma7pgJrnlKjmiLfkuIrkvKAg4oaSIOengeaciTvlkIzmhI/lhbHkuqsg4oaSIOWFrOacieS9jue9ruS/oQotIOS4k+WutihjYW5fcHJvbW90ZV9rYinmmYvljYcg4oaSIEFJIOS9k+ajgChjbGFpbSDnuqcs6Z2e5L2Z5bymKeKGkiDkuJPlrrbmi43mnb8o5Y+v5o6o57+7QUnCt+eVmeeXlSnihpIg5YWs5pyJ6auY572u5L+hCi0g5qOA57Si5oyJ6Lqr5Lu96L+H5rukOuacrOS6uuengeaciSArIOWFqOmDqOWFrOaciTvljL/lkI0v5aSW6YOo5Y+q6KeBIGV4dGVybmFsX29rIOeahOmrmOe9ruS/oQotIOetlOWkjee9ruS/oeagh+azqCjpq5gv5L2OICsg6aOO6Zmp5o+Q56S6KTvlhajnqIvlrqHorqEgKyDkuIDplK7lm57mu5oKCiMjIOWFs+mUrueCuQotIEFJIOaYr+WJr+aJi+S4jeaYr+azleWumDrlj6rkuqflh7rlhrLnqoEv5byC5bi45oql5ZGKLOS4jeiHquWKqOWwgeS6uuOAgeS4jeWumuecn+S8qjvkuJPlrrblj6/mjqjnv7ss55WZ55eV44CCCi0g572u5L+h55SxIuS4k+WutuiDjOS5piLlrpos5LiN55Sx576k5L2T5oqV56Wo44CC56eB5pyJ5LiN6K+E57qn44CCCi0gZXh0ZXJuYWxfb2sg54us56uL5LqO5YaF6YOoIHB1YmxpYyzkuJPpl6jmjqfliLYi5a+55aSW5Y+v5YWs5byAIijkvpvljL/lkI0gYm90KeOAggoKIyMg55So5rOVCmBgYHB5dGhvbgpmcm9tIG9yZ19jb3JlIGltcG9ydCBTcWxpdGVSZXBvcwpmcm9tIGtiX2NvcmUgaW1wb3J0IEtCU2VydmljZSwgU3FsaXRlS0JSZXBvCmtiID0gS0JTZXJ2aWNlKFNxbGl0ZVJlcG9zKCJvcmcuZGIiKSwgU3FsaXRlS0JSZXBvKCJrYi5kYiIpLAogICAgICAgICAgICAgICBtb2RlbF9pbnNwZWN0b3I9Tm9uZSkgICMg55Sf5Lqn5Y+v5Lyg6LWw572R5YWz55qE5by65L2T5qOACmtiLnVwbG9hZChULCBncmFudF9pZCwgdGl0bGU9Li4uLCBjb250ZW50PS4uLiwgc2hhcmU9RmFsc2UpCmVudHJ5LCByZXBvcnQgPSBrYi5wcm9tb3RlX3RvX2hpZ2goVCwgZXhwZXJ0X2dyYW50LCB0aXRsZT0uLi4sIGNsYWltcz17Li4ufSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWNpc2lvbl9vdmVycmlkZT1GYWxzZSkgICMg5Yay56qB5pe2IFRydWUg5ouN5p2/CmhpdHMgPSBrYi5yZXRyaWV2ZShULCBjdXJyZW50X2dyYW50X2lkLCAi5p+l6K+iIikgICAjIE5vbmU95Yy/5ZCNCmBgYArkvp3otZY6b3JnX2NvcmUo5ZCM5LuTKeOAggo=
+# kb_core — 知识库三池 + 置信晋升
+
+建在 org_core 之上(复用其鉴权与审计)。落地了逐轮敲定的设计。
+
+## 三池
+私有(仅本人) / 公有低置信(用户同意共享) / 公有高置信(专家拍板入库)
+
+## 链路(已自测 14/14)
+- 普通用户上传 → 私有;同意共享 → 公有低置信
+- 专家(can_promote_kb)晋升 → AI 体检(claim 级,非余弦)→ 专家拍板(可推翻AI·留痕)→ 公有高置信
+- 检索按身份过滤:本人私有 + 全部公有;匿名/外部只见 external_ok 的高置信
+- 答复置信标注(高/低 + 风险提示);全程审计 + 一键回滚
+
+## 关键点
+- AI 是副手不是法官:只产出冲突/异常报告,不自动封人、不定真伪;专家可推翻,留痕。
+- 置信由"专家背书"定,不由群体投票。私有不评级。
+- external_ok 独立于内部 public,专门控制"对外可公开"(供匿名 bot)。
+
+## 用法
+```python
+from org_core import SqliteRepos
+from kb_core import KBService, SqliteKBRepo
+kb = KBService(SqliteRepos("org.db"), SqliteKBRepo("kb.db"),
+               model_inspector=None)  # 生产可传走网关的强体检
+kb.upload(T, grant_id, title=..., content=..., share=False)
+entry, report = kb.promote_to_high(T, expert_grant, title=..., claims={...},
+                                   decision_override=False)  # 冲突时 True 拍板
+hits = kb.retrieve(T, current_grant_id, "查询")   # None=匿名
+```
+依赖:org_core(同仓)。

@@ -1,1 +1,6 @@
-IyEvYmluL2Jhc2gKIyBiYWNrZW5kLmFwcCDigJQg5LyB5LiaQUnlt6XkvZzlj7Agwrcg5ZCO56uvIAojIOWQr+WKqOWJjeWFiOWKoCBQQVRIIOiuqSBwbGF0Zm9ybV9zdG9yYWdlIOaooeWdl+WPr+WvvOWFpQpleHBvcnQgUFlUSE9OUEFUSD0vb3B0L3NlY3VyZWd1YXJkLWRlcGxveS9iYWNrZW5kOiR7UFlUSE9OUEFUSH0KY2QgL29wdC9zZWN1cmVndWFyZC1kZXBsb3kKZXhlYyAvb3B0L21pbmljb25kYTMvYmluL3B5dGhvbiAtbSB1dmljb3JuIGJhY2tlbmQuYXBwOmFwcCAtLWhvc3QgMC4wLjAuMCAtLXBvcnQgOTAwMiAtLWxvZy1sZXZlbCBpbmZvCg==
+#!/bin/bash
+# backend.app — 企业AI工作台 · 后端 
+# 启动前先加 PATH 让 platform_storage 模块可导入
+export PYTHONPATH=/opt/secureguard-deploy/backend:${PYTHONPATH}
+cd /opt/secureguard-deploy
+exec /opt/miniconda3/bin/python -m uvicorn backend.app:app --host 0.0.0.0 --port 9002 --log-level info

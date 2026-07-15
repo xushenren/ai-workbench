@@ -1,1 +1,4 @@
-Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKY29uc29sZS5sb2coJ19fZGlybmFtZSBzaW06JywgX19kaXJuYW1lKTsKY29uc29sZS5sb2coJ3Jlc29sdmUgLjonLCBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLicpKTsKY29uc29sZS5sb2coJ3Jlc29sdmUgLi9zcmM6JywgcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4vc3JjJykpOwo=
+const path = require('path');
+console.log('__dirname sim:', __dirname);
+console.log('resolve .:', path.resolve(__dirname, '.'));
+console.log('resolve ./src:', path.resolve(__dirname, './src'));

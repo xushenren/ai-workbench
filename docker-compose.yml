@@ -1,1 +1,19 @@
-77u/c2VydmljZXM6CiAgYmFja2VuZDoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiBiYWNrZW5kL3NlY3VyZWd1YXJkLWRlcGxveQogICAgICBkb2NrZXJmaWxlOiBEb2NrZXJmaWxlCiAgICBwb3J0czoKICAgICAgLSAiOTAwMDo5MDAwIgogICAgdm9sdW1lczoKICAgICAgLSAuL2JhY2tlbmQvc2VjdXJlZ3VhcmQtZGVwbG95L2RhdGE6L2FwcC9kYXRhCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBEQVRBX0RJUj0vYXBwL2RhdGEKICBmcm9udGVuZDoKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiBmcm9udGVuZF9zcmMKICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQogICAgcG9ydHM6CiAgICAgIC0gIjUxNzM6NTE3MyIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gYmFja2VuZA0K
+services:
+  backend:
+    build:
+      context: backend/secureguard-deploy
+      dockerfile: Dockerfile
+    ports:
+      - "9000:9000"
+    volumes:
+      - ./backend/secureguard-deploy/data:/app/data
+    environment:
+      - DATA_DIR=/app/data
+  frontend:
+    build:
+      context: frontend_src
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend

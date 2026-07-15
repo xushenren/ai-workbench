@@ -1,1 +1,92 @@
-Ly8g6L276YePIFVJIOWOn+ivre+8iHNoYWRjbiDnuqblrprvvIzmnKzlnLDlrp7njrDvvIzkv53or4EgbnBtIGluc3RhbGwg5ZCO5Y2z5Y+v6LeR77yJ44CCCmltcG9ydCB7IGZvcndhcmRSZWYgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB0eXBlIHsgQnV0dG9uSFRNTEF0dHJpYnV0ZXMsIEhUTUxBdHRyaWJ1dGVzLCBSZWFjdE5vZGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKLyogLS0tLS0tLS0tLS0tLS0tLSBCdXR0b24gLS0tLS0tLS0tLS0tLS0tLSAqLwp0eXBlIFZhcmlhbnQgPSAicHJpbWFyeSIgfCAiZ2hvc3QiIHwgIm91dGxpbmUiIHwgInN1YnRsZSI7CnR5cGUgU2l6ZSA9ICJzbSIgfCAibWQiIHwgImljb24iOwoKaW50ZXJmYWNlIEJ1dHRvblByb3BzIGV4dGVuZHMgQnV0dG9uSFRNTEF0dHJpYnV0ZXM8SFRNTEJ1dHRvbkVsZW1lbnQ+IHsKICB2YXJpYW50PzogVmFyaWFudDsKICBzaXplPzogU2l6ZTsKfQoKY29uc3QgdmFyaWFudHM6IFJlY29yZDxWYXJpYW50LCBzdHJpbmc+ID0gewogIHByaW1hcnk6ICJiZy1hY2NlbnQgdGV4dC13aGl0ZSBob3ZlcjpiZy1hY2NlbnQtaG92ZXIgc2hhZG93LXNvZnQiLAogIGdob3N0OiAidGV4dC10ZXh0IGhvdmVyOmJnLXN1cmZhY2UtMiIsCiAgb3V0bGluZTogImJvcmRlciBib3JkZXItYm9yZGVyIHRleHQtdGV4dCBob3ZlcjpiZy1zdXJmYWNlLTIgYmctc3VyZmFjZSIsCiAgc3VidGxlOiAiYmctc3VyZmFjZS0yIHRleHQtdGV4dCBob3ZlcjpiZy1ib3JkZXIvNjAiLAp9Owpjb25zdCBzaXplczogUmVjb3JkPFNpemUsIHN0cmluZz4gPSB7CiAgc206ICJoLTggcHgtMyB0ZXh0LXNtIiwKICBtZDogImgtMTAgcHgtNCB0ZXh0LXNtIiwKICBpY29uOiAiaC05IHctOSBwLTAiLAp9OwoKZXhwb3J0IGNvbnN0IEJ1dHRvbiA9IGZvcndhcmRSZWY8SFRNTEJ1dHRvbkVsZW1lbnQsIEJ1dHRvblByb3BzPigKICAoeyBjbGFzc05hbWUsIHZhcmlhbnQgPSAicHJpbWFyeSIsIHNpemUgPSAibWQiLCAuLi5wcm9wcyB9LCByZWYpID0+ICgKICAgIDxidXR0b24KICAgICAgcmVmPXtyZWZ9CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMiByb3VuZGVkLWJ0biBmb250LW1lZGl1bSB0cmFuc2l0aW9uLWNvbG9ycyIsCiAgICAgICAgImRpc2FibGVkOm9wYWNpdHktNTAgZGlzYWJsZWQ6cG9pbnRlci1ldmVudHMtbm9uZSIsCiAgICAgICAgdmFyaWFudHNbdmFyaWFudF0sCiAgICAgICAgc2l6ZXNbc2l6ZV0sCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKQopOwpCdXR0b24uZGlzcGxheU5hbWUgPSAiQnV0dG9uIjsKCi8qIC0tLS0tLS0tLS0tLS0tLS0gQ2FyZCAtLS0tLS0tLS0tLS0tLS0tICovCmV4cG9ydCBmdW5jdGlvbiBDYXJkKHsgY2xhc3NOYW1lLCAuLi5wcm9wcyB9OiBIVE1MQXR0cmlidXRlczxIVE1MRGl2RWxlbWVudD4pIHsKICByZXR1cm4gKAogICAgPGRpdgogICAgICBjbGFzc05hbWU9e2NuKCJyb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSBzaGFkb3ctc29mdCIsIGNsYXNzTmFtZSl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfQoKLyogLS0tLS0tLS0tLS0tLS0tLSBCYWRnZSAtLS0tLS0tLS0tLS0tLS0tICovCmV4cG9ydCBmdW5jdGlvbiBCYWRnZSh7IGNoaWxkcmVuLCBjbGFzc05hbWUgfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlOyBjbGFzc05hbWU/OiBzdHJpbmcgfSkgewogIHJldHVybiAoCiAgICA8c3BhbgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgcm91bmRlZC1mdWxsIGJvcmRlciBib3JkZXItYm9yZGVyIGJnLXN1cmZhY2UtMiBweC0yIHB5LTAuNSB0ZXh0LXhzIHRleHQtbXV0ZWQiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgPgogICAgICB7Y2hpbGRyZW59CiAgICA8L3NwYW4+CiAgKTsKfQoKLyogLS0tLS0tLS0tLS0tLS0tLSBUYWJzICjlj5fmjqcpIC0tLS0tLS0tLS0tLS0tLS0gKi8KZXhwb3J0IGZ1bmN0aW9uIFRhYnM8VCBleHRlbmRzIHN0cmluZz4oewogIHRhYnMsIHZhbHVlLCBvbkNoYW5nZSwKfTogewogIHRhYnM6IHsgaWQ6IFQ7IGxhYmVsOiBzdHJpbmcgfVtdOwogIHZhbHVlOiBUOwogIG9uQ2hhbmdlOiAoaWQ6IFQpID0+IHZvaWQ7Cn0pIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSByb3VuZGVkLWJ0biBiZy1zdXJmYWNlLTIgcC0xIj4KICAgICAge3RhYnMubWFwKCh0KSA9PiAoCiAgICAgICAgPGJ1dHRvbgogICAgICAgICAga2V5PXt0LmlkfQogICAgICAgICAgb25DbGljaz17KCkgPT4gb25DaGFuZ2UodC5pZCl9CiAgICAgICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICAgICAicm91bmRlZC1tZCBweC0zIHB5LTEuNSB0ZXh0LXNtIHRyYW5zaXRpb24tY29sb3JzIiwKICAgICAgICAgICAgdmFsdWUgPT09IHQuaWQgPyAiYmctc3VyZmFjZSB0ZXh0LXRleHQgc2hhZG93LXNvZnQiIDogInRleHQtbXV0ZWQgaG92ZXI6dGV4dC10ZXh0IgogICAgICAgICAgKX0KICAgICAgICA+CiAgICAgICAgICB7dC5sYWJlbH0KICAgICAgICA8L2J1dHRvbj4KICAgICAgKSl9CiAgICA8L2Rpdj4KICApOwp9Cg==
+// 轻量 UI 原语（shadcn 约定，本地实现，保证 npm install 后即可跑）。
+import { forwardRef } from "react";
+import type { ButtonHTMLAttributes, HTMLAttributes, ReactNode } from "react";
+import { cn } from "@/lib/utils";
+
+/* ---------------- Button ---------------- */
+type Variant = "primary" | "ghost" | "outline" | "subtle";
+type Size = "sm" | "md" | "icon";
+
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+  variant?: Variant;
+  size?: Size;
+}
+
+const variants: Record<Variant, string> = {
+  primary: "bg-accent text-white hover:bg-accent-hover shadow-soft",
+  ghost: "text-text hover:bg-surface-2",
+  outline: "border border-border text-text hover:bg-surface-2 bg-surface",
+  subtle: "bg-surface-2 text-text hover:bg-border/60",
+};
+const sizes: Record<Size, string> = {
+  sm: "h-8 px-3 text-sm",
+  md: "h-10 px-4 text-sm",
+  icon: "h-9 w-9 p-0",
+};
+
+export const Button = forwardRef<HTMLButtonElement, ButtonProps>(
+  ({ className, variant = "primary", size = "md", ...props }, ref) => (
+    <button
+      ref={ref}
+      className={cn(
+        "inline-flex items-center justify-center gap-2 rounded-btn font-medium transition-colors",
+        "disabled:opacity-50 disabled:pointer-events-none",
+        variants[variant],
+        sizes[size],
+        className
+      )}
+      {...props}
+    />
+  )
+);
+Button.displayName = "Button";
+
+/* ---------------- Card ---------------- */
+export function Card({ className, ...props }: HTMLAttributes<HTMLDivElement>) {
+  return (
+    <div
+      className={cn("rounded-card border border-border bg-surface shadow-soft", className)}
+      {...props}
+    />
+  );
+}
+
+/* ---------------- Badge ---------------- */
+export function Badge({ children, className }: { children: ReactNode; className?: string }) {
+  return (
+    <span
+      className={cn(
+        "inline-flex items-center rounded-full border border-border bg-surface-2 px-2 py-0.5 text-xs text-muted",
+        className
+      )}
+    >
+      {children}
+    </span>
+  );
+}
+
+/* ---------------- Tabs (受控) ---------------- */
+export function Tabs<T extends string>({
+  tabs, value, onChange,
+}: {
+  tabs: { id: T; label: string }[];
+  value: T;
+  onChange: (id: T) => void;
+}) {
+  return (
+    <div className="inline-flex items-center gap-1 rounded-btn bg-surface-2 p-1">
+      {tabs.map((t) => (
+        <button
+          key={t.id}
+          onClick={() => onChange(t.id)}
+          className={cn(
+            "rounded-md px-3 py-1.5 text-sm transition-colors",
+            value === t.id ? "bg-surface text-text shadow-soft" : "text-muted hover:text-text"
+          )}
+        >
+          {t.label}
+        </button>
+      ))}
+    </div>
+  );
+}

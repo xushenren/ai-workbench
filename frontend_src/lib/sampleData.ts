@@ -1,1 +1,52 @@
-Ly8g5YaF572u56S65L6L5pWw5o2u44CC5b2T5ZCO56uvIEFQSSDkuI3lj6/nlKjml7YgZmFsbGJhY2vvvIzkv53or4HliY3nq6/kuI3nmb3lsY/vvIjlhbPplK7nuqbmnZ8gNC8177yJ44CCCmltcG9ydCB0eXBlIHsgQWdlbnQsIEtub3dsZWRnZUJhc2UsIEFkbWluU3RhdHMgfSBmcm9tICJAL3R5cGVzIjsKCmV4cG9ydCBjb25zdCBTQU1QTEVfQUdFTlRTOiBBZ2VudFtdID0gWwogIHsKICAgIGlkOiAiZ2VuZXJhbCIsIG5hbWU6ICLpgJrnlKjliqnmiYsiLCBpY29uOiAi8J+kliIsIGRvbWFpbjogImdlbmVyYWwiLAogICAgZGVzY3JpcHRpb246ICLml6XluLjpl67nrZTkuI7lhpnkvZzvvIzlj6/ogZTnvZHvvIzpgILlkIjpnZ7mlY/mhJ/nmoTlvIDmlL7ku7vliqHjgIIiLAogICAgdmlzaWJpbGl0eTogInB1YmxpYyIsIHRvb2xzX2NvdW50OiAzLCBza2lsbHNfY291bnQ6IDEsIGtiX2NvdW50OiAxLAogICAgZnJlZV9xdW90YV90b2tlbnM6IDIwMDAwLAogIH0sCiAgewogICAgaWQ6ICJlbGVjdHJvbWVjaGFuaWNhbCIsIG5hbWU6ICLmnLrnlLXlronoo4XliqnmiYsiLCBpY29uOiAi8J+Pl++4jyIsIGRvbWFpbjogImVsZWN0cm9tZWNoYW5pY2FsIiwKICAgIGRlc2NyaXB0aW9uOiAi5bu6562R5py655S15a6J6KOF5LiT5Lia5Yqp5omL77yM5Zue562U6ZSa5a6aIEdCNTAyNDMg562JIDMzOSDmnaHmoIflh4bvvIzoh6rluKblvJXnlKjlkIjop4TmoKHpqozjgIIiLAogICAgdmlzaWJpbGl0eTogInB1YmxpYyIsIHRvb2xzX2NvdW50OiAzLCBza2lsbHNfY291bnQ6IDMsIGtiX2NvdW50OiAyLAogICAgZnJlZV9xdW90YV90b2tlbnM6IDEwMDAwLAogIH0sCiAgewogICAgaWQ6ICJjb2RlIiwgbmFtZTogIuS7o+eggeWKqeaJiyIsIGljb246ICLwn5K7IiwgZG9tYWluOiAic29mdHdhcmUiLAogICAgZGVzY3JpcHRpb246ICLku6PnoIHnlJ/miJDkuI7lrqHmn6XvvIzlvLrosIPnirbmgIHlj5jmm7TkuInku7blpZfkuI7lj6/pgIbmgKfvvIzmlY/mhJ/ku7vliqHlvLrliLbmnKzlnLDnrpflipvjgIIiLAogICAgdmlzaWJpbGl0eTogInB1YmxpYyIsIHRvb2xzX2NvdW50OiA0LCBza2lsbHNfY291bnQ6IDIsIGtiX2NvdW50OiAxLAogICAgZnJlZV9xdW90YV90b2tlbnM6IDE1MDAwLAogIH0sCl07CgpleHBvcnQgY29uc3QgU0FNUExFX0tCUzogS25vd2xlZGdlQmFzZVtdID0gWwogIHsgaWQ6ICJrYl9zdGQiLCBuYW1lOiAi5qCH5YeG5bqT6ZmE5b2VIiwgdHlwZTogInB1YmxpYyIsIGRvY19jb3VudDogMzM5IH0sCiAgeyBpZDogImtiX3BsYW4iLCBuYW1lOiAi5pa95bel5pa55qGI5bqTIiwgdHlwZTogImRlcGFydG1lbnQiLCBkb2NfY291bnQ6IDE5ODggfSwKICB7IGlkOiAia2Jfbm90ZXMiLCBuYW1lOiAi5oiR55qE56yU6K6wIiwgdHlwZTogInByaXZhdGUiLCBkb2NfY291bnQ6IDQyIH0sCl07CgpleHBvcnQgY29uc3QgU0FNUExFX1NUQVRTOiBBZG1pblN0YXRzID0gewogIHVzZXJzOiAxMjgsIGFnZW50czogMTIsIGNvbXB1dGVfbm9kZXM6IDMsIG1vbnRobHlfdG9rZW5zOiAyXzQ4MF8wMDAsCiAga25vd2xlZGdlX2Jhc2VzOiAxNywgcmVkbGluZV9oaXRzOiAwLAogIHRpZXJzOiBbCiAgICB7IHRpZXI6ICJ0aWVyMSIsIGxhYmVsOiAi5pys5ZywIEdQVSIsIG9ubGluZTogdHJ1ZSwgZW5kcG9pbnQ6ICJodHRwOi8vZ3B1LTAxOjgwMDEiLCBtb2RlbDogInZlcnRpY2FsLTcwYiIgfSwKICAgIHsgdGllcjogInRpZXIyIiwgbGFiZWw6ICLoh6rmnInkupHnq68iLCBvbmxpbmU6IHRydWUsIGVuZHBvaW50OiAiaHR0cDovL2Nsb3VkOjgwMDEiLCBtb2RlbDogInF3ZW4tNzJiIiB9LAogICAgeyB0aWVyOiAidGllcjMiLCBsYWJlbDogIuWklumDqCBBUEkiLCBvbmxpbmU6IGZhbHNlLCBlbmRwb2ludDogImxpdGVsbG06Ly9nYXRld2F5IiwgbW9kZWw6ICJkZWVwc2VlayAvIGNsYXVkZSIgfSwKICBdLAogIHF1b3RhczogWwogICAgeyBhZ2VudDogIuacuueUteWuieijheWKqeaJiyIsIHVzZWQ6IDgyNDcsIGxpbWl0OiAxMDAwMCwgZnJlZXplOiAi6LaF6aKd5Ya757uT6Iez5LiL5pyIIDEg5pelIiB9LAogICAgeyBhZ2VudDogIumAmueUqOWKqeaJiyIsIHVzZWQ6IDIwMDAwLCBsaW1pdDogMjAwMDAsIGZyZWV6ZTogIuW3sueUqOWujO+8jOetieW+hemHjee9riIgfSwKICAgIHsgYWdlbnQ6ICLku6PnoIHliqnmiYsiLCB1c2VkOiA2MTIwLCBsaW1pdDogMTUwMDAsIGZyZWV6ZTogIuato+W4uCIgfSwKICBdLAogIGd1YXJkczogeyByZWRsaW5lczogMTksIHNlbGZfbW9uaXRvcjogMTgsIGRvbWFpbl9ndWFyZHM6IDYsIGF1ZGl0X3JldGVudGlvbl9kYXlzOiAzMCB9LAogIHJlY2VudF9hdWRpdDogWwogICAgeyBoYXNoOiAiYTNmOGM5ZCIsIHRpbWU6ICIxMDo0MjowMSIsIGRlY2lzaW9uOiAiUEFTUyIgfSwKICAgIHsgaGFzaDogImI3ZTJmMTAiLCB0aW1lOiAiMTA6NDE6NTUiLCBkZWNpc2lvbjogIlBBU1MiIH0sCiAgICB7IGhhc2g6ICJjMWQ5YTQ0IiwgdGltZTogIjEwOjQxOjMwIiwgZGVjaXNpb246ICJCTE9DSyIgfSwKICAgIHsgaGFzaDogImQ4YjNlMDciLCB0aW1lOiAiMTA6NDA6MTIiLCBkZWNpc2lvbjogIlBBU1MiIH0sCiAgICB7IGhhc2g6ICJlNWExYzkyIiwgdGltZTogIjEwOjM5OjU4IiwgZGVjaXNpb246ICJQQVNTIiB9LAogIF0sCn07Cg==
+// 内置示例数据。当后端 API 不可用时 fallback，保证前端不白屏（关键约束 4/5）。
+import type { Agent, KnowledgeBase, AdminStats } from "@/types";
+
+export const SAMPLE_AGENTS: Agent[] = [
+  {
+    id: "general", name: "通用助手", icon: "🤖", domain: "general",
+    description: "日常问答与写作，可联网，适合非敏感的开放任务。",
+    visibility: "public", tools_count: 3, skills_count: 1, kb_count: 1,
+    free_quota_tokens: 20000,
+  },
+  {
+    id: "electromechanical", name: "机电安装助手", icon: "🏗️", domain: "electromechanical",
+    description: "建筑机电安装专业助手，回答锚定 GB50243 等 339 条标准，自带引用合规校验。",
+    visibility: "public", tools_count: 3, skills_count: 3, kb_count: 2,
+    free_quota_tokens: 10000,
+  },
+  {
+    id: "code", name: "代码助手", icon: "💻", domain: "software",
+    description: "代码生成与审查，强调状态变更三件套与可逆性，敏感任务强制本地算力。",
+    visibility: "public", tools_count: 4, skills_count: 2, kb_count: 1,
+    free_quota_tokens: 15000,
+  },
+];
+
+export const SAMPLE_KBS: KnowledgeBase[] = [
+  { id: "kb_std", name: "标准库附录", type: "public", doc_count: 339 },
+  { id: "kb_plan", name: "施工方案库", type: "department", doc_count: 1988 },
+  { id: "kb_notes", name: "我的笔记", type: "private", doc_count: 42 },
+];
+
+export const SAMPLE_STATS: AdminStats = {
+  users: 128, agents: 12, compute_nodes: 3, monthly_tokens: 2_480_000,
+  knowledge_bases: 17, redline_hits: 0,
+  tiers: [
+    { tier: "tier1", label: "本地 GPU", online: true, endpoint: "http://gpu-01:8001", model: "vertical-70b" },
+    { tier: "tier2", label: "自有云端", online: true, endpoint: "http://cloud:8001", model: "qwen-72b" },
+    { tier: "tier3", label: "外部 API", online: false, endpoint: "litellm://gateway", model: "deepseek / claude" },
+  ],
+  quotas: [
+    { agent: "机电安装助手", used: 8247, limit: 10000, freeze: "超额冻结至下月 1 日" },
+    { agent: "通用助手", used: 20000, limit: 20000, freeze: "已用完，等待重置" },
+    { agent: "代码助手", used: 6120, limit: 15000, freeze: "正常" },
+  ],
+  guards: { redlines: 19, self_monitor: 18, domain_guards: 6, audit_retention_days: 30 },
+  recent_audit: [
+    { hash: "a3f8c9d", time: "10:42:01", decision: "PASS" },
+    { hash: "b7e2f10", time: "10:41:55", decision: "PASS" },
+    { hash: "c1d9a44", time: "10:41:30", decision: "BLOCK" },
+    { hash: "d8b3e07", time: "10:40:12", decision: "PASS" },
+    { hash: "e5a1c92", time: "10:39:58", decision: "PASS" },
+  ],
+};

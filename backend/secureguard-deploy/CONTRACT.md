@@ -1,1 +1,170 @@
-IyBDT05UUkFDVC5tZCDigJQgUGhhc2UgMCDlpZHnuqblhrvnu5PvvIjkvIHkuJogQUkg5bel5L2c5Y+w77yJCgo+IOWJjeWQjuerr+W5tuihjOW8gOW3peWJjeWGu+e7k+eahOWNleS4gOS6i+Wunua6kOOAguaUueWKqOmhu+i1sOivhOWuoe+8jOemgeatouWNlei+ueWPmOabtOOAggo+IOmFjeWll+W3suiQveWcsOS7o+egge+8mue6oue6vyAxOS/oh6rnnIEgMTjvvIhgbDFfZ2F0ZS5weWDvvInjgIHlrqHorqHlk4jluIzpk77vvIhgbDRfYXVkaXQucHlg77yJ44CBCj4gdHJhY2Ug5Y+M6L2o77yIYHRyYWNlLnB5YO+8ieOAgeeul+WKmyBwb2xpY3kg6Lev55Sx77yIYGNvbXB1dGVfcm91dGVyLnB5YO+8ieOAggoKLS0tCgojIyAxLiDnuqLnur/mnYPlqIHmuIXljZXvvIhEMe+8iQoKMTkg5p2h77yM57yW5Y+3IFItMDEuLlItMTnjgIJSLTAxLi5SLTEyIOingSBgbDFfZ2F0ZS5SRURMSU5FU2DvvIxSLTEzLi5SLTE5IOS4uuS8geS4muaJqeWxle+8mgoKfCDnvJblj7cgfCDlkI3np7AgfAp8LS0tfC0tLXwKfCBSLTEzIHwg6Leo56ef5oi3L+i2iuadg+iuv+mXruS7luS6uuengeacieW6k+aIluS8muivnSB8CnwgUi0xNCB8IOaVj+aEn+aVsOaNrui3r+eUsS/lpJblj5Hlh7rkvIHkuJrovrnnlYwgfAp8IFItMTUgfCDnr6HmlLkv57uV6L+H6YWN6aKd5oiW6K6h6LS5IHwKfCBSLTE2IHwg5pyq6ISx5pWPIFBJSSDlhaXml6Xlv5cv5oCd6ICD6Z2i5p2/L+WklumDqCB8CnwgUi0xNyB8IOacquWuoeaJueeahOaJuemHj+eUqOaIt+aVsOaNruWvvOWHuiB8CnwgUi0xOCB8IOaUuS/liKDku5bkurrkvJror53jgIHmlbDmja7jgIHmmbrog73kvZMgfAp8IFItMTkgfCDms6jlhaXlsYLlpJbmj5DmnYMv6KaG55uWIENPTlNUSVRVVElPTiB8Cgo+IOW+heWKnu+8mlItMTMuLlItMTkg55qE5o6q6L6e5LiOIENvbnN0aXR1dGlvbiB2MiDpgJDmnaHmoLjlr7nvvIjopobnm5bpnaLkuI7nvJblj7flt7Llr7npvZDvvInjgIIKPiDoh6rnnIHop6blj5HlmajlkIzmraXliLAgMTgg5p2h77yM6KeBIGBsMV9nYXRlLlNFTEZfTU9OSVRPUl9UUklHR0VSU2DjgIIKCi0tLQoKIyMgMi4gUkVTVCBBUEkg5aWR57qmCgpgYGAKUE9TVCAvdjEvY2hhdCAgICAgICAgICAgICAgICAg5Y+R6LW35a+56K+d77yI6Z2e5rWB5byP5Zue6YCA77yJCldTICAgL3YxL3N0cmVhbSAgICAgICAgICAgICAgIOa1geW8j+WvueivnSArIOaAneiAg+i/h+eoi+W4pwpHRVQgIC92MS9hZ2VudHMgICAgICAgICAgICAgICDmmbrog73kvZPliJfooajvvIjmjInlj6/op4HmgKfov4fmu6TvvIkKUE9TVCAvdjEvYWRtaW4vYWdlbnRzICAgICAgICAg5Yib5bu6L+abtOaWsOaZuuiDveS9k++8iGFkbWluL2RldmVsb3Blcu+8iQpHRVQgIC92MS9xdW90YS97YWdlbnRfaWR9ICAgICDmn6Xor6LphY3pop0KR0VUICAvdjEvYXVkaXQvdmVyaWZ5ICAgICAgICAg6Kem5Y+R5ZOI5biM6ZO+5qCh6aqM77yIYWRtaW7vvIkKUE9TVCAvdjEva2Ivc2VhcmNoICAgICAgICAgICAg55+l6K+G5bqT5qOA57Si77yI5bim6Lqr5Lu977yM5by65Yi26ZqU56a777yJCmBgYAoKIyMjIFBPU1QgL3YxL2NoYXQg6K+35rGCCmBgYGpzb25jCnsKICAibWVzc2FnZSI6ICJzdHJpbmciLAogICJzZXNzaW9uX2lkIjogInN0cmluZyIsCiAgImFnZW50X2lkIjogInN0cmluZyIsCiAgImNhbGxlciI6IHsgInVzZXJfaWQiOiAidTEiLCAicm9sZSI6ICJ1c2VyIiwgImRlcHRfaWQiOiAiZDEiIH0KfQpgYGAKIyMjIOWTjeW6lO+8iOaUvuihjCAvIOaLpuaIqu+8iQpgYGBqc29uYwp7ICJibG9ja2VkIjogZmFsc2UsICJhbnN3ZXIiOiAiLi4uIiwgImNpdGF0aW9ucyI6IFsiW2RvY18xXSJdLAogICJ0aWVyIjogInRpZXIxIiwgInB1YmxpY190cmFjZSI6IFsgLyog6KeBIMKnNCAqLyBdLCAibGF0ZW5jeV9tcyI6IDQyIH0KeyAiYmxvY2tlZCI6IHRydWUsICJzdGFnZSI6ICJMMHxMMSIsICJkaXNwbGF5IjogIuKblCDlt7LooqvlronlhajnrZbnlaXmi6bmiKoiIH0KLy8g5rOo5oSP77ya5oum5oiq5ZON5bqU5a+555So5oi35LiN5Zue5pi+IHJ1bGVfaWTvvIjku4XlrqHorqHnlZnlrZjvvIkKYGBgCgotLS0KCiMjIDMuIFdTIOa1geW8j+W4pwoKYGBganNvbmMKLy8g5oCd6ICD6L+H56iL5bin77yI6YCQ5bin5o6o6YCBIHB1YmxpY190cmFjZe+8jOingSDCpzTvvIkKeyAiZXZlbnQiOiAidHJhY2UiLCAiZnJhbWUiOiB7ICJzdGFnZSI6InRvb2wiLCJ0eXBlIjoidG9vbF9jYWxsIiwiZGlzcGxheSI6IuKckyAuLi4iIH0gfQovLyDlop7ph4/nrZTmoYgKeyAiZXZlbnQiOiAiZGVsdGEiLCAidGV4dCI6ICIuLi4iIH0KLy8g57uT5p2fCnsgImV2ZW50IjogImRvbmUiLCAidGllciI6InRpZXIxIiwgImxhdGVuY3lfbXMiOiAxMjQwIH0KYGBgCgotLS0KCiMjIDQuIOaAneiAg+i/h+eoi+WPjOi9qCBzY2hlbWHvvIhEM++8iQoK5q+P5Liq5Y6f5aeL5binIGBUcmFjZUZyYW1lYO+8iGB0cmFjZS5weWDvvInmi4bmiJDkuKTku73jgIIqKuWtl+auteWOu+WQkSoq77yaCgp8IOWtl+autSB8IHB1YmxpY190cmFjZe+8iOeUqOaIty/liY3nq6/vvIkgfCBhdWRpdF90cmFjZe+8iGFkbWluK+WuoeiuoeihqO+8iSB8CnwtLS18Oi0tLTp8Oi0tLTp8Cnwgc3RhZ2UgLyB0eXBlIHwg4pyTIHwg4pyTIHwKfCBkaXNwbGF577yI6ISx5pWP5ZCO5Lq66K+75Liy77yM5rC45LiN56m655m977yJIHwg4pyTIHwg4oCUIHwKfCBzdGF0dXPvvIhQQVNTL0JMT0NLIOeyl+eykuW6pu+8iSB8IOKck++8iGdhdGUg5bin77yJIHwg4oCUIHwKfCB0b29sX25hbWUgfCDinJMgfCDinJMgfAp8IHBhcmFtcyB8IOKckyDohLHmlY/lkI4gfCDigJQgfAp8IHBhcmFtc19oYXNoIC8gcmVzdWx0X2hhc2ggfCDigJQgfCDinJMgfAp8IHJlc3VsdCB8IOKckyDohLHmlY/lkI7vvIjlhajohLHmlY/liJnpmpDol48r6K6h5pWw6K+05piO77yJIHwg4oCUIHwKfCByZXN1bHRfY291bnQgfCDinJMgfCDinJMgfAp8ICoqcnVsZV9pZCoqIHwg4pyXIOe7neS4jeS4i+WPkSB8IOKckyB8CnwgdGllciB8IOKckyB8IOKckyB8CnwgbGF0ZW5jeV9tcyB8IOKckyB8IOKckyB8Cnwgc2Vzc2lvbl9pZCB8IOKAlCB8IOKckyB8CgoqKuiEseaVj+a1geeoi++8iOavj+W4p+a4suafk+WJje+8iSoq77yadG9vbCDnmoQgcGFyYW1zL3Jlc3VsdCDihpIgYE91dHB1dEd1YXJkLmNoZWNrKClgIOKGkiBgc2FuaXRpemVkX291dHB1dGDjgIIKKirlhajohLHmlY/pmY3nuqcqKu+8mui/lOWbnuWAvOiiq+a0l+epuuaXtu+8jHB1YmxpYyDmmL7npLoKYCLinJMg5bel5YW3IFgg6LCD55So5a6M5oiQ77yM6L+U5ZueIE4g5p2h57uT5p6c77yI5ZCr6ZqQ56eB5L+h5oGv77yM5bey5oyJ6ZqQ56eB562W55Wl6ZqQ6JeP77yJImDigJTigJTorqnnlKjmiLfnn6XpgZMi5oiQ5Yqf5LiU6KKr5L+d5oqkIu+8jOiAjOmdnuS7peS4uuezu+e7n+Wdj+S6huOAggoKLS0tCgojIyA1LiBEQiBzY2hlbWHvvIjmoLjlv4PooajvvIkKCmBgYHNxbAotLSDnlKjmiLfkuI7op5LoibLvvIhRMe+8iQp1c2VycyhpZCwgcGhvbmUsIHdlY2hhdF9vcGVuaWQsIHJvbGUsICAgICAgICAgICAtLSBhZG1pbi9kZXZlbG9wZXIvdXNlcgogICAgICBkZXB0X2lkLCBkZXB0X2FkbWluIEJPT0xFQU4sIGNyZWF0ZWRfYXQpCgotLSDmmbrog73kvZPvvIjlkKsgRDIgY29tcHV0ZV9wb2xpY3kgLyBENiBzY29wZe+8iQphZ2VudHMoaWQsIG5hbWUsIGRlc2NyaXB0aW9uLCBkb21haW4sIHN5c3RlbV9wcm9tcHQsCiAgICAgICBtb2RlbCwgZmFsbGJhY2tfbW9kZWwsCiAgICAgICBjb21wdXRlX3BvbGljeSBKU09OQiwgICAgICAgIC0tIHthbGxvd2VkX3RpZXJzLCBwcmVmZXJyZWRfb3JkZXIsIGZvcmNlX2xvY2FsX2ZvciwgZmFpbF9zdHJhdGVneX0KICAgICAgIHNjb3BlIFRFWFQsICAgICAgICAgICAgICAgICAgIC0tICJkb21haW5fb25seSIgLyAib3BlbiIKICAgICAgIGZyZWVfcXVvdGEgSlNPTkIsICAgICAgICAgICAgIC0tIHttb250aGx5X3Rva2VucywgZnJlZXplX3BlcmlvZH0KICAgICAgIHZpc2liaWxpdHkgVEVYVCwgICAgICAgICAgICAgIC0tIHB1YmxpYy9kZXBhcnRtZW50L3ByaXZhdGUKICAgICAgIG93bmVyX2lkLCBzdGF0dXMsICAgICAgICAgICAgIC0tIGRyYWZ0L3BlbmRpbmdfcmV2aWV3L3B1Ymxpc2hlZAogICAgICAgY3JlYXRlZF9hdCkKCi0tIOmFjemine+8iEQ277yM5bm25Y+R5Y6f5a2Q5omj5YeP6LWwIFJlZGlz77yMUEcg5Li65oyB5LmF5YyW5a+56LSm77yJCnF1b3Rhcyh1c2VyX2lkLCBhZ2VudF9pZCwgcGVyaW9kLCB1c2VkX3Rva2VucywgbGltaXRfdG9rZW5zLAogICAgICAgbG9ja2VkIEJPT0xFQU4sIGZyZWV6ZV91bnRpbCwgVU5JUVVFKHVzZXJfaWQsIGFnZW50X2lkLCBwZXJpb2QpKQoKLS0g5a6h6K6h77yIRDUg5ZOI5biM6ZO+77yJCmF1ZGl0KGlkIEJJR1NFUklBTCwgc2Vzc2lvbl9pZCwgc3RhZ2UsIGRlY2lzaW9uLCByZWFzb24sCiAgICAgIGlucHV0X2hhc2gsIG91dHB1dF9oYXNoLCBydWxlX2lkLCB0aWVyLCBsYXRlbmN5X21zLAogICAgICBwcmV2X2hhc2ggQ0hBUig2NCksIGVudHJ5X2hhc2ggQ0hBUig2NCksICAgLS0g5ZOI5biM6ZO+5a2X5q61CiAgICAgIGNyZWF0ZWRfYXQpCgotLSDnn6Xor4blupPvvIhENyDpmpTnprvvvIkKa25vd2xlZGdlX2Jhc2VzKGlkLCBuYW1lLCB0eXBlLCAgICAgICAgICAgICAgICAgICAtLSBwdWJsaWMvZGVwYXJ0bWVudC9wcml2YXRlCiAgICAgICAgICAgICAgICB0ZW5hbnRfaWQsIHZpc2liaWxpdHksIG93bmVyX2lkLCBhbGxvd2VkX3JvbGVzIEpTT05CLAogICAgICAgICAgICAgICAgZGVwdF9pZCwgY3JlYXRlZF9hdCkKZG9jdW1lbnRzKGlkLCBrYl9pZCwgY29udGVudF9oYXNoLCB2ZWN0b3JfcmVmLCBtZXRhZGF0YSBKU09OQikKYGBgCgoqKuajgOe0oumalOemu+mTgeW+i++8iEQ377yJKirvvJpgL3YxL2tiL3NlYXJjaGAg5b+F6aG75bimIGBjYWxsZXJg77yM5p+l6K+i5p2h5Lu25LiL5o6o5Li6CmB2aXNpYmlsaXR5PSdwdWJsaWMnIE9SICh0eXBlPSdkZXBhcnRtZW50JyBBTkQgZGVwdF9pZD06Y2FsbGVyX2RlcHQpIE9SIG93bmVyX2lkPTpjYWxsZXJfaWRg77yMCioq57ud5LiN5Zyo5bqU55So5bGC6L+H5ruk5ZCO5omN6ZqU56a7KirjgILnrqHnkIblkZjlj6/nrqHnkIbkvYYgYHByaXZhdGVgIOW6k+WPquWtmOWTiOW4jOOAgeS4jeWPr+ingeWOn+aWh+OAggoKLS0tCgojIyA2LiBBZ2VudCDphY3nva4gc2NoZW1h77yIRDIgKyBENu+8iQoKYGBgeWFtbAphZ2VudDoKICBuYW1lOiAiSFLliqnmiYsiCiAgZG9tYWluOiAiaHIiCiAgc2NvcGU6ICJkb21haW5fb25seSIgICAgICAgICAgICAgIyBENu+8muWPquetlOacrOmihuWfn++8jOi2iueVjOaLkue7ne+8iEM0IOagoemqjO+8iQogIGNvbXB1dGVfcG9saWN5OiAgICAgICAgICAgICAgICAgICAjIEQy77ya566h55CG5ZGY5oyJ5Lia5Yqh5YiG6YWN566X5YqbCiAgICBhbGxvd2VkX3RpZXJzOiBbdGllcjFdICAgICAgICAgICMg5ZGY5bel6ZqQ56eB5LiN5Ye65YaF572RCiAgICBwcmVmZXJyZWRfb3JkZXI6IFt0aWVyMV0KICAgIGZvcmNlX2xvY2FsX2ZvcjogW1IwLCBSMV0KICAgIGZhaWxfc3RyYXRlZ3k6IGNsb3NlZAogIGZyZWVfcXVvdGE6IHsgbW9udGhseV90b2tlbnM6IDEwMDAwLCBmcmVlemVfcGVyaW9kOiBtb250aGx5IH0KICB2aXNpYmlsaXR5OiBwdWJsaWMKICBndWFyZHJhaWxzOiB7IHJlZGxpbmVzOiBhbGwsIHNlbGZfbW9uaXRvcjogdHJ1ZSwgZG9tYWluX2d1YXJkOiBociB9CmBgYArphY3pop3ogJflsL3ooYzkuLrvvIhENu+8ie+8muWFgeiuuOi0n+aVsO+8iOS4jeS4reaWreW9k+WJjeivt+axgu+8ieKGkiDkvZnpop3iiaQwIOmUgeWumuivpeaZuuiDveS9k++8iOWvueatpOeUqOaIt++8iQrihpIg562J5Ya757uT6YeN572uIOaIliDlhYXlgLzljbPml7bop6PplIHjgIIKCi0tLQoKIyMgNy4g5b6F5r6E5riF6aG555qE5aSE572u77yI6KeB6ZqP6ZmE562U5aSN77yJCgotICoqUTEg6KeS6Imy6L6555WM77yI5bey6ZSB5a6a77yM57yW56CB5LqOIGBwZXJtaXNzaW9ucy5weWDvvIwxNCDmtYvor5XpgJrov4fvvIkqKu+8mgogIC0gYGFkbWluYCDlhajlsYDvvJrlrqHmibnkuIrnur/jgIHnrqHnkIblhajpg6jjgIHnrqHnkIbku7vmhI/phY3pop3jgIIKICAtIGBkZXBhcnRtZW50X2FkbWluYCDpg6jpl6jvvJrnrqHmnKzpg6jpl6jnn6Xor4blupPkuI7mnKzpg6jpl6jnlKjmiLfphY3pop3vvJsqKueci+S4jeWIsOaIkOWRmOengeS6uuW6k+WOn+aWhyoq44CCCiAgLSBgZGV2ZWxvcGVyYCDlj6/lu7rmmbrog73kvZPvvJvlu7oqKuengeaciSoq5LiN6ZyA5a6h5om577yb6KaBKirlpJrkurrlj6/op4EqKijpg6jpl6gv5YWs5YWxKemhuyAqKmFkbWluIOWuoeaJueS4iue6vyoqCiAgICDvvIhgZHJhZnTihpJwZW5kaW5nX3Jldmlld+KGknB1Ymxpc2hlZGDvvIzlj68gYHJlamVjdGVk4oaSZHJhZnRgIOaJk+WbnumHjeaPkO+8ieOAggogIC0gYHVzZXJgIOWPr+W7uioq56eB5Lq65pm66IO95L2TKirvvIh2aXNpYmlsaXR5PXByaXZhdGXvvIzku4Xoh6rlt7HjgIHkuI3ov5vluILlnLrjgIHkuI3pnIDlrqHmibnvvIznm7TmjqUgcHVibGlzaGVk77yJ44CCCiAgLSDlj6/pgInlvIDlhbPvvJrmiorjgJDpg6jpl6jlj6/op4HjgJHlrqHmibnmnYPkuIvmlL7nu5nlr7nlupQgYGRlcGFydG1lbnRfYWRtaW5gCiAgICDvvIhgY2FuX2FwcHJvdmVgIOWGhSBgREVMRUdBVEVfREVQVF9BUFBST1ZBTF9UT19ERVBUX0FETUlOYO+8jOm7mOiupOWFs++8jOS4peagvOWvuem9kCLpobsgYWRtaW4g5a6h5om5Iu+8ieOAggotICoqUTIg5LiO546w5pyJ5L2T57O75YWz57O7KirvvJrlsZ7kvaDmlrnkuqflk4HlhrPnrZbvvIzmnKzlpZHnuqbkuI3pooTorr7vvJvkvYYgU2VjdXJlR3VhcmQg5L2c5Li654us56uL5a6J5YWo5bGC77yMCiAgRVZBL09LQ29tcHV0ZXIg6Iul5o6l5YWl5bqU57uf5LiA6LWw5ZCM5LiAIGAvdjEvY2hhdGAg5a6J5YWo5Luj55CG77yM6YG/5YWN5ZCE5YGa5LiA5aWX5oqk5qCP44CCCi0gKipRMyDpg6jnvbLlvaLmgIEqKu+8muaMiSAqKkHvvIjljZXkvIHkuJrni6znq4vpg6jnvbLvvIkqKiDokL3lnLDvvIxgdGVuYW50X2lkYCDlrZfmrrXpooTnlZnkvYblpJrnp5/miLfpgLvovpHkuI3mv4DmtLvjgIIK
+# CONTRACT.md — Phase 0 契约冻结（企业 AI 工作台）
+
+> 前后端并行开工前冻结的单一事实源。改动须走评审，禁止单边变更。
+> 配套已落地代码：红线 19/自省 18（`l1_gate.py`）、审计哈希链（`l4_audit.py`）、
+> trace 双轨（`trace.py`）、算力 policy 路由（`compute_router.py`）。
+
+---
+
+## 1. 红线权威清单（D1）
+
+19 条，编号 R-01..R-19。R-01..R-12 见 `l1_gate.REDLINES`，R-13..R-19 为企业扩展：
+
+| 编号 | 名称 |
+|---|---|
+| R-13 | 跨租户/越权访问他人私有库或会话 |
+| R-14 | 敏感数据路由/外发出企业边界 |
+| R-15 | 篡改/绕过配额或计费 |
+| R-16 | 未脱敏 PII 入日志/思考面板/外部 |
+| R-17 | 未审批的批量用户数据导出 |
+| R-18 | 改/删他人会话、数据、智能体 |
+| R-19 | 注入层外提权/覆盖 CONSTITUTION |
+
+> 待办：R-13..R-19 的措辞与 Constitution v2 逐条核对（覆盖面与编号已对齐）。
+> 自省触发器同步到 18 条，见 `l1_gate.SELF_MONITOR_TRIGGERS`。
+
+---
+
+## 2. REST API 契约
+
+```
+POST /v1/chat                 发起对话（非流式回退）
+WS   /v1/stream               流式对话 + 思考过程帧
+GET  /v1/agents               智能体列表（按可见性过滤）
+POST /v1/admin/agents         创建/更新智能体（admin/developer）
+GET  /v1/quota/{agent_id}     查询配额
+GET  /v1/audit/verify         触发哈希链校验（admin）
+POST /v1/kb/search            知识库检索（带身份，强制隔离）
+```
+
+### POST /v1/chat 请求
+```jsonc
+{
+  "message": "string",
+  "session_id": "string",
+  "agent_id": "string",
+  "caller": { "user_id": "u1", "role": "user", "dept_id": "d1" }
+}
+```
+### 响应（放行 / 拦截）
+```jsonc
+{ "blocked": false, "answer": "...", "citations": ["[doc_1]"],
+  "tier": "tier1", "public_trace": [ /* 见 §4 */ ], "latency_ms": 42 }
+{ "blocked": true, "stage": "L0|L1", "display": "⛔ 已被安全策略拦截" }
+// 注意：拦截响应对用户不回显 rule_id（仅审计留存）
+```
+
+---
+
+## 3. WS 流式帧
+
+```jsonc
+// 思考过程帧（逐帧推送 public_trace，见 §4）
+{ "event": "trace", "frame": { "stage":"tool","type":"tool_call","display":"✓ ..." } }
+// 增量答案
+{ "event": "delta", "text": "..." }
+// 结束
+{ "event": "done", "tier":"tier1", "latency_ms": 1240 }
+```
+
+---
+
+## 4. 思考过程双轨 schema（D3）
+
+每个原始帧 `TraceFrame`（`trace.py`）拆成两份。**字段去向**：
+
+| 字段 | public_trace（用户/前端） | audit_trace（admin+审计表） |
+|---|:---:|:---:|
+| stage / type | ✓ | ✓ |
+| display（脱敏后人读串，永不空白） | ✓ | — |
+| status（PASS/BLOCK 粗粒度） | ✓（gate 帧） | — |
+| tool_name | ✓ | ✓ |
+| params | ✓ 脱敏后 | — |
+| params_hash / result_hash | — | ✓ |
+| result | ✓ 脱敏后（全脱敏则隐藏+计数说明） | — |
+| result_count | ✓ | ✓ |
+| **rule_id** | ✗ 绝不下发 | ✓ |
+| tier | ✓ | ✓ |
+| latency_ms | ✓ | ✓ |
+| session_id | — | ✓ |
+
+**脱敏流程（每帧渲染前）**：tool 的 params/result → `OutputGuard.check()` → `sanitized_output`。
+**全脱敏降级**：返回值被洗空时，public 显示
+`"✓ 工具 X 调用完成，返回 N 条结果（含隐私信息，已按隐私策略隐藏）"`——让用户知道"成功且被保护"，而非以为系统坏了。
+
+---
+
+## 5. DB schema（核心表）
+
+```sql
+-- 用户与角色（Q1）
+users(id, phone, wechat_openid, role,           -- admin/developer/user
+      dept_id, dept_admin BOOLEAN, created_at)
+
+-- 智能体（含 D2 compute_policy / D6 scope）
+agents(id, name, description, domain, system_prompt,
+       model, fallback_model,
+       compute_policy JSONB,        -- {allowed_tiers, preferred_order, force_local_for, fail_strategy}
+       scope TEXT,                   -- "domain_only" / "open"
+       free_quota JSONB,             -- {monthly_tokens, freeze_period}
+       visibility TEXT,              -- public/department/private
+       owner_id, status,             -- draft/pending_review/published
+       created_at)
+
+-- 配额（D6，并发原子扣减走 Redis，PG 为持久化对账）
+quotas(user_id, agent_id, period, used_tokens, limit_tokens,
+       locked BOOLEAN, freeze_until, UNIQUE(user_id, agent_id, period))
+
+-- 审计（D5 哈希链）
+audit(id BIGSERIAL, session_id, stage, decision, reason,
+      input_hash, output_hash, rule_id, tier, latency_ms,
+      prev_hash CHAR(64), entry_hash CHAR(64),   -- 哈希链字段
+      created_at)
+
+-- 知识库（D7 隔离）
+knowledge_bases(id, name, type,                   -- public/department/private
+                tenant_id, visibility, owner_id, allowed_roles JSONB,
+                dept_id, created_at)
+documents(id, kb_id, content_hash, vector_ref, metadata JSONB)
+```
+
+**检索隔离铁律（D7）**：`/v1/kb/search` 必须带 `caller`，查询条件下推为
+`visibility='public' OR (type='department' AND dept_id=:caller_dept) OR owner_id=:caller_id`，
+**绝不在应用层过滤后才隔离**。管理员可管理但 `private` 库只存哈希、不可见原文。
+
+---
+
+## 6. Agent 配置 schema（D2 + D6）
+
+```yaml
+agent:
+  name: "HR助手"
+  domain: "hr"
+  scope: "domain_only"             # D6：只答本领域，越界拒绝（C4 校验）
+  compute_policy:                   # D2：管理员按业务分配算力
+    allowed_tiers: [tier1]          # 员工隐私不出内网
+    preferred_order: [tier1]
+    force_local_for: [R0, R1]
+    fail_strategy: closed
+  free_quota: { monthly_tokens: 10000, freeze_period: monthly }
+  visibility: public
+  guardrails: { redlines: all, self_monitor: true, domain_guard: hr }
+```
+配额耗尽行为（D6）：允许负数（不中断当前请求）→ 余额≤0 锁定该智能体（对此用户）
+→ 等冻结重置 或 充值即时解锁。
+
+---
+
+## 7. 待澄清项的处置（见随附答复）
+
+- **Q1 角色边界（已锁定，编码于 `permissions.py`，14 测试通过）**：
+  - `admin` 全局：审批上线、管理全部、管理任意配额。
+  - `department_admin` 部门：管本部门知识库与本部门用户配额；**看不到成员私人库原文**。
+  - `developer` 可建智能体；建**私有**不需审批；要**多人可见**(部门/公共)须 **admin 审批上线**
+    （`draft→pending_review→published`，可 `rejected→draft` 打回重提）。
+  - `user` 可建**私人智能体**（visibility=private，仅自己、不进市场、不需审批，直接 published）。
+  - 可选开关：把【部门可见】审批权下放给对应 `department_admin`
+    （`can_approve` 内 `DELEGATE_DEPT_APPROVAL_TO_DEPT_ADMIN`，默认关，严格对齐"须 admin 审批"）。
+- **Q2 与现有体系关系**：属你方产品决策，本契约不预设；但 SecureGuard 作为独立安全层，
+  EVA/OKComputer 若接入应统一走同一 `/v1/chat` 安全代理，避免各做一套护栏。
+- **Q3 部署形态**：按 **A（单企业独立部署）** 落地，`tenant_id` 字段预留但多租户逻辑不激活。

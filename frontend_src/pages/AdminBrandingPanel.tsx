@@ -1,1 +1,84 @@
-Ly8gQWRtaW5CcmFuZGluZ1BhbmVsLnRzeCDigJQg566h55CG5ZCO5Y+w57u05oqk55m95qCHOuW5s+WPsOWQjeOAgWxvZ28o5LiK5Lyg6L2sIGRhdGEtVVJMKeOAgeS4u+iJsuOAgemUgeWumuOAgeeZu+W9leagh+ivreOAggovLyDku4XnrqHnkIblkZjjgILkv53lrZjlkI7osIMgYXBwbHlCcmFuZGluZyDnq4vljbPnlJ/mlYjjgIIKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgTG9hZGVyMiwgVXBsb2FkIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgQ2FyZCwgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3ByaW1pdGl2ZXMiOwppbXBvcnQgeyBhcGkgfSBmcm9tICJAL2xpYi9hcGkiOwppbXBvcnQgeyBhcHBseUJyYW5kaW5nLCB0eXBlIEJyYW5kIH0gZnJvbSAiQC9saWIvYnJhbmRpbmciOwoKY29uc3QgRU1QVFk6IEJyYW5kID0geyBwbGF0Zm9ybV9uYW1lOiAiIiwgbG9nb191cmw6ICIiLCBmYXZpY29uX3VybDogIiIsIGJyYW5kX2NvbG9yOiAiIzNiNGNjYSIsIGJyYW5kX2NvbG9yX2Rhcms6ICIjOGVhMmZmIiwgbG9ja19hY2NlbnQ6IGZhbHNlLCBsb2dpbl90YWdsaW5lOiAiIiB9OwoKZXhwb3J0IGZ1bmN0aW9uIEFkbWluQnJhbmRpbmdQYW5lbCgpIHsKICBjb25zdCBbYiwgc2V0Ql0gPSB1c2VTdGF0ZTxCcmFuZD4oRU1QVFkpOwogIGNvbnN0IFtidXN5LCBzZXRCdXN5XSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbbXNnLCBzZXRNc2ddID0gdXNlU3RhdGU8eyBvazogYm9vbGVhbjsgdDogc3RyaW5nIH0gfCBudWxsPihudWxsKTsKICBjb25zdCBub3RlID0gKG9rOiBib29sZWFuLCB0OiBzdHJpbmcpID0+IHsgc2V0TXNnKHsgb2ssIHQgfSk7IHNldFRpbWVvdXQoKCkgPT4gc2V0TXNnKG51bGwpLCAyNTAwKTsgfTsKCiAgdXNlRWZmZWN0KCgpID0+IHsgYXBpLmdldEJyYW5kaW5nKCkudGhlbigoeCkgPT4gc2V0Qih7IC4uLkVNUFRZLCAuLi54IH0pKS5jYXRjaCgoKSA9PiB7fSk7IH0sIFtdKTsKCiAgY29uc3QgcGlja0xvZ28gPSAoZjogRmlsZSB8IHVuZGVmaW5lZCkgPT4gewogICAgaWYgKCFmKSByZXR1cm47CiAgICBpZiAoZi5zaXplID4gNTAwICogMTAyNCkgeyBub3RlKGZhbHNlLCAibG9nbyDor7fljovliLAgNTAwS0Ig5YaFIik7IHJldHVybjsgfQogICAgY29uc3QgciA9IG5ldyBGaWxlUmVhZGVyKCk7CiAgICByLm9ubG9hZCA9ICgpID0+IHNldEIoKHA6IEJyYW5kKSA9PiAoeyAuLi5wLCBsb2dvX3VybDogU3RyaW5nKHIucmVzdWx0KSB9KSk7CiAgICByLnJlYWRBc0RhdGFVUkwoZik7CiAgfTsKCiAgY29uc3Qgc2F2ZSA9IGFzeW5jICgpID0+IHsKICAgIHNldEJ1c3kodHJ1ZSk7CiAgICB0cnkgewogICAgICBjb25zdCBzYXZlZCA9IGF3YWl0IGFwaS5wdXRCcmFuZGluZyhiIGFzIGFueSk7CiAgICAgIGFwcGx5QnJhbmRpbmcoc2F2ZWQgYXMgQnJhbmQpOyAgIC8vIOeri+WNs+WFqOWxgOeUn+aViAogICAgICBub3RlKHRydWUsICLlt7Lkv53lrZjlubblupTnlKgiKTsKICAgIH0gY2F0Y2ggKGU6IGFueSkgeyBub3RlKGZhbHNlLCBlLm1lc3NhZ2UgfHwgIuS/neWtmOWksei0pSIpOyB9CiAgICBmaW5hbGx5IHsgc2V0QnVzeShmYWxzZSk7IH0KICB9OwoKICByZXR1cm4gKAogICAgPENhcmQgY2xhc3NOYW1lPSJteC1hdXRvIG1heC13LTJ4bCBwLTYiPgogICAgICA8aDIgY2xhc3NOYW1lPSJtYi0xIGZvbnQtZGlzcGxheSB0ZXh0LWxnIGZvbnQtc2VtaWJvbGQiPuWTgeeJjOiuvue9rijnmb3moIcpPC9oMj4KICAgICAgPHAgY2xhc3NOYW1lPSJtYi01IHRleHQtc20gdGV4dC1tdXRlZCI+57u05oqk5bmz5Y+w5ZCN56ew44CBbG9nbyDkuI7kuLvoibI76Z2i5ZCR5LiN5ZCM55Sy5pa55ZCE6Ieq6YWN572u44CCPC9wPgoKICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgPFJvdyBsYWJlbD0i5bmz5Y+w5ZCN56ewIj4KICAgICAgICAgIDxpbnB1dCB2YWx1ZT17Yi5wbGF0Zm9ybV9uYW1lfSBvbkNoYW5nZT17KGUpID0+IHNldEIoeyAuLi5iLCBwbGF0Zm9ybV9uYW1lOiBlLnRhcmdldC52YWx1ZSB9KX0gcGxhY2Vob2xkZXI9IuWmgiDmn5Dmn5Dlu7rlt6UgQUkg5bmz5Y+wIiBjbGFzc05hbWU9e2lucH0gLz4KICAgICAgICA8L1Jvdz4KCiAgICAgICAgPFJvdyBsYWJlbD0iTG9nbyI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgICAgICB7Yi5sb2dvX3VybCA/IDxpbWcgc3JjPXtiLmxvZ29fdXJsfSBhbHQ9ImxvZ28iIGNsYXNzTmFtZT0iaC0xMCB3LTEwIHJvdW5kZWQtbWQgYm9yZGVyIGJvcmRlci1ib3JkZXIiIC8+IDogPGRpdiBjbGFzc05hbWU9ImdyaWQgaC0xMCB3LTEwIHBsYWNlLWl0ZW1zLWNlbnRlciByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItZGFzaGVkIGJvcmRlci1ib3JkZXIgdGV4dC14cyB0ZXh0LW11dGVkIj7ml6A8L2Rpdj59CiAgICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImZsZXggY3Vyc29yLXBvaW50ZXIgaXRlbXMtY2VudGVyIGdhcC0xLjUgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLWJvcmRlciBweC0zIHB5LTEuNSB0ZXh0LXNtIGhvdmVyOmJnLXN1cmZhY2UtMiI+CiAgICAgICAgICAgICAgPFVwbG9hZCBzaXplPXsxNH0gLz4g5LiK5Lyg5Zu+54mHCiAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImZpbGUiIGFjY2VwdD0iaW1hZ2UvKiIgY2xhc3NOYW1lPSJoaWRkZW4iIG9uQ2hhbmdlPXsoZSkgPT4gcGlja0xvZ28oZS50YXJnZXQuZmlsZXM/LlswXSl9IC8+CiAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgIHtiLmxvZ29fdXJsICYmIDxidXR0b24gb25DbGljaz17KCkgPT4gc2V0Qih7IC4uLmIsIGxvZ29fdXJsOiAiIiB9KX0gY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQgaG92ZXI6dGV4dC1yZWQtNTAwIj7muIXpmaQ8L2J1dHRvbj59CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L1Jvdz4KCiAgICAgICAgPFJvdyBsYWJlbD0i5Li76ImyKOW8uuiwg+iJsuWfuue6vykiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIj4KICAgICAgICAgICAgPGlucHV0IHR5cGU9ImNvbG9yIiB2YWx1ZT17Yi5icmFuZF9jb2xvcn0gb25DaGFuZ2U9eyhlKSA9PiBzZXRCKHsgLi4uYiwgYnJhbmRfY29sb3I6IGUudGFyZ2V0LnZhbHVlIH0pfSBjbGFzc05hbWU9ImgtOSB3LTE0IHJvdW5kZWQtbWQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSIgLz4KICAgICAgICAgICAgPGlucHV0IHZhbHVlPXtiLmJyYW5kX2NvbG9yfSBvbkNoYW5nZT17KGUpID0+IHNldEIoeyAuLi5iLCBicmFuZF9jb2xvcjogZS50YXJnZXQudmFsdWUgfSl9IGNsYXNzTmFtZT17YCR7aW5wfSB3LTMyYH0gLz4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSB0ZXh0LW11dGVkIj4KICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIGNoZWNrZWQ9e2IubG9ja19hY2NlbnR9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0Qih7IC4uLmIsIGxvY2tfYWNjZW50OiBlLnRhcmdldC5jaGVja2VkIH0pfSAvPiDplIHlrpoo5ZGY5bel5LiN5Y+v5pS5KQogICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9Sb3c+CgogICAgICAgIDxSb3cgbGFiZWw9IueZu+W9lemhteagh+ivrSjlj6/pgIkpIj4KICAgICAgICAgIDxpbnB1dCB2YWx1ZT17Yi5sb2dpbl90YWdsaW5lfSBvbkNoYW5nZT17KGUpID0+IHNldEIoeyAuLi5iLCBsb2dpbl90YWdsaW5lOiBlLnRhcmdldC52YWx1ZSB9KX0gcGxhY2Vob2xkZXI9IuWmgiDorqnmr4/kuKrpobnnm67pg73mnIkgQUkg5Yqp5omLIiBjbGFzc05hbWU9e2lucH0gLz4KICAgICAgICA8L1Jvdz4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNiBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgb25DbGljaz17c2F2ZX0gZGlzYWJsZWQ9e2J1c3l9PntidXN5ID8gPExvYWRlcjIgc2l6ZT17MTR9IGNsYXNzTmFtZT0iYW5pbWF0ZS1zcGluIiAvPiA6IG51bGx9IOS/neWtmOW5tuW6lOeUqDwvQnV0dG9uPgogICAgICAgIHttc2cgJiYgPHNwYW4gY2xhc3NOYW1lPXtgdGV4dC14cyAke21zZy5vayA/ICJ0ZXh0LWFjY2VudCIgOiAidGV4dC1yZWQtNTAwIn1gfT57bXNnLnR9PC9zcGFuPn0KICAgICAgPC9kaXY+CiAgICA8L0NhcmQ+CiAgKTsKfQoKZnVuY3Rpb24gUm93KHsgbGFiZWwsIGNoaWxkcmVuIH06IHsgbGFiZWw6IHN0cmluZzsgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZSB9KSB7CiAgcmV0dXJuIDxkaXY+PGRpdiBjbGFzc05hbWU9Im1iLTEgdGV4dC14cyB0ZXh0LW11dGVkIj57bGFiZWx9PC9kaXY+e2NoaWxkcmVufTwvZGl2PjsKfQpjb25zdCBpbnAgPSAidy1mdWxsIHJvdW5kZWQtbWQgYm9yZGVyIGJvcmRlci1ib3JkZXIgYmctc3VyZmFjZSBweC0yLjUgcHktMS41IHRleHQtc20iOwo=
+// AdminBrandingPanel.tsx — 管理后台维护白标:平台名、logo(上传转 data-URL)、主色、锁定、登录标语。
+// 仅管理员。保存后调 applyBranding 立即生效。
+import { useEffect, useState } from "react";
+import { Loader2, Upload } from "lucide-react";
+import { Card, Button } from "@/components/ui/primitives";
+import { api } from "@/lib/api";
+import { applyBranding, type Brand } from "@/lib/branding";
+
+const EMPTY: Brand = { platform_name: "", logo_url: "", favicon_url: "", brand_color: "#3b4cca", brand_color_dark: "#8ea2ff", lock_accent: false, login_tagline: "" };
+
+export function AdminBrandingPanel() {
+  const [b, setB] = useState<Brand>(EMPTY);
+  const [busy, setBusy] = useState(false);
+  const [msg, setMsg] = useState<{ ok: boolean; t: string } | null>(null);
+  const note = (ok: boolean, t: string) => { setMsg({ ok, t }); setTimeout(() => setMsg(null), 2500); };
+
+  useEffect(() => { api.getBranding().then((x) => setB({ ...EMPTY, ...x })).catch(() => {}); }, []);
+
+  const pickLogo = (f: File | undefined) => {
+    if (!f) return;
+    if (f.size > 500 * 1024) { note(false, "logo 请压到 500KB 内"); return; }
+    const r = new FileReader();
+    r.onload = () => setB((p: Brand) => ({ ...p, logo_url: String(r.result) }));
+    r.readAsDataURL(f);
+  };
+
+  const save = async () => {
+    setBusy(true);
+    try {
+      const saved = await api.putBranding(b as any);
+      applyBranding(saved as Brand);   // 立即全局生效
+      note(true, "已保存并应用");
+    } catch (e: any) { note(false, e.message || "保存失败"); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <Card className="mx-auto max-w-2xl p-6">
+      <h2 className="mb-1 font-display text-lg font-semibold">品牌设置(白标)</h2>
+      <p className="mb-5 text-sm text-muted">维护平台名称、logo 与主色;面向不同甲方各自配置。</p>
+
+      <div className="space-y-4">
+        <Row label="平台名称">
+          <input value={b.platform_name} onChange={(e) => setB({ ...b, platform_name: e.target.value })} placeholder="如 某某建工 AI 平台" className={inp} />
+        </Row>
+
+        <Row label="Logo">
+          <div className="flex items-center gap-3">
+            {b.logo_url ? <img src={b.logo_url} alt="logo" className="h-10 w-10 rounded-md border border-border" /> : <div className="grid h-10 w-10 place-items-center rounded-md border border-dashed border-border text-xs text-muted">无</div>}
+            <label className="flex cursor-pointer items-center gap-1.5 rounded-md border border-border px-3 py-1.5 text-sm hover:bg-surface-2">
+              <Upload size={14} /> 上传图片
+              <input type="file" accept="image/*" className="hidden" onChange={(e) => pickLogo(e.target.files?.[0])} />
+            </label>
+            {b.logo_url && <button onClick={() => setB({ ...b, logo_url: "" })} className="text-xs text-muted hover:text-red-500">清除</button>}
+          </div>
+        </Row>
+
+        <Row label="主色(强调色基线)">
+          <div className="flex items-center gap-3">
+            <input type="color" value={b.brand_color} onChange={(e) => setB({ ...b, brand_color: e.target.value })} className="h-9 w-14 rounded-md border border-border bg-surface" />
+            <input value={b.brand_color} onChange={(e) => setB({ ...b, brand_color: e.target.value })} className={`${inp} w-32`} />
+            <label className="flex items-center gap-2 text-sm text-muted">
+              <input type="checkbox" checked={b.lock_accent} onChange={(e) => setB({ ...b, lock_accent: e.target.checked })} /> 锁定(员工不可改)
+            </label>
+          </div>
+        </Row>
+
+        <Row label="登录页标语(可选)">
+          <input value={b.login_tagline} onChange={(e) => setB({ ...b, login_tagline: e.target.value })} placeholder="如 让每个项目都有 AI 助手" className={inp} />
+        </Row>
+      </div>
+
+      <div className="mt-6 flex items-center gap-3">
+        <Button size="sm" onClick={save} disabled={busy}>{busy ? <Loader2 size={14} className="animate-spin" /> : null} 保存并应用</Button>
+        {msg && <span className={`text-xs ${msg.ok ? "text-accent" : "text-red-500"}`}>{msg.t}</span>}
+      </div>
+    </Card>
+  );
+}
+
+function Row({ label, children }: { label: string; children: React.ReactNode }) {
+  return <div><div className="mb-1 text-xs text-muted">{label}</div>{children}</div>;
+}
+const inp = "w-full rounded-md border border-border bg-surface px-2.5 py-1.5 text-sm";

@@ -1,1 +1,80 @@
-Ly8g5Y2V5p2h5raI5oGv5rCU5rOh44CCQUkg5L6nIE1hcmtkb3duIOa4suafkyArIOS7o+eggemrmOS6ru+8m+a1geW8j+aXtuaYvuekuumXqueDgeWFieagh++8mwovLyDmi6bmiKrmgIHlj6rmmL7npLoi5bey6KKr5a6J5YWo562W55Wl5oum5oiqIu+8jOS4jeWbnuaYvuS7u+S9lSBydWxlX2lk44CCCmltcG9ydCBSZWFjdE1hcmtkb3duIGZyb20gInJlYWN0LW1hcmtkb3duIjsKaW1wb3J0IHR5cGUgeyBDU1NQcm9wZXJ0aWVzIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgcmVtYXJrR2ZtIGZyb20gInJlbWFyay1nZm0iOwppbXBvcnQgeyBQcmlzbSBhcyBTeW50YXhIaWdobGlnaHRlciB9IGZyb20gInJlYWN0LXN5bnRheC1oaWdobGlnaHRlciI7CmltcG9ydCB7IG9uZURhcmssIG9uZUxpZ2h0IH0gZnJvbSAicmVhY3Qtc3ludGF4LWhpZ2hsaWdodGVyL2Rpc3QvZXNtL3N0eWxlcy9wcmlzbSI7CmltcG9ydCB7IFNoaWVsZEFsZXJ0LCBCb3QgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgdHlwZSB7IE1lc3NhZ2UgfSBmcm9tICJAL3R5cGVzIjsKaW1wb3J0IHsgdXNlVUlTdG9yZSB9IGZyb20gIkAvc3RvcmVzL3VzZVN0b3JlIjsKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CmltcG9ydCB7IENhcGFiaWxpdHlCYXIgfSBmcm9tICJAL2NvbXBvbmVudHMvQ2FwYWJpbGl0eUJhciI7CgpleHBvcnQgZnVuY3Rpb24gQ2hhdE1lc3NhZ2UoeyBtZXNzYWdlIH06IHsgbWVzc2FnZTogTWVzc2FnZSB9KSB7CiAgY29uc3QgdGhlbWUgPSB1c2VVSVN0b3JlKChzKSA9PiBzLnRoZW1lKTsKICBjb25zdCBpc1VzZXIgPSBtZXNzYWdlLnJvbGUgPT09ICJ1c2VyIjsKCiAgaWYgKG1lc3NhZ2UuYmxvY2tlZCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9ImFuaW1hdGUtZmFkZS1pbiBmbGV4IGp1c3RpZnktc3RhcnQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLWNhcmQgYm9yZGVyIGJvcmRlci13YXJuaW5nLzQwIGJnLXdhcm5pbmcvMTAgcHgtNCBweS0zIHRleHQtc20gdGV4dC13YXJuaW5nIj4KICAgICAgICAgIDxTaGllbGRBbGVydCBzaXplPXsxNn0gLz4KICAgICAgICAgIOW3suiiq+WuieWFqOetlueVpeaLpuaIqgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9e2NuKCJhbmltYXRlLWZhZGUtaW4gZmxleCBnYXAtMyIsIGlzVXNlciA/ICJqdXN0aWZ5LWVuZCIgOiAianVzdGlmeS1zdGFydCIpfT4KICAgICAgeyFpc1VzZXIgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xIGZsZXggaC03IHctNyBzaHJpbmstMCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC1mdWxsIGJnLWFjY2VudC8xMiB0ZXh0LWFjY2VudCI+CiAgICAgICAgICA8Qm90IHNpemU9ezE1fSAvPgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgICA8ZGl2CiAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICJtYXgtdy1bNzglXSByb3VuZGVkLWNhcmQgcHgtNCBweS0yLjUgdGV4dC1bMTVweF0iLAogICAgICAgICAgaXNVc2VyCiAgICAgICAgICAgID8gImJnLWFjY2VudCB0ZXh0LXdoaXRlIHNoYWRvdy1zb2Z0IgogICAgICAgICAgICA6ICJib3JkZXIgYm9yZGVyLWJvcmRlciBiZy1zdXJmYWNlIHRleHQtdGV4dCBzaGFkb3ctc29mdCIKICAgICAgICApfQogICAgICA+CiAgICAgICAge2lzVXNlciA/ICgKICAgICAgICAgIDxwIGNsYXNzTmFtZT0id2hpdGVzcGFjZS1wcmUtd3JhcCBsZWFkaW5nLXJlbGF4ZWQiPnttZXNzYWdlLmNvbnRlbnR9PC9wPgogICAgICAgICkgOiAoCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHJvc2UtY2hhdCI+CiAgICAgICAgICAgIDxSZWFjdE1hcmtkb3duCiAgICAgICAgICAgICAgcmVtYXJrUGx1Z2lucz17W3JlbWFya0dmbV19CiAgICAgICAgICAgICAgY29tcG9uZW50cz17ewogICAgICAgICAgICAgICAgY29kZSh7IGNsYXNzTmFtZSwgY2hpbGRyZW4sIC4uLnByb3BzIH0pIHsKICAgICAgICAgICAgICAgICAgY29uc3QgbWF0Y2ggPSAvbGFuZ3VhZ2UtKFx3KykvLmV4ZWMoY2xhc3NOYW1lIHx8ICIiKTsKICAgICAgICAgICAgICAgICAgY29uc3QgaXNCbG9jayA9IG1hdGNoIHx8IFN0cmluZyhjaGlsZHJlbikuaW5jbHVkZXMoIlxuIik7CiAgICAgICAgICAgICAgICAgIHJldHVybiBpc0Jsb2NrID8gKAogICAgICAgICAgICAgICAgICAgIDxTeW50YXhIaWdobGlnaHRlcgogICAgICAgICAgICAgICAgICAgICAgc3R5bGU9eyh0aGVtZSA9PT0gImRhcmsiID8gb25lRGFyayA6IG9uZUxpZ2h0KSBhcyBSZWNvcmQ8c3RyaW5nLCBDU1NQcm9wZXJ0aWVzPn0KICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlPXttYXRjaD8uWzFdID8/ICJ0ZXh0In0KICAgICAgICAgICAgICAgICAgICAgIFByZVRhZz0iZGl2IgogICAgICAgICAgICAgICAgICAgICAgY3VzdG9tU3R5bGU9e3sgbWFyZ2luOiAwLCBib3JkZXJSYWRpdXM6IDEwLCBmb250U2l6ZTogMTMgfX0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICB7U3RyaW5nKGNoaWxkcmVuKS5yZXBsYWNlKC9cbiQvLCAiIil9CiAgICAgICAgICAgICAgICAgICAgPC9TeW50YXhIaWdobGlnaHRlcj4KICAgICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgICA8Y29kZSBjbGFzc05hbWU9e2NsYXNzTmFtZX0gey4uLnByb3BzfT57Y2hpbGRyZW59PC9jb2RlPgogICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge21lc3NhZ2UuY29udGVudCB8fCAobWVzc2FnZS5zdHJlYW1pbmcgPyAiIiA6ICIgIil9CiAgICAgICAgICAgIDwvUmVhY3RNYXJrZG93bj4KICAgICAgICAgICAge21lc3NhZ2Uuc3RyZWFtaW5nICYmICgKICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLTAuNSBpbmxpbmUtYmxvY2sgaC00IHctWzJweF0gdHJhbnNsYXRlLXktMC41IGFuaW1hdGUtY2FyZXQtYmxpbmsgYmctYWNjZW50IGFsaWduLW1pZGRsZSIgLz4KICAgICAgICAgICAgKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgICl9CiAgICAgICAgeyFpc1VzZXIgJiYgIW1lc3NhZ2Uuc3RyZWFtaW5nICYmIG1lc3NhZ2UubWV0YSAmJiA8Q2FwYWJpbGl0eUJhciBtZXRhPXttZXNzYWdlLm1ldGF9IC8+fQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+// 单条消息气泡。AI 侧 Markdown 渲染 + 代码高亮；流式时显示闪烁光标；
+// 拦截态只显示"已被安全策略拦截"，不回显任何 rule_id。
+import ReactMarkdown from "react-markdown";
+import type { CSSProperties } from "react";
+import remarkGfm from "remark-gfm";
+import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
+import { oneDark, oneLight } from "react-syntax-highlighter/dist/esm/styles/prism";
+import { ShieldAlert, Bot } from "lucide-react";
+import type { Message } from "@/types";
+import { useUIStore } from "@/stores/useStore";
+import { cn } from "@/lib/utils";
+import { CapabilityBar } from "@/components/CapabilityBar";
+
+export function ChatMessage({ message }: { message: Message }) {
+  const theme = useUIStore((s) => s.theme);
+  const isUser = message.role === "user";
+
+  if (message.blocked) {
+    return (
+      <div className="animate-fade-in flex justify-start">
+        <div className="flex items-center gap-2 rounded-card border border-warning/40 bg-warning/10 px-4 py-3 text-sm text-warning">
+          <ShieldAlert size={16} />
+          已被安全策略拦截
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className={cn("animate-fade-in flex gap-3", isUser ? "justify-end" : "justify-start")}>
+      {!isUser && (
+        <div className="mt-1 flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-accent/12 text-accent">
+          <Bot size={15} />
+        </div>
+      )}
+      <div
+        className={cn(
+          "max-w-[78%] rounded-card px-4 py-2.5 text-[15px]",
+          isUser
+            ? "bg-accent text-white shadow-soft"
+            : "border border-border bg-surface text-text shadow-soft"
+        )}
+      >
+        {isUser ? (
+          <p className="whitespace-pre-wrap leading-relaxed">{message.content}</p>
+        ) : (
+          <div className="prose-chat">
+            <ReactMarkdown
+              remarkPlugins={[remarkGfm]}
+              components={{
+                code({ className, children, ...props }) {
+                  const match = /language-(\w+)/.exec(className || "");
+                  const isBlock = match || String(children).includes("\n");
+                  return isBlock ? (
+                    <SyntaxHighlighter
+                      style={(theme === "dark" ? oneDark : oneLight) as Record<string, CSSProperties>}
+                      language={match?.[1] ?? "text"}
+                      PreTag="div"
+                      customStyle={{ margin: 0, borderRadius: 10, fontSize: 13 }}
+                    >
+                      {String(children).replace(/\n$/, "")}
+                    </SyntaxHighlighter>
+                  ) : (
+                    <code className={className} {...props}>{children}</code>
+                  );
+                },
+              }}
+            >
+              {message.content || (message.streaming ? "" : " ")}
+            </ReactMarkdown>
+            {message.streaming && (
+              <span className="ml-0.5 inline-block h-4 w-[2px] translate-y-0.5 animate-caret-blink bg-accent align-middle" />
+            )}
+          </div>
+        )}
+        {!isUser && !message.streaming && message.meta && <CapabilityBar meta={message.meta} />}
+      </div>
+    </div>
+  );
+}

@@ -1,1 +1,36 @@
-ewogICJuYW1lIjogImVudGVycHJpc2UtYWktd29ya2JlbmNoIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgInZlcnNpb24iOiAiMS4wLjAiLAogICJ0eXBlIjogIm1vZHVsZSIsCiAgInNjcmlwdHMiOiB7CiAgICAiZGV2IjogInZpdGUiLAogICAgImJ1aWxkIjogInRzYyAtYiAmJiB2aXRlIGJ1aWxkIiwKICAgICJwcmV2aWV3IjogInZpdGUgcHJldmlldyIsCiAgICAidHlwZWNoZWNrIjogInRzYyAtLW5vRW1pdCIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAiY2xzeCI6ICJeMi4xLjEiLAogICAgImx1Y2lkZS1yZWFjdCI6ICJeMC4zODMuMCIsCiAgICAicmVhY3QiOiAiXjE4LjMuMSIsCiAgICAicmVhY3QtZG9tIjogIl4xOC4zLjEiLAogICAgInJlYWN0LW1hcmtkb3duIjogIl45LjAuMSIsCiAgICAicmVhY3Qtcm91dGVyLWRvbSI6ICJeNi4yMy4xIiwKICAgICJyZWFjdC1zeW50YXgtaGlnaGxpZ2h0ZXIiOiAiXjE1LjUuMCIsCiAgICAicmVtYXJrLWdmbSI6ICJeNC4wLjAiLAogICAgInRhaWx3aW5kLW1lcmdlIjogIl4yLjMuMCIsCiAgICAienVzdGFuZCI6ICJeNC41LjIiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkB0eXBlcy9ub2RlIjogIl4yNi4xLjAiLAogICAgIkB0eXBlcy9yZWFjdCI6ICJeMTguMy4zIiwKICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xOC4zLjAiLAogICAgIkB0eXBlcy9yZWFjdC1zeW50YXgtaGlnaGxpZ2h0ZXIiOiAiXjE1LjUuMTMiLAogICAgIkB2aXRlanMvcGx1Z2luLXJlYWN0IjogIl40LjMuMSIsCiAgICAiYXV0b3ByZWZpeGVyIjogIl4xMC40LjE5IiwKICAgICJwb3N0Y3NzIjogIl44LjQuMzgiLAogICAgInRhaWx3aW5kY3NzIjogIl4zLjQuNCIsCiAgICAidHlwZXNjcmlwdCI6ICJeNS40LjUiLAogICAgInZpdGUiOiAiXjUuMi4xMyIKICB9Cn0K
+{
+  "name": "enterprise-ai-workbench",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.383.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
+    "react-router-dom": "^6.23.1",
+    "react-syntax-highlighter": "^15.5.0",
+    "remark-gfm": "^4.0.0",
+    "tailwind-merge": "^2.3.0",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.13"
+  }
+}

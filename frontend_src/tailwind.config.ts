@@ -1,1 +1,49 @@
-aW1wb3J0IHR5cGUgeyBDb25maWcgfSBmcm9tICJ0YWlsd2luZGNzcyI7CgovKiog6aKc6Imy5YWo6YOo5pig5bCE5YiwIENTUyDlj5jph4/vvIjop4EgaW5kZXguY3NzIOeahCA6cm9vdCAvIC5kYXJr77yJ77yMCiAqICDkuIDlpZfnsbvlkI3kuKTlpZfkuLvpopjjgIJyZ2IodmFyKC0teCkgLyA8YWxwaGE+KSDmlK/mjIHpgI/mmI7luqbjgIIgKi8KY29uc3QgY29sb3IgPSAodjogc3RyaW5nKSA9PiBgcmdiKHZhcigke3Z9KSAvIDxhbHBoYS12YWx1ZT4pYDsKCmV4cG9ydCBkZWZhdWx0IHsKICBkYXJrTW9kZTogImNsYXNzIiwKICBjb250ZW50OiBbIi4vaW5kZXguaHRtbCIsICIuL3BhZ2VzLyoqLyoudHN4IiwgIi4vY29tcG9uZW50cy8qKi8qLnRzeCIsICIuL3N0b3Jlcy8qLnRzIiwgIi4vbGliLyoudHMiLCAiLi9BcHAudHN4IiwgIi4vbWFpbi50c3giXSwKICB0aGVtZTogewogICAgZXh0ZW5kOiB7CiAgICAgIGNvbG9yczogewogICAgICAgIGJnOiBjb2xvcigiLS1iZyIpLAogICAgICAgIHN1cmZhY2U6IGNvbG9yKCItLXN1cmZhY2UiKSwKICAgICAgICAic3VyZmFjZS0yIjogY29sb3IoIi0tc3VyZmFjZS0yIiksCiAgICAgICAgYm9yZGVyOiBjb2xvcigiLS1ib3JkZXIiKSwKICAgICAgICB0ZXh0OiBjb2xvcigiLS10ZXh0IiksCiAgICAgICAgbXV0ZWQ6IGNvbG9yKCItLW11dGVkIiksCiAgICAgICAgYWNjZW50OiBjb2xvcigiLS1hY2NlbnQiKSwKICAgICAgICAiYWNjZW50LWhvdmVyIjogY29sb3IoIi0tYWNjZW50LWhvdmVyIiksCiAgICAgICAgd2FybmluZzogY29sb3IoIi0td2FybmluZyIpLAogICAgICAgIHN1Y2Nlc3M6IGNvbG9yKCItLXN1Y2Nlc3MiKSwKICAgICAgfSwKICAgICAgZm9udEZhbWlseTogewogICAgICAgIHNlcmlmOiBbJ05ld3NyZWFkZXInLCAnR2VvcmdpYScsICdTb25ndGkgU0MnLCAnc2VyaWYnXSwKICAgICAgICBzYW5zOiBbJ0ludGVyJywgJ3N5c3RlbS11aScsICctYXBwbGUtc3lzdGVtJywgJyJOb3RvIFNhbnMgU0MiJywgJ3NhbnMtc2VyaWYnXSwKICAgICAgICBtb25vOiBbJyJKZXRCcmFpbnMgTW9ubyInLCAndWktbW9ub3NwYWNlJywgJ1NGTW9uby1SZWd1bGFyJywgJ21vbm9zcGFjZSddLAogICAgICB9LAogICAgICBib3JkZXJSYWRpdXM6IHsgY2FyZDogIjEycHgiLCBidG46ICI4cHgiLCBpbnB1dDogIjEycHgiIH0sCiAgICAgIGJveFNoYWRvdzogewogICAgICAgIHNvZnQ6ICIwIDFweCAycHggcmdiKDAgMCAwIC8gMC4wNCksIDAgMnB4IDhweCByZ2IoMCAwIDAgLyAwLjA0KSIsCiAgICAgICAgbGlmdDogIjAgMnB4IDRweCByZ2IoMCAwIDAgLyAwLjA2KSwgMCA4cHggMjRweCByZ2IoMCAwIDAgLyAwLjA4KSIsCiAgICAgIH0sCiAgICAgIGtleWZyYW1lczogewogICAgICAgICJmYWRlLWluIjogeyBmcm9tOiB7IG9wYWNpdHk6ICIwIiwgdHJhbnNmb3JtOiAidHJhbnNsYXRlWSg0cHgpIiB9LCB0bzogeyBvcGFjaXR5OiAiMSIsIHRyYW5zZm9ybTogInRyYW5zbGF0ZVkoMCkiIH0gfSwKICAgICAgICAic2xpZGUtaW4iOiB7IGZyb206IHsgb3BhY2l0eTogIjAiLCB0cmFuc2Zvcm06ICJ0cmFuc2xhdGVYKDhweCkiIH0sIHRvOiB7IG9wYWNpdHk6ICIxIiwgdHJhbnNmb3JtOiAidHJhbnNsYXRlWCgwKSIgfSB9LAogICAgICAgICJzb2Z0LXB1bHNlIjogeyAiMCUsMTAwJSI6IHsgb3BhY2l0eTogIjEiIH0sICI1MCUiOiB7IG9wYWNpdHk6ICIwLjQ1IiB9IH0sCiAgICAgICAgImNhcmV0LWJsaW5rIjogeyAiMCUsMTAwJSI6IHsgb3BhY2l0eTogIjEiIH0sICI1MCUiOiB7IG9wYWNpdHk6ICIwIiB9IH0sCiAgICAgIH0sCiAgICAgIGFuaW1hdGlvbjogewogICAgICAgICJmYWRlLWluIjogImZhZGUtaW4gMC4yOHMgZWFzZSBib3RoIiwKICAgICAgICAic2xpZGUtaW4iOiAic2xpZGUtaW4gMC4zcyBlYXNlIGJvdGgiLAogICAgICAgICJzb2Z0LXB1bHNlIjogInNvZnQtcHVsc2UgMS42cyBlYXNlLWluLW91dCBpbmZpbml0ZSIsCiAgICAgICAgImNhcmV0LWJsaW5rIjogImNhcmV0LWJsaW5rIDFzIHN0ZXAtZW5kIGluZmluaXRlIiwKICAgICAgfSwKICAgIH0sCiAgfSwKICBwbHVnaW5zOiBbXSwKfSBzYXRpc2ZpZXMgQ29uZmlnOwo=
+import type { Config } from "tailwindcss";
+
+/** 颜色全部映射到 CSS 变量（见 index.css 的 :root / .dark），
+ *  一套类名两套主题。rgb(var(--x) / <alpha>) 支持透明度。 */
+const color = (v: string) => `rgb(var(${v}) / <alpha-value>)`;
+
+export default {
+  darkMode: "class",
+  content: ["./index.html", "./pages/**/*.tsx", "./components/**/*.tsx", "./stores/*.ts", "./lib/*.ts", "./App.tsx", "./main.tsx"],
+  theme: {
+    extend: {
+      colors: {
+        bg: color("--bg"),
+        surface: color("--surface"),
+        "surface-2": color("--surface-2"),
+        border: color("--border"),
+        text: color("--text"),
+        muted: color("--muted"),
+        accent: color("--accent"),
+        "accent-hover": color("--accent-hover"),
+        warning: color("--warning"),
+        success: color("--success"),
+      },
+      fontFamily: {
+        serif: ['Newsreader', 'Georgia', 'Songti SC', 'serif'],
+        sans: ['Inter', 'system-ui', '-apple-system', '"Noto Sans SC"', 'sans-serif'],
+        mono: ['"JetBrains Mono"', 'ui-monospace', 'SFMono-Regular', 'monospace'],
+      },
+      borderRadius: { card: "12px", btn: "8px", input: "12px" },
+      boxShadow: {
+        soft: "0 1px 2px rgb(0 0 0 / 0.04), 0 2px 8px rgb(0 0 0 / 0.04)",
+        lift: "0 2px 4px rgb(0 0 0 / 0.06), 0 8px 24px rgb(0 0 0 / 0.08)",
+      },
+      keyframes: {
+        "fade-in": { from: { opacity: "0", transform: "translateY(4px)" }, to: { opacity: "1", transform: "translateY(0)" } },
+        "slide-in": { from: { opacity: "0", transform: "translateX(8px)" }, to: { opacity: "1", transform: "translateX(0)" } },
+        "soft-pulse": { "0%,100%": { opacity: "1" }, "50%": { opacity: "0.45" } },
+        "caret-blink": { "0%,100%": { opacity: "1" }, "50%": { opacity: "0" } },
+      },
+      animation: {
+        "fade-in": "fade-in 0.28s ease both",
+        "slide-in": "slide-in 0.3s ease both",
+        "soft-pulse": "soft-pulse 1.6s ease-in-out infinite",
+        "caret-blink": "caret-blink 1s step-end infinite",
+      },
+    },
+  },
+  plugins: [],
+} satisfies Config;

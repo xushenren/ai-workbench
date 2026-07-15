@@ -1,1 +1,44 @@
-IyBjb25maWcvZG9tYWluX2d1YXJkcy55YW1sCiMgUGxhbmUtMCDpoobln5/nrKzlm5vlsYLmiqTmoI/vvIjlj6ror7vmjILovb0gOnJv77yJ44CC5a+554WnIHNlY3VyZWd1YXJkL2wxX2dhdGUucHkg55qEIERvbWFpbkd1YXJkIOWtkOexu+OAggp2ZXJzaW9uOiAxCnBsYW5lOiAwCm11dGFibGVfYnlfcmVmaW5lcjogZmFsc2UKCmRvbWFpbnM6CiAgc29mdHdhcmU6ICAgICAgICAgICAjIMKnMi4xIOi9r+S7ti/lkI7nq68KICAgIHRpZXI6IERPTUFJTl9HVUFSRAogICAgcnVsZXM6CiAgICAgIC0g54q25oCB5Y+Y5pu06YOo572y6ZyAIOW5guetieaApyArIOWbnua7muaWueahiCArIOW3sua1iyBkb3duLW1pZ3JhdGlvbu+8iOS4iee8uuS4gCBCTE9DS++8iQogICAgICAtIHNjaGVtYSBtaWdyYXRpb24g6buY6K6k5oyJ5LiN5Y+v6YCG5aSE55CG77yM6ZyA5bey5rWL6YCG5ZCR6ISa5pysCiAgICAgIC0g56C05Z2P5oCnIEFQSSDlj5jmm7TpnIDmmL7lvI/moIfms6ggYnJlYWtpbmcg5bm26LWwIFIyCiAgZGF0YV9tbDogICAgICAgICAgICAjIMKnMi4yIOaVsOaNri9NTAogICAgdGllcjogRE9NQUlOX0dVQVJECiAgICBydWxlczoKICAgICAgLSDorq3nu4PmlbDmja7pnIAgcHJvdmVuYW5jZe+8jOe8uuWksSBCTE9DSwogICAgICAtIOajgOWHuiBQSUkg5pyq6ISx5pWP5YiZ56aB5q2i5Y6f5paH5aSW5rWBCiAgICAgIC0g5qih5Z6L5LiK57q/6K+E5Lyw6ZeoIERlZmF1bHQtRkFJTO+8jOaXoOivhOS8sOe7k+aenOS4jeW+lyBkZXBsb3kKICAgICAgLSDnpoHmraLpnZnpu5jnsr7luqbpmY3nuqcKICBpbmZyYXN0cnVjdHVyZTogICAgICMgwqcyLjMg5Z+656GA6K6+5pa9L0Rldk9wcwogICAgdGllcjogRE9NQUlOX0dVQVJECiAgICBydWxlczoKICAgICAgLSDlj5jmm7TpnIDniIbngrjljYrlvoTkvLDnrpfvvIznvLrlpLEgQVNLCiAgICAgIC0g56aB5q2i57uV6L+HIElhQyDnmoTmiYvlt6Xnur/kuIrmlLnliqgKICAgICAgLSDnqpflj6PlpJbnlJ/kuqflj5jmm7QgPSBSMgogIHNjaWVudGlmaWM6ICAgICAgICAgIyDCpzIuNCDnp5HlraborqHnrpcKICAgIHRpZXI6IERPTUFJTl9HVUFSRAogICAgcnVsZXM6CiAgICAgIC0g5Y+v5aSN546w6Zeo77ya56eN5a2Q5Zu65a6aICsg546v5aKD6ZSB5a6aICsg5Y2V5L2N5LiA6Ie0CiAgICAgIC0g6Leo5Y2V5L2N6L+Q566X6ZyA6YeP57qy5qCh6aqMCiAgICAgIC0g5pS25pWb5aOw5piO6ZyA5p2h5Lu25pWwL+aUtuaVm+WIpOaNrgogIGVtYmVkZGVkOiAgICAgICAgICAgIyDCpzIuNSDltYzlhaXlvI8v56Gs5Lu2CiAgICB0aWVyOiBET01BSU5fR1VBUkQKICAgIHJ1bGVzOgogICAgICAtIOemgeatouemgeeUqOeJqeeQhuWuieWFqOiBlOmUgQogICAgICAtIOWIt+WGmeehrOS7tuWJjemcgCBISUwg5rWL6K+VCiAgICAgIC0g5LiN5Y+v6YCG54mp55CG5Yqo5L2cID0gUjIKICBzZWN1cml0eTogICAgICAgICAgICMgwqcyLjYg5a6J5YWo5pWP5oSf77yI5qiq5YiH77yJCiAgICB0aWVyOiBTRUNVUklUWV9DT05UUk9MICAgIyDlronlhajmjqfliLblsZ7pmLbmoq8gTDLvvIzpq5jkuo7kuIDoiKzpoobln5/miqTmoI8KICAgIHJ1bGVzOgogICAgICAtIOWuieWFqOWKn+iDveWunueOsOWJjemcgOWogeiDgeW7uuaooQogICAgICAtIOS4jeiHqumAoOWvhueggeWtpu+8jOW/hemhu+eUqOWuoeiuoei/h+eahOW6kwogICAgICAtIOWvhumSpeS7hee7j+S/nemZqeW6k++8jOemgeatouaYjuaWh+iQveebmC9WQ1Mv5pel5b+XCg==
+# config/domain_guards.yaml
+# Plane-0 领域第四层护栏（只读挂载 :ro）。对照 secureguard/l1_gate.py 的 DomainGuard 子类。
+version: 1
+plane: 0
+mutable_by_refiner: false
+
+domains:
+  software:           # §2.1 软件/后端
+    tier: DOMAIN_GUARD
+    rules:
+      - 状态变更部署需 幂等性 + 回滚方案 + 已测 down-migration（三缺一 BLOCK）
+      - schema migration 默认按不可逆处理，需已测逆向脚本
+      - 破坏性 API 变更需显式标注 breaking 并走 R2
+  data_ml:            # §2.2 数据/ML
+    tier: DOMAIN_GUARD
+    rules:
+      - 训练数据需 provenance，缺失 BLOCK
+      - 检出 PII 未脱敏则禁止原文外流
+      - 模型上线评估门 Default-FAIL，无评估结果不得 deploy
+      - 禁止静默精度降级
+  infrastructure:     # §2.3 基础设施/DevOps
+    tier: DOMAIN_GUARD
+    rules:
+      - 变更需爆炸半径估算，缺失 ASK
+      - 禁止绕过 IaC 的手工线上改动
+      - 窗口外生产变更 = R2
+  scientific:         # §2.4 科学计算
+    tier: DOMAIN_GUARD
+    rules:
+      - 可复现门：种子固定 + 环境锁定 + 单位一致
+      - 跨单位运算需量纲校验
+      - 收敛声明需条件数/收敛判据
+  embedded:           # §2.5 嵌入式/硬件
+    tier: DOMAIN_GUARD
+    rules:
+      - 禁止禁用物理安全联锁
+      - 刷写硬件前需 HIL 测试
+      - 不可逆物理动作 = R2
+  security:           # §2.6 安全敏感（横切）
+    tier: SECURITY_CONTROL   # 安全控制属阶梯 L2，高于一般领域护栏
+    rules:
+      - 安全功能实现前需威胁建模
+      - 不自造密码学，必须用审计过的库
+      - 密钥仅经保险库，禁止明文落盘/VCS/日志

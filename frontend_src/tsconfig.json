@@ -1,1 +1,24 @@
-ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAidGFyZ2V0IjogIkVTMjAyMCIsCiAgICAidXNlRGVmaW5lRm9yQ2xhc3NGaWVsZHMiOiB0cnVlLAogICAgImxpYiI6IFsiRVMyMDIwIiwgIkRPTSIsICJET00uSXRlcmFibGUiXSwKICAgICJtb2R1bGUiOiAiRVNOZXh0IiwKICAgICJza2lwTGliQ2hlY2siOiB0cnVlLAogICAgIm1vZHVsZVJlc29sdXRpb24iOiAiYnVuZGxlciIsCiAgICAiYWxsb3dJbXBvcnRpbmdUc0V4dGVuc2lvbnMiOiB0cnVlLAogICAgInJlc29sdmVKc29uTW9kdWxlIjogdHJ1ZSwKICAgICJpc29sYXRlZE1vZHVsZXMiOiB0cnVlLAogICAgIm1vZHVsZURldGVjdGlvbiI6ICJmb3JjZSIsCiAgICAibm9FbWl0IjogdHJ1ZSwKICAgICJqc3giOiAicmVhY3QtanN4IiwKICAgICJzdHJpY3QiOiB0cnVlLAogICAgIm5vVW51c2VkTG9jYWxzIjogdHJ1ZSwKICAgICJub1VudXNlZFBhcmFtZXRlcnMiOiB0cnVlLAogICAgIm5vRmFsbHRocm91Z2hDYXNlc0luU3dpdGNoIjogdHJ1ZSwKICAgICJiYXNlVXJsIjogIi4iLAogICAgInBhdGhzIjogeyAiQC8qIjogWyIuL3NyYy8qIl0gfQogIH0sCiAgImluY2x1ZGUiOiBbInNyYyJdLAogICJyZWZlcmVuY2VzIjogW3sgInBhdGgiOiAiLi90c2NvbmZpZy5ub2RlLmpzb24iIH1dCn0K
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "baseUrl": ".",
+    "paths": { "@/*": ["./src/*"] }
+  },
+  "include": ["src"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

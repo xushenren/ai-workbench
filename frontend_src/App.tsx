@@ -1,1 +1,59 @@
-Ly8g6Lev55SxICsg6Ym05p2D5a6I5Y2r44CC5pyq55m75b2V6K6/6Zeu5Y+X5L+d5oqk6aG1IOKGkiDot7MgL2xvZ2lu77ybL2xvZ2lu44CBL3JlZ2lzdGVyIOWFrOW8gOOAggovLyDop5LoibLlrojljavvvJpyb2xlcyDmjIflrprlkI7vvIzpnZ7or6Xop5LoibIg4oaSIOi3syAvY2hhdO+8iOiBjOi0o+WIhuemu++8mueUqOaIt+euoeeQhj1hZG1pbuOAgeWuoeiuoT1hdWRpdG9y77yJ44CCCmltcG9ydCB7IEJyb3dzZXJSb3V0ZXIsIFJvdXRlcywgUm91dGUsIE5hdmlnYXRlIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CmltcG9ydCB7IHVzZVN0YXRlLCB0eXBlIFJlYWN0Tm9kZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgTGF5b3V0IH0gZnJvbSAiQC9jb21wb25lbnRzL0xheW91dCI7CmltcG9ydCB7IENoYXRWaWV3IH0gZnJvbSAiQC9wYWdlcy9DaGF0VmlldyI7CmltcG9ydCB7IEFnZW50U3RvcmUgfSBmcm9tICJAL3BhZ2VzL0FnZW50U3RvcmUiOwppbXBvcnQgeyBLbm93bGVkZ2VCYXNlVmlldyB9IGZyb20gIkAvcGFnZXMvS25vd2xlZGdlQmFzZVZpZXciOwppbXBvcnQgeyBBZG1pblBhbmVsIH0gZnJvbSAiQC9wYWdlcy9BZG1pblBhbmVsIjsKaW1wb3J0IHsgT3JnQWRtaW5WaWV3IH0gZnJvbSAiQC9wYWdlcy9PcmdBZG1pblZpZXciOwppbXBvcnQgeyBBZG1pbkJyYW5kaW5nUGFuZWwgfSBmcm9tICJAL3BhZ2VzL0FkbWluQnJhbmRpbmdQYW5lbCI7CmltcG9ydCB7IE1vZGVsc1ZpZXcgfSBmcm9tICJAL3BhZ2VzL01vZGVsc1ZpZXciOwppbXBvcnQgeyBVc2VyQWRtaW5WaWV3IH0gZnJvbSAiQC9wYWdlcy9Vc2VyQWRtaW5WaWV3IjsKaW1wb3J0IHsgQXVkaXRWaWV3IH0gZnJvbSAiQC9wYWdlcy9BdWRpdFZpZXciOwppbXBvcnQgeyBFdm9sdXRpb25WaWV3IH0gZnJvbSAiQC9wYWdlcy9Fdm9sdXRpb25WaWV3IjsKaW1wb3J0IHsgTG9naW5QYWdlIH0gZnJvbSAiQC9wYWdlcy9Mb2dpblBhZ2UiOwppbXBvcnQgeyBSZWdpc3RlclBhZ2UgfSBmcm9tICJAL3BhZ2VzL1JlZ2lzdGVyUGFnZSI7CmltcG9ydCB7IHVzZUF1dGhTdG9yZSB9IGZyb20gIkAvc3RvcmVzL3VzZUF1dGhTdG9yZSI7CmltcG9ydCB7IEZpcnN0UnVuQ29sb3JQaWNrZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvRmlyc3RSdW5Db2xvclBpY2tlciI7CmltcG9ydCB7IEJyYW5kaW5nUHJvdmlkZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvQnJhbmRpbmdQcm92aWRlciI7CmltcG9ydCB7IGlzT25ib2FyZGVkIH0gZnJvbSAiQC9saWIvYWNjZW50VGhlbWUiOwppbXBvcnQgdHlwZSB7IFJvbGUgfSBmcm9tICJAL3R5cGVzIjsKCi8qKiDlj5fkv53miqTot6/nlLHvvJrmnKrnmbvlvZUg4oaSIC9sb2dpbu+8m+aMh+WumiByb2xlcyDlkI7pnZ7or6Xop5LoibIg4oaSIC9jaGF044CCICovCmZ1bmN0aW9uIFJlcXVpcmVBdXRoKHsgY2hpbGRyZW4sIHJvbGVzIH06IHsgY2hpbGRyZW46IFJlYWN0Tm9kZTsgcm9sZXM/OiBSb2xlW10gfSkgewogIGNvbnN0IHVzZXIgPSB1c2VBdXRoU3RvcmUoKHMpID0+IHMudXNlcik7CiAgY29uc3QgYXV0aGVkID0gdXNlQXV0aFN0b3JlKChzKSA9PiBzLmlzQXV0aGVkKCkpOwogIGlmICghYXV0aGVkKSByZXR1cm4gPE5hdmlnYXRlIHRvPSIvbG9naW4iIHJlcGxhY2UgLz47CiAgaWYgKHJvbGVzICYmICghdXNlciB8fCAhcm9sZXMuaW5jbHVkZXModXNlci5yb2xlKSkpIHJldHVybiA8TmF2aWdhdGUgdG89Ii9jaGF0IiByZXBsYWNlIC8+OwogIHJldHVybiA8TGF5b3V0PntjaGlsZHJlbn08L0xheW91dD47Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFwcCgpIHsKICBjb25zdCBhdXRoZWQgPSB1c2VBdXRoU3RvcmUoKHMpID0+IHMuaXNBdXRoZWQoKSk7CiAgY29uc3QgW3Nob3dQaWNrZXIsIHNldFNob3dQaWNrZXJdID0gdXNlU3RhdGUoKCkgPT4gIWlzT25ib2FyZGVkKCkpOwogIHJldHVybiAoCiAgICA8QnJvd3NlclJvdXRlciBiYXNlbmFtZT0iL2FwcCI+CiAgICAgIHthdXRoZWQgJiYgc2hvd1BpY2tlciAmJiA8Rmlyc3RSdW5Db2xvclBpY2tlciBvbkRvbmU9eygpID0+IHNldFNob3dQaWNrZXIoZmFsc2UpfSAvPn0KICAgICAgPEJyYW5kaW5nUHJvdmlkZXI+CiAgICAgIDxSb3V0ZXM+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii9sb2dpbiIgZWxlbWVudD17PExvZ2luUGFnZSAvPn0gLz4KICAgICAgICA8Um91dGUgcGF0aD0iL3JlZ2lzdGVyIiBlbGVtZW50PXs8UmVnaXN0ZXJQYWdlIC8+fSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvY2hhdCIgZWxlbWVudD17PFJlcXVpcmVBdXRoPjxDaGF0VmlldyAvPjwvUmVxdWlyZUF1dGg+fSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvYWdlbnRzIiBlbGVtZW50PXs8UmVxdWlyZUF1dGg+PEFnZW50U3RvcmUgLz48L1JlcXVpcmVBdXRoPn0gLz4KICAgICAgICA8Um91dGUgcGF0aD0iL2tiIiBlbGVtZW50PXs8UmVxdWlyZUF1dGg+PEtub3dsZWRnZUJhc2VWaWV3IC8+PC9SZXF1aXJlQXV0aD59IC8+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgZWxlbWVudD17PFJlcXVpcmVBdXRoIHJvbGVzPXtbImFkbWluIl19PjxBZG1pblBhbmVsIC8+PC9SZXF1aXJlQXV0aD59IC8+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii9vcmciIGVsZW1lbnQ9ezxSZXF1aXJlQXV0aCByb2xlcz17WyJhZG1pbiJdfT48T3JnQWRtaW5WaWV3IC8+PC9SZXF1aXJlQXV0aD59IC8+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii91c2VycyIgZWxlbWVudD17PFJlcXVpcmVBdXRoIHJvbGVzPXtbImFkbWluIl19PjxVc2VyQWRtaW5WaWV3IC8+PC9SZXF1aXJlQXV0aD59IC8+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii9tb2RlbHMiIGVsZW1lbnQ9ezxSZXF1aXJlQXV0aCByb2xlcz17WyJhZG1pbiJdfT48TW9kZWxzVmlldyAvPjwvUmVxdWlyZUF1dGg+fSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvYnJhbmRpbmciIGVsZW1lbnQ9ezxSZXF1aXJlQXV0aCByb2xlcz17WyJhZG1pbiJdfT48QWRtaW5CcmFuZGluZ1BhbmVsIC8+PC9SZXF1aXJlQXV0aD59IC8+CiAgICAgICAgPFJvdXRlIHBhdGg9Ii9hdWRpdCIgZWxlbWVudD17PFJlcXVpcmVBdXRoIHJvbGVzPXtbImF1ZGl0b3IiXX0+PEF1ZGl0VmlldyAvPjwvUmVxdWlyZUF1dGg+fSAvPgogICAgICAgIDxSb3V0ZSBwYXRoPSIvZXZvbHV0aW9uIiBlbGVtZW50PXs8UmVxdWlyZUF1dGggcm9sZXM9e1siYWRtaW4iXX0+PEV2b2x1dGlvblZpZXcgLz48L1JlcXVpcmVBdXRoPn0gLz4KICAgICAgICB7Lyog6buY6K6k77ya5bey55m75b2V4oaSL2NoYXTvvIzmnKrnmbvlvZXihpIvbG9naW4gKi99CiAgICAgICAgPFJvdXRlIHBhdGg9IioiIGVsZW1lbnQ9ezxOYXZpZ2F0ZSB0bz17YXV0aGVkID8gIi9jaGF0IiA6ICIvbG9naW4ifSByZXBsYWNlIC8+fSAvPgogICAgICA8L1JvdXRlcz4KICAgICAgPC9CcmFuZGluZ1Byb3ZpZGVyPgogICAgPC9Ccm93c2VyUm91dGVyPgogICk7Cn0K
+// 路由 + 鉴权守卫。未登录访问受保护页 → 跳 /login；/login、/register 公开。
+// 角色守卫：roles 指定后，非该角色 → 跳 /chat（职责分离：用户管理=admin、审计=auditor）。
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { useState, type ReactNode } from "react";
+import { Layout } from "@/components/Layout";
+import { ChatView } from "@/pages/ChatView";
+import { AgentStore } from "@/pages/AgentStore";
+import { KnowledgeBaseView } from "@/pages/KnowledgeBaseView";
+import { AdminPanel } from "@/pages/AdminPanel";
+import { OrgAdminView } from "@/pages/OrgAdminView";
+import { AdminBrandingPanel } from "@/pages/AdminBrandingPanel";
+import { ModelsView } from "@/pages/ModelsView";
+import { UserAdminView } from "@/pages/UserAdminView";
+import { AuditView } from "@/pages/AuditView";
+import { EvolutionView } from "@/pages/EvolutionView";
+import { LoginPage } from "@/pages/LoginPage";
+import { RegisterPage } from "@/pages/RegisterPage";
+import { useAuthStore } from "@/stores/useAuthStore";
+import { FirstRunColorPicker } from "@/components/FirstRunColorPicker";
+import { BrandingProvider } from "@/components/BrandingProvider";
+import { isOnboarded } from "@/lib/accentTheme";
+import type { Role } from "@/types";
+
+/** 受保护路由：未登录 → /login；指定 roles 后非该角色 → /chat。 */
+function RequireAuth({ children, roles }: { children: ReactNode; roles?: Role[] }) {
+  const user = useAuthStore((s) => s.user);
+  const authed = useAuthStore((s) => s.isAuthed());
+  if (!authed) return <Navigate to="/login" replace />;
+  if (roles && (!user || !roles.includes(user.role))) return <Navigate to="/chat" replace />;
+  return <Layout>{children}</Layout>;
+}
+
+export default function App() {
+  const authed = useAuthStore((s) => s.isAuthed());
+  const [showPicker, setShowPicker] = useState(() => !isOnboarded());
+  return (
+    <BrowserRouter basename="/app">
+      {authed && showPicker && <FirstRunColorPicker onDone={() => setShowPicker(false)} />}
+      <BrandingProvider>
+      <Routes>
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/register" element={<RegisterPage />} />
+        <Route path="/chat" element={<RequireAuth><ChatView /></RequireAuth>} />
+        <Route path="/agents" element={<RequireAuth><AgentStore /></RequireAuth>} />
+        <Route path="/kb" element={<RequireAuth><KnowledgeBaseView /></RequireAuth>} />
+        <Route path="/admin" element={<RequireAuth roles={["admin"]}><AdminPanel /></RequireAuth>} />
+        <Route path="/org" element={<RequireAuth roles={["admin"]}><OrgAdminView /></RequireAuth>} />
+        <Route path="/users" element={<RequireAuth roles={["admin"]}><UserAdminView /></RequireAuth>} />
+        <Route path="/models" element={<RequireAuth roles={["admin"]}><ModelsView /></RequireAuth>} />
+        <Route path="/branding" element={<RequireAuth roles={["admin"]}><AdminBrandingPanel /></RequireAuth>} />
+        <Route path="/audit" element={<RequireAuth roles={["auditor"]}><AuditView /></RequireAuth>} />
+        <Route path="/evolution" element={<RequireAuth roles={["admin"]}><EvolutionView /></RequireAuth>} />
+        {/* 默认：已登录→/chat，未登录→/login */}
+        <Route path="*" element={<Navigate to={authed ? "/chat" : "/login"} replace />} />
+      </Routes>
+      </BrandingProvider>
+    </BrowserRouter>
+  );
+}

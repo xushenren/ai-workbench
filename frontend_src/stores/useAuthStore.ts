@@ -1,1 +1,108 @@
-aW1wb3J0IHsgY3JlYXRlIH0gZnJvbSAienVzdGFuZCI7CmltcG9ydCB0eXBlIHsgUm9sZSB9IGZyb20gIkAvdHlwZXMiOwoKLyoqCiAqIOmJtOadgyBzdG9yZeOAguaMgeS5heWMluWGs+etlu+8mnRva2VuIOWtmCBsb2NhbFN0b3JhZ2XvvIjliLfmlrDkv53mjIHnmbvlvZXvvInigJTigJQKICog6L+Z5piv55yf5a6e5Y+v55So6Ym05p2D5rWB55qE5qCH5YeG5YGa5rOV77yMKirmnInmhI/lgY/nprsgc3BlYyDnrKwgNyDmnaEi5LiN55SoIGxvY2FsU3RvcmFnZSIqKgogKiDvvIjpgqPmnaHpkojlr7kgVUkg54q25oCB77yb5Lya6K+dIHRva2VuIOaYr+WFrOiupOS+i+Wklu+8ieOAguaDs+aUueWbnuWGheWtmOeJiO+8muaKiuS4i+mdoiBzdG9yYWdlIOivu+WGmeWIoOaOieWNs+WPr+OAggogKi8KCmV4cG9ydCBpbnRlcmZhY2UgQXV0aFVzZXIgewogIGlkOiBzdHJpbmc7CiAgcm9sZTogUm9sZTsKICBkZXB0X2lkOiBzdHJpbmcgfCBudWxsOwp9Cgpjb25zdCBUT0tFTl9LRVkgPSAiZWF3X3Rva2VuIjsKY29uc3QgVVNFUl9LRVkgPSAiZWF3X3VzZXIiOwoKZnVuY3Rpb24gbG9hZFRva2VuKCk6IHN0cmluZyB8IG51bGwgewogIHRyeSB7IHJldHVybiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShUT0tFTl9LRVkpOyB9IGNhdGNoIHsgcmV0dXJuIG51bGw7IH0KfQpmdW5jdGlvbiBsb2FkVXNlcigpOiBBdXRoVXNlciB8IG51bGwgewogIHRyeSB7CiAgICBjb25zdCByYXcgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShVU0VSX0tFWSk7CiAgICByZXR1cm4gcmF3ID8gKEpTT04ucGFyc2UocmF3KSBhcyBBdXRoVXNlcikgOiBudWxsOwogIH0gY2F0Y2ggeyByZXR1cm4gbnVsbDsgfQp9CmZ1bmN0aW9uIHBlcnNpc3QodG9rZW46IHN0cmluZyB8IG51bGwsIHVzZXI6IEF1dGhVc2VyIHwgbnVsbCk6IHZvaWQgewogIHRyeSB7CiAgICBpZiAodG9rZW4gJiYgdXNlcikgewogICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShUT0tFTl9LRVksIHRva2VuKTsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oVVNFUl9LRVksIEpTT04uc3RyaW5naWZ5KHVzZXIpKTsKICAgIH0gZWxzZSB7CiAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKFRPS0VOX0tFWSk7CiAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKFVTRVJfS0VZKTsKICAgIH0KICB9IGNhdGNoIHsgLyogbG9jYWxTdG9yYWdlIOS4jeWPr+eUqOaXtumAgOWMluS4uuWGheWtmOaAgSAqLyB9Cn0KCmNvbnN0IEJBU0UgPSAiL3YxIjsKCmludGVyZmFjZSBBdXRoU3RhdGUgewogIHRva2VuOiBzdHJpbmcgfCBudWxsOwogIHVzZXI6IEF1dGhVc2VyIHwgbnVsbDsKICBsb2FkaW5nOiBib29sZWFuOwogIGVycm9yOiBzdHJpbmc7CgogIGlzQXV0aGVkOiAoKSA9PiBib29sZWFuOwogIGxvZ2luOiAocGhvbmU6IHN0cmluZywgcGFzc3dvcmQ6IHN0cmluZykgPT4gUHJvbWlzZTxib29sZWFuPjsKICByZWdpc3RlcjogKHBob25lOiBzdHJpbmcsIHBhc3N3b3JkOiBzdHJpbmcpID0+IFByb21pc2U8Ym9vbGVhbj47CiAgbG9nb3V0OiAoKSA9PiB2b2lkOwp9Cgphc3luYyBmdW5jdGlvbiBhdXRoUmVxdWVzdChwYXRoOiBzdHJpbmcsIHBob25lOiBzdHJpbmcsIHBhc3N3b3JkOiBzdHJpbmcpIHsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtCQVNFfSR7cGF0aH1gLCB7CiAgICBtZXRob2Q6ICJQT1NUIiwKICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiB9LAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBwaG9uZSwgcGFzc3dvcmQgfSksCiAgfSk7CiAgY29uc3QgZGF0YSA9IGF3YWl0IHJlcy5qc29uKCkuY2F0Y2goKCkgPT4gKHt9KSk7CiAgaWYgKCFyZXMub2spIHRocm93IG5ldyBFcnJvcihkYXRhLmRldGFpbCB8fCAi6K+35rGC5aSx6LSlIik7CiAgcmV0dXJuIGRhdGEgYXMgeyB0b2tlbjogc3RyaW5nOyB1c2VyOiBBdXRoVXNlciB9Owp9CgpleHBvcnQgY29uc3QgdXNlQXV0aFN0b3JlID0gY3JlYXRlPEF1dGhTdGF0ZT4oKHNldCwgZ2V0KSA9PiAoewogIHRva2VuOiBsb2FkVG9rZW4oKSwKICB1c2VyOiBsb2FkVXNlcigpLAogIGxvYWRpbmc6IGZhbHNlLAogIGVycm9yOiAiIiwKCiAgaXNBdXRoZWQ6ICgpID0+IEJvb2xlYW4oZ2V0KCkudG9rZW4pLAoKICBsb2dpbjogYXN5bmMgKHBob25lLCBwYXNzd29yZCkgPT4gewogICAgc2V0KHsgbG9hZGluZzogdHJ1ZSwgZXJyb3I6ICIiIH0pOwogICAgdHJ5IHsKICAgICAgY29uc3QgeyB0b2tlbiwgdXNlciB9ID0gYXdhaXQgYXV0aFJlcXVlc3QoIi9hdXRoL2xvZ2luIiwgcGhvbmUsIHBhc3N3b3JkKTsKICAgICAgcGVyc2lzdCh0b2tlbiwgdXNlcik7CiAgICAgIHNldCh7IHRva2VuLCB1c2VyLCBsb2FkaW5nOiBmYWxzZSB9KTsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIHNldCh7IGxvYWRpbmc6IGZhbHNlLCBlcnJvcjogKGUgYXMgRXJyb3IpLm1lc3NhZ2UgfHwgIueZu+W9leWksei0pSIgfSk7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KICB9LAoKICByZWdpc3RlcjogYXN5bmMgKHBob25lLCBwYXNzd29yZCkgPT4gewogICAgc2V0KHsgbG9hZGluZzogdHJ1ZSwgZXJyb3I6ICIiIH0pOwogICAgdHJ5IHsKICAgICAgY29uc3QgeyB0b2tlbiwgdXNlciB9ID0gYXdhaXQgYXV0aFJlcXVlc3QoIi9hdXRoL3JlZ2lzdGVyIiwgcGhvbmUsIHBhc3N3b3JkKTsKICAgICAgcGVyc2lzdCh0b2tlbiwgdXNlcik7ICAgICAgICAgICAgLy8g5rOo5YaM5Y2z55m75b2VCiAgICAgIHNldCh7IHRva2VuLCB1c2VyLCBsb2FkaW5nOiBmYWxzZSB9KTsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIHNldCh7IGxvYWRpbmc6IGZhbHNlLCBlcnJvcjogKGUgYXMgRXJyb3IpLm1lc3NhZ2UgfHwgIuazqOWGjOWksei0pSIgfSk7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KICB9LAoKICBsb2dvdXQ6ICgpID0+IHsKICAgIHBlcnNpc3QobnVsbCwgbnVsbCk7CiAgICBzZXQoeyB0b2tlbjogbnVsbCwgdXNlcjogbnVsbCB9KTsKICB9LAp9KSk7CgovKiog57uZIFJFU1QvV1Mg5Y+W5b2T5YmNIHRva2Vu77yI6Z2eIFJlYWN0IOeOr+Wig+eUqO+8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gY3VycmVudFRva2VuKCk6IHN0cmluZyB8IG51bGwgewogIHJldHVybiB1c2VBdXRoU3RvcmUuZ2V0U3RhdGUoKS50b2tlbjsKfQo=
+import { create } from "zustand";
+import type { Role } from "@/types";
+
+/**
+ * 鉴权 store。持久化决策：token 存 localStorage（刷新保持登录）——
+ * 这是真实可用鉴权流的标准做法，**有意偏离 spec 第 7 条"不用 localStorage"**
+ * （那条针对 UI 状态；会话 token 是公认例外）。想改回内存版：把下面 storage 读写删掉即可。
+ */
+
+export interface AuthUser {
+  id: string;
+  role: Role;
+  dept_id: string | null;
+}
+
+const TOKEN_KEY = "eaw_token";
+const USER_KEY = "eaw_user";
+
+function loadToken(): string | null {
+  try { return localStorage.getItem(TOKEN_KEY); } catch { return null; }
+}
+function loadUser(): AuthUser | null {
+  try {
+    const raw = localStorage.getItem(USER_KEY);
+    return raw ? (JSON.parse(raw) as AuthUser) : null;
+  } catch { return null; }
+}
+function persist(token: string | null, user: AuthUser | null): void {
+  try {
+    if (token && user) {
+      localStorage.setItem(TOKEN_KEY, token);
+      localStorage.setItem(USER_KEY, JSON.stringify(user));
+    } else {
+      localStorage.removeItem(TOKEN_KEY);
+      localStorage.removeItem(USER_KEY);
+    }
+  } catch { /* localStorage 不可用时退化为内存态 */ }
+}
+
+const BASE = "/v1";
+
+interface AuthState {
+  token: string | null;
+  user: AuthUser | null;
+  loading: boolean;
+  error: string;
+
+  isAuthed: () => boolean;
+  login: (phone: string, password: string) => Promise<boolean>;
+  register: (phone: string, password: string) => Promise<boolean>;
+  logout: () => void;
+}
+
+async function authRequest(path: string, phone: string, password: string) {
+  const res = await fetch(`${BASE}${path}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ phone, password }),
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data.detail || "请求失败");
+  return data as { token: string; user: AuthUser };
+}
+
+export const useAuthStore = create<AuthState>((set, get) => ({
+  token: loadToken(),
+  user: loadUser(),
+  loading: false,
+  error: "",
+
+  isAuthed: () => Boolean(get().token),
+
+  login: async (phone, password) => {
+    set({ loading: true, error: "" });
+    try {
+      const { token, user } = await authRequest("/auth/login", phone, password);
+      persist(token, user);
+      set({ token, user, loading: false });
+      return true;
+    } catch (e) {
+      set({ loading: false, error: (e as Error).message || "登录失败" });
+      return false;
+    }
+  },
+
+  register: async (phone, password) => {
+    set({ loading: true, error: "" });
+    try {
+      const { token, user } = await authRequest("/auth/register", phone, password);
+      persist(token, user);            // 注册即登录
+      set({ token, user, loading: false });
+      return true;
+    } catch (e) {
+      set({ loading: false, error: (e as Error).message || "注册失败" });
+      return false;
+    }
+  },
+
+  logout: () => {
+    persist(null, null);
+    set({ token: null, user: null });
+  },
+}));
+
+/** 给 REST/WS 取当前 token（非 React 环境用）。 */
+export function currentToken(): string | null {
+  return useAuthStore.getState().token;
+}
